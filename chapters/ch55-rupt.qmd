@@ -1,0 +1,126 @@
+# rupt —— "断·裂·破"
+
+::: {.root-banner}
+rupt · rumpt = to break 破裂；断裂
+:::
+
+来源：拉丁语 *rumpere*（打断、使破裂），其过去分词 *ruptus* 是英语派生词的直接来源。*rumpere* 与古英语 *reofan*（撕裂）同属印欧语系词根 *\*reup-*，"猛力扯开"是其核心画面。
+
+::: {.etymo}
+**词源故事：那张被掰断的长凳**
+
+想象古罗马广场上，货币兑换商（*banchiere*）坐在一张窄长的木凳（拉丁语 *banca*，意大利语传入）后面做生意。当他资不抵债、无法兑现时，债主会冲上来把那张凳子当众掰断——这个仪式性的动作就叫 *banca rotta*，"断凳"。英语 **bankrupt** 从这里来：长凳断了，生意就完了。
+
+*rumpere* 的核心画面始终如一：**一股力量穿透阻力，制造一个断口**。火山把地壳撑破叫 *erupt*（e- = 向外）；有人从中间截断你的话叫 *interrupt*（inter- = 在之间）；腐败把社会结构从内部蛀断叫 *corrupt*（cor- = com- 完全渗透）。
+
+前缀换方向，根永远是同一个动作——这是拉丁派生词系统最值得利用的规律。记住 *rupt* = "断"，再看前缀指向哪里，词义自然浮现。
+:::
+
+### 前缀换方向，根不变
+
+拉丁根 *rupt* 本身不独立成词；是前缀决定了"从哪个方向断、断出什么结果"：
+
+| 前缀 | 方向／语义 | 代表词 |
+|------|-----------|--------|
+| **ab-** | 离开、截断 | abrupt（突然中断） |
+| **cor- / com-** | 完全、彻底 | corrupt（彻底腐坏） |
+| **dis-** | 分开、扰乱 | disrupt（拆散秩序） |
+| **e- / ex-** | 向外 | erupt（向外迸发） |
+| **inter-** | 在……之间 | interrupt（插入中断） |
+| **ir- / in-** | 向内 | irrupt（闯入） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [rupture]{.headword} | n./v. | `rupt`(断)+`-ure`(名词后缀) | 破裂；使破裂 | [高频]{.freq .freq-1} |
+| [erupt]{.headword} | v. | `e-`(出)+`rupt`(裂) | （火山）喷发；突然爆发 | [高频]{.freq .freq-1} |
+| [eruption]{.headword} | n. | `e-`(出)+`rupt`(裂)+`-ion` | 喷发；爆发；（皮肤）出疹 | [高频]{.freq .freq-1} |
+| [eruptive]{.headword} | adj. | `e-`(出)+`rupt`(裂)+`-ive` | 喷发性的；易爆发的 | [中频]{.freq .freq-2} |
+| [interrupt]{.headword} | v. | `inter-`(之间)+`rupt`(断) | 打断；中断 | [高频]{.freq .freq-1} |
+| [interruption]{.headword} | n. | `inter-`(之间)+`rupt`(断)+`-ion` | 打断；中断；间隔 | [高频]{.freq .freq-1} |
+| [interruptible]{.headword} | adj. | `inter-`+`rupt`+`-ible` | 可中断的 | [低频]{.freq .freq-3} |
+| [uninterrupted]{.headword} | adj. | `un-`+`inter-`+`rupt`+`-ed` | 不间断的；连续的 | [高频]{.freq .freq-1} |
+| [corrupt]{.headword} | v./adj. | `cor-`(完全)+`rupt`(断坏) | 使腐败；腐败的 | [高频]{.freq .freq-1} |
+| [corruption]{.headword} | n. | `cor-`(完全)+`rupt`(断坏)+`-ion` | 腐败；堕落；（文件）损坏 | [高频]{.freq .freq-1} |
+| [corruptible]{.headword} | adj. | `cor-`+`rupt`+`-ible`(能……的) | 可被腐化的 | [中频]{.freq .freq-2} |
+| [incorruptible]{.headword} | adj. | `in-`(不)+`cor-`+`rupt`+`-ible` | 廉洁不腐的；不会腐烂的 | [中频]{.freq .freq-2} |
+| [corruptly]{.headword} | adv. | `corrupt`+`-ly` | 腐败地 | [低频]{.freq .freq-3} |
+| [disrupt]{.headword} | v. | `dis-`(分开)+`rupt`(断) | 扰乱；使中断；颠覆 | [高频]{.freq .freq-1} |
+| [disruption]{.headword} | n. | `dis-`(分开)+`rupt`(断)+`-ion` | 扰乱；中断；颠覆性变革 | [高频]{.freq .freq-1} |
+| [disruptive]{.headword} | adj. | `dis-`+`rupt`+`-ive` | 破坏性的；颠覆性的 | [高频]{.freq .freq-1} |
+| [disruptor]{.headword} | n. | `dis-`+`rupt`+`-or`(施动者) | 颠覆者；扰乱者 | [中频]{.freq .freq-2} |
+| [abrupt]{.headword} | adj. | `ab-`(离开)+`rupt`(断) | 突然的；唐突的；陡峭的 | [高频]{.freq .freq-1} |
+| [abruptly]{.headword} | adv. | `abrupt`+`-ly` | 突然地；唐突地 | [高频]{.freq .freq-1} |
+| [abruptness]{.headword} | n. | `abrupt`+`-ness` | 突然；唐突；陡峭 | [中频]{.freq .freq-2} |
+| [bankrupt]{.headword} | adj./n./v. | `bank`(长凳)+`rupt`(断) | 破产的；使破产 | [高频]{.freq .freq-1} |
+| [bankruptcy]{.headword} | n. | `bankrupt`+`-cy`(状态) | 破产（状态）；彻底失败 | [高频]{.freq .freq-1} |
+| [irrupt]{.headword} | v. | `ir-`(向内)+`rupt`(断入) | 闯入；（种群）突然激增 | [低频]{.freq .freq-3} |
+| [irruption]{.headword} | n. | `ir-`+`rupt`+`-ion` | 闯入；（动物种群）爆炸性增长 | [低频]{.freq .freq-3} |
+| [rupee]{.headword} | n. | 梵语 *rūpya*（银） | 印度卢比（货币单位，非 rupt 派生，形似而义不同） | [中频]{.freq .freq-2} |
+| [rout]{.headword} | n./v. | 古法语 *route*←拉丁 *rupta*(被破的路) | 溃败；彻底击溃 | [中频]{.freq .freq-2} |
+| [route]{.headword} | n. | 同上 *rupta via*（开辟的道路） | 路线；路途 | [高频]{.freq .freq-1} |
+| [routine]{.headword} | n./adj. | `route`(路)+`-ine` | 惯例；常规；例行的 | [高频]{.freq .freq-1} |
+| [router]{.headword} | n. | `route`+`-er` | 路由器；开路工具 | [高频]{.freq .freq-1} |
+| [praerupt]{.headword} | adj. | `prae-`(在前)+`rupt`(断) | （古/诗）陡峭的；险峻的 | [低频]{.freq .freq-3} |
+| [corrupt file]{.headword} | phr. | `corrupt`(损坏的)+`file` | （计算机）损坏文件 | [高频]{.freq .freq-1} |
+| [disruptive technology]{.headword} | phr. | `disruptive`+`technology` | 颠覆性技术 | [高频]{.freq .freq-1} |
+| [moral corruption]{.headword} | phr. | `moral`+`corruption` | 道德腐败 | [高频]{.freq .freq-1} |
+| [volcanic eruption]{.headword} | phr. | `volcanic`+`eruption` | 火山喷发 | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The volcano **erupted** without warning, sending ash clouds thirty kilometres into the sky.（火山突然喷发，ash clouds 是"灰烬云"——e- 向外+rupt 裂，想象地壳被撑破）
+- A loud phone ring **interrupted** the professor mid-sentence, and he never quite found his train of thought again.（inter- 插入"之间"，把句子从中间断开）
+- The investigation exposed a deeply **corrupt** network of officials who had taken bribes for decades.（cor- 完全渗透，整个系统从内部蛀空）
+- The startup was celebrated as a **disruptive** force that rewired how consumers hailed a taxi.（disruptive 在商业语境里常是褒义，"颠覆旧秩序"）
+- The company filed for **bankruptcy** after its flagship product was recalled and revenue collapsed overnight.（banca rotta——那张被掰断的长凳，回忆广场上的画面）
+- She gave an **abrupt** nod and left the room without another word, leaving everyone confused.（ab- 离开，对话被斩断——没有过渡，突然终止）
+:::
+
+::: {.mnemonic}
+**助记**：画一张"前缀方向盘"——
+
+- **e-（出）** → 火山 erupt，力量向外喷
+- **inter-（之间）** → interrupt，楔子插进中间
+- **cor-（完全）** → corrupt，内部被彻底蛀空
+- **dis-（分开）** → disrupt，秩序被拆散
+- **ab-（离）** → abrupt，对话被截断离场
+- **ir-（进入）** → irrupt，强行破门而入
+
+核心图像：**一把斧头（rupt）**，前缀告诉你斧头从哪个方向劈下来。
+:::
+
+::: {.trap}
+**陷阱一：route / routine 不是"破坏"义**
+
+*route* 和 *routine* 字形上含 *rout-*，与 *rupt* 同源（均出自 *rupta via*，"被开辟/破开的道路"），但语义早已固化为"路线、惯例"，**不保留"断裂"义**。看到 *routine* 时不要往"破坏"上靠——这是有趣的历史趣闻，不是可推断的词义规律。
+
+**陷阱二：rupee（卢比）与 rupt 无关**
+
+印度货币 *rupee* 来自梵语 *rūpya*（银、铸币），拼写上的相似纯属巧合。词源不同，含义不同，不可类推。
+
+**陷阱三：abrupt 不等于 "angry"**
+
+中文常把 *abrupt* 译为"粗鲁的"，但其核心义是**突然、缺乏过渡**（对话/动作被截断），并不一定含有愤怒或敌意。*abrupt reply* 是"简短生硬的回答"，语气取决于语境，不能一律理解为情绪激动。
+:::
+
+::: {.review-today}
+**今日复习排程（第 55 章）**
+
+完成本章后，请回看以下章节以强化记忆：
+
+- **第 54 章**（上一章，趁热巩固）
+- **第 53 章**（间隔复习）
+- **第 51 章**（拉大间距，检验保留率）
+- **第 47 章**（中期回顾）
+- **第 39 章**（远期回顾，防止遗忘）
+
+**本章自测提示**：
+
+1. *erupt* 和 *irrupt* 都含 *rupt*，前缀方向相反——能说出各自的核心画面吗？
+2. 不看书，解释 *incorruptible* 的三个语素各贡献了什么意义。
+3. *bankrupt* 的词源故事里，哪个物品被"断"了？这个意象为什么帮助记忆"破产"义？
+4. *disruptive technology* 和 *corruption*——同一个根 *rupt*，为什么一个在商业语境里是中性甚至褒义词，另一个永远是贬义？
+:::

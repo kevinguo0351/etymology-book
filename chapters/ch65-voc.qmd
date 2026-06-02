@@ -1,0 +1,126 @@
+# voc / vok —— "声·叫·召"
+
+::: {.root-banner}
+voc · vok = *to call, to voice* 发声、呼叫、召唤
+:::
+
+来源：拉丁语 *vocare*（呼叫、召唤）及名词 *vox / vocis*（声音），与古希腊语 *ops*（声音）同属印欧语根 \*wekʷ-（说话）。
+
+::: {.etymo}
+**词源故事：神明的声音，君王的命令**
+
+拉丁语 *vox* 是罗马人日常生活里最有力量的词之一。法庭上，律师 *ad-vocat*（向法官呼叫、为当事人说话）；元老院里，执政官 *con-vocat* 全体元老（把所有人一起召来）；舞台上，演员的 *vox* 决定一场戏的成败。这个根从一开始就横跨法律、政治与艺术三界。
+
+进入英语时，*voc/vok* 带着拉丁语的全套前缀体系一同落地。前缀是方向的指示牌，而 *voc/vok* 永远是同一个动作——"召唤/发声"。*e-voke* 把记忆从内心深处召唤出来；*re-voke* 把已颁布的命令召回作废；*pro-voke* 向前推、逼对方发出反应；*in-voke* 向内呼叫、祈求神灵降临。前缀换方向，根不动。
+
+*vocation*（天职）背后藏着一个神学概念：上帝的"呼召"。中世纪教会认为人的职业不是自己选的，而是被神的声音叫去的。这层意思至今仍活在 *vocational school*（职业学校）和 *avocation*（业余爱好，字面意思是"从主业旁边被召走"）里。
+
+*vocabulary*（词汇）来自中世纪拉丁语 *vocabularium*，原意是"已被命名之物的清单"——每个单词，都是人类给世界万物发出的"召唤之声"。
+:::
+
+**前缀决定方向，根永远是"召唤/发声"这一个动作。**
+
+| 前缀 | 方向/含义 | 代表词 |
+|------|----------|--------|
+| *ad-*（→ *a-* / *ad-*）| 朝向、支持 | advocate |
+| *pro-* | 向前、激起 | provoke |
+| *re-* | 向回、撤销 | revoke |
+| *e- / ex-* | 向外、唤出 | evoke |
+| *in-* | 向内、祈求 | invoke |
+| *con-* | 共同、召集 | convoke |
+| *equi-* | 等量、两可 | equivocal |
+| *ab-*（→ *a-*）| 偏离主业 | avocation |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [vocal]{.headword} | adj. | `voc`(声)+`-al`(形容词) | 与声音有关的；直言不讳的 | [高频]{.freq .freq-1} |
+| [vocalist]{.headword} | n. | `voc`(声)+`-al`+`-ist`(人) | 歌手，主唱 | [高频]{.freq .freq-1} |
+| [vocalize]{.headword} | v. | `voc`(声)+`-al`+`-ize`(动词化) | 发声；把……唱出来 | [中频]{.freq .freq-2} |
+| [vocally]{.headword} | adv. | `vocal`+`-ly` | 用声音地；公开地 | [中频]{.freq .freq-2} |
+| [vocation]{.headword} | n. | `voc`(召)+`-ation`(名词) | 天职；职业；神的呼召 | [高频]{.freq .freq-1} |
+| [vocational]{.headword} | adj. | `vocation`+`-al` | 职业的，职业技能的 | [高频]{.freq .freq-1} |
+| [vocabulary]{.headword} | n. | `vocabul`(被命名之物)+`-ary`(集合名词) | 词汇；词汇量 | [高频]{.freq .freq-1} |
+| [vox]{.headword} | n. | `vox`(声音，拉丁原词) | 声音（常见于短语 *vox populi*） | [中频]{.freq .freq-2} |
+| [advocate]{.headword} | n./v. | `ad-`(朝向)+`voc`(叫)+`-ate` | 律师；倡导者；提倡 | [高频]{.freq .freq-1} |
+| [advocacy]{.headword} | n. | `advocat`+`-cy`(抽象名词) | 倡导；辩护活动 | [高频]{.freq .freq-1} |
+| [provoke]{.headword} | v. | `pro-`(向前)+`vok`(叫) | 激怒；激起；引发 | [高频]{.freq .freq-1} |
+| [provocative]{.headword} | adj. | `provok`+`-ative`(倾向于) | 挑衅性的；引人思考的 | [高频]{.freq .freq-1} |
+| [provocation]{.headword} | n. | `provok`+`-ation` | 激怒；挑衅；刺激因素 | [高频]{.freq .freq-1} |
+| [revoke]{.headword} | v. | `re-`(回)+`vok`(召) | 撤销；吊销（执照等） | [高频]{.freq .freq-1} |
+| [revocation]{.headword} | n. | `revok`+`-ation` | 撤销；废除 | [中频]{.freq .freq-2} |
+| [irrevocable]{.headword} | adj. | `ir-`(不)+`re-`(回)+`voc`(召)+`-able` | 不可撤销的；无法挽回的 | [高频]{.freq .freq-1} |
+| [irrevocably]{.headword} | adv. | `irrevocable`+`-ly` | 不可挽回地 | [中频]{.freq .freq-2} |
+| [evoke]{.headword} | v. | `e-`(出)+`vok`(召) | 唤起（记忆/情感）；引发 | [高频]{.freq .freq-1} |
+| [evocative]{.headword} | adj. | `evok`+`-ative` | 富于联想的；令人回忆的 | [中频]{.freq .freq-2} |
+| [evocation]{.headword} | n. | `evok`+`-ation` | 唤起；召唤（亡灵等） | [低频]{.freq .freq-3} |
+| [invoke]{.headword} | v. | `in-`(向内/对…)+`vok`(召) | 援引（法律）；祈求；调用 | [高频]{.freq .freq-1} |
+| [invocation]{.headword} | n. | `invok`+`-ation` | 祈祷；援引；程序调用 | [中频]{.freq .freq-2} |
+| [convoke]{.headword} | v. | `con-`(共同)+`vok`(召) | 召集（会议） | [低频]{.freq .freq-3} |
+| [convocation]{.headword} | n. | `convok`+`-ation` | 召集；（大学）毕业典礼 | [中频]{.freq .freq-2} |
+| [equivocal]{.headword} | adj. | `equi-`(等量)+`voc`(声)+`-al` | 模棱两可的；含义不明的 | [高频]{.freq .freq-1} |
+| [equivocate]{.headword} | v. | `equi-`(等)+`voc`(声)+`-ate` | 故意含糊其辞；搪塞 | [中频]{.freq .freq-2} |
+| [equivocation]{.headword} | n. | `equivocat`+`-ion` | 含糊其辞；遁词 | [中频]{.freq .freq-2} |
+| [unequivocal]{.headword} | adj. | `un-`(不)+`equivocal` | 明确无误的；毫不含糊的 | [高频]{.freq .freq-1} |
+| [vociferous]{.headword} | adj. | `voc`(声)+`-i-`+`fer`(带来)+`-ous` | 叫嚣的；嗷嗷叫的；喧嚷的 | [中频]{.freq .freq-2} |
+| [vociferously]{.headword} | adv. | `vociferous`+`-ly` | 喧嚣地；大声抗议地 | [中频]{.freq .freq-2} |
+| [avocation]{.headword} | n. | `a-`(*ab-*，偏离)+`voc`(召)+`-ation` | 业余爱好（从天职旁被召走之事） | [低频]{.freq .freq-3} |
+| [univocal]{.headword} | adj. | `uni-`(单一)+`voc`(声)+`-al` | 只有一种含义的；单义的 | [低频]{.freq .freq-3} |
+| [irrevocably]{.headword} | adv. | `ir-`+`re-`+`voc`+`-ably` | 无可挽回地 | [中频]{.freq .freq-2} |
+| [provokingly]{.headword} | adv. | `provok`+`-ing`+`-ly` | 令人恼怒地 | [低频]{.freq .freq-3} |
+| [vocalic]{.headword} | adj. | `voc`+`-al`+`-ic` | 元音的（语言学用语） | [低频]{.freq .freq-3} |
+| [vocalism]{.headword} | n. | `vocal`+`-ism` | 发声法；元音系统 | [低频]{.freq .freq-3} |
+| [voice]{.headword} | n./v. | 经古法语 *voiz* 自 *vox* | 声音；表达（观点） | [高频]{.freq .freq-1} |
+| [voiceless]{.headword} | adj. | `voice`+`-less` | 无声的；无权发言的 | [高频]{.freq .freq-1} |
+| [voiced]{.headword} | adj. | `voice`+`-d` | （音韵）有声的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- She was **vocal** in her opposition to the new policy, speaking at every town hall meeting.（*vocal* 此处是"直言不讳的"，不单是"嗓音的"）
+- The smell of old books always **evokes** memories of her grandmother's library.（*evoke* = 把记忆从内心深处召唤出来）
+- His reckless tweet **provoked** a storm of criticism that lasted for weeks.（*provoke* = 向前推出一个强烈反应）
+- The court **revoked** his driving licence after the third offence, an **irrevocable** blow to his career.（*revoke* 撤销，*irrevocable* 此处带修辞夸张）
+- The lawyer **invoked** the Fifth Amendment, refusing to answer any further questions.（*invoke* = 援引法律条文，让它"进入"这个场景发挥效力）
+- When asked directly, the minister merely **equivocated**, offering two contradictory reassurances in the same breath.（*equivocate* = 发出两种等量的声音，即两边都说、两边都不算数）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想象成方向箭头，*vok/voc* 是一个喇叭：
+
+- **e-voke**：箭头朝外 → 把情感从内心**召出**
+- **in-voke**：箭头朝内 → 把神灵/法律**召入**当前场景
+- **pro-voke**：箭头向前 → **推着**对方开口、做反应
+- **re-voke**：箭头折返 → 把已发出的命令**召回**作废
+- **ad-vocate**：箭头朝向某人 → 对着法官大声**替人说话**
+- **con-voke**：多个箭头汇聚 → 把所有人**召到一起**
+- **equi-vocal**：两个等长箭头指向两边 → 声音两边等重，说不清楚
+
+只要记住"喇叭 + 方向"，整个家族迎刃而解。
+:::
+
+::: {.trap}
+**陷阱**：*vociferous*（叫嚣的）里藏着第二个根 *fer*（带来/携带，见第 49 章），字面是"带着声音冲出来"，与 *voc* 是复合根，**不是**单纯的 *voc* 派生词。认出这个词不需要记 *fer* 的来历，但如果你在陌生词里见到 *-fer-*，那是另一个根在工作。
+
+另外，英语 *voice* 虽然与 *vox* 同源（经由古法语 *voiz*），但在词形上与 *voc/vok* 已经分道扬镳。阅读时两条线索都有用，但分析词根时要区分"直接拉丁借词（*vocal, vocation*）"与"经法语演变词（*voice*）"这两条路径，不要把所有含 *voi-* 的词都往 *voc* 上靠。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 65 章）学完后，按以下顺序回看已学章节以巩固前缀体系与拉丁根网络：
+
+- **第 64 章** — 回顾上一章词根，注意与本章前缀的共用（*re-, in-, pro-* 等）
+- **第 63 章** — 对比另一个"行为/动作"类拉丁根，体会词根家族之间的相互支撑
+- **第 61 章** — 复习含 *con-* 前缀的一组词，与本章 *convoke / convocation* 形成呼应
+- **第 57 章** — 重温含 *ad-* 前缀词族，与本章 *advocate / advocacy* 相互印证
+- **第 49 章** — 复习词根 *fer*（携带），与本章 *vociferous* 里的隐藏根相关联
+
+**本章自测提示**：
+
+1. *irrevocable* 拆开三层前缀是什么？为什么它的字面意思就是"无法挽回"？
+2. *equivocal* 与 *unequivocal* 差一个前缀，语义却截然相反——你能用"两个喇叭"vs"一个喇叭"解释吗？
+3. 不看书，能不能把 *evoke / invoke / provoke / revoke / convoke* 这五个词各造一个例句，且让前缀方向感清晰可见？
+4. *vocation* 和 *avocation* 的区别是什么？*avocation* 的前缀 *a-*（来自 *ab-*）如何体现"偏离"？
+:::

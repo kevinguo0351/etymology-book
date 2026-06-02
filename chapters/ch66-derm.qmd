@@ -1,0 +1,130 @@
+# derm / dermato —— "皮"
+
+::: {.root-banner}
+derm · dermato = skin 皮肤；皮层
+:::
+
+来源：希腊语 **derma**（皮肤、兽皮），动词 **derein**（剥皮），原始印欧根 \*der-（撕裂、剥皮），与拉丁语 *corium*（皮革）同属"剥除外层"的语义族群。
+
+::: {.etymo}
+**词源故事：从剥兽皮到皮肤科**
+
+古希腊人的日常世界里，"皮"是一件非常具体的东西——猎人剥下猎物的兽皮，制革匠将生皮鞣成皮革，医生观察伤者皮肤判断病情。希腊语 *derma* 覆盖了所有这些用法，核心画面始终是那层隔开"内"与"外"的薄膜。
+
+当亚历山大时代的博学家开始给身体分层命名，*derma* 顺理成章地进入解剖学词汇。表皮（epi- "在上面" + derma）、真皮（dermis）、胚层（ecto-/endo-/meso-derm）——整套皮肤与胚胎学的分层体系，都用这个根搭建而成。
+
+十九世纪现代医学成型，皮肤病专科随之诞生，dermatology 成为正式科名。同一时期，博物馆的标本制作师也沿用了这个词根：taxidermy（排列皮）把猎物皮毛"编排"复原，让灰熊或老虎永久驻留玻璃展柜。
+
+从草原上的猎人到现代皮肤科诊室，*derm-* 这个音节穿越了三千年，始终指着同一样东西——那层薄薄的、包裹生命的皮。
+:::
+
+## 搭档根一览
+
+希腊根最擅长"拼搭"：*derm-* 几乎可以和所有表示位置、层次、学科的希腊前后缀自由组合，掌握搭档根，遇到新词就能即时拆解。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| epi- | 在……之上 | epidermis（表皮） |
+| hypo- | 在……之下 | hypodermic（皮下的） |
+| ecto- | 外侧 | ectoderm（外胚层） |
+| endo- | 内侧 | endoderm（内胚层） |
+| meso- | 中间 | mesoderm（中胚层） |
+| pachy- | 厚 | pachyderm（厚皮动物） |
+| taxi- / taxo- | 排列、处理 | taxidermy（剥制术） |
+| -itis | 炎症 | dermatitis（皮炎） |
+| -ology | ……学 | dermatology（皮肤病学） |
+| trans- | 穿越、透过 | transdermal（透皮的） |
+| -plasty | 整形、重塑 | dermatoplasty（皮肤成形术） |
+| sclero- | 硬 | scleroderma（硬皮病） |
+| leuko- | 白 | leukoderma（白斑病） |
+| melano- | 黑色素 | melanoderma（黑皮症） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [dermis]{.headword} | n. | `derm`(皮)+`-is`(名词尾) | 真皮层（表皮之下） | [高频]{.freq .freq-1} |
+| [dermal]{.headword} | adj. | `derm`(皮)+`-al`(形容词尾) | 皮肤的；真皮的 | [高频]{.freq .freq-1} |
+| [dermatology]{.headword} | n. | `dermato`(皮)+`-logy`(学) | 皮肤病学 | [高频]{.freq .freq-1} |
+| [dermatologist]{.headword} | n. | `dermato`(皮)+`-logist`(专家) | 皮肤科医生 | [高频]{.freq .freq-1} |
+| [epidermis]{.headword} | n. | `epi-`(在上)+`derm`(皮)+`-is` | 表皮；（植物）外皮层 | [高频]{.freq .freq-1} |
+| [epidermal]{.headword} | adj. | `epi-`(在上)+`derm`(皮)+`-al` | 表皮的 | [中频]{.freq .freq-2} |
+| [hypodermic]{.headword} | adj./n. | `hypo-`(下)+`derm`(皮)+`-ic` | 皮下的；皮下注射（针） | [高频]{.freq .freq-1} |
+| [transdermal]{.headword} | adj. | `trans-`(穿越)+`derm`(皮)+`-al` | 透皮的；经皮吸收的 | [中频]{.freq .freq-2} |
+| [dermatitis]{.headword} | n. | `dermato`(皮)+`-itis`(炎) | 皮炎；皮肤炎症 | [高频]{.freq .freq-1} |
+| [eczema / dermatitis]{.headword} | — | — | 临床常见同义对，见陷阱框 | — |
+| [taxidermy]{.headword} | n. | `taxi-`(排列处理)+`derm`(皮)+`-y` | 标本剥制术；动物标本制作 | [中频]{.freq .freq-2} |
+| [taxidermist]{.headword} | n. | `taxi-`(排列)+`derm`(皮)+`-ist` | 标本剥制师 | [中频]{.freq .freq-2} |
+| [pachyderm]{.headword} | n. | `pachy-`(厚)+`derm`(皮) | 厚皮动物（象、犀等）；（俚）迟钝的人 | [中频]{.freq .freq-2} |
+| [pachydermatous]{.headword} | adj. | `pachy-`(厚)+`dermat`(皮)+`-ous` | 皮肤厚的；（喻）迟钝的、无感觉的 | [低频]{.freq .freq-3} |
+| [ectoderm]{.headword} | n. | `ecto-`(外)+`derm`(皮/层) | 外胚层（胚胎发育三层之一） | [中频]{.freq .freq-2} |
+| [endoderm]{.headword} | n. | `endo-`(内)+`derm`(层) | 内胚层 | [中频]{.freq .freq-2} |
+| [mesoderm]{.headword} | n. | `meso-`(中间)+`derm`(层) | 中胚层 | [中频]{.freq .freq-2} |
+| [scleroderma]{.headword} | n. | `sclero-`(硬)+`derma`(皮) | 硬皮病（自身免疫病） | [中频]{.freq .freq-2} |
+| [leukoderma]{.headword} | n. | `leuko-`(白)+`derma`(皮) | 白斑病；色素脱失 | [低频]{.freq .freq-3} |
+| [melanoderma]{.headword} | n. | `melano-`(黑)+`derma`(皮) | 黑皮症；皮肤色素沉着 | [低频]{.freq .freq-3} |
+| [xeroderma]{.headword} | n. | `xero-`(干)+`derma`(皮) | 干皮症；皮肤干燥异常 | [低频]{.freq .freq-3} |
+| [dermatoplasty]{.headword} | n. | `dermato`(皮)+`-plasty`(成形) | 皮肤成形术；植皮手术 | [低频]{.freq .freq-3} |
+| [dermabrasion]{.headword} | n. | `derm`(皮)+`abrasion`(磨损) | 皮肤磨削术（美容去疤） | [中频]{.freq .freq-2} |
+| [dermatome]{.headword} | n. | `dermato`(皮)+`-tome`(切割器) | 取皮刀；皮节（神经支配区） | [低频]{.freq .freq-3} |
+| [dermatoscopy]{.headword} | n. | `dermato`(皮)+`-scopy`(观察) | 皮肤镜检查 | [中频]{.freq .freq-2} |
+| [dermatopathology]{.headword} | n. | `dermato`(皮)+`patho`(病)+`-logy` | 皮肤病理学 | [低频]{.freq .freq-3} |
+| [dermatophyte]{.headword} | n. | `dermato`(皮)+`phyte`(植物/真菌) | 皮肤真菌；皮癣菌 | [中频]{.freq .freq-2} |
+| [dermoid]{.headword} | adj./n. | `derm`(皮)+`-oid`(似……的) | 似皮肤的；皮样囊肿 | [中频]{.freq .freq-2} |
+| [subdermal]{.headword} | adj. | `sub-`(下面)+`derm`(皮)+`-al` | 皮下的（比 hypodermic 更书面） | [中频]{.freq .freq-2} |
+| [intradermal]{.headword} | adj. | `intra-`(内)+`derm`(皮)+`-al` | 皮内的（如皮内注射） | [中频]{.freq .freq-2} |
+| [percutaneous]{.headword} | adj. | `per-`(通过)+`cutaneous`(皮肤的) | 经皮的（拉丁词，与 transdermal 近义） | [中频]{.freq .freq-2} |
+| [dermatoglyphics]{.headword} | n. | `dermato`(皮)+`glyph`(刻纹)+`-ics` | 皮纹学（指纹/掌纹研究） | [低频]{.freq .freq-3} |
+| [atopic dermatitis]{.headword} | n. | `a-`(非典型)+`topic`(位置)+`dermatitis` | 特应性皮炎（即"湿疹"的临床全称） | [高频]{.freq .freq-1} |
+| [contact dermatitis]{.headword} | n. | `contact`(接触)+`dermatitis`(皮炎) | 接触性皮炎 | [高频]{.freq .freq-1} |
+| [seborrheic dermatitis]{.headword} | n. | `sebum`(皮脂)+`-rrheic`(流)+`dermatitis` | 脂溢性皮炎（头皮屑的临床名） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The doctor recommended a **transdermal** patch as an alternative to daily pills.（透皮贴片——药物直接穿过皮肤进入血液，省去口服步骤）
+- A single **hypodermic** needle pierced the skin, delivering the vaccine in seconds.（皮下注射针，hypo- "在下面"，直刺表皮之下）
+- The museum's pride was a perfectly preserved grizzly bear, a masterpiece of **taxidermy**.（标本剥制术，taxi- "排列处理"，让兽皮重获生命姿态）
+- **Pachyderms** like elephants and rhinos evolved thick skin as natural armor against predators and thorns.（厚皮动物，pachy- "厚"，大象犀牛都在其列）
+- Her **dermatologist** diagnosed the rash as contact **dermatitis**, likely triggered by a new detergent.（皮肤科医生 + 接触性皮炎，同一词根在一句话里出现两次）
+- During embryonic development, the nervous system arises from the **ectoderm**, the outermost of three germ layers.（外胚层，ecto- "外侧"，神经系统的发育起点）
+:::
+
+::: {.mnemonic}
+**助记**：记住核心画面——**derm = 皮那层**。
+
+- 想象一位皮肤科医生（**dermatologist**）拿着放大镜，从外往内看：最外一层是**epi**dermis（epi = 在上），打针要穿过它到**hypo**dermic（hypo = 下面），药膏要**trans**dermal（trans = 穿越）。
+- 博物馆里的老虎标本？**taxi**dermy——taxi 联想"把皮肤整理排列成出租车一样整齐的姿势"。
+- 大象厚皮？**pachy**derm——pachy 想成"胖乎乎"，又厚又圆的皮。
+- 胚胎三层：**ecto**（外）→神经皮肤；**meso**（中）→肌肉骨骼；**endo**（内）→内脏消化。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**derm- 与 derma- 的拼写交替**：英文医学词汇中，同一词根有时写作 `derm`（dermal, hypodermic），有时写作 `derma`（scleroderma, xeroderma），有时写作 `dermato`（dermatology, dermatitis）。三种拼写指向同一个希腊语原词，切勿误以为含义不同。规律大致是：`dermato-` 多出现在复合构词的前置位，`-derma` 多作后缀，`derm-` 则在中间位置或构词简形中出现。
+
+**percutaneous ≠ derm- 家族**：经皮的概念也可用拉丁路径表达——*cutis*（拉丁语"皮肤"）派生出 cutaneous、subcutaneous、percutaneous。这些词与 derm- 词族意思高度重叠，但词根来源不同，不能用 derm- 的构词逻辑去拆解它们。
+
+**taxidermy 里的 taxi- 与 taxi（出租车）无关**：taxi- 此处来自希腊语 *taxis*（排列、整理），与汽车出租的 taxi（缩写自 taximeter cabriolet）是纯粹的偶然同形。这是有趣的历史趣闻，**不能**用来推断其他含有 taxi- 的词的意思——请以词根手册为准。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 66 章）学完后，请回看以下章节巩固关联词根：
+
+- **第 65 章**：回顾上一章词根，检查是否与本章的希腊根拼搭规则一致
+- **第 64 章**：与本章搭档根系统对照
+- **第 62 章**：复习含 -itis（炎症）后缀的词族，与本章 dermatitis 系列互证
+- **第 58 章**：复习含 -logy（学科）后缀的构词，与 dermatology / dermatopathology 对照
+- **第 50 章**：复习希腊位置前缀（epi-/hypo-/endo-/ecto-），与本章表皮/皮下/胚层词群对照
+
+**自测提示**：
+
+1. *epidermis* 里的 epi- 是什么意思？能否说出另外两个含 epi- 的词？
+2. 不看书，拼写并解释 *hypodermic* 的三个词素。
+3. *pachyderm* 的字面义是什么？为什么大象符合这个描述？
+4. 胚胎发育三胚层分别叫什么？哪一层与皮肤和神经直接相关？
+5. 看到 *scleroderma*，你能推断出 sclero- 的含义吗？
+:::

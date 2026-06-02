@@ -1,0 +1,134 @@
+# gen / -gen / geno / geni —— "生·种·起源"
+
+::: {.root-banner}
+gen · genus · gignere = to beget, to produce 生育、产生、种类
+:::
+
+来源：拉丁语 *gignere*（生育、产生）及其名词形式 *genus*（种族、类别、起源），与希腊语 *-gen*（产生）同源，均来自印欧语根 \*gen-（生、产）。
+
+::: {.etymo}
+**词源故事：一粒种子，万物皆生**
+
+想象罗马人仰望星空，追问：这一切从何而来？他们用 *gignere* 回答——"产生"。神灵（*genius*，守护神）在你出生那刻附体，决定你的命运；家族的血统（*genus*）代代相传；大地孕育草木，土著（*indigenous*）就是"从这片土地内部生出来的人"。这一个根，撑起了从神话到生物学的整片天空。
+
+时间来到 19 世纪，科学家开始追问"生命从何而来"。孟德尔在豌豆地里发现了遗传的秘密，后人把传递性状的单位叫做 *gene*（基因）；达尔文观察到物种的起源（*genesis*）；化学家发现水是"产生氢气"的物质，便命名 *hydrogen*（氢，字面义"产生水的东西"）；氧气能"产生酸"，于是叫 *oxygen*。同一个根，悄悄埋进了元素周期表。
+
+拉丁根 *gen* 最强大的地方在于：**前缀换方向，根永远是同一个动作——"产生/生"**。*re-* 一加，变成"重新生"（*regenerate*）；*con-* 一加，变成"一起生/先天生"（*congenital*）；*pro-* 一加，变成"向前生出"（*progeny*，后代）。掌握这个逻辑，整张词汇网就活了。
+:::
+
+**前缀决定方向，根永远是"生"：**
+
+| 前缀 | 方向／含义 | 例词 |
+|------|-----------|------|
+| *re-* | 重新、再次 | regenerate（再生） |
+| *con-* | 一起、先天 | congenital（先天的） |
+| *pro-* | 向前、往后 | progeny（后代） |
+| *indi-* (= in + de) | 在内部 | indigenous（本土的） |
+| *homo-* | 相同 | homogeneous（同质的） |
+| *hetero-* | 不同 | heterogeneous（异质的） |
+| *patho-* | 疾病 | pathogen（病原体） |
+| *hydro-* | 水 | hydrogen（氢） |
+| *oxy-* | 酸／尖锐 | oxygen（氧） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [gene]{.headword} | n. | `gen`(生)+`-e` | 基因 | [高频]{.freq .freq-1} |
+| [genesis]{.headword} | n. | `gen`(生)+`-esis`(过程) | 起源，创世；《创世记》 | [高频]{.freq .freq-1} |
+| [generate]{.headword} | v. | `gen`(生)+`-er`+`-ate`(动作) | 产生，生成 | [高频]{.freq .freq-1} |
+| [generation]{.headword} | n. | `gen`(生)+`-er`+`-ation`(名词) | 一代人；产生 | [高频]{.freq .freq-1} |
+| [genetic]{.headword} | adj. | `gen`(生)+`-et`+`-ic`(形容词) | 遗传的，基因的 | [高频]{.freq .freq-1} |
+| [genetics]{.headword} | n. | `gen`(生)+`-et`+`-ics`(学科) | 遗传学 | [高频]{.freq .freq-1} |
+| [gender]{.headword} | n. | `gen`(种类)+`-der` | 性别；（语法）性 | [高频]{.freq .freq-1} |
+| [genre]{.headword} | n. | 法语借词，来自`genus`(种类) | （文艺）体裁，类型 | [高频]{.freq .freq-1} |
+| [genius]{.headword} | n. | `gen`(生)+`-ius`(守护神) | 天才；守护神 | [高频]{.freq .freq-1} |
+| [genuine]{.headword} | adj. | `gen`(生)+`-uine`（出生时真实的） | 真正的，真实的 | [高频]{.freq .freq-1} |
+| [generous]{.headword} | adj. | `genus`(出身高贵)+`-ous` | 慷慨的；丰富的 | [高频]{.freq .freq-1} |
+| [generosity]{.headword} | n. | `genus`(出身)+`-osity`(名词) | 慷慨，大方 | [高频]{.freq .freq-1} |
+| [general]{.headword} | adj./n. | `genus`(种类)+`-al`(全体的) | 一般的；将军 | [高频]{.freq .freq-1} |
+| [indigenous]{.headword} | adj. | `indi-`(内部)+`gen`(生)+`-ous` | 本土的，土著的 | [高频]{.freq .freq-1} |
+| [progeny]{.headword} | n. | `pro-`(向前)+`gen`(生)+`-y` | 后代，子孙 | [中频]{.freq .freq-2} |
+| [regenerate]{.headword} | v. | `re-`(再)+`gen`(生)+`-er`+`-ate` | 再生，重建；使新生 | [中频]{.freq .freq-2} |
+| [regeneration]{.headword} | n. | `re-`(再)+`gen`(生)+`-ation` | 再生，复兴 | [中频]{.freq .freq-2} |
+| [congenital]{.headword} | adj. | `con-`(一起/先天)+`gen`(生)+`-ital` | 先天的，天生的 | [中频]{.freq .freq-2} |
+| [genocide]{.headword} | n. | `geno-`(种族)+`-cide`(杀) | 种族灭绝 | [中频]{.freq .freq-2} |
+| [homogeneous]{.headword} | adj. | `homo-`(同)+`gen`(种)+`-eous` | 同质的，均匀的 | [中频]{.freq .freq-2} |
+| [heterogeneous]{.headword} | adj. | `hetero-`(异)+`gen`(种)+`-eous` | 异质的，多样的 | [中频]{.freq .freq-2} |
+| [pathogen]{.headword} | n. | `patho-`(病)+`gen`(生) | 病原体 | [中频]{.freq .freq-2} |
+| [hydrogen]{.headword} | n. | `hydro-`(水)+`gen`(生) | 氢（产生水的元素） | [高频]{.freq .freq-1} |
+| [oxygen]{.headword} | n. | `oxy-`(酸)+`gen`(生) | 氧（产生酸的元素） | [高频]{.freq .freq-1} |
+| [nitrogen]{.headword} | n. | `nitro-`(硝石)+`gen`(生) | 氮 | [高频]{.freq .freq-1} |
+| [carcinogen]{.headword} | n. | `carcino-`(癌)+`gen`(生) | 致癌物 | [中频]{.freq .freq-2} |
+| [allergen]{.headword} | n. | `aller-`(过敏)+`gen`(生) | 过敏原 | [中频]{.freq .freq-2} |
+| [antigen]{.headword} | n. | `anti-`(对抗)+`gen`(生) | 抗原 | [中频]{.freq .freq-2} |
+| [degenerate]{.headword} | v./adj. | `de-`(向下)+`gen`(种)+`-er`+`-ate` | 退化，堕落；退化的 | [中频]{.freq .freq-2} |
+| [degeneration]{.headword} | n. | `de-`(向下)+`gen`(种)+`-ation` | 退化，衰退 | [中频]{.freq .freq-2} |
+| [engender]{.headword} | v. | `en-`(使)+`gender`(生) | 产生，引起（情感等） | [中频]{.freq .freq-2} |
+| [progenitor]{.headword} | n. | `pro-`(向前)+`gen`(生)+`-itor`(人) | 祖先；先驱 | [中频]{.freq .freq-2} |
+| [genotype]{.headword} | n. | `gen`(基因)+`-o-`+`type`(型) | 基因型 | [中频]{.freq .freq-2} |
+| [genetically]{.headword} | adv. | `genetic`+`-ally` | 遗传地，从基因角度 | [高频]{.freq .freq-1} |
+| [transgenic]{.headword} | adj. | `trans-`(跨越)+`gen`(基因)+`-ic` | 转基因的 | [中频]{.freq .freq-2} |
+| [primogeniture]{.headword} | n. | `primo-`(第一)+`gen`(生)+`-iture` | 长子继承权 | [低频]{.freq .freq-3} |
+| [eugenics]{.headword} | n. | `eu-`(好)+`gen`(生)+`-ics` | 优生学 | [低频]{.freq .freq-3} |
+| [genealogy]{.headword} | n. | `genea-`(种族)+`-logy`(学) | 家谱学；谱系 | [中频]{.freq .freq-2} |
+| [ingenious]{.headword} | adj. | `in-`(内)+`gen`(天才)+`-ious` | 有独创性的，巧妙的 | [中频]{.freq .freq-2} |
+| [congenial]{.headword} | adj. | `con-`(一起)+`gen`(天性)+`-ial` | 意气相投的；适宜的 | [中频]{.freq .freq-2} |
+| [genre-bending]{.headword} | adj. | `genre`(体裁)+`bending`(弯曲) | 跨越体裁的，混搭风格的 | [低频]{.freq .freq-3} |
+| [generation gap]{.headword} | n. | `generation`(一代)+`gap`(间隔) | 代沟 | [高频]{.freq .freq-1} |
+| [photogen]{.headword} | n. | `photo-`(光)+`gen`(生) | 产光物；（旧）煤油 | [低频]{.freq .freq-3} |
+| [genitalia]{.headword} | n. | `gen`(生育)+`-alia`(复数名词) | 生殖器官（医学用语） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- Scientists have **generated** a detailed map of the human genome, revealing the blueprint of life.（科学家"产生/绘制"了人类基因组详图——generate 在科技语境中极高频）
+- The **genesis** of the conflict can be traced back to decades of economic inequality.（冲突的"起源"——genesis 常用于追溯事物的起始点，带有庄重感）
+- She was diagnosed with a **congenital** heart defect—one she had carried since birth without knowing.（先天性心脏缺陷——congenital 永远指出生时就已存在的状况）
+- The city's neighborhoods are remarkably **heterogeneous**, with over 40 languages spoken within a single square mile.（多元异质——heterogeneous 强调组成成分的多样性，与 homogeneous 对照记）
+- Climate change is a **pathogen** for ecosystems, spreading disruption from one habitat to the next.（比喻用法：气候变化是生态系统的"病原体"——pathogen 借用生物学语言描述系统性破坏）
+- The forest has shown remarkable capacity to **regenerate** after the wildfire, with new growth visible within months.（森林在野火后"再生"——regenerate 兼有生态意义与精神意义上的"重生"）
+:::
+
+::: {.mnemonic}
+**助记**：把 gen 想象成一粒种子 🌱。前缀就是你把种子种在哪里、怎么种：
+
+- 种到"重来"的土地里 → **re**generate（再生）
+- 种在"一起/先天"的地方 → **con**genital（先天）
+- 种在"内部/本土"的土壤 → **indi**genous（本土）
+- 种子"向前"生长成后代 → **pro**geny
+- 把种子"向下"拉 → **de**generate（退化）
+
+每次遇到 gen/geno/geni，就问：**谁在"生"什么？**——答案就是词义的核心。
+:::
+
+::: {.trap}
+**陷阱一：generous 与"慷慨"的距离**
+*generous* 原义是"出身高贵的"（*genus* = 高贵的血统）。古罗马人认为贵族天生大方，于是词义漂移到"慷慨"。今天 generous 已与"出身"完全脱钩，只剩"慷慨、丰富"的意思。**不要用词源义去推断现代用法**——这是典型的语义漂移案例，仅供理解历史轨迹，不可反向推断。
+
+**陷阱二：gender 不等于 genetics**
+*gender* 和 *genetic* 都来自 gen 根，但现代英语中 gender 指社会性别（social gender），genetics 指遗传学。两者在学术讨论中含义截然不同，切勿混用。词根相同 ≠ 含义相近。
+
+**陷阱三：ingenious vs. ingenuous**
+*ingenious*（`in`+`gen`+`-ious` = 有内在天才的）意为"巧妙的、有独创性的"；*ingenuous*（同根，但词义演变为"坦诚的、天真的"）意为"率直的、天真无邪的"。外形极相似，语义截然不同，是经典混淆对。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+完成本章（第 61 章，gen 生·种·起源）后，回看以下章节：
+
+- **第 60 章**：快速确认上一章核心词根的掌握情况
+- **第 59 章**：与本章可能存在语义交叉的词根
+- **第 57 章**：间隔复习，巩固中期记忆
+- **第 53 章**：拉长间隔，检验长期记忆留存
+- **第 45 章**：最长间隔复习，确认已内化
+
+**本章自测提示**（遮住释义列，只看词形）：
+
+1. *congenital* — 记得 con- 是"先天/一起"吗？和 *generate* 的词根相同吗？
+2. *indigenous* — indi- 来自 *inde-*（内部），能拆开解释吗？
+3. *heterogeneous* 与 *homogeneous* — 只换了一个前缀，含义相反，能不假思索说出两者区别吗？
+4. *hydrogen* 和 *oxygen* — 两个化学元素名里藏着 gen，能说出它们字面义是什么吗？
+5. *progeny* — pro- 在这里是"向前"还是"代表"？（向前，引申为"后代从亲代向前生长出来"）
+:::

@@ -1,0 +1,139 @@
+# aud / audi —— "听"
+
+::: {.root-banner}
+`aud` · `audi` = to hear 听
+:::
+
+来源：拉丁语 **audīre**（to hear），源自更古老的原始印欧语根 *\*h₂ew-*，意为"感知、注意到"，与梵文 *ávi*（注意）同源。
+
+::: {.etymo}
+**词源故事：罗马法庭里的听与不听**
+
+在古罗马，法律程序高度依赖"口头陈述"。双方当事人站在法官面前，法官必须 *audīre*——亲耳聆听，才能做出裁决。这个动词由此渗入法律、行政、宗教的每个角落，并随着罗马帝国的扩张，埋进了几乎所有欧洲语言。
+
+"听账目"这个意象最能解释 **audit**（审计）为何如此命名。古罗马的账目核查不是盯着账本看，而是官员高声朗读收支，审计官坐在对面**聆听**，一旦发现差错便举手质询。这种"边听边核"的传统，让 *audīre* 直接生出了现代财务术语。
+
+进入 17 世纪，剧院文化兴起，**audience**（观众）与 **auditorium**（礼堂）相继稳固了各自的位置——前者指那些"来听的人"，后者指"专供聆听的场所"。而 **audition**（试听；试镜）最初纯粹是声音测试：制作人只听声音，演员根本无需露脸。摄影机的普及才让"试镜"的视觉成分喧宾夺主，但词本身仍诚实地保留着"听"的记忆。
+:::
+
+---
+
+**前缀决定方向，根永远是同一个动作——"听"**
+
+拉丁根 `aud-` 本身稳如磐石，各路前缀像导航指令一样改变"听"的方向与状态：
+
+| 前缀 | 方向／状态 | 典型词 |
+|------|-----------|--------|
+| *(无前缀)* | 直接听 | audio, audit, audible |
+| `in-` | 不、无法 | inaudible（听不见的）|
+| `ob-` / `ob→o-` | 朝向、顺从 | obedient（从拉丁 *obaudīre*，听从命令）|
+| `-torium` | 场所 | auditorium（供听的大厅）|
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [audio]{.headword} | n./adj. | `audi`(听)+`-o`(名词/形容词化) | 音频；声音的 | [高频]{.freq .freq-1} |
+| [audience]{.headword} | n. | `audi`(听)+`-ence`(人/集合) | 听众；观众；接见 | [高频]{.freq .freq-1} |
+| [audible]{.headword} | adj. | `aud`(听)+`-ible`(能…的) | 听得见的 | [高频]{.freq .freq-1} |
+| [inaudible]{.headword} | adj. | `in-`(不)+`aud`(听)+`-ible` | 听不见的 | [高频]{.freq .freq-1} |
+| [auditorium]{.headword} | n. | `audit`(听)+`-orium`(场所) | 礼堂；观众席 | [高频]{.freq .freq-1} |
+| [audit]{.headword} | n./v. | `aud`(听)+`-it`(动词/名词后缀) | 审计；旁听（课程） | [高频]{.freq .freq-1} |
+| [auditor]{.headword} | n. | `audit`(听账)+`-or`(人) | 审计员；旁听生 | [高频]{.freq .freq-1} |
+| [auditory]{.headword} | adj. | `audit`(听)+`-ory`(与…有关的) | 听觉的；耳部的 | [高频]{.freq .freq-1} |
+| [audition]{.headword} | n./v. | `audi`(听)+`-tion`(行为) | 试听；试镜；参加试镜 | [高频]{.freq .freq-1} |
+| [audiovisual]{.headword} | adj. | `audio`(听觉)+`visual`(视觉) | 视听的；声像的 | [高频]{.freq .freq-1} |
+| [auditorially]{.headword} | adv. | `auditori`(听觉的)+`-ally` | 在听觉上 | [低频]{.freq .freq-3} |
+| [audiogram]{.headword} | n. | `audio`(听)+`-gram`(记录图) | 听力图 | [中频]{.freq .freq-2} |
+| [audiologist]{.headword} | n. | `audio`(听)+`-log`(学科)+`-ist`(人) | 听力学家 | [中频]{.freq .freq-2} |
+| [audiology]{.headword} | n. | `audio`(听)+`-logy`(学科) | 听力学 | [中频]{.freq .freq-2} |
+| [audiophile]{.headword} | n. | `audio`(音频)+`-phile`(爱好者) | 发烧友；音响迷 | [中频]{.freq .freq-2} |
+| [audiobook]{.headword} | n. | `audio`(声音)+`book`(书) | 有声书 | [高频]{.freq .freq-1} |
+| [audible.com]{.headword} | — | *(专有名词示例，源自 audible)* | *(亚马逊有声书平台，取名自"听得见的")* | — |
+| [inaudibly]{.headword} | adv. | `in-`(不)+`aud`(听)+`-ibly` | 听不见地；无声地 | [中频]{.freq .freq-2} |
+| [audibility]{.headword} | n. | `aud`(听)+`-ibility`(性质) | 可听度；听得见的程度 | [中频]{.freq .freq-2} |
+| [obedient]{.headword} | adj. | `ob-`(朝向)+`aud→edi`(听)+`-ent` | 服从的；顺从的 | [高频]{.freq .freq-1} |
+| [obedience]{.headword} | n. | `ob-`(朝向)+`aud→edi`(听)+`-ence` | 服从；听话 | [高频]{.freq .freq-1} |
+| [disobedient]{.headword} | adj. | `dis-`(不)+`obedient` | 不服从的；反抗的 | [高频]{.freq .freq-1} |
+| [disobedience]{.headword} | n. | `dis-`(不)+`obedience` | 不服从；违抗 | [高频]{.freq .freq-1} |
+| [obey]{.headword} | v. | `ob-`(朝向)+`aud→ey`(听)（经法语） | 服从；遵守 | [高频]{.freq .freq-1} |
+| [auditor-general]{.headword} | n. | `auditor`(审计)+`general`(总) | 审计长；总审计师 | [中频]{.freq .freq-2} |
+| [pre-audit]{.headword} | n./v. | `pre-`(事先)+`audit`(审计) | 预审；事前审计 | [中频]{.freq .freq-2} |
+| [post-audit]{.headword} | n./v. | `post-`(事后)+`audit`(审计) | 事后审计；后审 | [中频]{.freq .freq-2} |
+| [unaudited]{.headword} | adj. | `un-`(未)+`audit`(审计)+`-ed` | 未经审计的 | [中频]{.freq .freq-2} |
+| [audited]{.headword} | adj. | `audit`(审计)+`-ed` | 经审计的；已审核的 | [中频]{.freq .freq-2} |
+| [subaudition]{.headword} | n. | `sub-`(在下方)+`audition`(听) | 言外之意；潜台词（语言学） | [低频]{.freq .freq-3} |
+| [subaudio]{.headword} | adj. | `sub-`(低于)+`audio`(可听频率) | 次声的；低于可闻频率的 | [低频]{.freq .freq-3} |
+| [ultraaudible]{.headword} | adj. | `ultra-`(超过)+`aud`(听)+`-ible` | 超声频的；听觉之上的 | [低频]{.freq .freq-3} |
+| [audient]{.headword} | adj./n. | `audi`(听)+`-ent`(正在…的) | 倾听的；听者（罕见正式用法） | [低频]{.freq .freq-3} |
+| [audiometric]{.headword} | adj. | `audio`(听)+`metric`(测量的) | 听力测量的 | [中频]{.freq .freq-2} |
+| [audiometry]{.headword} | n. | `audio`(听)+`-metry`(测量) | 听力测定（法） | [中频]{.freq .freq-2} |
+| [captive audience]{.headword} | n. phr. | `captive`(被迫的)+`audience` | 被迫收听的听众；无选择余地的观众 | [高频]{.freq .freq-1} |
+| [target audience]{.headword} | n. phr. | `target`(目标)+`audience` | 目标受众；目标观众 | [高频]{.freq .freq-1} |
+| [audition tape]{.headword} | n. phr. | `audition`(试镜)+`tape`(录像) | 试镜录像带 | [中频]{.freq .freq-2} |
+| [grant an audience]{.headword} | v. phr. | `grant`(给予)+`an audience`(接见) | 接见；会见（正式） | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The fire alarm was **audible** from three blocks away, cutting through the morning traffic noise.（**听得见的**——声音大到三个街区外都能传到）
+- She spent months preparing before finally landing an **audition** for the national symphony orchestra.（**试镜/试奏**——最初纯指声音测试，如今也用于乐器考核）
+- The annual **audit** revealed that the finance department had been miscategorizing travel expenses for two years.（**审计**——源自古罗马"朗读账目让人聆听"的传统）
+- An audience of three thousand fell completely silent as the conductor raised her baton.（**听众**——字面义"来听的人"，此处戏剧性渲染无声的期待）
+- The lecture hall doubled as an **auditorium** for graduation ceremonies every June.（**礼堂**——专为聆听而设计的场所）
+- His whispered apology was **inaudible** above the roar of the crowd.（**听不见的**——`in-` 把"能听见的"直接取反）
+:::
+
+---
+
+::: {.mnemonic}
+**助记**：把 `aud-` 想成一只竖起来的耳朵——
+
+- **`audio`**：耳朵直接输出 → 音频信号
+- **`audience`**：一群耳朵 → 听众
+- **`audit`**：耳朵对着账本 → 审计（听账）
+- **`in-` + audible**：耳朵被堵上 → 听不见
+
+前缀就是"耳朵的姿势"：`in-` 堵上，`ob-`（obey）迎向声音弯腰顺从，`-torium` 给耳朵建一座专属大厅。只要认出 `aud-`，前缀方向就告诉你整个词在干什么。
+:::
+
+---
+
+::: {.trap}
+**陷阱 1：obedient 看起来和 `aud-` 毫无关系**
+`obey / obedient` 经由古法语 *obeïr* 演变，词形已面目全非，但溯源确实来自拉丁语 *obaudīre*（朝着…听从）。这是**历史趣闻**，不是可供推断的规律——看到 `obey` 时请直接记"服从"，不要试图从拼写还原词根；但在你已经知道词义的情况下，这条线索能帮助记忆。
+
+**陷阱 2：auditorium 里的 `-itor-` 不是 `editor`（编辑）里的 `-itor-`**
+`auditorium` = `audit`（听）+ `-orium`（场所），而 `editor` = `e-`（出）+ `dit`（给予，来自 `dare`）+ `-or`（人），两者的 `-it-` 来源完全不同。形似词根未必同源，务必核查。
+
+**陷阱 3：audience 有"接见"义**
+在正式语境中，"to grant an audience"（给予接见）是君主或教皇"听取"臣下陈述的仪式——这个用法在外交报道中仍然活跃，不要看到 audience 只想到"观众"。
+:::
+
+---
+
+::: {.review-today}
+**今日复习安排（第 63 章）**
+
+回看以下已完成章节，每章用 2 分钟快速扫视核心词表：
+
+| 章号 | 词根 | 回看重点 |
+|------|------|---------|
+| 第 62 章 | 上一章词根 | 核心词表前 10 词 |
+| 第 61 章 | 上一章词根 | 任取 3 词造句 |
+| 第 59 章 | 上一章词根 | 重温"陷阱"提示 |
+| 第 55 章 | 上一章词根 | 默写频率最高的 5 词 |
+| 第 47 章 | 上一章词根 | 回忆词源故事主线 |
+
+**本章自测（`aud-`）**
+
+1. `inaudible` 的 `in-` 是什么意思？整个词怎么拆？
+2. `audit`（审计）的原义是什么动作？
+3. `obedient` 和 `aud-` 有什么历史关联？（考察趣闻，不要求从拼写推断）
+4. 不看词表，说出 5 个含 `aud-` 的词并给出词性与释义。
+5. `auditorium` 和 `auditory` 同根，但词性与语义有何不同？
+:::

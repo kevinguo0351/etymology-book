@@ -1,0 +1,128 @@
+# syn / sym / syl / sys —— "一起·共同"
+
+::: {.root-banner}
+syn · sym · syl · sys = together, with 一起、共同
+:::
+
+来源：希腊语 σύν（sýn），本义"与……一起，在一起"，在词中与后续音节发生同化：b/m/p 前变 sym-，l 前变 syl-，s 前变 sys-，其余保持 syn-。
+
+::: {.etymo}
+**词源故事：把东西放在一起的希腊人**
+
+希腊语 syn 是一个方向感极强的介词，意思是"和某人在一起、朝同一个地方"。当它被前缀化贴到词根前面，它就像胶水一样，把两样东西黏合成一个整体。*synthesis*（综合）是把散件"放"（*thesis*）在一起；*synchronize*（同步）是让两件事的"时间"（*chronos*）走在一起；*symphony*（交响乐）是让声音（*phōnē*）一起发响。
+
+这个前缀在拼写上非常"随和"：它会主动迁就后面那个词根的发音。遇到 b、m、p 开头的词根，它把 n 换成 m——于是 syn+pathy 变成 *sympathy*，syn+metry 变成 *symmetry*，syn+phony 变成 *symphony*。遇到 l 开头，它干脆丢掉 n，成为 syl-，例如 *syllable*（音节）。遇到 s 开头，n 同样脱落，成为 sys-，如 *system*。
+
+这种"随和"其实是语音同化的结果，古希腊人追求发音流畅，不愿让两个相邻辅音打架。认识了这四个拼写变体，你会发现它们背后只有一个概念：**把若干个体拢在一起，产生新的整体**。
+:::
+
+### 搭档根：syn 家族的最佳搭档
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| thesis / thes | 放置 | synthesis（综合）、hypothesis（假设） |
+| chron | 时间 | synchronize（同步）、anachronism（时代错置） |
+| onym | 名字 | synonym（同义词）、anonymous（匿名） |
+| path / pathy | 感受、病 | sympathy（同情）、antipathy（反感） |
+| drome | 跑、道 | syndrome（综合征）、hippodrome（赛马场） |
+| erg / ergy | 工作、能量 | synergy（协同效应）、energy（能量） |
+| tax / taxis | 排列 | syntax（句法）、taxonomy（分类学） |
+| phon / phone | 声音 | symphony（交响乐）、microphone（麦克风） |
+| metr / metry | 测量 | symmetry（对称）、geometry（几何学） |
+| log / logy | 言语、逻辑 | syllogism（三段论）、ecology（生态学） |
+| bol / bole | 投掷 | symbol（象征）、hyperbole（夸张法） |
+| ag / agogue | 引领 | synagogue（犹太会堂）、pedagogue（教育者） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [synthesis]{.headword} | n. | `syn-`(一起)+`thesis`(放置) | 综合；合成 | [高频]{.freq .freq-1} |
+| [synthesize]{.headword} | v. | `syn-`(一起)+`thesize`(放置) | 综合；合成；人工合成 | [高频]{.freq .freq-1} |
+| [synthetic]{.headword} | adj. | `syn-`(一起)+`thet`(放)+`-ic` | 合成的；人造的 | [高频]{.freq .freq-1} |
+| [sympathy]{.headword} | n. | `sym-`(一起)+`pathy`(感受) | 同情；同感 | [高频]{.freq .freq-1} |
+| [sympathize]{.headword} | v. | `sym-`(一起)+`path`(感受)+`-ize` | 同情；表示赞同 | [高频]{.freq .freq-1} |
+| [sympathetic]{.headword} | adj. | `sym-`(一起)+`path`(感受)+`-etic` | 表示同情的；共鸣的 | [高频]{.freq .freq-1} |
+| [synchronize]{.headword} | v. | `syn-`(一起)+`chron`(时间)+`-ize` | 使同步；校准时间 | [高频]{.freq .freq-1} |
+| [synchronous]{.headword} | adj. | `syn-`(一起)+`chron`(时间)+`-ous` | 同步的；同时发生的 | [中频]{.freq .freq-2} |
+| [synonym]{.headword} | n. | `syn-`(同)+`onym`(名字) | 同义词 | [高频]{.freq .freq-1} |
+| [synonymous]{.headword} | adj. | `syn-`(同)+`onym`(名)+`-ous` | 同义的；等同的 | [高频]{.freq .freq-1} |
+| [symbol]{.headword} | n. | `sym-`(一起)+`bol`(投掷→汇合) | 符号；象征 | [高频]{.freq .freq-1} |
+| [symbolic]{.headword} | adj. | `sym-`(一起)+`bol`(投掷)+`-ic` | 象征性的 | [高频]{.freq .freq-1} |
+| [symbolize]{.headword} | v. | `sym-`(一起)+`bol`(投掷)+`-ize` | 象征；用符号表示 | [高频]{.freq .freq-1} |
+| [symptom]{.headword} | n. | `sym-`(一起)+`ptom`(落下→表现) | 症状；征兆 | [高频]{.freq .freq-1} |
+| [symptomatic]{.headword} | adj. | `sym-`(一起)+`ptom`(落)+`-atic` | 有症状的；典型的 | [中频]{.freq .freq-2} |
+| [symphony]{.headword} | n. | `sym-`(一起)+`phon`(声音)+`-y` | 交响乐；和谐 | [高频]{.freq .freq-1} |
+| [symphonic]{.headword} | adj. | `sym-`(一起)+`phon`(声音)+`-ic` | 交响乐的 | [中频]{.freq .freq-2} |
+| [system]{.headword} | n. | `sys-`(一起)+`tem`(放置→组合) | 系统；体系 | [高频]{.freq .freq-1} |
+| [systematic]{.headword} | adj. | `sys-`(一起)+`tem`(组合)+`-atic` | 系统的；有条理的 | [高频]{.freq .freq-1} |
+| [systemic]{.headword} | adj. | `sys-`(一起)+`tem`+`-ic` | 系统性的；全身性的 | [中频]{.freq .freq-2} |
+| [syllable]{.headword} | n. | `syl-`(一起)+`lab`(取、抓)+`-le` | 音节 | [高频]{.freq .freq-1} |
+| [monosyllabic]{.headword} | adj. | `mono-`(单)+`syllabic`(音节的) | 单音节的；寡言的 | [中频]{.freq .freq-2} |
+| [syndrome]{.headword} | n. | `syn-`(一起)+`drome`(跑→聚集) | 综合征；一组症状 | [高频]{.freq .freq-1} |
+| [synergy]{.headword} | n. | `syn-`(一起)+`ergy`(工作、能量) | 协同效应；合力 | [高频]{.freq .freq-1} |
+| [synergistic]{.headword} | adj. | `syn-`(一起)+`erg`(工作)+`-istic` | 协同的；增效的 | [中频]{.freq .freq-2} |
+| [syntax]{.headword} | n. | `syn-`(一起)+`tax`(排列) | 句法；语法规则 | [高频]{.freq .freq-1} |
+| [syntactic]{.headword} | adj. | `syn-`(一起)+`tact`(排列)+`-ic` | 句法的 | [中频]{.freq .freq-2} |
+| [symmetry]{.headword} | n. | `sym-`(一起)+`metr`(测量)+`-y` | 对称；匀称 | [高频]{.freq .freq-1} |
+| [symmetrical]{.headword} | adj. | `sym-`(一起)+`metr`(测量)+`-ical` | 对称的；均衡的 | [高频]{.freq .freq-1} |
+| [asymmetry]{.headword} | n. | `a-`(无)+`sym-`(一起)+`metr`(量) | 不对称；失衡 | [中频]{.freq .freq-2} |
+| [synagogue]{.headword} | n. | `syn-`(一起)+`agogue`(引领→聚集) | 犹太会堂；犹太教堂 | [中频]{.freq .freq-2} |
+| [symbiosis]{.headword} | n. | `sym-`(一起)+`bio`(生命)+`-sis` | 共生；互利共存 | [中频]{.freq .freq-2} |
+| [symbiotic]{.headword} | adj. | `sym-`(一起)+`bio`(生命)+`-tic` | 共生的；互依的 | [中频]{.freq .freq-2} |
+| [syllogism]{.headword} | n. | `syl-`(一起)+`log`(言语)+`-ism` | 三段论；演绎推理 | [中频]{.freq .freq-2} |
+| [synopsis]{.headword} | n. | `syn-`(一起)+`ops`(看)+`-is` | 概要；梗概 | [中频]{.freq .freq-2} |
+| [synchronicity]{.headword} | n. | `syn-`(一起)+`chron`(时间)+`-icity` | 共时性；巧合的同步 | [低频]{.freq .freq-3} |
+| [synapse]{.headword} | n. | `syn-`(一起)+`apse`(连接) | 突触；神经接点 | [中频]{.freq .freq-2} |
+| [synaptic]{.headword} | adj. | `syn-`(一起)+`apt`(连接)+`-ic` | 突触的 | [低频]{.freq .freq-3} |
+| [synchrony]{.headword} | n. | `syn-`(一起)+`chron`(时间)+`-y` | 同步性；同时性 | [低频]{.freq .freq-3} |
+| [syncopation]{.headword} | n. | `syn-`(一起)+`cop`(切)+`-ation` | 切分音；音节省略 | [低频]{.freq .freq-3} |
+| [sympath(et)ic nervous system]{.headword} | n. | `sym-`(一起)+`path`(感受) | 交感神经系统 | [中频]{.freq .freq-2} |
+| [symbiont]{.headword} | n. | `sym-`(一起)+`bio`(生命)+`-nt` | 共生生物 | [低频]{.freq .freq-3} |
+| [synchronize]{.headword} | v. | `syn-`(一起)+`chron`(时间)+`-ize` | 同步化；协调时间 | [高频]{.freq .freq-1} |
+| [synthesis gas]{.headword} | n. | `syn-`(一起)+`thesis`(放)+`gas` | 合成气（工业术语） | [低频]{.freq .freq-3} |
+| [systematic review]{.headword} | n. | `sys-`(系统)+`ematic`+`review` | 系统综述（学术研究方法） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The scientist managed to **synthesize** a new compound by combining elements that had never been joined before.（把从未组合过的元素"放在一起"——这正是 syn+thesis 的本义）
+- She felt genuine **sympathy** for the refugees, having once been displaced herself.（感同身受，sym+pathy：一起感受对方的痛苦）
+- The two devices failed to **synchronize**, leaving the presentation slides one step behind the speaker.（同步失败——syn+chron：时间没有走在一起）
+- "Frugal" and "thrifty" are near **synonyms**, though "thrifty" carries a slightly more positive connotation.（syn+onym：共享同一个"名字"，即意义相同）
+- The merger was supposed to create **synergy**, but instead the two teams duplicated each other's work.（syn+ergy：两股力量理应合在一起放大输出，结果却相互抵消）
+- Down syndrome is named for the cluster of features that appear **together**, not for any one isolated trait.（syn+drome：各种特征"一起跑来"——综合征命名的逻辑）
+:::
+
+::: {.mnemonic}
+**助记**：把 syn/sym/syl/sys 想象成一根拉链（zipper）——无论后面那个词根是什么，这根拉链都把它们"拉在一起"。遇到 symphony，就看见一排乐手被拉链拉到同一个舞台上一起发声；遇到 system，就看见零散的齿轮被拉链串成一个整体机器。四个拼写变体只是拉链头在不同材质上的磨损形态，本质是同一根拉链。
+:::
+
+::: {.trap}
+**陷阱**：syn- 的四个变体（syn-/sym-/syl-/sys-）是纯粹的语音同化结果，帮助你**识别词根**完全没问题。但请注意：
+
+1. **symptom** 里的 -ptom 来自希腊语 *piptein*（落下），与现代英语 symptom 的"症状"义是历史引申，不能用"落下"去推断其他含义——这是**仅供有趣的历史趣闻**，不要据此臆测陌生词。
+
+2. **symbol** 的词根 -bol 来自 *ballein*（投掷），原义是把两样东西"投"在一起对照认证（古希腊契约的两半骨牌），引申为"象征"。这条词源是**高产可推断**的，因为同族词 hyperbole（夸张法：投得过远）、parabola（抛物线：向旁边投）都能靠这个根推断。
+
+3. **system** 中的 -tem 来自 *histanai*（使站立、放置），与 synthesis 的 thesis 同源，但路径较长，属于**仅供有趣的历史趣闻**层面，日常推断词义时不必强行套用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 60 章）学完后，请回顾以下章节巩固相关词根：
+
+- **第 59 章** — 复习上一章词根，确认与 syn- 的组合词无混淆
+- **第 58 章** — 对照复习，注意与本章搭档根的区别
+- **第 56 章** — chron（时间），与 synchronize/synchrony 直接相关
+- **第 52 章** — path/pathy（感受），sympathy/antipathy 同族
+- **第 44 章** — thesis/the（放置），synthesis/hypothesis 共享此根
+
+**本章自测提示：**
+- *sympathy* 的拼写为何是 sym- 而非 syn-？（提示：后接 p）
+- *syllogism* 和 *syllable* 共享哪个变体？它在什么条件下出现？
+- 说出 *synergy* 的两个词根并各给一个同族词。
+- *syndrome* 中的 -drome 还出现在哪个熟词里？（提示：飞机场）
+- 不看表格，能否写出 *synthesis*、*synonym*、*synchronize*、*system* 四词的完整拆解？
+:::

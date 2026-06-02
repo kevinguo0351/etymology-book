@@ -1,0 +1,130 @@
+# flu / flux —— "流"
+
+::: {.root-banner}
+flu · flux = to flow 流动
+:::
+
+来源：拉丁语 *fluere*（流动，不定式）/ *fluxus*（流动，过去分词），二者同根，一个给了我们词尾 -flu-，另一个给了我们 flux。
+
+::: {.etymo}
+**词源故事：河流不停，语言也不停**
+
+罗马人站在台伯河边，看水从山上奔涌而来，汇聚成宽阔的水流，最终注入海洋。他们用 *fluere* 描述这一切——无论是真实的水，还是时间、财富、言语的"流动"。这个词根进入英语后，几乎在每一个派生词里都保留着"流"这个内核。
+
+中世纪的星象师相信，天上的星辰会向地上的人"流入"某种神秘力量，决定命运与健康。拉丁文叫 *influentia*，字面义是"流入之物"。后来人们发现每隔几年就有一种病像潮水一样席卷全城，便把它叫做 *influenza*——那场"星象之流"。今天我们缩写成 flu，绕了一大圈，又回到了词根本身。
+
+*Fluxus* 作为过去分词，强调"已经流过"的状态，引申出"变动不居"的意味。拉丁格言 *omnia fluit*（万物皆流）正是赫拉克利特哲学的拉丁译文。英语里 flux 至今仍带着这种哲学底色：处于 flux 中的事物，就是还没有定型、还在流动的事物。
+:::
+
+**前缀决定方向，根永远是同一个动作。** flu/flux 本身只管"流"，是前缀告诉你水往哪里流：
+
+| 前缀 | 方向／含义 | 代表词 |
+|------|-----------|--------|
+| in- | 流入 | influence, influx |
+| af- (ad-) | 朝……流去 | affluent, afflux |
+| con- | 一起汇流 | confluence, conflux |
+| ef- / ex- | 向外流出 | effluent, efflux |
+| super- | 流过头、溢出 | superfluous |
+| re- | 向回流 | reflux |
+| pro- | 向前涌 | profluent |
+| circum- | 绕圈流 | circumfluent |
+
+掌握这张小表，遇到任何带 flu/flux 的生词，先找前缀定方向，再想"谁在流向哪里"，释义自然浮现。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [fluent]{.headword} | adj | `flu`(流)+`-ent`(形容词) | 流利的，流畅的 | [高频]{.freq .freq-1} |
+| [fluency]{.headword} | n | `flu`(流)+`-ency`(名词化) | 流利，流畅度 | [高频]{.freq .freq-1} |
+| [fluid]{.headword} | n/adj | `flu`(流)+`-id`(形容词/名词) | 液体；流动的，不固定的 | [高频]{.freq .freq-1} |
+| [flux]{.headword} | n | `flux`(流动) | 流动；持续变化的状态 | [高频]{.freq .freq-1} |
+| [influence]{.headword} | n/v | `in-`(入)+`flu`(流)+`-ence` | 影响；施加影响 | [高频]{.freq .freq-1} |
+| [influential]{.headword} | adj | `in-`(入)+`flu`(流)+`-ential` | 有影响力的 | [高频]{.freq .freq-1} |
+| [influenza]{.headword} | n | `in-`(入)+`flu`(流)+`-enza`(意大利语名词) | 流行性感冒 | [高频]{.freq .freq-1} |
+| [affluent]{.headword} | adj/n | `af-`(朝)+`flu`(流)+`-ent` | 富裕的；支流 | [高频]{.freq .freq-1} |
+| [affluence]{.headword} | n | `af-`(朝)+`flu`(流)+`-ence` | 富裕，丰盛 | [中频]{.freq .freq-2} |
+| [confluence]{.headword} | n | `con-`(一起)+`flu`(流)+`-ence` | 汇流处；（事物的）汇聚 | [中频]{.freq .freq-2} |
+| [confluent]{.headword} | adj | `con-`(一起)+`flu`(流)+`-ent` | 汇合的；（医）融合的 | [低频]{.freq .freq-3} |
+| [influx]{.headword} | n | `in-`(入)+`flux`(流) | 涌入；大量流入 | [高频]{.freq .freq-1} |
+| [efflux]{.headword} | n | `ef-`(出)+`flux`(流) | 流出；（时间）流逝 | [低频]{.freq .freq-3} |
+| [effluent]{.headword} | n/adj | `ef-`(出)+`flu`(流)+`-ent` | （工厂等排出的）废水、污水；流出的 | [中频]{.freq .freq-2} |
+| [effluence]{.headword} | n | `ef-`(出)+`flu`(流)+`-ence` | 流出物；散发 | [低频]{.freq .freq-3} |
+| [fluctuate]{.headword} | v | `fluctu`(波动，源自flux)+`-ate` | 波动，起伏 | [高频]{.freq .freq-1} |
+| [fluctuation]{.headword} | n | `fluctu`(波动)+`-ation` | 波动，涨落 | [高频]{.freq .freq-1} |
+| [superfluous]{.headword} | adj | `super-`(上/过)+`flu`(流)+`-ous` | 多余的，过剩的 | [中频]{.freq .freq-2} |
+| [superfluity]{.headword} | n | `super-`(过)+`flu`(流)+`-ity` | 过剩，冗余 | [低频]{.freq .freq-3} |
+| [reflux]{.headword} | n | `re-`(回)+`flux`(流) | 回流；胃酸反流 | [中频]{.freq .freq-2} |
+| [mellifluous]{.headword} | adj | `melli`(蜜)+`flu`(流)+`-ous` | （声音）甜美流畅的，如蜜般悦耳的 | [中频]{.freq .freq-2} |
+| [fluvial]{.headword} | adj | `fluvi`(河流)+`-al` | 河流的，由河流形成的 | [中频]{.freq .freq-2} |
+| [fluviatile]{.headword} | adj | `fluvi`(河流)+`-atile` | （动植物）栖居河流的；河成的 | [低频]{.freq .freq-3} |
+| [flume]{.headword} | n | `flume`(← fluere) | 水槽，水道；峡谷急流 | [中频]{.freq .freq-2} |
+| [flush]{.headword} | v/n | 源自古法语，与 fluere 同宗 | 冲洗；（脸色）涨红；一阵涌现 | [高频]{.freq .freq-1} |
+| [fluoresce]{.headword} | v | `fluor`(流)+`-esce`(开始…) | 发荧光 | [低频]{.freq .freq-3} |
+| [fluorescent]{.headword} | adj | `fluor`(流光)+`-escent` | 荧光的；荧光灯的 | [高频]{.freq .freq-1} |
+| [fluoride]{.headword} | n | `fluor`(萤石，得名于熔解时的流动)+`-ide` | 氟化物 | [中频]{.freq .freq-2} |
+| [fluorine]{.headword} | n | `fluor`+`-ine` | 氟（元素） | [中频]{.freq .freq-2} |
+| [conflux]{.headword} | n | `con-`(一起)+`flux` | 汇流；汇聚（较正式/文学用语） | [低频]{.freq .freq-3} |
+| [circumfluent]{.headword} | adj | `circum-`(绕)+`flu`(流)+`-ent` | 环流的，绕流的 | [低频]{.freq .freq-3} |
+| [profluent]{.headword} | adj | `pro-`(向前)+`flu`(流)+`-ent` | 顺畅向前流动的 | [低频]{.freq .freq-3} |
+| [fluxion]{.headword} | n | `flux`(流)+`-ion` | 流动；（数学史）牛顿微积分的旧称"流数" | [低频]{.freq .freq-3} |
+| [afflux]{.headword} | n | `af-`(朝)+`flux` | （血液等）涌向某处；汇流 | [低频]{.freq .freq-3} |
+| [influent]{.headword} | adj/n | `in-`(入)+`flu`(流)+`-ent` | 流入的；流入的支流 | [低频]{.freq .freq-3} |
+| [fluidify]{.headword} | v | `fluid`(流体)+`-ify`(使) | 使液化，使流体化 | [低频]{.freq .freq-3} |
+| [fluidity]{.headword} | n | `fluid`(流动)+`-ity` | 流动性；（局势等）不稳定性 | [中频]{.freq .freq-2} |
+| [fluviology]{.headword} | n | `fluvi`(河流)+`-logy`(学) | 河流学 | [低频]{.freq .freq-3} |
+| [mellifluence]{.headword} | n | `melli`(蜜)+`flu`(流)+`-ence` | 甜美流畅（尤指声音或言辞） | [低频]{.freq .freq-3} |
+| [superflux]{.headword} | n | `super-`(过)+`flux` | 过剩，盈余（文学性用词，莎士比亚曾用） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- She speaks three languages **fluently**, switching between them mid-sentence without missing a beat.（流利地——话语如水，不打绊子）
+- The company's profits **fluctuated** wildly throughout the year, making investors nervous.（大幅波动——像水位忽高忽低）
+- The **confluence** of the two rivers creates a broad, calm pool popular with kayakers.（汇流处——两条河的 con- 加在一起）
+- Decades of industrial dumping have left the river choked with **effluent** and stripped of life.（废水——ef- 向外流出的污染物）
+- His velvet baritone was so **mellifluous** that audiences fell silent the moment he began to speak.（如蜜般流淌——melli 蜜 + flu 流，声音甜到要滴下来）
+- The city is in a state of **flux**; new towers rise while old neighbourhoods are torn down monthly.（持续变动中——flux 的哲学底色：一切都还在流动，没有定型）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想象成给水流指路的路标：
+
+- **in-**（箭头向内↘）→ 流进来 → *influence*（影响流入你），*influx*（大量涌入）
+- **af-**（朝你走来→）→ 财富流向你 → *affluent*（富裕）
+- **con-**（两箭头合并→←）→ 一起汇流 → *confluence*（汇聚点）
+- **ef-/ex-**（箭头向外↗）→ 流出去 → *effluent*（排出的废水）
+- **super-**（箭头溢出杯沿↑↑）→ 流过头 → *superfluous*（多余的）
+- **re-**（箭头掉头←）→ 流回来 → *reflux*（胃酸反流）
+
+只要看到 flu / flux / fluvi / fluct-，就想"水在流——前缀告诉你方向"。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**fluorescent / fluoride / fluorine 与"流"的关系**：矿物学家命名*fluorite*（萤石）时，是因为它加热后"流动融化"（助熔剂），所以借用了 *fluere*。由此衍生出化学元素 fluorine（氟）和 fluorescent（荧光的）。但这条词源路径已经走得很远——**不要用"流"来推断荧光灯或氟化物的意思**，直接记这两个词的化学/物理含义更稳妥。词源在此只是有趣的历史，不是可靠的语义推断工具。
+
+**flush 的归属**：flush（冲洗，脸红）与 *fluere* 同属同一印欧语系根，语感上也像"一阵涌流"，但其直接来源是古法语和中古英语，而非直接从拉丁语借入。把它当词族成员感受是合理的，但不要用它去推断拼写规则。
+
+**flu（感冒）≠ flu（词根）**：flu 作为 influenza 的缩写是日常口语词，flu 作为词根是书面构词成分，两者字母相同纯属巧合中的必然——缩写本来就截取了词根所在的音节。不要因为这个反向去"发现"词根，方向应该是：先学词根 flu，再认出它藏在 influenza 里。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 53 章）学完后，请回看：
+
+- **第 52 章**：快速过一遍核心词表，与本章的"流"对照，感受两个词根的语义边界。
+- **第 51 章**：重点确认前缀用法，本章的 in- / con- / ex- 与第 51 章的前缀体系一脉相承。
+- **第 49 章**：回顾那章的高频词，尝试用"同一前缀，不同词根"造句对比。
+- **第 45 章**：复习那章的助记方法，对照本章的"路标"助记法，选一种更适合自己的方式。
+- **第 37 章**：把那章的词根与 flu/flux 放在一起默想——两个词根是否有语义上的交集或对比？
+
+**本章自测提示**（不看书，在纸上作答）：
+
+1. *superfluous* 里的 super- 是什么方向？为什么意思是"多余的"？
+2. 用一句话区分 *influent*、*influence*、*influx* 三个词的使用场景。
+3. *mellifluous* 里的 melli- 是什么意思？拼出它，默写这个词。
+4. *fluctuate* 和 *flux* 同根，但词形里为什么多了 -tu-？（提示：来自拉丁语 *fluctus*，波浪。）
+:::

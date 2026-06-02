@@ -1,0 +1,133 @@
+# hyper / hypo —— "上·过 与 下·不足"
+
+::: {.root-banner}
+hyper · hypo = over / under 过度 · 不足
+:::
+
+来源：希腊语介词 **ὑπέρ**（hypér，"在……之上、超过"）与 **ὑπό**（hypó，"在……之下、不足"）；两词在古希腊语中互为镜像反义，共享同一个 PIE 词根 \*upo-（"在下、向上"），方向感相反。
+
+::: {.etymo}
+**词源故事：天平的两端**
+
+想象一架古希腊集市上的天平。秤砣放在正中，一边盘子压下去叫 *hypo*——"在下面"；另一边翘上去叫 *hyper*——"越过顶端"。古希腊医师盖伦（Galen）正是借助这对词描述体液的盈亏：热过头还是热不足，湿过头还是湿不足。两个前缀就像温度计的上下刻度，一高一低，浑然一对。
+
+这种对称性流传千年，渗进了几乎每一个现代学科。化学家说 *hypertonic*（高渗）对 *hypotonic*（低渗）；医生说 *hypertension*（高血压）对 *hypotension*（低血压）；中学数学讲 *hypotenuse*（斜边，字面意思是"撑在下面的那条边"），地理课讲 *hypocenter*（震源，在地表之下的中心）。
+
+记住一个画面：hyper 是那个精力过剩、在课堂上跳来跳去的孩子；hypo 是那个能量不足、悄悄缩在桌子下的孩子。两个人永远坐在同一间教室，却总在天平的两头。
+:::
+
+### 搭档根表
+
+| 搭档根 | 含义 | hyper- 组合示例 | hypo- 组合示例 |
+|--------|------|----------------|---------------|
+| -thermia / -therm | 热（希腊 thermos） | hyperthermia 体温过高 | hypothermia 体温过低 |
+| -tension / -tens | 张力（拉丁 tendere，但医学术语借用） | hypertension 高血压 | hypotension 低血压 |
+| -glyc(emia) | 糖（希腊 glykys 甜） | hyperglycemia 血糖过高 | hypoglycemia 血糖过低 |
+| -dermic / -derm | 皮肤（希腊 derma） | hyperdermic（罕，皮上） | hypodermic 皮下 |
+| -bole / -ball / -bol | 投掷（希腊 ballein） | hyperbole 夸张法 | — |
+| -thesis / -thet | 放置（希腊 tithenai） | — | hypothesis 假设 |
+| -crite / -crit | 判断、分辨（希腊 krinein） | hypercritical 过度苛评 | hypocrite 伪君子 |
+| -sonic / -son | 声音（拉丁 sonus，借入科技词） | hypersonic 超高音速 | hyposonic（低速，技术术语） |
+| -ventilate / -vent | 通气（拉丁，但现代医学复合词） | hyperventilate 过度换气 | hypoventilate 通气不足 |
+| -link | 链接（现代英语） | hyperlink 超链接 | — |
+| -tonic | 张力、渗透压（希腊 tonos） | hypertonic 高渗的 | hypotonic 低渗的 |
+| -active / -act | 活跃（拉丁，借入） | hyperactive 过度活跃 | hypoactive 活跃不足 |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|------|------|------|------|
+| [hyperactive]{.headword} | adj | `hyper-`(过)+`active`(活跃) | 过度活跃的，多动的 | [高频]{.freq .freq-1} |
+| [hypertension]{.headword} | n | `hyper-`(过)+`tension`(张力/压力) | 高血压 | [高频]{.freq .freq-1} |
+| [hyperbole]{.headword} | n | `hyper-`(过)+`-bole`(投掷) | 夸张法；言过其实 | [高频]{.freq .freq-1} |
+| [hyperlink]{.headword} | n/v | `hyper-`(超越)+`link`(链接) | 超链接 | [高频]{.freq .freq-1} |
+| [hypersonic]{.headword} | adj | `hyper-`(超)+`sonic`(声速) | 超高音速的（>5马赫） | [中频]{.freq .freq-2} |
+| [hyperventilate]{.headword} | v | `hyper-`(过)+`ventilate`(通气) | 过度换气 | [中频]{.freq .freq-2} |
+| [hypercritical]{.headword} | adj | `hyper-`(过)+`critical`(批评性) | 吹毛求疵的 | [中频]{.freq .freq-2} |
+| [hyperglycemia]{.headword} | n | `hyper-`(过)+`glyc-`(糖)+`-emia`(血症) | 高血糖症 | [中频]{.freq .freq-2} |
+| [hyperthermia]{.headword} | n | `hyper-`(过)+`-thermia`(热) | 体温过高；热射病 | [中频]{.freq .freq-2} |
+| [hypertonic]{.headword} | adj | `hyper-`(过)+`tonic`(张力) | 高渗的；肌肉过紧的 | [中频]{.freq .freq-2} |
+| [hypertext]{.headword} | n | `hyper-`(超越)+`text`(文本) | 超文本（HTML 的 H） | [高频]{.freq .freq-1} |
+| [hyperbolic]{.headword} | adj | `hyper-`(过)+`bol-`(投)+`-ic` | 夸张的；双曲线的 | [中频]{.freq .freq-2} |
+| [hyperspace]{.headword} | n | `hyper-`(超)+`space`(空间) | 超空间；高维空间 | [中频]{.freq .freq-2} |
+| [hyperinflation]{.headword} | n | `hyper-`(过)+`inflation`(通胀) | 恶性通货膨胀 | [中频]{.freq .freq-2} |
+| [hypersensitive]{.headword} | adj | `hyper-`(过)+`sensitive`(敏感) | 过度敏感的；过敏的 | [中频]{.freq .freq-2} |
+| [hypothesis]{.headword} | n | `hypo-`(下)+`-thesis`(放置) | 假设；假说 | [高频]{.freq .freq-1} |
+| [hypothetical]{.headword} | adj | `hypo-`(下)+`thet-`(放)+`-ical` | 假设性的；假想的 | [高频]{.freq .freq-1} |
+| [hypothermia]{.headword} | n | `hypo-`(下/不足)+`-thermia`(热) | 体温过低症 | [高频]{.freq .freq-1} |
+| [hypodermic]{.headword} | adj/n | `hypo-`(下)+`-derm-`(皮肤)+`-ic` | 皮下的；皮下注射（针） | [高频]{.freq .freq-1} |
+| [hypocrite]{.headword} | n | `hypo-`(下/幕后)+`-crite`(判断/表演) | 伪君子；虚伪者 | [高频]{.freq .freq-1} |
+| [hypocrisy]{.headword} | n | `hypo-`+`-crit-`(判断)+`-sy` | 虚伪；伪善 | [高频]{.freq .freq-1} |
+| [hypotenuse]{.headword} | n | `hypo-`(下)+`-tenuse`(拉伸、撑) | （直角三角形）斜边 | [高频]{.freq .freq-1} |
+| [hypoglycemia]{.headword} | n | `hypo-`(不足)+`glyc-`(糖)+`-emia`(血症) | 低血糖症 | [中频]{.freq .freq-2} |
+| [hypotension]{.headword} | n | `hypo-`(不足)+`tension`(张力) | 低血压 | [中频]{.freq .freq-2} |
+| [hypothyroidism]{.headword} | n | `hypo-`(不足)+`thyroid`(甲状腺)+`-ism` | 甲状腺功能减退症 | [中频]{.freq .freq-2} |
+| [hypotonic]{.headword} | adj | `hypo-`(不足)+`tonic`(张力) | 低渗的；肌肉张力低的 | [中频]{.freq .freq-2} |
+| [hypocenter]{.headword} | n | `hypo-`(下)+`center`(中心) | 震源（地震学）；爆心投影 | [中频]{.freq .freq-2} |
+| [hypoventilate]{.headword} | v | `hypo-`(不足)+`ventilate`(通气) | 通气不足，呼吸过浅 | [低频]{.freq .freq-3} |
+| [hypoactive]{.headword} | adj | `hypo-`(不足)+`active`(活跃) | 活跃不足的；功能减退的 | [低频]{.freq .freq-3} |
+| [hypocritical]{.headword} | adj | `hypo-`+`crit-`+`-ical` | 虚伪的，伪善的 | [高频]{.freq .freq-1} |
+| [hyperaware]{.headword} | adj | `hyper-`(过)+`aware`(意识到) | 高度警觉的；过度敏觉的 | [中频]{.freq .freq-2} |
+| [hyperbola]{.headword} | n | `hyper-`(过)+`-bola`(投掷) | 双曲线（数学曲线，因"超过"抛物线而得名） | [中频]{.freq .freq-2} |
+| [hyperrealism]{.headword} | n | `hyper-`(超)+`realism`(写实) | 超写实主义（艺术流派） | [低频]{.freq .freq-3} |
+| [hypochondria]{.headword} | n | `hypo-`(下)+`chondria`(软骨，腹部) | 疑病症（古人认为该处藏着忧郁） | [中频]{.freq .freq-2} |
+| [hypochondriac]{.headword} | n/adj | `hypo-`+`chondriac`(软骨/腹部的) | 疑病症患者；疑病的 | [中频]{.freq .freq-2} |
+| [hypostasis]{.headword} | n | `hypo-`(下)+`-stasis`(站立/沉积) | 本质；（医）坠积（液体沉到低处） | [低频]{.freq .freq-3} |
+| [hyperemia]{.headword} | n | `hyper-`(过)+`-emia`(血) | 充血（某处血液过多） | [低频]{.freq .freq-3} |
+| [hypnosis]{.headword} | n | `hypn-`(睡眠，希腊 Hypnos)+`-osis` | 催眠状态 | [高频]{.freq .freq-1} |
+| [hypersecretion]{.headword} | n | `hyper-`(过)+`secretion`(分泌) | 分泌过多 | [低频]{.freq .freq-3} |
+| [hyposensitize]{.headword} | v | `hypo-`(减)+`sensitize`(使敏感) | 脱敏（免疫疗法中降低过敏反应） | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The doctor warned that her **hyperactive** thyroid was causing rapid heartbeat and weight loss.（甲状腺**过度活跃**——分泌太多，把身体烧过头了）
+- The scientist offered a bold **hypothesis**: the extinction was triggered by a single asteroid impact.（**假设**字面是"放在下面的前提"——先搁在那，再用证据验证）
+- Three hikers were treated for **hypothermia** after spending the night on the exposed ridge.（体温**过低**——山脊上热量散失，hypo = 不足）
+- The politician's speech was pure **hyperbole**; he called it "the greatest crisis in ten thousand years."（**夸张**——言辞投掷得远远越过现实）
+- Injecting insulin directly into the bloodstream is far riskier than a standard **hypodermic** shot.（**皮下**注射——针头只到皮肤下方，不进血管）
+- It's **hypocritical** to preach environmental responsibility while flying a private jet every weekend.（**虚伪的**——台面上一套，私下一套，hypocrite 本指舞台上戴面具的演员）
+:::
+
+::: {.mnemonic}
+**助记**：把两个词根想成温度计的两个极端——`HYPER` 是温度计顶端爆表（过热、过多、过快），`HYPO` 是温度计底端结冰（过低、不足、不够）。看到医学或科学词汇的开头，先判断"这是爆表还是结冰"，释义自然出来一半。对称对：hyper**tension**（高血压） ↔ hypo**tension**（低血压）；hyper**glycemia**（高血糖） ↔ hypo**glycemia**（低血糖）；hyper**thermia**（体温过高） ↔ hypo**thermia**（体温过低）。
+:::
+
+::: {.trap}
+**陷阱一：hypnosis 不含 hypo**
+
+*hypnosis*（催眠）看起来像 hypo- 开头，实为 **hypno-**，来自希腊神话的睡神 *Hypnos*（ὕπνος），与"不足"或"在下"无关。不要因为前几个字母相似就推断"催眠 = 意识低下"的词源逻辑——这只是形似，不是词源事实。
+
+**陷阱二：hypocrite 的词根不是"crit-"（批评）**
+
+*hypocrite* 源自希腊语 *hypokrinomai*，意为"在台下回应、扮演角色"，古希腊演员在舞台下方诵念台词，因而引申为"表里不一"。现代英语中 *critic*（批评者）虽然也来自同一个希腊词根 *krinein*（判断、分辨），但 hypocrite 的语义演化路径是"舞台表演 → 装模作样"，而非"在下面批评"。词根的"判断"义是历史趣闻，不是可靠的推断工具。
+
+**陷阱三：hyper- 不总是负面**
+
+在日常英语中，"hyperactive child"带有负面含义，但在技术语境中 hyper- 仅表示"超过某个量级"，不带价值判断：*hyperlink*（超链接）是中性技术词，*hypersonic missile* 并不含"危险过头"的字面义，只是描述速度超过5倍音速。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 62 章）学完后，请回看以下章节巩固关联词根：
+
+- **第 61 章** — 上一章词根，检查是否混淆前缀方向
+- **第 60 章** — 与本章形成对比的词缀结构
+- **第 58 章** — *-thesis / -thet*（放置）：hypothesis 的后半段在那章有系统讲解，回看可将 hypothesis / synthesis / antithesis / parenthesis 打通
+- **第 54 章** — *-therm*（热）：hypothermia / hyperthermia 的后半段词根，回看对比 thermal / thermostat / endotherm
+- **第 46 章** — *-derm*（皮肤）：hypodermic 的后半段，回看对比 epidermis / dermatology
+
+**本章自测提示**：
+
+1. *hypo**tenuse*** 的字面义是什么？为什么直角三角形的斜边用"在下面撑着"来命名？
+2. 区分 *hyper**bole***（修辞）与 *hyper**bola***（数学曲线）——词根相同，语境如何区分？
+3. 不看书，能默写出三对 hyper / hypo 医学对称词吗？（提示：血压、血糖、体温）
+4. *hypo**crite*** 为何不是"在下面批评的人"？用本章陷阱中的剧场意象解释一遍。
+:::

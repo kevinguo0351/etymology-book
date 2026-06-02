@@ -1,0 +1,132 @@
+# poly —— "多"
+
+::: {.root-banner}
+`poly` = many, much 多；许多
+:::
+
+来源：希腊语 **polys**（πολύς），意为"many, much"，与拉丁语 *plus*（更多）同属印欧语系词根 *\*pelH-*（充盈、丰富）。
+
+::: {.etymo}
+**词源故事：古希腊的"多"哲学**
+
+希腊人对"多"有一种近乎执迷的思辨热情。哲学家们争论宇宙究竟是"一"（hen）还是"多"（polys）——赫拉克利特说万物皆变，德谟克利特说原子无数。这种思维基因渗入了语言：凡是要强调"数量众多、种类繁杂"的概念，希腊人便把 *polys* 前置，拼出一个新词。
+
+*polys* 进入科学语汇后爆发力尤为惊人。化学家造出 **polymer**（多个单体），数学家造出 **polynomial**（多项式），音乐家造出 **polyphony**（多声部），政治学家造出 **polyarchy**（多头治理）。每一个领域，只要遇到"不止一个、而且多得重要"的现象，*poly-* 就是第一个召唤的前缀。
+
+值得注意的是，*poly-* 天生是一个"搭档型"前缀：它几乎从不单独成词，而是与描述具体事物的希腊根紧密联姻。搭档根负责说"是什么"，*poly-* 负责说"有多少"。这种分工极为清晰，也是本章最值得掌握的构词逻辑。
+
+对中文读者来说，有一个直觉锚点：每次看到 *poly-* 开头的生词，先问自己"多个什么？"，答案往往就藏在后面的词根里。**polygon** = 多个角，**polyglot** = 多个舌头（即多种语言），**polychrome** = 多种颜色——这套公式几乎百试不爽。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `gon` | 角（希腊 *gōnia*） | polygon 多边形 |
+| `mer` | 部分、单元（希腊 *meros*） | polymer 聚合物 |
+| `theism` | 神（希腊 *theos*） | polytheism 多神论 |
+| `gamy` | 婚配（希腊 *gamos*） | polygamy 一夫多妻 |
+| `glot` | 舌、语言（希腊 *glōtta*） | polyglot 通晓多语者 |
+| `phony` | 声音（希腊 *phōnē*） | polyphony 复调音乐 |
+| `graph` | 写、记录（希腊 *graphein*） | polygraph 多线记录仪/测谎仪 |
+| `chrome` | 颜色（希腊 *chrōma*） | polychrome 多彩的 |
+| `morph` | 形态（希腊 *morphē*） | polymorphic 多形态的 |
+| `technic` | 技艺（希腊 *tekhnē*） | polytechnic 综合技术的 |
+| `nomial` | 名称/项（拉丁 *nomen*+希腊结构） | polynomial 多项式 |
+| `archy` | 统治（希腊 *arkhein*） | polyarchy 多头治理 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [polygon]{.headword} | n. | `poly-`(多)+`gon`(角) | 多边形 | [高频]{.freq .freq-1} |
+| [polygonal]{.headword} | adj. | `poly-`(多)+`gon`(角)+`-al`(形容词) | 多边形的 | [中频]{.freq .freq-2} |
+| [polymer]{.headword} | n. | `poly-`(多)+`mer`(单元) | 聚合物 | [高频]{.freq .freq-1} |
+| [polymerize]{.headword} | v. | `polymer`+`-ize`(动词化) | 聚合，使聚合 | [中频]{.freq .freq-2} |
+| [polymerization]{.headword} | n. | `polymerize`+`-ation` | 聚合反应 | [中频]{.freq .freq-2} |
+| [polytheism]{.headword} | n. | `poly-`(多)+`theism`(神论) | 多神论 | [中频]{.freq .freq-2} |
+| [polytheist]{.headword} | n. | `poly-`(多)+`the`(神)+`-ist` | 多神论者 | [中频]{.freq .freq-2} |
+| [polytheistic]{.headword} | adj. | `poly-`(多)+`theist`+`-ic` | 多神论的 | [中频]{.freq .freq-2} |
+| [polygamy]{.headword} | n. | `poly-`(多)+`gamy`(婚配) | 一夫多妻（或一妻多夫）制 | [中频]{.freq .freq-2} |
+| [polygamist]{.headword} | n. | `polygamy`+`-ist` | 实行多偶婚的人 | [低频]{.freq .freq-3} |
+| [polygamous]{.headword} | adj. | `polygam`+`-ous` | 多偶的 | [低频]{.freq .freq-3} |
+| [polyglot]{.headword} | n./adj. | `poly-`(多)+`glot`(语言) | 通晓多种语言的人；多语的 | [中频]{.freq .freq-2} |
+| [monopoly]{.headword} | n. | `mono-`(单)+`poly`(销售) | 垄断 | [高频]{.freq .freq-1} |
+| [monopolize]{.headword} | v. | `monopoly`+`-ize` | 垄断；独占 | [高频]{.freq .freq-1} |
+| [monopolist]{.headword} | n. | `monopoly`+`-ist` | 垄断者 | [中频]{.freq .freq-2} |
+| [monopolistic]{.headword} | adj. | `monopolist`+`-ic` | 垄断性的 | [中频]{.freq .freq-2} |
+| [polynomial]{.headword} | n./adj. | `poly-`(多)+`nomial`(项/名) | 多项式；多项的 | [中频]{.freq .freq-2} |
+| [polyphony]{.headword} | n. | `poly-`(多)+`phony`(声音) | 复调；多声部音乐 | [中频]{.freq .freq-2} |
+| [polyphonic]{.headword} | adj. | `poly-`(多)+`phon`(声)+`-ic` | 复调的；多声的 | [中频]{.freq .freq-2} |
+| [polygraph]{.headword} | n. | `poly-`(多)+`graph`(记录) | 测谎仪；多线描记仪 | [中频]{.freq .freq-2} |
+| [polychrome]{.headword} | adj./n. | `poly-`(多)+`chrome`(色) | 多彩的；多色画/雕塑 | [中频]{.freq .freq-2} |
+| [polychromatic]{.headword} | adj. | `poly-`(多)+`chromat`(色)+`-ic` | 多色的；多波长的 | [低频]{.freq .freq-3} |
+| [polytechnic]{.headword} | adj./n. | `poly-`(多)+`technic`(技术) | 综合技术的；理工学院 | [中频]{.freq .freq-2} |
+| [polymorphic]{.headword} | adj. | `poly-`(多)+`morph`(形态)+`-ic` | 多形态的；多态的 | [中频]{.freq .freq-2} |
+| [polymorphism]{.headword} | n. | `poly-`(多)+`morph`(形态)+`-ism` | 多态性；多形现象 | [中频]{.freq .freq-2} |
+| [polymath]{.headword} | n. | `poly-`(多)+`math`(学习) | 博学者；通才 | [中频]{.freq .freq-2} |
+| [polyarchy]{.headword} | n. | `poly-`(多)+`archy`(统治) | 多头统治；多元政体 | [低频]{.freq .freq-3} |
+| [polyclinic]{.headword} | n. | `poly-`(多)+`clinic`(诊所) | 综合诊所；门诊部 | [中频]{.freq .freq-2} |
+| [polysemy]{.headword} | n. | `poly-`(多)+`semy`(含义) | 一词多义；多义性 | [低频]{.freq .freq-3} |
+| [polysemous]{.headword} | adj. | `poly-`(多)+`sem`(义)+`-ous` | 一词多义的 | [低频]{.freq .freq-3} |
+| [polysyllabic]{.headword} | adj. | `poly-`(多)+`syllabic`(音节) | 多音节的 | [中频]{.freq .freq-2} |
+| [polysyllable]{.headword} | n. | `poly-`(多)+`syllable`(音节) | 多音节词 | [低频]{.freq .freq-3} |
+| [polarity]{.headword} | n. | `pol`(极)+`-arity` | 极性；对立性（注：非 poly-，见陷阱） | [高频]{.freq .freq-1} |
+| [polyester]{.headword} | n. | `poly-`(多)+`ester`(酯) | 聚酯；涤纶 | [高频]{.freq .freq-1} |
+| [polyethylene]{.headword} | n. | `poly-`(多)+`ethylene`(乙烯) | 聚乙烯 | [高频]{.freq .freq-1} |
+| [polypropylene]{.headword} | n. | `poly-`(多)+`propylene`(丙烯) | 聚丙烯 | [中频]{.freq .freq-2} |
+| [polystyrene]{.headword} | n. | `poly-`(多)+`styrene`(苯乙烯) | 聚苯乙烯 | [中频]{.freq .freq-2} |
+| [polyp]{.headword} | n. | 希腊 *polypous*：`poly-`(多)+`pous`(足) | 息肉；水螅（因多足得名） | [中频]{.freq .freq-2} |
+| [polypod]{.headword} | adj./n. | `poly-`(多)+`pod`(足) | 多足的；多足动物 | [低频]{.freq .freq-3} |
+| [polyandry]{.headword} | n. | `poly-`(多)+`andry`(男性) | 一妻多夫制 | [低频]{.freq .freq-3} |
+| [polyculture]{.headword} | n. | `poly-`(多)+`culture`(种植/文化) | 多元种植；多元文化种植法 | [低频]{.freq .freq-3} |
+| [polypharmacy]{.headword} | n. | `poly-`(多)+`pharmacy`(药) | 多重用药（老年医学术语） | [低频]{.freq .freq-3} |
+| [polycystic]{.headword} | adj. | `poly-`(多)+`cystic`(囊) | 多囊的（如多囊卵巢综合征） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The ancient Greeks practiced **polytheism**, worshipping gods of the sea, sky, war, and harvest.（古希腊人信奉多神论，海洋、天空、战争、丰收各有其神——多个神，多个 theos）
+- She was a true **polyglot**—switching effortlessly between Mandarin, English, French, and Arabic at the conference.（她在会议上游刃有余地在普通话、英语、法语和阿拉伯语之间切换——多个 glot，多种舌头）
+- The tech giant's **monopoly** over cloud services has drawn antitrust scrutiny from regulators worldwide.（那家科技巨头对云服务的垄断已引来全球监管机构的反垄断审查——mono 单一 + poly 销售，一家独大）
+- Leonardo da Vinci is often cited as history's greatest **polymath**, excelling in painting, anatomy, engineering, and music.（达·芬奇常被誉为史上最伟大的通才，在绘画、解剖、工程和音乐领域均出类拔萃——多个 math，广泛学习）
+- Bach's **polyphonic** compositions remain a benchmark of musical complexity, with multiple independent melodic lines weaving together.（巴赫的复调作品至今仍是音乐复杂性的标杆，多条独立旋律线交织并行——多个 phone，多声交响）
+- Plastic bags are typically made of **polyethylene**, one of the world's most widely produced synthetic polymers.（塑料袋通常由聚乙烯制成，这是世界上产量最大的合成聚合物之一——poly + ethylene，乙烯单元重复叠加）
+:::
+
+::: {.mnemonic}
+**助记**：把 `poly-` 想象成一只章鱼——章鱼有"多"条腕足（恰好对应 polyp/polypod 的"多足"原义），每条腕足抓住一个不同的词根。**poly-gon**（多角），**poly-glot**（多语），**poly-mer**（多单元）——章鱼的每条腕足都握着一块不同的积木，拼出不同的词。只要认出词根，"多个什么"一目了然。另一个锚点：**monopoly**（大富翁游戏）= *mono*（一家）+ *poly*（卖）= 一家独大垄断市场，这个游戏名字本身就是一道构词法题目。
+:::
+
+::: {.trap}
+**陷阱一：polarity 不是 poly-**
+
+[polarity]{.headword}（极性）和 [polar]{.headword}（极地的）看起来像 *poly-*，实际来自拉丁语 *polus*（极点，借自希腊语 *polos*，意为轴、天极），与"多"毫无关系。看到 *pol-* 开头的词，要先确认后面是不是接了希腊词根，而不是自动套用"多"的含义。
+
+**陷阱二：poly- 不总是"数量多"**
+
+**monopoly** 中的 *-poly* 来自希腊语 *pōlein*（销售），不是 *polys*（多）。*mono-poly* 的字面意思是"单一卖家"。这是一个形似巧合，却来源不同的词根。不要看到任何含 *-poly* 的词就联想到"多"——**oligopoly**（寡头垄断）中的 *-poly* 同理。这类历史趣闻有助于理解词义，但**不能用来反推**：不要因为 *monopoly* 里有 *poly* 就认为它与"多"相关。
+
+**陷阱三：polygon 的"-gon"不能随意替换**
+
+*-gon* 表示"角"，pentagon（五角形）、hexagon（六角形）、octagon（八角形）都用这个根，但不能把 *polygon* 拆解为"多边形"时误以为 *-gon* 表示"边"——边是 side，角才是 gon。多边形之所以"多边"，是因为有多个角，每个角对应一条边，这是几何关系，不是词根含义。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 56 章）学完后，请回看以下章节，检验词根网络是否连通：
+
+- **第 55 章**（mono- 单一）——`poly-` 与 `mono-` 是天然对子：*polytheism* vs. *monotheism*，*polygamy* vs. *monogamy*，*polyphony* vs. *monophony*。两章对读，记忆效率加倍。
+- **第 54 章**（graph/gram 写、记录）——本章 *polygraph*（测谎仪）中的 *-graph* 正是第 54 章核心根。
+- **第 52 章**（morph 形态）——本章 *polymorphic/polymorphism* 中的 *-morph* 来自第 52 章。
+- **第 48 章**（chrom/color 颜色）——本章 *polychrome* 中的 *-chrome* 见第 48 章。
+- **第 40 章**（phone/phon 声音）——本章 *polyphony* 中的 *-phony* 见第 40 章。
+
+**自测提示**：
+
+1. *polygon* 的 `-gon` 是什么意思？能想出另外三个含 `-gon` 的词吗？
+2. *monopoly* 里的 `mono-` 和 `-poly` 各来自哪个希腊词根？（注意：这里的 `-poly` 不是"多"！）
+3. 看到 *polymath*，你能猜出 `math` 这个词根在希腊语中的原义吗？（提示：不是"数学"）
+4. *polymer* 和 *polystyrene* 都是塑料领域词汇，`-mer` 和 `-styrene` 分别指什么？
+:::

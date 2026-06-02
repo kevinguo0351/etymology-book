@@ -1,0 +1,127 @@
+# hetero / homo —— "异 与 同"
+
+::: {.root-banner}
+hetero = different 不同；另一个 · homo = same 相同；相似
+:::
+
+来源：希腊语 **heteros**（另一个，不同的）与 **homos**（相同的，共同的）；两根均为古希腊日常词，进入科学与哲学术语后广泛繁殖。
+
+::: {.etymo}
+**词源故事：同与异的两面镜子**
+
+古希腊人做哲学讨论时极喜欢"分类"——这个东西和那个东西是同一种，还是不同种？homos 就是"一样的"，heteros 就是"另一个"。两个词天生就是一对镜子，并排站在那里。
+
+当古代学者想描述声音相同而拼写不同的词，就拼出 hom(o)+phone（声音相同）；想说意思相同、名字也一样，就拼 hom(o)+onym（名字相同）。同理，hetero+dox（观点不同）就是"异端"，hetero+geneous（种类不同）就是"混杂"。
+
+这两个根后来大量进入近代科学：生物学家说 homologous（同源的），化学家说 heterogeneous mixture（非均相混合物），生理学家说 homeostasis（内稳态）。今天它们仍然是学术写作的高频零件，认识它们就等于拿到了几十个词的通行证。
+
+注意 homo- 这个前缀在英语里有两个来源完全不同的"祖先"：一是希腊语 homos"相同"，一是拉丁语 homo"人"。两条线互不相干，下文陷阱区有详细说明。
+:::
+
+## 搭档根表
+
+| 搭档根 | 含义 | 与 homo- 组合 | 与 hetero- 组合 |
+|--------|------|---------------|-----------------|
+| -gen(e)- | 种类；产生 | homogeneous 同质的 | heterogeneous 异质的 |
+| -nym | 名字 | homonym 同形异义词 | heteronym 异音同形词 |
+| -phone | 声音 | homophone 同音词 | heterophone（发音不同） |
+| -graph | 书写；图 | homograph 同形词 | heterograph 异形同音词 |
+| -dox | 观点；信仰 | — | heterodox 异端的 |
+| -stasis | 静止；稳定 | homeostasis 内稳态 | — |
+| -log(ous) | 比例；关系 | homologous 同源的 | heterologous 异源的 |
+| -sex(ual) | 性 | homosexual 同性的 | heterosexual 异性的 |
+| -morph | 形态 | homomorphic 同形的 | heteromorphic 异形的 |
+| -zygous | 合子；配对 | homozygous 纯合的 | heterozygous 杂合的 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [heterogeneous]{.headword} | 形 | `hetero-`(异)+`-gene-`(种类)+`-ous` | 由不同种类构成的；混杂的 | [高频]{.freq .freq-1} |
+| [homogeneous]{.headword} | 形 | `homo-`(同)+`-gene-`(种类)+`-ous` | 同质的；均一的 | [高频]{.freq .freq-1} |
+| [homogenize]{.headword} | 动 | `homo-`(同)+`-gen-`(产生)+`-ize` | 使均质；使一致（如均质牛奶） | [高频]{.freq .freq-1} |
+| [homogenization]{.headword} | 名 | `homo-`(同)+`-gen-`+`-ization` | 均质化；同质化过程 | [中频]{.freq .freq-2} |
+| [heterodox]{.headword} | 形 | `hetero-`(异)+`-dox`(观点) | 异端的；非正统的 | [中频]{.freq .freq-2} |
+| [orthodox]{.headword} | 形 | `ortho-`(正)+`-dox`(观点) | 正统的；传统的 | [高频]{.freq .freq-1} |
+| [heterodoxy]{.headword} | 名 | `hetero-`(异)+`-doxy`(信念) | 异端；非正统观点 | [中频]{.freq .freq-2} |
+| [homonym]{.headword} | 名 | `homo-`(同)+`-nym`(名字) | 同音（形）异义词 | [高频]{.freq .freq-1} |
+| [homophone]{.headword} | 名 | `homo-`(同)+`-phone`(声音) | 同音词（拼写不同，读音相同） | [高频]{.freq .freq-1} |
+| [homograph]{.headword} | 名 | `homo-`(同)+`-graph`(书写) | 同形词（拼写相同，含义或读音不同） | [中频]{.freq .freq-2} |
+| [heteronym]{.headword} | 名 | `hetero-`(异)+`-nym`(名字) | 异音同形词（拼写同，读音义均异） | [低频]{.freq .freq-3} |
+| [homeostasis]{.headword} | 名 | `homeo-`(相似)+`-stasis`(稳定) | 内稳态；生理平衡状态 | [高频]{.freq .freq-1} |
+| [homeostatic]{.headword} | 形 | `homeo-`(相似)+`-static`(静止的) | 内稳态的；维持平衡的 | [中频]{.freq .freq-2} |
+| [homologous]{.headword} | 形 | `homo-`(同)+`-log-`(比例关系)+`-ous` | 同源的；同功的（生物学） | [高频]{.freq .freq-1} |
+| [homologue]{.headword} | 名 | `homo-`(同)+`-logue`(对应物) | 同源物；对应体 | [中频]{.freq .freq-2} |
+| [homology]{.headword} | 名 | `homo-`(同)+`-logy`(学说；关系) | 同源性；对应关系 | [中频]{.freq .freq-2} |
+| [heterologous]{.headword} | 形 | `hetero-`(异)+`-log-`(关系)+`-ous` | 异源的；来自不同物种的 | [中频]{.freq .freq-2} |
+| [homosexual]{.headword} | 形/名 | `homo-`(同)+`-sexual`(性的) | 同性的；同性恋者 | [高频]{.freq .freq-1} |
+| [heterosexual]{.headword} | 形/名 | `hetero-`(异)+`-sexual`(性的) | 异性的；异性恋者 | [高频]{.freq .freq-1} |
+| [bisexual]{.headword} | 形/名 | `bi-`(二)+`-sexual`(性的) | 双性的；双性恋者 | [高频]{.freq .freq-1} |
+| [homozygous]{.headword} | 形 | `homo-`(同)+`-zygous`(合子的) | （遗传）纯合的 | [中频]{.freq .freq-2} |
+| [heterozygous]{.headword} | 形 | `hetero-`(异)+`-zygous`(合子的) | （遗传）杂合的 | [中频]{.freq .freq-2} |
+| [homomorphic]{.headword} | 形 | `homo-`(同)+`-morph`(形态)+`-ic` | 同形的；形态相似的 | [低频]{.freq .freq-3} |
+| [heteromorphic]{.headword} | 形 | `hetero-`(异)+`-morph`(形态)+`-ic` | 异形的；形态不同的 | [低频]{.freq .freq-3} |
+| [homophone]{.headword} | 名 | `homo-`(同)+`-phone`(声音) | 同音词 | [高频]{.freq .freq-1} |
+| [heterogenesis]{.headword} | 名 | `hetero-`(异)+`-genesis`(起源) | 异源发生；自然发生说 | [低频]{.freq .freq-3} |
+| [homocentric]{.headword} | 形 | `homo-`(同)+`-centric`(中心的) | 同心的；以同一中心的 | [低频]{.freq .freq-3} |
+| [heterocyclic]{.headword} | 形 | `hetero-`(异)+`-cyclic`(环状的) | （化学）杂环的 | [中频]{.freq .freq-2} |
+| [homocyclic]{.headword} | 形 | `homo-`(同)+`-cyclic`(环状的) | （化学）同素环的 | [低频]{.freq .freq-3} |
+| [heterogeneous mixture]{.headword} | 名词短语 | `hetero-`(异)+`-geneous`(种类) | 非均相混合物（物理/化学） | [高频]{.freq .freq-1} |
+| [homogeneous mixture]{.headword} | 名词短语 | `homo-`(同)+`-geneous`(种类) | 均相混合物 | [高频]{.freq .freq-1} |
+| [homo sapiens]{.headword} | 名 | 拉丁 `homo`(人)+`sapiens`(智慧的) | 智人（注意此处是拉丁根，见陷阱） | [高频]{.freq .freq-1} |
+| [heterodimer]{.headword} | 名 | `hetero-`(异)+`-dimer`(二聚体) | 异二聚体（生化） | [中频]{.freq .freq-2} |
+| [homodimer]{.headword} | 名 | `homo-`(同)+`-dimer`(二聚体) | 同二聚体（生化） | [中频]{.freq .freq-2} |
+| [homocide]{.headword} | — | — | 此词不存在；勿与 homicide 混淆（见陷阱） | — |
+| [heterotopia]{.headword} | 名 | `hetero-`(异)+`-topia`(位置) | 异位；组织异位症（医学） | [低频]{.freq .freq-3} |
+| [homotopy]{.headword} | 名 | `homo-`(同)+`-topy`(位置/变换) | 同伦（数学拓扑学术语） | [低频]{.freq .freq-3} |
+| [heteronomy]{.headword} | 名 | `hetero-`(异)+`-nomy`(法则) | 他律；受外在规则支配 | [中频]{.freq .freq-2} |
+| [autonomy]{.headword} | 名 | `auto-`(自)+`-nomy`(法则) | 自律；自治 | [高频]{.freq .freq-1} |
+| [homogenous]{.headword} | 形 | 同 homogeneous，另一拼法 | （生物学中）同源的；注意与 homogeneous 区分 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The city's population is remarkably **heterogeneous**, with residents speaking over eighty languages.（这座城市人口构成极为**多元混杂**，居民说着八十多种语言。）
+- Scientists **homogenized** the tissue sample before running the chemical assay.（科学家在进行化学检测前先将组织样本**均质化**处理。）
+- "Rose" and "rows" are **homophones**: identical in sound, different in spelling and meaning.（"rose"和"rows"是**同音词**：读音相同，拼写和意思都不一样。）
+- The body's **homeostatic** mechanisms keep blood glucose within a narrow range despite dramatic changes in diet.（尽管饮食变化剧烈，身体的**内稳态**机制仍将血糖维持在一个很窄的范围内。）
+- Darwin noted that the **homologous** bones in a whale's flipper, a bat's wing, and a human arm all share the same underlying structure.（达尔文指出，鲸的鳍、蝙蝠的翅膀和人类的手臂中那些**同源**骨骼拥有完全相同的基础结构。）
+- His **heterodox** views on monetary policy earned him both admirers and fierce critics within the economics profession.（他在货币政策上的**异端**观点，在经济学界既为他赢得了崇拜者，也招来了猛烈批评。）
+:::
+
+::: {.mnemonic}
+**助记**：把 homo 想成一面**镜子**——镜子里的像和你"相同"（homo = same）；把 hetero 想成一扇**旋转门**——进来的是另一个人（hetero = other）。要记 homeostasis（内稳态），拆成 **homo（同）+ stasis（静止）**：身体努力让一切"保持一样"，就是稳态。要记 heterogeneous（混杂的），想象一盘杂锦炒饭：里面有各种**不同（hetero）种类（gene）**的食材。
+:::
+
+::: {.trap}
+**陷阱：希腊 homo（同）≠ 拉丁 homo（人）**
+
+英语里有两个长得一模一样的前缀 homo-，来源和意思截然不同：
+
+- **希腊语 homos**（相同的）→ homophone, homosexual, homogeneous 等。这是本章的主角。
+- **拉丁语 homo**（人）→ **homicide**（杀人）、**hominid**（人科动物）、**Homo sapiens**（智人）。这条线与"相同"毫无关系。
+
+判断方法：如果词义里含有"人、人类、人科"的成分，十有八九是拉丁根；如果含有"相同、相似"的意思，才是希腊根。
+
+**这是纯粹的"历史趣闻"，不可用来推断词义**——看到 homo- 开头的词，不能因为知道了这段历史就任意猜测它属于哪条线，必须结合后续词根和语境判断。
+
+另一个小陷阱：**homogeneous** 与 **homogenous** 在普通英语里常混用，但在生物学中两词有细微区分（homogenous 特指同源结构），写学术文章时需留意语境。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 64 章）学完，建议回顾以下章节巩固相关希腊根网络：
+
+- **第 63 章**（上一章）— 检验连贯记忆
+- **第 62 章** — 与本章词根有交叉的派生词
+- **第 60 章** — 复习希腊根 -gen- / -nym 相关内容
+- **第 56 章** — 复习 -phone / -graph 系列
+- **第 48 章** — 复习 -stasis / -morph 相关词根
+
+**本章自测提示**：
+1. heterogeneous 与 homogeneous 各拆成哪三个部分？分别是什么意思？
+2. homonym / homophone / homograph 三者有何区别？各举一个英文例子。
+3. homeostasis 中的 homeo- 和本章 homo- 是什么关系？stasis 是什么意思？
+4. 看到 homicide，应该判断它属于希腊根"相同"还是拉丁根"人"？为什么？
+:::

@@ -1,0 +1,124 @@
+# mono / mon —— "一·单"
+
+::: {.root-banner}
+`mono` · `mon` = one, single 一，单独
+:::
+
+来源：希腊语 **monos**（单独的、孤独的），与拉丁语 *unus* 同义但来路不同，是希腊语族词汇的核心数词根之一。
+
+::: {.etymo}
+**词源故事：一个人的独角戏**
+
+古希腊剧场里，最令观众屏气凝神的时刻，往往不是众声喧哗的合唱，而是一名演员独立台中，向空旷的剧场倾诉内心——这就是 *monologos*，"一个人说话"。*monos*（一）加 *logos*（言），凝成了今天的 **monologue**。
+
+希腊语 *monos* 本义是"孤身的、唯一的"，带着一丝与世隔绝的意味。修道士（*monachos*）正是"独居之人"，英语 **monk** 和 **monastery** 都从这里来——一个人，一间小屋，与世界切断。
+
+这个根最大的魅力，在于它像万能接口，能与几乎所有希腊词根拼接，造出描述"唯一性"的新词：**monopoly**（单独占有）、**monarch**（一人统治）、**monotheism**（信仰一神）……每次看到 mono-，都可以先问自己：这里的"一"修饰的是什么？
+
+值得记住的是，mono- 和 poly-（多）天生是一对反义词根。读到 **monopoly** 想到 **oligopoly**（少数垄断）再到 **polyopoly** 便自然打通了一整片词汇网络。
+:::
+
+**搭档根一览：** mono- 是典型的"前缀型词根"，它本身不单独成词，必须拼搭另一个实义根才能工作。下表列出最高产的搭档：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `-logue / -logy` | 言、说 | monologue 独白 |
+| `-poly` | 多、出售 | monopoly 垄断 |
+| `-arch` | 统治、首 | monarch 君主 |
+| `-tone` | 音调 | monotone 单调 |
+| `-chrome` | 颜色 | monochrome 单色 |
+| `-theism` | 神、信仰 | monotheism 一神教 |
+| `-gamy` | 婚姻 | monogamy 一夫一妻 |
+| `-lith` | 石头 | monolith 巨石；庞然一体 |
+| `-gram` | 书写、字母 | monogram 姓名缩写花押 |
+| `-rail` | 轨道 | monorail 单轨铁路 |
+| `-cle / oculus` | 眼睛 | monocle 单片眼镜 |
+| `-culture` | 耕种、培育 | monoculture 单一农业 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [monopoly]{.headword} | n. | `mono-`(一)+`poly`(出售/占有) | 垄断；独占权 | [高频]{.freq .freq-1} |
+| [monopolize]{.headword} | v. | `monopoly`+`-ize` | 垄断；独占 | [高频]{.freq .freq-1} |
+| [monologue]{.headword} | n. | `mono-`(一)+`logue`(说) | 独白；长篇大论 | [高频]{.freq .freq-1} |
+| [monotone]{.headword} | n./adj. | `mono-`(一)+`tone`(音调) | 单调的音调；毫无起伏 | [高频]{.freq .freq-1} |
+| [monotonous]{.headword} | adj. | `mono-`+`tone`+`-ous` | 单调乏味的；一成不变的 | [高频]{.freq .freq-1} |
+| [monotony]{.headword} | n. | `mono-`+`tone`+`-y` | 单调；千篇一律 | [高频]{.freq .freq-1} |
+| [monarch]{.headword} | n. | `mono-`(一)+`arch`(统治) | 君主；独裁者 | [高频]{.freq .freq-1} |
+| [monarchy]{.headword} | n. | `monarch`+`-y` | 君主制；君主国 | [高频]{.freq .freq-1} |
+| [monochrome]{.headword} | adj./n. | `mono-`(一)+`chrome`(色) | 单色的；黑白影像 | [高频]{.freq .freq-1} |
+| [monogamy]{.headword} | n. | `mono-`(一)+`gamy`(婚姻) | 一夫一妻制 | [高频]{.freq .freq-1} |
+| [monogamous]{.headword} | adj. | `monogamy`+`-ous` | 一夫一妻的 | [中频]{.freq .freq-2} |
+| [monolith]{.headword} | n. | `mono-`(一)+`lith`(石) | 巨石；铁板一块的组织 | [中频]{.freq .freq-2} |
+| [monolithic]{.headword} | adj. | `monolith`+`-ic` | 庞大且铁板一块的；整体式的 | [中频]{.freq .freq-2} |
+| [monotheism]{.headword} | n. | `mono-`(一)+`theism`(神论) | 一神教；一神信仰 | [中频]{.freq .freq-2} |
+| [monotheist]{.headword} | n. | `mono-`+`theist` | 一神论者 | [中频]{.freq .freq-2} |
+| [monogram]{.headword} | n. | `mono-`(一)+`gram`(字母/书写) | 姓名缩写花押字 | [中频]{.freq .freq-2} |
+| [monorail]{.headword} | n. | `mono-`(一)+`rail`(轨道) | 单轨铁路 | [中频]{.freq .freq-2} |
+| [monocle]{.headword} | n. | `mono-`(一)+`oculus`(眼) | 单片眼镜 | [中频]{.freq .freq-2} |
+| [monolingual]{.headword} | adj. | `mono-`(一)+`lingua`(语言)+`-al` | 单语的；只会一种语言的 | [中频]{.freq .freq-2} |
+| [monoculture]{.headword} | n. | `mono-`(一)+`culture`(耕作) | 单一农作物种植；单一文化 | [中频]{.freq .freq-2} |
+| [monoxide]{.headword} | n. | `mono-`(一)+`oxide`(氧化物) | 一氧化物（如 carbon monoxide） | [中频]{.freq .freq-2} |
+| [monoplane]{.headword} | n. | `mono-`(一)+`plane`(翼面) | 单翼飞机 | [中频]{.freq .freq-2} |
+| [monogamy]{.headword} | n. | `mono-`(一)+`gamy`(婚) | 一夫一妻制 | [高频]{.freq .freq-1} |
+| [moniker]{.headword} | n. | 与 mon- 无关（注意陷阱，见下） | 外号；绰号 | [中频]{.freq .freq-2} |
+| [monosyllable]{.headword} | n. | `mono-`(一)+`syllable`(音节) | 单音节词 | [中频]{.freq .freq-2} |
+| [monosyllabic]{.headword} | adj. | `mono-`+`syllabic` | 单音节的；话少的 | [中频]{.freq .freq-2} |
+| [monopolist]{.headword} | n. | `monopoly`+`-ist` | 垄断者 | [中频]{.freq .freq-2} |
+| [monastic]{.headword} | adj. | `mon-`(独居)+`-astic` | 修道院的；隐修的 | [中频]{.freq .freq-2} |
+| [monastery]{.headword} | n. | `mon-`(独居)+`-astery` | 修道院 | [中频]{.freq .freq-2} |
+| [monk]{.headword} | n. | 来自 *monachos*（独居者） | 僧侣；修道士 | [高频]{.freq .freq-1} |
+| [monophony]{.headword} | n. | `mono-`(一)+`phony`(声音) | 单声部音乐 | [低频]{.freq .freq-3} |
+| [monophonic]{.headword} | adj. | `mono-`+`phonic` | 单声道的 | [低频]{.freq .freq-3} |
+| [monocracy]{.headword} | n. | `mono-`(一)+`cracy`(统治) | 独裁政治 | [低频]{.freq .freq-3} |
+| [monogenism]{.headword} | n. | `mono-`(一)+`gen`(起源)+`-ism` | 人类单一起源论 | [低频]{.freq .freq-3} |
+| [monolatry]{.headword} | n. | `mono-`(一)+`latry`(崇拜) | 一神崇拜（承认多神存在但只拜一神） | [低频]{.freq .freq-3} |
+| [monomaniac]{.headword} | n./adj. | `mono-`(一)+`maniac`(狂热) | 偏执狂；执念于一件事的人 | [低频]{.freq .freq-3} |
+| [monomania]{.headword} | n. | `mono-`+`mania`(狂) | 偏执；对单一事物的病态执念 | [低频]{.freq .freq-3} |
+| [monopsony]{.headword} | n. | `mono-`(一)+`opsony`(购买) | 买方垄断（只有一个买家） | [低频]{.freq .freq-3} |
+| [monolatrous]{.headword} | adj. | `monolatry`+`-ous` | 一神崇拜的 | [低频]{.freq .freq-3} |
+| [monotype]{.headword} | n. | `mono-`(一)+`type`(类型) | 独版印刷；独一标本种 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The tech giant's **monopoly** over the search engine market has drawn antitrust scrutiny from regulators worldwide.（科技巨头对搜索引擎市场的**垄断**引发了全球监管机构的反垄断审查。）
+- He delivered his complaint in a flat, **monotone** voice, as if reciting a grocery list.（他用平平无奇的**单调**声音抱怨，好像在念购物清单。）
+- The queen addressed the nation in a rare televised **monologue**, without taking any questions.（女王发表了一段罕见的电视**独白**，未接受任何提问。）
+- The country's **monarch** has largely ceremonial powers under the constitutional framework.（该国的**君主**在宪法框架下基本上只有礼仪性权力。）
+- The app's **monochrome** interface was deliberately designed to reduce screen-time addiction.（这款应用的**单色**界面是特意设计的，目的是减少屏幕成瘾。）
+- Anthropologists debate whether **monogamy** is a natural human tendency or a cultural construction.（人类学家争论**一夫一妻制**究竟是人类的自然倾向，还是文化建构的产物。）
+:::
+
+::: {.mnemonic}
+**助记**：记住 mono- 的最好方式是把它和 poly-（多）绑在一起背。一个 **mono**poly（一家独占）打败了所有 poly-（众多）竞争者。想象一盘大富翁棋局，一个玩家买下了棋盘上所有地产，其他人只能旁观——这就是 **mono**poly。每次见到 mono-，脑中先闪一个"1"，再看后面的根是什么"1"。
+:::
+
+::: {.trap}
+**陷阱 1：moniker（外号）与 mono- 无关。** *Moniker* 的词源至今有争议，可能来自爱尔兰语或罗曼语路径，与希腊语 *monos* 毫无关系。切勿因为形似而将其归入 mono- 家族推断词义。
+
+**陷阱 2：monolatry vs. monotheism 的微妙区别。** 两者都含 mono-，但含义不同：*monotheism* 认为只存在一个神；*monolatry* 承认多神存在，但只崇拜其中一个（如早期以色列宗教的某些阶段）。外形相近，概念有别，学术阅读中需要区分。
+
+**陷阱 3：mono- 的"孤独感"不等于贬义。** 中文"单调""垄断"都带负面色彩，但 monograph（专题论文）、monastery（修道院）、monarchy（君主制）本身是中性词，感情色彩由语境决定，不要见到 mono- 就先入为主地理解为"不好的单一"。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 58 章）学完后，请回看：
+
+- **第 57 章**（上一章词根）——趁热检查有无混淆
+- **第 56 章**——
+- **第 54 章**——
+- **第 50 章**——
+- **第 42 章**——
+
+**本章自测提示：**
+
+1. *mono* + *arch* = ？（提示：谁统治这个国家？）
+2. 一家公司控制了整个市场，用哪个词？（提示：mono- + 希腊语"出售"）
+3. 如何用一个词形容"只说一个音调、毫无起伏"的演讲？
+4. 黑白照片可以用 \_\_\_\_\_\_\_\_ 来形容（mono- + 颜色的希腊根）？
+5. 修道院的英文是？它与 mono- 有何关系？（提示：修道士是"独居之人"）
+:::

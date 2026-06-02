@@ -1,0 +1,117 @@
+# flect / flex —— "弯·曲"
+
+::: {.root-banner}
+flect · flex = to bend 弯曲、折转
+:::
+
+来源：拉丁语动词 **flectere**（弯曲、转向），过去分词词干 **flexus**，由此分别派生出 -flect- 与 -flex- 两支。
+
+::: {.etymo}
+**词源故事：弓弦与脊梁**
+
+古罗马弓箭手每次拉弓，弓身便在力的作用下向内弯曲——这个动作在拉丁语里叫 *flectere*。弓弦被拉开又弹回，正是 *re-flectere*（弯回）；射出的箭被风偏转，正是 *de-flectere*（弯离）。一个词根，记录了力与弧度之间永恒的对话。
+
+词根进入英语之后，"弯"的意象从身体延伸到了光线与语言。镜子把光"弯回"就是 *reflect*；语言在变化时产生的"屈折"叫 *inflection*。甚至古罗马皇帝所用的带弧度的音调符号，也因为形状弯曲而被命名为 *circumflex*（绕圈的弯）。
+
+希腊哲学家称双膝弯下为敬神之礼；拉丁基督教则把这个动作固化成词：*genu*（膝盖）+ *flectere* = *genuflect*，跪地屈膝，一跪便是两千年。词根就这样把身体姿势、光学现象与语法术语串成了一条弯弯的脉络。
+:::
+
+**前缀决定方向，根永远是同一个动作。** 换一个前缀，"弯"就转向不同的目的地：
+
+| 前缀 | 方向语义 | 典型词 |
+|------|---------|--------|
+| re- | 弯回、反射 | reflect, reflex |
+| de- | 弯离、偏转 | deflect, deflection |
+| in- | 弯入、屈折 | inflect, inflection |
+| circum- | 绕弯一圈 | circumflex |
+| genu- | 膝盖朝下弯 | genuflect |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [flex]{.headword} | v./n. | `flex`(弯曲) | 弯曲（肌肉）；灵活性 | [高频]{.freq .freq-1} |
+| [flexible]{.headword} | adj. | `flex`(弯)+`-ible`(能…的) | 可弯曲的；灵活的 | [高频]{.freq .freq-1} |
+| [flexibility]{.headword} | n. | `flex`(弯)+`-ibility`(性质) | 灵活性；弹性 | [高频]{.freq .freq-1} |
+| [inflexible]{.headword} | adj. | `in-`(否)+`flex`(弯)+`-ible` | 不可弯曲的；固执的 | [高频]{.freq .freq-1} |
+| [inflexibility]{.headword} | n. | `in-`(否)+`flex`(弯)+`-ibility` | 顽固；不灵活 | [中频]{.freq .freq-2} |
+| [reflect]{.headword} | v. | `re-`(回)+`flect`(弯) | 反射；反映；沉思 | [高频]{.freq .freq-1} |
+| [reflection]{.headword} | n. | `re-`(回)+`flect`(弯)+`-ion` | 反射；倒影；反思 | [高频]{.freq .freq-1} |
+| [reflective]{.headword} | adj. | `re-`(回)+`flect`(弯)+`-ive` | 反射的；善于反思的 | [高频]{.freq .freq-1} |
+| [reflectively]{.headword} | adv. | `re-`(回)+`flect`+`-ively` | 若有所思地 | [中频]{.freq .freq-2} |
+| [reflector]{.headword} | n. | `re-`(回)+`flect`(弯)+`-or`(物) | 反射器；反光板 | [中频]{.freq .freq-2} |
+| [self-reflective]{.headword} | adj. | `self`(自我)+`re-`+`flect`+`-ive` | 自我反思的 | [中频]{.freq .freq-2} |
+| [reflex]{.headword} | n./adj. | `re-`(回)+`flex`(弯) | 反射动作；本能反应 | [高频]{.freq .freq-1} |
+| [reflexive]{.headword} | adj. | `re-`(回)+`flex`(弯)+`-ive` | 反射性的；（语法）反身的 | [中频]{.freq .freq-2} |
+| [reflexively]{.headword} | adv. | `re-`(回)+`flex`+`-ively` | 本能地；反身地 | [中频]{.freq .freq-2} |
+| [reflexivity]{.headword} | n. | `re-`(回)+`flex`+`-ivity` | （哲学/社科）反身性 | [低频]{.freq .freq-3} |
+| [deflect]{.headword} | v. | `de-`(离)+`flect`(弯) | 使偏转；转移（注意力） | [高频]{.freq .freq-1} |
+| [deflection]{.headword} | n. | `de-`(离)+`flect`(弯)+`-ion` | 偏转；偏斜角 | [中频]{.freq .freq-2} |
+| [deflector]{.headword} | n. | `de-`(离)+`flect`(弯)+`-or` | 偏导器；导流板 | [低频]{.freq .freq-3} |
+| [inflect]{.headword} | v. | `in-`(入)+`flect`(弯) | 使屈折变化；改变语调 | [中频]{.freq .freq-2} |
+| [inflection]{.headword} | n. | `in-`(入)+`flect`(弯)+`-ion` | 语调变化；（语法）屈折；转折点 | [高频]{.freq .freq-1} |
+| [inflectional]{.headword} | adj. | `in-`+`flect`+`-ional` | 屈折变化的 | [低频]{.freq .freq-3} |
+| [genuflect]{.headword} | v. | `genu`(膝)+`flect`(弯) | 屈膝礼；卑躬屈膝 | [中频]{.freq .freq-2} |
+| [genuflection]{.headword} | n. | `genu`(膝)+`flect`(弯)+`-ion` | 屈膝礼；奉承行为 | [中频]{.freq .freq-2} |
+| [circumflex]{.headword} | n./adj. | `circum-`(绕)+`flex`(弯) | 扬抑符（ ˆ ）；（解剖）环绕的 | [中频]{.freq .freq-2} |
+| [anteflexion]{.headword} | n. | `ante-`(前)+`flex`(弯)+`-ion` | （解剖）前屈 | [低频]{.freq .freq-3} |
+| [retroflexion]{.headword} | n. | `retro-`(后)+`flex`(弯)+`-ion` | 后屈；（语音）卷舌 | [低频]{.freq .freq-3} |
+| [retroflex]{.headword} | adj./v. | `retro-`(后)+`flex`(弯) | 卷舌的；向后弯曲 | [低频]{.freq .freq-3} |
+| [flexion]{.headword} | n. | `flex`(弯)+`-ion` | 屈曲（解剖/物理） | [中频]{.freq .freq-2} |
+| [flexor]{.headword} | n. | `flex`(弯)+`-or`(施事) | 屈肌 | [中频]{.freq .freq-2} |
+| [flexed]{.headword} | adj. | `flex`(弯)+`-ed` | 弯曲的；屈曲状态的 | [中频]{.freq .freq-2} |
+| [overflexion]{.headword} | n. | `over-`(过度)+`flex`(弯)+`-ion` | 过度屈曲 | [低频]{.freq .freq-3} |
+| [flextime]{.headword} | n. | `flex`(灵活)+`time`(时间) | 弹性工作时间 | [高频]{.freq .freq-1} |
+| [flexwork]{.headword} | n. | `flex`(灵活)+`work`(工作) | 弹性工作制 | [中频]{.freq .freq-2} |
+| [flex one's muscles]{.headword} | phr. | `flex`(弯曲)+`muscles`(肌肉) | 展示实力；炫耀力量 | [高频]{.freq .freq-1} |
+| [point of inflection]{.headword} | phr. | `point`+`of`+`inflection`(转折) | 拐点；转折时刻 | [高频]{.freq .freq-1} |
+| [knee-jerk reflex]{.headword} | phr. | `knee-jerk`+`reflex`(反射) | 膝跳反射；本能反应 | [中频]{.freq .freq-2} |
+| [conditioned reflex]{.headword} | phr. | `conditioned`+`reflex`(反射) | 条件反射 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- Light **reflects** off the surface of the lake, creating a perfect mirror image of the mountains.（光从湖面"弯回"，形成倒影——re- 弯回的画面感）
+- She paused to **reflect** on the consequences before making her decision.（反思也是"向内弯回"审视自己）
+- The goalkeeper's quick **reflexes** allowed him to block the penalty kick.（反射动作：神经信号"弯回"，不过大脑直接触发）
+- The company's **inflexible** vacation policy frustrated many employees.（不能弯曲 → 顽固的制度）
+- Voters saw the speech as a **point of inflection** in the campaign.（语调/方向的转折点，此处为比喻义）
+- Pilgrims **genuflected** before the altar, touching one knee to the cold stone floor.（genu 膝 + flect 弯：屈膝礼的画面）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想象成弓箭手发出的指令——
+
+- **re-flect**：箭射出后**弹回**（re- = back），光线也一样；
+- **de-flect**：箭被风**偏离**靶心（de- = away）；
+- **in-flect**：声调**向内弯折**，语法也随之屈折（in- = into）；
+- **genu-flect**：*genu* = 膝，整个人从膝盖处**弯下去**；
+- **circum-flex**：符号 ˆ **绕了一圈**再弯下来（circum- = around）。
+
+核心口诀：**前缀换方向，flect/flex 永远是弯。**
+:::
+
+::: {.trap}
+**陷阱**：**flex** 在现代英语口语里有一个独立的新义——"炫耀"（flex on someone = 在某人面前炫耀），来自"屈肌展示"的俚语引申，与词根的弯曲义有隐约联系，但这是近年俚语演变，**不能**用它来推断其他 flex- 词的语义。
+
+另外，**inflection** 的"转折点"（point of inflection）是数学/比喻用法，其词根含义是"语调/形态的屈折变化"；两义看似相距甚远，但都源自"弯曲"的核心——曲线在拐点处改变弯曲方向，恰好与屈折变化的形象吻合。这是真实的语义延伸，可以用来辅助记忆，但仍需结合上下文判断具体含义。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 57 章）学完后，请回顾以下已学章节，巩固"弯曲、折转"相关语义网络：
+
+- **第 56 章**：回顾上一章词根，检查掌握情况
+- **第 55 章**：与本章形成对比或互补的词根
+- **第 53 章**：检视有无前缀用法重叠
+- **第 49 章**：跨章前缀（re-/de-/in-）的一致性理解
+- **第 41 章**：较早学过的拉丁动词词根，对照"前缀换方向"规律
+
+**本章自测提示**：
+
+1. 不看书，说出 *reflect*、*deflect*、*inflection* 三词的前缀各代表什么方向？
+2. *genuflect* 里的 *genu* 是什么意思？联想一个同根词。
+3. 用 *flexible* 和 *inflexible* 各造一个句子，描述同一件事物的两种不同评价。
+4. *reflex* 与 *reflection* 同根，但词义差异很大——能否解释各自的语义演变路径？
+:::

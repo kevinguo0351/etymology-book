@@ -1,0 +1,117 @@
+# gno / gnos —— "知·认识"
+
+::: {.root-banner}
+`gno` · `gnos` = to know, to perceive 知道、认识
+:::
+
+来源：希腊语 *gignōskein*（认识、知晓），名词形式 *gnōsis*（知识、认识），与拉丁语 *cognoscere* 同源，印欧根 \**gno-*，意为"知道"。
+
+::: {.etymo}
+**词源故事：德尔斐神谕的知识**
+
+古希腊人把"知"（*gnōsis*）看作一种神圣行为。德尔斐神庙门楣刻着 *gnōthi seauton*——"认识你自己"。这个 *gnōthi* 正是 *gignōskein* 的祈使形式，根部就是 `gno`。知道自己是谁，才能知道世界是什么。
+
+希腊医生继承了这个传统，把"知"用进医学。*diagnosis*（诊断）字面是"通过辨别而知"——医生穿透症状表象，认识疾病本质；*prognosis*（预后）是"提前知道"——凭经验预判病程走向。这两个词至今仍是临床医学的基石词汇。
+
+十九世纪，生物学家赫胥黎造了 *agnostic*（不可知论者）——在 `gno`（知）前加 `a-`（无），表示"无从知晓的人"，专指对上帝存在问题持悬而不决态度者。他刻意区别于无神论：无神论者说"我知道没有上帝"，不可知论者说"我不知道，也不可能知道"。一个否定词缀，把哲学立场说得清清楚楚。
+
+这个希腊根后来跨越地中海，混入拉丁血统。拉丁 *cognoscere*（co- 共同 + *gnoscere* 知）催生了英语的 *recognize*、*cognition*、*incognito*——熟面孔、认知过程、隐姓埋名，全是同一个原始词根的后代，只是绕了拉丁这条路。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 与 gno 的组合示例 |
+|--------|------|-------------------|
+| `dia-` | 穿透、区分（希腊） | *dia-gnosis* 诊断 |
+| `pro-` | 向前、提前（希腊） | *pro-gnosis* 预后 |
+| `a-` | 无、否定（希腊） | *a-gnostic* 不可知的 |
+| `para-` | 在旁、类似（希腊） | *para-gnosis* 超自然认识 |
+| `patho-` | 疾病（希腊） | *patho-gnomonic* 具特征性症状的 |
+| `physio-` | 自然、生理（希腊） | *physio-gnomy* 面相学 |
+| `pharma-` | 药（希腊） | *pharma-cognosy* 生药学 |
+| `co-`（拉丁路） | 共同 | *co-gnition* 认知（经拉丁） |
+| `re-`（拉丁路） | 再次 | *re-cognize* 重新认出（经拉丁） |
+| `in-`（拉丁路） | 不 | *in-cognito* 隐姓埋名（经拉丁） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [diagnosis]{.headword} | n. | `dia-`(穿透/区分)+`gnos`(知)+`-is`(名词) | 诊断；判断 | [高频]{.freq .freq-1} |
+| [diagnose]{.headword} | v. | `dia-`+`gnos`+`-e`(动词化) | 诊断；查明原因 | [高频]{.freq .freq-1} |
+| [diagnostic]{.headword} | adj./n. | `dia-`+`gnos`+`-tic`(形容词) | 诊断的；诊断工具 | [高频]{.freq .freq-1} |
+| [diagnostics]{.headword} | n. | `diagnostic`+`-s`(复数) | 诊断学；诊断程序 | [高频]{.freq .freq-1} |
+| [prognosis]{.headword} | n. | `pro-`(提前)+`gnos`(知)+`-is` | 预后；前景预测 | [高频]{.freq .freq-1} |
+| [prognose]{.headword} | v. | `pro-`+`gnos`+`-e` | 预测（疾病）走向 | [中频]{.freq .freq-2} |
+| [prognostic]{.headword} | adj./n. | `pro-`+`gnos`+`-tic` | 预后的；预兆 | [中频]{.freq .freq-2} |
+| [prognosticate]{.headword} | v. | `pro-`+`gnos`+`-ticate`(动词) | 预言；预兆 | [中频]{.freq .freq-2} |
+| [prognostication]{.headword} | n. | `prognosticat(e)`+`-ion` | 预言；预示 | [中频]{.freq .freq-2} |
+| [agnostic]{.headword} | adj./n. | `a-`(无)+`gnos`+`-tic` | 不可知论的；不可知论者 | [高频]{.freq .freq-1} |
+| [agnosticism]{.headword} | n. | `agnostic`+`-ism` | 不可知论 | [高频]{.freq .freq-1} |
+| [gnostic]{.headword} | adj./n. | `gnos`(知)+`-tic` | 灵知的；诺斯替教徒 | [中频]{.freq .freq-2} |
+| [gnosticism]{.headword} | n. | `gnostic`+`-ism` | 诺斯替主义；灵知教 | [中频]{.freq .freq-2} |
+| [gnosis]{.headword} | n. | `gnos`(知)+`-is` | （宗教/神秘）灵知；直觉知识 | [中频]{.freq .freq-2} |
+| [physiognomy]{.headword} | n. | `physio`(自然/面貌)+`gno`+`-my` | 面相；外貌特征 | [中频]{.freq .freq-2} |
+| [physiognomic]{.headword} | adj. | `physiognom`+`-ic` | 面相的；外貌特征的 | [低频]{.freq .freq-3} |
+| [pathognomonic]{.headword} | adj. | `patho`(病)+`gno`+`-ic` | （症状）具特征性的、病理确诊性的 | [低频]{.freq .freq-3} |
+| [pharmacognosy]{.headword} | n. | `pharmaco`(药)+`gnos`(知)+`-y` | 生药学（研究天然药物的学科） | [低频]{.freq .freq-3} |
+| [cognosce]{.headword} | v. | `co-`(共同)+`gno`+`-sce`(拉丁路) | （苏格兰法律）调查、审查 | [低频]{.freq .freq-3} |
+| [cognoscente]{.headword} | n. | 意大利语借词，`co-`+`gnos` | 鉴赏家；内行人（常用复数 cognoscenti） | [中频]{.freq .freq-2} |
+| [recognize]{.headword} | v. | `re-`(再)+`co-`+`gno`(拉丁路)+`-ize` | 认出；承认；意识到 | [高频]{.freq .freq-1} |
+| [recognition]{.headword} | n. | `re-`+`co-`+`gno`+`-tion` | 认出；承认；认可 | [高频]{.freq .freq-1} |
+| [cognition]{.headword} | n. | `co-`+`gno`(拉丁路)+`-tion` | 认知；认识过程 | [高频]{.freq .freq-1} |
+| [cognitive]{.headword} | adj. | `cogni(tion)`+`-tive` | 认知的；认识的 | [高频]{.freq .freq-1} |
+| [incognito]{.headword} | adv./adj./n. | `in-`(不)+`co-`+`gno`(拉丁路) | 隐姓埋名地；化名 | [高频]{.freq .freq-1} |
+| [cognizant]{.headword} | adj. | `co-`+`gno`(拉丁路)+`-izant` | 知悉的；意识到的（of sth） | [中频]{.freq .freq-2} |
+| [cognizance]{.headword} | n. | `co-`+`gno`+`-izance` | 认知；知悉；（法律）管辖权 | [中频]{.freq .freq-2} |
+| [precognition]{.headword} | n. | `pre-`(提前)+`co-`+`gno`+`-tion` | 预知；先见 | [中频]{.freq .freq-2} |
+| [metacognition]{.headword} | n. | `meta-`(关于)+`co-`+`gno`+`-tion` | 元认知（对自身思维的认知） | [中频]{.freq .freq-2} |
+| [know]{.headword} | v. | 古英语 *cnāwan*，同源 `gno`（印欧根） | 知道；认识 | [高频]{.freq .freq-1} |
+| [knowledge]{.headword} | n. | `know`+`-ledge` | 知识；了解 | [高频]{.freq .freq-1} |
+| [acknowledge]{.headword} | v. | `ac-`+`knowledge` | 承认；致谢；认可 | [高频]{.freq .freq-1} |
+| [unknown]{.headword} | adj./n. | `un-`(不)+`know`+`-n` | 未知的；未知数 | [高频]{.freq .freq-1} |
+| [unknowing]{.headword} | adj. | `un-`+`know`+`-ing` | 不知情的；无意识的 | [中频]{.freq .freq-2} |
+| [foreknowledge]{.headword} | n. | `fore-`(提前)+`know`+`-ledge` | 预知；先知 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The doctor was able to **diagnose** the condition from a single blood test.（医生仅凭一项血检就做出了诊断——`dia-` 穿透症状表象，直达疾病本质）
+- The **prognosis** for patients treated early is generally excellent.（早期治疗的患者预后通常很好——`pro-` 向前，提前知道结果）
+- She calls herself **agnostic** about the existence of consciousness in machines.（她自称对机器是否具有意识持不可知态度——不是否认，而是"无从知晓"）
+- The **diagnostic** software flagged three critical errors in the network.（诊断软件标记了网络中三处严重错误——此处用作形容词，`-ic` 是关键后缀）
+- Only the **cognoscenti** knew that the painting had been quietly removed from the gallery.（只有内行人注意到那幅画已悄悄撤展——意大利语保留形式，拉丁路 `co-`+`gno`）
+- His **prognostication** about the election result proved uncannily accurate.（他对选举结果的预言准确得出奇——`-ation` 名词，正式语体）
+:::
+
+::: {.mnemonic}
+**助记**：把词根 `gno` 想成中文"知"的发音骨架——**G-N-O，"晓/know"**。`dia`（穿透）+`gno` = 穿透表象去认识 = **诊断**；`pro`（向前）+`gno` = 向前看着知道 = **预后**；`a-`（无）+`gno` = 无法知道 = **不可知**。三个前缀，三个方向，根永远是同一个"知"。
+:::
+
+::: {.trap}
+**陷阱**：本章一口气出现了两条知识线——**希腊路**（`gnos` → diagnosis / agnostic）和**拉丁路**（`cognoscere` → cognition / recognize / incognito）。两者确实同源（印欧根 \**gno-*），但请注意：
+
+1. **不要用"同源趣闻"倒推词义**。*incognito* 和 *diagnosis* 虽共祖，但现代用法相差悬远；看到 `in-co-gnito` 能想起"知"根是好事，但切勿从词源推断它"诊断自己不被知道"——实际意思就是"隐姓埋名"。
+2. **`know`（英语）也是同根词**，古英语 *cnāwan* 来自同一印欧根，这是"高产可推断"：看到 `kn-/gn-` 开头的词，心里可以先打一个"知"的底色，再核实具体词义。
+3. **`gnome`（地精）不同源**。它来自新拉丁语 *gnomus*，可能是帕拉塞尔苏斯造词，与 `gnōsis` 无可靠联系，不要混淆。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 54 章）学完后，请回看：
+
+- **第 53 章** · **第 52 章** · **第 50 章**（近期章节，趁热巩固）
+- **第 46 章** · **第 38 章**（较早章节，防止遗忘）
+
+**本章自测提示**：
+
+- 不看书，说出 *diagnosis* 和 *prognosis* 的前缀差异及对应含义。
+- *agnostic* 的 `a-` 是否等于 `un-`？有何哲学细节？
+- 造一个含 *diagnostic* 的句子，区分它作形容词与名词的用法。
+- *cognoscenti* 是哪条路的词（希腊路/拉丁路）？它的复数形式是什么？
+:::

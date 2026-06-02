@@ -1,0 +1,123 @@
+# fract / frag / fring —— "碎·折·破"
+
+::: {.root-banner}
+fract · frag · fring = to break 打破、折断、碎裂
+:::
+
+来源：拉丁语动词 **frangere**（打破）及其过去分词 **fractus**（已被折断的）。三个变体 fract / frag / fring 是同一词根在不同构词位置的形态交替。
+
+::: {.etymo}
+**词源故事：一根骨头的三张脸**
+
+想象一根骨头被折断的瞬间——罗马医生把这个动作叫做 *frangere*。骨头断了，就是 *fractura*；断下来的碎片，是 *fragmentum*；分出去的那一份，叫 *fractio*。这三个词今天直接活在英语里：fracture、fragment、fraction。
+
+词根在流传中换了衣服。结合前缀时它常以 **frag-** 出现（fragment、fragile），在法律和物理学语境里保留 **fract-**（fraction、refract），而钻进前缀尾音之后有时磨成 **fring-**（infringe）。三张脸，一个动作：**折断**。
+
+罗马人把"打破规则"也用同一个词根来描述——违反法令叫 *infractio*，字面义是"从内部打碎"。这个隐喻延续到了今天：infraction（违规）、infringe（侵犯）都是在说某条无形的界线被"打断"了。
+
+玻璃、骨头、光线、法律——凡是可以被"折断"的事物，拉丁人都用 frangere 来描述。物理光学里的折射（refraction）也是光线在界面处被"折回去"，同一个根，换了一件科学外衣。
+:::
+
+**前缀决定方向，根永远是"折断"这个动作。** 掌握前缀，就能推断整个词的走向：
+
+| 前缀 | 本义 | 加在 fract/frag/fring 上 | 代表词 |
+|------|------|--------------------------|--------|
+| re- | 回、反 | 折回去 | refract, refraction |
+| in- | 入、向内；对……施加 | 从内打碎；打破规则 | infraction, infringe |
+| dif- (dis-) | 分散、四散 | 碎散开来 | diffraction, diffract |
+| （无前缀） | — | 折断本身 | fracture, fragment, fragile |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [fracture]{.headword} | n./v. | `fract`(折)+`-ure`(结果名词) | 骨折；断裂；使断裂 | [高频]{.freq .freq-1} |
+| [fraction]{.headword} | n. | `fract`(折)+`-ion`(动作/结果) | 分数；一小部分（折断后的份额） | [高频]{.freq .freq-1} |
+| [fragment]{.headword} | n./v. | `frag`(碎)+`-ment`(结果) | 碎片；片段；使碎裂 | [高频]{.freq .freq-1} |
+| [fragile]{.headword} | adj. | `frag`(碎)+`-ile`(易于……的) | 易碎的；脆弱的 | [高频]{.freq .freq-1} |
+| [refract]{.headword} | v. | `re-`(折回)+`fract`(折) | （使光线）折射 | [中频]{.freq .freq-2} |
+| [refraction]{.headword} | n. | `re-`(折回)+`fract`(折)+`-ion` | 折射（现象） | [中频]{.freq .freq-2} |
+| [refractory]{.headword} | adj. | `re-`(折回)+`fract`(折)+`-ory` | 难以管教的；耐高温的（折不弯的） | [中频]{.freq .freq-2} |
+| [infraction]{.headword} | n. | `in-`(对内)+`fract`(折)+`-ion` | 违规；违法行为 | [中频]{.freq .freq-2} |
+| [infringe]{.headword} | v. | `in-`(入)+`fring`(折)+`-e` | 侵犯（权利）；违反（规则） | [高频]{.freq .freq-1} |
+| [infringement]{.headword} | n. | `infringe`+`-ment` | 侵权；违反 | [高频]{.freq .freq-1} |
+| [diffraction]{.headword} | n. | `dif-`(分散)+`fract`(折)+`-ion` | 衍射（光波绕过障碍物时的折散） | [中频]{.freq .freq-2} |
+| [diffract]{.headword} | v. | `dif-`(分散)+`fract`(折) | 使（光、声波）衍射 | [低频]{.freq .freq-3} |
+| [fractious]{.headword} | adj. | `fract`(折)+`-ious`(形容词后缀) | 易怒的；难控制的（像断裂物般棱角分明） | [中频]{.freq .freq-2} |
+| [fragmentary]{.headword} | adj. | `fragment`+`-ary` | 零碎的；不完整的 | [中频]{.freq .freq-2} |
+| [fragmentation]{.headword} | n. | `fragment`+`-ation` | 碎裂；分裂；分散化 | [中频]{.freq .freq-2} |
+| [defragment]{.headword} | v. | `de-`(去除)+`fragment`(碎片) | 磁盘碎片整理 | [中频]{.freq .freq-2} |
+| [fragility]{.headword} | n. | `fragil(e)`+`-ity` | 脆弱性；易碎性 | [中频]{.freq .freq-2} |
+| [fragilize]{.headword} | v. | `fragil(e)`+`-ize` | 使变脆弱 | [低频]{.freq .freq-3} |
+| [fractional]{.headword} | adj. | `fraction`+`-al` | 分数的；极小的 | [中频]{.freq .freq-2} |
+| [fractionally]{.headword} | adv. | `fractional`+`-ly` | 极少地；略微地 | [中频]{.freq .freq-2} |
+| [infrangible]{.headword} | adj. | `in-`(不)+`frang`(折)+`-ible`(能……的) | 不可破的；不可侵犯的 | [低频]{.freq .freq-3} |
+| [refrangible]{.headword} | adj. | `re-`(折回)+`frang`+`-ible` | 可折射的 | [低频]{.freq .freq-3} |
+| [ossifrage]{.headword} | n. | `ossi`(骨)+`frag`(折)+`-e` | 胡兀鹫（"折骨者"，将骨头从高处摔碎取骨髓） | [低频]{.freq .freq-3} |
+| [saxifrage]{.headword} | n. | `saxi`(石)+`frag`(折)+`-e` | 虎耳草（"碎石者"，根系能撑裂岩缝） | [低频]{.freq .freq-3} |
+| [frangible]{.headword} | adj. | `frang`(折)+`-ible` | 易碎的；脆的（正式/技术用语） | [低频]{.freq .freq-3} |
+| [fractal]{.headword} | n./adj. | `fract`(折/碎)+`-al`（数学家 Mandelbrot 1975 年造词） | 分形（无限自相似碎裂图形） | [中频]{.freq .freq-2} |
+| [fractalize]{.headword} | v. | `fractal`+`-ize` | 分形化 | [低频]{.freq .freq-3} |
+| [suffragan]{.headword} | n. | 经由古法语，远源争议，不宜作词根推断 | 辅佐主教（此词源不确定，列入陷阱区） | [低频]{.freq .freq-3} |
+| [anfractuous]{.headword} | adj. | `an-`(周围)+`fract`(折)+`-uous` | 曲折蜿蜒的；迂回复杂的 | [低频]{.freq .freq-3} |
+| [irrefragable]{.headword} | adj. | `ir-`(不)+`re-`(回)+`frag`(折)+`-able` | 无可反驳的；不可破的 | [低频]{.freq .freq-3} |
+| [refractometer]{.headword} | n. | `refract`+`-o-`+`meter`(测量) | 折射计 | [低频]{.freq .freq-3} |
+| [birefringence]{.headword} | n. | `bi-`(双)+`re-`(折)+`fring`(折)+`-ence` | 双折射（晶体光学术语） | [低频]{.freq .freq-3} |
+| [fraction bar]{.headword} | n. | `fraction`(分数)+`bar`(横线) | 分数线 | [高频]{.freq .freq-1} |
+| [stress fracture]{.headword} | n. | `stress`(应力)+`fracture`(折断) | 应力性骨折；疲劳性骨折 | [中频]{.freq .freq-2} |
+| [hairline fracture]{.headword} | n. | `hairline`(发丝细)+`fracture` | 细微裂纹；发丝骨折 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The hiker slipped on ice and suffered a **stress fracture** in her left foot.（应力性骨折——反复冲击让骨头"折断"了）
+- Only a **fraction** of the grant money has been spent so far.（fraction 原义"折断下来的一份"，引申为极小一部分）
+- The police found **fragmentary** evidence at the scene—a torn receipt, a broken button, nothing conclusive.（fragmentary：碎片状的，暗示证据不完整）
+- Sunlight **refracts** as it passes through a prism, splitting into a spectrum of color.（refract：光线在界面处被"折回"，产生色散）
+- Downloading pirated software is a clear **infringement** of copyright law.（infringement：打破法律界线，侵权）
+- The toddler's **fractious** behavior during the long flight exhausted his parents.（fractious：像断裂物的棱角，形容易怒、难安抚）
+:::
+
+::: {.mnemonic}
+**助记**：把四个前缀想象成"力的方向"——
+
+- **re-**（光线被镜面**折回**）→ refract 折射
+- **in-**（拳头**打入**规则内部**折断**它）→ infraction 违规，infringe 侵权
+- **dif-**（光波撞到障碍物**四散碎开**）→ diffraction 衍射
+- 无前缀（骨头在原处**直接断**）→ fracture 骨折，fragment 碎片
+
+口诀：**折回·打入·碎散·原断**，四个方向，一个根"fract"不变。
+:::
+
+::: {.trap}
+**陷阱一：fraction 不只是"分数"**
+在数学课上 fraction 是"分数"，但在普通语境里它更常表示"极小的一部分"（only a fraction of the cost）。别因为数学含义而遗漏它的通用义。
+
+**陷阱二：refractory 的双重义**
+refractory 在教育/行为语境里指"难以管教的"（折不弯的顽固），在材料工程里指"耐高温的、耐火的"（烧不断、融不化）。两个义项都来自"不肯被折断"的核心意象，但使用场合截然不同，不要混淆。
+
+**陷阱三：infringe 与 infract 的区别**
+两者都含"打破规则"之义，但 infringe 更高频，常与 on/upon 连用（infringe on someone's rights）；infract 是书面正式用语，日常写作中少见。infraction 则作名词使用频率远高于动词 infract。
+
+**陷阱四：词源趣闻不可推断词义**
+saxifrage（虎耳草）和 ossifrage（胡兀鹫）确实含 frag- 词根，历史上因为植物的根系撑裂岩石、猛禽摔碎骨头而得名——这是有趣的词源故事，但你在阅读中遇到这两个词，应当查词典确认，而不能仅凭词根推断其现代含义或用法。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 59 章）学完后，请回看以下章节以巩固相关词根：
+
+- **第 58 章**：上一章词根，趁热对比记忆
+- **第 57 章**：回顾，检查是否已内化
+- **第 55 章**：重点复习，与本章构词逻辑类比
+- **第 51 章**：中期回顾，检验遗忘曲线
+- **第 43 章**：远期回顾，测试长期记忆
+
+**本章自测提示：**
+
+1. refract 与 diffract 都含 fract 根，二者有何不同？（提示：前缀方向）
+2. infraction 和 infringement 都是"违反"，用法上有何差异？（提示：搭配对象）
+3. 不查词典，试着解析 irrefragable 的前缀结构，并猜测其义。
+4. fractious 与 fragile 共享同一词根，但一个形容人，一个形容物——为什么这两个语义延伸都合理？
+:::

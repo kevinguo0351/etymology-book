@@ -66,6 +66,20 @@ book:
         - chapters/ch50-phys.qmd
         - chapters/ch51-fid.qmd
         - chapters/ch52-onym.qmd
+        - chapters/ch53-flu.qmd
+        - chapters/ch54-gnos.qmd
+        - chapters/ch55-rupt.qmd
+        - chapters/ch56-poly.qmd
+        - chapters/ch57-flect.qmd
+        - chapters/ch58-mono.qmd
+        - chapters/ch59-fract.qmd
+        - chapters/ch60-syn.qmd
+        - chapters/ch61-gen.qmd
+        - chapters/ch62-hyper.qmd
+        - chapters/ch63-aud.qmd
+        - chapters/ch64-hetero.qmd
+        - chapters/ch65-voc.qmd
+        - chapters/ch66-derm.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd
