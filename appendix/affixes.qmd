@@ -1,0 +1,50 @@
+# 附录 A：词缀速查表 {.unnumbered}
+
+词根是"看/写/听"这样的**核心动作**；词缀是套在外面的**方向与词性开关**。掌握这张表，拆词就只剩下认根。
+
+## 常用前缀（管"方向 / 否定 / 数量"）
+
+| 前缀 | 含义 | 例 |
+|---|---|---|
+| `re-` | 回、再 | respect, return, review |
+| `ex-` / `e-` | 向外 | expect, exit, emit |
+| `in-` / `im-` | ①向里 ②不 | inspect / invisible |
+| `intro-` / `intra-` | 向内 | introspection, intranet |
+| `pro-` | 向前、预先 | prospect, program |
+| `retro-` | 向后 | retrospect, retrofit |
+| `circum-` | 围绕 | circumspect, circumference |
+| `per-` | 透过、彻底 | perspective, perspicacious |
+| `sub-` / `sus-` | 在下 | suspect, submarine |
+| `de-` | 向下、去除 | despise, descend |
+| `con-` / `com-` | 一起、完全 | conspicuous, connect |
+| `dia-` | 贯穿 | diagram, diameter |
+| `para-` | 旁边 | paragraph, parallel |
+| `epi-` | 在上 | epigram, epidermis |
+| `ana-` | 重新、向上 | anagram, analysis |
+
+## 常用领域根 / 搭档根（希腊系，互相拼搭）
+
+| 根 | 含义 | 例 |
+|---|---|---|
+| `bio` | 生命 | biography, biology |
+| `geo` | 大地 | geography, geology |
+| `photo` | 光 | photograph, photon |
+| `auto` | 自己 | autograph, automatic |
+| `tele` | 远 | telegraph, telephone |
+| `biblio` | 书 | bibliography |
+| `demo` | 人民 | demography, democracy |
+| `chrono` | 时间 | chronology, chronic |
+
+## 常用后缀（管"词性"）
+
+| 后缀 | 变成 | 例 |
+|---|---|---|
+| `-tion` / `-sion` | 名词（动作/结果） | introspection, vision |
+| `-or` / `-ator` | 名词（施事者） | spectator, actor |
+| `-acle` / `-icle` | 名词（小物/物） | spectacle, particle |
+| `-ous` / `-ious` | 形容词 | conspicuous, auspicious |
+| `-ic` | 形容词 | graphic, basic |
+| `-y` / `-graphy` | 名词（学科/状态） | biography, geography |
+| `-ate` | 动词 / 形容词 | speculate, separate |
+
+> 这是 v1 起步表，会随章节推进持续补全（目标 ~150 个词缀）。

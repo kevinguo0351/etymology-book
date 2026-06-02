@@ -1,0 +1,114 @@
+/* 词根解码 — 长读优化样式
+   设计原则：长时间阅读不累、中英混排清晰、拆解表用等宽对齐。
+   字体全部走系统栈，不外链 Google Fonts —— 避免 GitHub Pages 的 CSP 拦截。 */
+
+:root {
+  --serif: Georgia, "Times New Roman", "Songti SC", "SimSun", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  --mono: "SF Mono", "JetBrains Mono", Consolas, "Courier New", monospace;
+
+  --bg: #faf7f0;
+  --surface: #ffffff;
+  --text: #232020;
+  --text-soft: #5a5450;
+  --accent: #9a6b00;        /* 词根/重点的金棕色 */
+  --accent-soft: #f2e7cc;
+  --latin: #8a5a2b;         /* 拉丁根色 */
+  --greek: #2b5d8a;         /* 希腊根色 */
+  --rule: #e7ddc9;
+  --trap: #b3261e;          /* 陷阱警示 */
+}
+
+body {
+  font-family: var(--sans);
+  color: var(--text);
+  background: var(--bg);
+}
+
+h1, h2, h3, .quarto-title .title {
+  font-family: var(--serif);
+  letter-spacing: 0.01em;
+}
+
+/* 章首"本章词根"大字标识 */
+.root-banner {
+  font-family: var(--mono);
+  font-size: clamp(1.4rem, 1rem + 2vw, 2.2rem);
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 0.5rem 0.9rem;
+  border-radius: 0.4rem;
+  display: inline-block;
+  margin: 0.2rem 0 0.6rem;
+}
+
+/* 词源故事块 */
+.etymo {
+  border-left: 4px solid var(--accent);
+  background: var(--surface);
+  padding: 0.8rem 1.1rem;
+  border-radius: 0 0.4rem 0.4rem 0;
+  margin: 1rem 0;
+}
+
+/* 派生词表：英文词加粗、拆解用等宽 */
+table {
+  font-size: 0.97rem;
+}
+table code, .breakdown {
+  font-family: var(--mono);
+  color: var(--accent);
+  background: transparent;
+}
+.headword {
+  font-weight: 700;
+  font-size: 1.05em;
+}
+
+/* 频率档徽标 */
+.freq {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  padding: 0.05rem 0.4rem;
+  border-radius: 0.8rem;
+  white-space: nowrap;
+}
+.freq-1 { background: #d8efd8; color: #1f6b1f; }   /* 高频 */
+.freq-2 { background: #fff0cc; color: #8a6500; }   /* 中频 */
+.freq-3 { background: #eee; color: #666; }         /* 低频/学术 */
+
+/* 助记钩子 */
+.mnemonic {
+  background: #fff8e6;
+  border: 1px dashed var(--accent);
+  border-radius: 0.4rem;
+  padding: 0.6rem 0.9rem;
+  margin: 0.9rem 0;
+}
+
+/* 陷阱提示 */
+.trap {
+  border-left: 4px solid var(--trap);
+  background: #fdeceb;
+  padding: 0.7rem 1rem;
+  border-radius: 0 0.4rem 0.4rem 0;
+  margin: 1rem 0;
+}
+.trap strong { color: var(--trap); }
+
+/* 今日复习 */
+.review-today {
+  background: var(--accent-soft);
+  border-radius: 0.5rem;
+  padding: 0.7rem 1rem;
+  margin: 1.5rem 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* 例句中的目标词高亮 */
+.ex em, .ex b { color: var(--accent); font-style: normal; font-weight: 600; }
+
+/* 阅读区行宽与留白 */
+main p, main li { max-width: 70ch; }

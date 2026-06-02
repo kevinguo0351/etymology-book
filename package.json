@@ -1,0 +1,15 @@
+{
+  "name": "etymology-book",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "词根解码 — Quarto 词汇书的配套工具链（频率排序 / Anki 卡组 / Eudic 导出）",
+  "scripts": {
+    "rank": "node scripts/rank_roots.mjs",
+    "anki": "node scripts/build_anki.mjs",
+    "eudic": "node scripts/export_eudic.mjs"
+  },
+  "dependencies": {
+    "anki-apkg-export": "^4.0.3"
+  }
+}

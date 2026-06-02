@@ -1,0 +1,81 @@
+# graph / gram —— "写、画、记录"
+
+::: {.root-banner}
+graph · gram = to write / draw / record 写、画、记
+:::
+
+来源：希腊语 **graphein**（刻、写、画）和它的名词 **gramma**（写下来的东西：字母、记号）。最早 graphein 是"用尖物刻划"——在蜡板、石头上刻痕，所以这个根天生带着"留下痕迹、记录下来"的意味。
+
+::: {.etymo}
+**词源故事：希腊根像乐高**
+
+拉丁词靠**前缀换方向**（上一章的 spect）；希腊词更像**乐高积木**——一个表意根接一个表意根，拼出科学词汇的半壁江山。
+
+`-graphy`（书写/记录某事物）几乎能接上任何一个希腊"领域根"：
+
+> `bio`(生命)+`graphy` = biography 传记
+> `geo`(大地)+`graphy` = geography 地理
+> `photo`(光)+`graph` = photograph 照片（用光"写"下来的图）
+> `tele`(远)+`graph` = telegraph 电报机（远距离"写"）
+
+**学会 graph，你顺手就握住了一串希腊领域根。** 这一章的真正收获，是下面那张"搭档根"表。
+:::
+
+## 搭档根（与 graph/gram 高频组合）
+
+| 搭档根 | 含义 | 组合示例 |
+|---|---|---|
+| `bio` | 生命 | biography 传记 |
+| `geo` | 大地 | geography 地理 |
+| `photo` | 光 | photograph 照片 |
+| `auto` | 自己 | autograph 亲笔签名 |
+| `tele` | 远 | telegraph 电报 |
+| `biblio` | 书 | bibliography 参考书目 |
+| `calli` | 美 | calligraphy 书法 |
+| `choreo` | 舞 | choreography 编舞 |
+| `ortho` | 正、直 | orthography 正字法/拼写 |
+| `demo` | 人民 | demography 人口统计 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [graphic]{.headword} | adj./n. | `graph`(画)+`-ic` | 与图画有关的 → 图形的/生动的 | [高频]{.freq .freq-1} |
+| [paragraph]{.headword} | n. | `para-`(旁边)+`graph`(写) | 旁边标记的一段 → 段落 | [高频]{.freq .freq-1} |
+| [photograph]{.headword} | n. | `photo`(光)+`graph`(写) | 用光写下 → 照片 | [高频]{.freq .freq-1} |
+| [biography]{.headword} | n. | `bio`(生命)+`graph`(写)+`-y` | 写一个人的一生 → 传记 | [高频]{.freq .freq-1} |
+| [autograph]{.headword} | n. | `auto`(自己)+`graph`(写) | 自己写的 → 亲笔签名 | [中频]{.freq .freq-2} |
+| [bibliography]{.headword} | n. | `biblio`(书)+`graph`(写)+`-y` | 关于书的记录 → 参考书目 | [中频]{.freq .freq-2} |
+| [calligraphy]{.headword} | n. | `calli`(美)+`graph`(写)+`-y` | 美的书写 → 书法 | [中频]{.freq .freq-2} |
+| [demography]{.headword} | n. | `demo`(人民)+`graph`(记)+`-y` | 记录人口 → 人口统计学 | [低频]{.freq .freq-3} |
+| [orthography]{.headword} | n. | `ortho`(正)+`graph`(写)+`-y` | 正确地写 → 正字法/拼写 | [低频]{.freq .freq-3} |
+| [diagram]{.headword} | n. | `dia-`(贯穿)+`gram`(画) | 贯穿画出 → 图表 | [高频]{.freq .freq-1} |
+| [program]{.headword} | n. | `pro-`(预先)+`gram`(写) | 预先写好的 → 程序/节目单 | [高频]{.freq .freq-1} |
+| [grammar]{.headword} | n. | `gram`(写)+`-mar` | 关于文字的技艺 → 语法 | [高频]{.freq .freq-1} |
+| [anagram]{.headword} | n. | `ana-`(重新)+`gram`(字母) | 重排字母 → 易位构词 | [低频]{.freq .freq-3} |
+| [epigram]{.headword} | n. | `epi-`(在上)+`gram`(写) | 刻在上面的字 → 警句 | [低频]{.freq .freq-3} |
+| [seismograph]{.headword} | n. | `seismo`(地震)+`graph`(记) | 记录地震 → 地震仪 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- His sloppy **orthography** ruined an otherwise beautiful piece of **calligraphy**.（他糟糕的**拼写**毁了一幅本可很美的**书法**——ortho-写 vs calli-写，对照记。）
+- The **diagram** in **paragraph** three explains the whole **program** at a glance.（第三段的**图表**一眼讲清了整个**程序**——三个 graph/gram 词同段复现。）
+- A good **biography** is not a list of dates but a **photograph** of a soul.（好的**传记**不是日期清单，而是一张灵魂的**照片**。）
+:::
+
+::: {.mnemonic}
+**助记**：`-graph` 偏"**写的工具或形式**"（telegraph 电报机、seismograph 地震仪、autograph 笔迹）；`-gram` 偏"**写出来的那条信息/结果**"（telegram 电报内容、diagram 图、anagram 重排出的词）。
+记成一对：**graph 是笔，gram 是写出的字。**（倾向，不是铁律——photograph 是例外。）
+:::
+
+::: {.trap}
+**陷阱（有趣但别拿来推义）**：**glamour**（魅力）其实是 **grammar** 的"双生词"。中世纪 grammar 指高深学问，民间把"学问"和"魔法"联系起来，苏格兰语里讹变出 glamour＝"魔咒、迷惑"，后来软化成"魅力"。
+
+这是绝佳的记忆钩子，但属于**历史趣闻**：今天 glamour 和"写/语法"毫无语义关系，别用 gram 去推它。
+:::
+
+::: {.review-today}
+**今日复习**：学完本章后，回看 **第 1 章（spec/spect/spic）**。遮住释义，自测：respect / circumspect / conspicuous / despise。
+然后对照感受两种构词逻辑——拉丁靠**换前缀方向**，希腊靠**拼搭档根**。
+:::

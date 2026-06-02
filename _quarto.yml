@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "词根解码"
+  subtitle: "用构词法快速扩充英语阅读词汇"
+  author: "Kevin"
+  date: today
+  search: true
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - chapters/method.qmd
+    - part: "样章预览（第一梯队 · 地基根）"
+      chapters:
+        - chapters/ch01-spec.qmd
+        - chapters/ch02-graph-gram.qmd
+  appendices:
+    - appendix/affixes.qmd
+    - appendix/review-calendar.qmd
+
+lang: zh
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "本章导航"
+    number-sections: false
+    fontsize: 1.05rem
+    linestretch: 1.7
+    smooth-scroll: true
+    anchor-sections: true
+    code-copy: true
+    grid:
+      body-width: 820px

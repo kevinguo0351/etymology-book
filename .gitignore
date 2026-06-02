@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+/_freeze/
+node_modules/
+decks/*.apkg
+data/*.txt
+.env
+*.log

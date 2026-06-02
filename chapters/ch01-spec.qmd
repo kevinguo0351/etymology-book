@@ -1,0 +1,69 @@
+# spec / spect / spic —— "看"
+
+::: {.root-banner}
+spec · spect · spic = to look 看
+:::
+
+来源：拉丁语 **specere**（看、注视）。它的"反复体"是 **spectare**（反复看、观看），形容词词干常作 **spic-**。三种拼法是同一个根的变体，**看到 spec/spect/spic，先想"看"**。
+
+::: {.etymo}
+**词源故事：看鸟的人**
+
+古罗马人做大事前要先"看天意"——派一位祭司抬头观察飞鸟的方向和叫声，再决定吉凶。这位祭司叫 **augur**，而"观察飞鸟"这件事本身叫 **auspicium**：`avi-`（鸟，来自 *avis*）+ `spic`（看）。
+
+于是今天我们说一件事 **auspicious**（吉利的），字面就是"鸟象看起来不错"；正式场合说 under the **auspices** of（在……的主持/赞助下），也是从这位"看鸟定吉凶"的祭司来的。
+
+记住这个画面：**所有 spec/spect/spic 的词，根子上都是"一双正在看的眼睛"。**
+:::
+
+## 核心派生词
+
+前缀决定"往哪个方向看"，根永远是"看"。
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [respect]{.headword} | n./v. | `re-`(回)+`spect`(看) | 回头一再看 → 敬重 | [高频]{.freq .freq-1} |
+| [expect]{.headword} | v. | `ex-`(向外)+`spect`(看) | 向外张望 → 期待 | [高频]{.freq .freq-1} |
+| [aspect]{.headword} | n. | `a-`(=ad 朝向)+`spect`(看) | 看过去的样子 → 方面 | [高频]{.freq .freq-1} |
+| [suspect]{.headword} | v./n. | `sus-`(=sub 在下)+`spect`(看) | 从下往上偷看 → 怀疑 | [高频]{.freq .freq-1} |
+| [inspect]{.headword} | v. | `in-`(向里)+`spect`(看) | 往里看 → 检查 | [中频]{.freq .freq-2} |
+| [prospect]{.headword} | n. | `pro-`(向前)+`spect`(看) | 向前看 → 前景 | [中频]{.freq .freq-2} |
+| [perspective]{.headword} | n. | `per-`(透过)+`spect`(看) | 透过看 → 视角 | [高频]{.freq .freq-1} |
+| [spectator]{.headword} | n. | `spect`(看)+`-ator`(人) | 观看的人 → 观众 | [中频]{.freq .freq-2} |
+| [spectacle]{.headword} | n. | `spect`(看)+`-acle`(物) | 给人看的东西 → 景象/奇观 | [中频]{.freq .freq-2} |
+| [spectrum]{.headword} | n. | `spect`(看)+`-rum` | 被看见的影像 → 光谱/范围 | [中频]{.freq .freq-2} |
+| [speculate]{.headword} | v. | `spec`(看)+`-ulate` | 在心里看来看去 → 推测/投机 | [中频]{.freq .freq-2} |
+| [circumspect]{.headword} | adj. | `circum-`(围绕)+`spect`(看) | 四下张望 → 谨慎的 | [低频]{.freq .freq-3} |
+| [retrospect]{.headword} | n. | `retro-`(向后)+`spect`(看) | 回头看 → 回顾 | [中频]{.freq .freq-2} |
+| [introspection]{.headword} | n. | `intro-`(向内)+`spect`(看)+`-ion` | 向内看 → 内省 | [中频]{.freq .freq-2} |
+| [conspicuous]{.headword} | adj. | `con-`(完全)+`spic`(看)+`-uous` | 完全能被看到 → 显眼的 | [中频]{.freq .freq-2} |
+| [perspicacious]{.headword} | adj. | `per-`(透彻)+`spic`(看)+`-acious` | 看得透 → 敏锐的 | [低频]{.freq .freq-3} |
+| [auspicious]{.headword} | adj. | `au-`(=avi 鸟)+`spic`(看)+`-ious` | 鸟象好 → 吉利的 | [低频]{.freq .freq-3} |
+| [despise]{.headword} | v. | `de-`(向下)+`spise`(看) | 往下看 → 鄙视 | [中频]{.freq .freq-2} |
+| [species]{.headword} | n. | `spec`(看)+`-ies` | 外观/样子 → 物种 | [高频]{.freq .freq-1} |
+| [specimen]{.headword} | n. | `spec`(看)+`-imen` | 拿来看的样子 → 标本/样本 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The detective stayed **circumspect**, never letting the *suspect* see what he truly *suspected*.（侦探始终**谨慎**，绝不让嫌疑人看出他真正怀疑什么——一句话里 circumspect / suspect / suspect 同根复现。）
+- From the hilltop, the whole valley opened into a single breathtaking **prospect**.（山顶望去，整条山谷展开成一片摄人心魄的**前景/景象**。）
+- A good scientist keeps a sense of **perspective**: one *spectacular* result is not yet a *species* of truth.（好的科学家保有**视角/分寸**：一个惊人结果还不等于一类真理。）
+- Her **perspicacious** remark cut straight to what everyone else had failed to see.（她**敏锐**的一句话，直指别人都没看到的地方。）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成镜头的方向——
+`re-` 回看、`ex-` 外看、`in-` 里看、`intro-` 内看、`retro-` 后看、`circum-` 环看、`per-` 透看、`pro-` 前看、`de-` 下看（看不起）。
+镜头(spect)不变，**只换方向**。
+:::
+
+::: {.trap}
+**陷阱**：**despite**（尽管）和 despise 同源（de-+看 → 看轻 → 蔑视 → "不顾"），但今天 despite 已是纯介词，**别再用"看"去硬解它的句子含义**，记住 = in spite of 即可。
+
+另外 **special / especially** 也来自这个根（specere → species "种类、特别的样子"），但词义已高度日常化，归到"历史趣闻"，不必每次拆。
+:::
+
+::: {.review-today}
+**今日复习**：这是第 1 章，暂无旧章可复习。明天学新章后，本章会进入复习队列。先确认你能遮住释义、只看拆解说出：respect / suspect / circumspect / conspicuous / auspicious 的意思。
+:::
