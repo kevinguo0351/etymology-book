@@ -94,6 +94,31 @@ book:
         - chapters/ch78-cid.qmd
         - chapters/ch79-man.qmd
         - chapters/ch80-nov.qmd
+    - part: "旧词复习 · 语境唤醒"
+      chapters:
+        - review/index.qmd
+        - review/BIZ.qmd
+        - review/SCI.qmd
+        - review/NAT.qmd
+        - review/MED.qmd
+        - review/EMO.qmd
+        - review/CONFLICT.qmd
+        - review/LAW.qmd
+        - review/FOOD.qmd
+        - review/ART.qmd
+        - review/CHAR.qmd
+        - review/MOV.qmd
+        - review/TIME.qmd
+        - review/COMM.qmd
+        - review/ABS.qmd
+        - review/SOC.qmd
+        - review/APP.qmd
+        - review/REL.qmd
+        - review/GEO.qmd
+        - review/WEA.qmd
+        - review/WORK.qmd
+        - review/DEG.qmd
+        - review/MISC.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

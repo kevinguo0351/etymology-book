@@ -1,0 +1,379 @@
+# 程度·数量·修饰 {.unnumbered}
+
+
+
+> 本主题共 8 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+
+
+
+### The Measure of a Morning
+
+The old café sat **nigh** a canal, its terrace overlooking **acres** of flat farmland that stretched across the full **gamut** of the horizon—pale gold near the water, deepening to amber at the far edge. Nothing about the morning felt **grand** in any theatrical sense, yet the light fell with a **lofty** calm that lifted everything.
+
+At the counter, the barista worked through a **batch** of orders with unhurried ease, each cup weighed to the nearest **gram**, each pour adjusted until the espresso hit exactly **par**. A **mere** half-degree off and the whole balance went **awry**; she had learned this through a **slew** of trial runs spread over a **span** of two years. On the shelf above her, tins of coffee were arranged in **tiers** by roast, from the lightest to the darkest **gross** blend reserved for the morning rush.
+
+Outside, a cyclist came to a loose, drifting stop on the cobblestones, her jacket catching wind like a **sheer** sail. She was neither rushing nor **slack**—simply occupying the moment with a **nifty** ease. She ordered something **ample**: a tall cup, two pastries, a **lump** of brown sugar on the side. The café was quiet enough that every sound carried—the low **pitch** of the radio, the **speck** of grinding coffee dusting the counter, the barista's soft exhale as she turned to the next cup. There was not a **whit** of hurry in any of it.
+
+The cyclist pulled out a battered paperback, its cover **loose** and its spine cracked through **zero** intact pages. She read slowly, willing to **spare** herself the pressure of finishing. The **mass** of words she had already absorbed over years settled in her like a **macro** layer beneath the day's small details—**minor** things, maybe, but the kind that give a morning its texture. The coffee was good: rich, not **lousy**, not **dull**. She sat there for an hour, and the hour was enough.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| par | n. | 票面价值；平均数量；标准 |
+| awry | adv. | 歪曲；歪斜地；错误地 |
+| dull | adj. | 钝的；呆滞的；无趣的 |
+| gram | n. | 克 |
+| lump | n. | 块，块状；很多 |
+| mass | n. | 大量，众多；块，团 |
+| mere | adj. | 仅仅，只不过 |
+| nigh | prep. | 近于；几乎 |
+| slew | n. | 极多；沼地 |
+| span | n. | 跨度；一段时间 |
+| tier | n. | 行，列；层，排；等级 |
+| whit | n. | 一点点；些微 |
+| zero | n. | 零；没有，无 |
+| acres | n. | 英亩 |
+| ample | adj. | 丰富的；足够的；宽敞的 |
+| batch | n. | 一批，一组，一群 |
+| gamut | n. | 全音阶；整个范围 |
+| grand | adj. | 宏伟的；极重要的 |
+| gross | adj. | 总共的；总额，总数 |
+| lofty | adj. | 崇高的；高的；高傲的 |
+| loose | adj. | 不牢固的；宽松的；散漫的 |
+| lousy | adj. | 极坏的；极不适的 |
+| macro | n. | 宏；巨大的，大量使用的 |
+| minor | adj. | 较小的，较少的，次要的 |
+| nifty | adj. | 俏皮的；漂亮的 |
+| pitch | n. | 音调，音高；程度；强度 |
+| sheer | adj. | 完全的；十足的；极薄的 |
+| slack | adj. | 松的；懈怠的；不活跃的 |
+| spare | vt. | 节省；省去；饶恕 |
+| speck | n. | 污点；小颗粒 |
+
+:::
+
+### A Day Stretched to Its Limits
+
+The morning briefing began in a climate of **scarce** calm. Demand for the new vaccine had produced a **spike** in overnight orders — a **surge** so **abrupt** that the logistics team, already **sapped** of reserves, found themselves on the **verge** of breakdown. Resources were not merely **finite**; they were disappearing. Supply lines, once **sturdy** and **robust**, had grown **wonky** under the pressure, and the gap between the **twain** — what was promised and what could be delivered — widened by the hour.
+
+The director called for **myriad** workarounds. She spoke with **acuity**, stripping every proposal down to what was **vital** and discarding the rest. A **deluxe** contingency plan that had looked promising on paper turned out to be too **coarse** in its assumptions; its logic, no longer **intact**, was quietly shelved. She was not a woman who let **excess** survive in a crisis. "**Merely** sounding confident," she reminded the room, "is not the same as being **secure**."
+
+Outside the conference room, work **abounded** in every corridor. The pace had become **hectic** — schedules **strained**, sleep **sparse**, margins razor-thin. Yet a few senior engineers kept their footing **steady**, their judgment **potent** enough to hold the whole system together. They could **fathom** what others could not: that the strongest response to a **mighty** surge is not speed alone, but the discipline to keep things from getting **worse**. Their calm, **merely** by existing, was itself a kind of infrastructure — and it kept the operation from sliding somewhere far more **deluxe** in cost and far more **coarse** in consequence.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| spike | n. | 尖头，尖刺，尖状物; 防滑鞋钉，钉鞋; 非常高的数量，价格或程度; 拒绝刊登，弃置不用; 将烈酒掺入… |
+| surge | n. | 突发，涌现，突然出现; 急剧上升，激增；大量；一大批; 奔涌向前；突然的向上运动; 浪涌; 涌；汹涌… |
+| twain | n. | 二;一对; 水火不相容，永远不可能合到一起; 二的;一对的 |
+| verge | n. | 边缘；绿地；极限；山墙突瓦；权杖 濒临，接近；趋向；处在边缘 |
+| vital | adj. | 极重要的，必不可少的; 维持生命所必需的；生命的; 有生气的，充满生机的 |
+| wonky | adj. | 动摇的,虚弱的,摇晃的,靠不住的,出错的 |
+| worse | adj. | 更坏的；更差的；更恶劣的；更重的; 更糟；更坏；更恶劣地；更坏地; 更坏的事；更恶劣的事 |
+| abound | vi. | 充满；富于 |
+| abrupt | adj. | 突然的；唐突的；陡峭的；生硬的 |
+| acuity | n. | 尖锐；敏锐；剧烈 |
+| climax | n. | 高潮；顶点；层进法；极点 |
+| coarse | adj. | 粗糙的；下等的；粗俗的 |
+| deluxe | adj. | 豪华的，奢华的；高级的; 豪华地 |
+| excess | n. | 无节制；过度，过量；超过，超额; 额外的，过量的；附加的 |
+| fathom | n. | 英寻 彻底了解；测量……的深度 |
+| finite | adj. | 有限的；限定的; 有限之物 |
+| hectic | adj. | 繁忙的;忙乱的 |
+| intact | adj. | 完整的；原封不动的；未受损伤的 |
+| merely | adv. | 仅仅，只不过；只是 |
+| mighty | adj. | 有力的；有势力的；强有力的; 很；极；非常; 有势力的人 |
+| myriad | adj. | 无数的；种种的; 无数，极大数量；无数的人或物 |
+| potent | adj. | 有效的；强有力的，有权势的；有说服力的 |
+| robust | adj. | 强健的；健康的；粗野的；粗鲁的 |
+| sapped | adj. | 受冰川作用侵蚀的 |
+| scarce | adj. | 缺乏的, 罕见的 |
+| secure | adj. | 安心的；有把握的; 可靠的；牢靠的；稳固的；安全的；稳妥的; 严密把守的；牢固的；坚固的; 获得，取… |
+| sparse | adj. | 稀疏的；稀少的 |
+| steady | adj. | 稳定的；不变的；沉着的; 稳固; 使稳定；稳固；使坚定; 稳固地；稳定地; 关系固定的情侣；固定支架 |
+| strain | n. | 张力；拉紧；负担；扭伤；血缘 拉紧；尽力 拉紧；滥用；滤去；竭力 |
+| sturdy | adj. | 强健的；坚定的；健全的; 羊晕倒病 |
+
+:::
+
+### When Scale Shifts and Nuance Matters
+
+The valley had once **abounded** with life — wildflowers across **gigantic** meadows, birds nesting in every thicket. But decades of farming had left the soil **depleted**, and what remained was only a **fraction** of the original ecosystem. A visiting ecologist described the loss in terms that felt almost **nebulous** at first: the biodiversity had not collapsed outright, she said, but had quietly thinned, like a photograph fading at its edges.
+
+Her report was anything but **trivial**. It documented the problem with **granular** precision — soil samples from every few **hectares**, moisture readings taken **swiftly** each dawn before evaporation could distort the data. The findings were **fabulous** in the original, unsettling sense: hard to believe, yet meticulously sourced. Nutrient levels had fallen to a point where even **adequate** plant cover could no longer be guaranteed. The situation had reached an **upsurge** of concern in regional government, though the initial response was **lukewarm** — polite interest, no funding.
+
+The ecologist refused to remain **impotent** in the face of bureaucratic delay. She urged local farmers to **step up** their restoration efforts, arguing that a **twofold** increase in cover-crop planting would **suffice** to stabilize the topsoil within three seasons. She acknowledged feeling **swamped** by the administrative hurdles, but pressed on. The **hardcore** opponents — landowners convinced that restoration was **inferior** to simple expansion — were **utterly** unmoved at first. Yet the data was too specific to dismiss. Even a **mediocre** effort at replanting, she showed, would **heighten** the soil's water retention and slow the ongoing **decrease** in organic matter. The goal was not **majestic** transformation overnight, but incremental recovery — each small **fragment** of restored ground adding back what had been lost, piece by **granular** piece.
+
+By the second year, the results were no longer **nebulous**: ground cover had spread across entire **hectares** with a **twofold** density compared to the baseline. The valley was not yet **abundant**, but **adequacy** was within reach. The work had been **grueling**, the path never **outright** clear — yet something **fabulous** had quietly begun.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| step up | | 增加，加快，提升，升高，站出来 |
+| suffice | vt. | 使满足；足够…用；合格; 足够；有能力 |
+| swamped | adj. | 泥沼状的; 淹没 |
+| swiftly | adv. | 很快地；即刻；敏捷地 |
+| trivial | adj. | 不重要的，琐碎的；琐细的 |
+| twofold | adj. | 双重的；两倍的; 双重地；两倍地 |
+| upsurge | n. | 高潮，高涨; 涌起，高涨 |
+| utterly | adv. | 全然;完全地;彻底地 |
+| Abounded | | |
+| abundant | adj. | 大量的, 充足的 |
+| adequacy | n. | 足够；适当；妥善性 |
+| adequate | adj. | 充分的, 足够的; 适当的, 胜任的 |
+| decrease | n. | 减少，减小；减少量; 减少，减小; 减少，减小 |
+| depleted | adj. | 废弃的；贫化的；耗尽的; 使减少；弄空；耗尽…的资源 |
+| fabulous | adj. | 难以置信的；传说的，寓言中的；极好的 |
+| fraction | n. | 小部分；部分；稍微；分数 |
+| fragment | n. | 碎片；片断或不完整部分; 使成碎片; 破碎或裂开 |
+| gigantic | adj. | 巨大的，庞大的 |
+| granular | adj. | 颗粒状的 |
+| grueling | adj. | 紧张的，激烈的；使极度疲劳的; 紧张地，激烈地 |
+| hardcore | n. | 核心部分,中坚分子; 绝对的,无条件的,没有限制的,赤裸裸描写性行为的 |
+| hectares | n. | 公顷 |
+| heighten | vt. | 提高；加强；增高；使更显著; 升高；变强 |
+| impotent | adj. | 无力的；无效的；虚弱的；阳萎的 |
+| inferior | adj. | 下级的，下等的；差的；自卑的; 次品；下级 |
+| lukewarm | adj. | 微温的; 不热心的;冷淡的 |
+| majestic | adj. | 雄伟的, 威严的; 壮丽的 |
+| mediocre | adj. | 中等的,普通的 |
+| nebulous | adj. | 云雾状的,星云的; 朦胧的,模糊的 |
+| outright | adv. | 完全地；彻底地; 坦率地；直率地；无保留地; 立即，当场; 完全的；彻底的 |
+
+:::
+
+### The Weight of Numbers
+
+The research station perched at the **pinnacle** of a remote ridge had been measuring glacier retreat for a decade. The findings were **palpable** — you could see the **shrunken** ice field with the naked eye, its **residual** mass now barely a third of what the old photographs showed. The **severity** of the loss **outweighed** anything the models had predicted, and the team's concern grew **robustly** with every new data point.
+
+Resources on the ground were another problem. Water from melt was available in **abundance** during the brief thaw season, yet the **scarcity** of it in the dry months was **immensely** frustrating for downstream communities. Supply and demand moved on **slippery**, **volatile** ground — **sporadic** surges followed by weeks of **sluggish**, near-zero flow. The **disparity** between wet and dry years had become **eightfold** in the **aggregate**, an **excessive** swing that no infrastructure had been designed to absorb.
+
+Against this backdrop, a **bountiful** summer snowpack felt almost **stunning** — a gift from a **boundless** sky that nobody trusted to last. The team's mandate was clear: document every **augmented** reading, flag every period of **expansion** or **depletion**, and never let **tertiary** details obscure the **ultimate** pattern. The glacier's retreat traced a **seamless** arc from cause to consequence; only the politics of response remained **deficient**, **sluggish** in a different way entirely. Those who argued **robustly** for action insisted that the benefits of early investment **outweighed** the costs — that the **vigorous** response now would spare a **boundless** reckoning later.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| outweigh | vt. | 比…重；比…重要；比…有价值 |
+| palpable | adj. | 可触知的，摸得出的; 明显的；明白的 |
+| pinnacle | n. | 顶峰,顶点,极点; 尖顶,小尖塔 |
+| residual | adj. | 存留下来的;剩余的;残余的 |
+| robustly | adv. | 要用体力地；粗鲁地；坚定地 |
+| scarcely | adv. | 简直没有；几乎不，简直不 |
+| scarcity | n. | 缺乏；不足 |
+| seamless | adj. | 无缝合线的；无缝的；无伤痕的 |
+| severity | n. | 严格, 严厉, 苛刻; 严重；剧烈; 朴素；简洁; 严厉的对待, 艰苦的环境 |
+| shrunken | adj. | 缩小的，缩拢的; 收缩，缩短 |
+| slippery | adj. | 滑的；狡猾的；不稳定的 |
+| sluggish | adj. | 萧条的；迟钝的；懒惰的；行动迟缓的; 市况呆滞；市势疲弱 |
+| sporadic | adj. | 零星的；分散的；不定时发生的 |
+| stunning | adj. | 极好的；使人晕倒的；震耳欲聋的; 把…打昏；使震耳欲聋；使大吃一惊 |
+| tertiary | n. | 第三纪；第三修道会会员；第三级教士; 第三的；第三位的；三代的 |
+| ultimate | adj. | 最后的，最终的；终极的；极端的；最好的；根本的；基本的；基础性的; 最好的事物；精华；极致；极限；最… |
+| vigorous | adj. | 有力的；精力充沛的 |
+| volatile | adj. | 不稳定的；易变的；易怒的，喜怒无常的; 可能急剧波动的；不稳定的；易恶化的; 易挥发的，易气化的 |
+| abundance | n. | 大量, 充足 |
+| aggregate | n. | 〈正〉数, 总计; 总计达…; & 聚集 |
+| augmented | adj. | 增音的,扩张的 |
+| boundless | adj. | 无限的；无穷的; 无边际的；广阔的 |
+| Bountiful | adj. | 慷慨给予的; 丰富的,充裕的 |
+| deficient | adj. | 有缺点的，有缺陷的; 缺乏的, 不足的 |
+| depletion | n. | 消耗;用尽 |
+| disparity | n. | 不同，不等；不一致；悬殊 |
+| eightfold | adj. | 八倍的，八层的；八倍地，八层地 |
+| excessive | adj. | 过度的，过分的；极度的 |
+| expansion | n. | 扩大, 扩张, 扩展, 膨胀; 扩张物, 膨胀物 |
+| immensely | adv. | 非常, 极大地 |
+
+:::
+
+### Measuring the Unmeasurable — A Lab at the Edge of Precision
+
+The **principal** challenge in any serious measurement project is not the equipment itself but the **yardstick** you choose. Without a reliable standard, every **increment** of progress becomes suspect, and **cumulative** error compounds quietly until the whole edifice collapses. That **threshold** — the point at which small inaccuracies become catastrophic — arrives faster than most researchers expect.
+
+In the lab where Dr. Mora worked, the **magnitude** of the task was immediately apparent. **Masses of** sensor data arrived each hour, **scattered** across a **multitude** of formats, many of them **truncated** by upstream systems that had run out of buffer space. The team's original pipeline was **cumbersome**: a tangle of legacy scripts that had been patched **ad nauseam** until no one could explain what half of them did. A **redundant** preprocessing stage alone added forty minutes to every run. Something had to change — **radically**.
+
+The new design was **radically** different in ambition. **Compressed** packet streams replaced the bloated logs. An **ultrathin** sensor array — no thicker than a credit card — fed readings directly into a **multiplex** decoder, which handled the **plurality** of signal types without breaking stride. The **precision** of the output improved by a **threefold** margin almost overnight. Early prototypes had been **miniature** proofs of concept; now the system was **king-size** in scope yet lean in overhead. The **pervasive** instability that once crept into every sub-module was **diminished** to a rounding error.
+
+What made the shift **momentous** was not any single component but the philosophy behind it. **Prominent** voices in the field had long argued that the **prevalent** approach — pile on redundancy, patch the **shrinkage** in accuracy with brute computational force — was fundamentally misguided. The new pipeline showed that engineers **outnumber** their real problems when they stop adding features and start subtracting assumptions. **Paramount** among those pruned assumptions was the idea that bigger always meant better. In the end, the most **pervasive** lesson was the simplest: measure what matters, discard what does not, and let **precision** speak for itself.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| increment | n. | 增长; 增额 |
+| king-size | adj. | 特大的;特长的; 数量等非常大的 |
+| magnitude | n. | 巨大; 重要性; 〈天〉星等 |
+| masses of | | 大多数, 大部分 |
+| miniature | adj. | 很小的；微型的；小型的; 缩微模型；微型复制品; 微型画；小画像; 小瓶装烈酒 |
+| momentous | adj. | 重大的, 严重的 |
+| multiplex | adj. | 多元的 |
+| multitude | n. | 大量, 许多; 大众, 民众, 群众 |
+| outnumber | vt. | 数量多于；比…多 |
+| paramount | adj. | 最高的，至上的；首要的，主要的 |
+| pervasive | adj. | 无处不在的;遍布的;充斥各处的; 无处不在地;遍布地; 无处不在;遍布 |
+| plurality | n. | 处于多数; 多元化, 多重性; 诸多, 众多; 相对多数 |
+| precision | n. | 精确度, 准确 |
+| prevalent | adj. | 普遍的, 盛行的, 流行的 |
+| principal | adj. | 最重要的；主要的; 负责人，校长; 资本，本金; 被代理人，委托人 |
+| prominent | adj. | 突起的，凸出的; 显著的；突出的; 杰出的，著名的，卓越的 |
+| radically | adv. | 根本地;彻底地;完全地; 激进地;极端地 |
+| redundant | adj. | 因人员过剩而被解雇的; 不需要的; 多余的 |
+| scattered | adj. | 分散的;稀稀拉拉的 |
+| shrinkage | n. | 收缩;皱缩;缩水 |
+| threefold | adj. | & 三倍; 有三部分的,三重的 |
+| threshold | n. | 门槛; 〈喻〉开始 |
+| truncated | adj. | 切去顶端的,缩短了的,被删节的 |
+| ultrathin | adj. | 超薄的,极细的 |
+| yardstick | n. | 比较或衡量的标准;尺度 |
+| ad nauseam | adv. | 令人作呕地 |
+| compressed | adj. | 压缩的; 扁长形的 |
+| cumbersome | adj. | 沉重的, 笨重的, 转动不灵的 |
+| cumulative | adj. | 累积的, 渐增的 |
+| diminished | adj. | 减少了的,被贬低的 |
+
+:::
+
+### When "Enough" Is Never Simple
+
+The conference hall was **jam-packed**, every seat taken and the aisles lined with latecomers who had clearly underestimated demand. At the centre of it all stood Dr. Voss, presenting data on global resource consumption — figures so **staggering** that a hush fell over the room. The **escalation** in per-capita usage over the past two decades was **astonishing**, a **prodigious** leap that earlier models had **drastically** underestimated. She argued **vehemently** that current mitigation efforts **fall short** of what the crisis demands, and that the **cumulative** toll of small, daily choices had become **devastating** in aggregate.
+
+The picture she painted of **inadequacy** was **dreadfully** familiar to the policy veterans in the front rows. Carbon offsets, once **ubiquitous** across corporate sustainability reports, now looked **suboptimal** at best. Their impact had proved **negligible** against a problem of **formidable** scale, and the window for correction was **diminishing** with each passing quarter. Cheap quick-fixes had **exacerbated** the underlying distortions rather than correcting them, and the **exorbitant** cost of inaction was now impossible to ignore. What seemed **sufficient** a decade ago was **unexampled** in its failure to anticipate compounding effects.
+
+In the second half of her talk, Dr. Voss shifted to solutions that **effectively** reframe the problem. Certain technologies had begun to **proliferate** across emerging markets — not **exclusively** in wealthy nations — and early results were **exceptional**. Solar microgrids were now **predominant** in rural electrification schemes where fossil infrastructure once **predominated**. The **arduousness** of the transition, she conceded, should not be minimised, but the alternative was a trajectory that was **detrimental** to every living system on the planet. Scale and speed, she concluded, were not optional modifiers — they were the whole point.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| dreadfully | adv. | 可怕地，恐怖地；害怕地; 极其，非常 |
+| escalation | n. | 扩大,增加 |
+| exacerbate | vt. | 使恶化；使加重 |
+| exorbitant | adj. | 过度的,极高的 |
+| fall short | | 不符合标准 |
+| formidable | adj. | 可怕的, 令人畏惧的; 令人惊叹的; 难以克服的 |
+| inadequacy | n. | 不充分, 不足, 不胜任; 毛病, 缺陷, 弱点 |
+| jam-packed | adj. | 塞紧的,拥挤不堪的 |
+| negligible | adj. | 可忽略的, 无足轻重的 |
+| prodigious | adj. | 异常的，惊人的，奇异的；巨大的 |
+| queen-size | adj. | 大号的 |
+| staggering | adj. | 难以置信的;令人震惊的 |
+| suboptimal | adj. | 未达最佳标准的,不最理想的 |
+| sufficient | adj. | 足够的; 充足的 |
+| ubiquitous | adj. | 普遍存在的;无处不在的 |
+| unexampled | adj. | 绝无仅有的;无先例的;空前的 |
+| vehemently | adv. | 激烈地;暴烈地;强烈地; 热烈地 |
+| arduousness | | 艰难,艰苦,奋斗 |
+| astonishing | adj. | 使人吃惊的,惊人的 |
+| cumulative; | | |
+| detrimental | adj. | 有害的, 不利的 |
+| devastating | adj. | 毁灭性的; 很好的, 引人注目的 |
+| diminishing | adj. | 逐渐缩小的 |
+| drastically | adv. | 大大地;彻底地; 激烈地 |
+| effectively | adv. | 有效地; 实际上,事实上 |
+| exceptional | adj. | 优越的，杰出的; 例外的；独特的，异常的 |
+| exclusively | adv. | 专门地;专有地; 独占地;排外地 |
+| predominant | adj. | 占主导地位的, 显著的 |
+| predominate | vi. | 占支配地位; 在…中占优势 |
+| proliferate | vi. | 激增；繁殖；增生; 扩散 |
+
+:::
+
+### The Weight of What Cannot Be Measured
+
+The documentary's opening shot was **spectacular** — a vast glacier cracking apart in real time, the kind of image that lands with **sensational** force and refuses to leave. The filmmaker had spent **approximately** three years assembling what she called a **comprehensive** account of climate data, and the result was **extraordinarily** persuasive. The evidence was **substantial**: sea levels rising at an **unprecedented** rate, biodiversity loss **exceptionally** severe across ecosystems that had persisted for millennia. Taken **across the board**, the numbers pointed in one direction only.
+
+What made the film **irresistibly** compelling, though, was its honesty about scale. The narrator admitted that human intuition is simply not built to process the **multitudinous** variables at play. The forces involved are **unfathomable** in any ordinary sense — and the **insurmountable** complexity of feedback loops makes **intermediate** projections almost meaningless. Even the most **indispensable** climate models are built on assumptions that are **infinitesimal** refinements of earlier guesses, stacked atop one another with **impenetrable** mathematics. Any single model, taken alone, would **fall short of** capturing the full picture.
+
+The **vulnerability** of coastal cities was laid out with **proportionate** urgency — not hysteria, not understatement. Existing sea walls were shown to be **insufficient**, their **superiority** over nothing **substantially** undermined by the rate of change. The resources currently allocated to adaptation are barely **commensurate** with the scale of the threat; **supplemental** funding has been approved in several nations, but the amounts feel almost **superfluous** against what is actually needed. The film's final argument was **quintessential** climate-movement reasoning: **indispensability** of action is not in doubt; what remains **unfathomable** is why the response remains so small.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| sensational | adj. | 轰动的，群情激动的; 耸人听闻的; 极好的；绝妙的 |
+| spectacular | adj. | 壮观的, 雄伟的, 引人入胜的 |
+| substantial | adj. | 坚固的；结实的; 大量的，可观的; 重大的，重要的; 实质的，基本的，大体上的 |
+| superfluous | adj. | 过多的; 过剩的; 多余的 |
+| superiority | n. | 优越, 优等 |
+| commensurate | adj. | 相等的; 相称的,相当的 |
+| impenetrable | adj. | 不能通过的,不能穿过的; 不可理解的 |
+| insufficient | adj. | 不足的,不够的 |
+| intermediate | adj. | 中间的；中级的 |
+| irresistibly | adv. | 无法抵抗地;不能自持地; 极为诱惑人地 |
+| supplemental | adj. | 补足的,追加的 |
+| unfathomable | adj. | 深得无法到达底部的; 高深莫测的;难以了解的 |
+| approximately | adv. | 近似地,大约 |
+| comprehensive | adj. | 广泛的, 综合的 |
+| exceptionally | adv. | 例外地;异常地;特殊地 |
+| fall short of | | 缺乏；达不到 |
+| indispensable | adj. | 必不可少的, 必需的; 不可缺少之物 |
+| infinitesimal | adj. | 极微小的; 无限小地 |
+| multitudinous | adj. | 大量的,群集的,多种多样的 |
+| proportionate | adj. | 成比例的；均衡的；相称的 |
+| substantially | adv. | 本质上，实质上；大体上; 相当多地，大大地 |
+| unprecedented | adj. | 前所未有的, 无前例的 |
+| vulnerability | n. | 弱点,攻击 |
+| insurmountable | adj. | 不可逾越的 |
+| quintessential | adj. | 精髓的;典型的; 第五元素的 |
+| extraordinarily | adv. | 非常;格外地;异常地 |
+| across the board | | 全体人员都包括在内 |
+| indispensability | n. | 不可缺少 |
+
+:::
+
+### Measuring the World — Degree, Quantity, and Modification in Science
+
+Across the natural sciences, researchers must describe phenomena with precision, characterising not only what exists but **how much**, **how intense**, and **to what degree**. A finding of **superb** accuracy can define a career; sloppy measurement, by contrast, can cause an entire research programme to **exhaust** its credibility. Scientists therefore work to the **utmost** of their analytical capability, bringing every available tool to bear on the question at hand.
+
+Environmental conditions set the stage for any measurement. **Ambient** temperature, pressure, and humidity all influence instrument readings, and **adverse** conditions — extreme cold, corrosive atmosphere, or electromagnetic interference — can introduce systematic error. To counter such noise, engineers **amplify** the target signal while simultaneously working to **curtail** background interference. Where data points form a tight **cluster**, confidence rises; where they scatter **profuse**ly across the scale, the researcher must question whether the underlying variable is well controlled. **Caliber** of instrumentation is therefore **crucial**: a sensor of high **calibre** delivers readings whose **brevity** of error bar speaks for itself. A **compact** device that fits into a field kit may trade some precision for portability, yet even a small **booster** circuit can restore signal strength when **shallow** readings would otherwise mislead.
+
+Biological systems illustrate these principles vividly. A colony of microbes that receives ample nutrients will **thrive** with remarkable **vigour**, showing **brisker** cell division and **copious** metabolic output. Conversely, a **drastic** reduction in available substrate can trigger a **rampant** stress response, **dulling** enzymatic activity and forcing the population to **augment** alternative metabolic pathways. The **salient** lesson is that living systems are never static: they continuously **ramp up** or scale back their activity in response to external signals. Understanding this dynamic demands experiments that are **arduous** to design — rarely a **one-off** measurement suffices — and that genuinely **amplify** our grasp of the underlying biology rather than merely confirming prior assumptions. **Primacy** in any scientific field belongs to those who measure carefully, interpret honestly, and communicate with **immense** clarity.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| superb | adj. | 卓越的, 杰出的, 极好的 |
+| thrive | vi. | 兴盛；兴隆; 长得健壮 |
+| utmost | n. | 极限；最大可能; 极度的；最远的 |
+| vigour | n. | 智力，精力，元气; 强健，茁壮; 气势；力度；魄力; 效力，有效 |
+| adverse | adj. | 不利的；相反的；敌对的 |
+| ambient | adj. | 周围的,包围着的 |
+| amplify | vt. | 放大, 扩大; 增强; 详述 |
+| arduous | adj. | 费力的；努力的；险峻的 |
+| augment | vt. | 增加, 提高, 扩大 |
+| booster | n. | 升压机；支持者；扩爆器 |
+| brevity | n. | 短暂，短促；简洁，简短 |
+| brisker | adj. | 更活泼；更积极；更清新 |
+| caliber | n. | 口径；才干；器量；水准 |
+| calibre | n. | 口径；才干；水准 |
+| cluster | n. | 串, 簇; 群, 组; 集中 |
+| compact | adj. | 小型的；袖珍的; 紧凑的；体积小的; 紧密的；坚实的 |
+| copious | adj. | 丰富的；很多的；多产的 |
+| crucial | adj. | 决定性的；重要的；定局的；决断的 |
+| curtail | vt. | 截断, 缩短 |
+| drastic | adj. | 激烈的；猛烈的 |
+| dulling | n. | 发暗；失光；迟钝; 使变钝；使沉闷；使晦暗 |
+| exhaust | vt. | 弄空, 取出; 用尽, 耗尽; 使非常疲倦; 排气 |
+| immense | adj. | 极大的, 巨大的 |
+| one-off | adj. | 一次性的; 一次性事物 |
+| primacy | n. | 首位；卓越；大主教的职位 |
+| profuse | adj. | 毫不吝惜的，慷慨的，大量的；众多的；丰富的 |
+| ramp up |  |  |
+| rampant | adj. | 猖獗的；无法控制的; 只用后腿站起来的 |
+| salient | adj. | 显著的,重要的,主要的; 凸出的 |
+| shallow | adj. | 浅的；肤浅的; 浅滩 |
+
+:::

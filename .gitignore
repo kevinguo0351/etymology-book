@@ -3,6 +3,6 @@
 /_freeze/
 node_modules/
 decks/*.apkg
-data/*.txt
+data/
 .env
 *.log

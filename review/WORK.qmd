@@ -1,0 +1,587 @@
+# 劳动·工具·工艺 {.unnumbered}
+
+
+
+> 本主题共 13 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+
+
+
+### The Workshop at Dawn
+
+Before the sun clears the ridge, the old joiner is already at his bench. Beside him sits a **bunk** of rough timber — planks stripped straight off the trunk he helped **log** last autumn. He picks up a chisel and works the face of the wood until it is **hewn** smooth, then reaches into his **kit** for the finishing tools: a worn **iron**, a jar of **wax**, and a fistful of **cord** to bind the joints tight. A **hook** screwed into the wall holds his **hose** for wetting the sharpening stone. The **coal** stove in the corner has been burning since before he woke; the **coke** it leaves behind will be shoveled into a **bin** near the door come evening.
+
+His wife works at the table across the room, threading a needle to **sew** a tear in the canvas apron. She pulls **lint** from the **batt** inside a quilted pad, pressing the cotton flat with her palm, then uses a length of **cord** already cut to edge the hem. A tin **mug** of cold tea sits at her elbow, its handle hooked on a **nail** driven into a post years ago. She keeps her thread and **nib** pens and ink in the same **kit** box, orderly as always.
+
+Outside, the younger hand fills a **pail** from the rain barrel and carries it to the vegetable bed they mean to **pave** along the edge with flat stone. He will **mow** the long grass near the fence once the dew lifts, then join the others hauling the season's **load** down to the **mine** entrance before noon. A scrap of **pell** tacked to the barn door lists the day's tasks in blunt letters. The **gear** is ready: ropes **coil**ed on the cart, a **net** folded over the side rail, the old **plow** oiled and waiting. What needs **darn**ing will be darned tonight, and what needs **wax** will be waxed — there is no rushing the craft, only doing it right.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| bin | n. | 大储藏箱; 宽口箱 |
+| cot | n. | 简易床；小屋；轻便小床 |
+| kit | n. | 衣物和装备; 成套用品; 配套元件 |
+| log | vi. | 伐木; 伐木；航行；切; 航行日志；园木；记录 |
+| mow | n. | 草堆；皱眉；谷堆; 割草；收割庄稼 |
+| mug | n. | 圆筒形有柄大杯; 〈口〉容易受骗的人, 傻瓜; 〈俚〉脸; 对…行凶抢劫 |
+| net | n. | 网；净利；网络；实价; 编网; 净赚；得到；用网捕; 纯粹的；净余的 |
+| nib | n. | 钢笔尖；嘴；鹅管笔的尖端; 装尖头；削尖；插入 |
+| sew | vt. | 缝合，缝上；缝纫; 缝纫，缝 |
+| wax | n. | 蜡；蜡状物; 给…上蜡; 月亮渐满；增大; 蜡制的；似蜡的 |
+| batt | n. | 棉絮；油页 |
+| bunk | n. | 铺位；座床；床铺; 睡在铺上；逃跑; 为…提供铺位 |
+| coal | vi. | 加煤；上煤; 给…加煤；把…烧成炭; 煤；煤块；木炭 |
+| coil | vt. | 盘绕，把…卷成圈; 卷；线圈; 成圈状 |
+| coke | n. | 焦炭；可卡因; 焦化; 成焦炭；用麻药使…麻醉 |
+| cord | n. | 束缚；绳索; 用绳子捆绑 |
+| darn | vt. | 织补; 见鬼; 织补之处 |
+| gear | n. | 用具，设备，衣服; 齿轮；传动装置；挡; 换挡; 使兴奋起来；使准备好 |
+| hewn | vt. | 砍; 粗削的 |
+| hook | vt. | 钩住，吊住，挂住; 弯成钩形; 挂钩；鱼钩; 钩拳; 转弯处 |
+| hose | n. | 连裤袜, 长筒袜, 短统袜; 软管, 胶管, 水龙头; 用软管浇 |
+| iron | n. | 铁; 熨斗; 镣铐; 坚强，刚强；冷酷; 熨平 |
+| lint | n. | 软麻布；线头；棉绒; 飞散出棉线 |
+| load | n. | 负载，负荷；装载量；工作量; 装货；装载；加载; 使担负；装填 |
+| mine | n. | 矿山，矿井；矿，矿藏；地雷，水雷; 开矿，采矿; 埋雷于；布雷于；用雷炸毁; 我的 |
+| nail | vt. | 钉；揭露；使固定; 指甲；钉子 |
+| pail | n. | 桶，提桶 |
+| pave | vt. | 铺设；安排；作铺设之用 |
+| pell | n. | 一卷羊皮纸 |
+| plow | n. | 犁; 耕,犁,犁耕,费力穿过,艰苦前进,在考试中淘汰 |
+
+:::
+
+### 棚屋里的一个工作日
+
+The old **shed** behind the mill had seen generations of labour. Each morning, the foreman would step inside, hang his coat on the **rack**, and begin. The day's first task was paper: raw **pulp** hauled in on flat **slab**s of compressed fibre, ready to be pressed and dried. While the press ran, he used a **pump** to clear standing water from the floor — the drainage here was never quite right.
+
+Outside, two workers moved across the yard. One dragged a **rake** across the gravel path, collecting wood shavings into neat windrows before they could **seam** into the wet ground. The other swung a **broom**, its **besom** head worn almost flat, then switched to a **brush** to work the grime out of the **bench** joints. A copper **tray** nearby held small parts sorted by size: **tack**s, **stud**s, and a folded strip of **tain** that someone had peeled from an old mould.
+
+By mid-morning the heavier work began. The **crane** swung a **crate** of raw ore over the furnace pit; the melt would leave a thick skin of **slag** once it cooled. A **cable** steadied the load while a younger apprentice applied the **brake** just before the crate touched down. At the casting bench, sheets of finished metal were cut — one destined to become **tyre** stock, another to be punched into **tile** blanks. A **clamp** held each sheet fast while the cutter scored it. Scrap ends went down the **chute** into a bin below.
+
+The afternoon belonged to finishing. One craftsman stirred a **churn** of sizing compound, ladling it over coarse cloth. Another fitted the last panel of the **coupe** body, seating each **stud** with a single clean stroke. The walls of the room were lined with **couch**es of cured leather — raw stock waiting for the saddler. A small **caddy** on the shelf held spare blades, a cake of **soap** for lubricating the saw, and a curl of spare **cable**. By dusk the crew had loaded the finished pieces onto a flatbed, ready for the **rake** of morning light and whatever the next order required — though tonight they would **reap** the quiet satisfaction of a clean, emptied shop.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| pulp | n. | 纸浆；果肉；黏浆状物质 |
+| pump | vt. | 用抽水机抽……；打气；泵，抽水机 |
+| rack | n. | 行李架；拷问台；齿条 |
+| rake | n. | 耙子；以耙子耙平；搜寻；向开枪扫射 |
+| reap | vt. | 收割庄稼；收获；获得 |
+| seam | n. | 缝；接缝；缝合；接合 |
+| shed | n. | 棚，库；流出；蜕皮 |
+| slab | n. | 厚板，平板，厚片 |
+| slag | n. | 矿渣；熔渣；炉渣 |
+| soap | n. | 肥皂；将肥皂涂在……上 |
+| stud | n. | 大头钉；饰纽；壁骨；种马 |
+| tack | n. | 大头钉，平头钉；航向；方法 |
+| tain | n. | 薄锡板，锡箔 |
+| tile | n. | 瓷砖，瓦片；铺以瓦 |
+| tray | n. | 盘子，托盘；文件盘 |
+| tyre | vt. | 装轮胎于；轮胎；轮箍 |
+| bench | n. | 长凳；工作台；法官席 |
+| besom | n. | 扫帚 |
+| brake | vi. | 刹车；闸，阻碍 |
+| broom | n. | 金雀花；扫帚；扫除 |
+| brush | n. | 刷子；画笔；争吵；刷；擦过 |
+| cable | n. | 巨缆，钢索；电缆；打电报 |
+| caddy | n. | 小罐；小包；球童 |
+| churn | n. | 奶桶，搅拌桶；搅拌以制黄油；翻腾 |
+| chute | n. | 斜槽，滑道；降落伞 |
+| clamp | vt. | 夹紧，固定住；夹钳，螺丝钳 |
+| couch | n. | 睡椅，长沙发；卧榻；蹲伏；表达 |
+| coupe | n. | 双座四轮轿式马车，分隔车房 |
+| crane | n. | 鹤；吊车，起重机；伸着脖子看 |
+| crate | n. | 板条箱；篓；装入大木箱 |
+
+:::
+
+### The Craftsman's Workshop at the End of the Day
+
+The old workshop smelled of **rosin** and hot **steel**. Along the back wall, a **lathe** hummed steadily as the apprentice turned a cabinet leg to a perfect taper, its **shaft** gleaming under the lamp. Nearby, the senior smith had begun to **forge** a set of door brackets over the coal hearth, his hammer ringing against iron while sparks fell like brief stars onto the **scrap** pile at his feet. A **mason** worked at the far bench, fitting **tiles** with a small rubber mallet, pausing now and then to run a thumb along each edge and check the **hinge** alignment on the panel he was building into the wall.
+
+On the central worktable sat the smaller tools of the trade: a **drill** resting beside a jar of cutting oil, a coil of **latex** tubing used to protect finished edges during clamping, a tin of **satin** varnish half-stirred, and a **flask** of mineral spirits for cleaning brushes. A **sieve** hung from a nail overhead, used each morning to strain old finish before it went back into the can. Beside it dangled a **sling** rigged for lifting the heavy kilns shelf, and a wooden-handled **razor** kept solely for scoring veneer. The **stave** of a barrel being repaired leaned in the corner, its grain still dark with old wine.
+
+Outside, the yard held its own quiet industry. The groundskeeper ran a pair of **rakes** across the gravel, pausing to pry up a **divot** of grass that had crept in from the lawn. The kiln tender checked the **kilns** temperature with a long iron rod, then used a **ladle** to pour a test pour of glaze into a mold. A boy stamped receipts with the workshop's **dater**, filed the **stubs** into a binder, and carried the day's offcuts — odd **prong**s, bent **screws**, a snapped **karts** axle from a repair job, a warped **grate** from the forge room — to the scrap bin. Someone had left a half-finished **quilt** block on the window ledge, its patches arranged but not yet stitched, a quiet contrast to all the metal and stone. The shop cat, indifferent to the **grind** of the angle grinder starting up again inside, stretched out across a bolt of **satin** left for re-upholstery and went back to sleep.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| dater | n. | 日期戳 |
+| divot | n. | 草皮；草皮层；草皮断片 |
+| drill | n. | 钻子；钻孔机；播种机；训练 |
+| flask | n. | 烧瓶；长颈瓶，细颈瓶；酒瓶，携带瓶 |
+| forge | vt. | 锻造；伪造，仿造；突然向前；锻造车间；铁匠铺 |
+| grate | vt. | 装格栅于；磨擦；发摩擦声；壁炉；格栅 |
+| grind | vt. | 磨碎；磨块；磨碎；折磨；磨；苦工作 |
+| hinge | n. | 铰链；用铰链连接，给装上铰链 |
+| karts | n. | 卡丁车；小型汽车；小型赛车 |
+| kilns | n. | 窑炉；把…放在窑内烧或烘干 |
+| ladle | vt. | 不分对象予以赠送；以杓舀取；杓子；长柄杓；钢水包 |
+| latex | n. | 乳胶；乳液 |
+| lathe | vt. | 用车床加工；车床；机床 |
+| mason | n. | 泥瓦匠；共济会会员；用砖瓦砌成 |
+| patch | n. | 眼罩；斑点；碎片；小块土地；修补；掩饰；解决；打补丁 |
+| prong | vt. | 刺；贯穿；翻掘；耙子；叉状物 |
+| quilt | n. | 棉被；被子；东拼西凑地编；加软衬料后缝制；缝被子 |
+| rakes | n. | 铲爬贝类；耙子 |
+| razor | vt. | 剃，用剃刀刮；剃刀 |
+| rosin | n. | 松香；树脂；用松香或树脂擦抹 |
+| satin | n. | 缎，缎子；像缎子一样光滑的 |
+| scrap | n. | 小块；丝毫；一丁点；残羹剩饭；废弃；废除；取消；抛弃；报废 |
+| screw | vt. | 旋，拧；压榨；强迫；螺旋；螺丝钉；吝啬鬼；转动，拧 |
+| shaft | n. | 箭杆，矛柄；轴；烟囱，通风管道，升降机井；光线；苛待；欺骗 |
+| sieve | n. | 筛子；滤网；不能保守秘密的人；筛；滤 |
+| sling | n. | 投石器；吊索；抛掷；用投石器投掷；吊起 |
+| stave | n. | 狭板；梯级；诗句；五线谱表；击穿；延缓；凿孔于；压扁；破碎；穿孔 |
+| steel | n. | 钢，钢铁；使坚强，使坚定 |
+| stubs | n. | 存根；掐灭；挖出…的残根 |
+| tiles | n. | 瓷砖；铺砖 |
+
+:::
+
+### The Craftsman's Workshop at First Light
+
+Before the **diesel** engine outside had time to warm up, the old craftsman was already at his bench. He pulled a worn **towel** from the hook by the **faucet**, ran it under cold water, and wrung it out — a small ritual before the serious work began. The **drawer** beside him held his most trusted instruments: a **chisel** whose handle had been worn smooth by decades of use, a set of **gauges** for reading metal thickness, and a small **gimbal** mount he'd salvaged from a broken **glider** rigging years ago. Each tool had its place, and each place had its purpose.
+
+The morning's main job was annealing a set of steel **blades**. To **anneal** them properly, he'd heat each one to a deep orange glow, then let it cool slowly in the **bucket** of fine sand on the floor. Beside it sat a rack of parts already **forged** the previous day — rough, heavy things waiting to be refined. He used a **wedge** to separate two pieces that had stuck together in the cooling tray, tapping it in with a mallet until he felt the seam give. A metal **funnel** directed quench oil into a small trough without splashing, and a **damper** on the furnace door let him control the airflow without opening it all the way.
+
+By mid-morning he had shifted to lighter tasks. He spread a length of woven **fabric** across the worktable to protect the surface, then set out a row of **enamel**-coated hardware he needed to inspect for cracks. A **buzzer** on the wall sounded when the kiln reached temperature — he'd wired it himself from spare parts, a modest **gadget** that saved him constant checking. The **fender** panels leaning against the far wall were next: he would **bleach** the rust stains first, then prime and coat. Old **tyres** were stacked outside near the **corral** fence, earmarked for a neighbour who patched them for resale. A roll of **vinyl** sheeting lay beside them, useful for waterproofing the storage shed once he got around to it.
+
+Lunch came and went. In the afternoon he turned to the kitchen fittings his daughter had brought over — a dripping **faucet** valve, a rusted **grater**, a chipped carton of tile adhesive. He opened the **carton** of **cement** compound, gave it a **whisk** with a mixing rod until the lumps dissolved, then packed the cracked grout line with a small trowel. The garden bed outside had a long **furrow** he'd dug the week before for drainage pipe; he used a spare **bucket** to carry the excess cement out rather than let it harden on the floor. A **butler**'s pantry shelf — a refinishing job he'd promised a neighbour — was propped in the corner, its surface masked off with tape, waiting for the final coat.
+
+At dusk he checked the **vinyl** membrane on the shed roof, tightened the bolts on the **fender** brackets, and ran a damp **towel** over the **blades** to wipe off the oil film. The **diesel** generator ticked as it cooled. He switched off the light, shut the **damper** on the stove, and left everything as he had found it — orderly, purposeful, ready for tomorrow.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| towel | n. | 毛巾，手巾；纸巾; 用毛巾擦; 用毛巾擦干身体 |
+| tyres | n. | 轮胎；车胎; 给…装轮胎 |
+| vinyl | n. | 乙烯基 |
+| wedge | vt. | 楔入；挤进；楔住; 楔入；挤进; 楔子；楔形物；导致分裂的东西 |
+| whisk | vt. | 拂，掸；挥动；搅拌; 飞奔，疾过; 扫帚；搅拌器；毛掸子 |
+| anneal | vt. | 使退火，韧炼；锻炼; 退火；锻炼，磨练 |
+| blades | n. | 刀刃；扁叉；刀片 |
+| bleach | vt. | 使漂白，使变白; 变白，漂白; 漂白剂 |
+| bucket | n. | 铲斗；桶，水桶；一桶的量; 倾盆而下；颠簸着行进 |
+| butler | n. | 男管家 |
+| buzzer | n. | 蜂鸣器；嗡嗡作声的东西；信号手 |
+| carton | n. | 纸板箱；靶心白点; 用盒包装; 制作纸箱 |
+| cement | n. | 水泥; 接合剂, 黏合物; 在…上抹水泥; 粘牢; 巩固, 加强 |
+| chisel | vt. | 欺骗；凿；雕，刻; 欺骗；凿；雕，刻; 凿子 |
+| corral | n. | 畜栏; 把…赶入畜栏 |
+| damper | n. | 阻尼器；减震器；气闸 |
+| diesel | n. | 柴油机；柴油；健康的身体; 内燃机传动的；供内燃机用的 |
+| drawer | n. | 抽屉 |
+| enamel | n. | 搪瓷；珐琅；釉药; 瓷漆; 珐琅质; 涂瓷釉于；给…上瓷漆；给…上彩饰 |
+| fabric | n. | 织物, 布; 构造, 组织 |
+| faucet | n. | 旋塞；插口 |
+| fender | n. | 防卫物；挡泥板；炉围；碰垫 |
+| forged | | 锻造的 |
+| funnel | n. | 漏斗；烟囱; 通过漏斗或烟囱等；使成漏斗形; 通过漏斗等；成漏斗形 |
+| furrow | n. | 犁沟；皱纹；车辙; 犁；耕；弄绉; 犁田；开沟；犁出浪迹 |
+| gadget | n. | 小器具；小装置；精巧的小玩意儿 |
+| gauges | n. | 计量表，仪表；测量仪器; 计量；估计；修正 |
+| gimbal | n. | 万向节 |
+| glider | n. | 滑翔机 |
+| grater | n. | 摩擦者,擦菜板 |
+
+:::
+
+### The Yard at First Light
+
+Before the **hooter** had finished its long cry, the crew was already moving. The **roster** pinned to the shed door listed twenty names — **hauler**s, cutters, and smiths — each assigned a post before sunrise. At the **quarry** face, workers pried loose great slabs that the **ripper** tore into workable sections; **rubble** and **sliver**s of stone rattled down the slope and were carted away. A veteran mason crouched by the wheel of a cart, peeling back the cracked **hubcap** and packing **grease** into the axle housing before the load runs began.
+
+Inside the workshop, the air smelled of cut **lumber** and hot metal. An apprentice reached for the **pliers**, then thought better of it and grabbed the **mallet** instead, coaxing a copper fitting into its **socket** without leaving a dent. Beside him, an older smith kept **hammer**ing a blank on the anvil — steady, unhurried — pausing only to test the edge with his thumb before sliding the blade back onto the **honing** stone. The **jigsaw** whined in the corner where a joiner was cutting curves for a new gate; when he finished, he set the panels between **levers** to hold them square while the glue cured.
+
+Out in the yard the **herder** — who also kept the tool register — walked the fence line, checking every **paling** for rot. The **shears** had already been through the wool shed; fleece still lay piled against the wall, waiting to be **sifted** for debris. The soil plot beyond the fence had been turned and freshly **manure**d, dark and steaming in the cool air. A **nozzle** hose ran along the furrows. Someone had left a **saddle** draped over the gate post — the **hauler** who brought in the timber delivery had tethered his horse there at dawn.
+
+By midday the foreman called a halt so the metallurgist could **refine** the alloy batch and **recast** the flawed bracket that had failed inspection the week before. The **nickel** content had been wrong. He did not **resign** himself to the loss; instead he pulled out his notes, chose to **render** the whole pour again, and asked the crew to **resume** their stations once the mold was set. No one objected. Work like this — patient, precise, repeated — was simply what the yard asked of everyone who stayed.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| grease | n. | 动物油脂; 油膏, 油脂; 涂油脂于, 用油脂润滑 |
+| hammer | vi. | 敲打；锤击；重复; 铁锤；锤骨；音锤；链球; 锤打；锤击 |
+| hauler | n. | 运输业者,搬运工 |
+| herder | n. | 牧人；监狱看守 |
+| honing | n. | 珩磨; 用磨刀石磨 |
+| hooter | n. | 汽笛，警笛；呼喊的人 |
+| hubcap | n. | 轮毂罩 |
+| jigsaw | n. | 线锯；镂花锯；拼图玩具; 用线锯锯 |
+| levers | | 杠杆系 |
+| lumber | n. | 木材, 木料; 杂物, 破烂儿; 砍树, 伐木; 堆满无用的东西; 笨重地行进, 行动迟缓 |
+| mallet | n. | 木槌；球棍；棒，槌棒 |
+| manure | vt. | 施肥于；耕种; 肥料；粪肥 |
+| nickel | n. | 〈化〉镍; 五分镍币, 五分钱 |
+| nozzle | n. | 管嘴,喷嘴 |
+| paling | n. | 木栅,围篱 |
+| pliers | n. | 钳子；老虎钳 |
+| quarry | n. | 石场；露天矿场; 丰富源泉；来源; 猎物; 被追逐的目标; 方形玻璃，菱形玻璃; 方形石，菱形石 |
+| recast | vt. | 再铸; 重塑，改造；改正；改作; 改进; 重铸; 重新塑造 |
+| refine | vt. | 精炼，提纯；使…文雅；改善 |
+| render | v. | 给予；提供；回报; 使成为；使变得；使处于某状态；致使，造成; 递交；呈献；提交; 表达；表演；演示 |
+| resign | vt. | 辞职；放弃；使听从；委托; 辞职; 辞去职务 |
+| resume | v. | 重新开始；继续; 恢复席位 / 地位 / 职位; 摘要；概述；概要; 简历，履历 |
+| ripper | n. | 撕裂者；粗齿锯；裂具 |
+| roster | n. | 花名册 |
+| rubble | n. | 碎石, 瓦砾 |
+| saddle | n. | 鞍，鞍状物；车座；拖具; 使负担；装以马鞍；承受; 跨上马鞍 |
+| shears | n. | 大剪刀；剪切机；剪下的东西; 剪切；割去；横越 |
+| sifted | v. | 筛选；撒落；仔细审问; 筛过的 |
+| sliver | n. | 梳毛，梳棉；裂片; 成为薄片；裂成小片; 使成薄片；使裂成小片 |
+| socket | n. | 插座；窝，穴；牙糟; 给…配插座 |
+
+:::
+
+### The Forge, the Floor, and the Finer Work
+
+At dawn, the **foundry** roared to life. The head **welder** tightened his **harness**, set his **headset** over his ears to block the noise, and bent over the glowing joint. His apprentice steadied the workpiece against a battered **tripod** while molten slag dripped onto the stone floor. Nearby, a **grinder** screamed against raw iron, throwing a fan of orange sparks across the wall — walls still rough with old **stucco** that someone had plastered on decades ago and never sanded smooth. Above the **furnace**, a ventilation **string** of ducts ran to the roof, each section **splice**d together with riveted flanges the old-timers had taught them to make by hand. On the rack hung iron rods and **staves** cut to length, waiting to be shaped.
+
+The **tinker** who kept the small tools in order shuffled in with a **dustpan** of metal filings and a **trowel** he had borrowed from the masonry crew next door. He worked through his **checkin** list methodically — noting which drill **spikes** had gone dull, which **wrench** had a cracked handle, which **leather** grip needed replacing. His long **tenure** in the shop had taught him that a careless **stitch** on a glove or a poorly spliced cable could send a man to the infirmary before lunch. He moved like a man who understood **techne** not as a word but as a practice: the quiet knowledge living in the hands.
+
+By midmorning a **tailor** from the uniform depot arrived carrying a **vessel** of rivets and a bolt of canvas. He spread his work across the **armrest** of a salvage chair, measuring and cutting without a template — he had long since memorized every standard cut. On the far side of the building the night-shift crew had **stoped** a new gallery in the coal seam; a **stoper** still stood propped against the wall, its piston caked with grey dust. A **bellhop** from the site office jogged across the yard to deliver a revised drawing, and the foreman paused just long enough to **archive** the old one in the flat-file cabinet before pinning the new one up. Outside, a stack of **coalite** briquettes sat under a tarpaulin — the winter fuel reserve. The morning's work was ordinary in every detail, and irreplaceable in every hand that did it.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| spikes | n. | 钉鞋; 把…钉牢 |
+| splice | vt. | 绞接，捻接; 胶接，粘接; 胶接处；粘接处；铰接处 |
+| staves | n. | 杖,棍 |
+| stitch | n. | 针脚，线迹；一针; 缝，缝合; 缝，缝合 |
+| stoped | v. | 在采矿场采矿 |
+| stoper | n. | 伸缩式凿岩机，向上式凿岩机；上向凿岩机 |
+| string | n. | 线, 细绳; 弦; 一串, 一行; 一连串, 一系列; 装弦于, 上弦; 用线串 |
+| stucco | vt. | 粉饰，粉刷；涂以灰泥; 灰泥，灰墁 |
+| tailor | vt. | 剪裁；使合适; 裁缝; 做裁缝 |
+| techne | | 工艺 |
+| tenure | n. | 占有；任期; 授予…终身职位 |
+| tinker | n. | 补锅工人; 能做各种小修小补的人；什么事情都会干一手的人; 笨拙的工人，不熟练的工人; 小鲭鱼; 粗… |
+| tripod | n. | 三脚架; 三脚凳;三脚桌;三脚台座; 三足鼎 |
+| trowel | n. | 泥刀；抹子；泥铲; 用抹子涂抹；用小泥铲挖 |
+| vessel | n. | 容器，器皿；船，舰；脉管，血管 |
+| welder | n. | 焊接工 |
+| wrench | vt. | 扭，拧，扳; 扭伤，挫伤; 使感到痛苦，使难过；使悲痛; 一拧；一扳；猛扭，猛拉; 扭伤; 悲痛，痛… |
+| archive | v. | 存档; 档案文件 |
+| armrest | n. | 扶手；靠手 |
+| bellhop | n. | 旅馆侍者，旅馆服务员 |
+| checkin | | 记入工时,报到,登记 |
+| coalite | n. | 科莱特无烟燃料 Coalite固来特煤 |
+| dustpan | n. | 畚箕,粪斗 |
+| foundry | n. | 铸造，铸造类；铸造厂 |
+| furnace | n. | 火炉，熔炉 |
+| grinder | n. | 起研磨作用之物; 做研磨工作的人 |
+| harness | n. | 马具, 挽具; 给装上挽具; 治理, 利用 |
+| headset | n. | 戴在头上的耳机或听筒 |
+| janitor | n. | 守卫；门警；幽门；看门人 |
+| leather | n. | 皮革；皮革制品; 用皮革包盖；抽打; 皮的；皮革制的 |
+
+:::
+
+### The Sawmill at the Edge of Town
+
+The old **sawmill** had been running since before anyone could remember. **Sawdust** coated every surface — the rafters, the windowsills, the **shutters** that clapped open each morning at first light. At the centre of the floor, a great **spindle** drove the main blade, its rotation powered by a small **turbine** fed by the millrace out back. When the belt slipped, the foreman would reach into his **toolkit**, pull out a **spanner**, and set things right before the next log arrived on the chain.
+
+Outside, the season's work spread across the yard. A **tractor** dragged freshly felled timber from the tree line while a crew was already **plowing** the mud flat to lay a new foundation for the drying shed. Nearby, the **plumber** crouched over a burst pipe, working a **plunger** against the blockage with steady, practiced force. A **thimble** of solder sat warming on a brick beside him. Further along, two apprentices were **spliced** into the rigging of a scaffold — one **sifting** lime powder through a fine screen, the other **mudding** the interior wall with long, even strokes of the float.
+
+The yard **steward** — a gruff woman who had **oversaw** every major project here for twenty years, just as she had **oversee** the new hires today — moved between stations with a clipboard and a thermos of black coffee under her arm. She had once driven a **minivan** full of visiting inspectors around a site like this and answered every question without checking a note. Now a **proctor** from the regional guild stood at her shoulder, watching the **reaping** crew collect bundled rye from the far field, observing the orchard gang finish their **pruning**, and ticking items off a form on his **monitor**. The guild cared about process: every **shutoff** valve labelled, every **nibbler** and die accounted for in the stores, even the small **widgets** that coupled the air lines.
+
+In the forge at the back, the **smelter** glowed orange. A smith drew out a **wrought** iron bracket, cooling it just enough before setting it on the anvil. The **shutter** above the hearth was propped open with a stick. On the wall hung a faded blueprint, its corners held by four magnets — the kind of drawing made when craft still lived in the hands of people who knew that good work, whether **reaping** grain or casting metal, was never an accident.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| minivan | n. | 小型货车 |
+| monitor | n. | 显示屏；监视器；监控器；监督员 |
+| mudding | n. | 黏土灌注，黏土灌浆 |
+| nibbler | n. | 切片机；毛坯下料机，步冲轮廓机 |
+| oversaw | — | oversee 的过去式 |
+| oversee | vt. | 监督；俯瞰；审查 |
+| plowing | n. | 翻耕，耕作 |
+| plumber | n. | 水管工；堵漏人员 |
+| plunger | n. | 活塞；潜水者；莽撞的人 |
+| proctor | n. | 代理人；学监；监督 |
+| pruning | n. | 修剪；剪枝 |
+| reaping | v. | 收割 |
+| sawdust | n. | 锯屑 |
+| sawmill | n. | 锯木厂；锯木机 |
+| shutoff | n. | 停止；关闭装置 |
+| shutter | n. | 百叶窗；快门 |
+| sifting | n. | 过筛，过滤；筛选 |
+| smelter | n. | 熔炉；冶金厂；熔炼工 |
+| spanner | n. | 扳手，扳钳 |
+| spindle | n. | 纺锤，纱锭；轴 |
+| spliced | adj. | 加固的；叠接 |
+| steward | n. | 乘务员；管家；工会管事；管理 |
+| sunroof | n. | 汽车顶上可开启的遮阳篷顶 |
+| thermos | n. | 热水瓶 |
+| thimble | n. | 嵌环；顶针；套管 |
+| toolkit | n. | 工具包，工具箱 |
+| tractor | n. | 拖拉机；牵引机 |
+| turbine | n. | 涡轮；涡轮机 |
+| widgets | n. | 窗体小部件；小工具 |
+| wrought | adj. | 锻造的；加工的；精细的 |
+
+:::
+
+### The Workshop at Dusk
+
+The old boatyard sat on cemented ground beside the river, where a **flatboat** had been hauled up for its seasonal **overhaul**. A mechanic checked the **odometer** on the yard's utility cart, then pulled the **dipstick** to confirm the oil level before the next shift. Nearby, a welder was cutting steel with a loud **chainsaw**-like grinder, the **grinding** shriek bouncing off corrugated walls. Paint cans rested inside a metal **canister** rack, and an **atomizer** sat on the shelf above, used to apply a fine protective mist on finished surfaces. Against the far wall, a worn **mattress** stuffed into an **armchair** served as the unofficial break spot—**in-house** comfort at its most honest.
+
+In the mixing room, a cook-turned-craftsman lifted a heavy **cauldron** off the burner and poured the molten sealant through a **colander** to filter out debris. A **cleanser** spray and several rags hung by the door. The walls showed **layering** upon **layering** of old paint—**concrete** evidence of decades of work. A junior technician was **laminate**-pressing wood panels for a cabinet order, while the foreman sorted **clerical** paperwork that tracked every job: **cropping** records, materials logs, delivery schedules. Their combined **endeavor** kept the yard solvent through slow seasons.
+
+Outside, the yard's retired founder—now an **emeritus** director—stood watching a small **aviation** enthusiast assemble a model aircraft, carefully shaping the **fuselage** with a hobby knife. The boy had arrived with a **backpack** full of tools and enough **manpower**—all his own—to finish by nightfall. The **plumbing** under the workshop eaves dripped steadily, and through a **peephole** in the fence a neighbor tracked the **dredging** barge at work mid-river, its **logistic** precision impressive against the slow current.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| armchair | n. | 扶手椅 |
+| atomizer | n. | 香水喷瓶；喷雾器 |
+| aviation | n. | 航空；飞行术；飞机制造业 |
+| backpack | n. | 背包, 箱形背包; 背着背包徒步旅行 |
+| canister | n. | 小罐；筒；防毒面具的滤毒罐 |
+| cauldron | n. | 大汽锅，大锅；煮皂锅 |
+| cemented | | 灌水泥的 |
+| chainsaw | vt. | 用链锯割,〈喻〉肢解 |
+| cleanser | n. | 清洁剂；清洁工；擦亮粉；使清洁的东西 |
+| clerical | adj. | 文书的,办事员的; 牧师的,教士的; 教权主义; 教权主义者 |
+| colander | n. | 滤器，滤锅 |
+| concrete | adj. | 混凝土制的; 确实的，具体的; 有形的；实在的; 用混凝土覆盖; 混凝土 |
+| cropping | n. | 剪毛，落布；切料 |
+| dipstick | n. | 量油尺；量油计 |
+| dredging | n. | 挖泥；清淤; 疏浚；挖掘 |
+| emeritus | adj. | 名誉退休的；退休的 |
+| endeavor | n. | 努力；尽力 |
+| flatboat | n. | 平底船 |
+| fuselage | n. | 机身 |
+| grinding | adj. | 刺耳的；磨的；令人难以忍受的 |
+| in-house | adj. | 机构内部的；在机构内部进行的; 在机构内部 |
+| laminate | vt. | 将锻压成薄片；分成薄片; 分成薄片; 薄片制品；层压制件 |
+| layering | n. | 压条法；分层；成层; 分层而成；用压条法培植 |
+| logistic | adj. | 后勤学的；符号逻辑的 |
+| manpower | n. | 劳动力; 人力;体力 |
+| mattress | n. | 床垫；褥子；空气垫 |
+| odometer | n. | 里程表，里程计 |
+| overhaul | vt. | 彻底检查；大修; 赶上，追上；超越; 检查；大修 |
+| peephole | n. | 窥视孔 |
+| plumbing | n. | 铅工业；铅管品制造; 探究；垂直悬挂；用铅锤测量；灌铅以增重 |
+
+:::
+
+### The Yard, the Workshop, the Long Day
+
+Early morning, before the foreman arrived, the crew dragged a **portable** generator across the gravel and positioned it beside the half-built wall. The old **radiator** had been patched and rehung, part of a **revamped** heating circuit that nobody fully trusted yet. Above them, planks of **scaffold** stretched three storeys high, the steel pipes cold and slick with dew. One of the younger men took a **scrubber** to the stained concrete blocks, the **scouring** loud enough to drown out conversation. A **shredder** hummed near the skip, chewing through the **cardboard** packaging that had piled up overnight.
+
+By midmorning the **bulldozer** had **compacted** the fill layer flat, and the **compactor** made a second pass to be sure. A mason worked at the base of the wall, **cementing** each course with the quiet patience his trade demanded — this was clearly a **vocation**, not just a job. Nearby, the **artisanal** tile-setter laid each piece by hand, a deliberate contrast to the machines idling behind him. His **apparatus** was simple: a notched trowel, a rubber mallet, a bucket. The kitchen **utensils** for the site canteen had been **assembled** in a crate on the **tailgate** of the supply truck; the **chauffeur**-driver climbed down and unlatched it without ceremony.
+
+Afternoon light caught the blades of a small **windmill** mounted on the fence — someone's idea of a wind gauge. The site supervisor **shepherded** the apprentices from station to station, pausing to demonstrate how to use the **wrenches** without stripping a bolt. One apprentice tried to **shoehorn** an oversized pipe fitting into a bracket three sizes too small; the supervisor stopped him with a look. The **throttle** on the concrete mixer was sticky, worn from months of **slogging** through long pours. A **camcorder** on a tripod recorded the progress for the client report. By dusk, the site's **concierge**-equivalent — the gateman who logged every delivery — was tallying the day's **spoilage** against the materials sheet, the numbers not as bad as feared. The crew began to **construct** what they hoped would be the final section before the weekend. Every **appliance**, every hand tool, every body on that scaffold had earned its place.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| portable | adj. | 便于携带的; 手提式的; 轻便的 |
+| radiator | n. | 散热器; 汽车引擎的冷却器, 散热器 |
+| revamped | adj. | 修补的；修订的; 修订 |
+| scaffold | n. | 脚手架；绞刑台；鹰架; 给…搭脚手架；用支架支撑 |
+| scouring | n. | 擦净,冲刷,洗涤 |
+| scrubber | n. | 洗刷者；洗涤器；刷子 |
+| shepherd | vt. | 带领；看管；牧羊；指导; 牧羊人；指导者；牧师 |
+| shoehorn | n. | 鞋拔; 硬塞进 |
+| shredder | n. | 磨碎机; 碎纸机 |
+| slogging | n. | 苦工 |
+| spoilage | n. | 损坏，糟蹋；掠夺；损坏物 |
+| tailgate | n. | 后挡板；下闸门 |
+| throttle | n. | 节流阀；风门；喉咙; 使……窒息；使……节流；压制，扼杀; 节流，减速；窒息 |
+| utensils | n. | 器具；餐具；炊具 |
+| vocation | n. | 职业；行业; 适合性，才能; 使命，天职; 神召，圣召 |
+| windmill | n. | 风车；风车房; 旋转玩具；玩具风车; 直升飞机; 假想的敌人 |
+| wrenches | n. | 扳手; 猛扭；歪曲；使痛苦 |
+| apparatus | n. | 运动器械, 器具, 仪器; 机构, 组织; 器官 |
+| appliance | n. | 器具, 器械, 装置 |
+| artisanal | adj. | 传统匠人手工制作的；手工艺的 |
+| assembled | — | 装配,组合 |
+| bulldozer | n. | 推土机; 恐吓者；威胁者 |
+| camcorder | n. | 摄像机 |
+| cardboard | n. | 硬纸板 |
+| cementing | n. | 胶接,溶接,粘合 |
+| chauffeur | n. | 受雇于人的汽车司机 |
+| compacted | — | 夯实的 |
+| compactor | n. | 〈美〉垃圾捣碎机,压土机,夯土机 |
+| concierge | n. | 看门人,门房 |
+| construct | vt. | 修建, 建立; 构成, 组成 |
+
+:::
+
+### The Workshop and Its Keepers
+
+The old workshop had stood for three generations. Its current **custodian**, a retired machinist named Harald, arrived each morning with a **broomstick** in one hand and a clipboard in the other, determined first to **declutter** the benches before any real work began. He would wipe down the surfaces with **detergent**, stack the raw **porcelain** blanks in the drying rack, and pin the day's job orders to the board with a **thumbtack**.
+
+Harald's young **apprentice**, Selin, had come to him not from a school of fine arts but straight after finishing her **doctorate** in materials science — an unusual path that raised eyebrows until people saw her work. She knew how to read a **rectifier** panel, could explain why **tempering** made a blade less brittle, and understood instinctively that copper was **malleable** enough to be pressed into the intricate grooves of a mold without cracking. Her first assignment was to **refurbish** a seized **alternator** salvaged from a decommissioned boat. She had to **dismantle** it bolt by bolt, **replenish** the lubricant reservoir, and test the **interlock** before reassembly. Beside her on the bench sat a set of **binoculars** she used to inspect the hairline tolerances on the shaft — a habit she'd picked up at sea.
+
+The workshop also built small watercraft. On the far wall hung an **outrigger** frame waiting to be fitted. Nearby, a half-finished hull was wrapped in **cellophane** to keep sawdust off the gelcoat. The **propeller** for the hull lay clamped in a vice while Selin filed its edges, pausing now and then to consult a sketch inked on a scrap of **parchment** she kept rolled under the **sideboard**. The **lawnmower** engine donated by a neighbor was being repurposed as a test rig — an odd sight, but it let them spin the shaft under load without risking the real motor. A **sprinkler** head salvaged from a demolished factory ceiling had been rigged above the grinder as a makeshift coolant nozzle, a small improvisation that showed how craftspeople **synergize** whatever is at hand.
+
+Harald's role had never quite fit a single title. The letterhead of the cooperative listed him as **secretary**, yet his actual work was to **supervise** every project from intake to delivery, to **undertake** the negotiations with suppliers, and — when a journeyman was let go for shoddy finishing — to draft the **dismissal** notice himself, a task he hated. He never **fabricate**d reasons; he stated facts plainly and moved on. That directness was part of what kept the workshop's reputation intact across decades, outlasting fashions the way good **porcelain** outlasts the table it sits on.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| custodian | n. | 看守人,保管人 |
+| declutter |  |  |
+| detergent | n. | 洗涤剂 |
+| dismantle | vt. | 拆开, 拆卸; 废除, 取消 |
+| dismissal | n. | 解雇, 免职, 开除 |
+| doctorate | n. | 博士学位 |
+| fabricate | vt. | 编造，捏造，虚构；伪造; 建造 |
+| interlock | n. | 互锁设备; 双螺纹针织品 |
+| lawnmower | n. | 剪草机 |
+| malleable | adj. | 可锻造的,有延展性的; 韧性的 |
+| outrigger | n. | 舷外支架,突出的梁,桁等 |
+| parchment | n. | 羊皮纸; 羊皮纸古文稿; 上等纸;印在上等纸上的正式文字 |
+| porcelain | n. | 瓷, 瓷器 |
+| propeller | n. | 螺旋桨,推进器 |
+| rectifier | n. | 纠正者,整顿者,校正者,整流器 |
+| refurbish | vt. | 刷新；擦亮；使清洁；整修 |
+| replenish | vt. | 补充 |
+| secretary | n. | 秘书; 书记; 部长, 大臣 |
+| sideboard | n. | 餐具橱, 餐柜 |
+| sprinkler | n. | 洒水器；喷洒器; 自动喷水灭火装置 |
+| supervise | vt. | 监督, 管理 |
+| synergize | v. | 起增效剂作用;协同加强…的活动 |
+| tempering | v. | 回火 |
+| thumbtack | n. | 图钉; 用图钉钉住 |
+| undertake | vt. | 担任，承揽；保证; 着手，开始 |
+| alternator | n. | 交流发电机 |
+| apprentice | n. | 学徒, 徒弟 |
+| binoculars | n. | 双筒望远镜 |
+| broomstick | n. | 扫帚 |
+| cellophane | n. | 玻璃纸 |
+
+:::
+
+### The Workshop, the Field, and the Town Beyond
+
+The old **husbandman** rose before dawn. His **occupation** was simple enough to name but endless in its demands: tend the soil, keep the tools, bring in what the season offered. By the time light reached the barn, he had already walked the rows where **cultivation** had softened the earth into dark ribbons, and the first crew was out **harvesting** the last of the summer grain with practiced strokes.
+
+Inside the main shed, a younger craftsman was at the forge. He worked in **fabricated** steel, shaping parts for a small press—a **contraption** of levers and gears that the cooperative had designed to replace three hours of hand labor. The machine's **crankshaft** lay on the bench beside a bicycle **derailleur** someone had brought in for repair, its teeth worn thin from a season of hill roads. The **windshield** of the workshop's delivery truck leaned against the far wall, cracked and waiting to be replaced; the replacement pane sat in a **ventilated** storage cabinet so the adhesive would cure properly. Nearby, a rack held sets of **auxiliaries**—clamps, dies, and guides—alongside a roll of **waterproof** canvas for wrapping finished parts during transport.
+
+Down the lane stood the guild hall, which served as both **repository** and classroom. Its shelves held a dense **compilation** of trade manuals, pattern books, and old **boilerplate** contracts going back two generations. A weaver displayed her **handicraft** on the long table: a **breastplate**-shaped ceremonial piece woven in silver thread, its **upholstery**-style backing padded and stitched by hand. Beside it sat a tray of **earthenware** cups fired that week, and a cabinet of polished **silverware** awaiting an estate order. One corner was given over to a small still; the guild had been running a **distilling** operation for medicinal spirits since the previous century, and the copper fittings were checked monthly.
+
+Outside, a crew was **excavating** the foundation for a new storage annex, working carefully around the water line. The site foreman kept a **bulletproof** case of survey instruments locked in his truck. Back in the village proper, the **laundromat** hummed beside the hardware supply; its large windows were steamed, and a hand-lettered sign listed **janitorial** supplies for sale inside. The **undertaker**'s shop stood quietly at the corner, its window dressed with **deliverable** urns and memorial pieces waiting for collection. A cargo van idled in front, its side panels marked with the cooperative's logo, loading the last **discharging** run of the day—boxes broken down and stacked flat after a morning of **dismantling** a decommissioned textile frame. The town's shared **facilities** kept everything moving: the loading dock, the cold store, the repair bay—each one worn smooth by years of use and still entirely adequate.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| crankshaft | n. | 机轴 |
+| derailleur | n. | 〈法〉变速器,装有变速器的自行车 |
+| distilling | n. | 蒸馏 |
+| excavating | | 挖掘 |
+| fabricated | | 焊接的 |
+| facilities | n. | 工具, 设施, 设备 |
+| handicraft | n. | 手工艺;手工艺品; 手工业者;手工艺人 |
+| harvesting | v. | 收获 |
+| husbandman | n. | 农夫 |
+| janitorial | | 保洁用品；看门的；清洁卫生 |
+| laundromat | n. | 自助洗衣店 |
+| occupation | n. | 工作; 职业; 消遣; 占领 |
+| repository | n. | 仓库，贮藏室，存放处; 智囊，知识渊博的人，知识宝典 |
+| silverware | n. | 银器, 镀银器皿; 银杯 |
+| undertaker | n. | 殡仪业人员 |
+| upholstery | n. | 家具装饰业;家具装饰材料 |
+| ventilated | adj. | 通风的 |
+| waterproof | adj. | 不透水的，防水的; 使防水；使不透水 |
+| windshield | n. | 挡风玻璃; 挡风玻璃 |
+| auxiliaries | | 辅助设备 |
+| boilerplate | n. | 样板文件 |
+| breastplate | n. | 胸甲,胸革带,腹甲 |
+| bulletproof | adj. | 防弹的 |
+| compilation | n. | 编辑,编写; 编辑物 |
+| contraption | n. | 奇妙的装置, 新发明 |
+| cultivation | n. | 耕作，耕种; 栽培；养殖; 教化，培养; 教养，修养；文雅 |
+| deliverable | adj. | 可交付的;可交付使用的 |
+| discharging | n. | 卸料; 卸载的;放电的 |
+| dismantling | n. | 分解 |
+| earthenware | n. | 陶器 |
+
+:::
+
+### The Workshop, the Site, and the Office Behind Them
+
+Dawn had barely broken when the first shift arrived at the **fabrication** shed. Under close **supervision**, a veteran **woodworking** craftsman guided two apprentices through the morning's tasks: one pair worked on a cedar screen, threading thin rods through a **latticework** of oak strips, while the other assembled a small gate, driving each bolt tight with a **screwdriver**. A bucket of **lubrication** sat nearby for the hinge sets. Beside the bench, a worn **wheelbarrow** waited to ferry off-cuts to the yard. Down the corridor a **glassblower** — one of only three **commissioned** artisans on the floor — shaped molten glass into lamp covers, each finished globe showing a neat **perforation** ring at the base where the cord would pass. The walls themselves were an older kind of craft: **Wattle and Dab**, the mud-and-wicker technique that had kept buildings standing for centuries before **manufactured** board ever existed.
+
+Outside, the canal-extension crew was already deep in the muck. The project had begun as a modest **canalization** scheme, but a late **consultation** with the regional authority had widened the scope considerably. The site foreman — a quiet **practitioner** of old-school earthworks — had submitted a formal **requisition** for two extra **sledgehammer** sets and a concrete vibrator. **Implementation** of the revised plan fell to him the moment the contractor chose to **take charge** without calling a proper handover meeting, an act that triggered the previous supervisor's quiet **resignation**. Nobody blamed him; the project's **stewardship** had been muddled for months.
+
+By mid-afternoon the **headquarter** of the civil works firm — a glass tower three kilometres away — hummed with a different kind of labour. A **receptionist** at the front desk logged visitor passes while procurement reviewed the **requisition** slips from the site. Several engineers were in **telecommuting** mode, joining the budget call from home; one had only just managed to **get off work** in time to collect his car from **valet parking** before the garage closed. A **white-collar** project manager drafted the **undertaking** letter that would bind both parties to the new timeline, her language careful and formal. Nearby, a younger colleague — fresh out of an **apprenticeship** programme — updated a **do-it-yourself** punch-list template he had built himself, proof that a little initiative goes a long way when no one hands you the tools.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| fabrication | n. | 制造;组建; 构造物; 捏造;虚构物 |
+| glassblower | n. | 吹玻璃的人或机器 |
+| headquarter | vi. | 设总部; 将…的总部设在; 把…放在总部里 |
+| latticework | n. | 格子 |
+| lubrication | n. | 润滑;加油 |
+| perforation | n. | 穿孔;贯穿; 针孔;齿孔 |
+| requisition | n. | 征用；征用令; 申请书; 征用,征发 |
+| resignation | n. | 辞职; 辞职书; 顺从, 听从 |
+| screwdriver | n. | 螺丝刀;螺丝起子;改锥; 伏特加橙汁鸡尾酒 |
+| stewardship | n. | 管事人之职位及职责; 管理工作 |
+| supervision | n. | 监督, 管理 |
+| take charge | | 掌管，负责；主持；不受控制 |
+| undertaking | n. | 任务;事业; 企业;工作; 保证;许诺; 殡仪业 |
+| wheelbarrow | n. | 独轮手推车 |
+| woodworking | n. | 木工艺; 木工 |
+| canalization | n. | 开凿运河,运河网 造管术 |
+| commissioned | | 现役的 |
+| consultation | n. | 磋商,咨询,专家会诊 |
+| get off work | | |
+| manufactured | adj. | 人造的 |
+| practitioner | n. | 习艺者, 实习者; 从业者 |
+| receptionist | n. | 接待员 |
+| sledgehammer | n. | 大锤; 杀鸡用牛刀；小题大做 |
+| white-collar | adj. | 白领阶级的;脑力劳动的 |
+| telecommuting | | 远程交换,远程办公 |
+| valet parking | | 代客泊车 |
+| apprenticeship | n. | 学徒身份，学徒资格; 学徒期；见习期 |
+| do-it-yourself | n. | 自己做; 自己做方式的 |
+| implementation | n. | 贯彻，执行 |
+| Wattle and Dab | | |
+
+:::
+
+### The Last Details Before the Road
+
+At the edge of the garage, a single **lighting fixture** cast a warm cone of light over the hood of the old truck. The mechanic reached across the wiper arm and clicked the replacement **windshield wiper** into place with a satisfying snap — the kind of small, clean motion that signals a job done right.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| lighting fixture | | 照明器材 |
+| windshield wiper | | 风挡刮水器,风挡雨雪刷 |
+
+:::

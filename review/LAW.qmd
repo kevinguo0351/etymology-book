@@ -1,0 +1,417 @@
+# 法律·政治·政府 {.unnumbered}
+
+
+
+> 本主题共 9 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+
+
+
+### The Weight of Law
+
+When the old **czar**'s only **heir** refused to **comply** with a tribunal summons, the case spiraled fast. The **felon** had been caught running a scheme that touched every layer of the state: he had **levied** illegal fees on merchants, invoked a forged **lien** against a rival's property, and spread **libel** about the city's chief **consul**. The local **civic** court issued a **caveat** before proceeding, wary of political blowback.
+
+A government **bureau** opened an investigation. Its mandate was clear: examine every **tort** committed under the former regime, during the years the strongman had **reigned** unchallenged. A new set of **bylaws** had already been **enacted** to close the loopholes through which so many **torts** had slipped. Prosecutors moved to **evict** the defendants from their offices and had three of them sent to **jail** pending trial. The charges were strictly **penal** — the **parol** agreements they had relied on carried no weight once the written evidence surfaced.
+
+A foreign **envoy** arrived to observe the proceedings, accompanied by a **proxy** from an allied nation. Outside the courtroom, a well-funded **lobby** group worked the corridors, trying to water down a key **clause** in the upcoming statute — the one that would make certain conduct **licit** only with full parliamentary approval. The **curfew** imposed on the capital kept the crowds thin, but it did nothing to stop the debate. Inside the chamber, a **censor** reviewed transcripts for anything that might inflame the public, while defense attorneys prepared to **accuse** the prosecution of overreach. The state's power had been **curbed** before; whether the new law would hold was a question no one could yet answer.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| czar | n. | 沙皇，皇帝；独裁者 |
+| heir | n. | 继承人 |
+| jail | n. | 监狱；监牢；拘留所；监禁；下狱 |
+| levy | vt. | 征收；征税 |
+| lien | n. | 留置权；抵押品所产生的利息 |
+| tort | n. | 侵权行为 |
+| civic | adj. | 城市的；公民的，市民的 |
+| enact | vt. | 制定；通过 |
+| envoy | n. | 使者；全权公使 |
+| evict | v. | 驱逐，赶出，逐出 |
+| felon | n. | 重罪犯 |
+| libel | n. | 诽谤罪；诋毁；毁坏名誉的东西 |
+| licit | adj. | 合法的，准许的 |
+| liens | n. | 留置权；扣押权 |
+| lobby | n. | 前厅；议会休息室；游说议员的团体 |
+| parol | adj. | 口头的；没有签章的 |
+| penal | adj. | 刑事的；刑罚的 |
+| proxy | n. | 代表权；代理权；代理人，代表 |
+| reign | vi. | 统治；盛行；支配；君临 |
+| torts | n. | 侵权行为 |
+| accuse | v. | 控告；控诉；谴责；归咎于 |
+| bureau | n. | 衣柜；局，处；办公桌 |
+| bylaws | n. | 章程；规章制度；细则 |
+| caveat | n. | 警告；中止诉讼手续的申请 |
+| censor | vt. | 审查，检查；检查员 |
+| clause | n. | 从句；条款 |
+| comply | vi. | 答应；遵守；顺从，遵从 |
+| consul | n. | 领事 |
+| curbed | adj. | 约束的；抑制 |
+| curfew | n. | 宵禁；宵禁令；晚钟 |
+
+:::
+
+### A Constitutional Crisis, Gavel by Gavel
+
+The **borough** council had long been a quiet institution, but the morning the governor issued an emergency **decree** suspending local elections, every clerk, **notary**, and **deputy** in City Hall knew the old order was finished. Protesters gathered on the courthouse steps, waving placards that read: *No **tyrant** rules a free people*. Inside, attorneys scrambled to **indict** the administration's senior officials, arguing the governor had tried to **impute** criminal motive to peaceful demonstrators and **impose** an illegal curfew. The presiding judge, reviewing the **docket** page by page, agreed: she would neither **revoke** the citizens' right to assembly nor allow the state to **pledge** civil liberties away in exchange for a hollow promise of order.
+
+---
+
+By afternoon the hearings had spilled into federal court. The question before the bench was whether the governor's office could be held **liable** for the **alleged** seizure of protest funds held in **escrow** by a neutral bank. Defense counsel invoked the **feudal** logic of executive supremacy — that every power flowed downward from the throne of the **empire** — but the presiding panel was unmoved. **Hereby** and henceforth, the judges wrote in their ruling, such reasoning belonged in a history archive, not a modern courtroom. They moved to **uphold** the lower court's finding and ordered the funds released, noting that **equity** demanded no less.
+
+---
+
+The crisis eventually forced the legislature to act. Several breakaway **states** threatened to **secede** from the federation unless a new **treaty** of shared governance was signed within thirty days. Hardliners demanded **amnesty** for officials who had acted under orders; civil-rights groups insisted every **felony** charge remain intact. A special mediator was appointed to manage the competing demands: she carried a **legacy** of brokering impossible deals, once shepherding a landmark **zoning** reform through a capital gridlocked for a decade. Her first act was to **ratify** a temporary ceasefire in the litigation. Her second was to place the most contentious documents under **remand**, freezing them from further appeal while negotiations ran. A divorce lawyer in the gallery — there on an **alimony** dispute that had been pushed back three weeks — muttered that the whole spectacle proved governments were just very expensive family feuds. The mediator's office chose not to **impute** any particular meaning to that observation. They simply moved to **abolish** the disputed emergency powers by statute, before any **secede**-minded faction could turn threat into reality.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| decree | n. | 法令；判决; 颁布；命令；判决；注定; 发布命令；注定 |
+| deputy | n. | 代理人，代表; 副的；代理的 |
+| docket | n. | 摘要；记事表；诉讼事件表; 在...上附加摘要 |
+| empire | n. | 帝国；帝王统治，君权 |
+| equity | n. | 公平，公正；普通股；衡平法；抵押资产的净值 |
+| escrow | n. | 由第三者保存附带条件委付盖印的契约 |
+| felony | n. | 重罪 |
+| feudal | adj. | 封建的 |
+| hereby | adv. | 以此方式，据此；特此 |
+| impose | vi. | 欺骗；利用；施加影响; 强加；以…欺骗；征税 |
+| impute | vt. | 归罪于，归咎于；嫁祸于 |
+| indict | vt. | 控告, 起诉 |
+| legacy | n. | 遗产, 遗赠物; 遗留之物 |
+| liable | adj. | 有法律责任的, 有义务的; 易患…的, 易受…之害的; 有做某事的倾向 |
+| notary | n. | 公证人 |
+| pledge | n. | 抵押；保证，誓言；抵押品，典当物; 保证，许诺；用……抵押；举杯祝……健康 |
+| ratify | vt. | 批准；认可 |
+| remand | n. | 还押；送还，遣回; 还押，还押候审；遣回 |
+| revoke | vt. | 撤销, 取消, 废除 |
+| secede | vi. | 退出；脱离; 从…中脱离；割让 |
+| states | n. | 州，国家; 陈述；声明 |
+| treaty | n. | 条约，协议；谈判 |
+| tyrant | n. | 专制统治者；暴君; 暴君似的人；专横的人; 严酷的事物，苛刻的事物; 僭主，僭王 |
+| uphold | vt. | 赞成；支撑；鼓励；举起 |
+| zoning | n. | 分区制；都市的区域划分 |
+| abolish | vt. | 废除, 废止 |
+| alimony | n. | 赡养费,生活费 |
+| alleged | adj. | 声称的,所谓的 |
+| amnesty | n. | 大赦，特赦; 对…实行大赦 |
+| borough | n. | 区；自治的市镇 |
+
+:::
+
+### The Trial That Shook the Republic
+
+The **Capitol** had seen tense sessions before, but nothing quite like this. The **cabinet** convened in emergency, its members speaking in hushed, almost secretive tones. At the center of the storm was a senior **nominee** to the Federal Bench—a man who had, according to prosecutors, operated far beyond the **confines** of his authority.
+
+The lead **counsel** for the prosecution rose and addressed the chamber. The **sheriff** had already **impounded** the defendant's files; **customs** agents had flagged irregular wire transfers at the border. The charge was stark: the official had **imposed** unlawful duties without **consent** of the legislature, **forfeiting** any claim to public trust. The defense **pleaded** mitigating circumstances and **justified** each decision as an act of **command** during a national emergency—but the committee was unmoved. A motion to **impeach** passed along party lines. The presiding officer moved to **suspend** his duties pending full review, and a **recusal** was demanded from every judge with a prior personal relationship to the accused.
+
+Outside the hearing room, political theorists debated the deeper currents. A professor of **Marxism** argued that the episode merely exposed contradictions inherent in **monarch**-derived legal traditions never fully purged from the republic's DNA—relics of **emperor** and **empress**, of **regency** councils and **serfdom**, still haunting modern **statute** books. A colleague countered that the written **mandate** of the constitution, properly read, **entitled** citizens to far stronger protections. A veteran **referee** of constitutional disputes—summoned to **preside** over the panel—noted wryly that every side **pledged** fidelity to the law while bending it to convenience. The child-**custody** dispute between the state and the defendant's family over sealed documents added yet another layer of drama; the records remained in the **custody** of the court clerk until further order.
+
+By evening, the **Capitol** dome glowed against a grey sky. Whatever verdict came, the republic had been reminded that no office, however grand, sits beyond the reach of its own foundational rules.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| cabinet | n. | 内阁；橱柜；展览艺术品的小陈列室; 内阁的；私下的，秘密的 |
+| Capitol | n. | 美国国会大厦；州议会大厦 |
+| command | vi. | 命令，指挥；控制; 命令，指挥；控制；远望; 命令；司令部；指挥，控制 |
+| confine | n. | 界限，边界; 限制；禁闭 |
+| consent | n. | 准许，同意，赞成; 同意；赞成 |
+| counsel | n. | 忠告；讨论；商议；决策；法律顾问; 劝告；建议; 提出忠告；商讨 |
+| custody | n. | 保管；拘留；监护；抚养权 |
+| customs | n. | 海关；关税；习惯；风俗 |
+| emperor | n. | 皇帝，君主 |
+| empress | n. | 女皇; 皇后 |
+| entitle | vt. | 称做…；定名为…；给…称号；使…有权利 |
+| forfeit | n. | 罚金；没收物；丧失的东西; 因受罚而丧失的；被没收的; 丧失 |
+| impeach | vt. | 控告犯罪，弹劾；怀疑，提出异议 |
+| imposed | adj. | 强加的；施加的；应用的; 把…强加于；欺骗 |
+| impound | vt. | 依法没收, 扣押; 将暂存待领 |
+| justify | vt. | 证明…有理；为…辩护 |
+| mandate | n. | 授权; 正式命令; 将委托某国管理; 授权根据委托统治权 |
+| Marxism | n. | 马克思主义; 马克思的；马克思主义的 |
+| monarch | n. | 君主, 帝王 |
+| nominee | n. | 被任命者；被提名的人；代名人 |
+| pleaded | v. | 辩护 |
+| pledged | v. | 保证；抵押；给予 |
+| preside | vi. | 主持，担任会议主席; 管理 |
+| recusal | n. | 宣布不合格,取消资格 |
+| referee | n. | 裁判员；调解人；介绍人; 担任裁判；仲裁; 为…当裁判；调停 |
+| regency | n. | 摄政；摄政统治；摄政权 |
+| serfdom | n. | 农奴境遇；农奴身份 |
+| sheriff | n. | 县的司法长官 |
+| statute | n. | 法令, 法规 |
+| suspend | vt. | 延缓，推迟；使暂停；使悬浮; 悬浮；禁赛 |
+
+:::
+
+### The Trial That Shook the Republic
+
+The old **mandate** had collapsed. In the capital's grand courthouse, a **forensic** team spent weeks assembling evidence against the former **dictator**, whose **imperial** ambitions had long threatened the fragile **autonomy** of the southern provinces. Citizens who had once lived under a suffocating **hegemony** now watched the proceedings with cautious hope. The **partisan** press ran headlines daily. Outside, a **tribune** mounted a temporary platform and read aloud the charges to the crowd, his voice steady despite the hecklers. The defense chose to **disclaim** any connection between their client and the seized documents — documents that **attested** to a conspiracy stretching back decades.
+
+Inside, the chief **delegate** from the eastern federation presented the **covenant** signed by three regional governments, arguing it stripped the accused of any claim to sovereign immunity. The prosecution's **advocacy** was relentless: the defendant was **culpable**, **entitled** to no **leniency** given the scale of the scheme. A doctrine of **estoppel** barred him from now denying statements his own ministers had made on the record. When the jury returned, the **verdict** was guilty on all counts — **treason** among them. The judge declined to **nominate** a lenient sentence; the **guaranty** of equal justice, she said, demanded otherwise. No **warrant** existed to soften what the law required.
+
+The aftermath rippled outward. The new coalition moved quickly to **federate** the remaining city-states under a reformed charter, determined to **liberate** governance from the grip of personal rule. A senior **mandarin** in the justice ministry quietly arranged the transfer of the convicted man's estate, noting that under existing **tenancy** law his family could keep the house — provided they did not contest the asset freeze. Historians would later recall the episode as the moment the old **monarchy** truly ended, the day a **Peronist**-style strongman learned that no amount of **mistrial** motions could indefinitely delay accountability.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| tenancy | n. | 租用, 租赁; 租用或租赁期 |
+| treason | n. | 叛国罪；不忠 |
+| tribune | n. | 护民官；讲坛；看台；公民权利保护者 |
+| verdict | n. | 裁决, 裁定; 决定, 意见 |
+| warrant | n. | 授权证；许可证; 使…显得合理；成为…的根据; 保证，担保 |
+| advocacy | n. | 拥护；主张；辩护 |
+| attested | adj. | 证明无病的；经检验证明无病的；经检验证明无菌的 |
+| autonomy | n. | 自治，自治权 |
+| bequeath | vt. | 把…遗赠给；把…传下去；遗赠 |
+| covenant | n. | 契约，盟约；盖印合同；圣约; 订立盟约、契约; 立约承诺 |
+| culpable | adj. | 有罪的；该责备的；不周到的；应受处罚的 |
+| delegate | n. | 代表；会议代表; 授；把委托; 选派 |
+| dictator | n. | 独裁者；命令者 |
+| disclaim | vt. | 拒绝承认；放弃，弃权；否认，拒绝; 否认；放弃；弃权 |
+| eligible | adj. | 有资格当选的, 有条件被选中的; 合适的, 适当的 |
+| entitled | adj. | 题名为，书名叫做… ；有资格的 |
+| estoppel | n. | 禁止反言,禁止,防止 |
+| federate | vt. | & 结成联邦 |
+| forensic | adj. | 辩论的；法院的；适于法庭的 |
+| guaranty | n. | 保证,保证书,担保物,抵押物; 保证,抵押,担保 |
+| hegemony | n. | 霸权；领导权；盟主权 |
+| imperial | adj. | 皇帝的；帝国的；威严的；至高无上的; 纸张尺寸；特等品 |
+| leniency | n. | 宽大;仁慈 |
+| liberate | vt. | 解放；释放；放出 |
+| mandarin | n. | 官话; 中国政府的高级官员 |
+| mistrial | n. | 无效审判 |
+| monarchy | n. | 君主统治, 君主制度; 君主国 |
+| nominate | vt. | 提名；任命；指定；推荐 |
+| partisan | adj. | 偏袒的；党派的；盲目推崇的；效忠的; 游击队；虔诚信徒；党羽 |
+| Peronist | adj. | 庇隆主义的；庇隆主义者的 |
+
+:::
+
+### The Trial That Shook the State
+
+The **inaugural** session of the newly formed **appellate** court opened under heavy scrutiny. The **reigning** administration had long operated as a near-**autocracy**, and reformers hoped this case would begin to dismantle that order. The **defendant**, a former minister accused of **tortious** conduct and deliberate misuse of public funds, entered the chamber flanked by his **trustees**. His lawyers had already filed an **affidavit** denying every charge, yet the prosecution argued that **scienter** — the minister's full knowledge of the scheme — was beyond dispute.
+
+The **appellant** in a parallel civil suit arrived carrying a stack of documents: an **amendment** to the original contract, a **subpoena** served to three senior officials, and a **concordat** the government had quietly signed with a foreign **consulate** to **extradite** a key witness. **Pursuant** to standing court **protocol**, all materials were logged before proceedings began. The presiding judge warned that any attempt to **trespass** on **custodial** evidence would be treated as contempt, and that **punitive** measures — including **draconian** fines — would be imposed on any party that acted in bad faith.
+
+Outside, protesters called for the **abolition** of a system they compared to **apartheid**-era legal codes: **far-right** lobby groups had pressured lawmakers for decades, and broad **exemption**s for political donors had hollowed out the rules meant to **regulate** campaign finance. A legal scholar on the courthouse steps reminded the crowd that it fell squarely within the court's **bailiwick** to use **forensics** review to **disaffirm** contracts procured through fraud. International observers agreed: without meaningful **sanction**s, no reform could hold.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| protocol | n. | 礼仪；外交礼仪; 草案，草约；议定的条款，议定书 |
+| punitive | adj. | 惩罚性的；刑罚的 |
+| pursuant | adj. | 依据的；追赶的；随后的; 依照；根据 |
+| regulate | vt. | 调节，规定；有系统的管理；控制；校准 |
+| reigning | adj. | 统治的；在位的；本届的；起支配作用的; 统治；支配；盛行 |
+| sanction | n. | 制裁，处罚；认可；支持; 制裁，处罚；批准；鼓励 |
+| scienter | n. | 明知；故意 |
+| subpoena | n. | 传票; 传唤 |
+| tortious | adj. | 侵权行为的，非法行为的 |
+| trespass | vi. | 侵入；打扰；冒犯；犯罪; 过失；罪过；非法侵入；擅自进入 |
+| trustees | n. | 受托人，受托者 |
+| abolition | n. | 废除, 废止; 黑奴制度的废除，废奴运动; 奴隶贩卖的制止，奴隶制度的废除; 废除的, 废止的 |
+| affidavit | n. | 宣誓书,书面陈述 |
+| amendment | n. | 修改，改动；修正案 |
+| apartheid | n. | 种族隔离制度; 分离；隔离 |
+| appellant | n. | 上诉人 |
+| appellate | adj. | 上诉的; 受理上诉的 |
+| autocracy | n. | 独裁；独裁统治；独裁政体; 独裁政府;独裁统治的国家 |
+| bailiwick | n. | 辖区 |
+| concordat | n. | 协定；宗派间的协约 |
+| consulate | n. | 领事馆 |
+| custodial | adj. | 保管的,保管人的; 圣物保管容器 |
+| defendant | n. | 被告 |
+| disaffirm | vt. | 废弃,否认,取消 |
+| draconian | adj. | 非常严厉的;非常严酷的 |
+| exemption | n. | 免除;免; 免税额 |
+| extradite | vt. | 引渡 |
+| far-right | adj. | 极右派的,极端保守主义的 |
+| forensics | adj. | 法医的；法庭的 法医学，法医鉴定 |
+| inaugural | adj. | 就职的, 就任的 |
+
+:::
+
+### The Trial That Shook the Capital
+
+The **incumbent** minister had governed for two decades, so when the **allegation** surfaced — that his office had orchestrated the quiet **annexation** of protected state land — the capital was caught off guard. A **plaintiff** emerged almost immediately: a civic advocacy group whose **solicitor** filed the complaint before the week was out. The **paralegal** team worked through the night assembling evidence, careful to flag every document marked **classified**.
+
+At the pre-trial session, the minister's lead counsel issued a sweeping **disclaimer**, insisting the land transfers were **statutory** and fully within the ministry's mandate. The **compliance** office produced an **indenture** dating back thirty years, arguing the arrangement was a simple **leasehold** arrangement rather than outright seizure. Yet the judge found the **testimony** of a former aide far more persuasive: she described a backroom **concession** in which civil servants were told to ignore **de minimis** violations without reporting them.
+
+The opposition bloc chose **abstention** rather than a formal vote of no confidence, wary of the precedent. Several senior **statesman** figures called instead for **mediation**, though critics dismissed that as capitulation to an emerging **oligarchy**. The prosecution, meanwhile, refused to **stipulate** any reduction in charges. It sought a full **conviction**, arguing that only a clear **warranted** penalty — not mere **probation** — would deter future abuse. Separate civil proceedings asked the court to **indemnify** all displaced residents and to draw up an **indemnity** schedule backed by **Dodd-Frank**-style financial rules that would force the ministry to post bond.
+
+After eight months of hearings, the tribunal ordered the **sovereign** state to **reinstate** every official removed during the scandal and to publish all **delinquent** regulatory filings withheld under the old regime. The ruling also cited the ministry's failure to comply with **Dodd-Frank**-aligned disclosure requirements as independently **warranted** grounds for sanction. As the verdict was read aloud, the **incumbent**'s legal team — visibly shaken — distributed a second **disclaimer** to waiting journalists. Outside, a young **paralegal** from the plaintiff's firm quietly rolled up her notes. The **sovereign** would appeal, everyone knew. But the **testimony** was now on record, and the **statesman** class could no longer pretend it was not.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| incumbent | adj. | 在职的; 义不容辞的; 教区牧师; 教会中的任职者 Incumbent传统运营商 |
+| indemnify | vt. | 保障,保护; 使免于受罚; 补偿,赔偿 |
+| indemnity | n. | 保障, 赔偿, 补偿; 赔款, 补偿金, 赔偿物 |
+| indenture | n. | 契约,合同; 正式凭单,文据; 以契约束缚 |
+| leasehold | adj. | 根据地契年期而拥有的; 租赁权; 租赁期; 租赁物 |
+| mediation | n. | 调停, 调解, 斡旋 |
+| oligarchy | n. | 寡头统治的政府; 寡头政治的执政集团; 寡头统治的国家 |
+| paralegal | adj. | 辅助律师业务的; 律师的专职助手,律师帮办 |
+| plaintiff | n. | 原告 |
+| probation | n. | 缓刑, 察看; 试用, 试读 |
+| reinstate | vt. | 使恢复原职；使恢复原有权利 |
+| solicitor | n. | 初级律师 |
+| sovereign | n. | 君主，国王，女王; 旧时价值为一镑的英国金币; 控制国家的；统治的; 独立自主的 |
+| statesman | n. | 政治家 |
+| statutory | adj. | 依照法令的, 法定的 |
+| stipulate | vt. | 规定, 约定, 讲明 |
+| testimony | n. | 证词; 证明, 证据 |
+| warranted | adj. | 担保的，保证的 |
+| abstention | n. | 戒除；避免; 弃权; 戒绝者；弃权者 |
+| allegation | n. | 说法，指控 |
+| annexation | n. | 并吞；附加；附加物 |
+| classified | adj. | 归入密级的,保密的 |
+| compliance | n. | 服从,听从,顺从 |
+| concession | n. | 承认, 允许; 妥协, 让步; 特许权 |
+| conviction | n. | 确信, 坚定的信仰; 定罪, 判罪 |
+| de minimis | | |
+| delinquent | adj. | 违法的；有过失的; 拖欠的，到期未付的; 有过失的人，违法的人 |
+| disclaimer | n. | 放弃,拒绝,放弃者,不承诺 |
+| Dodd-Frank | | |
+| embassador | n. | 大使,使节 |
+
+:::
+
+### The Weight of the State
+
+When the **legislature** convenes, the air inside **parliament** always carries a faint tension — part theater, part genuine contest of will. Last week, a senior **lieutenant** to the Prime Minister circulated a draft bill that would tighten **regulatory** controls on campaign financing. Before the vote could proceed, however, a veteran MP launched a **filibuster**, reading aloud from budget reports for six unbroken hours. His colleagues accused him of **infraction** against procedural norms; he called it his **obligation** to the people.
+
+Outside the chamber, a different kind of drama was unfolding in the courts. A defense attorney argued that her client's arrest amounted to **entrapment** — that undercover officers had manufactured the very crime they claimed to prosecute. The **prosecutor** dismissed the claim and handed the judge a fresh **indictment** listing four counts of fraud. In the gallery sat the **petitioner** in a separate civil case, quietly grateful that **arbitration** had spared her years of open **litigation**. Her lawyer had already filed for **rescission** of a contract she had signed under duress, questioning the **legitimacy** of its terms from the start.
+
+The broader political season was no calmer. A government proposal for **deportation** of undocumented workers drew protests from **egalitarian** advocacy groups, who argued that such **enforcement** actions undermined the constitutional dignity of every resident. Ministers defended the policy as **justifiable** under national-security statutes — though critics called it a thinly veiled **imposition** of fear on vulnerable communities. A **referendum** on the matter was floated, then quietly shelved. Meanwhile, a junior clerk in the **bureaucracy** — a former **meter maid** promoted for diligence — discovered that key **exculpatory** evidence had been buried in a **restricted** file. She knew she was **accountable** for what she did next, and that her professional **credentials** would either protect her or mark her as a target. The scandal, legal analysts noted, could **account for** the ruling party's collapse in the polls — a minor **peccadillo** at the start, now a full **indictment** of an entire system's failure to hold power **accountable**. A single **beneficiary** of the original contract, it turned out, had quietly written the very **legislation** that made the deal possible.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| entrapment | n. | 诱捕, 诱人犯罪 |
+| filibuster | vt. | 阻碍或延宕国会或其他立法机构通过提案; 掠夺; 掠夺兵，暴兵，海盗; 阻挠议事的议员；会议妨碍行为 |
+| imposition | n. | 强加,被迫接受; 过分的要求,不合理的负担; 税收 |
+| indictment | n. | 衰败迹象，腐败迹象; 刑事起诉书；公诉书; 控告；起诉 |
+| infraction | n. | 违背,违犯; 犯规,违法 |
+| legitimacy | n. | 合法;正统; 合理 |
+| lieutenant | n. | 陆军中尉; 海军上尉; 副职官员 |
+| litigation | n. | 打官司; 诉讼 |
+| meter maid | | 处理违章停车的女警察 |
+| obligation | n. | 义务; 责任 |
+| parliament | n. | 议会, 国会 |
+| peccadillo | n. | 轻罪,小过失 |
+| petitioner | n. | 请求人;请愿人; 离婚案原告 |
+| prosecutor | n. | 检举人;告发人;起诉人;公诉人;原告 |
+| referendum | n. | 公民投票权；外交官请示书 |
+| regulatory | adj. | 管理的；控制的；调整的 |
+| rescission | n. | 废除 |
+| restricted | adj. | 有一定限制的,有限的,受约束的; 对公众不完全开放的; 对军人不完全开放的; 有限地,受约束地; 对… |
+| account for | | 对…负有责任；对…做出解释；说明……的原因 |
+| accountable | adj. | 负有责任的, 应对自己的行为做出说明的 |
+| arbitration | n. | 仲裁；公断 |
+| beneficiary | n. | 受益者；受惠者; 受俸牧师，受俸神职人员; 受圣俸的; 拥有封地的 |
+| bureaucracy | n. | 政府机构; 官僚主义, 官僚作风 |
+| credentials | n. | 资格证书; 国书; 证书; 资格 |
+| deportation | n. | 驱逐出境；放逐 |
+| egalitarian | adj. | 主张平等的,平等主义的; 平等主义 |
+| enforcement | n. | 强制,实施,执行 |
+| exculpatory | adj. | 辩解的,辩明无罪的 |
+| justifiable | adj. | 可证明为正当的;有理由的; 合法的 |
+| legislation | n. | 法律；法规; 立法，法律的制定 |
+
+:::
+
+### The Making of a Government
+
+The **inauguration** was supposed to signal a new era. Standing before his **constituency**, the newly elected president spoke of **unalienable** rights and promised to dismantle every **bureaucratic** obstacle that had calcified over decades of **dictatorship**. The old regime had ruled **unilaterally**, treating the state's **prerogative** as personal property, and its collapse had left a vacuum: courts without clear **jurisdiction**, a gutted **secretariat**, and a **kommandatura** still nominally overseeing three disputed border districts under a crumbling **multilateral** agreement no one had bothered to revoke.
+
+The transitional assembly moved fast. **Legislative** committees drafted new statutes, and the **codification** of civil liberties — once an **abolitionist** dream — was finally put to paper. A **nonpartisan** commission was empaneled to oversee **ratification** of the new constitution, and a separate tribunal began cataloguing every **infringement** of rights under the old order. Victims sought **restitution** for seized property, while advocacy groups pushed for broader **reparations** to communities destroyed by forced labour. The harder cases went to appeal; courts quietly debated **appealability** standards for crimes the prior code had never named. Where clear guilt was established, **retribution** was meant to be proportional — judges were warned against **malpractice** born of political pressure. **Notarization** requirements were overhauled so that ordinary citizens, not just party loyalists, could authenticate documents. The **protectorate** arrangement with two smaller neighbours was renegotiated; both sides agreed that the old **prescriptive** rules, inherited from a colonial compact, no longer reflected reality.
+
+The hardest fight was over the economy. Industry lobbies celebrated **deregulation** as freedom; unions called it a licence for exploitation. Every **municipality** from the capital to the remotest hill town held public hearings. International observers argued for **accreditation** of independent audit bodies before foreign aid could flow. One coalition threatened to **rubber-stamp** nothing until **emancipation**-era property claims — long buried in administrative backlog — were resolved. In the end, a **multilateral** oversight board was seated, its mandate narrow and its patience short. Whether it would amount to anything more than another layer of **bureaucratic** delay, no one yet knew.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| legislative | adj. | 立法的 |
+| malpractice | n. | 玩忽职守, 渎职, 不法行为 |
+| nonpartisan | adj. | 无党无派的,超乎党派的 |
+| prerogative | n. | 权利,特权; 大主教法庭; 总督委任组成的法庭 |
+| reparations | n. | 赔款 |
+| restitution | n. | 归还原主, 恢复原状; 赔偿, 补偿 |
+| retribution | n. | 应得的惩罚或赔偿 |
+| secretariat | n. | 秘书处, 书记处 |
+| unalienable | adj. | 不能让与的,不能剥夺的 |
+| abolitionist | n. | 废除主义者；废奴主义者; 废除主义者的；主张废除主义的; 已废除死刑的 |
+| bureaucratic | adj. | 官僚的, 官僚主义的, 官僚作风的 |
+| codification | n. | 法典编纂,法律成文化 |
+| constituency | n. | 选区的）选民；支持者；顾客 |
+| deregulation | n. | 违反规定,反常 |
+| dictatorship | n. | 独裁;专政; 独裁统治的国家 |
+| emancipation | n. | 解放 |
+| inauguration | n. | 就职;就职典礼; 开始;开创; 开幕;落成 |
+| infringement | n. | 违反; 侵犯,伤害 |
+| jurisdiction | n. | 司法权; 裁判权 |
+| kommandatura | n. | 军事管制总部 |
+| multilateral | adj. | 多方面的;多边的; 多边贸易; 多方面地;多边地 |
+| municipality | n. | 自治市; 自治区; 自治市或区的政府当局 |
+| notarization | n. | 公证 |
+| prescriptive | adj. | 规定的, 指定的, 制定的; 约定俗成的, 惯例的 |
+| protectorate | n. | 保护国；摄政政体；摄政职位；摄政任期 |
+| ratification | n. | 正式批准;认可 |
+| rubber-stamp | vt. | 不经审查就批准 |
+| unilaterally | adv. | 单方面地 |
+| accreditation | n. | 委派,信赖,鉴定合格 |
+| appealability | n. | 可上诉性 |
+
+:::
+
+### The Long Arc of Reform
+
+The young republic had begun as a loose **confederation** of city-states, each jealous of its sovereignty, each suspicious of the center. Over generations, however, the pressure of **decolonization** reshaped the political landscape: former territories demanded full membership, and the old **imperialistic** hierarchies could no longer hold. A wave of constitutional amendments swept through parliament, and **desegregation** of public institutions — schools, courts, housing registries — was written into law. **Discriminatory** hiring practices that had persisted for decades were finally subject to judicial review, and employers who ignored the new statutes faced **nullification** of their operating licenses.
+
+The reform coalition was not without its fractures. A faction of **Marxist-Leninist** delegates pushed for collective ownership of the press; moderates countered that a free press was the only guarantee of genuine **accountability** in an **administrative** state. After months of procedural wrangling, a veteran **parliamentarian** broke the deadlock by invoking an obscure standing rule, forcing the chamber to a vote. The motion passed narrowly, and with it came a landmark **indemnification** fund for citizens whose property had been seized without due process under the old regime. Those who had suffered under **incarceration** orders issued by emergency tribunals — orders now declared void — could file claims through a new **unincorporated** relief board, a body that sat outside the normal civil-service hierarchy precisely to avoid conflicts of interest.
+
+The closing months of the reform era were consumed by a single, divisive case. A former security minister, rather than fight extradition, chose to **turn myself in** — surrendering at the border checkpoint at dawn. His legal team immediately moved to **appeal the verdict** handed down by the lower tribunal, citing violations of the **parol evidence rule**: prosecutors had introduced recorded conversations that, the defense argued, contradicted the plain text of a signed agreement and should have been excluded. The government's lead counsel issued a formal **disclaimation** of any intent to prosecute selectively, and invoked the doctrine of **nonrepudiation** — the digital signature on the ministerial order, she argued, bound its author irrevocably. The case dragged on for two years, but its outcome mattered less, in the end, than what it proved: that the machinery of accountability, however slow, had begun to turn.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| confederation | n. | 联盟；同盟；邦联 |
+| desegregation | n. | 废除种族隔离 |
+| disclaimation | n. | 弃权，否认 |
+| imperialistic | adj. | 帝国主义的，帝制的 |
+| incarceration | n. | 钳闭 |
+| nullification | n. | 无效，废弃，取消，使无价值，使变的无用 |
+| accountability | n. | 有责任，有义务，可说明性 |
+| administrative | adj. | 行政的，管理的；经营的；后方勤务的 |
+| decolonization | n. | 非殖民化 |
+| discriminatory | adj. | 有识别力的；差别对待的 |
+| nonrepudiation |  | 认可 |
+| turn myself in |  |  |
+| unincorporated | adj. | 未组成社团的；未被承认为自治组织的；未包含在内的 |
+| indemnification | n. | 赔偿；保障；赔偿物 |
+| parliamentarian | n. | 议事法规专家，国会议员；议会的 |
+| Marxist-Leninist | adj. | 马克思列宁主义的 |
+| appeal the verdict |  |  |
+| parol evidence rule |  | 口头证据规则；排斥外在证据原则；证言规则 |
+
+:::

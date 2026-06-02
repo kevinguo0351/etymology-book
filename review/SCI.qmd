@@ -1,0 +1,670 @@
+# 科学·技术·工程 {.unnumbered}
+
+
+
+> 本主题共 15 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+
+
+
+The file contains only one entry. Here is the output:
+
+### A Single Step in the Sequence
+
+Every engineer who has worked through the mathematics of signal sampling eventually meets the **arithmetic progression** — that clean, relentless march of values separated by a fixed step. It shows up in analog-to-digital converters, where sample timestamps advance in exactly equal intervals, and in the staircase approximations we use to model a continuous waveform before the solver takes over. The elegance is deceptive: one constant difference, repeated without mercy, underlies radar pulse trains, memory address layouts, and the evenly spaced frequency bins of a discrete Fourier transform. Master the arithmetic progression and you hold the skeleton key to a surprising fraction of engineering mathematics.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| arithmetic progression | | 等差级数，等差数列；算术级数，算术数列 |
+
+:::
+
+### Signals, Circuits, and Cells: A Survey of Scientific Concepts
+
+Modern science and engineering draw on an extraordinarily diverse vocabulary. In computer networks, the **FTP** protocol allows machines to transfer files reliably across distances, while background services such as **BITS** quietly move data without interrupting the user. Every operating system—collectively referred to as **OSes**—manages memory through commands like **mem**, which reports how random-access storage is allocated among running processes. High-speed processors depend on the **SRAM** chip, a form of static memory whose transistors hold state without constant refreshing. The **chip** itself—an intricate slice of silicon carrying millions of transistors—is the foundational unit of modern computing. When developers release software for public evaluation before its final version, they call that release a **beta**, collecting feedback before the product leaves testing. A **coded** instruction set tells a processor exactly which operations to perform, and the **goto** statement in older languages directs execution to jump to a named point in a program.
+
+Beyond digital systems, the physical sciences rely on a different set of measures and materials. The **rad** is a legacy unit of absorbed radiation dose, now largely replaced by the gray in formal contexts. An **ion** is an atom or molecule that carries a net electric charge, and **ionic** bonds—formed between oppositely charged ions—hold many crystalline solids together. **HCN**, or hydrogen cyanide, is a small molecule studied in atmospheric chemistry and astrochemistry for its role in the formation of organic compounds. A **gauge** instrument measures physical quantities such as pressure or wire diameter, giving engineers a precise numerical value. **Fiber** optics transmit data as pulses of light through thin strands of glass or polymer, exploiting **optic** principles to carry signals over long distances with minimal loss. A **prism** refracts white light into its component wavelengths, demonstrating that color is a property of frequency rather than of the light source itself. A **focal** point is where parallel rays converge after passing through a lens or reflecting off a curved mirror—the concept underpins everything from telescopes to microscopes.
+
+In the life sciences and earth sciences, classification and material structure matter equally. **Taxa** are the formal groupings of organisms in biological classification, while a **clade** represents a lineage that shares a single common ancestor, a concept central to evolutionary biology. **Cocci** are spherical bacteria, one of the three basic morphological types recognised in microbiology. An **assay** is a quantitative test—chemical, biological, or biochemical—used to determine the presence or concentration of a substance in a sample. **Drusy** surfaces, studded with tiny interlocking crystals, form inside rock cavities when mineral-rich **fluid** slowly precipitates solid material; the geometry of a **bulb**-shaped cavity or a hollow geode controls how these crystals grow. **Pagon** organisms live within the interior of glacial ice, adapted to extreme cold and low nutrient availability. A satellite placed in **orbit** around Earth follows a precise elliptical path governed by gravitational balance, and **UAV** platforms—unmanned aerial vehicles—now carry scientific instruments into environments too hazardous for crewed flight. The **ANTS** system, an airborne night-television array, demonstrates how **optic** sensors mounted on UAVs extend observation into darkness. Finally, **ATES** technology stores thermal energy in underground aquifers, offering a sustainable way to buffer seasonal heat loads in buildings.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| FTP | abbr. | 文件传输协议 |
+| HCN | abbr. | 氰化氢；多机种计算机网络；同机种计算机网络 |
+| ion | n. | 离子 |
+| mem | n. | DOS命令：显示随机存取存贮器的分配信息 |
+| rad | n. | 拉德 |
+| UAV | abbr. | 无人机 |
+| ANTS | abbr. | 机载夜间电视系统 |
+| ATES | abbr. | 含水层储能系统 |
+| beta | n. | 贝塔，希腊字母表的第2个字母；产品测试版 |
+| BITS | abbr. | 后台智能传输服务；建设集成时序供应；二进制数字 |
+| bulb | n. | 电灯泡；球状物；鳞茎 |
+| chip | n. | 芯片；集成电路片；缺口；碎屑；炸薯条 |
+| goto | vt. | 转到 |
+| OSes | abbr. | 操作系统 |
+| SRAM | abbr. | 静态随机存储器 |
+| taxa | n. | 分类 |
+| assay | n. | 化验；分析试验；化验报告 |
+| clade | n. | 分化枝；进化枝 |
+| cocci | n. | 球菌 |
+| coded | adj. | 电码的；编码的 |
+| drusy | n. | 晶簇状；晶簇，晶洞 |
+| fiber | n. | 纤维；光纤 |
+| fluid | adj./n. | 流动的；流体；液体 |
+| focal | adj. | 焦点的；灶的 |
+| gauge | n. | 厚度；测量仪表；规格；估计 |
+| ionic | adj. | 离子的；电价的 |
+| optic | adj. | 视觉的；光学的 |
+| orbit | n. | 轨道；眼眶；势力范围 |
+| pagon | n. | 冰内生物 |
+| prism | n. | 棱柱；棱镜 |
+
+:::
+
+### From Electrons to Enzymes: A Tour of Modern Science and Engineering
+
+In classical geometry, **Euclid** established that a circle's **radius** is the distance from its center to any point on its **convex** boundary — a concept that reappears wherever scientists model curved surfaces, including the **torus**, a doughnut-shaped form whose outer surface curves outward in every cross-section. Such geometric ideas underpin the **matrix** calculations that engineers use daily, especially in **binary** and **unary** logic circuits where a **cursor** moves across a display driven by **analog** or digital signals. A **servo** mechanism, controlled by feedback loops, translates those signals into precise physical motion; a **valve** regulates the flow of gases or liquids within the same system, and when engineers need to **aerate** a fluid chamber they may route compressed air through a **porous** membrane.
+
+At the atomic scale, a **cation** carries a positive charge and is drawn toward a **magnet**-like negative electrode in electrolytic cells. Chemists working with **plasma** — an ionized gas — study how **photon** emission and absorption reveal elemental composition. **Butane**, a simple hydrocarbon, releases energy through combustion and can be mixed with **citric** acid solutions in certain industrial processes; to lower reactant concentration, a technician will **dilute** the mixture with distilled water. **Litmus** paper offers a quick colorimetric check of acidity, changing hue in response to **cation** concentration, while a **ligase** **enzyme** performs the opposite role in the cell — joining broken strands of DNA rather than breaking bonds.
+
+In molecular biology, a **gamete** carries half of an organism's **genome**, and each chromosome position may harbor one or more forms of an **allele**. Researchers in **botany** classify every plant species into a **taxon** within a formal hierarchy, then cross-reference its biochemical profile with known genetic databases. A **module** in a software pipeline can process these records using **fusion** of heterogeneous datasets, integrating sequence reads stored in flat files. The **analog** of this process in hardware is signal **fusion** inside a sensor array, where raw voltages are merged before being passed to downstream processing — a workflow that depends on robust **servo** control and precisely calibrated **valve** timing to keep every reaction chamber within tolerance.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| servo | n. | 伺服；伺服系统；随动系统 |
+| taxon | n. | 分类单元；分类学; 分类的；分类学的 |
+| torus | n. | 花托；隆凸；圆环面 |
+| unary | adj. | 一元的 |
+| valve | n. | 阀；活门；真空管；瓣膜; 装阀于；以活门调节 |
+| aerate | vt. | 充气；让空气进入；使暴露于空气中 |
+| allele | n. | 等位基因 |
+| analog | n. | 类似物;同源语; 模拟; 有长短针的; 模拟的 |
+| binary | adj. | 二元的，二态的；二进制的 |
+| botany | n. | 植物学；地区植物总称 |
+| butane | n. | 丁烷 |
+| cation | n. | 阳离子；正离子 |
+| citric | adj. | 柠檬的,采自柠檬的 |
+| convex | adj. | 凸的, 凸面的 |
+| cursor | n. | 光标 |
+| dilute | vt. | 稀释, 冲淡; 稀释的, 冲淡的 |
+| enzyme | n. | 酶 |
+| Euclid | n. | 欧几里得；欧几里德几何学 |
+| fusion | n. | 融合物；熔化；融合；熔接 |
+| gamete | n. | 配子，配偶子 |
+| genome | n. | 基因组；染色体组 |
+| ligase | n. | 连接酶 |
+| litmus | n. | 石蕊 |
+| magnet | n. | 磁铁；磁石；磁体 |
+| matrix | n. | 铸模,模型; 发源地；母体,基质; 岩石,矿脉; 矩阵 |
+| module | n. | 单元, 单位; 舱 |
+| photon | n. | 光子；辐射量子；见光度 |
+| plasma | n. | 等离子体；血浆；深绿玉髓 |
+| porous | adj. | 能渗透的；有气孔的；多孔渗水的 |
+| radius | n. | 半径，半径范围；辐射光线；有效航程；桡骨 |
+
+:::
+
+### From Zygotes to Networks: A Tour of Science and Engineering Concepts
+
+In living cells, life begins when two gametes fuse to form a **zygote**, a diploid cell carrying paired **alleles** from each parent. Should certain ancestral traits resurface unexpectedly in a descendant, biologists describe the event as **atavism**. Researchers studying cell division often map the **chiasma** — the X-shaped crossover point where homologous chromosomes exchange segments — on **diploid** organisms. To investigate molecular structures, scientists may **dissect** chromosomes biochemically, separating **ribose**-containing RNA strands from their protein partners. In aqueous systems, a **solute** dissolved in water can gradually **acidify** the solution if it releases hydrogen ions; if that concentration becomes too high, **bacilli** and other microbes struggle to survive. Geneticists routinely purify DNA using **agarose** gel electrophoresis, casting the gel from powders derived from seaweed. Meanwhile, ecologists track **biomass** across ecosystems to assess how energy flows through food webs.
+
+Chemistry and materials science occupy an equally rich territory. **Camphor**, a waxy compound extracted from camphor laurel, was historically one of the first natural materials replaced by synthetic alternatives. **Acrylic** polymers and synthetic **resins** now serve as structural and optical materials in everything from safety glass to medical implants. When carbon combines with two oxygen atoms, it forms **dioxide** compounds such as carbon dioxide — a molecule central to both respiration and atmospheric science. The **valent** electrons at the outer shell of an atom determine how it bonds; understanding valence is foundational to predicting molecular geometry. In physics laboratories, a **vacuum** chamber removes air to eliminate friction and interference, allowing scientists to observe phenomena in near-perfect isolation. Certain quantities in physics, such as temperature or mass, are described as **scalar** — they carry magnitude alone, with no directional component.
+
+Engineering and computing connect these physical principles to practical infrastructure. A **router** in a computer network directs data packets between nodes, often relying on **coaxial** cables whose inner and outer conductors share a common axis to minimise signal loss. Engineers **compile** source code into machine-readable binaries before deployment; background **daemons** then run silently on servers to handle scheduled tasks without user interaction. When a team decides to **rebase** a version-control branch, they replay its commits on top of a new starting point to keep history clean. A **webcam** mounted above a laboratory bench can stream live footage for remote collaboration, its signal transmitted via **antenna** arrays to wireless receivers. A **conduit** — whether a physical pipe or a metaphorical channel — routes power or data safely from source to destination. In materials processing, **diluted** reagents reduce reaction intensity to controllable levels, and **static** charge build-up on surfaces must be managed to protect sensitive electronic components. Finally, **anthrop**-ology-informed design principles remind engineers that technology ultimately serves human needs — a perspective as important in circuit boards as it is in city planning.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| rebase | v. | 重定的基准 |
+| resins | n. | 树脂；松香酯; 用树脂处理 |
+| ribose | n. | 核糖；核酸糖 |
+| router | n. | 路由器；刨路机；刳刨机 |
+| scalar | adj. | 数量的；标量的；梯状的，分等级的; 数量；标量 |
+| solute | n. | 溶解物,溶质 |
+| static | adj. | 静态的；静力的；静电的; 静电；静电干扰 |
+| vacuum | n. | 真空; 〈口〉真空吸尘器; 空间; 空虚; 空白; 用真空吸尘器清扫 |
+| valent | adj. | 价的 |
+| webcam | | 网络摄影，画面可以通过互联网同步播出 |
+| zygote | n. | 受精卵；接合子 |
+| acidify | vi. | 酸化；变酸; 使……成酸；使……酸化 |
+| acrylic | adj. | 丙烯酸的 |
+| agarose | n. | 琼脂糖 |
+| alleles | n. | 对立形质；等位基因；对偶基因 |
+| antenna | n. | 天线；触角，触须 |
+| anthrop | n. | 人类学 |
+| atavism | n. | 返祖现象；隔代遗传 |
+| bacilli | n. | 细菌,杆菌 |
+| biomass | n. | 生物的数量 |
+| camphor | n. | 莰酮，樟脑 |
+| chiasma | n. | 交叉；视神经交叉 |
+| coaxial | adj. | 同轴的,共轴的 |
+| compile | vt. | 收集；编辑，编制 |
+| conduit | n. | 导管；导水管；沟渠 |
+| daemons | n. | 守护进程 |
+| diluted | adj. | 稀释的；无力的; 使减低；稀释 |
+| dioxide | n. | 二氧化物 |
+| diploid | adj. | 倍数的；双倍的；双重的; 二倍体；倍数染色体 |
+| dissect | vt. | 解剖; 仔细分析或研究 |
+
+:::
+
+### From Atoms to Algorithms: A Scientific Vocabulary Tour
+
+Modern science draws on a vast lexicon that spans biology, chemistry, physics, and computing. In cell biology, reproduction at the cellular level proceeds through two distinct pathways. **Mitosis** produces two genetically identical daughter cells, while **meiosis** halves the chromosome count to yield **gametes** — the reproductive cells that fuse during fertilization. Early in development, the resulting **embryos** carry pluripotent cells whose fates have not yet been determined. Meanwhile, at the molecular level, DNA replication depends on **primase**, an enzyme that lays down the RNA primer required before the main polymerase can act. The broader class of **enzymes** — biological catalysts — drives nearly every metabolic reaction, including the conversion of **glucose** into usable energy. Some of those reactions involve **purines**, nitrogen-containing bases that form part of the DNA and RNA backbone. When cells need to move molecules across a membrane along a concentration gradient, they exploit **osmosis**, the passive diffusion of solvent through a selectively permeable barrier. Genetic engineers often introduce foreign DNA via a **plasmid**, a small circular DNA molecule that replicates independently inside a bacterial host. The mechanism of **ferment**ation, in which microorganisms break down sugars without oxygen, has been exploited industrially for centuries.
+
+Chemistry and materials science contribute equally rich vocabulary. A chemist may **distill** a mixture to separate components by boiling point, relying on a precise **formula** to control the process. **Gelatin** — derived from collagen — exemplifies how a biological **protein** can be processed into a commercially useful hydrocolloid. Metals such as copper and gold are **ductile**, meaning they can be drawn into wires without fracturing; this **elastic** deformation is governed by the material's modulus. The rare transition metal **iridium** is prized for its corrosion resistance, and **propane**, a three-carbon alkane, serves as a portable fuel in both industrial and domestic settings. Physicists working at the nuclear scale study the **neutron**, the uncharged particle in an atomic nucleus, and characterize elements through their **isotope**s — atoms sharing the same proton number but differing in neutron count. **Kinetic** energy — the energy of motion — is central to thermodynamics, while **inertia** describes a body's resistance to any change in that motion.
+
+Engineering and computing round out the picture. Precision manufacturing relies on **gauging** — systematic measurement of dimensions against a reference standard. A flat cross-section or mold cavity is sometimes called a **matrice**, the shaping surface from which a part is formed. In computational geometry, a **polygon** defines a closed figure bounded by straight edges, and algorithms operating on large data sets frequently use **hashing** — mapping inputs to fixed-size indices — to achieve near-constant lookup times. **Ecology** informs green engineering, reminding designers that every material choice carries consequences for the surrounding environment. Regulators and safety systems often **inhibit** runaway reactions, applying control logic derived from the same mathematical **quartic** expressions that describe certain high-order dynamic systems. Together these concepts — from **isotope**s to **primase**, from **osmosis** to **polygon** — illustrate how scientific language crystallises centuries of discovery into precise, reusable terms.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| distill | v. | 蒸馏，提取；滴下 |
+| ductile | adj. | 易教导的；易延展的；柔软的 |
+| ecology | n. | 生态学；社会生态学 |
+| elastic | adj. | 有弹性的；易伸缩的；灵活的 |
+| embryos | n. | 晶胚 |
+| enzymes | n. | 酶类 |
+| ferment | n. | 酵素；发酵；动乱 |
+| formula | n. | 公式，准则；配方；婴儿食品 |
+| gametes | n. | 配子 |
+| gauging | n. | 计量；测定，测量 |
+| gelatin | n. | 明胶；动物胶；胶制品 |
+| glucose | n. | 葡萄糖；葡糖 |
+| hashing | n. | 散列法 |
+| inertia | n. | 不活动，惰性；惯性 |
+| inhibit | vt. | 抑制；禁止 |
+| iridium | n. | 铱 |
+| isotope | n. | 同位素 |
+| kinetic | adj. | 运动的；活跃的 |
+| matrice | n. | 矩阵；真值表；母式 |
+| meiosis | n. | 减数分裂，成熟分裂 |
+| mitosis | n. | 有丝分裂，间接核分裂 |
+| neutron | n. | 中子 |
+| osmosis | n. | 渗透；渗透性；渗透作用 |
+| plasmid | n. | 质体；质粒 |
+| polygon | n. | 多边形，多角形 |
+| primase | n. | 引发酶 |
+| propane | n. | 丙烷 |
+| protein | n. | 蛋白质；朊 |
+| purines | n. | 嘌呤 |
+| quartic | n. | 四次式 |
+
+:::
+
+### From Atoms to Algorithms: A Survey of Scientific Concepts
+
+In the study of chemistry and molecular biology, researchers frequently examine how **solutes** behave when dissolved in solution, often adjusting **dilution** ratios to reach precise concentrations for experiments. Within living cells, **cellular** processes depend on **covalent** bonds that hold molecules together, while enzymes such as **catalase** break down harmful peroxides. The nucleotide base **thymine** pairs with adenine in DNA, and the field of **genomics** has revealed how an organism's **genotype** — its full set of inherited instructions — shapes observable traits. **Heredity** itself is governed by the faithful copying of these molecular blueprints from generation to generation.
+
+Physics and engineering supply an equally rich vocabulary. **Buoyancy**, described by Archimedes' principle, explains why objects float or sink in a fluid, while **suction** — the pressure differential that draws fluid upward — underlies everything from pumps to medical devices. A rotating **cylinder** appears in engines and hydraulic systems alike, and the **theorem** of energy conservation underpins the design of every such machine. In nuclear science, **tritium**, a radioactive hydrogen isotope, is studied as a fuel candidate for fusion reactors. Meanwhile, astronomers track each newly discovered **asteroid** to assess orbital risk, applying equations of motion that **condense** centuries of celestial mechanics into compact form. The central **equation** governing a physical system often contains **elements** drawn from geometry, including **diagonal** components of a matrix or tensor.
+
+Digital technology brings its own set of terms. **WYSIWYG** editors let authors see formatted output as they type, eliminating the gap between source markup and final appearance. **Aliasing** distortions arise when a signal is sampled below the Nyquist rate, producing misleading artifacts; software **emulator** platforms reproduce legacy hardware behavior so that older programs run on modern systems despite their **glitches**. **Synchro** transmission protocols ensure that sender and receiver stay aligned in time, while **binaural** audio recordings — capturing sound separately for each ear — create immersive spatial experiences in headphones. The neurotransmitter **dopamine** is increasingly studied in the context of reward-based user-interface design, with researchers observing how notification patterns influence behavior at the **cellular** level of neural circuitry. Tiny **granules** of semiconductor material form the basis of quantum-dot displays, and the **diffused** scattering of light through such materials governs screen color accuracy. Finally, **cryonics** research investigates ultra-low-temperature preservation, a field that intersects materials science, biology, and engineering ethics in equal measure. A **catalyst** for interdisciplinary collaboration, it illustrates how the **elements** of multiple disciplines must combine before any genuinely new frontier can open.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| solutes | n. | 溶解物；溶质 |
+| suction | n. | 抽吸；吸力；吸 |
+| synchro | adj. | 同步的 |
+| theorem | n. | 定理；命题；原理，原则 |
+| thymine | n. | 胸腺嘧啶 |
+| tritium | n. | 氚；超重氢 |
+| WYSIWYG | abbr. | What You See Is What You Get 所见即所得 |
+| aliasing | n. | 别名使用；混淆现象 |
+| asteroid | n. | 小行星；海盘车；小游星 |
+| binaural | adj. | 有两耳的；两耳用的；双声道的 |
+| buoyancy | n. | 浮性；浮力；恢复正常的能力 |
+| catalase | n. | 接触酵素，过氧化氢酶 |
+| catalyst | n. | 催化剂，触媒；促进因素 |
+| cellular | adj. | 细胞的；多孔的；由细胞组成的 |
+| condense | vi. | 浓缩；凝结；使压缩 |
+| covalent | adj. | 共价的；共有原子价的 |
+| cryonics | n. | 人体冷冻法 |
+| cylinder | n. | 圆筒，圆柱体；汽缸，泵体 |
+| diagonal | n. | 对角线；斜线；对角线的 |
+| diffused | adj. | 散布的，扩散的；普及的 |
+| dilution | n. | 稀释，冲淡；稀释法 |
+| dopamine | n. | 多巴胺 |
+| elements | n. | 基础；原理 |
+| emulator | n. | 竞争者（此处指模拟器） |
+| equation | n. | 方程式，等式；反应式 |
+| genomics | — | 基因组学 |
+| genotype | n. | 基因型；遗传型 |
+| glitches | n. | 小毛病；小故障 |
+| granules | — | 粒料 |
+| heredity | n. | 遗传 |
+
+:::
+
+### From Molecules to Networks: A Survey of Scientific Concepts
+
+In the study of evolutionary biology, researchers classify **hominids** — the family that includes modern humans and their closest ancestors — by examining skeletal **homology**, the structural correspondence between bones across species. When a specimen appears **humanoid** but predates *Homo sapiens* by millions of years, scientists use isotopic analysis to establish its age: different **isotopes** of carbon and nitrogen decay at known rates, giving reliable chronological markers. **Nitrogen**, along with **hydrogen**, is also central to organic chemistry, where both elements form the backbone of the **molecule** — the smallest unit of a substance that retains its chemical identity.
+
+In the laboratory, many biological experiments are conducted **in vitro**, meaning reactions occur outside a living organism, typically in controlled glassware. A common target of such work is the **ribosome**, the cellular machine that translates genetic code into protein. Researchers may introduce engineered **plasmids** — small circular DNA strands — into cells to observe how a deliberate **mutation** alters protein production. The related practice of **pharming** refers to using genetically modified organisms to produce pharmaceutical compounds at scale. Cells can also be analysed through a **polaroid**-filtered microscope to study how light interacts with biological structures, exploiting **magnetic** fields or polarised optics to enhance contrast.
+
+On the engineering and data side, a crystal or atomic arrangement is often described as a set of **lattices**, and the physical properties of materials depend heavily on how atoms **multiply** within these regular grids. When designing thermal systems, engineers **saturate** insulating layers with inert gas and **insulate** components to prevent heat transfer. Within a corporate environment, sensitive experimental data travels over a protected **intranet** rather than the public internet. Quantitative results are recorded using a consistent mathematical **notation**: each data point is plotted on a coordinate plane where the **ordinate** (vertical axis) and one of four **quadrant** regions uniquely locate it. Statistical summaries include the **quartile** boundaries that divide a distribution into four equal parts, as well as **kurtosis**, which describes how sharply peaked the distribution is relative to a normal curve. When plotted, the relationship between two continuous variables often scales **linearly**, meaning a straight line adequately models the trend. More advanced array operations rely on **matrices** — rectangular grids of numbers — and the conservation of **momentum** in physical systems is expressed through these same matrix equations. A **pentagon** or other regular polygon may appear in geometric proofs that underpin crystallographic symmetry, and the rare statistical concept of an **octuplet** distribution (eight simultaneous equal-probability outcomes) illustrates extremes of combinatorial analysis. Finally, particle separation in certain laboratory workflows employs a **lavoflux** device to sort material by density through hydraulic elutriation.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| hominids | n. | 人种；人科 |
+| homology | n. | 相同,同族关系,异体同形 |
+| humanoid | adj. | 像人的; 类人动物 |
+| hydrogen | n. | 氢 |
+| in vitro | | 在试管内 |
+| insulate | vt. | 隔离，使孤立；使绝缘，使隔热 |
+| intranet | n. | 内联网；企业内部网 |
+| isotopes | n. | 同位素 |
+| kurtosis | n. | 峰态 |
+| lattices | n. | 格子；格栅；点阵 |
+| lavoflux | | 水力淘析器 |
+| linearly | adv. | 直线地,线性地 |
+| magnetic | adj. | 有磁性的；磁性的 |
+| matrices | n. | 母体；矩阵 |
+| molecule | n. | 分子 |
+| momentum | n. | 动量；势头 |
+| multiply | vt. | 乘；增加；繁殖 |
+| mutation | n. | 突变；变化 |
+| nitrogen | n. | 氮 |
+| notation | n. | 记号；标记法 |
+| octuplet | n. | 八连音 |
+| ordinate | n. | 纵坐标；纵线 |
+| pentagon | n. | 五角形 |
+| pharming | n. | 嫁接；网域嫁接 |
+| plasmids | | 质体 |
+| polaroid | n. | 偏振片；偏光薄膜 |
+| quadrant | n. | 象限；四分之一圆 |
+| quartile | n. | 四分位数 |
+| ribosome | n. | 核糖体 |
+| saturate | vt. | 浸湿，浸透；使充满 |
+
+:::
+
+### From Amino Acids to Algorithms: A Tour of Modern Science and Engineering
+
+Modern **astronomy** offers a striking example of how computation transforms observation. When a space telescope captures a **snapshot** of a distant galaxy, scientists do not simply stare at raw pixels. A chain of **automated** processing steps takes over: an **algorithm** filters noise, an **amplifier** boosts faint signals, and a **calibrate**d detector array ensures measurements remain accurate. Researchers can then **simulate** how **accretion** disks form around black holes, tracking the **velocity** at which gas spirals inward. Because no single instrument covers the full picture, **binocular** interferometry arrays combine feeds from multiple dishes to **transmit** coherent data to a central **terminal**, where software **tabulate**s results and flags any **truncate**d dataset that lost frames mid-observation. The **aerospace** industry applies the same logic: onboard computers that **transmit** telemetry must be **calibrate**d before launch, and network **sniffers** monitor data buses for anomalies that could compromise flight safety.
+
+At the molecular scale, biochemists work within a different but equally rigorous **taxonomy**. Enzymes such as ATP **synthase** rely on precise geometry: the active site is essentially a **Cartesian** coordinate frame in which each atom occupies a defined position. **Anaerobic** organisms, lacking access to oxygen, drive these reactions through alternative pathways that still obey **catalytic** kinetics. Researchers studying neurotransmitter precursors pay close attention to **tyrosine**, an amino acid whose hydroxyl group is the starting point for dopamine synthesis, while the amino acid **theanine**, found in tea leaves, modulates neuronal **stimulus** response without overwhelming excitation. Whether a trait is inherited through an **autosomal** chromosome or follows a different pattern matters enormously when mapping disease risk; geneticists record every **base pair** variant and sort them by genomic position. Proteins that are **capsulate**d inside vesicles travel along cytoskeletal tracks, and the **traction** forces generated by motor proteins determine transport **velocity**.
+
+In systems engineering, teams track **actuation** events — the moment a solenoid or servo responds to a command — and log a **subtotal** of successful cycles before running end-of-line diagnostics. A signal chain might pass through a low-noise **amplifier**, get sampled at a **terminal** node, and finally feed into a dashboard that displays a real-time **snapshot** of system health. The discipline of building reliable machines therefore draws on **astronomy**'s precision culture, biochemistry's **taxonomy** of components, and computer science's love of clean **algorithm**s — a reminder that the boundaries between fields are themselves somewhat **truncate**d abstractions.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| simulate | vt. | 模仿；假装；冒充 |
+| snapshot | n. | 快照 |
+| sniffers | n. | 嗅探器，封包探嗅器；封包监听 |
+| stimulus | n. | 刺激；激励；刺激物 |
+| subtotal | adj. | 几乎全部的；不完全的；小计；部分合计数 |
+| synthase | n. | 合酶 |
+| tabulate | adj. | 平板状的；有平面的；把…制成表格 |
+| taxonomy | n. | 分类学，分类系统 |
+| terminal | n. | 终端机；终点；末端；极限 |
+| theanine | n. | 茶氨酸 |
+| traction | n. | 牵引；牵引力 |
+| transmit | vt. | 发射；播送；广播；传播；传导 |
+| truncate | adj. | 截短的；被删节的；把…截短 |
+| tyrosine | n. | 酪氨酸 |
+| velocity | n. | 速率；迅速；周转率 |
+| accretion | n. | 堆积，积累；自然增长；增加部分 |
+| actuation | n. | 刺激，冲动 |
+| aerospace | n. | 航空与航天空间；航空航天工业 |
+| algorithm | n. | 运算法则 |
+| amplifier | n. | 扩音器，放大器 |
+| anaerobic | adj. | 厌氧菌的；能在无空气情况下生活的 |
+| astronomy | n. | 天文学 |
+| automated | — | 自动化的 |
+| autosomal | adj. | 正染色体的，常染色体的 |
+| base pair | — | 碱基对 |
+| binocular | adj. | 双目并用的 |
+| calibrate | vt. | 校准；使标准化；测量口径 |
+| capsulate | adj. | 有蒴的，包于胶囊内的 |
+| Cartesian | adj. | 笛卡尔的，笛卡尔哲学的 |
+| catalytic | adj. | 接触反应的 |
+
+:::
+
+### From Incubator to Phylogeny: A Tour of Scientific Concepts
+
+Modern science draws on a vast vocabulary that spans **chemistry**, computation, and life itself. In a research laboratory, instruments are carefully **configure**d — each **parameter** adjusted so that measurements remain reproducible. A **magnifier** or electron microscope may be used to examine specimens whose tissue has been **desiccate**d or **dehydrate**d to prevent decay, while a climate-controlled **incubator** maintains living cultures at precise temperatures. Reagents such as **magnesium** salts and **phosphate** buffers keep cellular reactions stable; many of these reactions are **exergonic**, releasing free energy that drives downstream processes.
+
+Data collected from such experiments rarely follow a simple straight line. Researchers plot results on a **histogram** to visualise distributions, noting whether growth curves are **nonlinear** and whether **geometric** progression fits the observed values. A fraction's **numerator** may represent the count of successful trials, and the **perimeter** of a confidence region on a scatter plot conveys uncertainty. In software used to process the data, a **delimiter** separates fields in a text file, and a single misplaced **keystroke** can corrupt an entire dataset. Engineers who **configure** analysis pipelines know that even one poorly set **parameter** can make a **nonlinear** model diverge.
+
+At the biological scale, **empirical** evidence from genetics reveals how **Mendelian** inheritance rules govern the transmission of traits. A cell's **karyotype** — its full chromosomal portrait — can be inspected during **metaphase**, when chromosomes are most condensed and **dissected** images are easiest to interpret. The expressed characteristics of an organism constitute its **phenotype**, shaped by both intrinsic (**isometric** growth constraints, for instance) and **exogenous** environmental signals. Pathogens such as **entamoeba** are studied through their **mechanism** of invasion, while the **emanation** of chemical signals from infected tissue guides the immune response. **Diffusion** carries those signals across membranes, and **phylogeny** traces the evolutionary lineage that produced every organism involved — reminding us that all of science is, at its core, one connected story.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| chemistry | n. | 化学 |
+| configure | v. | 配置,设定,使成形,使具一定形式 |
+| dehydrate | vt. | 使脱水, 使干燥; 脱水, 失水 |
+| delimiter | n. | 定界符,分隔符 |
+| desiccate | vt. | 弄干,使脱水 |
+| diffusion | n. | 扩散，传播；漫射 |
+| dissected | adj. | 切开的,分割的,多裂的 |
+| emanation | n. | 发射, 散发; 发射物, 散发物, 显示出的气质; 射气 |
+| empirical | adj. | 以观察或实验为依据的 |
+| entamoeba | n. | 内阿米巴属 |
+| exergonic | adj. | 放出能的 |
+| exogenous | adj. | 外生的,外成的,外因的 |
+| geometric | adj. | 几何的; 几何图案的; 成几何级数增加的 |
+| histogram | n. | 柱状图 |
+| incubator | n. | 孵化器; 恒温箱 |
+| isometric | adj. | 等大的,等容积的 |
+| karyotype | n. | 染色体组型 |
+| keystroke | n. | 键击,按键 |
+| magnesium | n. | 镁 |
+| magnifier | n. | 放大镜；放大器 |
+| mechanism | n. | 机械装置; 构造, 机制; 办法, 技巧, 途径 |
+| Mendelian | adj. | 孟德尔的,孟德尔法则的; 孟德尔学派的人 |
+| metaphase | adj. | 中期,转位期 |
+| nonlinear | adj. | 非线性的 |
+| numerator | n. | 分子 |
+| parameter | n. | 因素, 特性, 界限; 〈物〉〈数〉参量, 参数 |
+| perimeter | n. | 周边;周围;边缘 |
+| phenotype | n. | 显型 |
+| phosphate | n. | 磷酸盐 |
+| phylogeny | n. | 语系发生,发展史 |
+
+:::
+
+### From Physicism to Field-Tested Engineering
+
+**Physicism** — the tradition of grounding all inquiry in natural-science principles — shapes how a **physicist** approaches a new device. Before any mass production begins, a team builds a **prototype**, often using **synthetic** materials whose chemical properties are precisely controlled. Where a natural compound might work, a **synthetic** substitute is chosen for its **additivity**: its measurable properties combine in a predictable, linear way, satisfying the **arithmetic** of the design specification.
+
+Modern fabrication leans heavily on **synthesis** — the chemical assembly of complex molecules from simpler precursors. A **substrate**, for instance, is prepared in a **centrifuge** to separate layers by density, and its surface is then treated with a **salicylic** acid derivative to improve bonding. A **schematic** drawn at this stage shows **concentric** rings of material, each deposited in a **compaction** process that drives out air pockets. Engineers confirm that the geometry is not a perfect square or circle but a **trapezoid** or another **asymmetric** polygon, and they use **asymptotic** curves to model how stress approaches — but never quite reaches — a theoretical limit. A tiny **concretion** of mineral deposits can disrupt **concentric** alignment, so samples are screened by a **cytochrome**-linked assay that flags oxidative contamination.
+
+On the computational side, a **recursive** algorithm processes sensor readings in nested loops, each pass feeding its output back as the next input. **Clustering** groups the data points by similarity, and a **combinator** arranges the resulting subsets into every valid configuration for analysis. **Retrieval** of archived records is secured by **ciphertext** so that raw data remain unreadable in transit; only an authenticated node can decrypt and read them. A **satellite** relay broadcasts telemetry back to the laboratory, where a **summation** of all channel values is computed every second. Engineers check that the new firmware is **compatible** with the legacy control board, and they verify **viability** — whether the assembled system can sustain continuous operation — before signing off.
+
+When **combustion** tests are run in a sealed chamber, a slow **deliquesce** of certain hygroscopic seals signals that humidity control has failed, prompting an immediate review. The team then uses a **recursive** audit loop to **replicate** the failure under controlled humidity and **asymptotic** temperature ramps, refining the **schematic** until every reading converges on the target value.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| physicism | n. | 自然科学研究 |
+| physicist | n. | 物理学家 |
+| prototype | n. | 原型, 雏形, 蓝本 |
+| recursive | adj. | 回归的,递归的 |
+| replicate | v. | 复制；仿制; 再造；再生；自我复制 |
+| retrieval | n. | 重获,取回,检索,挽回,恢复 |
+| salicylic | adj. | 得自水杨酸的,水杨酸的 |
+| satellite | n. | 卫星; 人造卫星; 卫星国, 附庸国, 卫星都市 |
+| schematic | adj. | 纲要的，图表的；示意的，概略的; 图表，电路原理图 |
+| substrate | n. | 底面，基底；基片; 酶作用物; 培养基 |
+| summation | n. | 总和,加在一起; 总结,概括 |
+| synthesis | n. | 综合, 综合法; 〈化〉合成 |
+| synthetic | adj. | 合成的，人造的; 〈口〉假的，非天然的；虚伪的; 合成物，合成纤维 |
+| trapezoid | n. | 梯形; 不规则四边形 |
+| viability | n. | 生存能力,发育能力 |
+| additivity | n. | 添加,添加性 |
+| arithmetic | n. | 算术; 计算 |
+| asymmetric | adj. | 不对称的,不匀称的; 非对称的 |
+| asymptotic | adj. | 渐近线的,渐近的 |
+| centrifuge | n. | 离心机 |
+| ciphertext | n. | 密码,暗记文 |
+| clustering | n. | 聚类 |
+| combinator | n. | 配合器 |
+| combustion | n. | 燃烧, 烧毁 |
+| compaction | n. | 压紧,紧束的状态 |
+| compatible | adj. | 可以并存的, 相容的, 协调的 |
+| concentric | adj. | 同一中心的,同轴的; 同一中心地,同轴地 |
+| concretion | n. | 结石；凝固；凝固物 |
+| cytochrome | n. | 细胞色素 |
+| deliquesce | vi. | 溶解,解除,液化 |
+
+:::
+
+### From Molecules to Machines: A Survey of Scientific Concepts
+
+In the study of **metabolism**, living cells carry out an intricate web of chemical reactions that sustain life. **Glycolysis**, one of the earliest metabolic pathways to evolve, breaks down glucose in the cytoplasm of both prokaryotic and **eukaryotic** cells, yielding energy that powers subsequent **endergonic** reactions elsewhere in the cell. During **interphase** — the preparatory stage between cell divisions — the cell replicates its DNA with the help of enzymes such as **polymerase**, ensuring that **hereditary** information is faithfully copied. **Homologous** chromosomes, which carry **homogenous** gene content in **homozygous** individuals, are sorted during **equational** division so that each daughter cell receives a complete genome. **Phenotypic** variation arises when these genetic blueprints interact with the environment, a relationship that theorists from **Lamarckism** onward have sought to explain. The protein **hemoglobin**, whose **morphology** has been studied in fine structural detail, transports oxygen through the bloodstream and exemplifies how **mechanical** properties at the molecular scale — including **elasticity** of the globin chain — translate into physiological function. Cells release material to their exterior through **exocytosis**, a process requiring **phosphorus**-containing lipids in the membrane, and **hypertonic** solutions can disrupt this balance by drawing water out of cells.
+
+In the physical and engineering sciences, the **dispersion** of light through a prism separates wavelengths and underlies spectroscopic analysis. Structural geometry provides the mathematical backbone of engineering design: the **hypotenuse** of a right triangle governs load calculations in trusses, while three-dimensional forms such as the **polyhedron** and the **pentagonum** (a five-sided polygon) appear in architectural frameworks and molecular cage structures alike. The concept of a **multiplier** in linear systems amplifies an input signal, and **idempotent** operations — those that produce the same result when applied repeatedly — are foundational in database design and functional programming. Modern communications depend on **end-to-end** **encryption** to protect data in transit, ensuring that messages remain confidential across heterogeneous networks. Engineers often **homogenize** composite materials to produce a **homogenous** medium whose properties can be modeled by simple equations, while **hydroponic** cultivation systems deliver precisely controlled nutrient solutions to plant roots, demonstrating how technology streamlines biological production.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| dispersion | n. | 散布，驱散，传播，散射；离差，差量 |
+| elasticity | n. | 弹性；弹力；灵活性；伸缩性 |
+| encryption | n. | 编密码 |
+| endergonic | adj. | 吸能的 |
+| end-to-end | adj. | 端到端的 |
+| equational | adj. | 方程式的，均分的 |
+| eukaryotic | adj. | 真核状态的 |
+| exocytosis | n. | 胞外分泌；胞吐；胞吐作用 |
+| glycolysis | n. | 醣酵解 |
+| hemoglobin | n. | 血红素 |
+| hereditary | adj. | 遗传的；世袭的；承袭的 |
+| homogenize | vt. | 使类同；使……均质 |
+| homogenous | adj. | 同质的，纯系的 |
+| homologous | adj. | 相应的，类似的，一致的，同源的 |
+| homozygous | adj. | 同型结合的，纯合子的 |
+| hydroponic | adj. | 溶液培养的 |
+| hypertonic | adj. | 张力亢进的，高渗的 |
+| hypotenuse | n. | 斜边，弦 |
+| idempotent | n. | 幂等，等幂；幂等的 |
+| interphase | n. | 间期，界面；界间的，相间的 |
+| Lamarckism | n. | 拉马克学说 |
+| mechanical | adj. | 机械的，力学的；机械似的；呆板的 |
+| metabolism | n. | 新陈代谢 |
+| morphology | n. | 形态学 |
+| multiplier | n. | 乘数 |
+| pentagonum | — | 五边形 |
+| phenotypic | n. | 表型的 |
+| phosphorus | n. | 磷 |
+| polyhedron | n. | 多面体 |
+| polymerase | n. | 聚合酶 |
+
+:::
+
+### Signals, Structures, and Systems: A Survey of Scientific Concepts
+
+Modern science progresses by combining rigorous **methodology** with precise measurement. Researchers routinely **hypothesize** that a given variable will influence an outcome, then design experiments whose results serve as a **litmus test** for the theory. A core step in this process is **quantifying** observations — transforming raw data into numbers that can be compared, ordered, and analyzed. Where numbers alone are insufficient, **qualitative** assessment of patterns and anomalies fills the gap.
+
+In physics and engineering, motion is described through **acceleration**, the rate at which velocity changes, while signals must often **synchronize** across devices so that clocks and data streams stay aligned. When one component experiences a **malfunction**, engineers **reconfigure** the system architecture to restore operation. Navigation teams use GPS satellites to **triangulate** a receiver's position, computing coordinates from timing differences across multiple orbital nodes. The mathematics underlying such geometry traces back to **Pythagorean** relationships between distances, and each variable in a model may initially carry a **placeholder** value until real measurements replace it. When the number of possible orderings grows large, researchers enumerate every **permutation** to ensure no configuration is overlooked. For communication channels that do not require a shared clock, **asynchronous** protocols handle variable timing gracefully, whereas **conductivity** measurements reveal how readily a material passes electrical or thermal energy.
+
+Biology operates at every scale from molecule to biosphere. **Prokaryotic** cells, which lack a membrane-bound nucleus, rely on the **propagation** of genetic information through simple replication. Inside cells, **polypeptide** chains fold into functional proteins whose behavior can be **pleiotropic** — a single gene affecting multiple, seemingly unrelated traits. Cells process **carbohydrate** molecules as a primary energy currency, and laboratory chemists can **centrifugate** a mixture to isolate a **precipitate** that settles under centrifugal force. Organisms living in **commensalism** share an environment where one partner benefits and the other is unaffected. At the ecosystem level, **biogeography** maps how species distributions reflect geology, climate, and evolutionary history, while **anthropology** situates human populations within that broader biological and cultural landscape. **Heliotropic** plants orient their growth toward sunlight, a behavior that ecologists study alongside the **mechanistic** cellular pathways that drive it. Whether a gene's influence on development is **mechanistic** or probabilistic remains a recurring question in **quantifying** phenotypic variation.
+
+In laboratory and display technology, **fluorescent** materials absorb high-energy radiation and re-emit it as visible light, a principle exploited in microscopy, screens, and signage. A **planetarium** uses projection systems to recreate the night sky on a domed ceiling, demonstrating orbital mechanics to the public. The **constituents** of any complex system — whether a chemical solution, an organism, or a software stack — must be identified before their interactions can be modeled. The full set of such **constituents** defines the system's boundary conditions. Across all these domains, the **acceleration** of discovery depends on clear frameworks: researchers treat each **methodology** as a living document, ready to be revised whenever evidence demands it.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| fluorescent | adj. | 荧光的, 发荧光的 |
+| heliotropic | adj. | 向日性的, 趋日性的 |
+| hypothesize | v. | 假设, 假定, 猜测 |
+| litmus test | n. | 石蕊试验; 试金石, 最后的检验 |
+| malfunction | n. | 故障, 障碍 |
+| mechanistic | adj. | 机械论学说的, 机械论的 |
+| methodology | n. | 一套方法; 方法学, 方法论 |
+| permutation | n. | 序列, 排列; 排列中的任一组数字或文字 |
+| placeholder | n. | 占位符 |
+| planetarium | n. | 天文馆; 天象仪 |
+| pleiotropic | adj. | 多效性的, 多向性的 |
+| polypeptide | n. | 多肽 |
+| precipitate | vt. | 使发生; 促成; 使沉淀; 沉淀物 |
+| prokaryotic | adj. | 原核的 |
+| propagation | n. | 繁殖; 增殖; 传播 |
+| Pythagorean | adj. | 毕达哥拉斯的 |
+| qualitative | adj. | 定性的, 性质的; 质量的 |
+| quantifying | n. | 定量法 |
+| reconfigure | v. | 重新装配, 改装 |
+| synchronize | vt. | 校准; 同步; 同速进行 |
+| triangulate | vt. | 分成三角形, 对…作三角测量 |
+| acceleration | n. | 加速; 加速度 |
+| anthropology | n. | 人类学 |
+| asynchronous | adj. | 异步的 |
+| biogeography | n. | 生物地理学 |
+| carbohydrate | n. | 碳水化合物; 糖类 |
+| centrifugate | n./v. | 以离心力分出之物; 使离心, 利用离心力分离 |
+| commensalism | n. | 共栖; 共生 |
+| conductivity | n. | 传导性; 传导率; 电导率 |
+| constituents | n. | 组分 |
+
+:::
+
+### From Fermentation Flasks to Phylogenetic Trees: A Tour of Modern Science
+
+In a well-equipped biology laboratory, an **entomologist** and a molecular biologist often work side by side. The entomologist may be studying the **metamorphosis** of a beetle larva — tracking how gene expression reshapes body form through each stage — while a few benches away, an **experimenter** monitors a **fermentation** culture, watching yeast convert sugars into ethanol as gas bubbles signal microbial activity. Both researchers rely on the same cellular machinery: every living cell harbors **mitochondria**, the membrane-bound organelles that generate ATP, and each **mitochondrion** is enclosed by a double membrane rich in **phospholipid** bilayers — a class of **macromolecule** that controls what enters and exits the cell.
+
+Understanding how species are related requires **phylogenetics**, the discipline that reconstructs evolutionary history from shared traits and molecular data. A **synapomorphy** — a derived character shared by two or more taxa — is the key evidence used to argue that a group is **monophyletic**, meaning all members descend from a single common ancestor. When members of a proposed group come from multiple independent lineages, the grouping is instead described as **polyphyletic**. **Phylogenetic** trees of **Homo sapiens** and its closest relatives reveal that our lineage is monophyletic, and studies of ancient mitochondrial DNA show that modern populations carry **heterozygous** variants accumulated over tens of thousands of years.
+
+Alongside biological measurement, computation and mathematics provide the analytical backbone of science. A **breadth-first** search algorithm explores a graph level by level — a strategy used in network analysis and route planning. **Factorization** of large integers underpins modern cryptography: finding that a number is a **prime number** (divisible only by one and itself) is straightforward, yet reversing the process for a large composite integer is computationally hard. Geometric reasoning enters whenever researchers work with spatial data: the **circumference** of a circular cross-section, the area of a **parallelogram**, or the measure of an **obtuse angle** all appear in materials science and engineering design. Scaling laws often behave **geometrically** — a quantity that grows by a constant ratio at each step rather than by a constant increment. **Extrapolation** from observed data points lets scientists estimate values outside the measured range, and **superposition** of wave functions or signals is fundamental to optics, quantum mechanics, and signal processing alike. In logic and computer science, a **biconditional** statement ("P if and only if Q") defines the precise equivalence that formal proofs require, while **concatenation** of character strings underlies every data-processing pipeline that assembles identifiers, sequences, or file paths.
+
+In neuroscience, the neurotransmitter **acetylcholine** carries signals across synapses between motor neurons and muscle fibers. Its activity can be measured and **psychometrics** — the science of psychological and cognitive measurement — has developed quantitative tools to relate such neural signals to behavior and performance. Meanwhile, chemists studying crystalline materials may **recrystallize** a compound repeatedly to improve its purity; under ultraviolet light, certain purified samples display **fluorescence**, emitting visible light after absorbing higher-energy radiation. Taken together, these threads — fermentation, phylogenetics, prime numbers, neurotransmitters, and crystal optics — illustrate the elegant **concatenation** of disciplines that defines contemporary science and engineering.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| entomologist | n. | 昆虫学者 |
+| experimenter | n. | 实验者 |
+| fermentation | n. | 发酵; 激动, 纷扰 |
+| fluorescence | n. | 荧光,荧光性 |
+| heterozygous | adj. | 杂合的 |
+| Homo sapiens | n. | 智人 |
+| mitochondria | n. | 线粒体 |
+| monophyletic | adj. | 单元的,单源的 |
+| obtuse angle | | 钝角 |
+| phospholipid | n. | 磷脂 |
+| phylogenetic | adj. | 系统发生的,动植物种类史的 |
+| polyphyletic | adj. | 多源的 |
+| prime number | n. | 质数,素数 |
+| synapomorphy | n. | 共源性状 |
+| acetylcholine | n. | 乙酰胆碱 |
+| biconditional | adj. | 双态的 |
+| breadth-first | | 宽度优先 |
+| circumference | n. | 周围;圆周 |
+| concatenation | n. | 一系列互相关联的事物 |
+| extrapolation | n. | 推断; 外推 |
+| factorization | n. | 因数分解 |
+| geometrically | adv. | 用几何学,几何学上 |
+| macromolecule | n. | 巨大分子,高分子 |
+| metamorphosis | n. | 变形; 改变 |
+| mitochondrion | n. | 线粒体 |
+| parallelogram | n. | 平行四边形 |
+| phylogenetics | n. | 系统发生学 |
+| psychometrics | n. | 心理测验学 |
+| recrystallize | v. | 再结晶 |
+| superposition | n. | 重叠,重合,叠合 |
+
+:::
+
+### From Atomic Nuclei to Living Cells: A Scientific Vocabulary Tour
+
+The **transmutation** of elements — the conversion of one atomic species into another — lies at the heart of nuclear physics. When unstable isotopes undergo **disintegration**, they emit particles and energy, a process also called radioactive decay. Scientists exploit **electromagnetic** radiation across a broad spectrum, from gamma rays that probe nuclear structure to radio waves that carry satellite signals. Small **microsatellite** orbiters, boosted into low Earth orbit by a **booster rocket**, now monitor climate, relay communications, and assist in navigation. The **virtualization** of computing resources allows a single physical machine to simulate many independent systems, streamlining the data pipelines that support space missions and ground-based research alike.
+
+In the life sciences, **photosynthesis** converts light energy into chemical energy stored in sugars, and **photosynthetic** organisms form the base of nearly every food web on Earth. Plants build structural carbohydrates from **polysaccharide** chains, while short **oligosaccharide** units serve as molecular tags on cell surfaces. **Lipopolysaccharide** molecules embedded in bacterial outer membranes can trigger powerful immune responses, prompting the production of **immunoglobulin** antibodies. The neurotransmitter **norepinephrine** regulates arousal and stress responses, linking biochemistry to behavior. **Phosphorylation** — the addition of a phosphate group to a protein — acts as a molecular switch that turns enzymatic activity on or off. Meanwhile, **oligonucleotide** probes are designed to bind specific DNA sequences, and **electrophoresis** separates DNA or protein fragments by size through a gel matrix under electric current.
+
+Chemists note that **monounsaturated** fatty acids contain exactly one double bond, a structural detail that influences how lipids pack together in cell membranes. The concept of **electronegativity** describes an atom's tendency to attract shared electrons, governing bond polarity across all molecular systems. **Hydrogen peroxide** is a widely studied oxidizing agent whose **disintegration** into water and oxygen can be catalyzed by enzymes. In geology, **age-deposition** processes record environmental history in sedimentary layers that a **paleontologist** reads like a timeline. The study of **identical twin** pairs provides natural experiments for separating genetic from environmental influences on traits. In statistics, a **correlation matrix** summarizes pairwise relationships among many variables, and a **geometric progression** describes sequences where each term is a fixed multiple of the previous one, appearing in models of population growth and signal amplification. A **closed-form solution** expresses such a sequence's sum in a single compact formula, while a **walter lieth diagram** plots temperature and precipitation on the same axes to characterize regional climates. The **dampening effect** of negative feedback loops — whether in control systems or ecosystems — prevents runaway oscillations and keeps processes stable. Finally, **authentication** protocols verify the identity of users and devices, and **bathtu b theorem** (a reliability engineering heuristic describing failure rates over a product's lifetime) reminds engineers that vigilance is needed at both the start and end of a system's operational life. Together, **disaggregation** of complex phenomena into measurable components, and careful **authentication** of data sources, remain foundational practices across every scientific discipline.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| transmutation | n. | 变化；变形；演变 |
+| age-deposition | — | 时效沉积 |
+| authentication | n. | 证明,鉴定 |
+| bathtuBtheorem | — | 浴缸定理 |
+| booster rocket | — | 助推火箭 |
+| disaggregation | n. | 崩溃,解体 |
+| disintegration | n. | 瓦解;崩溃; 裂变;蜕变 |
+| identical twin | n. | 同卵双生，全等双生 |
+| immunoglobulin | n. | 免疫血球素,免疫球蛋白 |
+| microsatellite | — | 微卫星 |
+| norepinephrine | n. | 降肾上腺素,去甲肾上腺素 |
+| paleontologist | n. | 古生物学者 |
+| photosynthesis | n. | 光合作用; 光能合成 |
+| photosynthetic | adj. | 光合的;促进光合作用的 |
+| polysaccharide | n. | 多糖；多聚糖 |
+| virtualization | — | 虚拟化 |
+| electromagnetic | adj. | 电磁的 |
+| electrophoresis | n. | 电泳疗法 |
+| monounsaturated | adj. | 单不饱和的 |
+| oligonucleotide | n. | 低核苷酸,寡核苷酸 |
+| oligosaccharide | n. | 低聚糖,寡糖 |
+| phosphorylation | n. | 磷酸化作用 |
+| Dampening effect | — | （阻尼/抑制效应） |
+| electronegativity | — | 阴电性;负电性;电负性 |
+| hydrogen peroxide | — | 过氧化氢 |
+| correlation matrix | — | 相关矩阵 |
+| lipopolysaccharide | n. | 脂多糖 |
+| closed-form solution | — | 封闭解；解析解 |
+| walter lieth diagram | — | 瓦尔特-利特气候图 |
+| geometric progression | n. | 等比级数 |
+
+:::
+
+### Patterns, Cells, and Numbers: A Scientific Miscellany
+
+Mathematics offers a language for describing the world. A **polynomial** expresses a quantity as a sum of powers, each scaled by a **coefficient**, while the ratio at the heart of a fraction is named by its **denominator**. Ancient geometers such as **Pythagoras** uncovered relationships among numbers that still anchor modern theory, and Einstein's theory of **relativity** later reshaped how physicists treat space and time. Statisticians measure how two variables move together through **correlation**, and when a process unfolds with inherent randomness they call it **stochastic**; to estimate uncertainty they may rely on **resampling**, drawing repeatedly from observed data. From a limited sample one can cautiously **extrapolate** to unobserved cases. The **cardinality** of a set counts its members, and computations spread over many machines are described as **distributed**. A spinning system shows a **centrifugal** tendency outward, and when opposing forces balance, it reaches **equilibrium**.
+
+Biology and chemistry supply their own vocabulary. Inside a plant cell, the **chloroplast** houses **chlorophyll**, the green pigment that captures light to **synthesize** sugars; a simple sugar is one kind of **saccharide**. Genetic information is stored in DNA, whose backbone contains **deoxyribose** and whose rungs pair a **pyrimidine** base with its complement, all packaged into **chromosomal** structures. When two alleles are both fully expressed, geneticists speak of **codominance**, and an organism carrying four chromosome sets is **tetraploid**. Some solids form orderly **crystalline** lattices, while a **surfactant** molecule lowers surface tension at a boundary. Pharmacologists have characterized many natural compounds, among them **psilocybin**, a substance found in certain fungi and studied in the laboratory. Organisms whose activity cycles several times a day are termed **polyphasic**, and a botanical specimen lacking a spur is described, in technical Latin, as **excalcarate**.
+
+Computing and the social sciences round out the survey. A programmer may **concatenate** two strings into one, or **encapsulate** related data and behaviour inside a single unit. Meanwhile a **demographer** studies how populations change — birth, migration, and age structure — turning messy human reality into measurable trends.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| polynomial | adj. | 多项式的,多词学名的; 多项式,由2字以上组成的学名 |
+| polyphasic | adj. | 多相的，一昼夜间活动和休息多次的 |
+| psilocybin | n. | 裸头草碱 |
+| pyrimidine | n. | 嘧啶 |
+| Pythagoras | n. | 毕达哥拉斯 |
+| relativity | n. | 〈物〉相对论; 相关性 |
+| resampling |  | 再取样;重采样;重取样 |
+| saccharide | n. | 糖类 |
+| stochastic | adj. | 随机的 |
+| surfactant | n. | 表面活性剂 |
+| synthesize | vt. | 综合, 使合成; 人工合成 |
+| tetraploid | adj. | 四倍体的 |
+| cardinality | n. | 集的势 |
+| centrifugal | adj. | 离心的 |
+| chlorophyll | n. | 叶绿素 |
+| chloroplast | n. | 叶绿体 |
+| chromosomal | adj. | 染色体的 |
+| codominance | n. | 共显性 |
+| coefficient | n. | 系数；率，程度；系数 |
+| concatenate | vt. | 把 联系起来; 连接的；联系在一起的 |
+| correlation | n. | 相互的关系 |
+| crystalline | adj. | 水晶的；似水晶的；结晶质的; 结晶性，结晶度 |
+| demographer | n. | 人口统计学家 |
+| denominator | n. | 分母 |
+| deoxyribose | n. | 去氧核醣 |
+| distributed | adj. | 分布的，分散的 |
+| encapsulate | vt. | 装入胶囊; 总结；扼要概括；囊括; 有囊包着的 |
+| equilibrium | n. | 平衡,均势; 平静 |
+| excalcarate | adj. | 无距的 |
+| extrapolate | vt. | 推算,推断 |
+
+:::

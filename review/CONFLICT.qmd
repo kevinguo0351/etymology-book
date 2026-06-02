@@ -1,0 +1,556 @@
+# 冲突·暴力·危险 {.unnumbered}
+
+
+
+> 本主题共 12 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+
+
+
+### The Night the City Burned
+
+The old **feud** between the two gangs had been simmering for years, each side nursing grudges like a slow **bane**. Then one Tuesday the **riot** erupted without warning. A **thug** in a grey hoodie lit the first match — **arson**, pure and deliberate — and the **bang** of shattering glass followed seconds later as a **bomb** gutted the corner pawnshop. Police received a **hoax** call that sent three cruisers to the wrong district, buying the mob precious minutes.
+
+On the rooftop across the street, a **spy** for the eastern crew watched through a scope, relaying positions by radio. Below, **foe** faced **foe** in the narrow alley. One man tried to **spar** with words first — a **spat** over territory that had lasted a decade — but the other answered with a blade and **stab**bed him through the shoulder, enough to **maim** without killing. The victim's scream was swallowed by another **bout** of gunfire as the western faction opened up with whatever **ammo** they had left.
+
+The city's response was swift but savage. A **raid** on the safehouse **rout**ed the remaining fighters; those who resisted were **stun**ned with flashbangs and dragged out. The gang's treasurer, long a **dupe** kept in the dark about the real operations, was **oust**ed from his own hideout and handed to investigators. Evidence showed the crew had used **barb**ed wire and **lash**es to enforce discipline internally — one member had been **slay**n for talking to a reporter. A junior lieutenant confessed to a **duel** that had escalated into something far uglier, a planned **rape** of an entire neighborhood's peace. The **fray** left seventeen injured and two dead.
+
+By dawn the city's **bust** economy had a new wound. The only ones who **rob**bed anything lasting from that night were the cameras — footage that would play on loop for weeks, turning every **terr**orist in the crowd into a face the city would never forget.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| foe | n. | 敌人, 仇敌 |
+| rob | vt. | 抢劫；使…丧失；非法剥夺 |
+| spy | vt. | 侦察；当间谍；间谍；密探 |
+| ammo | n. | 弹药；军火 |
+| bane | n. | 毒药；祸害；灭亡的原因 |
+| bang | n. | 猛击, 猛撞；巨响, 爆炸声 |
+| barb | vt. | 装倒钩于；箭头鱼钩等的倒钩；伤人的话 |
+| bomb | vt. | 轰炸，投弹于；炸弹 |
+| bout | n. | 较量；发作；回合；一阵 |
+| bust | vi. | 爆裂；破产；半身像；萧条 |
+| duel | n. | 决斗；斗争，抗争 |
+| dupe | n. | 上当者；易受骗的人；欺骗；愚弄 |
+| feud | n. | 不和；封地；争执；长期不和 |
+| fray | n. | 争论；打架；磨损处 |
+| hoax | n. | 恶作剧；戏弄 |
+| lash | vt. | 鞭打；摆动；扎捆；冲击；讽刺 |
+| maim | vt. | 使残废 |
+| oust | vt. | 剥夺；驱逐；取代 |
+| raid | n. | 袭击；突袭；搜捕；抢劫 |
+| rape | n. | 强奸，掠夺；葡萄渣；油菜 |
+| riot | n. | 暴乱, 骚乱；极度丰富；暴动 |
+| rout | vt. | 击溃；搜寻；溃败；暴动 |
+| slay | vt. | 杀害，杀死；使禁不住大笑 |
+| spar | n. | 圆材；不用力打, 试击；争论, 争吵 |
+| spat | n. | 蚝卵；口角；掌击；争吵 |
+| stab | vt. | 刺，扎；刺入，刺伤；刺痛 |
+| stun | vt. | 击晕, 打晕；使大吃一惊, 使震惊 |
+| terr | n. | 恐怖分子 |
+| thug | n. | 暴徒；恶棍；刺客 |
+| arson | n. | 纵火 |
+
+:::
+
+### 围城·黑帮·猎局
+
+The **cabal** had been planning for months. At its center stood a former **crook** turned arms broker who carried more **clout** in the underworld than any elected official dared admit. His network stretched from street-level **fraud** rings to shadowy factions rumored to have ties with the **Mafia** — and, if the intelligence files were accurate, even with **Hamas** and the remnants of a **Provo** cell gone dark years ago.
+
+The city felt it first. **Crack**s spiderwebbed across the old ceasefire. A police informant — nothing but a **dupe** lured in by promises of witness protection — vanished overnight; investigators found only a **snare** of false leads where his file used to be. **Decoy** vehicles began circling the district courthouse. Rival factions used **nukes**-grade blackmail material to **expel** the moderate voices from the negotiating table, leaving no one to **deter** the violence that followed. When the shooting started, it **smite** the neighborhood with the force of something almost biblical: storefronts **slashed** open, windows **smashed**, a food truck **smacked** sideways into a hydrant. Three people were **raped** in an alley the cameras no longer covered. Others were **punch**ed unconscious on their doorsteps, their assailants gone before a cry could echo.
+
+By the third day the city was under **siege**. Every **rebel** faction accused the others of **poach**ing turf and turning civilians into **dupes** for their supply runs. A **rival** commander was found **slain** in a parking garage, a **slash** across his throat still wet. The broker himself was **exile**d by his own lieutenants — pushed out quietly, the kind of quiet that is its own **curse**. The whole arrangement had become a **havoc** machine, and no lever remained to stop it. The **sting** of tear gas lingered in the air long after the last shot, a reminder that the only thing harder than surviving a war is explaining afterward who started it.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| cabal | n. | 阴谋；阴谋集团; 策划阴谋 |
+| clout | n. | 破布；敲打；影响力；靶心；大帽钉; 给…打补钉；猛击；用布擦 |
+| crack | vt. | 开裂, 破裂; 身体上或精神上垮掉; 打开, 砸开; 发出爆裂声; 裂缝, 缝隙 |
+| crook | n. | 弯拐杖; 弯曲部分；弯曲处; 骗子，恶棍，窃贼; 罪犯，犯人 |
+| curse | vt. | 诅咒；骂; 诅咒，咒语；骂人的话; 祸害，祸根 |
+| decoy | n. | 用于引诱某人落入圈套的人或物; 用诱饵诱骗落入圈套 |
+| deter | vt. | 制止，阻止；使打消念头 |
+| dupes | n. | 受骗的人; 欺骗 |
+| exile | vt. | 流放, 放逐, 使流亡; 被流放者, 流亡国外者 |
+| expel | vt. | 驱逐；开除 |
+| fraud | n. | 欺诈, 欺骗行为; 骗子 |
+| Hamas | n. | 伊斯兰抵抗运动 |
+| havoc | n. | 大破坏；浩劫；蹂躏; 严重破坏 |
+| Mafia | n. | 秘密政党；黑手党; 秘密犯罪集团 |
+| nukes | n. | 核发电站；核武器; 用核武器攻击；把…打垮 |
+| peril | n. | 危险；冒险; 危及；置…于险境 |
+| poach | vt. | 水煮；偷猎；窃取；把…踏成泥浆; 偷猎；侵犯；剽窃 |
+| Provo | n. | 北爱尔兰共和军临时派成员；青年无政府主义者 |
+| punch | vt. | 用拳猛击; 打孔; 猛击, 拳打; 力量 |
+| raped | | vbl. 强暴 |
+| rebel | n. | 反政府的人；反叛者；造反者; 叛逆者 |
+| rival | n. | 竞争对手; 与…竞争, 与…匹敌 |
+| siege | n. | 围攻；包围；围城；不断袭击；长期努力 |
+| slain | v. | 杀死 |
+| slash | v. | 砍，劈; 割破；在…上留下深长的切口; 大量削减 |
+| smack | vt. | 拍，打，掴; 掌掴；拍击; 直接地，准确地，恰好地 |
+| smash | n. | 破碎; 猛击；猛撞; 打碎；捣烂; 重击；打败 |
+| smite | vt. | 重击；毁灭；打；侵袭；使神魂颠倒 |
+| snare | n. | 陷阱；圈套；勒除器; 捕捉；诱惑 |
+| sting | n. | 刺痛；刺毛；讽刺，刺激; 驱使；刺；使…苦恼；使…疼痛 |
+
+:::
+
+### When Peace Breaks Down
+
+The **truce** had lasted barely a week. At dawn, a **hitman** hired by a rival faction slipped into the valley under cover of fog, armed not with a **cannon** but with something far quieter. He had been sent to **wreak** havoc before either side could **enlist** new fighters — to **ambush** the supply convoy before it reached the garrison. An **archer** posted on the ridge caught a glimpse of movement below and fired, but the **bullet** from a returning shot sent him tumbling from his perch, leaving a smoking **wreck** of timber and rope behind.
+
+By midday the fragile **breach** in the ceasefire had widened into open **combat**. A **conman** posing as a medic tried to **hijack** a field ambulance; when **compel**led at gunpoint to stop, he confessed he had been working for a **forger** who had spent months **foment**ing distrust between the two camps. Soldiers **assail**ed the forward post with a furious **swipe** of rifle butts and fists. Those who resisted under **duress** were dragged away; two junior officers were found to have been **vying** for the same commander's favour, and one had **usurp**ed the other's rank through blackmail and **extort**ion.
+
+The aftermath was uglier still. Reports surfaced of systematic **caning** of prisoners. A warlord had used the chaos to **abduct** three aid workers, holding them as **trump** cards in a negotiation nobody wanted. Investigators catalogued every **hazard** on site — unexploded ordnance, contaminated water, collapsed shelters — and noted a quiet epidemic of **theft** that had stripped the camp of medicines. One doctor, herself a victim of the violence, said the greatest **hurdle** was not the physical danger but the **incest**uous web of loyalties that made it impossible to **incite** even basic solidarity among survivors. Outside, the **hitman**'s handlers had already vanished, leaving no trail and no conscience.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| swipe | n. | 重击, 挥击; 抨击；尖锐的批评; & 重击, 挥击; 偷盗, 扒窃 |
+| theft | n. | 盗窃；偷；赃物 |
+| truce | n. | 休战；停战；休战协定; 以休战结束；停止争执; 停战 |
+| trump | n. | 王牌，将牌; 王牌；有效手段; 好人；靠得住的人; 喇叭，号筒；喇叭声; 出王牌赢; 吹号公告；吹号… |
+| usurp | vt. | 篡夺；霸占; 盗用; 篡夺；篡权 |
+| vying | adj. | 竞争的;竞赛的 |
+| wreak | vt. | 诉诸；施行；发；复仇 |
+| wreck | n. | 失事；残骸；破坏；失去健康的人; 破坏；使失事；拆毁; 失事；营救失事船只 |
+| abduct | vt. | 劫持；诱拐; 使外展; 绑架，拐骗，劫持; 绑架者，拐骗者，劫持者 |
+| ambush | n. | 埋伏; 伏击; 埋伏着的人, 伏兵; 设埋伏地点, 伏击处; 埋伏; 伏击; 埋伏; 埋伏着 |
+| archer | n. | 弓箭手 |
+| assail | vt. | 攻击；质问；着手解决 |
+| breach | n. | 破坏, 违反; 破裂, 不和; 缺口, 裂口; 攻破; 破坏, 违反 |
+| bullet | n. | 子弹；只选某党全部候选人的投票；豆子; 射出；迅速行进 |
+| caning | n. | 鞭打; 用笞杖打 |
+| cannon | n. | 加农炮, 大炮, 火炮; 与…猛撞 |
+| combat | vt. | 与…战斗；反对; 战斗；搏斗; 战斗；争论; 战斗的；为…斗争的 |
+| compel | vt. | 强迫, 使不得不 |
+| conman | n. | 骗子 |
+| duress | n. | 监禁；强迫 |
+| enlist | vi. | 从军；应募；赞助；支持; 征募；使入伍；谋取…的赞助或帮助 |
+| extort | vt. | 敲诈; 曲解 |
+| foment | vt. | 激起,煽动 |
+| forger | n. | 铁匠；伪造者 |
+| hazard | vt. | 尝试着做; 冒风险; 危险；公害 |
+| hijack | vt. | 劫持, 绑架; 拦路抢劫 |
+| hitman | n. | 职业杀手 |
+| hurdle | n. | 障碍；跳栏；栏; 克服; 克服；跳过 |
+| incest | n. | 乱伦 |
+| incite | vt. | 煽动；激励；刺激 |
+
+:::
+
+### Under Fire: A City in Chaos
+
+The coastal city had known **strife** for months. What began as quiet **unrest** — protests, curfews, whispered grievances — had collapsed into something far uglier. Armed **rebels** controlled three districts by dawn, and the government scrambled to **subdue** them before the situation hardened into **anarchy**.
+
+A **sniper** had taken position on the customs-house roof, his crosshairs **stifling** any attempt to advance along the waterfront. Two soldiers tried to **resist** the urge to rush forward; their sergeant ordered them into a shallow **trench** and told them to wait. Someone had clearly tried to **tamper** with the armored vehicle's brakes — a saboteur inside the wire, or perhaps a **snitch** working both sides. A **sleuth** from military intelligence was already on it, piecing together **trojan** malware planted in the base's communications relay the night before.
+
+Meanwhile, at the harbor, **piracy** was the other front. A known **pirate** crew had **kidnapped** a cargo officer and was demanding **ransom** before sunrise. The naval **patrol** boat closed in slowly, its commander careful not to let the kidnappers **muzzle** the negotiations by threatening the hostage. A single miscalculation — a **lethal** burst from the deck gun, a **napalm** drop called in too close — and the hostage was gone. The **menace** the pirates posed was real, but so was the danger of escalation.
+
+Back in the old quarter, an **outlaw** faction was trying to **scotch** the ceasefire talks by distributing weapons. Plain-clothes officers moved to **thwart** them, using **shields** to push through the crowd. One officer was **pummeled** against a wall; another watched a suspect **molest** a civilian to steal his phone, then **snitch** the address of a safe house to rivals across the street. The whole operation threatened to be **stymied** by the sheer speed of events — each move met by a countermove, the city a board no one was winning.
+
+By midday the **assault** on the government quarter was under way. Smoke, shouting, the crack of rifles. Whatever order remained was burning.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| kidnap | vt. | 绑架；诱拐；拐骗 |
+| lethal | adj. | 致命的，致死的；致死因子 |
+| menace | n. | 威胁；恐吓 |
+| molest | vt. | 调戏；骚扰；干扰 |
+| muzzle | n. | 枪口，炮口；口套，口络；动物的鼻口；使…缄默 |
+| napalm | n. | 凝固汽油；汽油胶化剂；凝固汽油弹 |
+| outlaw | n. | 歹徒，亡命之徒；宣布…为不合法 |
+| patrol | n. | 巡逻；巡逻队；侦察队 |
+| piracy | n. | 海盗行为；剽窃；著作权侵害；非法翻印 |
+| pirate | n. | 海盗；盗版；侵犯专利权者 |
+| pummel | vt. | 用拳头连续揍；打；击 |
+| ransom | vt. | 赎回，赎；勒索赎金；救赎；赎金 |
+| rebels | n. | 反叛者；谋反 |
+| resist | vt. | 抵抗；对抗；不屈从 |
+| scotch | vi. | 弄伤；制止转动；扑灭；镇压 |
+| shield | n. | 盾；防护物；保护者 |
+| sleuth | n. | 警犬；侦探 |
+| sniper | n. | 狙击兵 |
+| snitch | vi. | 告密；进行小偷小摸；告密者 |
+| stifle | vt. | 使窒息；扼杀；藏匿 |
+| strife | n. | 冲突；争吵；不和 |
+| stymie | n. | 妨碍；困难的处境；阻挠 |
+| subdue | vt. | 征服；抑制；减轻 |
+| tamper | vt. | 篡改；擅自改动；胡乱摆弄 |
+| thwart | vt. | 横过；反对；阻碍；挫败 |
+| trench | n. | 沟，沟渠；战壕；堑壕 |
+| trojan | n. | 特洛伊人；勤勉的人；勇士 |
+| unrest | n. | 动乱，骚乱，不安宁 |
+| anarchy | n. | 混乱；无秩序；无政府状态 |
+| assault | n. | 攻击；袭击 |
+
+:::
+
+### 烽火城下，罪与罚
+
+The **colonel** had spent a lifetime in **martial** service, yet nothing prepared him for the siege that now gripped the city. From the walls, he watched a **phalanx** of enemy soldiers advance under a relentless **barrage** of covering fire, their artillery **bombard**ing the outer fortifications without pause. His orders were clear: **fortify** every remaining gate and hold until the **militia** arrived. The men tightened their **holster**s, locked formation, and waited. A cluster of **missile**s screamed overhead; two **mishaps** with faulty fuses spared the eastern tower, though barely. When the breach finally came, soldiers on both sides began to **grapple** in the rubble — hand to hand, no quarter given. One defender was **impaled** on a broken pike; the wound the battle **inflict**ed on the garrison's morale was no less severe.
+
+By dawn, the enemy had **conquer**ed the lower district. The streets descended into **looting** and **larceny**, merchants stripped of everything they owned. Survivors who **contend**ed with armed gangs were dragged away as **hostage**s, while others — deemed **captive** by circumstance alone — were herded into makeshift pens. Organised **patrols** tried to restore order, but they were too few. A local warlord used the chaos to **oppress** rival clans, his lieutenants quick to **exploit** the power vacuum. Those who dared raise a **protest** were silenced by nightfall.
+
+Behind the lines, a subtler war unfolded. Forgers worked through the night: every document the occupation needed, they would **falsify**, each stamp and signature a fresh act of **forgery**. Agents set out to **defraud** the city's treasury, skimming relief funds meant for the displaced. A **burglar** who had slipped past the curfew was caught mid-job, his **misdeed** trivial against the crimes of those in uniform. A city-wide **manhunt** was launched for the ringleaders, though everyone understood the outcome — whatever victory the occupiers claimed would be **pyrrhic**, the cost in blood and trust far outweighing any ground gained.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| barrage | n. | 火力网；弹幕; 弹幕射击；阻拦射击; 河上的堰坝; 猛烈炮火,枪林弹雨; 火力攻击; 以密集火力攻击 |
+| bombard | vt. | 轰炸；炮击; 射石炮 |
+| burglar | n. | 夜贼，窃贼 |
+| captive | adj. | 被俘虏的；被迷住的; 俘虏；迷恋者 |
+| colonel | n. | 陆军上校 |
+| conquer | vt. | 攻克, 征服; 破除, 克服; 得胜 |
+| contend | vi. | 竞争；斗争；奋斗；争论; 主张；为...斗争 |
+| defraud | vt. | 诈取, 骗取 |
+| exploit | vt. | 开发，开拓；剥削；开采; 勋绩；功绩 |
+| falsify | vt. | 篡改；伪造; 弄虚作假；歪曲; 弄虚作假者；伪造者 |
+| forgery | n. | 伪造; 伪造的文件、签名等 |
+| fortify | vt. | 加强；的酒精含量；增强；设防于; 筑防御工事 |
+| grapple | vi. | 抓住；格斗；抓斗机; 抓住；与…格斗; 抓住；格斗 |
+| holster | n. | 手枪皮套 |
+| hostage | n. | 人质 |
+| impaled | vt. | 穿刺 |
+| inflict | vt. | 把…强加给, 使承受, 遭受 |
+| larceny | n. | 盗窃 |
+| looting | n. | 抢劫；洗劫，趁乱打劫; 打劫 |
+| manhunt | n. | 搜捕,追捕 |
+| martial | adj. | 战争的；军事的；尚武的 |
+| militia | n. | 民兵组织, 民兵 |
+| misdeed | n. | 违法行为,罪恶 |
+| mishaps | n. | 灾祸 |
+| missile | n. | 导弹; 投射物 |
+| oppress | vt. | 压迫，压抑；使……烦恼；使……感到沉重 |
+| patrols | n. | 巡逻队; 巡逻，巡查 |
+| phalanx | n. | 方阵；密集队形；趾骨，指骨 |
+| protest | n. | 抗议；反对; & 声明；抗议 |
+| pyrrhic | n. | 抑抑格；出征舞; 抑抑格的；出征舞的；付出极大代价而获得的 Pyrrhic比鲁斯王的 |
+
+:::
+
+### The City Burns
+
+The **warfare** had been grinding on for weeks, but that night the city finally broke. What began as a **quarrel** between two armed factions over a disputed checkpoint escalated within hours into full-scale **rioting**, with crowds surging through the narrow streets while government **corvette**s circled offshore, their searchlights sweeping the waterfront.
+
+By dawn, soldiers moved in to **repulse** the rioters, but the **atrocity** had already been done. They found a **bastille**-like detention centre near the docks whose guards had fled, its cells **battered** open from the outside. The freed prisoners scattered before anyone could determine who among them was a genuine political prisoner and who was merely a **suspect** in a pending **burglary** case. An **assassin** believed to have been **smuggle**d into the city three days earlier was still unaccounted for, and with so much **at stake** the security commander ordered his units to conduct **sorties** into every warehouse district.
+
+The chaos proved to be the **undoing** of the city's provisional governor. A **defector** from the eastern militia revealed, under what his captors called "enhanced questioning" — a euphemism for **torture** that made even hardened officers flinch — that a network of loyalists had been systematically working to **smother** any resistance. They had used **coercion** to silence witnesses, allowed a senior aide to **embezzle** military funds, and sheltered a **traitor** who had handed over the garrison's defence plans. The **calamity** was not accidental: it had been engineered. A squad was dispatched to **ransack** the governor's private offices and **seizure** orders were issued for his assets. Within the hour, soldiers moved to **chastise** the militia commanders who had permitted the breakdown, and military tribunals were convened to **trounce** the ringleaders publicly.
+
+The **conquest** of the old quarter took another two days. A small gang of **cannibal**-cult extremists, barely a dozen strong but capable of extraordinary violence, had **dominate**d a flooded basement shelter, **drowning** their captives if they refused to cooperate. They were finally cornered and subdued, leaving behind evidence of every **warfare**-era crime the prosecutors had feared most.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| quarrel | n. | 争吵，不和，口角; 抱怨…的原因; 争吵，争辩; 不同意；挑剔 |
+| ransack | vt. | 洗劫，掠夺；遍寻 |
+| repulse | vt. | 击退; 驳斥; 拒绝; 击败; 驳斥 |
+| rioting | n. | 暴乱,骚乱 |
+| seizure | n. | 夺取；捕获；没收 |
+| smother | vt. | 使窒息；闷熄；忍住；抑制; 窒息；被抑制；闷死; 窒息状态；令人窒息的浓烟 |
+| smuggle | vt. | 偷运, 私运, 走私; 不按规章地偷带 |
+| sorties | n. | 飞机出动架次；出击次数；突击队；突围; 突围 |
+| suspect | n. | 嫌疑犯; 不可信的；可疑的; 怀疑；猜想; 怀疑；猜想 |
+| torture | vt. | 折磨；拷问；歪曲; 拷问；折磨；歪曲 |
+| traitor | n. | 卖国贼;叛徒; 背叛者;背信弃义的人 |
+| trounce | vt. | 使大败,痛打,严惩; 呵斥,责骂 |
+| undoing | n. | 毁灭；取消；毁灭的原因; 解开；取消 |
+| warfare | n. | 战争, 战争状态 |
+| assassin | n. | 暗杀者, 行刺者; 暗杀十字军的穆斯林秘密团体成员 |
+| at stake | adj. | 在危险中,处于成败关头 |
+| atrocity | n. | 暴行；凶恶，残暴 |
+| bastille | n. | 城堡；牢狱 |
+| battered | adj. | 磨损的；弄垮的；破旧的；受到虐待的; 连续猛击；磨损 |
+| burglary | n. | 夜盗；夜盗行为; 入户行窃;入户盗窃罪 |
+| calamity | n. | 灾祸, 灾难 |
+| cannibal | n. | 食人者；吃同类的动物; 食同类的；吃人肉的；凶残的 |
+| chastise | vt. | 严惩 |
+| coercion | n. | 强迫；强制；高压政治；威压 |
+| conquest | n. | 攻取, 征服, 克服 |
+| corvette | n. | 轻巡洋舰；轻武装快舰 |
+| defector | n. | 背叛者；逃兵；叛离者 |
+| dominate | vt. | 支配；控制；占优势；在…中占主要地位; 处于支配地位；占优势 |
+| drowning | v. | 淹溺；淹没；浸没; 溺死; 溺水的 |
+| embezzle | vt. | 盗用；挪用；贪污 |
+
+:::
+
+### The Fortress Falls
+
+The old **fortress** had stood for centuries, but now its walls were **entrenched** with new danger. A **militant** faction had **enlisted** hundreds into its ranks, **regimenting** them under a ruthless chain of command. At the top sat a **sergeant** whose orders were carried out without question — suspects were dragged in **manacles** through the courtyard and **tortured** for intelligence. The **infantry** advanced at dawn, and the first **skirmish** broke out before sunrise. A **landmine** buried beneath the road claimed the first **fatality** of the day; the **headshot** that killed the sentry moments later was the second. What began as a border **flare-up** had spiraled into open **homicide** on a mass scale — some already whispered the word **genocide**.
+
+Behind the lines, a **saboteur** had **tampered** with the army's radio network, **spoofing** command frequencies to sow confusion. His handler used **intrigue** and **hoodwink**ed junior officers into leaking troop positions, putting the entire operation in **jeopardy**. When the general finally discovered the breach, he moved swiftly to **suppress** the leak: the **sabotage** had gone far enough. The **saboteur** was caught, **executed** before dusk, his fate a **tactical** warning to anyone else who might **encroach** on what the command considered sacred ground.
+
+By nightfall, those who had **vanquish**ed the outer perimeter stood among the **trenches**, staring at the smoldering ruin. The **massacre** was over. The war, everyone knew, was not.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| encroach | vi. | 侵犯；侵占；侵害; 妨碍; 逐渐遍布 |
+| enlisted | adj. | 应募入伍的; 征募；参军 |
+| entrench | vt. | 用壕沟围绕或保护…; 牢固地确立…; 壕沟；防御设施 |
+| executed | v. | 履行; 已执行的；已生效的 |
+| fatality | n. | 致命性；死亡；不幸；灾祸；宿命 |
+| flare-up | n. | 火焰、光等的骤发,骤燃,怒气的发作,昙花一现式的出名,喧笑 |
+| fortress | n. | 要塞；堡垒; 筑要塞；以要塞防守 |
+| genocide | n. | 种族灭绝；灭绝整个种族的大屠杀 |
+| headshot | | 拍摄头部 |
+| homicide | n. | 杀人；杀人犯 |
+| hoodwink | vt. | 欺骗；遮眼；蒙蔽 |
+| infantry | n. | 步兵；步兵团 |
+| intrigue | vi. | 搞阴谋诡计; 激起…的好奇心; 密谋策划, 阴谋; 阴谋, 诡计 |
+| jeopardy | n. | 危险；危险境地 |
+| landmine | n. | 地雷 |
+| manacles | n. | 镣铐；手铐; 给…带上手铐；束缚 |
+| massacre | vt. | 残杀；彻底击败; 大屠杀；惨败 |
+| militant | adj. | 好战的; 富有战斗性的人；好斗者 |
+| regiment | vt. | 把…编成团；严格地管制; 团；大量 |
+| sabotage | vt. | 妨害；对…采取破坏行动; 从事破坏活动; 破坏；怠工；破坏活动 |
+| saboteur | n. | 从事破坏活动者；怠工者，破坏者 |
+| sergeant | n. | 军士；警察小队长；海军陆战队中士；高等律师 |
+| skirmish | n. | 小规模战斗；小冲突 |
+| spoofing | n. | 电子欺骗；哄骗; 哄骗；戏弄；嘲讽 |
+| suppress | v. | 镇压；制止；压制；平定; 禁止；查禁；封锁; 抑制；控制；忍住; 压制；阻止；抑制 |
+| tactical | adj. | 战术的；策略的；善于策略的 |
+| tampered | v. | 干扰；玩弄 |
+| tortured | v. | 拷打；使扭曲；虐待 |
+| trenches | n. | 战壕地带，壕沟地带；战壕; 挖战壕于…；切开 |
+| vanquish | vt. | 征服，战胜; 克服；抑制 |
+
+:::
+
+### The Long War's Shadow
+
+The **guerrilla** cell had been active for months, each strike calculated to **devastate** civilian infrastructure without triggering a full military response. Their **adversary**—a coalition of regional powers—had grown weary from **attrition**, its **battalion**s stretched thin across three contested corridors. When **Hezbollah** operatives were found to be in **collusion** with a local smuggling network, intelligence chiefs went **ballistic**, demanding that field agents **apprehend** every known **contender** for cell leadership before dawn.
+
+The operation was anything but clean. A van carrying a **homicidal** enforcer rammed a checkpoint in what investigators later called an intentional **collision**; the **explosion** that followed leveled half a block, leaving survivors in a **hazardous** fog of smoke and debris. Two officers caught in the blast were held **in chains** in a basement safe house, their **captivity** designed to **implicate** a rival faction and sow **hostility** between allies. **Espionage** files recovered on-site revealed a years-long **hijacking** of aid convoys—textbook **extortion** dressed up as logistics.
+
+Back in the capital, the **bickering** among ministers had crossed into open **militancy**, with one faction threatening **blackmail** over leaked budget records. A senior official under **detention** agreed to cooperate only after prosecutors promised to limit the charges against him. Investigators were still untangling who had helped **instigate** the original uprising and who bore responsibility for the **brutality** documented in field reports—footage that some officials feared could be spun into propaganda for the next **holocaust** narrative. Every new **intrusion** into the archive, every unauthorized download, narrowed the window for a negotiated exit before the entire peace process collapsed under the weight of its own secrets.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| adversary | n. | 对手, 敌手 |
+| apprehend | vt. | 逮捕, 拘押; 理解 |
+| attrition | n. | 消耗；消磨，磨损; 摩擦; 不彻底的忏悔 |
+| ballistic | adj. | 发射的;弹道的; 衡量冲击强度的; 大怒； 暴跳如雷 |
+| battalion | n. | 一营; 协同作战的部队;军队; 队伍 |
+| bickering |  | 争吵 |
+| blackmail | n. | 敲诈, 勒索 |
+| brutality | n. | 残忍,野蛮,粗暴; 暴虐行为,野蛮行为 |
+| captivity | n. | 被俘，拘禁，囚禁；束缚 |
+| collision | n. | 碰撞, 冲突, 抵触 |
+| collusion | n. | 共谋,勾结,串通 |
+| conscript | v. | 征募；征召; 应征入伍者 |
+| contender | n. | 争夺者;竞争者 |
+| detention | n. | 拘留, 扣押; 监禁 |
+| devastate | vt. | 毁坏；使荒芜; 在感情上压垮 |
+| espionage | n. | 谍报活动; 间谍行为 |
+| explosion | n. | 爆炸；爆发; 激增，扩大 |
+| extortion | n. | 敲诈，勒索，逼取；被勒索的财物; 敲诈者，勒索者，逼取者 |
+| guerrilla | n. | 游击队员 |
+| hazardous | adj. | 冒险的,有危险的; 冒险地,有危险地; 冒险,危险 |
+| Hezbollah | n. | 真主党 |
+| hijacking | n. | 劫机 |
+| holocaust | n. | 大屠杀 |
+| homicidal | adj. | 杀人的,行凶的,有杀人嗜好的,杀气腾腾的 |
+| hostility | n. | 敌意, 敌对状态; 战争行动, 战斗 |
+| implicate | vt. | 牵连, 涉及 |
+| in chains | adv. | 在囚禁中 |
+| instigate | vt. | 使开始或发生；鼓动 |
+| intrusion | n. | 闯入；打扰; 干扰，干涉 |
+| militancy | n. | 战斗性,交战状态 |
+
+:::
+
+---
+
+**漏词检查备注：** `conscript` 在文件中存在但未出现在正文里——以下补入第一段末尾的修订版：
+
+将第一段最后一句改为：*…intelligence chiefs went **ballistic**, demanding that field agents **apprehend** every known **contender** for cell leadership and **conscript** local informants before dawn.* 如需整段重排请告知。
+
+### The City Before It Fell
+
+The **warmonger** general had spent a decade **undermining** the fragile peace, issuing one **ultimatum** after another until the capital's nerve broke. On the night the **rebellion** finally ignited, **bootleggers** and **racketeers** moved freely through the chaos, replenishing **ammunition** caches hidden beneath market stalls. The regime's soldiers, stripped of every moral **safeguard**, began to **slaughter** anyone they found near the checkpoints — yet the crowds kept surging, driven by a hunger for **vengeance** too long deferred.
+
+By dawn the **spearhead** of the insurgency had punched through the northern gate. **Thrashing** the garrison unit in a brutal **scrimmage** outside the courthouse, rebel fighters seized the armory with such speed that the defenders had no time to call in air support. Officers who chose not to **surrender** fled into the old quarter and pulled on civilian **camouflage**, hoping informants would not betray them. Meanwhile, handlers who had once helped the regime **surveil** dissidents now faked new identities, deleting files and **tampering** with surveillance logs to erase their records.
+
+The international observers who arrived at the first **checkpoint** documented every **violation** they could reach: the **torturing** of prisoners in basement cells, the systematic **pilferage** of food and medicine from aid convoys, the **vandalism** of hospitals and schools that bore the scars of deliberate shelling. **Pedophiles** embedded in the militia had used the cover of war to operate unchallenged. **Accomplices** inside the civil service had quietly **persecuted** ethnic minorities for years. **Smuggling** networks — run by the same **racketeers** who had armed both sides — were already adapting, rerouting their operations before the ceasefire ink was dry.
+
+The general, cornered in the palace, issued one last broadcast: he would **retaliate** against any force that crossed the inner wall. His **accomplice** beside him — a man long known to **overthrow** inconvenient legal processes — rehearsed the speech twice before the cameras rolled. **Watch out**, a young interpreter whispered to her colleague; the **truncheon** blows they had taken at the earlier rally had taught them both that words here still carried real weight.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| overthrow | vt. | 打倒；推翻；使终止；结束 |
+| pedophile | n. | 恋童癖者 |
+| persecute | vt. | 迫害；困扰；同…捣乱 |
+| pilferage | n. | 行窃，偷盗 |
+| racketeer | n. | 干非法勾当者，骗子 |
+| rebellion | n. | 叛乱；反抗；谋反；不服从 |
+| retaliate | vi. | 报复，反击 |
+| safeguard | n. | 防护措施，安全设施；保护；保卫 |
+| scrimmage | n. | 混战，并列争球 |
+| slaughter | vt. | 屠杀，杀戮；屠宰 |
+| smuggling | n. | 走私；偷运 |
+| spearhead | n. | 先锋，先头部队；当…的先锋，带头 |
+| surrender | vt. | 投降；放弃；抛弃 |
+| surveille | vt. | 使受监视，对…实施监视 |
+| tampering | — | 干预；篡改 |
+| thrashing | n. | 打，殴打；大败，惨败 |
+| torturing | — | 拷问的；使受苦的；使痛苦的 |
+| truncheon | n. | 警棍；棍子；官杖；权杖 |
+| ultimatum | n. | 最后通牒；最后结论；基本原理 |
+| undermine | vt. | 在某物下挖洞或挖通道；暗中破坏；逐渐削弱 |
+| vandalism | n. | 肆意破坏公物等德行 |
+| vengeance | n. | 复仇；报仇；报复 |
+| violation | n. | 违反，冒犯，侵害；强奸 |
+| warmonger | n. | 战争贩子 |
+| watch out | — | 小心；提防 |
+| accomplice | n. | 从犯，帮凶，同谋 |
+| ammunition | n. | 弹药，军火 |
+| bootlegger | n. | 酿私酒者，走私贩 |
+| camouflage | n. | 伪装；隐藏；掩藏；保护色；掩饰手段 |
+| checkpoint | n. | 检查站，车站的行李房 |
+
+:::
+
+### When the Smoke Clears
+
+The **conspiracy** had been forming for months in the city's underbelly — a web of **complicity** so thick that even seasoned **gangbuster**s struggled to untangle it. At its center stood a **tyrannical** crime lord who **intimidate**d witnesses, **perpetrate**d extortion, and relied on a network of **conspirator**s to keep his operations invisible. His lieutenants dealt in **counterfeit** documents, **clandestine** meetings, and **fraudulent** contracts that bled the city's treasury dry.
+
+The **insurgency** his rivals launched against him triggered open **belligerent** street conflict. The first night of fighting brought **bombardment** of two rival warehouses — fire **smothering** the exits before anyone inside could flee. Whole neighborhoods faced the **disruption** of supply lines and communications; local infrastructure was nearly **obliterate**d in the crossfire. A **catastrophe** seemed inevitable as each faction threatened to **cannibalize** the other's turf, stripping it bare of anything useful. One **altercation** in the market square left three men dead and **jeopardize**d a fragile ceasefire the district council had spent weeks negotiating. A **subversive** pamphlet, found scattered across the rubble, accused the council itself of **appeasement** — choosing cowardice over justice.
+
+It fell to an **undercover** detective to **transgress** the syndicate's inner circle. Working alone, she exposed the **oppression** the crime lord imposed through debt and **confinement** — holding debtors in basement cells until their families paid. She caught his chief **persecutor** **red-handed**, mid-operation, filing a **preemptive** raid report to corrupt officers before she could act. Her **contention** — that dismantling the network required prosecuting every link in the chain, not just the top — finally prevailed. When the arrests came, they were swift and total, leaving no room for the syndicate to regroup.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| complicity | n. | 合谋, 串通 |
+| conspiracy | n. | 阴谋, 密谋 |
+| contention | n. | 竞争, 争夺; 争论, 争执; 论点, 主张 |
+| disruption | n. | 中断,分裂,瓦解,破坏 |
+| fraudulent | adj. | 欺骗的,不诚实的; 欺骗地 |
+| gangbuster | n. | 〈美口〉侦破团伙者,扫荡流氓的执法者 |
+| insurgency | n. | 叛乱,叛乱状态 |
+| intimidate | vt. | 恐吓, 威胁 |
+| jeopardize | vt. | 危及, 损害 |
+| obliterate | vt. | 除去；涂去；擦掉; 彻底破坏或毁灭 |
+| oppression | n. | 压迫手段；压抑；沉闷；镇压；苦恼 |
+| perpetrate | vt. | 犯,作,做 |
+| persecutor | n. | 迫害者 |
+| preemptive | adj. | 先发制人的; 先买的;有先买权的 |
+| red-handed | adj. | 现行犯的,正在作案的; 手染血的; 在犯罪现场,当场; 手染血地; 当场抓住某人；现场捕获 |
+| smothering | | 封闭灭火 |
+| subversive | adj. | 破坏性的；从事颠覆的; 危险分子；颠覆分子 |
+| transgress | vt. | 超越，越过；违反，违背; 做坏事；道德败坏，违反道德；犯法 |
+| tyrannical | adj. | 暴君的,暴君似的; 专制的；专横的 |
+| undercover | adj. | 暗中进行的;秘密做出的;私下的; 做密探工作的 |
+| altercation | n. | 争执 |
+| appeasement | n. | 平息;缓和;满足;姑息; 姑息政策;绥靖主义 |
+| belligerent | adj. | 交战的；卷入冲突的; 好战的，挑起战争的; 交战的一方 |
+| bombardment | n. | 炮击；轰炸 |
+| cannibalize | v. | 吃同类的肉,拆用…的配件,调拨…的人员 吃人肉,拆用配件,调拨人员 |
+| catastrophe | n. | 灾祸, 灾难 |
+| clandestine | adj. | 秘密的,保密的,暗中的; 秘密地,暗中地; 暗中,私下 |
+| confinement | n. | 限制,被监禁; 分娩 |
+| conspirator | n. | 共谋者,阴谋家 |
+| counterfeit | n. | 仿制品, 伪造物 |
+
+:::
+
+### Under Siege
+
+The city had been under **surveillance** for weeks before the **confrontation** erupted. A **conspiratorial** network — funded through **embezzlement** of public relief funds — had spent months preparing. Their **premeditation** showed in every detail: safe houses, false papers, **counterfeits** of official passes.
+
+The **provocateur** at the center of the plot was a veteran of **infiltration** operations, skilled at spreading **provocation** until ordinary men raised their fists. His methods relied on **intimidation** rather than open force, tightening a **stranglehold** on the district's leadership before anyone noticed the **entanglement**. Charges of **misdemeanor** were his preferred camouflage; the graver work — **persecution** of dissenters, the quiet **exploitation** of the desperate — was buried beneath layers of **disobedience** blamed on rival factions.
+
+When the authorities finally moved, the ring's **perpetrator** tried to **outmaneuver** them using **strategical** withdrawals through the port's **minesweeping** lanes, counting on **obstruction** at every checkpoint to buy time. But the **retaliation** came fast. Courts documented each **transgression**, from juvenile **delinquency** recruited into the network, to the attempted **assassination** of a magistrate, to the wholesale **destruction** and **devastation** left in the wake of the final raid. The accused offered **repudiation** of every charge; the evidence offered **anti-Semitic** pamphlets, weapons caches, and a paper trail of **draft dodger** payments that made denial impossible. What had begun as a shadowy **exploitation** scheme ended in the most complete legal reckoning the district had seen in a generation.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| delinquency | n. | 不法行为；少年罪犯; 过失，罪过 |
+| destruction | n. | 破坏, 毁灭, 消灭 |
+| devastation | n. | 毁灭;破坏 |
+| misdemeanor | n. | 不法行为; 轻罪,小罪 |
+| obstruction | n. | 障碍物，阻碍物；阻碍，阻挠; 故意妨碍议案通过; 故意妨碍议案通过者; 护栏 |
+| outmaneuver | v. | 以策略制胜,以机动性胜过 |
+| perpetrator | n. | 做坏事者;犯罪者; 加害者;行凶者 |
+| persecution | n. | 迫害或受迫害 |
+| provocateur | n. | 奸细，内奸；破坏分子，煽动者 |
+| provocation | n. | 挑衅;激怒;刺激; 愤怒的原因;激怒人的事 |
+| repudiation | n. | 拒绝;否认;断绝关系;抛弃 |
+| retaliation | n. | 报复；反击 |
+| strategical | adj. | 战略的 |
+| anti-Semitic | adj. | 反对犹太人的,排犹的 |
+| counterfeits | | 伪造品 |
+| disobedience | n. | 不服从，违抗；违反 |
+| draft dodger | n. | 逃兵役者 |
+| embezzlement | n. | 盗用,挪用 |
+| entanglement | n. | 瓜葛;牵连;纠缠;缠住 |
+| exploitation | n. | 开发;开采；开拓; 利用; 剥削; 广告推销 |
+| infiltration | n. | 渗透 |
+| intimidation | n. | 恫吓，恐吓；胁迫 |
+| minesweeping | n. | 扫雷 |
+| stranglehold | n. | 勒颈; 压制，束缚；严格控制 |
+| surveillance | n. | 盯梢, 监视 |
+| assassination | n. | 暗杀 |
+| confrontation | n. | 对抗, 对抗的事物 |
+| premeditation | n. | 预谋；预先设想 |
+| transgression | n. | 犯罪；违反；海侵；逸出 |
+| conspiratorial | adj. | 阴谋的,阴谋者的 |
+
+:::
+
+### When the City Turns Dangerous
+
+The investigation had been months in the making. Authorities suspected a mid-level official of **misappropriating** public defense funds — quietly siphoning money meant for the city's security infrastructure. Before any arrest could be made, the task force launched a covert **reconnaissance** of his known associates, mapping warehouses and safe houses on the waterfront where **drug trafficking** networks operated under the cover of shipping logistics.
+
+Then things turned ugly. Someone inside the unit leaked the operation. The official's allies moved swiftly to **screw the lead detective over**, planting forged records and launching a vicious **smear campaign** against her in the press. She had expected retaliation — **whistleblowing** never came without a cost — but the speed and viciousness of it still caught her off guard. For weeks she **was subjected to** anonymous threats, surveillance, and public humiliation.
+
+Down at the harbor, the network's recruiters worked a different angle. They would **lure wayward sailors** — men adrift, broke, and desperate — into the operation with promises of easy money, cycling them into courier routes before the men even understood what they had signed on to. The youngest catches were barely teenagers, their cases eventually handed off to a juvenile court already overwhelmed with **juvenile delinquency** filings from the same neighborhoods.
+
+The city's rot ran deep, and everyone who tried to cut it out bore the scars.
+
+::: {.callout-note collapse="true"}
+## 本篇生词
+
+| 词 | 词性 | 释义 |
+|---|---|---|
+| misappropriate | vt. | 不正确地使用；挪用，侵吞; 盗用 |
+| reconnaissance | n. | 侦察或观测;巡逻队、飞行队等 |
+| screw you over | | |
+| smear campaign | | |
+| whistleblowing | | 告密,揭发 |
+| be subjected to | | 使经受, 使遭受 |
+| drug trafficking | | 毒品走私；贩毒 |
+| lure wayward sailor | | |
+| juvenile delinquency | | 少年违法犯罪 |
+
+:::
