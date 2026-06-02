@@ -1,5 +1,5 @@
-# 词根解码 (etymology-book)
-
+# 词根解码 (etymology-book) 
+https://kevinguo0351.github.io/etymology-book/
 用构词法（词根 + 词缀 + 词源故事 + 语境）快速扩充英语**阅读/被动词汇**的 Quarto 书。
 
 - 目标读者：词汇量 ~9k、想高效啃下学术/科技长尾词的中文母语者。
