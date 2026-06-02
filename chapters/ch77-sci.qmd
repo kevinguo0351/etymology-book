@@ -1,4 +1,4 @@
-# sci —— "知道"
+# 第77章　sci —— "知道"
 
 ::: {.root-banner}
 `sci` = to know 知道、认知

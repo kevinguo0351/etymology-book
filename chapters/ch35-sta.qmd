@@ -1,4 +1,4 @@
-# sta / stat / sist —— "站·立·稳"
+# 第35章　sta / stat / sist —— "站·立·稳"
 
 ::: {.root-banner}
 `sta` · `stat` · `sist` = to stand, to make stand 站立、使站稳

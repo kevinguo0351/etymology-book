@@ -1,4 +1,4 @@
-# dict / dic / dit —— "说"
+# 第5章　dict / dic / dit —— "说"
 
 ::: {.root-banner}
 dict · dic · dit = to say, to tell 说、宣告

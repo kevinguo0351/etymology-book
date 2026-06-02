@@ -1,4 +1,4 @@
-# micro / macro —— "小·微 与 大·宏"
+# 第30章　micro / macro —— "小·微 与 大·宏"
 
 ::: {.root-banner}
 micro · macro = small / large 小·微 / 大·宏

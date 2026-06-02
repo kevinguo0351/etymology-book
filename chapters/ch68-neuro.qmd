@@ -1,4 +1,4 @@
-# neuro / neur —— "神经"
+# 第68章　neuro / neur —— "神经"
 
 ::: {.root-banner}
 neuro · neur = nerve, sinew 神经；筋腱

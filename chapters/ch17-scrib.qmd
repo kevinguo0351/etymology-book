@@ -1,4 +1,4 @@
-# scrib / script —— "写"
+# 第17章　scrib / script —— "写"
 
 ::: {.root-banner}
 scrib · script = to write 书写、刻写

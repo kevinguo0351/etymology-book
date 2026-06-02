@@ -1,4 +1,4 @@
-# auto —— "自己·自动"
+# 第26章　auto —— "自己·自动"
 
 ::: {.root-banner}
 auto = self, one's own 自己；自发的

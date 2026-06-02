@@ -1,4 +1,4 @@
-# photo / phot —— "光"
+# 第24章　photo / phot —— "光"
 
 ::: {.root-banner}
 photo · phot = light 光

@@ -1,4 +1,4 @@
-# sequ / secut —— "跟随"
+# 第71章　sequ / secut —— "跟随"
 
 ::: {.root-banner}
 sequ · secut = to follow 跟随、追随

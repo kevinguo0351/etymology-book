@@ -1,4 +1,4 @@
-# clud / clus / clos —— "关·闭"
+# 第45章　clud / clus / clos —— "关·闭"
 
 ::: {.root-banner}
 clud · clus · clos = to close, to shut 关闭、封锁

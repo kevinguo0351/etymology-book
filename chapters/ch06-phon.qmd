@@ -1,4 +1,4 @@
-# phon / phone —— "声·音"
+# 第6章　phon / phone —— "声·音"
 
 ::: {.root-banner}
 phon · phone = sound 声音

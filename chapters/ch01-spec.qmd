@@ -1,4 +1,4 @@
-# spec / spect / spic —— "看"
+# 第1章　spec / spect / spic —— "看"
 
 ::: {.root-banner}
 spec · spect · spic = to look 看

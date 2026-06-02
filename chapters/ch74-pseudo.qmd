@@ -1,4 +1,4 @@
-# pseudo / pseud —— "假·伪"
+# 第74章　pseudo / pseud —— "假·伪"
 
 ::: {.root-banner}
 pseudo · pseud = false, counterfeit 假的、伪造的

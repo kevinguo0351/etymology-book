@@ -1,4 +1,4 @@
-# phys / physi —— "自然·身体"
+# 第50章　phys / physi —— "自然·身体"
 
 ::: {.root-banner}
 phys · physi = nature; body; growth 自然；身体；生长

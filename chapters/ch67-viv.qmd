@@ -1,4 +1,4 @@
-# vit / viv —— "生命·活"
+# 第67章　vit / viv —— "生命·活"
 
 ::: {.root-banner}
 `vit` · `viv` = *life, alive* 生命；活着

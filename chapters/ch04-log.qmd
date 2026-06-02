@@ -1,4 +1,4 @@
-# log / logy —— "言·说·学科·理性"
+# 第4章　log / logy —— "言·说·学科·理性"
 
 ::: {.root-banner}
 `log` · `logy` = word, reason, study 言语·理性·学科

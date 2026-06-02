@@ -1,4 +1,4 @@
-# vert / vers —— "转·向"
+# 第31章　vert / vers —— "转·向"
 
 ::: {.root-banner}
 vert · vers = to turn 转动；转向

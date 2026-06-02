@@ -1,4 +1,4 @@
-# cardi / cardio —— "心"
+# 第70章　cardi / cardio —— "心"
 
 ::: {.root-banner}
 cardi · cardio = *heart* 心、心脏

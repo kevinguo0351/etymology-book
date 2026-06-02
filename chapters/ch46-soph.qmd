@@ -1,4 +1,4 @@
-# soph —— "智慧·聪明"
+# 第46章　soph —— "智慧·聪明"
 
 ::: {.root-banner}
 `soph` = wise, wisdom 智慧，聪明

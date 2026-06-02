@@ -1,4 +1,4 @@
-# scope / scop —— "看·观察·范围"
+# 第8章　scope / scop —— "看·观察·范围"
 
 ::: {.root-banner}
 `scope` · `scop` = *to look, to watch* 看，观察，范围

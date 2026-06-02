@@ -1,4 +1,4 @@
-# duc / duct —— "引导·带领"
+# 第7章　duc / duct —— "引导·带领"
 
 ::: {.root-banner}
 `duc` · `duct` = to lead, to draw 引导，带领

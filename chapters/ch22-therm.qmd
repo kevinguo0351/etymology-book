@@ -1,4 +1,4 @@
-# therm / thermo —— "热·温"
+# 第22章　therm / thermo —— "热·温"
 
 ::: {.root-banner}
 therm · thermo = heat 热、温度

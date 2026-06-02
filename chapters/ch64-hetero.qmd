@@ -1,4 +1,4 @@
-# hetero / homo —— "异 与 同"
+# 第64章　hetero / homo —— "异 与 同"
 
 ::: {.root-banner}
 hetero = different 不同；另一个 · homo = same 相同；相似

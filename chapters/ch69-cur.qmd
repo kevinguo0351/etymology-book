@@ -1,4 +1,4 @@
-# cur / curs / cours —— "跑"
+# 第69章　cur / curs / cours —— "跑"
 
 ::: {.root-banner}
 `cur` · `curs` · `cours` = *to run* 跑、流动、行进

@@ -1,4 +1,4 @@
-# nom / nomy —— "法·序·管理"
+# 第34章　nom / nomy —— "法·序·管理"
 
 ::: {.root-banner}
 nom · nomy = law, order, management 法则、秩序、管理

@@ -1,4 +1,4 @@
-# vid / vis —— "看·见"
+# 第39章　vid / vis —— "看·见"
 
 ::: {.root-banner}
 `vid` · `vis` = to see 看，见

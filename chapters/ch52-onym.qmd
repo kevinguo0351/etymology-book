@@ -1,4 +1,4 @@
-# onym / nym —— "名"
+# 第52章　onym / nym —— "名"
 
 ::: {.root-banner}
 onym · nym = name 名字；名称

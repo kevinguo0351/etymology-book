@@ -1,4 +1,4 @@
-# hyper / hypo —— "上·过 与 下·不足"
+# 第62章　hyper / hypo —— "上·过 与 下·不足"
 
 ::: {.root-banner}
 hyper · hypo = over / under 过度 · 不足

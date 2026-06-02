@@ -1,4 +1,4 @@
-# graph / gram —— "写、画、记录"
+# 第2章　graph / gram —— "写、画、记录"
 
 ::: {.root-banner}
 graph · gram = to write / draw / record 写、画、记

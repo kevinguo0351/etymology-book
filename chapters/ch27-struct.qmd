@@ -1,4 +1,4 @@
-# struct / stru —— "建·造·堆叠"
+# 第27章　struct / stru —— "建·造·堆叠"
 
 ::: {.root-banner}
 struct · stru = to build, pile up 建造、堆叠

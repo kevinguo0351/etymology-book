@@ -1,4 +1,4 @@
-# derm / dermato —— "皮"
+# 第66章　derm / dermato —— "皮"
 
 ::: {.root-banner}
 derm · dermato = skin 皮肤；皮层

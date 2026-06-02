@@ -1,4 +1,4 @@
-# tract / trac / treat —— "拉·拽"
+# 第15章　tract / trac / treat —— "拉·拽"
 
 ::: {.root-banner}
 tract · trac · treat = to draw, to pull 拉、拽、牵引

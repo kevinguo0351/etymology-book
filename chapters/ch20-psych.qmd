@@ -1,4 +1,4 @@
-# psych / psycho —— "心灵·精神"
+# 第20章　psych / psycho —— "心灵·精神"
 
 ::: {.root-banner}
 psych · psycho = soul, mind 灵魂；心灵；精神

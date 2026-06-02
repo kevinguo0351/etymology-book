@@ -1,4 +1,4 @@
-# phil / phile —— "爱·喜好"
+# 第28章　phil / phile —— "爱·喜好"
 
 ::: {.root-banner}
 phil · phile = love, fondness 爱，喜好

@@ -1,4 +1,4 @@
-# anthrop —— "人·人类"
+# 第36章　anthrop —— "人·人类"
 
 ::: {.root-banner}
 `anthrop` = *human being* 人，人类

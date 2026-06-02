@@ -1,4 +1,4 @@
-# tele —— "远·距离"
+# 第32章　tele —— "远·距离"
 
 ::: {.root-banner}
 tele = *far, at a distance* 远，距离

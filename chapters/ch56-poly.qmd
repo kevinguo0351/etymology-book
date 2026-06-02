@@ -1,4 +1,4 @@
-# poly —— "多"
+# 第56章　poly —— "多"
 
 ::: {.root-banner}
 `poly` = many, much 多；许多

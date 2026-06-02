@@ -1,4 +1,4 @@
-# bio —— "生命·活的"
+# 第12章　bio —— "生命·活的"
 
 ::: {.root-banner}
 `bio` = life 生命

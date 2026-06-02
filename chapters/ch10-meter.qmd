@@ -1,4 +1,4 @@
-# meter / metr —— "测量·尺度"
+# 第10章　meter / metr —— "测量·尺度"
 
 ::: {.root-banner}
 meter · metr = to measure 测量，度量

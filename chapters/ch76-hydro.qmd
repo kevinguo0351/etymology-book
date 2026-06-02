@@ -1,4 +1,4 @@
-# hydro / hydr —— "水"
+# 第76章　hydro / hydr —— "水"
 
 ::: {.root-banner}
 hydro · hydr = water 水

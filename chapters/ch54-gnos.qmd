@@ -1,4 +1,4 @@
-# gno / gnos —— "知·认识"
+# 第54章　gno / gnos —— "知·认识"
 
 ::: {.root-banner}
 `gno` · `gnos` = to know, to perceive 知道、认识

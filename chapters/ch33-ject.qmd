@@ -1,4 +1,4 @@
-# ject / jac / jec —— "投·掷"
+# 第33章　ject / jac / jec —— "投·掷"
 
 ::: {.root-banner}
 `ject` · `jac` · `jec` = to throw 投、掷

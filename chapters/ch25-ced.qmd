@@ -1,4 +1,4 @@
-# ced / cess —— "行·走·让"
+# 第25章　ced / cess —— "行·走·让"
 
 ::: {.root-banner}
 ced · cess = to go, to yield 行走；退让

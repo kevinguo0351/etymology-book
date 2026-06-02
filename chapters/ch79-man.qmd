@@ -1,4 +1,4 @@
-# man / manu —— "手"
+# 第79章　man / manu —— "手"
 
 ::: {.root-banner}
 man · manu = hand 手

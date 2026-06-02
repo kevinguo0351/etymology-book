@@ -1,4 +1,4 @@
-# cred —— "相信·信任"
+# 第49章　cred —— "相信·信任"
 
 ::: {.root-banner}
 cred = to believe, to trust 相信、信任
