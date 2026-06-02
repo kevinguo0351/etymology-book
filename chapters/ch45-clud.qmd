@@ -1,0 +1,136 @@
+# clud / clus / clos —— "关·闭"
+
+::: {.root-banner}
+clud · clus · clos = to close, to shut 关闭、封锁
+:::
+
+来源：拉丁语动词 *claudere*（关闭、锁上），其过去分词形式为 *clausus*，由此派生出 `-clus-`、`-clos-` 两个变体。同族词可追溯至原始印欧语根 *\*klau-*（钥匙、门闩），与 *clavis*（钥匙）同根，英语 *key* 与之有远亲关系。
+
+::: {.etymo}
+**词源故事：一把锁与它的主人**
+
+古罗马人进门要做的最后一个动作，是把门从里面"推合"——*claudere*。这个词就是那个推门的瞬间：门框与门扉紧密咬合，外面的世界被隔在另一侧。锁上门用的工具叫 *clavis*（钥匙），它与 *claudere* 共享同一个印欧语祖先，都在描述"使两物卡紧"这一动作。
+
+几百年后，*claudere* 的过去分词 *clausus* 也进入了日常拉丁文，意思是"被关上的"。中古法语把它演变为 *clos*，英语接收了这一形式，于是现代英语里有了三张面孔：行动义的 `-clud-`（还在关门的当下）、结果义的 `-clus-`（门已关上的状态）、以及来自法语的 `-clos-`（封闭的场所或文件）。
+
+想象一扇中世纪修道院的厚木门：院门一关，院内的修士与世隔 *se-*（分离）；外人进不来，修士也出不去——这就是 *seclude* 的画面。而一份法庭判决书最终"合上"争论、画上句点，那是 *conclude*：所有论据 *con-*（一起）被锁进结论里。
+:::
+
+## 前缀决定方向，根永远是"关那扇门"
+
+*clud / clus / clos* 本身只做一件事：关门。前缀告诉你门关向哪里、为了什么关、把谁关在里面或外面。记住这张方向表，所有派生词都能迎刃而解。
+
+| 前缀 | 原义 | "关门"方向 | 代表词 |
+|------|------|------------|--------|
+| in- | 进入 | 关进来（包含） | include |
+| ex- | 出去 | 关出去（排除） | exclude |
+| con- | 一起 | 合拢关上（总结） | conclude |
+| se- | 分离 | 单独关起来（隔离） | seclude |
+| pre- | 在前 | 提前关门（预先阻止） | preclude |
+| oc-（ob-） | 对着 | 堵上去（阻塞） | occlude |
+| dis- | 分开 | 把关住的打开（揭露） | disclose |
+| en- | 使、入 | 从外围起来关住（围封） | enclose |
+| re- | 往回 | 重新关上（隐士退回） | recluse |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [include]{.headword} | v. | `in-`(进入)+`clud`(关)+`-e` | 把……纳入，包含 | [高频]{.freq .freq-1} |
+| [included]{.headword} | adj. | `in-`+`clud`+`-ed` | 被包含的 | [高频]{.freq .freq-1} |
+| [including]{.headword} | prep. | `in-`+`clud`+`-ing` | 包括（列举用） | [高频]{.freq .freq-1} |
+| [inclusion]{.headword} | n. | `in-`+`clus`(关进)+`-ion` | 包含；纳入；包容性 | [高频]{.freq .freq-1} |
+| [inclusive]{.headword} | adj. | `in-`+`clus`+`-ive` | 包含一切的；有包容性的 | [高频]{.freq .freq-1} |
+| [exclude]{.headword} | v. | `ex-`(出)+`clud`(关)+`-e` | 排除，把……关在外面 | [高频]{.freq .freq-1} |
+| [excluding]{.headword} | prep. | `ex-`+`clud`+`-ing` | 不包括 | [高频]{.freq .freq-1} |
+| [exclusion]{.headword} | n. | `ex-`+`clus`+`-ion` | 排除；排斥；排外 | [高频]{.freq .freq-1} |
+| [exclusive]{.headword} | adj./n. | `ex-`+`clus`+`-ive` | 排外的；独家的；专属的 | [高频]{.freq .freq-1} |
+| [exclusively]{.headword} | adv. | `ex-`+`clus`+`-ive`+`-ly` | 仅仅，专门地 | [高频]{.freq .freq-1} |
+| [conclude]{.headword} | v. | `con-`(一起)+`clud`(关)+`-e` | 结束；得出结论 | [高频]{.freq .freq-1} |
+| [conclusion]{.headword} | n. | `con-`+`clus`+`-ion` | 结论；结束；终局 | [高频]{.freq .freq-1} |
+| [conclusive]{.headword} | adj. | `con-`+`clus`+`-ive` | 决定性的，确凿的 | [中频]{.freq .freq-2} |
+| [inconclusive]{.headword} | adj. | `in-`(否)+`con-`+`clus`+`-ive` | 无定论的，不确定的 | [中频]{.freq .freq-2} |
+| [close]{.headword} | v./adj. | `clos`(关闭) | 关闭；接近的 | [高频]{.freq .freq-1} |
+| [closed]{.headword} | adj. | `clos`+`-ed` | 关着的；封闭的 | [高频]{.freq .freq-1} |
+| [closure]{.headword} | n. | `clos`(关)+`-ure`(结果名词) | 关闭；终结；心理上的释然 | [高频]{.freq .freq-1} |
+| [disclose]{.headword} | v. | `dis-`(打开)+`clos`(关住) | 揭露，公开，披露 | [高频]{.freq .freq-1} |
+| [disclosure]{.headword} | n. | `dis-`+`clos`+`-ure` | 信息披露；揭露 | [高频]{.freq .freq-1} |
+| [nondisclosure]{.headword} | n. | `non-`+`dis-`+`clos`+`-ure` | 保密；不披露（协议） | [中频]{.freq .freq-2} |
+| [enclose]{.headword} | v. | `en-`(使入)+`clos`(关住)+`-e` | 围住；（信封中）附上 | [高频]{.freq .freq-1} |
+| [enclosure]{.headword} | n. | `en-`+`clos`+`-ure` | 围场；附件（信件中） | [中频]{.freq .freq-2} |
+| [foreclose]{.headword} | v. | `fore-`(在前)+`clos`(关)+`-e` | 丧失赎回权；排除可能性 | [中频]{.freq .freq-2} |
+| [foreclosure]{.headword} | n. | `fore-`+`clos`+`-ure` | （抵押）丧失赎回权 | [中频]{.freq .freq-2} |
+| [seclude]{.headword} | v. | `se-`(分离)+`clud`(关)+`-e` | 使隔离，使与世隔绝 | [中频]{.freq .freq-2} |
+| [secluded]{.headword} | adj. | `se-`+`clud`+`-ed` | 僻静的；隐居的 | [中频]{.freq .freq-2} |
+| [seclusion]{.headword} | n. | `se-`+`clus`+`-ion` | 隐居；与世隔绝的状态 | [中频]{.freq .freq-2} |
+| [recluse]{.headword} | n./adj. | `re-`(往回)+`clus`(关)+`-e` | 隐士；过隐居生活的人 | [中频]{.freq .freq-2} |
+| [reclusive]{.headword} | adj. | `re-`+`clus`+`-ive` | 喜欢独处的，隐居的 | [中频]{.freq .freq-2} |
+| [preclude]{.headword} | v. | `pre-`(提前)+`clud`(关)+`-e` | 使不可能；预先排除 | [中频]{.freq .freq-2} |
+| [preclusion]{.headword} | n. | `pre-`+`clus`+`-ion` | 预防；排除 | [低频]{.freq .freq-3} |
+| [occlude]{.headword} | v. | `oc-`(ob- 对着)+`clud`(关) | 堵塞；（牙齿）咬合；阻隔 | [中频]{.freq .freq-2} |
+| [occlusion]{.headword} | n. | `oc-`+`clus`+`-ion` | 阻塞；咬合；（气象）锢囚锋 | [中频]{.freq .freq-2} |
+| [occluded]{.headword} | adj. | `oc-`+`clud`+`-ed` | 被阻塞的；（气象）锢囚的 | [低频]{.freq .freq-3} |
+| [cloister]{.headword} | n./v. | 源自 `claustrum`(封闭场所) | 修道院回廊；使与世隔绝 | [中频]{.freq .freq-2} |
+| [cloistered]{.headword} | adj. | `cloister`+`-ed` | 与世隔绝的；修道院式的 | [中频]{.freq .freq-2} |
+| [clause]{.headword} | n. | 源自 `clausula`(句末收束) | 条款；从句 | [高频]{.freq .freq-1} |
+| [claustrophobia]{.headword} | n. | `claustro-`(封闭)+`phobia`(恐惧) | 幽闭恐惧症 | [中频]{.freq .freq-2} |
+| [enclave]{.headword} | n. | 源自法语 `enclaver`(用钥匙锁入) | 飞地；被包围的区域 | [中频]{.freq .freq-2} |
+| [closet]{.headword} | n./v. | `clos`(封闭空间)+`-et`(小物) | 壁橱；小密室；使关入室内 | [高频]{.freq .freq-1} |
+| [close-knit]{.headword} | adj. | `close`(紧密)+`knit`(编织) | 关系紧密的（团体） | [中频]{.freq .freq-2} |
+| [disclusion]{.headword} | n. | `dis-`+`clus`+`-ion` | （牙科）开合；分离咬合 | [低频]{.freq .freq-3} |
+| [interclusion]{.headword} | n. | `inter-`(中间)+`clus`+`-ion` | 阻断，隔断 | [低频]{.freq .freq-3} |
+| [conclusory]{.headword} | adj. | `con-`+`clus`+`-ory` | （法律）仅陈述结论而无依据的 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The price **includes** tax and delivery fees, so there are no hidden charges.（税和运费都"关进来了"，没有隐藏收费）
+- The club operates an **exclusive** membership policy, **excluding** non-members from all events.（"关外"政策：外人统统被关在门外）
+- After years of litigation, the court finally reached a **conclusive** verdict that brought **closure** to the victims' families.（所有争论被合拢锁住，家属也得到了心理上的"门终于关上了"）
+- The author lived in **seclusion**, a true **recluse** who hadn't left her **secluded** mountain cottage in a decade.（se- 一家三兄弟同框：隔离状态 / 隐居者 / 僻静的地点）
+- A blood clot had **occluded** the artery, and surgeons needed to act before total **occlusion** set in.（动脉被"堵门"，医生要在"完全关死"之前介入）
+- New regulations require full **disclosure** of any conflicts of interest; failure to **disclose** may result in penalties.（dis- 把原本关住的信息强行打开）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成人站在门的哪一侧——
+
+- **in-** 站在门内，把你"关进来"→ include（包含你）
+- **ex-** 站在门外，把你"关出去"→ exclude（排除你）
+- **con-** 大家一起把门"合上"→ conclude（得出结论）
+- **se-** 自己躲开走到另一边关上门→ seclude（隔离自己）
+- **pre-** 在你到达之前已经把门锁了→ preclude（预先阻止）
+- **oc-（ob-）** 拿一块板子堵上门洞→ occlude（阻塞）
+- **dis-** 把原本关上的门打开→ disclose（揭露）
+- **en-** 从四面把你围起来关住→ enclose（围封）
+
+只要认出根 *clud/clus/clos*，就先想"有一扇门"，再看前缀决定谁进谁出。
+:::
+
+::: {.trap}
+**陷阱**：*clause*（条款、从句）与本根同源，这是真实的词源联系——拉丁文法中句子结束时用 *clausula* 表示"收束"，和"关门"是一个意思。但这只是一条历史趣闻，**不要用它来推断词义**：看到 *clause* 时，直接记"条款/从句"这个现代义，不必绕道"关门"来解释。
+
+同样，*closet*（壁橱）和 *cloister*（修道院回廊）都含本根，但它们的具体义已经专门化，遇到时按词本身记义，别强行用"关闭"去推导。
+
+另需注意：*close* 读 /kloʊz/（动词"关闭"）与 /kloʊs/（形容词"接近的"）是同拼不同音的两个词，意思也有差别，别混用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 45 章）学完后，请回看以下章节巩固相关词根群：
+
+- **第 44 章**（上一章）：趁记忆新鲜，对比两个相邻词根的前缀用法
+- **第 43 章**：复习其中与"界限/隔断"语义相关的词
+- **第 41 章**：回顾同样依赖"前缀换方向"记词的拉丁根
+- **第 37 章**：对比"开"义词根，与本章"关"义形成语义对偶
+- **第 29 章**：重温早期学过的介词前缀体系，本章八个前缀全都在那里出现过
+
+**本章自测提示**（遮住释义列，只看拆解，能说出词义吗？）
+
+1. `oc-`(堵)+`clud`(关) → ？（动词，医学/气象常用）
+2. `pre-`(提前)+`clud`(关) → ？（"提前把门锁了"是什么意思？）
+3. `dis-`(打开)+`clos`(关住) → ？（把秘密"开锁"出来）
+4. `se-`(分离)+`clus`(关)+`-ion` → ？（与世隔绝的状态）
+5. *conclusive* vs *inconclusive*：各举一个能用的场景。
+:::

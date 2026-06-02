@@ -1,0 +1,140 @@
+# vid / vis —— "看·见"
+
+::: {.root-banner}
+`vid` · `vis` = to see 看，见
+:::
+
+来源：拉丁语 **vidēre**（看，看见），完成分词形式 **vīsus**，前者给出 `vid-` 家族，后者给出 `vis-` 家族。两支血脉在英语里并肩而行，合计派生词过百。
+
+::: {.etymo}
+**词源故事：眼睛里的罗马**
+
+拉丁人把"看"这件事看得很重——他们用同一个词根 *vidēre* 说"看见"，也说"知道"，因为对古罗马人而言，亲眼所见便是知识的来源。这个联系并非罗马人独有：英语 *wit*（机智）和德语 *wissen*（知道）都来自同一个印欧语祖根 \**weid-*，意思正是"看、知道"。当你说 "I see your point"（我明白你的意思），你其实在重复一个几千年前的认知隐喻：看见 = 理解。
+
+罗马帝国的行政机器需要大量的"看"：军官 **super**vise（从上往下看部下），皇帝在地方设置 **pro**visions（提前预备，往前看）。旅人进入城邦边境要出示"看过的"通行证，那就是今天的 **visa**——它就是 *vīsus* 的过去分词，字面意思是"已被审视之物"。
+
+*vidēre* 进入老法语时变成 *veoir/voir*，最终给英语带来 **view**、**survey**（从上方越过去看）等词。与此同时，学术拉丁语直接进入英语，带来了 **evident**（出来可见的，显而易见）、**provide**（提前看到，因而准备）这类书面词。同一个眼神，穿越两条路径，落在同一本词典里。
+:::
+
+**前缀决定方向，根永远是同一个动作**
+
+`vid/vis` 永远表示"看"，改变的只是"从哪里、对谁、为何而看"。前缀就是方向盘：
+
+| 前缀 | 本义 | 方向感 | 代表词 |
+|------|------|--------|--------|
+| `e-` (< `ex-`) | 出 | 显露出来，让人看见 | **evident**, **evidence** |
+| `pro-` | 前 | 往前看，预见 | **provide**, **provision** |
+| `super-` | 上 | 从上往下看，监督 | **supervise**, **supervisor** |
+| `re-` | 再 | 再看一遍，修订 | **revise**, **revision**, **review** |
+| `ad-` | 朝向 | 朝着某人看，建议 | **advise** |
+| `im-` (< `in-`) | 进入 | 没有提前看就冲进去 | **improvise** |
+| `in-` | 不 | 看不见的 | **invisible**, **invisible** |
+| `en-` | 使 | 使之进入视野，想象 | **envision** |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [video]{.headword} | n. | `vid`(看)+`-eo`(拉丁动词词尾→名词化) | 视频；电视画面 | [高频]{.freq .freq-1} |
+| [vision]{.headword} | n. | `vis`(看)+`-ion`(名词后缀) | 视力；视野；愿景 | [高频]{.freq .freq-1} |
+| [visible]{.headword} | adj. | `vis`(看)+`-ible`(能被…的) | 看得见的，可见的 | [高频]{.freq .freq-1} |
+| [visual]{.headword} | adj. | `vis`(看)+`-ual`(形容词后缀) | 视觉的；视觉化的 | [高频]{.freq .freq-1} |
+| [visit]{.headword} | v./n. | `vis`(看)+`-it`(拉丁第四变化) | 拜访；参观 | [高频]{.freq .freq-1} |
+| [evident]{.headword} | adj. | `e-`(出)+`vid`(看)+`-ent`(形容词后缀) | 明显的，显而易见的 | [高频]{.freq .freq-1} |
+| [evidence]{.headword} | n. | `e-`(出)+`vid`(看)+`-ence`(名词后缀) | 证据；迹象 | [高频]{.freq .freq-1} |
+| [provide]{.headword} | v. | `pro-`(前)+`vid`(看→提前预备) | 提供；供给 | [高频]{.freq .freq-1} |
+| [provision]{.headword} | n. | `pro-`(前)+`vis`(看)+`-ion` | 供给；规定；预备物资 | [高频]{.freq .freq-1} |
+| [supervise]{.headword} | v. | `super-`(上)+`vis`(看)+`-e` | 监督；监管 | [高频]{.freq .freq-1} |
+| [supervisor]{.headword} | n. | `super-`(上)+`vis`(看)+`-or`(人) | 监督者；上司 | [高频]{.freq .freq-1} |
+| [revise]{.headword} | v. | `re-`(再)+`vis`(看)+`-e` | 修订；复习 | [高频]{.freq .freq-1} |
+| [revision]{.headword} | n. | `re-`(再)+`vis`(看)+`-ion` | 修订；修正版；复习 | [高频]{.freq .freq-1} |
+| [advise]{.headword} | v. | `ad-`(朝)+`vis`(看→引导别人看清)+`-e` | 建议；忠告 | [高频]{.freq .freq-1} |
+| [improvise]{.headword} | v. | `im-`(不/进入)+`pro-`(前)+`vis`(看)：不提前看 | 即兴创作；临时应付 | [高频]{.freq .freq-1} |
+| [invisible]{.headword} | adj. | `in-`(不)+`vis`(看)+`-ible`(能被…的) | 看不见的；无形的 | [高频]{.freq .freq-1} |
+| [envision]{.headword} | v. | `en-`(使进入)+`vision`(视野) | 想象；设想；展望 | [高频]{.freq .freq-1} |
+| [visa]{.headword} | n. | 拉丁语 *vīsa*，`vis`(看)的过去分词"已被审视之物" | 签证 | [高频]{.freq .freq-1} |
+| [vista]{.headword} | n. | 意大利语借词，`vis`(看)+`-ta`；从某处望出去的景象 | 远景；开阔视野 | [中频]{.freq .freq-2} |
+| [visionary]{.headword} | adj./n. | `vis`(看)+`-ionary`(与…有关的人) | 有远见的；梦想家 | [中频]{.freq .freq-2} |
+| [review]{.headword} | v./n. | `re-`(再)+`view`(看，法语支系) | 复习；回顾；评论 | [高频]{.freq .freq-1} |
+| [survey]{.headword} | v./n. | `sur-`(< `super-`，上)+`vey`(看，法语支系) | 勘测；调查；纵览 | [高频]{.freq .freq-1} |
+| [view]{.headword} | n./v. | 法语 `vue` < 拉丁 `visus`(看) | 景色；观点；看 | [高频]{.freq .freq-1} |
+| [preview]{.headword} | v./n. | `pre-`(前)+`view`(看) | 预览；预告片 | [高频]{.freq .freq-1} |
+| [overview]{.headword} | n. | `over-`(越过/全面)+`view`(看) | 综述；概览 | [高频]{.freq .freq-1} |
+| [interview]{.headword} | n./v. | `inter-`(相互)+`view`(看/见面) | 面试；采访 | [高频]{.freq .freq-1} |
+| [advisory]{.headword} | adj./n. | `ad-`(朝)+`vis`(看)+`-ory`(形容词后缀) | 顾问的；警告通知 | [中频]{.freq .freq-2} |
+| [adviser / advisor]{.headword} | n. | `ad-`(朝)+`vis`(看)+`-er/-or`(人) | 顾问；建议者 | [高频]{.freq .freq-1} |
+| [visitation]{.headword} | n. | `vis`(看→拜访)+`-itation`(名词后缀) | 正式探视；（神的）降临 | [中频]{.freq .freq-2} |
+| [visitor]{.headword} | n. | `vis`(看→拜访)+`-itor`(人) | 访客；游客 | [高频]{.freq .freq-1} |
+| [visibility]{.headword} | n. | `vis`(看)+`-ibility`(能力/状态) | 能见度；可见性 | [中频]{.freq .freq-2} |
+| [visualize]{.headword} | v. | `vis`(看)+`-ualize`(使成为…) | 使形象化；在脑中想象 | [中频]{.freq .freq-2} |
+| [visualization]{.headword} | n. | `visual`(视觉的)+`-ization`(化) | 可视化；视觉化表现 | [中频]{.freq .freq-2} |
+| [proviso]{.headword} | n. | 拉丁语 *provisō* "已预见地"；`pro-`(前)+`vis`(看) | （合同/协议中的）附带条件 | [低频]{.freq .freq-3} |
+| [supervisory]{.headword} | adj. | `super-`(上)+`vis`(看)+`-ory` | 监督性的；管理的 | [中频]{.freq .freq-2} |
+| [clairvoyant]{.headword} | adj./n. | 法语 `clair`(清晰)+`voyant`(< `voir` 看) | 有透视力的；千里眼 | [低频]{.freq .freq-3} |
+| [purvey]{.headword} | v. | `pur-`(< `pro-`，前)+`vey`(看→供应) | 供应（食物等）；提供 | [低频]{.freq .freq-3} |
+| [purview]{.headword} | n. | `pur-`(前)+`view`(看→管辖范围) | 权限范围；职权范围 | [低频]{.freq .freq-3} |
+| [envoy]{.headword} | n. | 法语 `envoyé` "被派出者"，`en-`+`voie`(路，引申自"方向/看法") | 使节；外交特使 | [中频]{.freq .freq-2} |
+| [vide]{.headword} | v. | 直接借自拉丁语命令式 `vide`"你看！" | （书面语）参见；见（某处） | [低频]{.freq .freq-3} |
+| [video game]{.headword} | n. | `video`(视频)+`game` | 电子游戏 | [高频]{.freq .freq-1} |
+| [improvisation]{.headword} | n. | `improvise`+`-ation` | 即兴表演；临场发挥 | [中频]{.freq .freq-2} |
+| [evidence-based]{.headword} | adj. | `evidence`(证据，出来可见的)+`based` | 循证的；以证据为基础的 | [中频]{.freq .freq-2} |
+| [audiovisual]{.headword} | adj. | `audio`(听)+`visual`(视觉的) | 视听的；多媒体的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The new policy is designed to **provide** affordable housing for low-income families.（`pro-` 往前看，提前备好：*provide* 是"预见需求并供给"）
+- The manager will **supervise** the installation process from start to finish.（`super-` 从上方看下来：上司的本职就是 *supervise*）
+- The committee met to **revise** the draft agreement before the final vote.（`re-` 再看一遍：*revise* 就是把文件重新过一遍眼）
+- She is an **invisible** force in the organization—no title, but everyone listens to her.（`in-` 否定：powerful yet *invisible*，看不见的力量）
+- The jazz band decided to **improvise** the second half of the concert.（`im-`=`in-`+`pro-`+`vis`：没有提前看（排练），直接上台即兴）
+- The policy document includes a **proviso** that funds must be spent within twelve months.（合同里"已预见的条件"：*proviso* 是 *provide* 的兄弟词，同一个拉丁词根）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成一双眼睛的**站位**——
+
+- **e-vident**：眼睛 *出来*（e=ex），证据摆在外面给你看，当然明显；
+- **pro-vide**：眼睛看向*前方*，提前备好；
+- **super-vise**：眼睛在*上方*往下盯，监督；
+- **re-vise**：眼睛*回头*再看，修订；
+- **ad-vise**：眼睛*转向*对方，给对方指路；
+- **im-provise**：眼睛*没有往前看*（im=in=不），只能临场应付；
+- **in-visible**：眼睛*看不到*（in=不），无形的。
+
+口诀：**`vis/vid` 是眼，前缀是方向；方向一换，意思全换样。**
+:::
+
+::: {.trap}
+**陷阱一：survey 与 review 的词根来源**
+
+`survey` 和 `review` 的 `-vey`/`-view` 部分来自**法语**支系（古法语 *voir*，来自拉丁 *vidēre*），不是直接的拉丁 `vid/vis`。词根血脉相同，但路径不同。这是有趣的历史知识，**不影响你推断词义**（它们含义与"看"完全一致），但请不要将这条路径套用到所有 *-vy* / *-vey* 词上——例如 `convey`（传送）来自 *via*（路），与"看"无关。
+
+**陷阱二：improvise 的前缀层叠**
+
+`improvise` = `im-`（否定，< `in-`）+ `pro-`（前）+ `vis`（看）。注意这里有**两个前缀**：先 `pro-vis`（提前看 = 预备），再加 `im-`（没有预备）。不是"冲进去看"，而是"没有提前预备"。口语里常见误解为"随意乱来"，其实词义偏正面，指在缺乏准备时展现的即兴创造力。
+
+**陷阱三：envoy 与 vid/vis 无关**
+
+`envoy`（使节）词形像是 `en-` + 某个看字，但实际来自法语 *envoyer*（派遣），源自拉丁 *via*（道路）。这是**假同源**，仅供历史好奇，切勿用来推断词义。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 39 章）学完后，请回看以下章节，巩固关联词根：
+
+- **第 38 章**：上一章词根（衔接复习，确认记忆稳固）
+- **第 37 章**：与感知/认知相关词根，与本章"看=知道"的隐喻互相印证
+- **第 35 章**：前缀系统复习（`re-`、`pro-`、`super-` 在本章高频出现）
+- **第 31 章**：与本章有前缀重叠的词根，横向对比前缀用法
+- **第 23 章**：早期学过的拉丁动词派生词根，回看整体脉络
+
+**本章自测（不看书，心里默答）**：
+
+1. `provide` 里的 `pro-` 是什么意思？它和 `provision` 是什么关系？
+2. `supervise` 和 `revise` 的区别仅在前缀——你能还原两个前缀的"方向感"吗？
+3. `invisible` 的三个语素各是什么？
+4. `improvise` 有几个前缀？分别贡献了什么意义？
+5. `visa` 为什么字面意思是"已被审视之物"？
+:::

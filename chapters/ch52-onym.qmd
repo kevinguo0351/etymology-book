@@ -1,0 +1,134 @@
+# onym / nym —— "名"
+
+::: {.root-banner}
+onym · nym = name 名字；名称
+:::
+
+来源：希腊语 **onoma / onyma**（名字），与拉丁语 *nomen* 同属印欧语根 \*nō-men-，但此根专走希腊路线，几乎从不单飞，永远与搭档根拼搭组词。
+
+::: {.etymo}
+**词源故事：每个名字都藏着一段历史**
+
+古希腊人对"名字"这件事格外认真。他们相信，一个名字不仅是标签，更是身份的核心。*onoma* 这个词在柏拉图的对话录里反复出现——《克拉底鲁篇》整整一卷都在辩论：名字究竟是约定俗成的符号，还是事物本质的映射？
+
+这种对"名"的执着，催生了一整族术语。语法学家用它区分专有名词与普通名词；修辞学家用它命名各种换名技法；地理学家用它研究地名背后的历史。希腊语进入拉丁语，再渗入英语，onoma 的两个形式都留了下来：强读时是 **-onym**，弱化时是 **-nym**。
+
+最有趣的是，这个根几乎从不单独站立，它必须找一个"搭档根"才能出现。syn-（同）、ant-（反）、an-（无）、pseudo-（假）……每换一个前缀，就换出一种全新的"名字关系"。掌握这张搭档表，就等于拿到了一把能开几十把锁的万能钥匙。
+:::
+
+**搭档根一览** — *onym / nym* 几乎只与其他词根联合出现：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| syn- | 同、共 | synonym 同义词 |
+| ant- / anti- | 反、对立 | antonym 反义词 |
+| an- | 无、非 | anonymous 匿名的 |
+| pseudo- | 假、伪 | pseudonym 笔名 |
+| acro- | 顶端、首 | acronym 首字母缩略词 |
+| homo- | 同、相同 | homonym 同形异义词 |
+| ep- / epi- | 在上、附着 | eponym 名祖 |
+| topo- | 地方、地点 | toponym 地名 |
+| meta- | 转变、超越 | metonymy 转喻 |
+| poly- | 多 | polynym 多名称（学术用语） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [synonym]{.headword} | n. | `syn-`(同)+`onym`(名) | 同义词 | [高频]{.freq .freq-1} |
+| [synonymous]{.headword} | adj. | `syn-`(同)+`onym`(名)+`-ous` | 同义的；与……密切相关的 | [高频]{.freq .freq-1} |
+| [synonymy]{.headword} | n. | `syn-`(同)+`onym`(名)+`-y` | 同义关系；同义词汇集 | [中频]{.freq .freq-2} |
+| [antonym]{.headword} | n. | `ant-`(反)+`onym`(名) | 反义词 | [高频]{.freq .freq-1} |
+| [antonymous]{.headword} | adj. | `ant-`(反)+`onym`(名)+`-ous` | 反义的 | [低频]{.freq .freq-3} |
+| [anonymous]{.headword} | adj. | `an-`(无)+`onym`(名)+`-ous` | 匿名的；无特色的 | [高频]{.freq .freq-1} |
+| [anonymity]{.headword} | n. | `an-`(无)+`onym`(名)+`-ity` | 匿名状态；无名性 | [高频]{.freq .freq-1} |
+| [anonymize]{.headword} | v. | `an-`(无)+`onym`(名)+`-ize` | 使匿名化（数据处理常用） | [中频]{.freq .freq-2} |
+| [pseudonym]{.headword} | n. | `pseudo-`(假)+`nym`(名) | 笔名；化名 | [高频]{.freq .freq-1} |
+| [pseudonymous]{.headword} | adj. | `pseudo-`(假)+`nym`(名)+`-ous` | 用笔名的；假名发表的 | [中频]{.freq .freq-2} |
+| [acronym]{.headword} | n. | `acro-`(首端)+`nym`(名) | 首字母缩略词（如 NASA） | [高频]{.freq .freq-1} |
+| [homonym]{.headword} | n. | `homo-`(同)+`nym`(名) | 同形异义词；同音词 | [中频]{.freq .freq-2} |
+| [homonymous]{.headword} | adj. | `homo-`(同)+`nym`(名)+`-ous` | 同形异义的 | [低频]{.freq .freq-3} |
+| [homonymy]{.headword} | n. | `homo-`(同)+`nym`(名)+`-y` | 同形异义现象 | [低频]{.freq .freq-3} |
+| [eponym]{.headword} | n. | `ep-`(附着于)+`onym`(名) | 名祖；以人名命名的词语来源人物 | [中频]{.freq .freq-2} |
+| [eponymous]{.headword} | adj. | `ep-`(附着于)+`onym`(名)+`-ous` | 以某人命名的；同名的 | [中频]{.freq .freq-2} |
+| [toponym]{.headword} | n. | `topo-`(地)+`nym`(名) | 地名；地名词 | [中频]{.freq .freq-2} |
+| [toponymy]{.headword} | n. | `topo-`(地)+`nym`(名)+`-y` | 地名学；某地区地名的总称 | [低频]{.freq .freq-3} |
+| [metonymy]{.headword} | n. | `meta-`(转变)+`onym`(名)+`-y` | 转喻（以相关事物代替本体） | [中频]{.freq .freq-2} |
+| [metonymic]{.headword} | adj. | `meta-`(转变)+`onym`(名)+`-ic` | 转喻的 | [低频]{.freq .freq-3} |
+| [patronymic]{.headword} | n./adj. | `patro-`(父)+`nym`(名)+`-ic` | 父姓；由父名派生的姓名 | [中频]{.freq .freq-2} |
+| [matronymic]{.headword} | n./adj. | `matro-`(母)+`nym`(名)+`-ic` | 母姓；由母名派生的姓名 | [低频]{.freq .freq-3} |
+| [autonym]{.headword} | n. | `auto-`(自)+`nym`(名) | 真实姓名（相对于笔名）；自我命名 | [低频]{.freq .freq-3} |
+| [heteronym]{.headword} | n. | `hetero-`(异)+`nym`(名) | 同形异音异义词；同根异语词 | [低频]{.freq .freq-3} |
+| [hypernym]{.headword} | n. | `hyper-`(上)+`nym`(名) | 上位词（如 animal 是 dog 的上位词） | [中频]{.freq .freq-2} |
+| [hyponym]{.headword} | n. | `hypo-`(下)+`nym`(名) | 下位词（如 dog 是 animal 的下位词） | [中频]{.freq .freq-2} |
+| [meronym]{.headword} | n. | `mero-`(部分)+`nym`(名) | 部分词（如 finger 是 hand 的部分词） | [低频]{.freq .freq-3} |
+| [polynym]{.headword} | n. | `poly-`(多)+`nym`(名) | 多名称（指拥有多个名称的事物） | [低频]{.freq .freq-3} |
+| [paronym]{.headword} | n. | `par-`(旁)+`onym`(名) | 同根词；近音异义词 | [低频]{.freq .freq-3} |
+| [onym]{.headword} | n. | `onym`(名) | 有意义的名字（语言学术语） | [低频]{.freq .freq-3} |
+| [onomastics]{.headword} | n. | `onoma`(名)+`-stics`(学科) | 专名学；人名地名研究学科 | [低频]{.freq .freq-3} |
+| [onomatopoeia]{.headword} | n. | `onoma`(名)+`poiein`(制造) | 拟声词；象声构词法 | [中频]{.freq .freq-2} |
+| [onomatopoeic]{.headword} | adj. | `onoma`(名)+`poiein`(制造)+`-ic` | 拟声的；象声的 | [中频]{.freq .freq-2} |
+| [pseudonymity]{.headword} | n. | `pseudo-`(假)+`nym`(名)+`-ity` | 使用笔名的状态 | [低频]{.freq .freq-3} |
+| [allonym]{.headword} | n. | `allo-`(他)+`nym`(名) | 他人之名（以他人真名发表的作品） | [低频]{.freq .freq-3} |
+| [cryptonym]{.headword} | n. | `crypto-`(隐)+`nym`(名) | 隐名；代号 | [低频]{.freq .freq-3} |
+| [exonym]{.headword} | n. | `exo-`(外)+`nym`(名) | 外来地名（外国人对某地的称呼） | [低频]{.freq .freq-3} |
+| [endonym]{.headword} | n. | `endo-`(内)+`nym`(名) | 内部地名（当地人对本地的称呼） | [低频]{.freq .freq-3} |
+| [oronym]{.headword} | n. | `oro-`(山)+`nym`(名) | 山名；地形名称 | [低频]{.freq .freq-3} |
+| [demonym]{.headword} | n. | `demo-`(民众)+`nym`(名) | 居民称谓词（如 Londoner、Parisian） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The word "happy" and "joyful" are **synonymous**, but carry slightly different emotional weights.（*synonymous* 在这里不只是"同义的"，还带有"紧密相关"的引申义——注意这个常见用法）
+- The author published the controversial essay under a **pseudonym** to avoid professional repercussions.（用笔名躲避风险，pseudo- 假 + nym 名，假名字）
+- "NASA" and "UNESCO" are both **acronyms** formed from the initial letters of their full names.（acro- 顶端/首字母，每个字母取自全称的首位）
+- The city's **eponymous** founder, Romulus, supposedly killed his twin brother to claim the right to name it.（城市与创始人同名，这就是 *eponymous* 的典型语境）
+- Protecting user **anonymity** online has become one of the most contested issues in digital rights debates.（an- 无 + onym 名 + -ity，无名状态，即匿名性）
+- "The White House announced today"—here, "the White House" is used by **metonymy** for the U.S. president and staff.（以容器代内容，是 metonymy 转喻的经典范例）
+:::
+
+::: {.mnemonic}
+**助记**：把搭档根当"修饰语"，*onym* 永远是"名字"本身。试着背这条口诀链：
+
+- **syn**·onym → **同**名 → 同义词
+- **ant**·onym → **反**名 → 反义词
+- **an**·onym·ous → **无**名 → 匿名
+- **pseudo**·nym → **假**名 → 笔名
+- **acro**·nym → **首**字母名 → 缩略词
+- **epo**·nym → **附着**于人名 → 名祖
+
+每次见到 -onym / -nym，先问自己：**前面的词根是什么意思？** 答案加上"名字"，意思往往就出来了。
+:::
+
+::: {.trap}
+**陷阱一：homonym vs. homophone vs. homograph**
+
+这三个词经常混淆。严格说：**homonym** 是"拼写和发音都相同但意思不同"的词（bank 银行 / bank 河岸）；**homophone** 是"发音相同拼写可以不同"（to / too / two）；**homograph** 是"拼写相同发音可以不同"（lead 铅 / lead 领导）。日常英语有时用 *homonym* 宽泛指代三种情况，但在语言学语境中要区分。
+
+**陷阱二：onomatopoeia 与纯 onym 族词**
+
+*onomatopoeia*（拟声词）确实含 *onoma*（名），但它的第二半是希腊语 *poiein*（制造），意思是"制造名字来模拟声音"。它属于词源上的同族，但构词逻辑和 synonym、anonymous 那一族有所不同——不要因为看到 *ono-* 就把它归入纯 -onym 家族机械类推。
+
+**陷阱三：synonym ≠ 完全等义**
+
+语言学中真正完全对等的同义词极少；*synonymous* 在日常写作里常引申为"与……密切相关/象征"，如 *"His name became synonymous with corruption."* 这里不是说他的名字是"腐败"的同义词，而是说二者高度关联。别把这个引申义和语言学定义混用。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 52 章）讲完，按遗忘曲线回看以下章节：
+
+- **第 51 章**（上一章）— 趁热重温，巩固短期记忆
+- **第 50 章** — 检验两天前的掌握情况
+- **第 48 章** — 本周较早章节，确认是否已内化
+- **第 44 章** — 上周内容，中期巩固
+- **第 36 章** — 较早章节，长期记忆检验
+
+**本章自测提示：**
+1. *anonymous* 的词根拆解是什么？an- 表示什么？
+2. *acronym* 与 *initialism* 有何区别？（提示：NASA 可以读作一个词，FBI 逐字母读）
+3. 不看笔记，列出 5 个以 -onym/-nym 结尾的词，并说出各自的搭档根含义。
+4. *eponymous* 造句：选一个你知道的以人名命名的事物（如 Alzheimer's disease），用 *eponymous* 描述它。
+5. *metonymy* 与 *metaphor* 的核心区别是什么？（metonymy 依赖相关性，metaphor 依赖相似性）
+:::

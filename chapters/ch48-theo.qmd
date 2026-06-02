@@ -1,0 +1,138 @@
+# theo / the —— "神"
+
+::: {.root-banner}
+`theo` · `the` = *god* 神
+:::
+
+来源：希腊语 **theos**（神），与梵语 *deva*（神灵）同属印欧语系词根 \*dhes-，原义与宗教礼仪、神圣场所相关。
+
+::: {.etymo}
+**词源故事：奥林匹斯山上的那个词根**
+
+古希腊人用 *theos* 指代神灵——既是宙斯、雅典娜那样的具名神祇，也是"神性"这个抽象概念本身。这个词根随着希腊文化渗入拉丁语，再随着基督教神学文献渗入中世纪英语，最终扎根于现代学术词汇之中。
+
+希腊人在语言上有一种偏好：把两个意义鲜明的词根拼接起来，造出新概念。*theos* 正是这种"拼搭游戏"的明星选手——它既能与 *logos*（理性、学问）合体，生出 *theologia*（神学）；也能与 *kratos*（统治权）结合，造出 *theokratia*（神权政治）；还能被前缀 *a-*（无）否定，变成 *atheos*（无神的）——这个词后来进入英语，成了 *atheist*。
+
+最壮观的组合或许是 *pan* + *theon*：*pan* 意为"全部"，*pantheon* 字面上就是"诸神的殿堂"。罗马人把这个词借去命名那座至今屹立的圆形庙宇，后世又把它引申为"某领域的所有杰出人物"——文学的万神殿、体育的万神殿，皆由此而来。
+
+还有一个词值得单独记住：*apotheosis*。*apo-* 在希腊语里表示"从……升离、完成化"，*apotheosis* 原指把人升格为神的仪式（罗马皇帝死后常经此仪式），今天引申为"登峰造极、最高成就"。
+:::
+
+**搭档根一览**
+
+`theo` / `the` 是典型的希腊"领域根"，通过与其他希腊词根自由拼搭生产新词：
+
+| 搭档根 | 含义 | 与 `theo` 的组合示例 |
+|---|---|---|
+| `-logy` | 学问、研究 | theology 神学 |
+| `a-` | 无、否定 | atheist 无神论者 |
+| `mono-` | 单一 | monotheism 一神论 |
+| `poly-` | 多 | polytheism 多神论 |
+| `-cracy` | 统治、政体 | theocracy 神权政治 |
+| `pan-` | 全体、一切 | pantheon 万神殿 |
+| `apo-` | 升离、完成化 | apotheosis 神化、极致 |
+| `-ism` | 主义、信仰体系 | theism 有神论 |
+| `-ist` | 持某立场之人 | atheist 无神论者 |
+| `philo-` | 爱 | (theosophy 中的) theo + sophy 智慧 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [theology]{.headword} | n. | `theo`(神)+`-logy`(学问) | 神学；宗教学 | [高频]{.freq .freq-1} |
+| [theological]{.headword} | adj. | `theo`(神)+`-logy`+`-ical`(形容词缀) | 神学的；宗教学的 | [高频]{.freq .freq-1} |
+| [theologian]{.headword} | n. | `theo`(神)+`-logy`+`-ian`(人) | 神学家 | [高频]{.freq .freq-1} |
+| [theism]{.headword} | n. | `the`(神)+`-ism`(主义/信仰) | 有神论 | [高频]{.freq .freq-1} |
+| [theist]{.headword} | n. | `the`(神)+`-ist`(持某立场之人) | 有神论者 | [中频]{.freq .freq-2} |
+| [theistic]{.headword} | adj. | `the`(神)+`-ist`+`-ic` | 有神论的 | [中频]{.freq .freq-2} |
+| [atheism]{.headword} | n. | `a-`(无)+`the`(神)+`-ism` | 无神论 | [高频]{.freq .freq-1} |
+| [atheist]{.headword} | n. | `a-`(无)+`the`(神)+`-ist`(人) | 无神论者 | [高频]{.freq .freq-1} |
+| [atheistic]{.headword} | adj. | `a-`(无)+`the`(神)+`-istic` | 无神论的 | [中频]{.freq .freq-2} |
+| [monotheism]{.headword} | n. | `mono-`(单一)+`the`(神)+`-ism` | 一神论；一神教 | [高频]{.freq .freq-1} |
+| [monotheist]{.headword} | n. | `mono-`(单一)+`the`(神)+`-ist` | 一神论者 | [中频]{.freq .freq-2} |
+| [monotheistic]{.headword} | adj. | `mono-`(单一)+`the`(神)+`-istic` | 一神论的 | [中频]{.freq .freq-2} |
+| [polytheism]{.headword} | n. | `poly-`(多)+`the`(神)+`-ism` | 多神论；多神教 | [高频]{.freq .freq-1} |
+| [polytheist]{.headword} | n. | `poly-`(多)+`the`(神)+`-ist` | 多神论者 | [中频]{.freq .freq-2} |
+| [polytheistic]{.headword} | adj. | `poly-`(多)+`the`(神)+`-istic` | 多神论的 | [中频]{.freq .freq-2} |
+| [theocracy]{.headword} | n. | `theo`(神)+`-cracy`(统治) | 神权政治；神权国家 | [高频]{.freq .freq-1} |
+| [theocratic]{.headword} | adj. | `theo`(神)+`-crat`+`-ic` | 神权政治的 | [中频]{.freq .freq-2} |
+| [pantheon]{.headword} | n. | `pan-`(全部)+`the`(神)+`-on`(场所) | 万神殿；（某领域的）杰出人物群 | [高频]{.freq .freq-1} |
+| [apotheosis]{.headword} | n. | `apo-`(升离/完成)+`the`(神)+`-osis`(过程) | 神化；登峰造极；最高典范 | [中频]{.freq .freq-2} |
+| [apotheosize]{.headword} | v. | `apotheosis`+`-ize` | 将……神化；奉为极致典范 | [低频]{.freq .freq-3} |
+| [deify]{.headword} | v. | 拉丁 `deus`(神，与 `theos` 同源)+`-fy`(使) | 神化；崇拜如神 | [中频]{.freq .freq-2} |
+| [deification]{.headword} | n. | `deify`+`-ation` | 神化；奉若神明的行为 | [中频]{.freq .freq-2} |
+| [theosophy]{.headword} | n. | `theo`(神)+`sophy`(智慧) | 神智学（通灵知神的神秘主义体系） | [低频]{.freq .freq-3} |
+| [theosophical]{.headword} | adj. | `theosoph`+`-ical` | 神智学的 | [低频]{.freq .freq-3} |
+| [theosophist]{.headword} | n. | `theosoph`+`-ist` | 神智学者 | [低频]{.freq .freq-3} |
+| [polymath]{.headword} | n. | *参考：`poly-`多+`math`学——此词与 `theo` 无关，列于此仅提示 `poly-` 的广泛性* | 博学者 | [中频]{.freq .freq-2} |
+| [monotone]{.headword} | n./adj. | *参考：`mono-`单+`tone`音——此词与 `theo` 无关，提示 `mono-` 的广泛性* | 单调（音） | [高频]{.freq .freq-1} |
+| [theophany]{.headword} | n. | `theo`(神)+`phan`(显现)+`-y` | 神显；神迹显现 | [低频]{.freq .freq-3} |
+| [theolatry]{.headword} | n. | `theo`(神)+`latry`(崇拜) | 神灵崇拜 | [低频]{.freq .freq-3} |
+| [henotheism]{.headword} | n. | `heno-`(一，希腊)+`the`(神)+`-ism` | 单一主神论（崇拜一主神但不否认其他神存在） | [低频]{.freq .freq-3} |
+| [pantheism]{.headword} | n. | `pan-`(全部)+`the`(神)+`-ism` | 泛神论（神即万物，万物即神） | [中频]{.freq .freq-2} |
+| [pantheist]{.headword} | n. | `pan-`(全)+`the`(神)+`-ist` | 泛神论者 | [中频]{.freq .freq-2} |
+| [pantheistic]{.headword} | adj. | `pan-`(全)+`the`(神)+`-istic` | 泛神论的 | [中频]{.freq .freq-2} |
+| [antitheism]{.headword} | n. | `anti-`(反对)+`the`(神)+`-ism` | 反有神论（主动反对神存在之说，强于无神论） | [低频]{.freq .freq-3} |
+| [apatheism]{.headword} | n. | `apathy`(冷漠)+`the`(神)+`-ism`（现代混成词） | 冷漠神论（对神是否存在漠不关心） | [低频]{.freq .freq-3} |
+| [theodicy]{.headword} | n. | `theo`(神)+`dicy`（来自希腊 `dike` 正义） | 神正论（解释全善之神为何允许恶存在的神学论证） | [中频]{.freq .freq-2} |
+| [theocentric]{.headword} | adj. | `theo`(神)+`centric`(以……为中心) | 以神为中心的 | [低频]{.freq .freq-3} |
+| [theandropic]{.headword} | adj. | `theo`(神)+`andro`(人)+`-ic` | 神人合一的 | [低频]{.freq .freq-3} |
+| [Timothy]{.headword} | n. (专有名词) | `timo-`(荣耀)+`theo`(神)——希腊名 *Timotheos* | 蒂莫西（人名，义为"荣耀上帝"） | [高频]{.freq .freq-1} |
+| [Dorothy]{.headword} | n. (专有名词) | `doro`(礼物)+`the`(神)——希腊名 *Dorothea* | 多萝西（人名，义为"上帝的礼物"） | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- She enrolled in a **theology** course to understand the philosophical arguments behind different religious traditions.（她选修了神学课，想了解各宗教传统背后的哲学论证。）
+- The country was once governed as a strict **theocracy**, where religious leaders held absolute political authority.（这个国家曾是严格的神权政体，宗教领袖握有绝对的政治权力。）
+- For ancient Greeks, **polytheism** was not merely belief but a practical framework for making sense of nature's unpredictability.（对古希腊人而言，多神论不只是信仰，更是理解自然无常的实用框架。）
+- The biography described the scientist's late career as the **apotheosis** of his lifelong pursuit—a Nobel Prize and a paradigm shift in one decade.（传记将这位科学家的晚年职业生涯描述为毕生追求的登峰造极——在同一个十年里摘得诺贝尔奖并完成范式转变。）
+- The **pantheon** of jazz greats is vast, but Miles Davis occupies a uniquely central position within it.（爵士乐的杰出人物殿堂阵容庞大，但迈尔斯·戴维斯在其中占据独特的核心地位。）
+- The philosopher argued that **atheism** is not an absence of worldview but a positive commitment to evidence-based reasoning.（这位哲学家论证，无神论并非缺乏世界观，而是对基于证据的理性思考的积极承诺。）
+:::
+
+::: {.mnemonic}
+**助记**：记住核心等式 **`theo` = 神**，然后用"拼搭法"推导全族：
+
+- 加 `-logy`（学问）→ **theology** 神学
+- 加 `a-`（无）→ **atheism** 无神论
+- 加 `mono-`（一个）→ **monotheism** 一神论
+- 加 `poly-`（多个）→ **polytheism** 多神论
+- 加 `-cracy`（统治）→ **theocracy** 神权政治
+- 加 `pan-`（全部）→ **pantheon** 万神殿 / **pantheism** 泛神论
+- 加 `apo-`（升离/完成）→ **apotheosis** 神化、极致
+
+拼搭模式一通，全族词自然来。联想图像：一座神殿（pantheon）里，学者们研究神学（theology），有神论者（theists）与无神论者（atheists）相互辩论，神权统治者（theocrat）坐在高台——这就是 `theo` 的完整宇宙。
+:::
+
+::: {.trap}
+**陷阱：enthusiasm——词源真实，但不可用来"拆解"当代义**
+
+*enthusiasm* 来自希腊语 *enthousiasmos*，由 `en-`（在……之内）+ `theos`（神）构成，原义是"神灵附体、被神充满"——古希腊人认为先知或诗人的灵感来自神灵入驻体内。
+
+这个词源完全真实，但有两个重要警告：
+
+1. **今日的 enthusiasm 已完全世俗化**，意为"热情、热忱"，与神毫无关联。看到这个词时，绝不能依据词源推断它与宗教或神性有关。
+2. **词源趣闻 ≠ 词义规律**：`theo` 在 theology、atheist、theocracy 等词里仍然清晰可识，可放心用来推断词义；但 enthusiasm 中的 `-theos-` 早已被音变和语义漂移淹没，属于"历史化石"而非"可见词根"。
+
+**判断标准**：若一个词的拆解能帮你在完全陌生的语境里猜出大意，则是"高产可推断词根"；若只是饭桌上的谈资，则是"有趣的历史趣闻"——两者都有价值，但不要混用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 48 章）学完后，请回看以下章节：
+
+- **第 47 章** — 上一章内容，趁热夯实
+- **第 46 章** — 间隔复习，检验保留率
+- **第 44 章** — 与本章词根有构词法关联，对比记忆
+- **第 40 章** — 中期记忆检验
+- **第 32 章** — 长期记忆巩固
+
+**本章自测提示**：
+
+1. *theology* 和 *theism* 都含 `theo`，两者有何区别？（提示：一个强调系统学问，一个强调信仰立场）
+2. *atheism* 与 *antitheism* 同样否定神，区别在哪里？（提示：前者是"不相信"，后者是"主动反对"）
+3. *apotheosis* 的 `apo-` 在这里表达什么方向感？能否联系 *apology*（道歉，原义"为自己申辩"）中的 `apo-` 理解？
+4. 不查书，默写 `theo` 的六个搭档根及各自的代表组合词。
+:::

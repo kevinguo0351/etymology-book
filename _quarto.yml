@@ -52,6 +52,20 @@ book:
         - chapters/ch36-anthrop.qmd
         - chapters/ch37-spir.qmd
         - chapters/ch38-demo.qmd
+        - chapters/ch39-vid.qmd
+        - chapters/ch40-arch.qmd
+        - chapters/ch41-mot.qmd
+        - chapters/ch42-crat.qmd
+        - chapters/ch43-pend.qmd
+        - chapters/ch44-morph.qmd
+        - chapters/ch45-clud.qmd
+        - chapters/ch46-soph.qmd
+        - chapters/ch47-pel.qmd
+        - chapters/ch48-theo.qmd
+        - chapters/ch49-cred.qmd
+        - chapters/ch50-phys.qmd
+        - chapters/ch51-fid.qmd
+        - chapters/ch52-onym.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

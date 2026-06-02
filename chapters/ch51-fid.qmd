@@ -1,0 +1,126 @@
+# fid —— "信·忠·信任"
+
+::: {.root-banner}
+`fid` · `fides` · `fidere` = trust, faith 信任、忠诚、信念
+:::
+
+来源：拉丁语 *fides*（信念、忠诚）与动词 *fidere*（信任、依赖），与古希腊语 *peithō*（说服）同出印欧语根 \*bheidh-（约束、使人信服）。
+
+::: {.etymo}
+**词源故事：罗马人把"信任"当作神来供奉**
+
+在古罗马，*Fides* 不只是一个抽象概念——她是一位女神。罗马人在卡庇托山上为她建了神庙，祭司在仪式中用白布裹手，象征信约的纯洁。交战双方若要议和，必须在 *Fides* 神庙前立誓，因为她守护的正是人与人之间最根本的契约：你说的话，算数。
+
+*fides* 这个词渗透进了整个拉丁世界。朋友（*amicus*）之所以值得信赖，是因为他有 *fides*；军队向统帅效忠，也叫 *fides*；法庭上的证人宣誓，宣的同样是 *fides*。这个根后来随罗马法律、天主教神学和文艺复兴人文主义一起进入英语，在音乐、金融、爱情、外交等几乎所有需要"承诺"的领域留下了印记。
+
+动词形式 *fidere* 意思是"把自己交托出去"——信任某人，就是把自己的一部分安置在他那里。这个"交托"的动作，正是今天所有 fid 词族词汇共同的内核：你总是在把某种东西——秘密、忠诚、音频信号、法律权益——郑重地递给另一个人或体制，并相信它不会被辜负。
+:::
+
+**前缀决定方向，`fid` 永远是那个"信任"的动作。** 记住：换一个前缀，就换一个人站在信任关系的哪个位置、朝哪个方向。
+
+| 前缀 | 方向 | 代表词 | 意思 |
+|------|------|--------|------|
+| `con-`（完全） | 向内聚拢，完全信任 | confide | 倾诉秘密；信赖 |
+| `con-`（完全） | 信心满满 | confident | 自信的 |
+| `in-`（不/进入否定） | 不信、信仰之外 | infidel | 异教徒；不信者 |
+| `per-`（贯穿→彻底背离） | 穿透信任、彻底出卖 | perfidy | 背信弃义 |
+| `dif-`（= dis-，分散） | 信任分散、缺乏自信 | diffident | 胆怯的；缺乏自信的 |
+| `af-`（= ad-，附加） | 正式附加誓言 | affidavit | 宣誓书 |
+| `bona`（好的） | 以善意为基础 | bona fide | 真诚的；货真价实的 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [confide]{.headword} | v. | `con-`(完全)+`fid`(信任)+`e` | 倾诉（秘密）；信任托付 | [高频]{.freq .freq-1} |
+| [confidence]{.headword} | n. | `con-`(完全)+`fid`(信任)+`-ence`(名词) | 信心；信任；秘密 | [高频]{.freq .freq-1} |
+| [confident]{.headword} | adj. | `con-`(完全)+`fid`(信任)+`-ent`(形容词) | 自信的；确信的 | [高频]{.freq .freq-1} |
+| [confidential]{.headword} | adj. | `con-`+`fid`+`-ential`(形容词) | 机密的；保密的 | [高频]{.freq .freq-1} |
+| [confidentiality]{.headword} | n. | `confident`+`-ial`+`-ity` | 机密性；保密原则 | [中频]{.freq .freq-2} |
+| [confidentially]{.headword} | adv. | `confidential`+`-ly` | 秘密地；私下地 | [中频]{.freq .freq-2} |
+| [confidant]{.headword} | n. | 法语借词，`con-`+`fid`+`-ant` | 知心朋友；密友（男） | [中频]{.freq .freq-2} |
+| [confidante]{.headword} | n. | 同上，女性形式 | 知心朋友（女） | [低频]{.freq .freq-3} |
+| [fidelity]{.headword} | n. | `fid`(信)+`-el`+`-ity`(名词) | 忠诚；保真度；还原精度 | [高频]{.freq .freq-1} |
+| [infidelity]{.headword} | n. | `in-`(不)+`fidelity` | 不忠；（婚姻）外遇 | [高频]{.freq .freq-1} |
+| [infidel]{.headword} | n./adj. | `in-`(不)+`fid`(信仰)+`-el` | 异教徒；不信者（的） | [中频]{.freq .freq-2} |
+| [perfidy]{.headword} | n. | `per-`(彻底背离)+`fid`(信)+`-y` | 背信弃义；叛变 | [中频]{.freq .freq-2} |
+| [perfidious]{.headword} | adj. | `per-`+`fid`+`-ious`(形容词) | 背信的；奸诈的 | [中频]{.freq .freq-2} |
+| [perfidiously]{.headword} | adv. | `perfidious`+`-ly` | 背信地；奸诈地 | [低频]{.freq .freq-3} |
+| [diffident]{.headword} | adj. | `dif-`(分散/缺乏)+`fid`(信心)+`-ent` | 缺乏自信的；怯懦的 | [中频]{.freq .freq-2} |
+| [diffidence]{.headword} | n. | `dif-`+`fid`+`-ence` | 怯懦；缺乏自信 | [中频]{.freq .freq-2} |
+| [diffidently]{.headword} | adv. | `diffident`+`-ly` | 怯生生地；不自信地 | [低频]{.freq .freq-3} |
+| [affidavit]{.headword} | n. | `af-`(= ad-，附加)+`fid`(信/誓)+`-avit`(拉丁完成式) | 宣誓书；誓词证词 | [中频]{.freq .freq-2} |
+| [fiduciary]{.headword} | n./adj. | `fiduc-`(信托)+`-iary`(关系人) | 受托人；信托的；信义的 | [中频]{.freq .freq-2} |
+| [fiducial]{.headword} | adj. | `fiduc-`(信)+`-ial` | 基准的；信托的（技术/测量用语） | [低频]{.freq .freq-3} |
+| [bona fide]{.headword} | adj./adv. | `bona`(好的，拉丁)+`fide`(信义，ablative) | 真诚的；货真价实的；善意的 | [高频]{.freq .freq-1} |
+| [bona fides]{.headword} | n. | `bona fide`的名词形式 | 真实身份；诚意；资质证明 | [中频]{.freq .freq-2} |
+| [Semper Fidelis]{.headword} | phr. | `semper`(永远)+`fidelis`(忠诚的) | 永远忠诚（美国海军陆战队格言） | [中频]{.freq .freq-2} |
+| [fideism]{.headword} | n. | `fid`(信)+`-e`+`-ism` | 信仰主义（哲学：理性不及之处以信仰为据） | [低频]{.freq .freq-3} |
+| [fidelismo]{.headword} | n. | 专名派生，了解即可 | 卡斯特罗主义（历史/政治语境） | [低频]{.freq .freq-3} |
+| [defiant]{.headword} | adj. | *注意*：源自 `defy`，`de-`+`fi-`（= *fier*，拉丁 *fidere* 的古法语演变）+`-ant` | 挑衅的；不服从的 | [高频]{.freq .freq-1} |
+| [defy]{.headword} | v. | 古法语 *desfier*，`de-`(逆)+`fi`(信义) | 挑战；蔑视；违抗 | [高频]{.freq .freq-1} |
+| [defiance]{.headword} | n. | `defy`+`-ance` | 挑衅；公然违抗 | [高频]{.freq .freq-1} |
+| [affiance]{.headword} | v./n. | `af-`(= ad-)+`fi`(信义)+`-ance` | 订婚；誓约（古典/文学用语） | [低频]{.freq .freq-3} |
+| [fiancé]{.headword} | n. | 法语借词，`fi`(信义/誓)+`-ancé` | 未婚夫 | [高频]{.freq .freq-1} |
+| [fiancée]{.headword} | n. | 同上，女性形式 | 未婚妻 | [高频]{.freq .freq-1} |
+| [fiance]{.headword} | n. | `fiancé` 的无重音拼法，英语通用 | 未婚夫/妻（泛称） | [高频]{.freq .freq-1} |
+| [fealty]{.headword} | n. | 古法语 *feauté* ← 拉丁 *fidelitas*，`fid`→`fe`演变 | 效忠；封建忠诚义务 | [低频]{.freq .freq-3} |
+| [federal]{.headword} | adj. | 拉丁 *foedus*（盟约），同族词 `fid` | 联邦的；盟约性质的 | [高频]{.freq .freq-1} |
+| [confederate]{.headword} | n./adj./v. | `con-`(共同)+`feder`(盟约/信)+`-ate` | 同盟者；联合的；联合 | [高频]{.freq .freq-1} |
+| [confederation]{.headword} | n. | `con-`+`feder`+`-ation` | 邦联；联盟 | [中频]{.freq .freq-2} |
+| [faith]{.headword} | n. | 古法语 *fei* ← 拉丁 *fides*，直接继承词 | 信仰；信念；忠诚 | [高频]{.freq .freq-1} |
+| [faithful]{.headword} | adj. | `faith`+`-ful` | 忠诚的；信仰坚定的 | [高频]{.freq .freq-1} |
+| [faithfully]{.headword} | adv. | `faithful`+`-ly` | 忠诚地；如实地 | [高频]{.freq .freq-1} |
+| [unfaithful]{.headword} | adj. | `un-`+`faithful` | 不忠的；不贞的 | [高频]{.freq .freq-1} |
+| [faithless]{.headword} | adj. | `faith`+`-less` | 无信义的；背叛的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- She **confided** in her therapist that she had never told anyone the truth.（她向治疗师倾诉了一个从未对人说起的秘密——confide 是把秘密"完全交托"出去）
+- The document was marked **confidential** and could only be accessed by senior staff.（标注机密的文件——`con-`+`fid`：需要完全信任才能看到的东西）
+- The auditor questioned whether the fund manager had met his **fiduciary** duty to investors.（受托义务——fiduciary 来自 *fidere*，受人之托、代人行事，法律上责任重大）
+- He was accused of **perfidy** after handing the battle plans to the enemy.（背信弃义——`per-`把信任"贯穿击穿"，彻底背离）
+- Too **diffident** to speak up in meetings, she often watched her ideas get attributed to others.（diffident 是信心"分散"掉了，开不了口，结果功劳被别人摘了）
+- The witness signed an **affidavit** stating he had seen the defendant leave the building at midnight.（宣誓书——正式以信义附加于法律文书，affidavit 中拉丁文意即"他已宣誓"）
+:::
+
+::: {.mnemonic}
+**助记**：把 `fid` 想象成一把锁，前缀是钥匙的转向。
+
+- `con-`（完全旋紧）→ **confide**：把心锁完全交出去
+- `in-`（反转拒绝）→ **infidel**：拒绝开锁，不信任这把信仰
+- `per-`（捅穿锁芯）→ **perfidy**：把锁毁掉，背信弃义
+- `dif-`（钥匙抖个不停）→ **diffident**：不敢把锁交出去，缩手缩脚
+- `af-`（郑重插入锁孔）→ **affidavit**：正式宣誓锁定，白纸黑字
+
+不管哪个前缀，那把"信任之锁"始终是 `fid`——换方向，不换内核。
+:::
+
+::: {.trap}
+**陷阱一：federal / confederate 和 fid 是亲戚，但拼写不同。** *foedus*（盟约）与 *fides*（信任）同出一源，但在英语里它们走了不同的音变路径：fid 族保留了 `fid`，而 federal 族写成 `feder-`。两者语义相通（盟约建立在信任上），但**不能用 fid 的词义去机械推断 feder- 词族的具体含义**——这是有趣的历史趣闻，不是构词推断的可靠依据。
+
+**陷阱二：confident 与 confidant 词形相近，词性与用法截然不同。** *confident*（形容词）= 自信的；*confidant*（名词）= 知心朋友。一个描述心理状态，一个指人。"She is a confident confidant"是合法句子，但别把它们混用。
+
+**陷阱三：defy / defiance 的词源链条是真实的，但很迂回。** 它们经由古法语 *desfier*（挑战信义、撕毁盟约）进入英语，确实含 `fid` 的演变形式，但拼写上已面目全非。这是词源趣闻，读者**不应根据 fid 去预测 defy 的拼写或去套用 fid 的分析框架**。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 51 章）学完后，请回看以下章节，巩固已学词根的对比记忆：
+
+- **第 50 章**：上一章词根，趁热温习
+- **第 49 章**：对比相近词根的语义边界
+- **第 47 章**：重点检查派生词拼写记忆
+- **第 43 章**：系统复习"前缀改变方向"的逻辑
+- **第 35 章**：早期章节，检验长期记忆留存
+
+**本章自测提示：**
+
+1. `confide` 和 `confident` 同一个词根，为什么意思一个偏"倾诉"、一个偏"自信"？前缀 `con-` 在两个词里分别强调什么？
+2. 不看书，说出 `perfidy` 的词根拆解和 `per-` 在这里的方向含义。
+3. `diffident` 和 `confident` 形容词后缀相同，但语义相反——靠的是哪个前缀？
+4. `affidavit` 是法律用词，它字面上的拉丁意思是什么？（提示：*-avit* 是拉丁语第三人称单数完成式）
+5. `bona fide` 里的 `bona` 是什么意思？举一个你在新闻中可能看到它的场景。
+:::

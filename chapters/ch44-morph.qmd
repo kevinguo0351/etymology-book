@@ -1,0 +1,134 @@
+# morph —— "形态·形状"
+
+::: {.root-banner}
+morph = form, shape　形态，形状
+:::
+
+来源：希腊语 **morphē**（μορφή），本义"形状、外形、样貌"，古希腊人用它描述事物可见的轮廓与构型。
+
+::: {.etymo}
+**词源故事：梦神的礼物**
+
+古希腊神话中，睡神 Hypnos 之子 **Morpheus** 是梦境之神，他的名字直接来自 morphē——因为他能随意变换自己的形态，在梦中化身为任何人的样子出现在做梦者面前。奥维德在《变形记》（*Metamorphoses*）里写道，Morpheus 模仿死去丈夫的声音与外形，托梦给悲痛的 Alcyone，告知她丈夫已溺亡于海。他的"形状塑造"之力，正是 morph- 这个根的核心：**看得见、摸得着的外在形态**。
+
+十九世纪，语言学家用这个根造出 **morpheme**（语素），指语言中携带意义的最小形式单位——就像梦神用形体传递意义，语素用形式承载意义。同一时期，生物学家造出 **morphology**（形态学），研究生物体的结构与形状。到了二十世纪，"morph"本身摇身一变成了动词，指形态在屏幕上流畅地从一种变为另一种，科幻电影里变形特效的英文名就是 **morphing**。
+
+从梦神的变脸，到分子的晶体结构，到计算机图形学，morphē 这个古老的希腊词根，始终在描述同一件事：**形状本身**。
+:::
+
+---
+
+### 搭档根：morph- 的黄金拼搭伙伴
+
+希腊根最强大的用法是"根+根"叠加，morph- 尤其擅长与其他希腊根组合成专业术语。
+
+| 搭档根 | 含义 | 与 morph- 组合示例 |
+|--------|------|--------------------|
+| -logy | 学科，研究 | morphology（形态学） |
+| a- | 无，缺乏 | amorphous（无定形的） |
+| meta- | 变化，超越 | metamorphosis（蜕变） |
+| anthropo- | 人 | anthropomorphic（拟人形的） |
+| poly- | 多 | polymorphic（多形态的） |
+| iso- | 相等，同 | isomorphic（同构的） |
+| endo- | 内，里 | endomorph（内胚型体型） |
+| ecto- | 外，表 | ectomorph（外胚型体型） |
+| meso- | 中间 | mesomorph（中胚型体型） |
+| -eme | 语言学最小单位 | morpheme（语素） |
+| -osis / -sis | 过程，状态 | morphosis（形态发生） |
+| pseudo- | 假，伪 | pseudomorph（假象晶体） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [morph]{.headword} | v./n. | `morph`(形态) | （使）变形；形态；（尤指）电脑变形特效 | [高频]{.freq .freq-1} |
+| [morphology]{.headword} | n. | `morph`(形态)+`-ology`(学科) | 形态学；（语言学）词法学 | [高频]{.freq .freq-1} |
+| [morphological]{.headword} | adj. | `morph`(形态)+`-ological`(学科的) | 形态学的；词法的 | [高频]{.freq .freq-1} |
+| [morpheme]{.headword} | n. | `morph`(形态)+`-eme`(最小单位) | 语素，词素（语言中携带意义的最小形式单位） | [高频]{.freq .freq-1} |
+| [metamorphosis]{.headword} | n. | `meta-`(变化)+`morph`(形态)+`-osis`(过程) | 蜕变；变形；（昆虫）变态发育 | [高频]{.freq .freq-1} |
+| [metamorphic]{.headword} | adj. | `meta-`(变化)+`morph`(形态)+`-ic`(形) | 变质的（地质）；变形的 | [中频]{.freq .freq-2} |
+| [metamorphose]{.headword} | v. | `meta-`(变化)+`morph`(形态)+`-ose`(动词化) | （使）变形，蜕变 | [中频]{.freq .freq-2} |
+| [amorphous]{.headword} | adj. | `a-`(无)+`morph`(形态)+`-ous`(形) | 无定形的；不成形的；模糊的 | [高频]{.freq .freq-1} |
+| [polymorphic]{.headword} | adj. | `poly-`(多)+`morph`(形态)+`-ic`(形) | 多形态的；多态的（计算机/生物） | [高频]{.freq .freq-1} |
+| [polymorphism]{.headword} | n. | `poly-`(多)+`morph`(形态)+`-ism`(名) | 多态性；多形性 | [高频]{.freq .freq-1} |
+| [polymorph]{.headword} | n. | `poly-`(多)+`morph`(形态) | 多形体；多态生物 | [中频]{.freq .freq-2} |
+| [isomorphic]{.headword} | adj. | `iso-`(相等)+`morph`(形态)+`-ic`(形) | 同构的；同形的 | [中频]{.freq .freq-2} |
+| [isomorphism]{.headword} | n. | `iso-`(相等)+`morph`(形态)+`-ism`(名) | 同构（性）；同形（性） | [中频]{.freq .freq-2} |
+| [anthropomorphic]{.headword} | adj. | `anthropo-`(人)+`morph`(形态)+`-ic`(形) | 拟人形的；赋予人类特征的 | [高频]{.freq .freq-1} |
+| [anthropomorphism]{.headword} | n. | `anthropo-`(人)+`morph`(形态)+`-ism`(名) | 拟人论；拟人化 | [中频]{.freq .freq-2} |
+| [anthropomorphize]{.headword} | v. | `anthropo-`(人)+`morph`(形态)+`-ize`(动) | 将……拟人化 | [中频]{.freq .freq-2} |
+| [endomorph]{.headword} | n. | `endo-`(内)+`morph`(形态) | 内胚型体型的人（易储脂、偏圆润） | [中频]{.freq .freq-2} |
+| [endomorphic]{.headword} | adj. | `endo-`(内)+`morph`(形态)+`-ic`(形) | 内胚型的 | [低频]{.freq .freq-3} |
+| [ectomorph]{.headword} | n. | `ecto-`(外)+`morph`(形态) | 外胚型体型的人（偏瘦长型） | [中频]{.freq .freq-2} |
+| [mesomorph]{.headword} | n. | `meso-`(中间)+`morph`(形态) | 中胚型体型的人（肌肉型） | [中频]{.freq .freq-2} |
+| [dimorphism]{.headword} | n. | `di-`(二)+`morph`(形态)+`-ism`(名) | 二形性；（生物）雌雄异形 | [中频]{.freq .freq-2} |
+| [dimorphic]{.headword} | adj. | `di-`(二)+`morph`(形态)+`-ic`(形) | 二形的；两种形态的 | [低频]{.freq .freq-3} |
+| [sexual dimorphism]{.headword} | n. | `sexual`(性别)+`di-`(二)+`morph`(形态) | 两性异形（雌雄体型/外观差异） | [中频]{.freq .freq-2} |
+| [morphogenesis]{.headword} | n. | `morph`(形态)+`-genesis`(起源，产生) | 形态发生；形态建成 | [低频]{.freq .freq-3} |
+| [morphogen]{.headword} | n. | `morph`(形态)+`-gen`(产生者) | 形态素（诱导细胞分化的信号分子） | [低频]{.freq .freq-3} |
+| [morphing]{.headword} | n./v. | `morph`(变形)+`-ing` | 形变（特效）；逐渐变形 | [高频]{.freq .freq-1} |
+| [allomorph]{.headword} | n. | `allo-`(他，异)+`morph`(形态) | 词素变体（同一语素的不同音形，如 -s/-es/-en） | [中频]{.freq .freq-2} |
+| [pseudomorph]{.headword} | n. | `pseudo-`(假)+`morph`(形态) | 假象晶体（晶体外形保留但矿物成分已替换） | [低频]{.freq .freq-3} |
+| [geomorphology]{.headword} | n. | `geo-`(地)+`morph`(形态)+`-ology`(学) | 地貌学；地形学 | [中频]{.freq .freq-2} |
+| [geomorphic]{.headword} | adj. | `geo-`(地)+`morph`(形态)+`-ic`(形) | 地貌的；地形的 | [低频]{.freq .freq-3} |
+| [biomorphic]{.headword} | adj. | `bio-`(生命)+`morph`(形态)+`-ic`(形) | 仿生形的；模拟有机体形态的 | [低频]{.freq .freq-3} |
+| [zoomorphic]{.headword} | adj. | `zoo-`(动物)+`morph`(形态)+`-ic`(形) | 动物形态的；以动物形象呈现神明的 | [低频]{.freq .freq-3} |
+| [theriomorphic]{.headword} | adj. | `therio-`(兽)+`morph`(形态)+`-ic`(形) | 兽形的（多指古埃及神祇） | [低频]{.freq .freq-3} |
+| [morphosyntax]{.headword} | n. | `morph`(形态)+`syntax`(句法) | 形态句法（词法与句法的交界研究） | [低频]{.freq .freq-3} |
+| [morphophonology]{.headword} | n. | `morph`(形态)+`phonology`(音韵学) | 形态音韵学 | [低频]{.freq .freq-3} |
+| [dysmorphia]{.headword} | n. | `dys-`(异常)+`morph`(形态)+`-ia`(病症) | 体象障碍；（身体）畸形感 | [中频]{.freq .freq-2} |
+| [dysmorphic]{.headword} | adj. | `dys-`(异常)+`morph`(形态)+`-ic`(形) | 畸形的；形态异常的 | [中频]{.freq .freq-2} |
+| [body dysmorphic disorder]{.headword} | n. | `body`+`dys-`(异常)+`morph`(形态)+`disorder` | 躯体变形障碍（BDD，过度关注身体缺陷的心理疾病） | [高频]{.freq .freq-1} |
+| [Morpheus]{.headword} | n. | `morph`(形态)+`-eus`(神名后缀) | 墨菲斯（希腊梦神，塑形者） | [中频]{.freq .freq-2} |
+| [morphine]{.headword} | n. | `Morpheus`(梦神)+`-ine`(化学后缀) | 吗啡（因使人如入梦境而得名） | [高频]{.freq .freq-1} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The caterpillar undergoes a remarkable **metamorphosis**, dissolving almost entirely inside the chrysalis before rebuilding itself as a butterfly.（毛毛虫经历一场令人惊叹的**蜕变**，在蛹中几乎彻底溶解，再重建成蝴蝶——meta- 强调"越过当前状态"，morph 指形态根本改变。）
+- The landscape around the volcano is covered in **metamorphic** rock formed when ancient limestone was subjected to intense heat and pressure.（火山周围覆盖着**变质**岩，由古老石灰岩在高温高压下改变形态而成。）
+- Object-oriented languages use **polymorphism** to allow the same method name to behave differently depending on the object that calls it.（面向对象语言利用**多态性**，让同一方法名根据调用对象的不同而表现出不同行为——poly- 多，morph 形态。）
+- Branding experts warn that giving robots overtly **anthropomorphic** faces may cause users to develop unrealistic emotional attachments.（品牌专家警告，给机器人赋予过于**拟人**的面孔可能导致用户产生不切实际的情感依附。）
+- The blob of dark matter remains **amorphous** on the simulation screen—it has mass but no defined shape.（模拟屏幕上那团暗物质依然**无定形**——它有质量，却没有确定的形状。）
+- In linguistics, "-ed," "-d," and "-t" are **allomorphs** of the English past-tense morpheme, each appearing in different phonological environments.（在语言学中，"-ed""-d"和"-t"是英语过去时**语素的变体**，各自出现在不同的语音环境中。）
+:::
+
+::: {.mnemonic}
+**助记**：记住梦神 **Morpheus**，他能随意变换形态——morph = 形态。吗啡（**morphine**）也以他命名，因为它让人沉入如梦似幻的状态。把 morph- 想成一块"橡皮泥"：加 meta-（超越）它就能彻底重塑（metamorphosis），加 poly-（多）它就有多种形状（polymorphic），加 a-（无）它就失去一切形状（amorphous）——每次加搭档根，橡皮泥就变换一种状态。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**吗啡的词源是趣闻，不是推断工具。** morphine 因梦神得名，但这只是一个历史命名故事。你无法从 morph- 推断出任何与"睡眠""药物""麻醉"相关的词义。遇到 morph- 开头的陌生词，只用一条规则推断：**与"形态/形状"相关**。
+
+**dysmorphia 与 deformity 的微妙差别。** dysmorphia 在现代医学/心理学语境中多指**对自身外形的主观感知异常**（如 body dysmorphic disorder），不一定意味着客观畸形；而 deformity 指客观可见的形体异常。二者不可互换。
+
+**morphology 在不同学科意思不同。** 在生物学里它是"形态学"（研究生物体外形结构）；在语言学里它是"词法学"（研究词的内部构成）；在地质/地理学里配合 geo- 变成 geomorphology（地貌学）。读到 morphology 时先看上下文的学科语境。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章词根 morph-（形态）学习完毕。按间隔复习计划，今天同时回顾：
+
+- **第 43 章**（建议翻看核心派生词表，默写 3 个）
+- **第 42 章**（回顾例句，尝试用本章词根造类比句）
+- **第 40 章**（检查该章助记钩子是否还记得）
+- **第 36 章**（快速过一遍搭档根表）
+- **第 28 章**（重读 trap 容器，避免之前的陷阱被遗忘）
+
+**本章自测提示（遮住释义列回答）：**
+
+1. *amorphous* 里的 a- 是什么前缀？整词什么意思？
+2. *metamorphosis* 的三段拆解？meta- 在这里强调什么？
+3. *morpheme* 和 *morphology* 同根，但分属哪两个学科？
+4. *polymorphism* 在面向对象编程与生物学中各指什么？
+5. 梦神 Morpheus 的名字为什么来自 morphē？他的"技能"是什么？
+:::

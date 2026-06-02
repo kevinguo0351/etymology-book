@@ -1,0 +1,118 @@
+# arch / archi / archy / arche —— "统治·首·古·开端"
+
+::: {.root-banner}
+arch · archi · archy · arche = rule, chief, ancient, beginning 统治／首领／古老／开端
+:::
+
+来源：希腊语 **arkhē**（开端、统治权）与 **arkhos**（领导者、首领），动词词根 **arkhein**（开始、统治）。两义同源：最初的人就是统治的人，统治者就是一切的起点。
+
+::: {.etymo}
+**词源故事：谁开了头，谁就说了算**
+
+希腊人的 *arkhein* 有两层意思同时压在一起——"开始"和"统治"。这不是偶然。在古希腊城邦政治里，"首先发言、首先行动"本身就是权力的象征。最高行政官叫做 *arkhōn*（执政官），字面义是"那个开头的人"，或者说"那个主事的人"。
+
+这个根分裂成两支进入英语：一支保留"权力/统治"的意思，主要以词尾 **-archy** 出现，比如 *monarchy*（mono- 唯一 + -archy 统治 = 君主制）、*anarchy*（an- 无 + -archy = 无政府状态）；另一支保留"首要/最初"的意思，以前缀 **arch-** 或词干 **arche-** 出现，比如 *archbishop*（首席主教）、*archetype*（最初的模型）、*archaic*（属于开端时代的 = 古老的）。
+
+还有一支走向了"储存"：古代的执政官府邸叫 *arkheion*，是存放公文、记录开国史料的地方。这个词变成拉丁语 *archivum*，再变成英语 *archive*（档案馆）。所以"档案"与"统治"竟是同一个词根——权力留下痕迹，痕迹便是历史。
+:::
+
+**搭档根组合表**
+
+| 搭档根 | 含义 | 与 arch 的组合 | 示例词 |
+|--------|------|----------------|--------|
+| **mon-** | 单一、独 | mono + archy | *monarchy* 君主制 |
+| **an-** | 无、否定 | an + archy | *anarchy* 无政府 |
+| **hier-** | 神圣、神职 | hier + archy | *hierarchy* 等级制度 |
+| **olig-** | 少数 | olig + archy | *oligarchy* 寡头统治 |
+| **matri-** | 母亲 | matri + arch | *matriarch* 女族长 |
+| **patri-** | 父亲 | patri + arch | *patriarch* 男族长 |
+| **tect-** | 建造 | archi + tect | *architect* 总建造师 |
+| **type-** | 模型、印记 | arch + e + type | *archetype* 原型 |
+| **angel-** | 使者 | arch + angel | *archangel* 大天使 |
+| **aeo/palaeo-** | 古老 | arch + aic | *archaic* 古老的 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [monarchy]{.headword} | n. | `mono-`(单一)+`arch`(统治)+`-y`(名词) | 君主制；王国 | [高频]{.freq .freq-1} |
+| [monarch]{.headword} | n. | `mono-`(单一)+`arch`(统治者) | 君主，帝王 | [高频]{.freq .freq-1} |
+| [anarchy]{.headword} | n. | `an-`(无)+`arch`(统治)+`-y` | 无政府状态；混乱 | [高频]{.freq .freq-1} |
+| [anarchist]{.headword} | n. | `an-`(无)+`arch`(统治)+`-ist`(人) | 无政府主义者 | [高频]{.freq .freq-1} |
+| [anarchism]{.headword} | n. | `an-`(无)+`arch`(统治)+`-ism` | 无政府主义 | [中频]{.freq .freq-2} |
+| [hierarchy]{.headword} | n. | `hier-`(神圣)+`arch`(统治)+`-y` | 等级制度；层级体系 | [高频]{.freq .freq-1} |
+| [hierarchical]{.headword} | adj. | `hierarch`+`-ical` | 等级制的；分层的 | [高频]{.freq .freq-1} |
+| [oligarchy]{.headword} | n. | `olig-`(少数)+`arch`(统治)+`-y` | 寡头政治；少数统治 | [中频]{.freq .freq-2} |
+| [oligarch]{.headword} | n. | `olig-`(少数)+`arch`(统治者) | 寡头；权贵 | [中频]{.freq .freq-2} |
+| [patriarch]{.headword} | n. | `patri-`(父)+`arch`(首领) | 男族长；元老；宗主教 | [高频]{.freq .freq-1} |
+| [patriarchal]{.headword} | adj. | `patriarch`+`-al` | 父权制的；族长的 | [中频]{.freq .freq-2} |
+| [patriarchy]{.headword} | n. | `patri-`(父)+`arch`(统治)+`-y` | 父权制 | [高频]{.freq .freq-1} |
+| [matriarch]{.headword} | n. | `matri-`(母)+`arch`(首领) | 女族长；家族女主 | [中频]{.freq .freq-2} |
+| [matriarchal]{.headword} | adj. | `matriarch`+`-al` | 母权制的 | [中频]{.freq .freq-2} |
+| [matriarchy]{.headword} | n. | `matri-`(母)+`arch`(统治)+`-y` | 母权制 | [中频]{.freq .freq-2} |
+| [architect]{.headword} | n. | `archi-`(首要)+`tect`(建造者) | 建筑师；设计者 | [高频]{.freq .freq-1} |
+| [architecture]{.headword} | n. | `archi-`(首要)+`tect`(建造)+`-ure` | 建筑学；架构；体系结构 | [高频]{.freq .freq-1} |
+| [architectural]{.headword} | adj. | `architecture`+`-al` | 建筑的；结构上的 | [高频]{.freq .freq-1} |
+| [archetype]{.headword} | n. | `arche-`(最初)+`type`(模型) | 原型；典型；原始模式 | [高频]{.freq .freq-1} |
+| [archetypal]{.headword} | adj. | `archetype`+`-al` | 原型的；典型的 | [中频]{.freq .freq-2} |
+| [archive]{.headword} | n./v. | `arche-`(执政官府)+`-ive` | 档案（馆）；存档 | [高频]{.freq .freq-1} |
+| [archival]{.headword} | adj. | `archive`+`-al` | 档案的；存档的 | [中频]{.freq .freq-2} |
+| [archaic]{.headword} | adj. | `arche-`(开端，远古)+`-aic` | 古老的；已废弃的 | [高频]{.freq .freq-1} |
+| [archaism]{.headword} | n. | `archaic`+`-ism` | 古语；仿古风格 | [低频]{.freq .freq-3} |
+| [archaeology]{.headword} | n. | `arche-`(古)+`logy`(学问) | 考古学 | [高频]{.freq .freq-1} |
+| [archaeologist]{.headword} | n. | `archaeolog`+`-ist` | 考古学家 | [高频]{.freq .freq-1} |
+| [archaeological]{.headword} | adj. | `archaeolog`+`-ical` | 考古的 | [中频]{.freq .freq-2} |
+| [archangel]{.headword} | n. | `arch-`(首要)+`angel`(天使) | 大天使；天使长 | [中频]{.freq .freq-2} |
+| [archbishop]{.headword} | n. | `arch-`(首席)+`bishop`(主教) | 大主教；首席主教 | [中频]{.freq .freq-2} |
+| [archduke]{.headword} | n. | `arch-`(首席)+`duke`(公爵) | 大公；皇族亲王 | [低频]{.freq .freq-3} |
+| [archipelago]{.headword} | n. | `archi-`(首要)+`pelago`(海) | 群岛；多岛海 | [中频]{.freq .freq-2} |
+| [archnemesis]{.headword} | n. | `arch-`(首要)+`nemesis`(仇敌) | 头号劲敌；宿敌 | [中频]{.freq .freq-2} |
+| [arch-rival]{.headword} | n. | `arch-`(首要)+`rival`(对手) | 头号对手；主要竞争者 | [中频]{.freq .freq-2} |
+| [thearchy]{.headword} | n. | `the-`(神)+`arch`(统治)+`-y` | 神权统治 | [低频]{.freq .freq-3} |
+| [autarchy]{.headword} | n. | `auto-`(自己)+`arch`(统治)+`-y` | 独裁；自给自足经济 | [低频]{.freq .freq-3} |
+| [exarch]{.headword} | n. | `ex-`(外)+`arch`(统治者) | （拜占庭）总督；都主教 | [低频]{.freq .freq-3} |
+| [anarchic]{.headword} | adj. | `an-`(无)+`arch`(统治)+`-ic` | 无政府的；混乱无序的 | [中频]{.freq .freq-2} |
+| [monarchist]{.headword} | n. | `monarch`+`-ist` | 保皇党人；君主主义者 | [中频]{.freq .freq-2} |
+| [monarchical]{.headword} | adj. | `monarch`+`-ical` | 君主制的；帝王的 | [中频]{.freq .freq-2} |
+| [hierarch]{.headword} | n. | `hier-`(神圣)+`arch`(统治者) | 高级神职人员；等级体系首脑 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The country's **monarchy** survived centuries of revolution, though its powers were gradually curtailed by parliament.（这个国家的君主制历经数百年革命依然延续，尽管王权逐渐被议会削减。）
+- After the government collapsed, the city descended into **anarchy**, with looting and violence spreading unchecked.（政府垮台后，这座城市陷入无政府状态，抢劫和暴力肆意蔓散。）
+- The software's **architecture** was so elegant that any experienced developer could extend it with minimal effort.（这款软件的架构设计极为优雅，任何有经验的开发者都能轻松扩展它。）
+- Jung argued that the hero, the shadow, and the trickster are universal **archetypes** found across all human cultures.（荣格认为，英雄、阴影与骗局者是跨越所有人类文化的普遍原型。）
+- The **hierarchical** structure of the corporation meant that junior employees rarely spoke directly to the CEO.（公司的等级体系意味着基层员工几乎不会直接与首席执行官交谈。）
+- Linguists classify certain verb forms as **archaic** because native speakers no longer use them in everyday speech.（语言学家将某些动词形式标记为古语，因为母语者在日常交流中已不再使用它们。）
+:::
+
+::: {.mnemonic}
+**助记**：把 **arch** 想象成一座拱门（arch 在英语里也指拱形建筑）——所有人都必须从首领脚下的"拱门"走过，首领站在拱顶，俯视一切。谁站在最高处，谁就"统治"；拱门建于"最初"，所以也代表"古老的开端"。记住这扇拱门，**arch** 的两义——统治与古老——便同时挂在上面了。
+:::
+
+::: {.trap}
+**陷阱**：**archipelago**（群岛）中的 *archi-* 并非来自"统治"，而是历史上爱琴海被称为 *Arkhipelagos*（"首要之海"，即地中海诸海中最重要的那片）。后来整个词转移指"多岛海"，再引申为任何群岛。这是一则有趣的历史典故，但请不要用它来"推断"所有含 *archi-* 的词都与岛屿或海洋有关——*archi-* 在 *architect* 和 *archipelago* 里走的是完全不同的语义路径。
+
+另一个常见误判：**arch** 作形容词时（如 *an arch smile*，狡黠的微笑）源自"首要、最…"的意思，后来语义转为"调皮、故作聪明"，与词根的"统治/古老"义已相去甚远。阅读时注意区分词根用法与形容词用法。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 40 章）学完后，请回看以下章节巩固关联词根：
+
+- **第 39 章** — 上一章词根，趁热回顾
+- **第 38 章** — 回顾与 arch 同属"希腊权力/秩序"语义场的词根
+- **第 36 章** — 对比记忆（建议与 *tect-* 建造类词根交叉复习）
+- **第 32 章** — 巩固 *-archy* 结尾的政治制度类词汇群
+- **第 24 章** — 回顾与"古老/历史"义相关的词根，与 *arch-* 的"archaic/archaeology"支线对照
+
+**本章自测提示**
+
+1. *monarchy / oligarchy / hierarchy* 三词的词根拆解有何共同结构？各自的搭档根含义是什么？
+2. *architect* 中的 *-tect* 是什么意思？与 *architecture* 中的含义相同吗？
+3. *archetype* 与 *stereotype* 中的 *-type* 是同一个根吗？两词语义有何差异？
+4. 不借助字典，试着解释 *matriarchal society* 与 *patriarchal society* 的区别。
+5. *archive* 为何与"统治"同根？用本章的词源故事解释。
+:::

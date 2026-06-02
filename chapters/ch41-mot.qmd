@@ -1,0 +1,145 @@
+# mot / mov / mob —— "动"
+
+::: {.root-banner}
+mot · mov · mob = to move 移动，推动
+:::
+
+来源：拉丁语 *movēre*（不定式），过去分词 *mōtus*，原义"使移动，推动"。三个书写形态——**mov-**（现在时词干）、**mot-**（过去分词词干）、**mob-**（词干在元音前弱化）——同出一源，在英语中各自繁衍出一大族词。
+
+::: {.etymo}
+**词源故事：罗马士兵的行军**
+
+想象一支罗马军团在凌晨拔营。号角一响，营地里所有人开始*movēre*——帐篷被卷起，辎重被搬上车，士兵列队向前。这个词的核心意象就是：一个静止的东西被力推着离开原位。
+
+"力"这个意象很关键。拉丁语 *movēre* 不只指身体的位移，也指情绪的触动——你"心动"，也是被某种力推着偏离了平静的原位。这正是 *emotion*（情绪，字面义"被推移出来的状态"）的来源：前缀 *e-*（= *ex-*，"向外"）+ *mōtus*，内心深处有什么东西被推涌出来了。
+
+过去分词词干 *mōtus* 生出 *motion*（运动）、*motor*（发动机）、*motive*（动机）；现在时词干 *mov-* 生出 *move*、*movement*、*remove*；辅音群在词尾或元音前弱化成 *mob-*，生出 *mobile*（可移动的）与 *mob*（暴民，因为人群涌动）。三个形态，一个灵魂。
+
+罗马人还爱在这个根前面加前缀，每换一个前缀就换一个方向：*pro-*（向前推）→ *promote*；*re-*（推回去）→ *remove*；*com-*（一起推）→ *commotion*；*de-*（向下推）→ *demote*。根永远是"推/动"这个动作，前缀负责告诉你往哪儿动。
+:::
+
+**前缀决定方向，根永远是"动"**
+
+| 前缀 | 方向/语义 | 代表词 |
+|------|-----------|--------|
+| pro- | 向前，往上 | promote（推进；晋升） |
+| e- / ex- | 向外，涌出 | emotion（情绪涌出） |
+| re- | 往回，离开 | remove（移走）；remote（被推离得很远） |
+| com- / co- | 一起，共同 | commotion（一起乱动 → 骚乱） |
+| de- | 向下，降级 | demote（降职）；demotion |
+| im- / in- | 否定，不 | immobile（不能动的） |
+| loco- | 地方（拉丁 *locus*） | locomotive（从地方移到地方 → 机车） |
+| auto- | 自己（希腊）| automobile（自己动的车） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [move]{.headword} | v. | `mov-`(动) | 移动；搬迁；感动 | [高频]{.freq .freq-1} |
+| [movement]{.headword} | n. | `mov-`(动)+`-ment`(名词化) | 运动；动作；（社会）运动 | [高频]{.freq .freq-1} |
+| [motion]{.headword} | n. | `mot-`(动)+`-ion`(名词化) | 运动；提议；手势 | [高频]{.freq .freq-1} |
+| [motor]{.headword} | n./adj. | `mot-`(动)+`-or`(施事者) | 发动机；马达；机动的 | [高频]{.freq .freq-1} |
+| [mobile]{.headword} | adj./n. | `mob-`(动)+`-ile`(能…的) | 可移动的；手机 | [高频]{.freq .freq-1} |
+| [mobility]{.headword} | n. | `mob-`(动)+`-ility`(名词化) | 流动性；行动能力 | [高频]{.freq .freq-1} |
+| [motive]{.headword} | n./adj. | `mot-`(动)+`-ive`(…性的) | 动机；驱动的 | [高频]{.freq .freq-1} |
+| [motivate]{.headword} | v. | `mot-`(动)+`-ivate`(使动) | 激励；促使 | [高频]{.freq .freq-1} |
+| [motivation]{.headword} | n. | `mot-`(动)+`-ivation`(名词化) | 动机；积极性 | [高频]{.freq .freq-1} |
+| [emotion]{.headword} | n. | `e-`(出)+`mot-`(动)+`-ion` | 情绪；感情（内心涌出） | [高频]{.freq .freq-1} |
+| [emotional]{.headword} | adj. | `e-`(出)+`mot-`(动)+`-ional` | 情感的；激动的 | [高频]{.freq .freq-1} |
+| [promote]{.headword} | v. | `pro-`(向前)+`mot-`(动)+`-e` | 推进；晋升；促销 | [高频]{.freq .freq-1} |
+| [promotion]{.headword} | n. | `pro-`(向前)+`mot-`(动)+`-ion` | 晋升；推广；促销活动 | [高频]{.freq .freq-1} |
+| [remove]{.headword} | v. | `re-`(回/离)+`mov-`(动)+`-e` | 移走；消除；解除 | [高频]{.freq .freq-1} |
+| [removal]{.headword} | n. | `re-`(回/离)+`mov-`(动)+`-al` | 移除；清除；免职 | [高频]{.freq .freq-1} |
+| [remote]{.headword} | adj./n. | `re-`(离)+`mot-`(动)+`-e` | 偏远的；遥控器；远程的 | [高频]{.freq .freq-1} |
+| [remotely]{.headword} | adv. | `re-`(离)+`mot-`(动)+`-ely` | 遥远地；丝毫（否定句中） | [高频]{.freq .freq-1} |
+| [commotion]{.headword} | n. | `com-`(一起)+`mot-`(动)+`-ion` | 骚乱；喧嚣；混乱 | [中频]{.freq .freq-2} |
+| [demote]{.headword} | v. | `de-`(下)+`mot-`(动)+`-e` | 降职；降级 | [中频]{.freq .freq-2} |
+| [demotion]{.headword} | n. | `de-`(下)+`mot-`(动)+`-ion` | 降职；降级 | [中频]{.freq .freq-2} |
+| [immobile]{.headword} | adj. | `im-`(不)+`mob-`(动)+`-ile` | 不动的；固定不动的 | [中频]{.freq .freq-2} |
+| [immobility]{.headword} | n. | `im-`(不)+`mob-`(动)+`-ility` | 静止；不能移动的状态 | [中频]{.freq .freq-2} |
+| [automobile]{.headword} | n. | `auto-`(自)+`mob-`(动)+`-ile` | 汽车（自己会动的） | [高频]{.freq .freq-1} |
+| [locomotive]{.headword} | n./adj. | `loco-`(地方)+`mot-`(动)+`-ive` | 机车；火车头；运动的 | [中频]{.freq .freq-2} |
+| [momentum]{.headword} | n. | `mom-`(动，*mōmentum*)+`-entum` | 动量；势头；推进力 | [高频]{.freq .freq-1} |
+| [moment]{.headword} | n. | 同源 *mōmentum* 缩短 | 片刻（"微小的动"→时间的最小单位） | [高频]{.freq .freq-1} |
+| [mob]{.headword} | n./v. | `mob-`(动，人群涌动) | 暴民；乌合之众；围攻 | [中频]{.freq .freq-2} |
+| [mobile phone]{.headword} | n. | `mob-`(动)+`-ile` | 手机（可移动的电话） | [高频]{.freq .freq-1} |
+| [motionless]{.headword} | adj. | `mot-`(动)+`-ion-less`(无) | 静止不动的 | [中频]{.freq .freq-2} |
+| [motivational]{.headword} | adj. | `mot-`(动)+`-ivational` | 激励性的；关于动机的 | [中频]{.freq .freq-2} |
+| [emotive]{.headword} | adj. | `e-`(出)+`mot-`(动)+`-ive` | 激起情感的；煽情的 | [中频]{.freq .freq-2} |
+| [unemotional]{.headword} | adj. | `un-`(不)+`e-`+`mot-`+`-ional` | 不动情的；冷静的 | [中频]{.freq .freq-2} |
+| [promote]{.headword} | v. | `pro-`(向前)+`mot-`(动) | 推广；提倡；晋升 | [高频]{.freq .freq-1} |
+| [promoter]{.headword} | n. | `pro-`+`mot-`+`-er`(施事者) | 推广者；主办方；启动子（生化） | [中频]{.freq .freq-2} |
+| [automotive]{.headword} | adj. | `auto-`(自)+`mot-`(动)+`-ive` | 汽车的；自动推进的 | [中频]{.freq .freq-2} |
+| [motorbike]{.headword} | n. | `motor`(发动机)+`bike` | 摩托车 | [高频]{.freq .freq-1} |
+| [motorist]{.headword} | n. | `motor`+`-ist`(人) | 驾驶者；汽车驾驶员 | [中频]{.freq .freq-2} |
+| [motorway]{.headword} | n. | `motor`+`way` | 高速公路（英式） | [中频]{.freq .freq-2} |
+| [remote-controlled]{.headword} | adj. | `remote`+`controlled` | 遥控的 | [中频]{.freq .freq-2} |
+| [social mobility]{.headword} | n. | `social`+`mob-`(动)+`-ility` | 社会流动性 | [中频]{.freq .freq-2} |
+| [mobilize]{.headword} | v. | `mob-`(动)+`-ilize`(使…化) | 动员；调动；使运动 | [中频]{.freq .freq-2} |
+| [mobilization]{.headword} | n. | `mob-`(动)+`-ilization` | 动员（令）；调动 | [中频]{.freq .freq-2} |
+| [demobilize]{.headword} | v. | `de-`(反)+`mob-`(动)+`-ilize` | 复员；解散（军队） | [低频]{.freq .freq-3} |
+| [immobilize]{.headword} | v. | `im-`(不)+`mob-`(动)+`-ilize` | 使固定；使不能动 | [中频]{.freq .freq-2} |
+| [motility]{.headword} | n. | `mot-`(动)+`-ility` | （生物）运动能力；蠕动性 | [低频]{.freq .freq-3} |
+| [locomotion]{.headword} | n. | `loco-`(地方)+`mot-`(动)+`-ion` | 运动；位移能力 | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The protest **movement** gained **momentum** after the government refused to negotiate.（社会运动 + 势头，两个同根词出现在一句话里）
+- She was so **moved** by his **emotional** speech that she couldn't speak for a minute.（感动 + 情绪化，mov- 与 e-mot- 在同一句里互相呼应）
+- The company **promoted** him to regional manager, then **demoted** him six months later after the scandal.（晋升 pro- 对比降职 de-，同根反义）
+- **Remove** all **remote** possibilities from your analysis and focus on what's most likely.（移除 + 遥远，re-mov- 和 re-mot- 同一前缀不同词干）
+- The **commotion** in the street turned out to be an **automobile** that had jumped the curb.（骚乱 com- + 汽车 auto-mob-，现实场景里两词自然共现）
+- His **motivation** to succeed was purely **emotional**; he wanted to prove his family wrong.（motivation 与 emotional 同根兄弟并肩出现）
+:::
+
+::: {.mnemonic}
+**助记**：把这个根想成一张地铁路线图，站名是前缀，列车（mot/mov/mob）永远在开动：
+- **pro-** 站 → 向前开 → *promote*（向前推进）
+- **e-** 站 → 向外开 → *emotion*（情绪涌出）
+- **re-** 站 → 往回开 → *remove*（移走），往远处开 → *remote*（遥远）
+- **com-** 站 → 一起乱动 → *commotion*（骚乱）
+- **de-** 站 → 向下开 → *demote*（降职）
+- **im-** 站 → 封锁线，列车停驶 → *immobile*（不能动）
+
+每次见到 mot / mov / mob，先找前缀，前缀告诉你动的方向，根告诉你"在动"——含义自然浮现。
+:::
+
+::: {.trap}
+**陷阱一：remote 不是"遥控"本身**
+*remote* 原义是"被移离得很远"（re- 离 + mot- 动），形容词指"偏远的、关系疏远的"，也可以指"极其微小的"（*a remote chance* = 微乎其微的可能）。"遥控器"在英式英语里叫 *remote* 或 *remote control*，这是一个转喻（用"远距离的"代指"远距离控制设备"），和词根义相通但不是原义。
+
+**陷阱二：moment 和 momentum 是亲兄弟，但各走一路**
+两词均来自拉丁语 *mōmentum*（意为"微小的推力；运动量"），是 *movēre* 的派生。*moment* 在进入英语后意义漂移，专指"时间的一个极小单位"，与"运动"的关联已在日常使用中淡化。你可以欣赏这段历史，但**不要用词源义去推断** *moment* 在现代句子里表示运动或力——那样会会错意。
+
+**陷阱三：mob 在学术文本里不止是"暴民"**
+*mob* 是 *mobile* 的口语缩略（17世纪伦敦俚语 *mobile vulgus* = "流动的大众"），进入正式学术语境有时写全为 *mobile*。技术文档里 *mobile* 指"移动设备"，并无贬义。两词字面同根，但语域和感情色彩截然不同。
+:::
+
+---
+
+::: {.review-today}
+**今日复习排程**
+
+本章（第 41 章）学完后，请回头看：
+
+| 章号 | 词根 | 与本章的联系 |
+|------|------|-------------|
+| 第 40 章 | 上一章词根 | 趁热巩固，构词逻辑连贯 |
+| 第 39 章 | 上上章词根 | 检验间隔记忆 |
+| 第 37 章 | 词根（隔周） | 测试中期保留率 |
+| 第 33 章 | 词根（远期） | 巩固长期记忆 |
+| 第 25 章 | 词根（较早） | 防止遗忘曲线下滑 |
+
+**本章自测提示（合上书默写）：**
+
+1. *e-* + *mot-* + *-ion* 拼出哪个词？它的字面义是什么？
+2. 同一前缀 *re-* 分别和 *mov-* 、*mot-* 结合，生出哪两个意思截然不同的词？
+3. *locomotive* 里哪个部分不是 *mov/mot/mob*？它是什么意思？
+4. 为什么 *immobile* 用的是 *mob-* 而不是 *mov-* 或 *mot-*？（提示：辅音群在特定词缀前的弱化规律）
+5. 用一句话分别造出含 *promote* 和 *demote* 的对比句。
+:::

@@ -1,0 +1,132 @@
+# pel / puls —— "驱·推·打"
+
+::: {.root-banner}
+pel · puls = to drive, push, strike 驱动、推击
+:::
+
+来源：拉丁语 *pellere*（驱赶、击打），完成分词形式 *pulsus*，由此产生了两个形态不同却意义相通的词根——动词词干 **pel**（出现在 compel、expel 等）与过去分词词干 **puls**（出现在 pulse、impulse、compulsory 等）。
+
+::: {.etymo}
+**词源故事：牧人的手杖与心脏的鼓点**
+
+古罗马牧人用手杖驱赶羊群，这个动作在拉丁语里叫 *pellere*——一击、一推、一赶，牲畜便改变了方向。这个词根渗入了战场、法律、医学，无处不在。士兵被 *expulsus*（驱逐出去），法官发出强制令 *compellere*（把人一起逼过来），医生把手指按在手腕上，感受 *pulsus*——血液被心脏"击打"出来的那一跳。
+
+打与推的核心动作完全相同：给力，改变方向。所不同的只是给力的对象和前缀所指示的空间方向。羊被驱出篱笆（*ex-* 向外），河水推着船前行（*pro-* 向前），磁铁把铁屑推开（*re-* 向回），内心的冲动把人逼向某个决定（*im-* 向内）——根从未改变，变化的永远是前缀。
+
+到了现代英语，*puls-* 这一支走进了物理学与生理学：脉冲（pulse）、脉搏（pulsate）、推进器（propeller）；*pel-* 这一支则更多留在了抽象的人际力量里：强迫（compel）、驱逐（expel）、不可抗拒的冲动（compulsive impulse）。同一双手，一双打向皮肤感受心跳，一双推动着人类历史上无数次流亡与征服。
+:::
+
+## 前缀换方向，根永远是那一击
+
+*pellere / pulsus* 本身只做一件事：给一个力。前缀决定这力朝哪里去。
+
+| 前缀 | 空间方向 | 代表词 |
+|------|----------|--------|
+| com- / con-（一起、紧逼） | 向内聚拢、强迫 | compel, compulsory |
+| ex-（向外） | 驱逐出去 | expel, expulsion |
+| pro-（向前） | 推进、前行 | propel, propeller |
+| re-（向回） | 推回、排斥 | repel, repulsion, repulsive |
+| dis-（散开） | 驱散、消除 | dispel |
+| im- / in-（向内） | 驱使进入、冲动 | impel, impulse, impulsive |
+| ap- / ad-（靠近） | 向某处驱使 | appeal（另有分支含义，词源有争议） |
+
+记忆口诀：**前缀是方向，pel/puls 是那一击**。换前缀，换场景，根不变。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [compel]{.headword} | v. | `com-`(紧)+`pel`(推) | 强迫，迫使 | [高频]{.freq .freq-1} |
+| [compelling]{.headword} | adj. | `compel`+`-ing` | 令人信服的，不可抗拒的 | [高频]{.freq .freq-1} |
+| [compulsion]{.headword} | n. | `com-`+`puls`(推)+`-ion` | 强迫；强制冲动 | [高频]{.freq .freq-1} |
+| [compulsive]{.headword} | adj. | `com-`+`puls`+`-ive` | 强迫性的；无法自控的 | [高频]{.freq .freq-1} |
+| [compulsory]{.headword} | adj. | `com-`+`puls`+`-ory`(形容词后缀) | 强制的，义务的 | [高频]{.freq .freq-1} |
+| [expel]{.headword} | v. | `ex-`(出)+`pel`(推) | 驱逐，开除 | [高频]{.freq .freq-1} |
+| [expulsion]{.headword} | n. | `ex-`+`puls`+`-ion` | 驱逐；开除 | [中频]{.freq .freq-2} |
+| [propel]{.headword} | v. | `pro-`(前)+`pel`(推) | 推进，驱动 | [高频]{.freq .freq-1} |
+| [propeller]{.headword} | n. | `propel`+`-er`(施动者) | 螺旋桨，推进器 | [高频]{.freq .freq-1} |
+| [propulsion]{.headword} | n. | `pro-`+`puls`+`-ion` | 推进力，推进系统 | [中频]{.freq .freq-2} |
+| [repel]{.headword} | v. | `re-`(回)+`pel`(推) | 推开，排斥；令人厌恶 | [高频]{.freq .freq-1} |
+| [repulsion]{.headword} | n. | `re-`+`puls`+`-ion` | 排斥；厌恶感 | [中频]{.freq .freq-2} |
+| [repulsive]{.headword} | adj. | `re-`+`puls`+`-ive` | 令人厌恶的，排斥的 | [高频]{.freq .freq-1} |
+| [repellent]{.headword} | adj./n. | `re-`+`pel`+`-ent` | 排斥的；驱虫剂 | [中频]{.freq .freq-2} |
+| [dispel]{.headword} | v. | `dis-`(散)+`pel`(驱) | 驱散，消除（疑虑、恐惧） | [高频]{.freq .freq-1} |
+| [impel]{.headword} | v. | `im-`(入/向内)+`pel`(推) | 驱使，迫使（内心力量） | [中频]{.freq .freq-2} |
+| [impulse]{.headword} | n. | `im-`+`puls`(击)+`-e` | 冲动；脉冲；推力 | [高频]{.freq .freq-1} |
+| [impulsive]{.headword} | adj. | `im-`+`puls`+`-ive` | 冲动的，任性的 | [高频]{.freq .freq-1} |
+| [impulsion]{.headword} | n. | `im-`+`puls`+`-ion` | 推动力；冲动行为 | [低频]{.freq .freq-3} |
+| [pulse]{.headword} | n./v. | `puls`(击)+`-e` | 脉搏；脉冲；跳动 | [高频]{.freq .freq-1} |
+| [pulsate]{.headword} | v. | `puls`+`-ate`(动词后缀) | 有节奏地跳动，脉动 | [中频]{.freq .freq-2} |
+| [pulsation]{.headword} | n. | `puls`+`-ation` | 脉动，搏动 | [中频]{.freq .freq-2} |
+| [pulsating]{.headword} | adj. | `pulsate`+`-ing` | 搏动的；令人振奋的 | [中频]{.freq .freq-2} |
+| [expulsive]{.headword} | adj. | `ex-`+`puls`+`-ive` | 有驱逐力的 | [低频]{.freq .freq-3} |
+| [repulse]{.headword} | v./n. | `re-`+`puls`(推回)+`-e` | 击退；拒绝；厌恶感 | [中频]{.freq .freq-2} |
+| [compelled]{.headword} | adj. | `compel`+`-ed` | 被迫的，feel compelled to 迫不得已 | [高频]{.freq .freq-1} |
+| [propelled]{.headword} | adj. | `propel`+`-ed` | 被推进的，rocket-propelled 火箭驱动 | [中频]{.freq .freq-2} |
+| [jet propulsion]{.headword} | n. | `jet`+`pro-`+`puls` | 喷气推进（技术术语） | [中频]{.freq .freq-2} |
+| [self-propelled]{.headword} | adj. | `self-`+`propel`+`-ed` | 自推进的，自走式的 | [中频]{.freq .freq-2} |
+| [repelling]{.headword} | adj. | `repel`+`-ing` | 令人反感的；起排斥作用的 | [中频]{.freq .freq-2} |
+| [insect repellent]{.headword} | n. | `insect`+`repel`+`-ent` | 驱虫剂（固定搭配） | [高频]{.freq .freq-1} |
+| [dispelling]{.headword} | v. | `dispel`+`-ing` | 正在驱散（dispelling myths 破除谬见） | [中频]{.freq .freq-2} |
+| [impelling]{.headword} | adj. | `impel`+`-ing` | 驱使性的，compelling 的近义词 | [低频]{.freq .freq-3} |
+| [pulsed]{.headword} | adj. | `pulse`+`-d` | 脉冲式的（pulsed laser 脉冲激光） | [中频]{.freq .freq-2} |
+| [neural impulse]{.headword} | n. | `neural`+`impulse` | 神经冲动（生理学/神经科学高频词组） | [中频]{.freq .freq-2} |
+| [compulsive eating]{.headword} | n. | `compulsive`+`eating` | 强迫性进食（心理学） | [中频]{.freq .freq-2} |
+| [on impulse]{.headword} | phr. | 固定短语 | 一时冲动地，凭冲动 | [高频]{.freq .freq-1} |
+| [driving force / propulsive force]{.headword} | n. | 近义词组 | 推动力（同根意义延伸） | [中频]{.freq .freq-2} |
+| [pulse rate]{.headword} | n. | `pulse`+`rate` | 脉搏频率（医学基础词组） | [高频]{.freq .freq-1} |
+| [expel from school]{.headword} | phr. | `expel`+固定搭配 | 开除（学籍），记固定介词 from | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The evidence was so **compelling** that the jury reached a verdict in under two hours.（证据如此有力——不可抗拒地推着人得出结论——陪审团两小时内就做出了裁决。）
+- Dozens of foreign journalists were **expelled** from the country after publishing critical reports.（数十名外国记者因发表批评性报道而被驱逐出境——*ex-* 向外，pel 一推。）
+- The rocket's four engines fired simultaneously, **propelling** the spacecraft toward Mars at extraordinary speed.（火箭四台发动机同时点火，将飞船推向火星——*pro-* 向前，propel 是物理推进。）
+- She found the smell of the chemical **repulsive** and had to leave the room.（那种化学品的气味令她极度厌恶，她不得不离开房间——repulsive 的字面义是"把人往回推"。）
+- A good teacher can **dispel** a student's fear of mathematics with just a few well-chosen examples.（一位好老师能用几个精心挑选的例子驱散学生对数学的恐惧——dispel 专用于抽象的负面情绪。）
+- He bought the car **on impulse** and regretted it a week later.（他一时冲动买下这辆车，一周后就后悔了——impulse 是从内部打来的那一下推力。）
+:::
+
+::: {.mnemonic}
+**助记**：把六个前缀画成一张方向图——
+
+- **com-**（从四面向中心挤压）→ compel 强迫
+- **ex-**（箭头向外）→ expel 驱逐
+- **pro-**（箭头向前）→ propel 推进
+- **re-**（箭头向后弹回）→ repel 排斥
+- **dis-**（向四散）→ dispel 驱散
+- **im-**（箭头向内）→ impel / impulse 冲动
+
+核心不变：**pel / puls 永远是那一下力**。前缀换，场景换，力的本质不变。记住"心脏跳一下 = pulse"，就锁住了 puls-；记住"compel 是把人拢在一起逼迫"，就锁住了 pel-。
+:::
+
+::: {.trap}
+**陷阱**：*compel* 与 *compulsory* 同根，但语法功能不同——compel 是动词（compel someone to do），compulsory 是形容词（compulsory education）。二者不可互换：不说 "compel education"，也不说 "compulsory someone"。
+
+另一个常见混淆：**repel** 与 **repulse** 意义高度重叠，但语域稍有差异。repel 更常用于物理排斥或"让人不舒服"的日常语境；repulse 有时有更强的"彻底击退"含义（尤其在军事语境）。
+
+**关于词源趣闻与词义推断的警示**：本章所述"前缀决定方向"是经过验证的构词规律，**可以**用来推断陌生词的大致含义。但诸如"古罗马牧人的手杖"之类的历史意象只是帮助记忆的图像，**不是**严格的词义根据——遇到陌生词请先查词典，再用构词法验证，不要倒过来用故事推断词义。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 47 章）学习词根 **pel / puls**（驱·推·打）。
+
+建议今日同步回看：
+
+- **第 46 章**：复习上一章词根，趁热打铁
+- **第 45 章**：确认上上章词汇已内化
+- **第 43 章**：拉丁动词词根系列（与本章构词模式相近）
+- **第 39 章**：前缀专项章节（本章大量依赖前缀方向感，强烈建议回看）
+- **第 31 章**：早期拉丁根章节，建立长程记忆
+
+**本章自测**（盖住释义列，只看拆解）：
+
+1. `re-`(回)+`puls`(推)+`-ive` → ？（答：repulsive，令人厌恶的）
+2. `im-`(内)+`puls`(击)+`-e` → ？（答：impulse，冲动；脉冲）
+3. `com-`(一起)+`puls`+`-ory` → ？（答：compulsory，强制的）
+4. `pro-`(前)+`pel`(推)+`-ler` → ？（答：propeller，螺旋桨）
+5. `dis-`(散)+`pel`(驱) → ？（答：dispel，驱散）
+:::

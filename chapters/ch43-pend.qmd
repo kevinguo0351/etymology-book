@@ -1,0 +1,121 @@
+# pend / pens —— "悬·挂·称·付"
+
+::: {.root-banner}
+pend · pens = to hang, to weigh, to pay 悬挂·称量·支付
+:::
+
+来源：拉丁语 *pendere*（悬挂、称重）及其完成时词干 *pens-*，原义是将物品悬于秤上称量，引申为支付（古时称量金属货币）与思考（心中称量权衡）。
+
+::: {.etymo}
+**词源故事：一杆秤撑起的词族**
+
+想象古罗马市集上一位商人，将一块银锭挂上天平——*pendere*，"悬挂、称重"。秤盘悬在空中，左右摇摆，这一个动作里藏着三重含义：物理上的**悬挂**，商业上的**称量付钱**，以及心理上的**权衡思考**。整个 pend/pens 词族，就从这杆秤上生长出来。
+
+"挂"的方向由前缀决定：向下挂就是 *depend*（依赖，悬于其上）；悬在空中不落地就是 *suspend*（暂停、悬挂）；向外掏钱就是 *expend*（花费，把钱称量出去）；附加挂上去就是 *append*（附加）。前缀换一个，意思转一圈，但那杆秤始终在正中心晃悠。
+
+*pensive*（沉思的）也来自这里——你在心里悬着一个问题，反复称量，拿不定主意，这就是"沉思"。*pension* 最初是"称量后支付的款项"，后来演变成退休金。就连 *pendulum*（钟摆）也忠实保留了最原始的形象：一个永远在悬挂、永远在摆动的重物。
+
+*pens-* 是 *pendere* 的完成时词干，带入了"已称量、已付出"的完成意味，所以 *compensation*（补偿）是"共同称量后的平衡"，*dispensary*（药房）是"分称分发药物之处"。
+:::
+
+### 前缀换方向，根永远是那杆秤
+
+*pendere* 本身是动作——悬挂、称量、支付。前缀像指南针，决定这个动作朝哪里发生：
+
+| 前缀 | 方向/含义 | 典型词 |
+|------|-----------|--------|
+| de- | 向下、依赖于 | depend, dependent |
+| sus- (= sub-) | 从下方悬起、暂停 | suspend, suspense |
+| ex- | 向外、付出 | expend, expense, expensive |
+| ap- (= ad-) | 向……附加挂上 | append, appendix |
+| com- | 共同、一起平衡 | compensate, compensation |
+| dis- | 分开、分发称量 | dispense, dispensary |
+| in- | 不、否定 | independent, indispensable |
+| pro- | 向前、倾向 | propensity |
+| per- | 贯穿、完全 | perpend（仔细考量）|
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [depend]{.headword} | v. | `de-`(向下)+`pend`(悬挂) | 依赖，取决于 | [高频]{.freq .freq-1} |
+| [dependent]{.headword} | adj./n. | `depend`+`-ent`(…的) | 依赖的；受抚养者 | [高频]{.freq .freq-1} |
+| [independence]{.headword} | n. | `in-`(不)+`depend`+`-ence` | 独立，自主 | [高频]{.freq .freq-1} |
+| [independent]{.headword} | adj. | `in-`(不)+`dependent`(依赖的) | 独立的，自立的 | [高频]{.freq .freq-1} |
+| [independently]{.headword} | adv. | `independent`+`-ly` | 独立地 | [高频]{.freq .freq-1} |
+| [suspend]{.headword} | v. | `sus-`(从下/暂)+`pend`(挂) | 悬挂；暂停；中止 | [高频]{.freq .freq-1} |
+| [suspension]{.headword} | n. | `suspend`+`-ion` | 悬挂；暂停；悬架 | [高频]{.freq .freq-1} |
+| [suspense]{.headword} | n. | `sus-`+`pens`(悬)+`-e` | 悬念，焦急等待 | [高频]{.freq .freq-1} |
+| [expense]{.headword} | n. | `ex-`(出)+`pens`(称量付出)+`-e` | 费用，开销 | [高频]{.freq .freq-1} |
+| [expensive]{.headword} | adj. | `expense`+`-ive` | 昂贵的 | [高频]{.freq .freq-1} |
+| [expend]{.headword} | v. | `ex-`(出)+`pend`(付出) | 花费，消耗（时间/精力） | [高频]{.freq .freq-1} |
+| [expenditure]{.headword} | n. | `expend`+`-iture` | 支出，经费 | [高频]{.freq .freq-1} |
+| [expendable]{.headword} | adj. | `expend`+`-able`(可…的) | 可牺牲的，消耗性的 | [中频]{.freq .freq-2} |
+| [pension]{.headword} | n. | `pens`(称量支付)+`-ion` | 养老金，退休金 | [高频]{.freq .freq-1} |
+| [pensioner]{.headword} | n. | `pension`+`-er`(人) | 领退休金者 | [中频]{.freq .freq-2} |
+| [pensive]{.headword} | adj. | `pens`(称量/权衡)+`-ive` | 沉思的，若有所思的 | [中频]{.freq .freq-2} |
+| [pensively]{.headword} | adv. | `pensive`+`-ly` | 若有所思地 | [中频]{.freq .freq-2} |
+| [append]{.headword} | v. | `ap-`(=ad-,向)+`pend`(挂上) | 附加，追加 | [中频]{.freq .freq-2} |
+| [appendix]{.headword} | n. | `ap-`+`pend`+`-ix`(物) | 附录；阑尾 | [高频]{.freq .freq-1} |
+| [appendage]{.headword} | n. | `append`+`-age`(物/状态) | 附属物，附肢 | [中频]{.freq .freq-2} |
+| [compensate]{.headword} | v. | `com-`(共同)+`pens`(称量)+`-ate` | 补偿，赔偿 | [高频]{.freq .freq-1} |
+| [compensation]{.headword} | n. | `compensate`+`-ion` | 补偿，赔偿金；薪酬 | [高频]{.freq .freq-1} |
+| [dispense]{.headword} | v. | `dis-`(分开)+`pense`(称量分发) | 分配；配药；免除 | [中频]{.freq .freq-2} |
+| [dispensary]{.headword} | n. | `dispense`+`-ary`(场所) | 药房，诊疗所 | [中频]{.freq .freq-2} |
+| [dispensation]{.headword} | n. | `dispense`+`-ation` | 豁免；分配；天意安排 | [低频]{.freq .freq-3} |
+| [indispensable]{.headword} | adj. | `in-`(不)+`dis-`+`pens`+`-able` | 不可缺少的，必不可少的 | [高频]{.freq .freq-1} |
+| [pending]{.headword} | adj./prep. | `pend`(悬挂)+`-ing` | 待定的，悬而未决的；在…期间 | [高频]{.freq .freq-1} |
+| [pendulum]{.headword} | n. | `pend`(悬挂)+`-ulum`(小物) | 钟摆；（喻）来回摇摆 | [中频]{.freq .freq-2} |
+| [perpendicular]{.headword} | adj./n. | `per-`(贯穿)+`pend`+`-icular` | 垂直的；垂线 | [中频]{.freq .freq-2} |
+| [propensity]{.headword} | n. | `pro-`(向前)+`pens`(倾向)+`-ity` | 倾向，癖好 | [中频]{.freq .freq-2} |
+| [stipend]{.headword} | n. | `sti-`(*stips*,硬币)+`pend`(称量支付) | 津贴，薪俸（尤指固定补贴） | [中频]{.freq .freq-2} |
+| [impend]{.headword} | v. | `im-`(=in-,向内/上方)+`pend`(悬挂) | （危险等）迫在眉睫 | [低频]{.freq .freq-3} |
+| [impending]{.headword} | adj. | `impend`+`-ing` | 即将发生的，迫近的 | [中频]{.freq .freq-2} |
+| [recompense]{.headword} | n./v. | `re-`(回)+`com-`+`pense`(称量) | 报酬；补偿；给予回报 | [低频]{.freq .freq-3} |
+| [compendium]{.headword} | n. | `com-`(共同)+`pend`+`-ium` | 简编，概要，汇编 | [低频]{.freq .freq-3} |
+| [ponderous]{.headword} | adj. | `pond-`(*pondus*,重量，同源)+`-erous` | 笨重的；沉闷冗长的 | [低频]{.freq .freq-3} |
+| [ponder]{.headword} | v. | 同源 *pondus*(称量重量) | 仔细考虑，沉思 | [中频]{.freq .freq-2} |
+| [preponderance]{.headword} | n. | `pre-`(之前/优先)+`ponder`+`-ance` | 优势，多数，占优 | [低频]{.freq .freq-3} |
+| [penthouse]{.headword} | n. | 源自 *appendice*（附加建筑），非 pend 直系 | 顶层公寓（历史上指附属建筑） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The whole project **depends** on whether we can secure funding by Friday.（整个项目悬在一笔周五前到账的资金上——"挂"在那里）
+- The referee **suspended** the match for thirty minutes due to heavy rain.（裁判把比赛挂起来暂停了半小时）
+- She stared **pensively** out of the window, weighing every option in her mind.（她若有所思地望着窗外，心里那杆秤还在转——*pensive* 的画面感）
+- Clean water is **indispensable** to public health; no community can do without it.（干净的水是不可从公共卫生中"分离称走"的——缺了就垮）
+- He has a **propensity** for overcomplicating simple tasks, which frustrates his team.（他有把简单任务弄复杂的天然倾向，前缀 *pro-* 指向前方，仿佛被某个方向拉着走）
+- The thriller kept audiences in **suspense** until the final credits rolled.（悬念悬在那里，直到片尾字幕才落地）
+:::
+
+::: {.mnemonic}
+**助记**：记住"一杆秤"的三个动作——**挂**（物理：suspend, pendant, pendulum）、**称**（心理：pensive, ponder, compensate）、**付**（商业：expend, pension, stipend）。前缀就是方向标：*de-* 向下（depend，向下依靠）；*sus-* 托住不让落（suspend，悬空暂停）；*ex-* 向外掏出（expend，把钱称出去）；*in-* 否定（independent，不向下依靠任何人）。每次遇到 pend/pens，先问自己：这是哪个动作、朝哪个方向？
+:::
+
+::: {.trap}
+**陷阱一：penthouse 不是"悬挂的房子"。** *penthouse* 现代意义是顶层豪华公寓，但词源来自古法语 *apentis*（附属建筑，源自 *appendere*），经过发音扭曲变成 *penthouse*。虽然与 *pend* 同源，但它走了一条独立的语义演化路——不要用"悬挂"来推断 *penthouse* 的含义。
+
+**陷阱二：ponder/ponderous 是同源兄弟，不是 pend 的直系。** 它们来自拉丁语 *pondus*（重量），与 *pendere* 共享印欧语根 *\*(s)pen-*（拉伸、悬挂）。在英语阅读中可以用"称重"意象辅助理解（*ponder* = 在心里称量），但不要反推说"凡含 pond- 的词都与 pend 同族"——这是有趣的历史趣闻，不是可靠的推断规则。
+
+**陷阱三：expensive ≠ "被花掉的"。** *expensive* 的核心语义是"让人花费大量金钱的"（即使别人来付钱），不要误用为"已花掉的"（那是 *expended*）。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 43 章）学完后，请回看：
+
+- **第 42 章**：复习上一章词根，趁热检验记忆
+- **第 41 章**：与本章构词逻辑（前缀换方向）对照
+- **第 39 章**：关注同类"拉丁动词词干"的变形规律
+- **第 35 章**：回顾同样涉及"支付/价值"语义场的词根
+- **第 27 章**：对比早期学过的前缀 *de-* / *ex-* 的用法
+
+**本章自测提示**：
+
+1. *independent* 拆开是哪三层？为什么 *in-* 不是"向内"而是"否定"？
+2. *pension* 和 *pensive* 都含 *pens-*，但一个是"钱"一个是"思考"——请用"称量"意象解释这两条分叉。
+3. 不看书，能说出 *suspend / suspense / expenditure / indispensable / propensity* 的词缀拆解吗？
+4. *stipend* 里的 *sti-* 来自哪个拉丁词，它与 *pend* 如何组合成"固定津贴"的意思？
+:::

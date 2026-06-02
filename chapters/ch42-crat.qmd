@@ -1,0 +1,129 @@
+# cracy / crat —— "权力·统治"
+
+::: {.root-banner}
+`cracy` · `crat` = rule, power 权力、统治
+:::
+
+来源：希腊语 **kratos**（力量、统治权），经由古希腊政治哲学著作传入拉丁语，再进入英语。希腊语 *kratos* 本指"体力上的压制"，后引申为政治上的支配力。
+
+::: {.etymo}
+**词源故事：雅典广场上的词根**
+
+公元前五世纪，雅典人在辩论如何命名自己那套新奇的制度——"由全体公民集会表决"。他们把 *demos*（人民）与 *kratos*（统治力）焊在一起，造出 *demokratia*。这个词在后世两千五百年里从未停歇，每次人们争论"谁该掌权"，*kratos* 就会悄然出现在新词里。
+
+希腊人对"谁来统治"这件事极为认真，因此发明了一整套搭配：最好的人（*aristoi*）统治叫 *aristokratia*；神明统治叫 *theokratia*；强者一人说了算叫 *autokratia*。这些词就像乐高积木，把各种"统治主体"插到 *-kratia* 的接口上，秒变新词。
+
+文艺复兴时期，欧洲学者重新挖出这批希腊词，配合各时代新造的"统治主体"——office（办公桌 *bureau*）、财富（*plutos*）、技术（*techne*）——继续拼搭，一直拼到二十一世纪。今天你在《经济学人》或任何政论文章里随手抓一页，几乎都能逮到一个 *-cracy* 或 *-crat*。
+
+记住一件事：**-cracy 是制度，-crat 是人**。*democracy* 是民主制度，*democrat* 是支持或实践这种制度的人。这个规律适用于所有搭档根。
+:::
+
+### 搭档根表——"谁来统治？"
+
+| 搭档根 | 含义 | 核心组合示例 |
+|--------|------|-------------|
+| `demo-` | 人民（*demos*） | democracy, democrat |
+| `auto-` | 自己、单一 | autocracy, autocrat |
+| `aristo-` | 最优秀者（*aristos*） | aristocracy, aristocrat |
+| `bureau-` | 办公桌→官署（法语 *bureau*） | bureaucracy, bureaucrat |
+| `theo-` | 神（*theos*） | theocracy, theocrat |
+| `pluto-` | 财富（*ploutos*） | plutocracy, plutocrat |
+| `merito-` | 功绩（拉丁 *meritum*） | meritocracy, meritocrat |
+| `techno-` | 技术（*techne*） | technocracy, technocrat |
+| `mono-` | 单一 | monocracy（独裁） |
+| `ochlo-` | 暴民（*ochlos*） | ochlocracy（暴民统治） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [democracy]{.headword} | n. | `demo-`(人民)+`-cracy`(统治) | 民主；民主制度 | [高频]{.freq .freq-1} |
+| [democrat]{.headword} | n. | `demo-`(人民)+`-crat`(人) | 民主人士；民主党员 | [高频]{.freq .freq-1} |
+| [democratic]{.headword} | adj. | `demo-`+`-crat-`+`-ic` | 民主的；民主制度的 | [高频]{.freq .freq-1} |
+| [democratize]{.headword} | v. | `democratic`+-ize | 使民主化 | [中频]{.freq .freq-2} |
+| [democratization]{.headword} | n. | `democratize`+-ation | 民主化（过程） | [中频]{.freq .freq-2} |
+| [undemocratic]{.headword} | adj. | `un-`(否)+`democratic` | 非民主的；独断的 | [中频]{.freq .freq-2} |
+| [autocracy]{.headword} | n. | `auto-`(自己/单人)+`-cracy` | 独裁政体；专制统治 | [高频]{.freq .freq-1} |
+| [autocrat]{.headword} | n. | `auto-`+`-crat` | 独裁者；专制君主 | [高频]{.freq .freq-1} |
+| [autocratic]{.headword} | adj. | `auto-`+`-crat-`+`-ic` | 独裁的；专横的 | [高频]{.freq .freq-1} |
+| [aristocracy]{.headword} | n. | `aristo-`(最优)+`-cracy` | 贵族统治；贵族阶级 | [高频]{.freq .freq-1} |
+| [aristocrat]{.headword} | n. | `aristo-`+`-crat` | 贵族；上层人士 | [高频]{.freq .freq-1} |
+| [aristocratic]{.headword} | adj. | `aristo-`+`-crat-`+`-ic` | 贵族的；高贵的 | [高频]{.freq .freq-1} |
+| [bureaucracy]{.headword} | n. | `bureau-`(官署)+`-cracy` | 官僚机构；繁文缛节 | [高频]{.freq .freq-1} |
+| [bureaucrat]{.headword} | n. | `bureau-`+`-crat` | 官僚；文职官员 | [高频]{.freq .freq-1} |
+| [bureaucratic]{.headword} | adj. | `bureau-`+`-crat-`+`-ic` | 官僚的；行政程序繁琐的 | [高频]{.freq .freq-1} |
+| [bureaucratize]{.headword} | v. | `bureaucrat`+-ize | 使官僚化 | [低频]{.freq .freq-3} |
+| [theocracy]{.headword} | n. | `theo-`(神)+`-cracy` | 神权政体；神权统治 | [中频]{.freq .freq-2} |
+| [theocrat]{.headword} | n. | `theo-`+`-crat` | 神权统治者；神职执政者 | [低频]{.freq .freq-3} |
+| [theocratic]{.headword} | adj. | `theo-`+`-crat-`+`-ic` | 神权的；政教合一的 | [中频]{.freq .freq-2} |
+| [plutocracy]{.headword} | n. | `pluto-`(财富)+`-cracy` | 财阀统治；富豪政体 | [中频]{.freq .freq-2} |
+| [plutocrat]{.headword} | n. | `pluto-`+`-crat` | 财阀；凭财富掌权者 | [中频]{.freq .freq-2} |
+| [plutocratic]{.headword} | adj. | `pluto-`+`-crat-`+`-ic` | 财阀的；富豪统治的 | [中频]{.freq .freq-2} |
+| [meritocracy]{.headword} | n. | `merito-`(功绩)+`-cracy` | 精英管理；任人唯贤制 | [高频]{.freq .freq-1} |
+| [meritocrat]{.headword} | n. | `merito-`+`-crat` | 靠才能晋升者；精英主义者 | [中频]{.freq .freq-2} |
+| [meritocratic]{.headword} | adj. | `merito-`+`-crat-`+`-ic` | 任人唯贤的；精英制度的 | [中频]{.freq .freq-2} |
+| [technocracy]{.headword} | n. | `techno-`(技术)+`-cracy` | 技术官僚政体；专家治国 | [中频]{.freq .freq-2} |
+| [technocrat]{.headword} | n. | `techno-`+`-crat` | 技术官僚；专家治国倡导者 | [中频]{.freq .freq-2} |
+| [technocratic]{.headword} | adj. | `techno-`+`-crat-`+`-ic` | 技术官僚的；专家主导的 | [中频]{.freq .freq-2} |
+| [gerontocracy]{.headword} | n. | `geronto-`(老人)+`-cracy` | 老人政治；以老人为主的统治集团 | [低频]{.freq .freq-3} |
+| [kleptocracy]{.headword} | n. | `klepto-`(盗窃)+`-cracy` | 盗贼统治；腐败政权 | [中频]{.freq .freq-2} |
+| [kakistocracy]{.headword} | n. | `kakisto-`(最坏)+`-cracy` | 劣政；由最无能者执政的政体 | [低频]{.freq .freq-3} |
+| [monocracy]{.headword} | n. | `mono-`(单一)+`-cracy` | 一人独治；独裁政体 | [低频]{.freq .freq-3} |
+| [ochlocracy]{.headword} | n. | `ochlo-`(暴民)+`-cracy` | 暴民统治；多数人暴政 | [低频]{.freq .freq-3} |
+| [stratocracy]{.headword} | n. | `strato-`(军队)+`-cracy` | 军人政府；军事统治 | [低频]{.freq .freq-3} |
+| [timocracy]{.headword} | n. | `timo-`(荣誉/财产)+`-cracy` | 荣誉政治（柏拉图语境）；财产政治 | [低频]{.freq .freq-3} |
+| [gynecocracy]{.headword} | n. | `gyneco-`(女性)+`-cracy` | 女性统治；母系政体 | [低频]{.freq .freq-3} |
+| [democratic process]{.headword} | n. phr. | `democratic`+process | 民主程序；正当选举过程 | [高频]{.freq .freq-1} |
+| [social democracy]{.headword} | n. phr. | social+`democracy` | 社会民主主义；福利国家体制 | [高频]{.freq .freq-1} |
+| [liberal democracy]{.headword} | n. phr. | liberal+`democracy` | 自由民主制度 | [高频]{.freq .freq-1} |
+| [direct democracy]{.headword} | n. phr. | direct+`democracy` | 直接民主；公民直接参与立法 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The country's transition to **democracy** was fragile—three free elections had to pass before anyone believed it would last.（民主化转型脆弱：自由选举举行了三次，人们才真正相信它能延续下去）
+- His management style is entirely **autocratic**: he never consults staff and expects orders to be followed without question.（管理风格极度专制：从不征询员工意见，期待命令被无条件执行）
+- Critics argue that the new cabinet is less a **meritocracy** than an old-boys' network in disguise.（批评者认为新内阁与其说是任人唯贤，不如说是乔装打扮的旧式关系网）
+- Navigating the hospital's **bureaucracy** took longer than the medical procedure itself—three forms, two supervisors, and four rubber stamps.（穿越医院的官僚程序花的时间比手术本身还长——三张表格、两位主管、四枚公章）
+- The Gulf state's **theocratic** constitution gives clerics the final say over legislation, limiting what elected representatives can actually change.（该海湾国家的神权宪法赋予神职人员对立法的最终否决权，严重限制了民选代表的实际权力）
+- A **technocrat** appointed to fix the budget crisis, she spoke only in spreadsheets and made no friends in parliament.（她以技术官僚身份被任命来解决预算危机，开口只谈电子表格，在议会里没交到一个朋友）
+:::
+
+::: {.mnemonic}
+**助记**：记住一条铁律——**-cracy = 制度，-crat = 人**。*democracy*（制度）vs. *democrat*（人）；*autocracy*（制度）vs. *autocrat*（人）。然后把搭档根像便利贴一样一张张贴上去：*demo-*（人民贴纸）、*auto-*（自己贴纸）、*aristo-*（最优贴纸）……每贴一张，新词自动生成。如果遇到陌生的 *-cracy* 词，先拆开前半段，问"这是谁在统治？"，答案往往就是词义。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**Pluto（冥王星）≠ plutocracy 的词源。** *Plutocracy* 来自希腊语 *ploutos*（财富），与冥王 *Plouton*（Pluto）在希腊语里确实同根——冥界之神被认为掌管地下财宝——但这是历史趣闻，**不是可推断词义的规律**。看到 *pluto-* 前缀，判断词义要看语境，不能直接联想到"冥界"。
+
+**Bureaucracy 的 *bureau-* 不是希腊根。** 它来自法语 *bureau*（最初指覆盖办公桌的粗毛呢，后指办公桌，再指办公室），是法语借词拼入希腊后缀的混合词。这类混血词在英语政治词汇里很常见，搭档根表中已单独标注。
+
+**-cracy 与 -archy 的区别。** *-archy*（来自 *archein*，领导、统治）强调"首领地位"，*-cracy* 强调"权力来源"。*Monarchy*（君主制，一人居首）vs. *autocracy*（独裁，权力集于一人）——含义接近但来源不同，不可互换。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 42 章）涉及希腊根 *-cracy / -crat*，与前面多个章节存在词汇和语义交叉，建议今日同步回看：
+
+- **第 41 章**：回看上一章词根，确认前缀方向感仍然清晰
+- **第 40 章**：与本章搭档根 *demo-*（人民）可能有词汇重叠，检查是否混淆
+- **第 38 章**：含 *auto-*（自己）相关词根，*autocracy* 中的 *auto-* 与该章相同，核对释义
+- **第 34 章**：含 *theo-*（神）相关词根，*theocracy* 的 *theo-* 同源，对比记忆
+- **第 26 章**：含 *techno-*（技术）相关词根，*technocracy* 的前半段与该章衔接
+
+**本章自测提示**：
+
+1. *Meritocracy* 的 *merito-* 来自哪个拉丁词？它与"功绩"的联系是什么？
+2. 不查笔记，说出 *theocracy*、*plutocracy*、*kleptocracy* 各自是"谁在统治"。
+3. *Democratic* 和 *autocratic* 哪个形容词后缀是 *-ic*？这两个词的统治主体分别是什么？
+4. 造一个句子，用 *bureaucratic* 描述你亲身经历过的某件繁琐事务。
+:::

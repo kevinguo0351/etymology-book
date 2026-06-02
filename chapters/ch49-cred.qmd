@@ -1,0 +1,112 @@
+# cred —— "相信·信任"
+
+::: {.root-banner}
+cred = to believe, to trust 相信、信任
+:::
+
+来源：拉丁语 *credere*（相信、委托），与梵语 *śrad-dhā*（信心）同源，原始印欧根 \*kerd-（心）——字面义是"把心放上去"。
+
+::: {.etymo}
+**词源故事：把心放上去**
+
+古罗马人用 *credere* 描述一种极具分量的行为：把自己的心（*cor/cordis*）放到某人或某事上面，全然托付。这不只是"觉得可能是真的"，而是一种庄重的交托——借钱给朋友叫 *credere*，接受神的教义也叫 *credere*。
+
+商业词汇由此而来：借钱给别人，是因为你"相信"他会还；债权人 *creditor*，帐上的贷方 *credit*，都是从"信任"里生长出来的。教义词汇也如此：基督徒早期背诵的信条叫 *Credo*（拉丁语"我相信"的第一人称单数），后来演变成英语 *creed*。
+
+记住这个画面：一个罗马商人把钱袋递出去，同时把手放在胸口——"我把心放在你身上了。"这就是 *cred-* 的全部。
+:::
+
+**前缀决定方向，根永远是同一个动作。** *cred-* 本身始终是"相信/信任"，不同前缀把这个动作推向不同方位：
+
+| 前缀 | 原义 | 方向 | 代表词 |
+|------|------|------|--------|
+| ac- (ad-) | to, toward | 向内认证，给予信任 | **ac**credit |
+| dis- | apart, away | 拆除信任，往反方向扯 | **dis**credit |
+| in- | not | 无法相信，信任被否定 | **in**credible, **in**credulous |
+| （无前缀） | — | 信任本身 | credit, creed, credence |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [credit]{.headword} | n./v. | `cred-`(相信)+`-it`(名词尾) | 信用；贷款；学分；归功于 | [高频]{.freq .freq-1} |
+| [credible]{.headword} | adj. | `cred-`(相信)+`-ible`(可…的) | 可信的，可靠的 | [高频]{.freq .freq-1} |
+| [credibility]{.headword} | n. | `cred-`+`-ibil-`+`-ity` | 可信度，信誉 | [高频]{.freq .freq-1} |
+| [incredible]{.headword} | adj. | `in-`(不)+`cred-`+`-ible` | 难以置信的；极好的 | [高频]{.freq .freq-1} |
+| [incredibly]{.headword} | adv. | `in-`+`cred-`+`-ibly` | 难以置信地；极其 | [高频]{.freq .freq-1} |
+| [incredulous]{.headword} | adj. | `in-`(不)+`cred-`+`-ulous`(易于…) | 怀疑的，不轻信的 | [中频]{.freq .freq-2} |
+| [incredulity]{.headword} | n. | `in-`+`cred-`+`-ulity` | 怀疑，不相信 | [中频]{.freq .freq-2} |
+| [credulous]{.headword} | adj. | `cred-`(相信)+`-ulous`(易于…) | 轻信的，易受骗的 | [中频]{.freq .freq-2} |
+| [credulity]{.headword} | n. | `cred-`+`-ulity` | 轻信，易受骗的特性 | [中频]{.freq .freq-2} |
+| [credulously]{.headword} | adv. | `cred-`+`-ulous`+`-ly` | 轻信地 | [低频]{.freq .freq-3} |
+| [creed]{.headword} | n. | 拉丁 *credo* → 古英语 *creda* | 信条，教义；人生准则 | [中频]{.freq .freq-2} |
+| [credo]{.headword} | n. | 拉丁语"我相信"（第一人称） | 信条，宗旨 | [中频]{.freq .freq-2} |
+| [credence]{.headword} | n. | `cred-`+`-ence`(名词尾) | 信任，采信；（餐桌旁的）供桌 | [中频]{.freq .freq-2} |
+| [credential]{.headword} | n. | `cred-`+`-ential`(形/名词尾) | 资质证明；证书；（复数）凭证 | [高频]{.freq .freq-1} |
+| [credentials]{.headword} | n.pl. | `credential`复数 | 证件，资历，任职资格 | [高频]{.freq .freq-1} |
+| [credentialed]{.headword} | adj. | `credential`+`-ed` | 持有证书的，经过认证的 | [中频]{.freq .freq-2} |
+| [accredit]{.headword} | v. | `ac-`(ad-,向)+`cred-`+`-it` | 认证；授权；归功于 | [中频]{.freq .freq-2} |
+| [accreditation]{.headword} | n. | `accredit`+`-ion` | （官方）认证，鉴定资格 | [中频]{.freq .freq-2} |
+| [accredited]{.headword} | adj. | `accredit`+`-ed` | 经认证的，得到授权的 | [中频]{.freq .freq-2} |
+| [discredit]{.headword} | v./n. | `dis-`(去除)+`cred-`+`-it` | 使丧失信誉；怀疑；名誉受损 | [中频]{.freq .freq-2} |
+| [discreditable]{.headword} | adj. | `discredit`+`-able` | 有损名誉的，可耻的 | [低频]{.freq .freq-3} |
+| [creditor]{.headword} | n. | `cred-`+`-itor`(人，施事) | 债权人，贷方 | [高频]{.freq .freq-1} |
+| [credit card]{.headword} | n. | `credit`+card | 信用卡 | [高频]{.freq .freq-1} |
+| [credit score]{.headword} | n. | `credit`+score | 信用评分 | [高频]{.freq .freq-1} |
+| [creditworthy]{.headword} | adj. | `credit`+`worthy`(值得) | 信用良好的，值得借贷的 | [中频]{.freq .freq-2} |
+| [creditworthiness]{.headword} | n. | `creditworthy`+`-ness` | 信用度，偿债能力 | [中频]{.freq .freq-2} |
+| [miscreant]{.headword} | n./adj. | `mis-`(错误)+`cred-`(信仰)+`-ant` | 歹徒，恶棍；不法的 | [低频]{.freq .freq-3} |
+| [recreant]{.headword} | adj./n. | `re-`(回)+`cred-`(信仰)+`-ant` | 懦弱的；背叛信仰者（古/文学） | [低频]{.freq .freq-3} |
+| [grant credence]{.headword} | phr. | `grant`+`credence` | 采信，赋予可信度 | [中频]{.freq .freq-2} |
+| [lend credence]{.headword} | phr. | `lend`+`credence` | 使更可信，增添可信度 | [中频]{.freq .freq-2} |
+| [beyond credit]{.headword} | phr. | — | 令人难以置信（旧用法） | [低频]{.freq .freq-3} |
+| [on credit]{.headword} | phr. | — | 赊账，以信用方式 | [高频]{.freq .freq-1} |
+| [take credit for]{.headword} | phr. | — | 邀功，将……归功于自己 | [高频]{.freq .freq-1} |
+| [to one's credit]{.headword} | phr. | — | 值得称赞的是 | [高频]{.freq .freq-1} |
+| [creditor nation]{.headword} | n. | `creditor`+nation | 债权国 | [中频]{.freq .freq-2} |
+| [accrediting agency]{.headword} | n. | `accrediting`+agency | 认证机构 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The auditors found that the company had been **discrediting** its own safety reports for years.（审计人员发现，该公司多年来一直在抹黑自己的安全报告——*dis-* 把信任推走了。）
+- She stared at him with an expression of complete **incredulity**, unable to process what he'd just said.（她用完全不相信的神情盯着他，无法消化他刚才说的话。）
+- The university lost its **accreditation** after inspectors discovered widespread grade fraud.（大学在检查人员发现大规模成绩造假后失去了认证资格。）
+- His **credentials** looked impressive on paper, but he struggled to answer basic questions in the interview.（他的证书在纸面上看起来令人印象深刻，但面试时连基本问题都答不上来。）
+- The president's **credibility** took a serious hit after his promises proved empty.（在他的承诺被证明是空话之后，总统的公信力受到严重打击。）
+- The new eyewitness account lends **credence** to the theory that the fire was deliberately set.（新的目击者证词使这场大火系蓄意纵火的说法更加可信。）
+:::
+
+::: {.mnemonic}
+**助记**：把 *cred-* 想成一把方向盘，"相信"是发动机，前缀是方向：
+- **ac-**（向前冲）→ accredit：向某人冲过去认证他
+- **dis-**（往反方向打方向盘）→ discredit：把信任拉开、撤走
+- **in-**（踩刹车）→ incredible / incredulous：信任踩了急刹车，相信不了
+
+口诀：**"心放上去是 cred，前缀决定信还是不信、送出去还是撤回来。"**
+:::
+
+::: {.trap}
+**陷阱**：*miscreant*（恶棍）看起来是 `mis-`（错误）+`cred-`（相信），字面义是"信错了教义的人"。这个来源是准确的，但现代英语里它完全是"坏蛋/歹徒"的意思，跟"信仰"毫无关联。**不要**用词源推测它在句子里的具体含义——它已经语义漂移为纯粹的负面人物标签。
+
+同样，*recreant*（懦夫、叛教者）在现代几乎只出现在文学或戏谑用法中，日常写作遇到时查字典确认语境，别因为认识词根就觉得自己理解了它的语气。
+:::
+
+::: {.review-today}
+**今日复习**
+
+完成本章后，请回看以下章节，强化前缀与词根的交叉记忆：
+
+- **第 48 章**（上一章）——趁热打铁，确认上一个词根掌握牢固
+- **第 47 章**——回顾并与本章的前缀系统对比
+- **第 45 章**——检验前缀 *dis-* / *in-* 的用法是否与本章一致
+- **第 41 章**——对比另一个"委托/给予"类词根的派生规律
+- **第 33 章**——回顾信任与契约相关的词汇群
+
+**本章自测（遮住释义列，只看拆解）：**
+1. `in-` + `cred-` + `-ible` = ？（答：incredible）
+2. `ac-` + `cred-` + `-it` + `-ation` = ？（答：accreditation）
+3. `dis-` + `cred-` + `-it` = ？（答：discredit）
+4. `cred-` + `-ulous` = ？（答：credulous，注意：是轻信，不是难以置信）
+5. 拉丁语"我相信"直接借入英语 = ？（答：credo）
+:::

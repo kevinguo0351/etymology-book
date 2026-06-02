@@ -1,0 +1,128 @@
+# soph —— "智慧·聪明"
+
+::: {.root-banner}
+`soph` = wise, wisdom 智慧，聪明
+:::
+
+来源：希腊语 *sophos*（聪明的、有智慧的）及其名词形式 *sophia*（智慧），广泛进入拉丁语后传入英语。
+
+::: {.etymo}
+**词源故事：雅典街头的智慧买卖**
+
+公元前五世纪的雅典，有一群走街串巷、收费授课的教师，自称能教会任何人辩论、说服、赢得官司。希腊人叫他们 *sophistēs*——字面意思就是"智慧从业者"。起初这个称呼相当体面：谁不想跟一位有 *sophia* 的人学习？
+
+然而苏格拉底和柏拉图对这批人深恶痛绝。苏格拉底说，真正的智慧始于承认自己无知；而"诡辩家"们却把文字游戏当作智慧出售，只求胜辩、不求真理。于是 *sophistēs* 一词渐渐染上了"玩弄文字"的贬义，英语的 sophist / sophistry 至今保留着这层阴影。
+
+*sophia* 这个词本身却始终高洁。*philo-*（爱）+*sophia* = **philosophy**，"爱智慧"——这是柏拉图笔下苏格拉底最心仪的自我描述。后来基督教神学家用 *theo-*（神）+*sophia* 造出 **theosophy**（神智学），用来描述对神圣智慧的直接体验。
+
+最妙的一个词是 **sophomore**。它由 *sophos*（聪明）+*mōros*（愚蠢）拼成，字面是"智慧的傻瓜"。刚上大学第二年的学生，知道得够多、自以为看穿一切，却又经验不足——"聪明的傻瓜"真是再精准不过的画像。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `phil-` | 爱 | philosophy（爱智慧）|
+| `theo-` | 神 | theosophy（神智学）|
+| `moros` | 愚蠢 | sophomore（聪明的傻瓜）|
+| `-ist` | 从事者 | sophist（诡辩家）|
+| `-ry / -ery` | 行为/体系 | sophistry（诡辩）|
+| `-ic / -ical` | 形容词化 | philosophic(al)（哲学的）|
+| `-er / -os` | 人 | philosopher（哲学家）|
+| `un-` | 否定 | unsophisticated（天真朴实的）|
+| `-ize` | 动词化 | philosophize（哲学思考）|
+| `pan-` | 全 | Pansophism（全智主义）|
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [philosophy]{.headword} | n. | `philo-`(爱)+`sophy`(智慧) | 哲学；人生观 | [高频]{.freq .freq-1} |
+| [philosopher]{.headword} | n. | `philo-`(爱)+`soph`(智)+`-er`(人) | 哲学家 | [高频]{.freq .freq-1} |
+| [philosophical]{.headword} | adj. | `philosoph`+`-ical`(形容词) | 哲学的；超然冷静的 | [高频]{.freq .freq-1} |
+| [philosophically]{.headword} | adv. | `philosophical`+`-ly` | 哲学地；泰然地 | [中频]{.freq .freq-2} |
+| [philosophize]{.headword} | v. | `philosoph`+`-ize`(动词化) | 进行哲学思考；空谈 | [中频]{.freq .freq-2} |
+| [sophisticated]{.headword} | adj. | `sophist`(诡辩)+`-ic`+`-ated`(被…处理过) | 老练复杂的；精密的 | [高频]{.freq .freq-1} |
+| [unsophisticated]{.headword} | adj. | `un-`(否)+`sophisticated` | 朴实天真的；简单粗陋的 | [高频]{.freq .freq-1} |
+| [sophistication]{.headword} | n. | `sophisticated`+`-ion` | 老练；复杂程度；精致 | [高频]{.freq .freq-1} |
+| [sophisticate]{.headword} | v./n. | `sophist`+`-ic`+`-ate` | 使复杂化；见多识广的人 | [中频]{.freq .freq-2} |
+| [sophist]{.headword} | n. | `soph`(智)+`-ist`(从事者) | 诡辩家；强词夺理者 | [中频]{.freq .freq-2} |
+| [sophistry]{.headword} | n. | `soph`+`-ist`+`-ry`(行为体系) | 诡辩；似是而非的论证 | [中频]{.freq .freq-2} |
+| [sophism]{.headword} | n. | `soph`+`-ism`(主义/谬论) | 诡辩论点；谬误推理 | [中频]{.freq .freq-2} |
+| [sophistic]{.headword} | adj. | `sophist`+`-ic` | 诡辩的；似是而非的 | [低频]{.freq .freq-3} |
+| [sophomore]{.headword} | n. | `sopho`(聪明)+`more`←`moros`(愚蠢) | 大学/高中二年级生 | [高频]{.freq .freq-1} |
+| [sophomoric]{.headword} | adj. | `sophomore`+`-ic` | 自以为是的；幼稚却自大的 | [中频]{.freq .freq-2} |
+| [theosophy]{.headword} | n. | `theo-`(神)+`sophy`(智慧) | 神智学（直接体验神圣智慧的信仰体系）| [低频]{.freq .freq-3} |
+| [theosophist]{.headword} | n. | `theosoph`+`-ist` | 神智学家 | [低频]{.freq .freq-3} |
+| [theosophical]{.headword} | adj. | `theosoph`+`-ical` | 神智学的 | [低频]{.freq .freq-3} |
+| [Sophia]{.headword} | n. (proper) | `sophia`(智慧) | 索菲亚（名字）；智慧女神 | [高频]{.freq .freq-1} |
+| [Sophie]{.headword} | n. (proper) | `sophia` 缩略 | 索菲（名字） | [高频]{.freq .freq-1} |
+| [philosophe]{.headword} | n. | 法语借词，`philosoph`(哲学家) | 启蒙时代法国哲学家 | [低频]{.freq .freq-3} |
+| [pansophy]{.headword} | n. | `pan-`(全)+`sophy` | 全智论；普遍知识体系 | [低频]{.freq .freq-3} |
+| [pansophism]{.headword} | n. | `pan-`(全)+`soph`+`-ism` | 全智主义（夸美纽斯教育思想）| [低频]{.freq .freq-3} |
+| [natural philosophy]{.headword} | n. | `natural`+`philosophy` | 自然哲学（物理学前身）| [中频]{.freq .freq-2} |
+| [philosophy of mind]{.headword} | n. | `philosophy`+`of mind` | 心灵哲学 | [中频]{.freq .freq-2} |
+| [philosophic]{.headword} | adj. | `philosoph`+`-ic` | 哲学的（较文雅古朴用法）| [中频]{.freq .freq-2} |
+| [sophocracy]{.headword} | n. | `soph`+`-o-`+`-cracy`(统治) | 智人统治（理想政体概念）| [低频]{.freq .freq-3} |
+| [wisdom]{.headword} | n. | 日耳曼语对应词（非 soph 派生，但语义场同） | 智慧；明智 | [高频]{.freq .freq-1} |
+| [sophrosyne]{.headword} | n. | 希腊语 `sophrosynē` = `sophr-`+`-osynē` | 节制；心智健全（古希腊美德）| [低频]{.freq .freq-3} |
+| [sophomore slump]{.headword} | n. (phrase) | `sophomore`+`slump` | 二年级低谷（第二部作品/赛季不如首部）| [中频]{.freq .freq-2} |
+| [philosophically inclined]{.headword} | adj. (phrase) | `philosophically`+`inclined` | 有哲学思维倾向的 | [中频]{.freq .freq-2} |
+| [practical philosophy]{.headword} | n. | `practical`+`philosophy` | 实践哲学 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- Her **sophisticated** palate could distinguish the subtle difference between two vintages from the same vineyard.（老练的味觉——*sophisticated* 在此指"经过磨练而精细"，与"诡辩"的原义已相距甚远）
+- The politician's argument was pure **sophistry**: it sounded logical, but every premise was quietly false.（纯粹的诡辩——表面上言之成理，细究却漏洞百出）
+- As a **sophomore**, he was dangerous: just enough knowledge to be overconfident, but not enough to be wise.（二年级危险期——"聪明的傻瓜"状态活灵活现）
+- She approached her father's sudden death with remarkable **philosophical** calm, saying, "He lived exactly the life he chose."（超然冷静——*philosophical* 的引申义，指直面无常时的泰然）
+- The professor warned that the reasoning in the essay was **sophistic**, confusing correlation with causation throughout.（推理似是而非——*sophistic* 专指逻辑表面成立但实质谬误）
+- Madame Blavatsky founded the Theosophical Society in 1875, claiming that **theosophy** offered direct access to cosmic wisdom beyond ordinary religion.（神智学——*theo* + *sophia*，追求超越宗教形式的直接神圣体验）
+:::
+
+::: {.mnemonic}
+**助记**：
+
+- **核心图像**：想象一位雅典老人坐在台阶上，头顶发光的"S"形光环，光环上写着 *soph* = 智慧。
+
+- **philosophy**：`phil`（爱）+ `sophy`（智慧）→ 爱智慧 = 哲学。想象一个人深情凝视一本厚重的哲学书，眼神里满是爱意。
+
+- **sophomore**：`sopho`（聪明）+ `more`（←*moros*，傻）→ "聪明傻瓜"。想象一个戴着学士帽却拿着地图走反方向的大二学生——知道得够多，却还不够多。
+
+- **sophisticated**：原义是"被诡辩家处理过"——就像经过精加工的食品，复杂而精致，但离"原始天然"越来越远。*un*sophisticated 反过来就是"没被加工过"，天真朴实。
+
+- **sophistry**：记住"诡辩三件套"：sophist（人）→ sophism（一个论点）→ sophistry（整套行为/体系），层层递进。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**sophisticated 的语义漂移**：此词原义是贬义——"被诡辩家修饰过的、矫揉造作的"。但现代英语中它几乎清一色是褒义或中性：a sophisticated system（精密系统）、a sophisticated traveler（见多识广的旅行者）。别把原始词源义带入现代语境，否则会误解句意。
+
+**sophomore 的拼写陷阱**：中间的 `-o-` 常被漏写，写成 *sophmore*。记住它是两个词根的拼合：*sopho-*（聪明）+ *more*（←*moros*，愚），中间有一个连接元音 `-o-`。
+
+**wisdom 不是 soph 的派生词**：*wisdom* 来自古英语日耳曼词根，与 *soph* 语义相近却无亲缘。两者是"语义对应"而非"词源同源"，切勿因为意思相近就误推词根关系。
+
+**sophia 作为历史趣闻，不可随意推断**：知道 *sophia* = 智慧这段历史很有趣，但英语里并非所有含 *-ph-* 的词都与"智慧"有关，例如 *telephone*（tele+phone）、*graph*（写）均与 *soph* 无关。词根推断必须有词源依据，不可因字母相似而类推。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 46 章）学完后，请回看以下章节巩固相关词根：
+
+- **第 45 章**：上一章词根，趁热复习
+- **第 44 章**：回顾，防遗忘曲线
+- **第 42 章**：间隔复习
+- **第 38 章**：较早章节，检验长期记忆
+- **第 30 章**：早期词根，确认基础稳固
+
+**本章自测提示（不看答案，先自己想）**：
+
+1. *philosophy* 字面意思是什么？两个词根各是什么？
+2. *sophomore* 藏着两个语义相反的希腊词根，分别是？为什么用来指"大学二年级生"？
+3. *sophisticated* 的原义是贬义还是褒义？现代用法发生了怎样的漂移？
+4. *sophistry* 和 *sophism* 有何区别？（提示：一个指整体行为，一个指单个论点）
+5. 用 `theo-` + `sophy` 拼出的词是什么？它研究的是什么？
+:::

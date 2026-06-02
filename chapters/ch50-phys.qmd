@@ -1,0 +1,116 @@
+# phys / physi —— "自然·身体"
+
+::: {.root-banner}
+phys · physi = nature; body; growth 自然；身体；生长
+:::
+
+来源：希腊语 *physis*（φύσις），意为"自然、天性、生长"，源自动词 *phyein*（生长、生出），与拉丁语 *natura* 对应，是古希腊哲学讨论"万物本源"的核心词。
+
+::: {.etymo}
+**词源故事：万物皆有其 physis**
+
+在古希腊，哲学家泰勒斯问的第一个大问题是：世界的本原（*physis*）是什么？水？火？气？这个词从一开始就不只意味着"自然界的山川草木"，而是指事物内在的生长本性——是什么让一颗橡子长成橡树，是什么让人有别于石头。
+
+*physis* 落入拉丁语后变成 *physica*，指"研究自然本性的学问"。亚里士多德专门写了一本书叫《物理学》（*Physica*），但里面讲的是运动、变化、时间、空间——也就是自然世界一切变化的根本原理。这就是为什么今天 **physics** 是"物理学"，而不是"生物学"或"化学"。
+
+*physis* 又有"身体的"这层义，因为人的身体正是自然生长的产物。医生懂得身体的自然，所以 **physician**（内科医生）字面义就是"懂自然/身体之人"。一个人的体型 **physique** 是身体天生的构造；**physiology** 是研究身体功能的学问；**physiotherapy** 则是用物理方法（而非药物）让身体恢复自然状态的疗法。
+
+当古希腊人想谈论超越可见自然的层次，他们在 *physis* 前加 *meta-*（之后、之外），写成 *ta meta ta physika*——字面是"放在《物理学》之后的那些书"，指亚里士多德讲存在、实体、第一因的著作。后人就用 **metaphysics** 指形而上学，探讨超越物质自然的终极问题。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 与 phys 的组合示例 |
+|--------|------|-------------------|
+| **-ics** | …学、…科学 | physics 物理学 |
+| **-ian** | …领域的人 | physician 内科医生 |
+| **-logy / -ology** | 研究…的学科 | physiology 生理学 |
+| **-ique** | （法语借形）体质、风格 | physique 体格 |
+| **meta-** | 超越、之后 | metaphysics 形而上学 |
+| **geo-** | 地球、大地 | geophysics 地球物理学 |
+| **astro-** | 星、宇宙 | astrophysics 天体物理学 |
+| **-therapy** | 治疗 | physiotherapy 物理治疗 |
+| **-gnomy** | 判断、辨别 | physiognomy 面相学 |
+| **bio-** | 生命 | biophysics 生物物理学 |
+| **-graphy** | 描写、记录 | physiography 自然地理学 |
+| **aero-** | 空气 | aerophysics 气体物理学 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [physics]{.headword} | n. | `phys`(自然)+`-ics`(学科) | 物理学 | [高频]{.freq .freq-1} |
+| [physical]{.headword} | adj. | `phys`(自然/身体)+`-ical`(…的) | 物质的；身体的；物理的 | [高频]{.freq .freq-1} |
+| [physically]{.headword} | adv. | `physical`+`-ly` | 在身体上；在物质上 | [高频]{.freq .freq-1} |
+| [physician]{.headword} | n. | `physi`(身体/自然)+`-cian`(人) | 内科医生 | [高频]{.freq .freq-1} |
+| [physiology]{.headword} | n. | `physi`(身体)+`-ology`(学) | 生理学 | [高频]{.freq .freq-1} |
+| [physiological]{.headword} | adj. | `physiology`+`-ical` | 生理（学）的 | [高频]{.freq .freq-1} |
+| [physiologically]{.headword} | adv. | `physiological`+`-ly` | 从生理上 | [中频]{.freq .freq-2} |
+| [physique]{.headword} | n. | `physi`(身体/自然)（经法语）+`-que` | 体格，体型 | [高频]{.freq .freq-1} |
+| [physicist]{.headword} | n. | `physic`(物理)+`-ist`(人) | 物理学家 | [高频]{.freq .freq-1} |
+| [metaphysics]{.headword} | n. | `meta-`(超越)+`phys`(自然)+`-ics` | 形而上学 | [中频]{.freq .freq-2} |
+| [metaphysical]{.headword} | adj. | `metaphysics`+`-al` | 形而上学的；超物质的 | [中频]{.freq .freq-2} |
+| [physiotherapy]{.headword} | n. | `physio`(身体)+`therapy`(治疗) | 物理治疗；理疗 | [高频]{.freq .freq-1} |
+| [physiotherapist]{.headword} | n. | `physiotherapy`+`-ist` | 物理治疗师 | [高频]{.freq .freq-1} |
+| [geophysics]{.headword} | n. | `geo-`(地球)+`phys`(自然)+`-ics` | 地球物理学 | [中频]{.freq .freq-2} |
+| [geophysical]{.headword} | adj. | `geo-`+`physical` | 地球物理的 | [中频]{.freq .freq-2} |
+| [astrophysics]{.headword} | n. | `astro-`(星)+`phys`(自然)+`-ics` | 天体物理学 | [中频]{.freq .freq-2} |
+| [astrophysicist]{.headword} | n. | `astrophysics`+`-ist` | 天体物理学家 | [中频]{.freq .freq-2} |
+| [biophysics]{.headword} | n. | `bio-`(生命)+`phys`(自然)+`-ics` | 生物物理学 | [中频]{.freq .freq-2} |
+| [physiognomy]{.headword} | n. | `physio`(自然/外貌)+`-gnomy`(判断) | 面相学；面部特征 | [低频]{.freq .freq-3} |
+| [physiognomist]{.headword} | n. | `physiognomy`+`-ist` | 看相者；面相研究者 | [低频]{.freq .freq-3} |
+| [physiography]{.headword} | n. | `physio`(自然)+`-graphy`(记录/描述) | 自然地理学；地文学 | [低频]{.freq .freq-3} |
+| [physic]{.headword} | n./v. | `phys`(自然/身体)+`-ic` | （古）药；泻药；用药治疗 | [低频]{.freq .freq-3} |
+| [physicked]{.headword} | v. | `physic`的过去式 | （古）施药治疗 | [低频]{.freq .freq-3} |
+| [physicism]{.headword} | n. | `physic`+`-ism` | 自然主义；唯物论 | [低频]{.freq .freq-3} |
+| [physical education]{.headword} | n. | `physical`(身体的)+`education` | 体育教育，体育课（简称 PE） | [高频]{.freq .freq-1} |
+| [physical therapy]{.headword} | n. | `physical`(身体的)+`therapy`(治疗) | 物理治疗（= physiotherapy，美式用法） | [高频]{.freq .freq-1} |
+| [physical fitness]{.headword} | n. | `physical`(身体的)+`fitness`(健康) | 体能；身体健康 | [高频]{.freq .freq-1} |
+| [physical examination]{.headword} | n. | `physical`+`examination` | 体格检查，体检 | [高频]{.freq .freq-1} |
+| [geophysicist]{.headword} | n. | `geophysics`+`-ist` | 地球物理学家 | [中频]{.freq .freq-2} |
+| [psychophysics]{.headword} | n. | `psycho-`(心理)+`phys`(身体)+`-ics` | 心理物理学 | [低频]{.freq .freq-3} |
+| [psychophysical]{.headword} | adj. | `psycho-`+`physical` | 心理物理的；身心的 | [低频]{.freq .freq-3} |
+| [microphysics]{.headword} | n. | `micro-`(微小)+`phys`+`-ics` | 微观物理学 | [低频]{.freq .freq-3} |
+| [macrophysics]{.headword} | n. | `macro-`(宏大)+`phys`+`-ics` | 宏观物理学 | [低频]{.freq .freq-3} |
+| [nuclear physics]{.headword} | n. | `nuclear`(核)+`phys`+`-ics` | 核物理学 | [中频]{.freq .freq-2} |
+| [metaphysician]{.headword} | n. | `metaphysics`+`-ian`(人) | 形而上学家 | [低频]{.freq .freq-3} |
+| [physiological psychology]{.headword} | n. | `physiological`+`psychology` | 生理心理学 | [中频]{.freq .freq-2} |
+| [physio]{.headword} | n. | `physio`（缩略） | （口语）物理治疗师；理疗 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- She has an impressive **physique** built through years of training. （她通过多年训练塑造出令人印象深刻的体格——phys = 身体，physique 特指外在体型）
+- **Physics** explains why the apple falls, but **metaphysics** asks why there is an apple at all. （物理学解释苹果为何坠落，形而上学追问苹果为何存在——一句话道出两词的关系）
+- After the knee surgery, he spent six weeks with a **physiotherapist** to regain full movement. （膝盖手术后他跟物理治疗师训练了六周才恢复完整活动能力——physio + therapy = 用身体自然恢复力治疗）
+- A **physician** should treat the whole person, not just the disease. （内科医生应当治疗整个人而不只是疾病——physician 本义"懂自然/身体之人"，区别于 surgeon 外科医生）
+- The course covers both the **physiological** and psychological effects of stress. （这门课涵盖压力的生理与心理双重影响——physiological 对应身体机能层面）
+- **Geophysics** combines the tools of physics with the study of the Earth's interior and magnetic field. （地球物理学将物理学工具应用于研究地球内部结构与磁场——geo + phys + ics 三根合一）
+:::
+
+::: {.mnemonic}
+**助记**：把 **phys** 想成一棵正在生长的植物（phyein = 生长）。它往上长进 **physics**（自然规律之学）；往里长入人体变成 **physiology**（生理学）和 **physician**（懂身体的人）；超出地面以上变成 **meta**-physics（超越自然之学）；向两侧延伸出 **geo**-physics 和 **astro**-physics。每次见到 phys-，先问：这里是在说"自然"还是"身体"，答案帮你锁定词义。
+:::
+
+::: {.trap}
+**陷阱**：**physic**（古英语，泻药/药物）与现代 **physics**（物理学）拼写相近，但含义已经分道扬镳。历史上，"physic" 指医术，医生曾叫 *physician of physic*；后来 physics 专门化为自然哲学 → 物理学。今天在英文中看到 *physic garden*（药草园，剑桥大学就有一所）不要以为在说物理——这是历史遗词，与现代 physics 无关，**不能用词根推断混用**。类似地，**physiognomy**（面相学）中的 `-gnomy` 来自希腊 *gnomon*（判断者），是独立词根，physiognomy 整体是历史词，其"由外貌判断性格"的做法已被现代心理学否定，请仅作语言趣闻了解，**勿以此词根组合去推断其他词义**。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 50 章）学完后，按遗忘曲线回看以下章节：
+
+- **第 49 章** — 请回顾其核心词表，完成默写
+- **第 48 章** — 重点检查容易混淆的派生词
+- **第 46 章** — 抽查"生动语境"例句，能否不看提示还原粗体词
+- **第 42 章** — 复习词根故事，用自己的话复述给自己听
+- **第 34 章** — 距今最久，重点测试：只看释义，能否写出目标词？
+
+**本章自测提示**（合上书，尝试回答）：
+
+1. *physician* 和 *physicist* 都含 phys-，两者职业完全不同——各自的词根逻辑是什么？
+2. *metaphysics* 中 *meta-* 的字面义是什么？为什么这个词最初只是一本书的编排位置？
+3. 不看表格，说出至少 4 个与 phys 搭配的领域根及对应合成词。
+4. *physiotherapy* 与 *physical therapy* 是同义词吗？哪个更常见于英式英语？
+:::
