@@ -1,0 +1,123 @@
+# neuro / neur —— "神经"
+
+::: {.root-banner}
+neuro · neur = nerve, sinew 神经；筋腱
+:::
+
+来源：希腊语 **neuron**（νεῦρον），本义为"筋腱、弦"，后引申为神经纤维。拉丁语借用为 **nervus**，二者同源。
+
+::: {.etymo}
+**词源故事：拨弦与神经**
+
+古希腊人解剖动物时，看到白色细长的神经束，觉得它们和绷紧的弓弦、琴弦太像了——同样是紧绷、传导、富有弹性的纤维。于是 *neuron* 这个词既指"弓弦"，也指身体里那些"传递感觉的弦"，也就是神经。在荷马的诗里，*neura* 还是制弓用的动物筋腱。
+
+公元2世纪，盖伦（Galen）系统描述人体神经时，把感觉神经和运动神经都归入 *neuron* 范畴，这个希腊词从此牢牢锁定了"神经"的含义，一直传进现代医学词汇。
+
+19世纪末，卡哈尔（Santiago Ramón y Cajal）证明神经系统由独立的细胞单元组成，科学界专门造了 **neuron**（神经元）这个词来称呼单个神经细胞。从"弦"到"细胞"，词义随科学进步精确化，但词根从未改变。
+
+今天，你在任何神经科学、神经医学词汇里看到 **neuro-** 或 **neur-**，都可以回溯到那根古老的弓弦。
+:::
+
+作为希腊语领域根，**neur-** 最擅长与其他希腊语词根拼搭，构成大量专业术语。掌握它的"搭档根"，等于同时打开一扇扇学科大门：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| **-on** | 单元、粒子（名词化后缀） | neuron（神经元） |
+| **-logy** | 学问、研究 | neurology（神经学） |
+| **-logist** | …学家 | neurologist（神经科医生） |
+| **-osis** | 病态状态、过程 | neurosis（神经症） |
+| **-otic** | 具有…特征的 | neurotic（神经质的） |
+| **-algia** | 疼痛（algos = pain） | neuralgia（神经痛） |
+| **-pathy** | 感觉/病变（pathos = suffering） | neuropathy（神经病变） |
+| **-science** | 科学 | neuroscience（神经科学） |
+| **-surgeon / -surgery** | 外科医生/外科手术 | neurosurgeon / neurosurgery |
+| **-transmitter** | 传递物质 | neurotransmitter（神经递质） |
+| **-anatomy** | 解剖 | neuroanatomy（神经解剖学） |
+| **-toxin** | 毒素 | neurotoxin（神经毒素） |
+| **-plastic / -plasticity** | 可塑的/可塑性 | neuroplasticity（神经可塑性） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [neuron]{.headword} | n. | `neur`(神经)+`-on`(单元) | 神经元，神经细胞 | [高频]{.freq .freq-1} |
+| [neural]{.headword} | adj. | `neur`(神经)+`-al`(…的) | 神经的；神经系统的 | [高频]{.freq .freq-1} |
+| [neurology]{.headword} | n. | `neuro`(神经)+`-logy`(学) | 神经学，神经科学 | [高频]{.freq .freq-1} |
+| [neurological]{.headword} | adj. | `neuro`+`-logy`+`-ical` | 神经学的；神经系统的 | [高频]{.freq .freq-1} |
+| [neurologist]{.headword} | n. | `neuro`+`-logist`(学家) | 神经科医生；神经学家 | [高频]{.freq .freq-1} |
+| [neurosis]{.headword} | n. | `neur`(神经)+`-osis`(病态) | 神经症，神经官能症 | [高频]{.freq .freq-1} |
+| [neurotic]{.headword} | adj./n. | `neur`+`-otic`(…性的) | 神经质的；患神经症者 | [高频]{.freq .freq-1} |
+| [neuroscience]{.headword} | n. | `neuro`+`science`(科学) | 神经科学 | [高频]{.freq .freq-1} |
+| [neuroscientist]{.headword} | n. | `neuro`+`scientist` | 神经科学家 | [高频]{.freq .freq-1} |
+| [neurotransmitter]{.headword} | n. | `neuro`+`transmitter`(传递者) | 神经递质 | [高频]{.freq .freq-1} |
+| [neuralgia]{.headword} | n. | `neur`(神经)+`-algia`(痛) | 神经痛 | [中频]{.freq .freq-2} |
+| [neuropathy]{.headword} | n. | `neuro`+`-pathy`(病变) | 神经病变；神经病理 | [中频]{.freq .freq-2} |
+| [neurosurgeon]{.headword} | n. | `neuro`+`surgeon`(外科医生) | 神经外科医生 | [中频]{.freq .freq-2} |
+| [neurosurgery]{.headword} | n. | `neuro`+`surgery` | 神经外科（学） | [中频]{.freq .freq-2} |
+| [neuroplasticity]{.headword} | n. | `neuro`+`plasticity`(可塑性) | 神经可塑性 | [中频]{.freq .freq-2} |
+| [neurotoxin]{.headword} | n. | `neuro`+`toxin`(毒素) | 神经毒素 | [中频]{.freq .freq-2} |
+| [neurotoxic]{.headword} | adj. | `neuro`+`toxic`(有毒的) | 对神经有毒的 | [中频]{.freq .freq-2} |
+| [neuroanatomy]{.headword} | n. | `neuro`+`anatomy`(解剖) | 神经解剖学 | [中频]{.freq .freq-2} |
+| [neurochemistry]{.headword} | n. | `neuro`+`chemistry`(化学) | 神经化学 | [中频]{.freq .freq-2} |
+| [neuropsychology]{.headword} | n. | `neuro`+`psychology`(心理学) | 神经心理学 | [中频]{.freq .freq-2} |
+| [neuropsychological]{.headword} | adj. | `neuro`+`psycho`+`-logical` | 神经心理学的 | [中频]{.freq .freq-2} |
+| [neurodegenerative]{.headword} | adj. | `neuro`+`degenerative`(退化的) | 神经退行性的 | [中频]{.freq .freq-2} |
+| [neurodegeneration]{.headword} | n. | `neuro`+`degeneration` | 神经退行性病变 | [中频]{.freq .freq-2} |
+| [neuropathology]{.headword} | n. | `neuro`+`pathology`(病理学) | 神经病理学 | [中频]{.freq .freq-2} |
+| [neurobiology]{.headword} | n. | `neuro`+`biology`(生物学) | 神经生物学 | [中频]{.freq .freq-2} |
+| [neuroimaging]{.headword} | n. | `neuro`+`imaging`(成像) | 神经影像（学） | [中频]{.freq .freq-2} |
+| [neuroendocrine]{.headword} | adj. | `neuro`+`endocrine`(内分泌的) | 神经内分泌的 | [中频]{.freq .freq-2} |
+| [neuroinflammation]{.headword} | n. | `neuro`+`inflammation`(炎症) | 神经炎症 | [中频]{.freq .freq-2} |
+| [neuromuscular]{.headword} | adj. | `neuro`+`muscular`(肌肉的) | 神经肌肉的 | [中频]{.freq .freq-2} |
+| [neuroprotective]{.headword} | adj. | `neuro`+`protective`(保护的) | 神经保护性的 | [中频]{.freq .freq-2} |
+| [neurovascular]{.headword} | adj. | `neuro`+`vascular`(血管的) | 神经血管的 | [低频]{.freq .freq-3} |
+| [neuroethics]{.headword} | n. | `neuro`+`ethics`(伦理学) | 神经伦理学 | [低频]{.freq .freq-3} |
+| [neurogenesis]{.headword} | n. | `neuro`+`genesis`(生成) | 神经发生；神经元新生 | [低频]{.freq .freq-3} |
+| [neuropharmacology]{.headword} | n. | `neuro`+`pharmacology`(药理学) | 神经药理学 | [低频]{.freq .freq-3} |
+| [neuropsychiatry]{.headword} | n. | `neuro`+`psychiatry`(精神病学) | 神经精神病学 | [低频]{.freq .freq-3} |
+| [neuropeptide]{.headword} | n. | `neuro`+`peptide`(肽) | 神经肽 | [低频]{.freq .freq-3} |
+| [neuromodulator]{.headword} | n. | `neuro`+`modulator`(调节物) | 神经调质；神经调节物 | [低频]{.freq .freq-3} |
+| [neuralgia]{.headword} | n. | `neur`+`-algia`(痛) | 神经痛（已列，强调复合结构） | [中频]{.freq .freq-2} |
+| [peripheral neuropathy]{.headword} | n. 短语 | `peripheral`(外周)+`neuro`+`-pathy` | 周围神经病变 | [中频]{.freq .freq-2} |
+| [neural network]{.headword} | n. 短语 | `neural`+`network`(网络) | 神经网络（含人工神经网络） | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The discovery that **neurons** communicate via electrical impulses revolutionized our understanding of the brain.（神经元通过电信号通信——现代神经科学的基石）
+- She was diagnosed with trigeminal **neuralgia**, a condition causing sudden, severe facial pain along the nerve.（三叉神经痛，-algia 就是痛，字面意思一读便懂）
+- Chronic stress can physically alter **neural** pathways, which is why therapy and new habits genuinely reshape the brain.（神经通路会被经历改变，神经可塑性的核心概念）
+- The **neurotransmitter** dopamine plays a central role in motivation, reward, and the feeling of pleasure.（多巴胺作为神经递质，把"化学信号跨越突触传递"这件事概念化了）
+- His increasingly **neurotic** behavior—checking the locks five times before bed—was a sign that anxiety had taken hold.（neurotic 在日常英语中已泛指"神经质的、过分焦虑的"，比 neurosis 的临床义宽松得多）
+- Research in **neuroscience** now suggests that meditation measurably increases gray matter density in key brain regions.（neuroscience 是当代最热的跨学科领域之一，高频出现于科普文章）
+:::
+
+::: {.mnemonic}
+**助记**：把 **neuro-** 想成一根发光的琴弦——古希腊弓弦（neuron）绷在身体里，轻轻一拨就传递信号。每次你看到 **neuro-**，脑海里浮现那根颤动的弦，它连接的，就是神经系统里的一切。搭档根则是给这根弦配上不同的"乐器"：接上 **-logy** 就是研究它的学问，接上 **-algia** 就是它发出的痛苦之声，接上 **-toxin** 就是毒化它的物质。
+:::
+
+::: {.trap}
+**陷阱**：**neurotic** 在临床心理学中特指"神经症性的"（与 psychotic 精神病性相对），但在日常英语里已大量引申为"过分焦虑的、神经质的"，语气往往带贬义或调侃。阅读时要根据上下文判断是临床语境还是日常语境，不可一刀切。
+
+另一个常见混淆：**nerve**（拉丁语来源）与 **neuro-**（希腊语来源）在现代英语里覆盖了同一套概念，两者在印欧语系上是远亲。然而 **nerve** 在口语中还有"胆量、厚脸皮"（He has some nerve!）等引申义，**neuro-** 系词汇则始终保持医学/科学色彩，切勿用希腊根去推断英语口语里 nerve 的用法。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 68 章）学完后，请回头复习以下章节，巩固"领域根搭档"的组词逻辑：
+
+- **第 67 章** — 上一章词根，检查与 neuro- 的搭配模式有无相似之处
+- **第 66 章** — 复习该词根构成的高频派生词，默写 3 个
+- **第 64 章** — 重点回看"搭档根"表，与本章 neuro- 的搭档根做对照
+- **第 60 章** — 复习希腊语 -logy/-logist 系列，与 neurology / neurologist 做关联
+- **第 52 章** — 复习 -pathy / -algia 等"症状根"，与本章 neuropathy / neuralgia 互相印证
+
+**本章自测（闭卷回答）：**
+
+1. **neurotransmitter** 可以拆成哪两个部分？各是什么意思？
+2. **neurosis** 和 **neurotic** 的词性与含义有何不同？
+3. 造一个包含 **neural** 的短语，并说明其含义。
+4. 希腊根 **-algia** 表示什么？再举一个含 -algia 的词（不用 neuralgia）。
+5. 为什么说 **neuro-** 和英语单词 **nerve** 有亲缘关系，但用法上必须分开对待？
+:::

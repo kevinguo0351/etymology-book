@@ -80,6 +80,20 @@ book:
         - chapters/ch64-hetero.qmd
         - chapters/ch65-voc.qmd
         - chapters/ch66-derm.qmd
+        - chapters/ch67-viv.qmd
+        - chapters/ch68-neuro.qmd
+        - chapters/ch69-cur.qmd
+        - chapters/ch70-cardi.qmd
+        - chapters/ch71-sequ.qmd
+        - chapters/ch72-phob.qmd
+        - chapters/ch73-sens.qmd
+        - chapters/ch74-pseudo.qmd
+        - chapters/ch75-val.qmd
+        - chapters/ch76-hydro.qmd
+        - chapters/ch77-sci.qmd
+        - chapters/ch78-cid.qmd
+        - chapters/ch79-man.qmd
+        - chapters/ch80-nov.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

@@ -1,0 +1,135 @@
+# cur / curs / cours —— "跑"
+
+::: {.root-banner}
+`cur` · `curs` · `cours` = *to run* 跑、流动、行进
+:::
+
+来源：拉丁语 **currere**（to run），过去分词词干 **cursus**，法语借入为 **cours**。
+
+::: {.etymo}
+**词源故事：罗马的跑道与奔涌的水**
+
+在罗马竞技场，马车沿椭圆形跑道狂奔，这条跑道叫 *curriculum*——字面义就是"小跑道"（*curri-* + 指小后缀 *-culum*）。如今 curriculum 变成了"课程"，因为人生的学业也像在一条设计好的跑道上逐圈完成。
+
+水也在"跑"。河流奔流不息，于是 *current* 是水流、电流，也是"当前的"——此刻正在流动的时间片段。货币 *currency* 同源：钱币像水一样在社会中循环流通，流通性（liquidity）这个现代金融词汇不过是在重复同一个比喻。
+
+前缀一变，方向全变：往外跑是 *ex-cursion*（远足）；跑来撞上是 *oc-cur*（发生，=ob-+cur，"跑到眼前"）；跑回来一遍遍重复是 *re-cur*（复发）；大家一起往同一点跑是 *con-cur*（同意，汇流）；跑进去惹了麻烦是 *in-cur*（招致）；提前跑在前面的是 *pre-cursor*（先驱）。
+
+这个词根还穿越了法语，变成 *cours*：*discourse* 是话语"跑"来跑去的过程（论述），*intercourse* 是双方之间来回跑动（交流、性交），*concourse* 是人群汇聚奔流的大厅。记住这个核心图像——**一切都在跑**——你就掌握了整个家族。
+:::
+
+**前缀决定方向，根永远是同一个动作**
+
+`currere` 这个根始终只做一件事：**跑/流**。改变意义的全是前缀。把前缀当方向箭头来读，就能在陌生词里一眼看出"谁在往哪儿跑"：
+
+| 前缀 | 方向/含义 | 代表词 |
+|------|----------|--------|
+| `oc-` (← `ob-`) | 对着、撞上 | occur |
+| `re-` | 回来、再次 | recur, recurrent |
+| `ex-` | 向外 | excursion, excursus |
+| `con-` | 一起汇合 | concur, concourse |
+| `in-` | 进入（惹上麻烦） | incur |
+| `pre-` | 在前面 | precursor |
+| `dis-` | 四散、开展 | discourse, discursive |
+| `inter-` | 之间来回 | intercourse |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [current]{.headword} | adj./n. | `cur`(跑)+`-ent`(正在) | 当前的；水流、电流 | [高频]{.freq .freq-1} |
+| [currently]{.headword} | adv. | `current`+`-ly` | 目前、当前 | [高频]{.freq .freq-1} |
+| [currency]{.headword} | n. | `cur`(流)+`-ency`(名词) | 货币；流通性 | [高频]{.freq .freq-1} |
+| [occur]{.headword} | v. | `oc-`(对着)+`cur`(跑) | 发生；出现在脑中 | [高频]{.freq .freq-1} |
+| [occurrence]{.headword} | n. | `occur`+`-ence` | 事件；出现 | [高频]{.freq .freq-1} |
+| [recur]{.headword} | v. | `re-`(再)+`cur`(跑) | 复发；重现 | [高频]{.freq .freq-1} |
+| [recurrent]{.headword} | adj. | `re-`(再)+`cur`+`-ent` | 反复发生的；周期性的 | [高频]{.freq .freq-1} |
+| [recurrence]{.headword} | n. | `re-`+`cur`+`-ence` | 复发；重现 | [中频]{.freq .freq-2} |
+| [course]{.headword} | n./v. | `cours`(跑道) | 课程；路线；流淌 | [高频]{.freq .freq-1} |
+| [curriculum]{.headword} | n. | `curri-`(跑道)+`-culum`(指小) | （学校）课程体系 | [高频]{.freq .freq-1} |
+| [cursor]{.headword} | n. | `curs`(跑)+`-or`(施动者) | 光标；游标 | [高频]{.freq .freq-1} |
+| [cursory]{.headword} | adj. | `curs`(跑)+`-ory` | 草草了事的；粗略的 | [中频]{.freq .freq-2} |
+| [cursive]{.headword} | adj./n. | `curs`(跑)+`-ive` | 草书的；连写体 | [中频]{.freq .freq-2} |
+| [concur]{.headword} | v. | `con-`(一起)+`cur`(跑) | 同意；同时发生 | [中频]{.freq .freq-2} |
+| [concurrent]{.headword} | adj. | `con-`+`cur`+`-ent` | 同时发生的；并行的 | [中频]{.freq .freq-2} |
+| [concurrence]{.headword} | n. | `con-`+`cur`+`-ence` | 同意；同时发生 | [中频]{.freq .freq-2} |
+| [concourse]{.headword} | n. | `con-`(汇)+`cours`(跑) | 大厅；人群汇聚 | [中频]{.freq .freq-2} |
+| [incur]{.headword} | v. | `in-`(进入)+`cur`(跑) | 招致（损失/批评） | [高频]{.freq .freq-1} |
+| [excursion]{.headword} | n. | `ex-`(外)+`curs`(跑)+`-ion` | 短途旅行；远足 | [中频]{.freq .freq-2} |
+| [excursus]{.headword} | n. | `ex-`(外)+`curs`+`-us` | （文章）旁论；题外话 | [低频]{.freq .freq-3} |
+| [excursive]{.headword} | adj. | `ex-`+`curs`+`-ive` | 漫游的；离题的 | [低频]{.freq .freq-3} |
+| [precursor]{.headword} | n. | `pre-`(前)+`curs`(跑)+`-or` | 先驱；前体物质 | [中频]{.freq .freq-2} |
+| [discourse]{.headword} | n./v. | `dis-`(开展)+`cours`(跑) | 论述；话语；演讲 | [中频]{.freq .freq-2} |
+| [discursive]{.headword} | adj. | `dis-`+`curs`+`-ive` | 东拉西扯的；论述性的 | [中频]{.freq .freq-2} |
+| [intercourse]{.headword} | n. | `inter-`(之间)+`cours` | 交流；往来；性交 | [中频]{.freq .freq-2} |
+| [courier]{.headword} | n. | `cour-`(跑)+`-ier`(人) | 快递员；信使 | [中频]{.freq .freq-2} |
+| [course]{.headword} | v. | `cours`(流) | （血液等）奔流 | [中频]{.freq .freq-2} |
+| [recourse]{.headword} | n. | `re-`(回)+`cours`(跑) | 求助；凭借（have recourse to） | [中频]{.freq .freq-2} |
+| [recourses]{.headword} | n. | `re-`+`cours`+`-es` | recourse 复数 | [中频]{.freq .freq-2} |
+| [succor]{.headword} | n./v. | `suc-`(← sub，向上)+`cur`(跑) | 援救；救助 | [低频]{.freq .freq-3} |
+| [succour]{.headword} | n./v. | 同 succor（英式拼写） | 援助；救济 | [低频]{.freq .freq-3} |
+| [hussar]{.headword} | n. | 经匈牙利语→ `cur`(跑) 远亲 | 轻骑兵 | [低频]{.freq .freq-3} |
+| [car]{.headword} | n. | 拉丁 `carrus`（←凯尔特语）同族 | 汽车（历史上与 curr- 混用） | [高频]{.freq .freq-1} |
+| [career]{.headword} | n./v. | 法 `carrière`(跑道)←`curs` | 职业生涯；全速奔跑 | [高频]{.freq .freq-1} |
+| [careen]{.headword} | v. | 荷语←`carina`，与 curr- 语义重叠 | 倾斜高速行驶 | [低频]{.freq .freq-3} |
+| [course correction]{.headword} | n. | `course`(路线)+correction | 航向修正；纠偏 | [中频]{.freq .freq-2} |
+| [of course]{.headword} | phr. | `course`(自然流向) | 当然、理所当然 | [高频]{.freq .freq-1} |
+| [in due course]{.headword} | phr. | `course`(进程) | 在适当时候；迟早 | [中频]{.freq .freq-2} |
+| [cursorial]{.headword} | adj. | `curs`+`-orial` | 善于奔跑的（鸟类/动物） | [低频]{.freq .freq-3} |
+| [discursus]{.headword} | n. | `dis-`+`curs`+`-us` | 论述（拉丁语直接借用） | [低频]{.freq .freq-3} |
+| [incursion]{.headword} | n. | `in-`(进入)+`curs`+`-ion` | 侵入；突袭 | [中频]{.freq .freq-2} |
+| [excurrent]{.headword} | adj. | `ex-`(外)+`cur`+`-ent` | 向外流出的（生物学） | [低频]{.freq .freq-3} |
+| [concurrent processing]{.headword} | n. | `con-`+`cur`+`-ent` | 并发处理（计算机） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- Adrenaline **coursed** through her veins as she stepped onto the stage.（肾上腺素在血管里"奔流"——course 用作动词）
+- The **precursor** to the modern smartphone was the PDA, itself preceded by electronic organizers.（先驱，字面义"跑在前面的东西"）
+- The report gave only a **cursory** glance at the environmental impact.（cursory = 跑过去扫了一眼，草草了事）
+- Several unexpected costs were **incurred** during the renovation, pushing the budget over by 30%.（incur = 跑进去惹上了，这里惹上的是费用）
+- The panel of experts **concurred** that the data showed a clear causal link.（concur = 一起跑到同一结论，即"一致同意"）
+- The station's central **concourse** was packed with commuters during rush hour.（concourse = 人流汇聚奔涌的大空间）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想象成一张方向地图，**cur/curs/cours** 是一个永远在跑的小人：
+
+- **oc-**（ob- 变体）= 迎面跑来 → **occur**（事情跑到你面前=发生）
+- **re-** = 跑回来又来 → **recur**（复发）
+- **ex-** = 跑出去 → **excursion**（跑出去玩=远足）
+- **con-** = 大家往一点跑 → **concur**（汇流=同意）；**concourse**（汇聚大厅）
+- **in-** = 跑进麻烦里 → **incur**（招致）；**incursion**（跑进敌方=侵入）
+- **pre-** = 跑在前头 → **precursor**（先驱）
+- **dis-** = 跑来跑去展开 → **discourse**（论述）
+
+只要认出词根，看看前缀往哪跑，意思就出来了。**cursor**（光标）更直白——屏幕上那个一直在跑的小东西。
+:::
+
+::: {.trap}
+**陷阱**：**car / career / careen** 与 `currere` 的关系程度不同，切勿混用。
+
+- **career**（职业生涯）确实经由法语 *carrière*（跑道、采石场）与 `cursus` 存在语义关联，但词形路径经过凯尔特语 *carros*，属于远亲而非直系。"career = 跑道"是有趣的历史巧合，可帮助记忆，但**不能反推**其他 car- 开头的词都含"跑"义。
+- **careful、carry、carbon** 等 car- 词与 `currere` 无关，请勿套用。
+- **currency**（货币）和 **current**（水流/当前）是高产的可推断同根词，可以放心用词根逻辑推断；但 **cursory 不是"仅供趣闻"，它是真实的高频学术词**，请认真掌握，不要因为词根透明就掉以轻心。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 69 章）学完后，请回看以下章节：
+
+- **第 68 章** — 复习上一章词根，与 cur- 对比"动作类词根"的前缀规律
+- **第 67 章** — 前缀 `dis-` 的多重用法（与本章 discourse / discursive 呼应）
+- **第 65 章** — 前缀 `con-/com-` 汇聚义（与 concur / concourse 呼应）
+- **第 61 章** — 前缀 `re-` 的"回/再"义（与 recur / recurrent 呼应）
+- **第 53 章** — 前缀 `in-/im-` 的方向义（与 incur / incursion 呼应）
+
+**本章自测**（遮住释义，看拆解能否还原词义）：
+
+1. `oc-` + `cur` = ？（提示：事情跑到你面前）
+2. `pre-` + `curs` + `-or` = ？（提示：跑在最前面的人或物）
+3. `curs` + `-ory` = ？（提示：跑过去扫一眼）
+4. `in-` + `curs` + `-ion` = ？（提示：跑进别人的地盘）
+5. **curriculum** 的原义是什么？它怎么变成"课程"的？
+:::

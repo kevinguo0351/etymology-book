@@ -1,0 +1,117 @@
+# pseudo / pseud —— "假·伪"
+
+::: {.root-banner}
+pseudo · pseud = false, counterfeit 假的、伪造的
+:::
+
+来源：希腊语 *pseudēs*（假的、谎言），源自动词 *pseudein*（欺骗、撒谎），进入拉丁语再传入英语，主要作构词前缀 **pseudo-**，构词能力极强。
+
+::: {.etymo}
+**词源故事：戴着面具的知识**
+
+古希腊人有一套完整的"真假哲学"。他们用 *alētheia*（真理）指向那个无遮蔽的真实，而 *pseudos* 则是戴着面具的那一面——外表像真的，内里是假的。荷马史诗里，奥德修斯用各种化名和谎言周旋于神和人之间，那种言行就是 *pseudos* 的原型。
+
+这个词根随着希腊科学与哲学文献一路传入拉丁语，再经中世纪学术圈进入英语。文艺复兴时期，学者们开始用它批判各种"伪学问"——炼金术被称为 pseudo-chemistry，占星术被扣上伪科学的帽子。这一批判传统延续至今，凡是外形像某种正经学科却缺乏实质证据支撑的领域，都会被冠以 **pseudo-**。
+
+与其他希腊词根相比，**pseudo-** 的独特之处在于它极少单独作词根，几乎专门以前缀形式黏附在其他词或词根之前，像一枚"假冒印章"——盖上去，那个词的价值就打了折扣。正因如此，它与无数搭档词根组合，创造出覆盖科学、文学、计算机、生物等领域的庞大词族。
+:::
+
+**搭档根**：pseudo- 与下列希腊词根高频搭配，理解搭档根即能推断组合词义。
+
+| 搭档根 | 含义 | 组合示例 |
+|---|---|---|
+| onym / onomat | 名字 | pseudonym（笔名）|
+| science / scient | 知识、科学 | pseudoscience（伪科学）|
+| pod / pous | 足 | pseudopod（伪足）|
+| morph | 形态 | pseudomorph（假晶）|
+| intellectual | 智识者 | pseudointellectual（伪知识分子）|
+| code | 代码、编码 | pseudocode（伪代码）|
+| graph | 书写 | pseudograph（伪作）|
+| nym-ity | 名字+状态 | pseudonymity（笔名状态）|
+| arch | 统治者 | pseudarchy（伪权威体制）|
+| ep(i)- + graph | 题词 | pseudepigraph（伪托之作）|
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [pseudo]{.headword} | adj./n. | `pseudo`(假) | 虚假的；伪装者 | [高频]{.freq .freq-1} |
+| [pseudonym]{.headword} | n. | `pseudo`(假)+`nym`(名字) | 笔名，化名 | [高频]{.freq .freq-1} |
+| [pseudonymous]{.headword} | adj. | `pseudo`(假)+`nym`(名字)+`-ous` | 用笔名的，匿名的 | [高频]{.freq .freq-1} |
+| [pseudonymity]{.headword} | n. | `pseudo`(假)+`nym`(名字)+`-ity` | 使用笔名的状态 | [中频]{.freq .freq-2} |
+| [pseudoscience]{.headword} | n. | `pseudo`(假)+`science`(科学) | 伪科学 | [高频]{.freq .freq-1} |
+| [pseudoscientific]{.headword} | adj. | `pseudo`(假)+`scientific`(科学的) | 伪科学的 | [高频]{.freq .freq-1} |
+| [pseudoscientist]{.headword} | n. | `pseudo`(假)+`scientist`(科学家) | 伪科学者 | [中频]{.freq .freq-2} |
+| [pseudointellectual]{.headword} | n./adj. | `pseudo`(假)+`intellectual`(知识分子) | 伪知识分子；装作有学识的 | [高频]{.freq .freq-1} |
+| [pseudopod]{.headword} | n. | `pseudo`(假)+`pod`(足) | （生物）伪足 | [中频]{.freq .freq-2} |
+| [pseudopodium]{.headword} | n. | `pseudo`(假)+`pod`(足)+`-ium` | 伪足（复数 pseudopodia）| [中频]{.freq .freq-2} |
+| [pseudomorph]{.headword} | n. | `pseudo`(假)+`morph`(形态) | 假晶，假形体 | [中频]{.freq .freq-2} |
+| [pseudomorphic]{.headword} | adj. | `pseudo`(假)+`morph`(形态)+`-ic` | 假晶的；形态仿冒的 | [低频]{.freq .freq-3} |
+| [pseudocode]{.headword} | n. | `pseudo`(假)+`code`(代码) | 伪代码（算法描述用） | [高频]{.freq .freq-1} |
+| [pseudonym-ize]{.headword} | v. | `pseudonym`(笔名)+`-ize` | 将…假名化，匿名化处理 | [中频]{.freq .freq-2} |
+| [pseudepigraph]{.headword} | n. | `pseud`(假)+`epi`(在…上)+`graph`(写) | 伪托作品，假托某人之名的文献 | [中频]{.freq .freq-2} |
+| [pseudepigraphic]{.headword} | adj. | `pseud`+`epigraphic` | 伪托作者的 | [低频]{.freq .freq-3} |
+| [pseudo-event]{.headword} | n. | `pseudo`(假)+`event`(事件) | 人造事件，公关噱头 | [中频]{.freq .freq-2} |
+| [pseudo-democracy]{.headword} | n. | `pseudo`(假)+`democracy`(民主) | 伪民主 | [中频]{.freq .freq-2} |
+| [pseudo-random]{.headword} | adj. | `pseudo`(假)+`random`(随机) | 伪随机的 | [高频]{.freq .freq-1} |
+| [pseudo-random number]{.headword} | n. | `pseudo`(假)+`random`(随机)+`number` | 伪随机数 | [高频]{.freq .freq-1} |
+| [pseudology]{.headword} | n. | `pseudo`(假)+`logy`(学说) | 谎言学；撒谎的艺术 | [低频]{.freq .freq-3} |
+| [pseudologia]{.headword} | n. | `pseudo`(假)+`logia`(话语) | 病理性谎话，虚谈症 | [低频]{.freq .freq-3} |
+| [pseudograph]{.headword} | n. | `pseudo`(假)+`graph`(书写) | 伪作，假托他人的文章 | [低频]{.freq .freq-3} |
+| [pseudonymously]{.headword} | adv. | `pseudonymous`+`-ly` | 以笔名方式地 | [中频]{.freq .freq-2} |
+| [pseudoclassic]{.headword} | adj./n. | `pseudo`(假)+`classic`(经典) | 仿古的；伪古典作品 | [低频]{.freq .freq-3} |
+| [pseudo-historical]{.headword} | adj. | `pseudo`(假)+`historical`(历史的) | 伪历史的，史实不实的 | [中频]{.freq .freq-2} |
+| [pseudo-intellectual]{.headword} | adj. | `pseudo`(假)+`intellectual` | 伪装有深度的，浅薄而装学问的 | [高频]{.freq .freq-1} |
+| [pseudo-scientific claim]{.headword} | phr. | — | 伪科学论断 | [高频]{.freq .freq-1} |
+| [pseudarchic]{.headword} | adj. | `pseudo`(假)+`arch`(统治)+`-ic` | 权威是虚假的 | [低频]{.freq .freq-3} |
+| [pseudo-liberal]{.headword} | adj./n. | `pseudo`(假)+`liberal`(自由主义者) | 伪自由主义者 | [中频]{.freq .freq-2} |
+| [pseudecology]{.headword} | n. | `pseudo`(假)+`ecology`(生态学) | 伪生态学 | [低频]{.freq .freq-3} |
+| [pseudo-expert]{.headword} | n. | `pseudo`(假)+`expert`(专家) | 伪专家 | [高频]{.freq .freq-1} |
+| [pseudomorphism]{.headword} | n. | `pseudo`(假)+`morph`(形)+`-ism` | 假晶现象；外形欺骗性 | [低频]{.freq .freq-3} |
+| [pseudo-religious]{.headword} | adj. | `pseudo`(假)+`religious`(宗教的) | 表面宗教性的，仿宗教的 | [中频]{.freq .freq-2} |
+| [pseudo-realism]{.headword} | n. | `pseudo`(假)+`realism`(现实主义) | 伪现实主义 | [低频]{.freq .freq-3} |
+| [pseudo-critical]{.headword} | adj. | `pseudo`(假)+`critical`(批判的) | 表面批判实则迎合的 | [中频]{.freq .freq-2} |
+| [pseudonymization]{.headword} | n. | `pseudonym`(笔名/假名)+`-ization` | 假名化处理（数据保护术语）| [高频]{.freq .freq-1} |
+| [pseudonymize]{.headword} | v. | `pseudonym`+`-ize` | 对数据进行假名化 | [中频]{.freq .freq-2} |
+| [pseudo-scholarship]{.headword} | n. | `pseudo`(假)+`scholarship`(学术) | 伪学术 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The novelist published her first three books **pseudonymously**, fearing that a female-sounding name would prejudice reviewers.（她用笔名出版，避免性别偏见——pseudo- 让真实姓名"假装缺席"）
+- Astrology, homeopathy, and numerology are frequently cited as examples of **pseudoscience**.（被科学界视为缺乏证据支撑的伪科学——pseudo- 给"science"打了假冒印章）
+- Before writing the actual program, the team sketched out the algorithm in **pseudocode** on the whiteboard.（先用伪代码把逻辑写清楚，再翻译成真正的程序语言——计算机领域高频词）
+- The amoeba extended its **pseudopodia** in several directions, engulfing bacteria as it moved.（变形虫伸出伪足——生物课的经典词，pseudo-+pod 直接拼出意思）
+- He dismissed the influencer's climate commentary as the posturing of a **pseudointellectual** with no scientific training.（讽刺那种爱发表"深刻"见解却毫无学术根基的人——日常批评中极常见的措辞）
+- Under GDPR, companies must **pseudonymize** personal data wherever possible to reduce privacy risks.（欧盟数据保护法规的核心动词，将个人数据替换为假名标识符）
+:::
+
+::: {.mnemonic}
+**助记**：**pseudo-** 读作"苏多"——想象一位叫"苏多"的替身演员，专门冒充各种名人登台。凡是名字前有"苏多"二字，那个东西就是冒牌货：苏多科学 = 伪科学，苏多足 = 伪足，苏多名字 = 笔名。记住"苏多"就是"假"，这个前缀终身不忘。
+:::
+
+::: {.trap}
+**陷阱**：pseudo- 与 psycho-（心理，来自希腊 *psychē* 灵魂）字形相近，初学者常混淆。**psychology**（心理学）里的 psych- 与"假"毫无关系；**pseudoscience**（伪科学）才是 pseudo-。发音也不同：pseudo- 读 /ˈsjuːdəʊ-/，psycho- 读 /ˈsaɪkəʊ-/。
+
+另外，词族中有些词是高产可推断的构词（如 pseudorandom、pseudonymization），可以放心用词根拆解；但某些历史典故（如圣经学中的 pseudepigraph 背后的文献争论）属于专门领域知识，即便能拆出词形，也不宜仅凭词根推断其在神学或历史语境中的确切含义，建议遇到时查核专业文献。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 74 章）学完后，请回看：
+
+- **第 73 章**（上一章词根）
+- **第 72 章**
+- **第 70 章**
+- **第 66 章**
+- **第 58 章**
+
+**本章自测提示**：
+
+1. 一位作家用假名出版，这种"假名状态"用哪个词？（提示：pseudo+nym+ity）
+2. 变形虫移动时伸出的"假足"叫什么？（提示：pseudo+pod/podium）
+3. GDPR 要求企业对个人数据做什么处理？（提示：pseudo+nym+ize）
+4. 算法描述用的"伪代码"英文是什么？（提示：pseudo+code）
+5. 用一句话区分 pseudoscience 与 psychology 里的词根来源。
+:::

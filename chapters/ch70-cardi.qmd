@@ -1,0 +1,124 @@
+# cardi / cardio —— "心"
+
+::: {.root-banner}
+cardi · cardio = *heart* 心、心脏
+:::
+
+来源：希腊语 **kardia**（心脏），与拉丁语 *cor / cordis*（心）同为印欧语根 *\*kerd-*，意指胸腔中跳动之物。
+
+::: {.etymo}
+**词源故事：从雅典的解剖台到现代 ICU**
+
+古希腊人很早便知道心脏是生命的核心——亚里士多德把它称为灵魂的居所，盖伦在解剖台上研究它的腔室与瓣膜。他们用的词就是 *kardia*，这个词随着希腊医学文献一路传入拉丁语世界，再进入近代科学术语。今天凡是与心脏有关的学科词汇，几乎都带着这个词根。
+
+十九世纪末，荷兰生理学家 Einthoven 发明了心电图仪，给它起名 *electrocardiogram*——把"电"（electro）、"心"（cardio）、"图记"（gram）三个希腊词根拼在一起，一个词就描述了整台仪器的原理。这正是希腊医学词根最典型的用法：像乐高积木一样自由拼搭，精确命名新事物。
+
+值得一提的是，拉丁兄弟根 *cor*（心）也悄悄活在日常英语里：*cordial*（热心的、亲切的）字面义就是"发自心底的"，*concord*（和谐）是"众心合一"，*discord*（不和）是"心各一方"。两条根来自同一个印欧祖先，希腊这条走了医学专业路线，拉丁那条走了情感日常路线。
+:::
+
+## 搭档根一览
+
+希腊根 **cardi / cardio** 是典型的"领域根"，本身意义具体，常与其他功能性词根自由拼搭，构成大量医学与科技术语。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| -logy | 学科、研究 | cardio**logy** 心脏病学 |
+| -ac / -al | "……的"（形容词） | cardi**ac** 心脏的 |
+| vascul- | 血管（拉丁） | cardio**vascular** 心血管的 |
+| tachy- | 快速 | **tachy**cardia 心动过速 |
+| brady- | 缓慢 | **brady**cardia 心动过缓 |
+| electro- + -gram | 电 + 图记 | electro**cardio**gram 心电图 |
+| myo- | 肌肉 | myo**cardium** 心肌 |
+| peri- | 周围、包绕 | peri**cardium** 心包 |
+| -graph / -graphy | 记录仪器 / 记录术 | cardio**graph** 心动描记器 |
+| -megaly | 增大、肿大 | cardio**megaly** 心脏扩大 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [cardiac]{.headword} | adj. | `cardi`(心)+`-ac`(…的) | 心脏的；心脏病的 | [高频]{.freq .freq-1} |
+| [cardiology]{.headword} | n. | `cardio`(心)+`-logy`(学科) | 心脏病学 | [高频]{.freq .freq-1} |
+| [cardiologist]{.headword} | n. | `cardio`(心)+`-logist`(…学家) | 心脏病专科医生 | [高频]{.freq .freq-1} |
+| [cardiovascular]{.headword} | adj. | `cardio`(心)+`vascular`(血管的) | 心血管的 | [高频]{.freq .freq-1} |
+| [electrocardiogram]{.headword} | n. | `electro`(电)+`cardio`(心)+`-gram`(图记) | 心电图（缩写 ECG / EKG） | [高频]{.freq .freq-1} |
+| [tachycardia]{.headword} | n. | `tachy`(快)+`cardia`(心) | 心动过速 | [高频]{.freq .freq-1} |
+| [bradycardia]{.headword} | n. | `brady`(慢)+`cardia`(心) | 心动过缓 | [高频]{.freq .freq-1} |
+| [myocardium]{.headword} | n. | `myo`(肌肉)+`card`(心)+`-ium`(组织) | 心肌 | [高频]{.freq .freq-1} |
+| [myocardial]{.headword} | adj. | `myo`(肌肉)+`card`(心)+`-ial`(…的) | 心肌的 | [高频]{.freq .freq-1} |
+| [pericardium]{.headword} | n. | `peri`(周围)+`card`(心)+`-ium`(组织) | 心包（包裹心脏的囊膜） | [中频]{.freq .freq-2} |
+| [pericardial]{.headword} | adj. | `peri`(周围)+`card`(心)+`-ial`(…的) | 心包的 | [中频]{.freq .freq-2} |
+| [pericarditis]{.headword} | n. | `peri`(周围)+`card`(心)+`-itis`(炎症) | 心包炎 | [中频]{.freq .freq-2} |
+| [cardiogram]{.headword} | n. | `cardio`(心)+`-gram`(图记) | 心动图；心电图 | [中频]{.freq .freq-2} |
+| [cardiograph]{.headword} | n. | `cardio`(心)+`-graph`(记录仪) | 心动描记器 | [中频]{.freq .freq-2} |
+| [cardiomyopathy]{.headword} | n. | `cardio`(心)+`myo`(肌)+`-pathy`(病变) | 心肌病 | [中频]{.freq .freq-2} |
+| [cardiomegaly]{.headword} | n. | `cardio`(心)+`-megaly`(增大) | 心脏肥大 | [中频]{.freq .freq-2} |
+| [cardiogenic]{.headword} | adj. | `cardio`(心)+`-genic`(起源于…的) | 心源性的 | [中频]{.freq .freq-2} |
+| [cardiotoxic]{.headword} | adj. | `cardio`(心)+`toxic`(有毒的) | 对心脏有毒性的 | [中频]{.freq .freq-2} |
+| [cardiopulmonary]{.headword} | adj. | `cardio`(心)+`pulmonary`(肺的，拉丁) | 心肺的 | [中频]{.freq .freq-2} |
+| [cardiorespiratory]{.headword} | adj. | `cardio`(心)+`respiratory`(呼吸的) | 心肺呼吸的 | [中频]{.freq .freq-2} |
+| [cardioversion]{.headword} | n. | `cardio`(心)+`version`(转变) | 心脏电复律 | [中频]{.freq .freq-2} |
+| [cardioplegia]{.headword} | n. | `cardio`(心)+`-plegia`(麻痹) | 心肌麻痹（外科手术用） | [低频]{.freq .freq-3} |
+| [cardiectomy]{.headword} | n. | `cardi`(心)+`-ectomy`(切除术) | 心脏切除术 | [低频]{.freq .freq-3} |
+| [endocardium]{.headword} | n. | `endo`(内)+`card`(心)+`-ium`(组织) | 心内膜 | [中频]{.freq .freq-2} |
+| [endocarditis]{.headword} | n. | `endo`(内)+`card`(心)+`-itis`(炎症) | 心内膜炎 | [中频]{.freq .freq-2} |
+| [epicardium]{.headword} | n. | `epi`(外表)+`card`(心)+`-ium`(组织) | 心外膜 | [中频]{.freq .freq-2} |
+| [myocarditis]{.headword} | n. | `myo`(肌)+`card`(心)+`-itis`(炎症) | 心肌炎 | [中频]{.freq .freq-2} |
+| [myocardial infarction]{.headword} | n. | `myo`(肌)+`card`(心)+`infarction`(梗塞) | 心肌梗塞（心脏病发作） | [高频]{.freq .freq-1} |
+| [cardioprotective]{.headword} | adj. | `cardio`(心)+`protective`(保护的) | 心脏保护性的 | [中频]{.freq .freq-2} |
+| [cardiac arrest]{.headword} | n. | `cardiac`(心脏的)+`arrest`(停止) | 心脏骤停 | [高频]{.freq .freq-1} |
+| [cardio]{.headword} | n./adj. | `cardio`(心) | 有氧运动（口语，特指训练心肺） | [高频]{.freq .freq-1} |
+| [electrocardiography]{.headword} | n. | `electro`(电)+`cardio`(心)+`-graphy`(记录术) | 心电图描记法 | [中频]{.freq .freq-2} |
+| [echocardiogram]{.headword} | n. | `echo`(回声)+`cardio`(心)+`-gram`(图) | 超声心动图 | [中频]{.freq .freq-2} |
+| [echocardiography]{.headword} | n. | `echo`(回声)+`cardio`(心)+`-graphy`(记录术) | 超声心动图检查 | [中频]{.freq .freq-2} |
+| [cardiostimulant]{.headword} | n./adj. | `cardio`(心)+`stimulant`(兴奋剂) | 心脏兴奋剂；强心的 | [低频]{.freq .freq-3} |
+| [cardioinhibitory]{.headword} | adj. | `cardio`(心)+`inhibitory`(抑制的) | 心脏抑制性的 | [低频]{.freq .freq-3} |
+| [cardiac output]{.headword} | n. | `cardiac`(心脏的)+`output`(输出量) | 心输出量 | [高频]{.freq .freq-1} |
+| [cardiac rhythm]{.headword} | n. | `cardiac`(心脏的)+`rhythm`(节律) | 心律 | [高频]{.freq .freq-1} |
+| [cardiothoracic]{.headword} | adj. | `cardio`(心)+`thoracic`(胸腔的) | 心胸的 | [中频]{.freq .freq-2} |
+| [cardiogenic shock]{.headword} | n. | `cardiogenic`(心源性的)+`shock`(休克) | 心源性休克 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The patient was rushed to the **cardiac** care unit after collapsing on the street.（**心脏**病房——cardiac 是最基础的形容词形式）
+- Her **electrocardiogram** showed an irregular pattern that concerned the attending physician.（**心电图**——三个词根拼成一个仪器名称，典型的希腊积木式构词）
+- Endurance athletes occasionally develop **bradycardia**, with resting heart rates as low as 40 beats per minute.（**心动过缓**——brady- 是"慢"，运动员的心跳强而慢）
+- The surgeon specializing in **cardiothoracic** procedures has performed over a thousand open-heart surgeries.（**心胸**外科——cardio + thoracic 精确划定外科专业范围）
+- After the **myocardial infarction**, he committed to daily **cardio** and a low-sodium diet.（前半句"心肌梗塞"是医学术语，后半句"有氧运动"是口语缩略——同一个根，两种语体）
+- The **echocardiogram** revealed that the mitral valve was leaking, explaining her chronic fatigue.（**超声心动图**——echo 是"回声"，即超声波反射成像）
+:::
+
+::: {.mnemonic}
+**助记**：把 **cardio** 想象成一颗红心 ❤ 的学名标签。每次看到体育馆里"Cardio Zone"的牌子，想想：这里训练的正是你的 *kardia*——心脏泵血的耐力。再进一步：*tachy*-（想"tacky fast"）= 快，*brady*-（想"Brady Bunch 慢节奏家庭剧"）= 慢；前缀记住，两个心律术语立刻到手。
+
+层叠记忆法：`peri`（周围）+`card`（心）= 心包，就像一件"心脏外套"；`endo`（内）+`card` = 心内膜，是"心脏的内衬"；`epi`（外表）+`card` = 心外膜，是"盖在上面的一层"。三层解剖结构，三个前缀，一次记清。
+:::
+
+::: {.trap}
+**陷阱**：日常英语里有几个词貌似与"心"无关，实际同根——*cordial*（热情友好的）、*concord*（和谐）、*discord*（不和）、*record*（记录，原义"重回心中"）都来自拉丁语 *cor / cordis*，与希腊 *kardia* 共享同一个印欧祖先 *\*kerd-*。
+
+**但请注意**：这是一条历史趣闻，不是可以反向推断的规律。看到 *discord* 时，你无法从"心"去推测它的现代含义；看到 *record* 时，"心"的联系更是毫无实用价值。这类跨语族同源信息只适合帮助记忆**已经认识**的词，切勿用它来猜测陌生词的意思。真正高产的是医学词根这条线：凡带 *cardi/cardio* 的新词，"心脏相关"几乎是铁律。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章涵盖希腊根 *cardi / cardio*，重点是"领域根拼搭"。完成以下自测后，回看下列各章：
+
+**本章自测**：
+
+- *tachy-* 和 *brady-* 分别表示什么方向的心律？能不能不看书拼出两个术语？
+- *electrocardiogram* 拆成三段词根，各是什么意思？
+- *pericardium*、*endocardium*、*epicardium* 三者分别指心脏的哪一层结构？
+
+**回看章节**：
+
+| 章号 | 建议回看原因 |
+|------|-------------|
+| 第 69 章 | 上一章词根，趁热复习 |
+| 第 68 章 | 隔日复习强化记忆 |
+| 第 66 章 | 间隔复习，检验保留率 |
+| 第 62 章 | 中期复习，重点词根再过一遍 |
+| 第 54 章 | 长期复习，检验长时记忆是否稳固 |
+:::

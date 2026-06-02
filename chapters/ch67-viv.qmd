@@ -1,0 +1,129 @@
+# vit / viv —— "生命·活"
+
+::: {.root-banner}
+`vit` · `viv` = *life, alive* 生命；活着
+:::
+
+来源：拉丁语 *vita*（生命）与形容词 *vivus*（活的），动词形式为 *vivere*（活着、生活）。两者同根，`vit-` 偏向"生命/命力"的名词方向，`viv-` 偏向"活着/充满活力"的动词方向。
+
+::: {.etymo}
+**词源故事：一根两身，同是那口气**
+
+古罗马人用 *vita* 指人的一生、生命本身——碑文上常见 *vita brevis*（人生苦短），医生宣布病人"仍有 *vita*"意味着还有救。这个词根穿越时间，直接进入英语，让我们有了 *vital*（关乎生死的）、*vitality*（生命力）、*vitamin*（维生素，字面意思"生命的胺"）。
+
+动词 *vivere* 派生出形容词 *vivus*（活的），这个方向给了英语 *vivid*（如此鲜活，仿佛还活着）、*vivacious*（活泼得像一团火）、*vivify*（使活起来）。拉丁文里形容死里逃生的将士，用的正是 *supervivere*——在（死亡）之上活下来，即今天的 *survive*。
+
+两个形态 `vit-` 与 `viv-` 只是同一口气的两种呼法：名词化时用前者，动词化时用后者。认准这个核心图像——**一口呼吸，一丝脉动**——所有派生词都会在眼前自动点亮。
+:::
+
+**前缀决定方向，根永远是那口"活气"**
+
+`viv` / `vit` 本身不动；是前缀替它指向四面八方：
+
+| 前缀 | 本义 | 方向感 | 代表词 |
+|------|------|--------|--------|
+| `sur-` (< *super-*) | 在……之上 / 越过 | 越过死亡线，向上活 | *survive* |
+| `re-` | 再、回 | 死而复活，重新点燃 | *revive*, *revival* |
+| `con-` | 一起、共同 | 众人同活，共饮共欢 | *convivial* |
+| `vi-` (< *vita* 直接构词) | 生命本体 | 生命力的源头 | *vital*, *vitality* |
+
+记住这张表，遇到新词时先找前缀，再认出那口"活气"，释义基本不会跑偏。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [vital]{.headword} | 形 | `vit`(生命)+`-al`(形容词尾) | 生命攸关的；极其重要的 | [高频]{.freq .freq-1} |
+| [vitality]{.headword} | 名 | `vit`(生命)+`-al`+`-ity`(名词尾) | 生命力；活力 | [高频]{.freq .freq-1} |
+| [vitamin]{.headword} | 名 | `vit`(生命)+`amin`(胺，化学成分) | 维生素 | [高频]{.freq .freq-1} |
+| [survive]{.headword} | 动 | `sur-`(越过)+`viv`(活)+`-e` | 幸存；熬过 | [高频]{.freq .freq-1} |
+| [survivor]{.headword} | 名 | `sur-`(越过)+`viv`(活)+`-or`(人) | 幸存者 | [高频]{.freq .freq-1} |
+| [survival]{.headword} | 名 | `sur-`(越过)+`viv`(活)+`-al`(名词尾) | 幸存；存活 | [高频]{.freq .freq-1} |
+| [revive]{.headword} | 动 | `re-`(再)+`viv`(活)+`-e` | 复苏；重新振兴 | [高频]{.freq .freq-1} |
+| [revival]{.headword} | 名 | `re-`(再)+`viv`(活)+`-al`(名词尾) | 复兴；复苏；再流行 | [高频]{.freq .freq-1} |
+| [vivid]{.headword} | 形 | `viv`(活)+`-id`(形容词尾，充满……的) | 生动的；鲜明的；栩栩如生的 | [高频]{.freq .freq-1} |
+| [vivacious]{.headword} | 形 | `viv`(活)+`-acious`(充满……性质的) | 活泼的；朝气蓬勃的 | [中频]{.freq .freq-2} |
+| [vivacity]{.headword} | 名 | `viv`(活)+`-acity`(名词尾) | 活泼；朝气；生气 | [中频]{.freq .freq-2} |
+| [convivial]{.headword} | 形 | `con-`(一起)+`viv`(活/生活)+`-ial`(形容词尾) | 欢聚的；热情好客的；欢乐的 | [中频]{.freq .freq-2} |
+| [conviviality]{.headword} | 名 | `con-`+`viv`+`-ality`(名词尾) | 欢聚气氛；好客性情 | [低频]{.freq .freq-3} |
+| [vivify]{.headword} | 动 | `viv`(活)+`-ify`(使……化) | 使生动；使活跃；赋予生气 | [低频]{.freq .freq-3} |
+| [vivisection]{.headword} | 名 | `vivi`(活着)+`section`(切割) | 活体解剖 | [中频]{.freq .freq-2} |
+| [viable]{.headword} | 形 | `vi-`(< *vita* 生命/生存)+`-able`(能……的) | 可行的；能存活的 | [高频]{.freq .freq-1} |
+| [viability]{.headword} | 名 | `viable`+`-ity` | 可行性；存活能力 | [高频]{.freq .freq-1} |
+| [nonviable]{.headword} | 形 | `non-`(非)+`viable`(能存活的) | 不可存活的；不可行的 | [中频]{.freq .freq-2} |
+| [revivalist]{.headword} | 名 | `re-`+`viv`+`-al`+`-ist`(人) | 复兴运动者；宗教复兴布道者 | [低频]{.freq .freq-3} |
+| [revivalism]{.headword} | 名 | `re-`+`viv`+`-al`+`-ism`(运动/主义) | 宗教复兴运动；复古主义 | [低频]{.freq .freq-3} |
+| [survive on]{.headword} | 动短语 | `sur-`+`viv`+`-e`+介词 | 靠……维持生存 | [高频]{.freq .freq-1} |
+| [survivorship]{.headword} | 名 | `survivor`+`-ship`(状态/身份) | 幸存者身份；（统计）存活率 | [中频]{.freq .freq-2} |
+| [vividly]{.headword} | 副 | `vivid`+`-ly` | 生动地；鲜明地 | [高频]{.freq .freq-1} |
+| [vividness]{.headword} | 名 | `vivid`+`-ness` | 生动性；鲜明度 | [中频]{.freq .freq-2} |
+| [devitalize]{.headword} | 动 | `de-`(去除)+`vit`(生命)+`-al`+`-ize` | 使丧失活力；使衰弱 | [低频]{.freq .freq-3} |
+| [devitalization]{.headword} | 名 | `de-`+`vital`+`-ization` | 去活力；（牙科）去髓 | [低频]{.freq .freq-3} |
+| [revitalize]{.headword} | 动 | `re-`(再)+`vit`(生命)+`-al`+`-ize`(使……) | 使重新充满活力；振兴 | [高频]{.freq .freq-1} |
+| [revitalization]{.headword} | 名 | `re-`+`vitalize`+`-ation` | 振兴；重新活化 | [中频]{.freq .freq-2} |
+| [vitalize]{.headword} | 动 | `vit`(生命)+`-al`+`-ize` | 赋予活力；使充满生气 | [低频]{.freq .freq-3} |
+| [vita]{.headword} | 名 | `vita`(生命，直接借用) | 简历；人生经历（学术简历常用） | [中频]{.freq .freq-2} |
+| [curriculum vitae]{.headword} | 名短语 | `curriculum`(课程/跑道)+`vitae`(生命的，*vita* 属格) | 个人简历（CV） | [高频]{.freq .freq-1} |
+| [aqua vitae]{.headword} | 名短语 | `aqua`(水)+`vitae`(生命的) | 生命之水（指烈酒，如白兰地） | [低频]{.freq .freq-3} |
+| [bon vivant]{.headword} | 名 | 法语借词：`bon`(好)+`vivant`(活着的人，< *vivere*) | 享乐者；美食美酒爱好者 | [低频]{.freq .freq-3} |
+| [vivarium]{.headword} | 名 | `viv`(活)+`-arium`(场所) | 活体动物饲养箱；生态观察池 | [中频]{.freq .freq-2} |
+| [viviparous]{.headword} | 形 | `vivi`(活)+`par`(产出)+`-ous` | 胎生的（活产幼仔，对比 *oviparous* 卵生） | [低频]{.freq .freq-3} |
+| [vive]{.headword} | 感叹词 | 法语借词，< *vivere*(活) | 万岁！（如 *Vive la France!*） | [中频]{.freq .freq-2} |
+| [survival of the fittest]{.headword} | 名短语 | `survival`+短语 | 适者生存（达尔文演化论核心表述） | [高频]{.freq .freq-1} |
+| [post-revival]{.headword} | 形 | `post-`(后)+`revival`(复兴) | 复兴运动之后的 | [低频]{.freq .freq-3} |
+| [vital signs]{.headword} | 名短语 | `vital`(生命的)+`signs`(体征) | 生命体征（心率、血压、呼吸、体温） | [高频]{.freq .freq-1} |
+| [vital statistics]{.headword} | 名短语 | `vital`+`statistics`(统计) | 人口生命统计（出生率、死亡率等） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The doctor checked her **vital signs** and found her pulse dangerously weak.（医生查看她的生命体征，发现脉搏虚弱至危险程度——*vital* 在此是"生死攸关的"）
+- Against all odds, three miners **survived** the collapse and were pulled out after 72 hours.（在废墟中"越过死亡线活下来"——前缀 *sur-* 的力量清晰可见）
+- The director's new film **revived** interest in a genre that Hollywood had abandoned for a decade.（*re-* 把"活"的状态重新点燃，用于无生命的抽象事物同样自然）
+- She walked into the room with such **vivacity** that the entire conversation shifted toward her.（整个房间的能量随她流动——*viv-* 的"活"在这里是字面上可感知的磁场）
+- Urban planners proposed a **revitalization** project to breathe new life into the declining waterfront district.（*re-*+*vital*+*-ize*+*-ation*，四层构词，却一眼看穿：把生命力重新注入）
+- Animal rights groups have long campaigned against **vivisection**, arguing that most experiments can be replaced by computer modeling.（*vivi*+*section*：在活着的状态下切割——字面意思直接说明了争议所在）
+:::
+
+::: {.mnemonic}
+**助记**：把词根想成一条**时间轴上的心跳线**——
+
+- 心跳线还在跳 → **vital**（重要的，关乎那条线）
+- 线突然跌落又爬回来 → **revive**（*re-* 把它拉回）
+- 线越过了死亡刻度 → **survive**（*sur-* 越过那道坎）
+- 线振幅特别大、特别活跃 → **vivid / vivacious**（充满能量的摆动）
+- 很多条线聚在一起跳动 → **convivial**（*con-* 共同跳动的欢聚）
+
+前缀是方向，`vit/viv` 是那条永不消失的心跳线。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**1. `viable` 的词源不是 `viv-` 的直接后代，而是法语 *viable* ← *vie*（生命，← *vita*）**。路径稍绕，但核心仍是"能存活"，语义完全可靠。用"能活下去"推断词义没问题，但别把它当作 `viv-` 动词家族的成员介绍——它是 `vita` 的法语分支。
+
+**2. `vivid` ≠ "活泼的"**。*Vivid* 强调"图像/色彩/记忆如此鲜活，仿佛就在眼前"，侧重感官清晰度；*vivacious* 才是形容人活泼开朗的专用词。说"她很 vivid"是错的，说"她的描述非常 vivid"是对的。
+
+**3. `vitamin` 中的 `-amin`**：1912 年波兰生化学家 Funk 造这个词时，以为这类物质都含氨基（*amine*），后来发现并非如此，但名字已传开。所以 *vitamin* 的构词逻辑是历史产物，`-min` 部分不能用来推断"含氨基"这个化学事实——这是有趣的历史，不是可推断的规律。
+
+**4. `vivisection` 的 `section`** 来自 *secare*（切割），与本章词根无关，是另一个独立词根的搭档。遇到合成词时，要分清哪一段是本章词根，哪一段另有来源。
+:::
+
+::: {.review-today}
+**今日复习排程**
+
+本章（第 67 章）学完后，请回看以下章节以强化词根网络：
+
+- **第 66 章** — 上一章词根，趁热巩固
+- **第 65 章** — 近期章节，检查是否混淆
+- **第 63 章** — 间隔复习节点
+- **第 59 章** — 中距离巩固
+- **第 51 章** — 长距离提取练习（测试长期记忆）
+
+**本章自测提示**：
+
+1. *vital* 与 *vivid* 都含"生命"词根，但语义重心不同——你能用各自造一个句子，体现区别吗？
+2. 把 *survive*、*revive*、*convivial* 的前缀拆出来，分别说出前缀的方向感。
+3. 不看表格，写出 *vivacious* 的名词形式，再写出 *vital* 的动词形式（两个方向都试试：*vitalize* 和 *devitalize*）。
+4. *vivisection* 里有几个独立词根？分别来自哪里？
+:::

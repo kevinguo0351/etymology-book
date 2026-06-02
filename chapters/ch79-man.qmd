@@ -1,0 +1,128 @@
+# man / manu —— "手"
+
+::: {.root-banner}
+man · manu = hand 手
+:::
+
+来源：拉丁语 *manus*（手），原指人的掌与指，后引申为"控制力、权力、行动"。与希腊语 *cheir*（手）并行，但进入英语的渠道主要是拉丁语及其派生的古法语。
+
+::: {.etymo}
+**词源故事：一切都握在手里**
+
+古罗马人用 *manus* 指手，但这个词的能量远不止于解剖学。在罗马法律中，*manus* 意味着"掌控权"——丈夫对妻子的法定权力叫 *manus*，主人对奴隶的支配也叫 *manus*。手=力量=权威，这条等式渗透进了几十个英语词汇。
+
+设想一个罗马工匠坐在案前，用双手（*manus*）塑形、打造（*facere*）——这就是 *manufactura*，手工制造。旁边案头堆着手写（*manus + scribere*）的卷轴——*manuscriptum*，手稿。工匠的徒弟在旁学习如何用手操控（*manipulare*）工具，而工坊的账目则需要有人亲手管理（*manutenere*，字面义是"用手持握"）——这便是 *maintain* 和 *manage* 的源头。
+
+一只手，向外延伸，可以给予命令（*com-mandare*，把事物交到某人手里）；可以索取（*de-mandare*，向下交付，即要求）；可以解放——将奴隶从主人手掌中取走（*e-mancipare*，字面是"从手中取出买卖之物"）。前缀换一换，方向就变了；但那只握在中心的 *manus*，始终不动。
+
+修剪手指甲（*manus + cura*，手的护理）叫 *manicure*；给某人戴上手铐（*manicula*，小手圈）叫 *manacle*；而当一份宣言要公之于众、让人"亲手抓住、一目了然"时（*manus + festus*，可被握住的），它就成了 *manifest* 或 *manifesto*。
+:::
+
+**前缀决定方向，*man/manu* 永远是那只手：**
+
+| 前缀 | 方向 | 例词 |
+|------|------|------|
+| *com-*（共同、加强） | 把……交到手里 → 命令 | command |
+| *de-*（向下、强调） | 向下交付 → 要求 | demand |
+| *re-*（回） | 把……交回手中 → 转交、汇款 | remand, remit（间接） |
+| *e-/ex-*（出） | 从手中取出 → 解放 | emancipate |
+| 无前缀 + 名词后缀 | 手本身的动作 | manual, manage, maintain |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [manual]{.headword} | adj./n. | `manu`(手)+`-al`(形容词后缀) | 手动的；操作手册 | [高频]{.freq .freq-1} |
+| [manufacture]{.headword} | v./n. | `manu`(手)+`fact`(做)+`-ure` | 制造；生产 | [高频]{.freq .freq-1} |
+| [manufacturer]{.headword} | n. | `manufacture`+`-r` | 制造商，厂家 | [高频]{.freq .freq-1} |
+| [manufacturing]{.headword} | n./adj. | `manufacture`+`-ing` | 制造业；制造的 | [高频]{.freq .freq-1} |
+| [manuscript]{.headword} | n. | `manu`(手)+`script`(写) | 手稿；原稿 | [高频]{.freq .freq-1} |
+| [manipulate]{.headword} | v. | `mani`(手)+`pul`(抓填满)+`-ate` | 操纵；熟练操作 | [高频]{.freq .freq-1} |
+| [manipulation]{.headword} | n. | `manipulate`+`-ion` | 操纵；手法 | [高频]{.freq .freq-1} |
+| [manipulative]{.headword} | adj. | `manipulate`+`-ive` | 善于操控的；操控性的 | [中频]{.freq .freq-2} |
+| [manage]{.headword} | v. | `man`(手)+`-age`(动词后缀，经由意大利语 *maneggiare* 驯马) | 管理；设法做到 | [高频]{.freq .freq-1} |
+| [management]{.headword} | n. | `manage`+`-ment` | 管理；管理层 | [高频]{.freq .freq-1} |
+| [manager]{.headword} | n. | `manage`+`-r` | 经理；管理者 | [高频]{.freq .freq-1} |
+| [manageable]{.headword} | adj. | `manage`+`-able`(可…的) | 可管理的；可应付的 | [高频]{.freq .freq-1} |
+| [unmanageable]{.headword} | adj. | `un-`(否)+`manageable` | 难以控制的；失控的 | [中频]{.freq .freq-2} |
+| [maintain]{.headword} | v. | `main`(手，来自 *manu*)+`tain`(持，*tenere*) | 维持；保养；坚持认为 | [高频]{.freq .freq-1} |
+| [maintenance]{.headword} | n. | `maintain`+`-ance` | 维护；保养；生活费 | [高频]{.freq .freq-1} |
+| [manicure]{.headword} | n./v. | `mani`(手)+`cure`(护理) | 修甲；美甲 | [中频]{.freq .freq-2} |
+| [manicurist]{.headword} | n. | `manicure`+`-ist` | 美甲师 | [中频]{.freq .freq-2} |
+| [mandate]{.headword} | n./v. | `man`(手)+`date`(给，*dare*) | 授权；委托；任期 | [高频]{.freq .freq-1} |
+| [mandatory]{.headword} | adj. | `mandat`+`-ory`(形容词后缀) | 强制性的；法定的 | [高频]{.freq .freq-1} |
+| [manifest]{.headword} | adj./v./n. | `mani`(手)+`fest`(可被抓住的，*-festus*) | 明显的；显示；货单 | [高频]{.freq .freq-1} |
+| [manifestly]{.headword} | adv. | `manifest`+`-ly` | 明显地，显然地 | [中频]{.freq .freq-2} |
+| [manifestation]{.headword} | n. | `manifest`+`-ation` | 显现；表现；示威 | [中频]{.freq .freq-2} |
+| [manifesto]{.headword} | n. | `manifest`+`-o`(意大利语名词后缀) | 宣言；声明书 | [中频]{.freq .freq-2} |
+| [emancipate]{.headword} | v. | `e-`(出)+`man`(手)+`cip`(取，*capere*)+`-ate` | 解放；使摆脱束缚 | [中频]{.freq .freq-2} |
+| [emancipation]{.headword} | n. | `emancipate`+`-ion` | 解放；解除束缚 | [中频]{.freq .freq-2} |
+| [manacle]{.headword} | n./v. | `mani`(小手，*manicula*)+`-cle`(小) | 手铐；束缚；给……戴手铐 | [低频]{.freq .freq-3} |
+| [command]{.headword} | v./n. | `com-`(加强)+`mand`(手，交托) | 命令；指挥；俯瞰 | [高频]{.freq .freq-1} |
+| [commander]{.headword} | n. | `command`+`-er` | 指挥官；司令员 | [高频]{.freq .freq-1} |
+| [commandeer]{.headword} | v. | `command`+`-eer` | 强行征用；没收 | [低频]{.freq .freq-3} |
+| [demand]{.headword} | v./n. | `de-`(向下/强调)+`mand`(交到手) | 要求；需求 | [高频]{.freq .freq-1} |
+| [demanding]{.headword} | adj. | `demand`+`-ing` | 要求高的；费力的 | [高频]{.freq .freq-1} |
+| [remand]{.headword} | v./n. | `re-`(回)+`mand`(交到手) | 还押候审；将……发回 | [低频]{.freq .freq-3} |
+| [commando]{.headword} | n. | `command`+`-o`（经南非荷兰语） | 突击队员 | [中频]{.freq .freq-2} |
+| [maneuver]{.headword} | n./v. | `man`(手)+`oeuvre`(工作，法语 *oeuvre*，拉丁 *opera*) | 机动；策略性行动；操控 | [高频]{.freq .freq-1} |
+| [managerial]{.headword} | adj. | `manager`+`-ial` | 管理的；经营的 | [中频]{.freq .freq-2} |
+| [manual labor]{.headword} | n. | `manual`(手)+`labor`(劳动) | 体力劳动 | [高频]{.freq .freq-1} |
+| [mismanage]{.headword} | v. | `mis-`(错误)+`manage` | 管理不善；处置失当 | [中频]{.freq .freq-2} |
+| [mismanagement]{.headword} | n. | `mismanage`+`-ment` | 管理不善；失职 | [中频]{.freq .freq-2} |
+| [manhandle]{.headword} | v. | `man`(手/人)+`handle`(处理) | 粗暴对待；用人力搬运 | [中频]{.freq .freq-2} |
+| [manpower]{.headword} | n. | `man`(人力)+`power`(力量) | 劳动力；人力资源 | [高频]{.freq .freq-1} |
+| [emancipatory]{.headword} | adj. | `emancipat`+`-ory` | 解放性的；解放的 | [低频]{.freq .freq-3} |
+| [countermand]{.headword} | v./n. | `counter-`(对抗)+`mand`(命令) | 撤销命令；反命令 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The factory still relies on **manual** assembly for its most delicate components.（手工的——那只看不见的 *manus* 在流水线末端守着）
+- The company **manufactures** surgical instruments used in hospitals across thirty countries.（制造——*manu* + *facere*，字面就是"用手做出来"）
+- She spent three years restoring the medieval **manuscript**, page by crumbling page.（手稿——一位僧侣的手，在羊皮纸上一笔一画）
+- The opposition accused the government of **manipulating** election results.（操纵——原指用手熟练拨弄，引申为暗中控制）
+- The constitutional amendment **mandated** universal primary education.（强制规定——*mandate*：把任务"交到手里"就意味着义务）
+- The Emancipation Proclamation **emancipated** enslaved people in the Confederate states.（解放——*e-* 从 + *manus* 手 + *capere* 取，从主人手中取走，即自由）
+:::
+
+::: {.mnemonic}
+**助记**：把 *man/manu* 想象成一只张开的手，前缀决定那只手的动作方向——
+
+- **com-**（朝向对方）→ 把命令**塞进**对方手里 → **command**
+- **de-**（向下施压）→ 把要求**压到**对方手里 → **demand**
+- **e-**（向外拉出）→ 把人从掌控中**拉出去** → **emancipate**
+- 无前缀，手平放 → 平稳**持握** → **maintain**（*manus* + *tenere* 持）
+- 手向前展示，一目了然 → **manifest**
+
+每次看到 `man-`，先问自己：这里有没有"手"的动作？多数时候，答案是肯定的。
+:::
+
+::: {.trap}
+**陷阱**：`man-` 开头的词不全与"手"有关。
+
+- **manner**（方式）来自拉丁语 *manuarius*（手的），确实与 *manus* 同源，但现代英语中已完全抽象，看到 *manner* 别强行拆"手"来推义。
+- **man**（男人/人）来自古英语 *mann*，与拉丁语 *manus*（手）**完全无关**——同形纯属巧合。**manage**、**manpower** 里的 *man* 来自拉丁语路径，**mankind**、**manly** 里的 *man* 来自日耳曼语路径，两条路径不可混同。
+- **mansion**（豪宅）来自 *manere*（停留），不含 *manus*。看到 `man` 别自动联想"手"。
+
+规则：词源联想是工具，不是万能公式。确认词源后再推义，否则会制造新的混乱。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 79 章）学完后，请回看：
+
+- **第 78 章** · **第 77 章** — 趁热检验最近两章的词根记忆是否稳固
+- **第 75 章** — 与"手"相邻的身体动作词根，对比记忆
+- **第 71 章** — 权力/控制语义族，与本章 *mandate*、*command*、*emancipate* 形成网络
+- **第 63 章** — 拉丁语"给予"词根（*dare/dat-*），正是 *mandate* 的后半部分
+
+**本章自测提示：**
+
+1. *manuscript* 拆开是 `manu`(____) + `script`(____) ，合起来什么意思？
+2. *emancipate* 的 `e-` 表示方向是____，`cip` 来自动词 *capere* 意为____，整词字面义？
+3. *mandatory* 与 *mandate* 什么关系？在句中各自充当什么词性？
+4. 不看表格，说出 *com-* 加上 *mand* 为什么产生"命令"义。
+5. *manipulate* 的原义是用手____，现代引申为____。
+:::

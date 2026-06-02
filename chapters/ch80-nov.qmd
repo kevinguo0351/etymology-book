@@ -1,0 +1,123 @@
+# nov —— "新"
+
+::: {.root-banner}
+nov = new 新
+:::
+
+来源：拉丁语 *novus*（新的），与希腊语 *neos*（新）同源，印欧语根 \*newo-，"尚未用过之物"。
+
+::: {.etymo}
+**词源故事：罗马人眼中的"新"**
+
+罗马人用 *novus* 描述一切刚刚出现、尚未被时间磨损的事物。一位初入军营的新兵是 *novus miles*；一片刚开垦的土地是 *novus ager*；一种前所未见的做法被称为 *res nova*——字面意思是"新的事情"，有时暗含一丝惊讶甚至危险，因为罗马人对"突破旧例"并不总持好感。
+
+当基督教修道院兴起，进院见习的新成员被称为 *novicius*，即"新来者"——这个词最终给了我们 *novice*（新手）和 *novitiate*（见习期）。与此同时，*novus* 进入叙事文学，催生了 *novella*（短篇新故事），再由意大利人带进英语，成了 *novel*——那种"讲述新颖故事"的长篇散文。
+
+天文学家把某颗突然爆发、亮度骤增的星称为 *nova*（新星），因为它像凭空出现的新成员；加上拉丁前缀 *super-*（超），便是令整个星系颤动的 *supernova*（超新星）。宇宙尺度的"新"，与修道院新手的"新"，共享同一个词根，跨越两千年。
+:::
+
+**前缀决定方向，nov 永远是"新"这个动作**
+
+| 前缀 | 本义 | 方向 | 代表词 |
+|------|------|------|--------|
+| in- | 进入、向内 | 把新带进来 | innovate |
+| re- | 再次、回 | 把旧的翻成新的 | renovate |
+| super- | 在……之上 | 超乎寻常的新 | supernova |
+| （无前缀） | — | 事物本身是新的 | novel, novice |
+
+记住：无论前缀如何变换，中间那个 **nov** 永远指向同一个动作——"引入新意"。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [novel]{.headword} | adj./n. | `nov`(新)+`-el`(形容词/名词后缀) | 新颖的；小说 | [高频]{.freq .freq-1} |
+| [novelty]{.headword} | n. | `nov`(新)+`-el`+`-ty`(名词后缀) | 新奇；新奇事物 | [高频]{.freq .freq-1} |
+| [novelist]{.headword} | n. | `novel`(小说)+`-ist`(人) | 小说家 | [高频]{.freq .freq-1} |
+| [novella]{.headword} | n. | 意大利语，`nov`(新)+`-ella`(小) | 中篇小说，短篇故事 | [中频]{.freq .freq-2} |
+| [novice]{.headword} | n. | `nov`(新)+`-ice`(名词后缀) | 新手；初学者 | [高频]{.freq .freq-1} |
+| [novitiate]{.headword} | n. | `novice`+`-ate`(状态/期间) | 见习期；见习修士 | [低频]{.freq .freq-3} |
+| [nova]{.headword} | n. | 拉丁语直借，`nov`(新) | 新星（天文） | [中频]{.freq .freq-2} |
+| [supernova]{.headword} | n. | `super-`(超)+`nova`(新星) | 超新星 | [中频]{.freq .freq-2} |
+| [innovate]{.headword} | v. | `in-`(进入)+`nov`(新)+`-ate`(动词) | 创新；引进新方法 | [高频]{.freq .freq-1} |
+| [innovation]{.headword} | n. | `in-`+`nov`+`-ation`(名词) | 创新；革新 | [高频]{.freq .freq-1} |
+| [innovative]{.headword} | adj. | `in-`+`nov`+`-ative`(形容词) | 有创新精神的 | [高频]{.freq .freq-1} |
+| [innovator]{.headword} | n. | `in-`+`nov`+`-ator`(人) | 创新者 | [中频]{.freq .freq-2} |
+| [renovate]{.headword} | v. | `re-`(再)+`nov`(新)+`-ate`(动词) | 翻新；修缮 | [高频]{.freq .freq-1} |
+| [renovation]{.headword} | n. | `re-`+`nov`+`-ation`(名词) | 翻新；整修工程 | [高频]{.freq .freq-1} |
+| [renovator]{.headword} | n. | `re-`+`nov`+`-ator`(人) | 翻新者；改革者 | [低频]{.freq .freq-3} |
+| [newly]{.headword} | adv. | `new`+`-ly` | 最新地；新近（英语本族词，与 nov 同源） | [高频]{.freq .freq-1} |
+| [news]{.headword} | n. | `new`+`-s`（英语本族词） | 新闻；消息 | [高频]{.freq .freq-1} |
+| [novel idea]{.headword} | phr. | `novel`(新颖的) | 新颖的想法 | [高频]{.freq .freq-1} |
+| [novelistic]{.headword} | adj. | `novel`(小说)+`-istic`(风格) | 小说式的；小说风格的 | [低频]{.freq .freq-3} |
+| [novelize]{.headword} | v. | `novel`+`-ize`(动词) | 改编成小说 | [低频]{.freq .freq-3} |
+| [neo-]{.headword} | pref. | 希腊语 *neos*（新），nov 的希腊表亲 | 新……（前缀，构成合成词） | [高频]{.freq .freq-1} |
+| [neologism]{.headword} | n. | `neo-`(新)+`log`(词)+`-ism` | 新词；新造词 | [中频]{.freq .freq-2} |
+| [neoclassical]{.headword} | adj. | `neo-`(新)+`classical`(古典的) | 新古典主义的 | [中频]{.freq .freq-2} |
+| [neonatal]{.headword} | adj. | `neo-`(新)+`natal`(出生的) | 新生儿的 | [中频]{.freq .freq-2} |
+| [neophyte]{.headword} | n. | `neo-`(新)+`phyte`(植物/成长者) | 新信徒；初学者（比 novice 更书面） | [低频]{.freq .freq-3} |
+| [renew]{.headword} | v. | `re-`(再)+`new`(新)（英语本族词） | 更新；续订 | [高频]{.freq .freq-1} |
+| [renewal]{.headword} | n. | `renew`+`-al`(名词) | 更新；续约 | [高频]{.freq .freq-1} |
+| [anew]{.headword} | adv. | `a-`+`new` | 重新；再一次 | [中频]{.freq .freq-2} |
+| [innovativeness]{.headword} | n. | `innovative`+`-ness` | 创新性 | [中频]{.freq .freq-2} |
+| [groundbreakingly novel]{.headword} | phr. | 强调 novel | 开创性的新颖（常见搭配） | [中频]{.freq .freq-2} |
+| [prenovel]{.headword} | adj. | `pre-`(前)+`novel` | 小说诞生之前的（文学史语境） | [低频]{.freq .freq-3} |
+| [anti-innovation]{.headword} | adj./n. | `anti-`(反)+`innovation` | 反创新的；抵制创新 | [低频]{.freq .freq-3} |
+| [open innovation]{.headword} | phr. | 商业术语 | 开放式创新 | [中频]{.freq .freq-2} |
+| [disruptive innovation]{.headword} | phr. | `disruptive`+`innovation` | 颠覆性创新 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The startup's **novel** approach to battery storage attracted billions in venture capital.（**novel** 作形容词：方法是"新颖的"——不是"一本书"）
+- The government pledged funds to **renovate** crumbling public housing blocks before winter.（`re-` 把旧楼"再次变新"，即翻新整修）
+- She was still a **novice** climber, relying on her instructor for every anchor placement.（进院不久的"新人"引申为任何领域的初学者）
+- The telescope captured light from a **supernova** that exploded 8,000 years ago.（`super-` + `nova`：超越普通新星的爆炸级"新"）
+- Continuous **innovation** is not optional in an industry where products become obsolete within months.（`in-` 把"新"带入组织内部，指持续的创新行为）
+- The Nobel laureate's novella, barely a hundred pages, conveyed more than most **novels** twice its length.（`novella` 是短篇故事；`novel` 是长篇小说——同根却有规模之别）
+:::
+
+::: {.mnemonic}
+**助记**：把三个前缀想成三个方向箭头——
+
+- **in-**（向内 →）：把新东西*带进来* → **innovate**
+- **re-**（向回 ←）：把旧东西*拉回新状态* → **renovate**
+- **super-**（向上 ↑）：在"新"之上再叠一层"超" → **supernova**
+
+没有箭头时，**nov** 直接就是"新"本身：**novel**（新颖的故事）、**novice**（新来的人）。
+
+附一条跨语记忆钩：拉丁 **nov** = 希腊 **neo-**，两者都是"新"。看到 *neologism*（新词）或 *neonatal*（新生儿），和看到 *novelty*、*innovate* 一样，激活的是同一个概念节点。
+:::
+
+::: {.trap}
+**陷阱**：**novel** 的"小说"义是历史趣闻，不是可推断的构词规律。
+
+中世纪意大利人用 *novella storia*（新颖的故事）指短篇叙事，英语借入后 *novel* 逐渐专指长篇叙事小说，*novella* 则留给中篇。这段历史很有趣，但**不要**用它去"推断"其他 nov- 词都与文学相关。
+
+同理，**nova**（新星）是拉丁文直借的天文术语，只适用于天体物理语境——看到陌生词含 *nov-*，应先想"新的/创新的"，而非星体。
+
+还需注意：**renew**（英语本族词 re- + new）与 **renovate**（拉丁 re- + novus + -ate）意思相近但语域不同：*renew a subscription*（续订）用本族词；*renovate a building*（翻新楼房）用拉丁词。别混用。
+:::
+
+::: {.review-today}
+**今日复习排程**
+
+恭喜你抵达第 80 章——本书最后一章。完成今天的阅读后，按下面顺序做一轮词根检索，把全书的脉络串联起来：
+
+| 回看章节 | 词根主题 | 自测提示 |
+|----------|----------|----------|
+| 第 79 章 | 上一章词根 | 能否在 30 秒内写出三个派生词？ |
+| 第 78 章 | 上一章词根 | 与本章 nov 有无语义交集？ |
+| 第 76 章 | 往前数词根 | 前缀 re- 在那章与本章中各产生什么方向效果？ |
+| 第 72 章 | 往前数词根 | 对比两章词根，各自"核心动作"是什么？ |
+| 第 64 章 | 较早词根 | 随机抽取三个派生词，能否还原拆解？ |
+
+**本章自测**（遮住中文列，只看英文）：
+
+1. *innovate* — 前缀 `in-` 在这里是什么意思？整个词的字面义？
+2. *renovate* 与 *renew* 有何差异？各自适合什么语境？
+3. *novice* 与 *neophyte* 都指新手，哪个更口语？哪个更书面？
+4. 用 nov 造一个你自己的例句，包含 *novel*（形容词）或 *innovation*。
+
+完成这一轮复习，即代表你已系统走过全书 80 个词根。这些词根覆盖的词汇，足以让你在阅读学术文章、报刊评论和文学作品时，面对陌生词时不再茫然——你拥有的不是一张词汇表，而是一套拆词的眼睛。
+:::

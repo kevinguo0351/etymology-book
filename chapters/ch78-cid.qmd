@@ -1,0 +1,137 @@
+# cid / cis —— "切·砍·杀"
+
+::: {.root-banner}
+`cid` · `cis` = *to cut, to kill* 切、砍、杀
+:::
+
+来源：拉丁语 **caedere**（不定式）/ **caesus**（过去分词），本义"用利器切割、砍下"，引申为"杀死"。
+
+::: {.etymo}
+**词源故事：那把刀从未改变**
+
+古罗马人用 *caedere* 描述一切"切"的动作——从厨房切肉，到田间修枝，到战场斩首。这个词进入英语时，词干收缩为 `cid`（在元音前）或 `cis`（在辅音前或词尾），但刀的动作始终未变。
+
+最能说明这一点的是 *decide*：前缀 `de-` 意为"向下、彻底"，合起来就是"把多余的选项砍掉"——古罗马人做决定，不是权衡，而是用刀切断犹豫。现代人说"I can't decide"，其实是在说"我砍不下去"。
+
+更直白的是医学词 *incision*（切口）与 *incisor*（门牙）：前缀 `in-` 把刀"切进去"，门牙之所以叫 incisor，正是因为它负责"切断"食物，而不是研磨。
+
+而当这把刀指向生命本身，词根就演化出整套"杀"系词族：*homicide*（杀人）、*suicide*（自杀）、*genocide*（种族灭绝）……前缀换了，刀的寒意却一脉相承。
+:::
+
+**前缀换方向，刀的动作不变**
+
+`cid / cis` 永远是那一刀；改变的只是前缀指定的方向与对象：
+
+| 前缀 | 方向 / 对象 | 代表词 |
+|------|------------|--------|
+| `de-` | 向下、断然 | decide（砍掉选项） |
+| `pre-` | 在前、提前修剪 | precise（切到位） |
+| `in-` | 向内、切进 | incision, incisor |
+| `con-` | 完全、切净 | concise（切得干净） |
+| `ex-` | 向外、切除 | excise（切掉） |
+| `circum-` | 环绕、沿边切 | circumcise（环切） |
+| `homo-` | 同类人 | homicide（杀人） |
+| `sui-` | 自身 | suicide（自杀） |
+| `geno-` | 种族 | genocide（种族灭绝） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [decide]{.headword} | v. | `de-`(断然)+`cid`(切) | 决定，下决心 | [高频]{.freq .freq-1} |
+| [decision]{.headword} | n. | `de-`+`cis`+`-ion` | 决定，决策 | [高频]{.freq .freq-1} |
+| [decisive]{.headword} | adj. | `de-`+`cis`+`-ive` | 决定性的；果断的 | [高频]{.freq .freq-1} |
+| [indecisive]{.headword} | adj. | `in-`(否)+`decisive` | 优柔寡断的；不决定性的 | [高频]{.freq .freq-1} |
+| [precise]{.headword} | adj. | `pre-`(前)+`cis`(切)+`-e` | 精确的，准确的 | [高频]{.freq .freq-1} |
+| [precisely]{.headword} | adv. | `precise`+`-ly` | 精确地；正是 | [高频]{.freq .freq-1} |
+| [precision]{.headword} | n. | `pre-`+`cis`+`-ion` | 精确，精密 | [高频]{.freq .freq-1} |
+| [imprecise]{.headword} | adj. | `im-`(否)+`precise` | 不精确的，含糊的 | [中频]{.freq .freq-2} |
+| [concise]{.headword} | adj. | `con-`(完全)+`cis`(切)+`-e` | 简明的，简洁的 | [高频]{.freq .freq-1} |
+| [concisely]{.headword} | adv. | `concise`+`-ly` | 简明地 | [中频]{.freq .freq-2} |
+| [incision]{.headword} | n. | `in-`(入)+`cis`+`-ion` | 切口，切开 | [中频]{.freq .freq-2} |
+| [incisive]{.headword} | adj. | `in-`+`cis`+`-ive` | 犀利的，深刻的 | [中频]{.freq .freq-2} |
+| [incisively]{.headword} | adv. | `incisive`+`-ly` | 犀利地 | [低频]{.freq .freq-3} |
+| [incisor]{.headword} | n. | `in-`+`cis`+`-or`(施动者) | 门牙，切牙 | [中频]{.freq .freq-2} |
+| [excise]{.headword} | v./n. | `ex-`(出)+`cis`+`-e` | 切除；消费税（另义） | [中频]{.freq .freq-2} |
+| [excision]{.headword} | n. | `ex-`+`cis`+`-ion` | 切除（术） | [中频]{.freq .freq-2} |
+| [circumcise]{.headword} | v. | `circum-`(环绕)+`cis`+`-e` | 行割礼，环切 | [中频]{.freq .freq-2} |
+| [circumcision]{.headword} | n. | `circum-`+`cis`+`-ion` | 割礼，环切术 | [中频]{.freq .freq-2} |
+| [scissors]{.headword} | n. | `scis`(≈cis, 切)+`-ors` | 剪刀 | [高频]{.freq .freq-1} |
+| [homicide]{.headword} | n. | `homo-`(人)+`cid`+`-e` | 杀人（罪）；杀人者 | [高频]{.freq .freq-1} |
+| [suicide]{.headword} | n./v. | `sui-`(自身)+`cid`+`-e` | 自杀 | [高频]{.freq .freq-1} |
+| [suicidal]{.headword} | adj. | `suicide`+`-al` | 自杀的；极危险的 | [高频]{.freq .freq-1} |
+| [genocide]{.headword} | n. | `geno-`(种族)+`cid`+`-e` | 种族灭绝 | [高频]{.freq .freq-1} |
+| [genocidal]{.headword} | adj. | `genocide`+`-al` | 种族灭绝的 | [中频]{.freq .freq-2} |
+| [pesticide]{.headword} | n. | `pesti-`(害虫)+`cid`+`-e` | 杀虫剂，农药 | [高频]{.freq .freq-1} |
+| [herbicide]{.headword} | n. | `herbi-`(草)+`cid`+`-e` | 除草剂 | [中频]{.freq .freq-2} |
+| [insecticide]{.headword} | n. | `insecti-`(昆虫)+`cid`+`-e` | 杀虫剂 | [中频]{.freq .freq-2} |
+| [fungicide]{.headword} | n. | `fungi-`(真菌)+`cid`+`-e` | 杀菌剂 | [中频]{.freq .freq-2} |
+| [bactericide]{.headword} | n. | `bacteri-`(细菌)+`cid`+`-e` | 杀菌剂 | [低频]{.freq .freq-3} |
+| [rodenticide]{.headword} | n. | `rodenti-`(啮齿类)+`cid`+`-e` | 灭鼠剂 | [低频]{.freq .freq-3} |
+| [infanticide]{.headword} | n. | `infanti-`(婴儿)+`cid`+`-e` | 杀婴（罪） | [低频]{.freq .freq-3} |
+| [fratricide]{.headword} | n. | `fratri-`(兄弟)+`cid`+`-e` | 杀兄弟；误伤友军 | [低频]{.freq .freq-3} |
+| [patricide]{.headword} | n. | `patri-`(父亲)+`cid`+`-e` | 弑父 | [低频]{.freq .freq-3} |
+| [matricide]{.headword} | n. | `matri-`(母亲)+`cid`+`-e` | 弑母 | [低频]{.freq .freq-3} |
+| [regicide]{.headword} | n. | `regi-`(国王)+`cid`+`-e` | 弑君 | [低频]{.freq .freq-3} |
+| [tyrannicide]{.headword} | n. | `tyranni-`(暴君)+`cid`+`-e` | 杀暴君 | [低频]{.freq .freq-3} |
+| [vermicide]{.headword} | n. | `vermi-`(蠕虫)+`cid`+`-e` | 驱虫药 | [低频]{.freq .freq-3} |
+| [virucide]{.headword} | n. | `viru-`(病毒)+`cid`+`-e` | 灭病毒剂 | [低频]{.freq .freq-3} |
+| [deciduous]{.headword} | adj. | `de-`(落下)+`cid`(切落)+`-uous` | 落叶的；非永久的 | [中频]{.freq .freq-2} |
+| [caesura]{.headword} | n. | `caes`(切)+`-ura` | （诗行中的）停顿，节拍切分 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The committee finally made a **decisive** move and voted to dissolve the partnership.（**决定性**的一票——刀砍下去，没有商量余地）
+- The surgeon made a clean **incision** just below the collarbone.（**切口**干净利落，外科医生的刀和古罗马人的刀，词根相同）
+- His report was praised for its **concise** analysis of the crisis.（**简洁**=把废话统统切掉，只留干货）
+- The lab developed a new **herbicide** that breaks down within days of application.（新型**除草剂**，`herbi-`是草，`-cide`是杀，组合直截了当）
+- She gave an **incisive** critique that left the panel with nothing to add.（**犀利**的批评——像刀切进要害，让人无从反驳）
+- The international court ruled that the massacres constituted **genocide**.（法庭裁定，这些屠杀构成**种族灭绝**——`geno-`种族，`-cide`杀）
+:::
+
+::: {.mnemonic}
+**助记**：想象一把瑞士军刀，刀身刻着 `CID/CIS`。换刀柄（前缀）就换了用途：
+
+- 刀柄 `de-`（向下猛劈）→ **decide**，砍断犹豫
+- 刀柄 `pre-`（提前修剪）→ **precise**，切到毫厘不差
+- 刀柄 `in-`（刺入）→ **incision**，切口
+- 刀柄 `con-`（切干净）→ **concise**，言简意赅
+- 刀柄 `ex-`（切出去）→ **excise**，切除
+- 刀柄 `homo/sui/geno`（锁定对象）→ 三种"杀"：杀人、自杀、灭族
+
+刀（词根）不变，方向（前缀）决定一切。
+:::
+
+::: {.trap}
+**陷阱一：scissors 的拼写**
+
+`scissors` 中的 `sc-` 是中世纪英语拼写混入了拉丁语 *scindere*（分裂）的影响，导致现代拼写中多了个 `c`。词源上它确实来自 *caedere* 家族，但这段历史**只是趣闻**，不能帮你推断其他 `sc-` 开头词的含义，也不能倒推 `scis-` 是独立词根。
+
+**陷阱二：excise 的双重身份**
+
+*excise*（v. 切除）来自 `ex-`+`cis`，意义透明。但 *excise tax*（消费税）来自荷兰语 *excijs*，与 `cis` 词根**无关**——两词拼写相同，词源不同，是典型的假同源（homograph）。看到 *excise duty* 时，不要用"切割"去解释税收。
+
+**陷阱三：decide 不等于"切割"**
+
+*decide* 的词源确实是"砍掉选项"，这个画面有助于记忆，但在实际写作和阅读中，*decide* 就是普通的"决定"，**不含物理切割义**。词源是记忆工具，不是语义定义。
+:::
+
+::: {.review-today}
+**今日复习排程（第 78 章）**
+
+回看以下章节，巩固相关词根：
+
+- **第 77 章** — 复习上一章词根，确认词缀模式仍然清晰
+- **第 76 章** — 对照本章的前缀逻辑，看看不同词根如何共享同一套前缀系统
+- **第 74 章** — 回顾"杀/毁"语义场的相邻词根，与本章 `-cide` 族做对比
+- **第 70 章** — 复习精确度、测量类词根，与 *precise / precision* 形成语义网络
+- **第 62 章** — 回看早期拉丁动词词根，检验"前缀换方向"规律的一致性
+
+**本章自测提示：**
+
+1. *concise* 和 *precise* 都含 `cis`，但前缀不同——你能用"那把刀"解释两者的语义差别吗？
+2. 不查词典，说出 *patricide / matricide / fratricide* 各指什么。
+3. *excise*（切除）和 *excise tax*（消费税）——词根相同吗？为什么？
+4. 为什么门牙（incisor）和手术切口（incision）用同一个词根？
+:::

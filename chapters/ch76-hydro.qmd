@@ -1,0 +1,123 @@
+# hydro / hydr —— "水"
+
+::: {.root-banner}
+hydro · hydr = water 水
+:::
+
+来源：希腊语 **hydōr**（水），与梵语 *udán-*、古英语 *wæter* 同出印欧语根 \*wed-，均指"水"这一基本物质。
+
+::: {.etymo}
+**词源故事：众神赐水，诸学汇流**
+
+在古希腊神话中，掌管淡水的神祇赫瓦德罗斯（Hydros）是最早存在的原初神之一——在大地成形之前，水已经存在。希腊人把这个洞见编进了语言：*hydōr* 这个词渗透进了科学、医学、工程乃至怪兽传说，成为古代世界用词频率最高的词根之一。
+
+当亚历山大图书馆的学者们研究尼罗河涨落、分析矿泉水的疗效、设计城市引水渠时，他们手中握着同一把钥匙：*hydr-*。这个根从古希腊直接进入拉丁语科学文本，再随文艺复兴的学者热情一起涌入英语。今天，从地质学家口中的 *hydrology*（水文学）到日常化妆品瓶上的 *hydrating*（保湿），这个词根活跃于每一个需要谈"水"的领域。
+
+18 世纪，法国化学家拉瓦锡（Lavoisier）和英国化学家卡文迪什（Cavendish）发现，氢气燃烧会生成水——于是他们用希腊语 *hydōr*（水）＋*gen*（生成）造出了 **hydrogen**（氢），字面义是"生水之物"。这是词根拼搭逻辑最经典的示范：两个希腊根拼在一起，描述一个18世纪的科学发现。
+:::
+
+### 搭档根表
+
+hydr- 是典型的"领域根"——它本身表示物质（水），需要与其他表示动作、方向或专业领域的根搭配，才能生成具体词汇。下表列出最重要的搭档根：
+
+| 搭档根 | 含义 | 组合示例 |
+|---|---|---|
+| **-gen** | 生成、产生 | hydrogen（氢，生水之物） |
+| **-aulic / -aul-** | 管道、笛管（< Gk. *aulos*） | hydraulic（液压的） |
+| **-phobia** | 恐惧（< Gk. *phobos*） | hydrophobia（恐水症） |
+| **-logy** | 学科、研究（< Gk. *logos*） | hydrology（水文学） |
+| **-therapy** | 治疗（< Gk. *therapeia*） | hydrotherapy（水疗） |
+| **-electric** | 电（< Gk. *ēlektron*） | hydroelectric（水力发电的） |
+| **-foil** | 翼型（< L. *folium*，叶） | hydrofoil（水翼船） |
+| **-plane** | 平面、飞机 | hydroplane（水上飞机；漂胎） |
+| **-carbon** | 碳（< L. *carbo*） | hydrocarbon（碳氢化合物） |
+| **-sphere** | 球体、圈层 | hydrosphere（水圈） |
+| **an-**（前缀）| 无、缺少（< Gk. *an-*） | anhydrous（无水的） |
+| **de-**（前缀）| 去除、逆向（< L. *de-*） | dehydrate（脱水） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [hydrate]{.headword} | v./n. | `hydr-`(水)+`-ate`(动词化后缀) | 补水；水合物 | [高频]{.freq .freq-1} |
+| [dehydrate]{.headword} | v. | `de-`(去除)+`hydr-`(水)+`-ate` | 脱水；使失去水分 | [高频]{.freq .freq-1} |
+| [dehydration]{.headword} | n. | `de-`+`hydr-`+`-ation`(名词化) | 脱水（状态） | [高频]{.freq .freq-1} |
+| [hydrogen]{.headword} | n. | `hydr-`(水)+`-gen`(生成) | 氢（燃烧生水的元素） | [高频]{.freq .freq-1} |
+| [hydraulic]{.headword} | adj. | `hydr-`(水)+`-aulic`(管道) | 液压的；水力的 | [高频]{.freq .freq-1} |
+| [hydraulics]{.headword} | n. | `hydraulic`+`-s`(学科) | 水力学；液压技术 | [中频]{.freq .freq-2} |
+| [hydroelectric]{.headword} | adj. | `hydro-`(水)+`electric`(电) | 水力发电的 | [高频]{.freq .freq-1} |
+| [hydrophobia]{.headword} | n. | `hydro-`(水)+`-phobia`(恐惧) | 恐水症；狂犬病（的症状） | [中频]{.freq .freq-2} |
+| [hydrophobic]{.headword} | adj. | `hydro-`(水)+`-phob-`+`-ic` | 疏水的；憎水的 | [中频]{.freq .freq-2} |
+| [hydrophilic]{.headword} | adj. | `hydro-`(水)+`-phil-`(喜爱)+`-ic` | 亲水的；吸水的 | [中频]{.freq .freq-2} |
+| [hydrant]{.headword} | n. | `hydr-`(水)+`-ant`(施动名词后缀) | 消防栓；给水栓 | [高频]{.freq .freq-1} |
+| [hydrology]{.headword} | n. | `hydro-`(水)+`-logy`(学科) | 水文学 | [中频]{.freq .freq-2} |
+| [hydrologist]{.headword} | n. | `hydro-`+`-log-`+`-ist`(专家) | 水文学家 | [低频]{.freq .freq-3} |
+| [hydrotherapy]{.headword} | n. | `hydro-`(水)+`therapy`(治疗) | 水疗法 | [中频]{.freq .freq-2} |
+| [hydroplane]{.headword} | n./v. | `hydro-`(水)+`plane`(平面) | 水上飞机；（车辆）漂胎打滑 | [中频]{.freq .freq-2} |
+| [hydrofoil]{.headword} | n. | `hydro-`(水)+`foil`(翼) | 水翼；水翼船 | [中频]{.freq .freq-2} |
+| [hydrocarbon]{.headword} | n. | `hydro-`(水→氢)+`carbon`(碳) | 碳氢化合物；烃 | [高频]{.freq .freq-1} |
+| [hydrosphere]{.headword} | n. | `hydro-`(水)+`-sphere`(圈层) | 水圈（地球水体总称） | [中频]{.freq .freq-2} |
+| [anhydrous]{.headword} | adj. | `an-`(无)+`hydr-`(水)+`-ous` | 无水的（化学术语） | [中频]{.freq .freq-2} |
+| [hydration]{.headword} | n. | `hydr-`+`-ation`(名词化) | 水合作用；补水（状态） | [高频]{.freq .freq-1} |
+| [rehydrate]{.headword} | v. | `re-`(再)+`hydr-`+`-ate` | 再水化；重新补水 | [中频]{.freq .freq-2} |
+| [overhydrate]{.headword} | v. | `over-`(过度)+`hydr-`+`-ate` | 过度补水 | [低频]{.freq .freq-3} |
+| [hydropower]{.headword} | n. | `hydro-`(水)+`power`(能量) | 水力发电；水能 | [高频]{.freq .freq-1} |
+| [hydrothermal]{.headword} | adj. | `hydro-`(水)+`thermal`(热) | 热液的；水热的 | [中频]{.freq .freq-2} |
+| [hydrostatic]{.headword} | adj. | `hydro-`(水)+`static`(静止) | 流体静力学的 | [低频]{.freq .freq-3} |
+| [hydrodynamic]{.headword} | adj. | `hydro-`(水)+`dynamic`(动) | 流体动力学的 | [中频]{.freq .freq-2} |
+| [hydrodynamics]{.headword} | n. | `hydro-`+`dynamics`(动力学) | 流体动力学 | [中频]{.freq .freq-2} |
+| [hydrogel]{.headword} | n. | `hydro-`(水)+`gel`(凝胶) | 水凝胶 | [中频]{.freq .freq-2} |
+| [hydroponics]{.headword} | n. | `hydro-`(水)+`-ponics`(劳作<Gk. *ponos*) | 水培法；无土栽培 | [中频]{.freq .freq-2} |
+| [hydrocephalus]{.headword} | n. | `hydro-`(水)+`cephalus`(头) | 脑积水 | [低频]{.freq .freq-3} |
+| [hydrochloride]{.headword} | n. | `hydro-`+`chloride`(氯化物) | 盐酸盐；氢氯化物 | [中频]{.freq .freq-2} |
+| [hydrograph]{.headword} | n. | `hydro-`(水)+`-graph`(记录图) | 水文过程线；流量图 | [低频]{.freq .freq-3} |
+| [hydrology]{.headword} | n. | `hydro-`+`-logy` | 水文学 | [中频]{.freq .freq-2} |
+| [hydrated]{.headword} | adj. | `hydr-`+`-ated`(完成状态) | 含水的；已补水的 | [高频]{.freq .freq-1} |
+| [Hydra]{.headword} | n. | `hydr-`(水)+`-a`(名词) | 九头蛇（神话）；水螅（生物） | [中频]{.freq .freq-2} |
+| [hydrangea]{.headword} | n. | `hydr-`(水)+`angeion`(容器) | 绣球花（果实似水壶） | [中频]{.freq .freq-2} |
+| [hydroxide]{.headword} | n. | `hydr-`(水→氢)+`oxide`(氧化物) | 氢氧化物 | [高频]{.freq .freq-1} |
+| [hydroelectric dam]{.headword} | n. | `hydro-`+`electric`+`dam` | 水力发电大坝 | [高频]{.freq .freq-1} |
+| [dehydrated]{.headword} | adj. | `de-`+`hydr-`+`-ated` | 脱水的；干燥处理的 | [高频]{.freq .freq-1} |
+| [hydromassage]{.headword} | n. | `hydro-`(水)+`massage`(按摩) | 水疗按摩 | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- Doctors warned that the marathon runners needed to **hydrate** before the race, not just during it.（医生警告说马拉松运动员需要在比赛前补水，而不仅仅是比赛中——*hydrate* 在运动语境中极为常见）
+- After spending three days in the desert, the rescue team found the hikers severely **dehydrated**, barely able to walk.（在沙漠待了三天后，救援队发现徒步者严重脱水，几乎无法行走——*dehydrated* 是医疗急救常用词）
+- The dam on the Colorado River generates enough **hydroelectric** power to supply electricity to millions of homes.（科罗拉多河上的水坝产生的水电足以为数百万家庭供电——*hydroelectric* 在能源政策报道中高频出现）
+- **Hydrogen** fuel cells are seen as a promising alternative to gasoline engines because the only byproduct is water.（氢燃料电池被视为汽油发动机的有前途替代品，因为唯一的副产品是水——呼应词根本义"生水之物"）
+- The car hit a pool of water on the freeway and began to **hydroplane**, spinning out of control before the driver could react.（汽车在高速公路上撞上积水后开始漂胎，在驾驶员来得及反应之前就失控旋转——*hydroplane* 作动词表示"因水膜失去抓地力"）
+- **Anhydrous** ammonia is used as a fertilizer, but it must be handled with extreme care because it absorbs moisture rapidly from the environment—and from human tissue.（无水氨用作肥料，但必须格外小心处理，因为它会迅速吸收环境中的水分——也会吸收人体组织中的水分）
+:::
+
+::: {.mnemonic}
+**助记**：把 **hydr-** 想象成一个水分子 H₂O 里的 **H**——氢就是 hydr-ogen（生水的 H）。记住这个化学命名逻辑，整个词根家族就自动打通：hydrogen 生水 → hydraulic 水压管道 → dehydrate 去水 → anhydrous 无水。遇到含 hydr- 的陌生词，先问自己"这里的'水'在做什么动作，或者被什么前缀修饰了？"
+:::
+
+::: {.trap}
+**陷阱**：**hydrant**（消防栓）的 *-ant* 后缀不表示"正在进行"，而是名词化后缀，意为"水的出口装置"——不要把它分析成"正在出水的东西"并过度引申。类似地，**Hydra**（九头蛇）是一个神话专名，其"砍掉一个头长出两个"的故事与词根 *hydr-* 的联系是命名隐喻（九头蛇住在水泽），并非词义规律——你不能凭此推断含 *hydr-* 的词都有"再生"或"倍增"的含义。另外，**hydrangea**（绣球花）因果实形似水壶而得名，是一个有趣的命名趣闻，但同样只是历史命名，无法成为推断其他词义的规律。保留这些故事作为记忆钩子，但分析词义时只依赖可靠的前缀＋根＋后缀拆解。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 76 章）学完后，请回看以下章节巩固相关词根对比：
+
+- **第 75 章**：回顾上一词根，检查与 hydr- 的异同
+- **第 74 章**：对比复习（注意与本章搭档根是否有交叉）
+- **第 72 章**：重温相关科学/自然领域词根
+- **第 68 章**：回看 -phobia 类词根（与本章 hydrophobia 直接呼应）
+- **第 60 章**：复习 -logy 词根（与本章 hydrology 直接呼应）
+
+**本章自测提示（闭卷回答）：**
+
+1. *hydrogen* 字面义是什么？两个希腊根分别是哪两个？
+2. *dehydrate* 和 *anhydrous* 同样表示"无水/去水"，它们的词根来源有何不同？（提示：一个用拉丁前缀 *de-*，一个用希腊前缀 *an-*）
+3. *hydraulic* 里的 *-aulic* 来自希腊语什么词，本义是什么？
+4. 不借助任何资料，拆解 *hydrodynamics* 的三个部分并分别说出含义。
+:::

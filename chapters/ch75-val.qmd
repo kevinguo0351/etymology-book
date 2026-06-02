@@ -1,0 +1,131 @@
+# val / vail —— "强·健·值"
+
+::: {.root-banner}
+val · vail = to be strong, to be worth 强壮；有价值
+:::
+
+来源：拉丁语 *valēre*，意为"身体强健、有力量、值得"。同源有 *valeo*（我很好，罗马人书信末尾常用的结束语）。
+
+::: {.etymo}
+**词源故事：罗马人的告别语**
+
+古罗马人写信，结尾不说"再见"，而是写 *vale*——"保重，愿你强健"。这个词直接来自 *valēre*，字面就是"要健壮"。今天英语里的 value（价值）、valid（有效的）、brave（勇敢）以及法语 valeur 都是这棵树上的果实。
+
+*valēre* 的核心意象有两个侧面：一是**身体的强壮**（valiant、valor、convalesce），二是**等量的价值**（value、evaluate、equivalent）。两者其实是同一件事——在古罗马人眼里，一个人"值多少"，和他"有多强"是高度重合的概念。
+
+这个根进入英语，主要经由两条通道：直接来自拉丁语的书面词（valid、valor、prevalent），以及经由古法语再转手的词（avail、prevail、value）。虽然拼写略有变化，但只要认出 val-/vail-，内核不变：**强、健、值**。
+:::
+
+前缀决定方向，根永远是同一个动作——"强起来、值多少"。换一个前缀，意义就转一个方向：
+
+| 前缀 | 方向 | 代表词 |
+|------|------|--------|
+| e- / ex- | 向外评估，定出价值 | evaluate（估值） |
+| pre- | 在前，压过别人 | prevail（盛行），prevalent（普遍） |
+| in- | 否定，失去效力 | invalid（无效），invalidate |
+| equi- | 等量，两边一样重 | equivalent（等值） |
+| con- / com- | 一起，共同复原 | convalesce（康复） |
+| ambi- | 两边，两种力拉扯 | ambivalent（矛盾） |
+| a- / ad- | 朝向，发挥用处 | avail（有用），available |
+| de- | 向下，降低价值 | devalue（贬值） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [value]{.headword} | n./v. | `val`(值)+`-ue` | 价值；重视 | [高频]{.freq .freq-1} |
+| [valuable]{.headword} | adj. | `val`(值)+`-able`(可) | 有价值的，贵重的 | [高频]{.freq .freq-1} |
+| [valid]{.headword} | adj. | `val`(强/有效)+`-id` | 有效的，合法的 | [高频]{.freq .freq-1} |
+| [invalid]{.headword} | adj./n. | `in-`(否)+`valid`(有效) | 无效的；病弱者 | [高频]{.freq .freq-1} |
+| [validate]{.headword} | v. | `valid`(有效)+`-ate` | 验证，使生效 | [高频]{.freq .freq-1} |
+| [validation]{.headword} | n. | `valid`+`-ation` | 验证，确认 | [高频]{.freq .freq-1} |
+| [invalidate]{.headword} | v. | `in-`(否)+`validate` | 使无效，推翻 | [中频]{.freq .freq-2} |
+| [evaluate]{.headword} | v. | `e-`(出)+`val`(值)+`-ate` | 评估，评价 | [高频]{.freq .freq-1} |
+| [evaluation]{.headword} | n. | `e-`+`val`+`-ation` | 评估，评价报告 | [高频]{.freq .freq-1} |
+| [prevalent]{.headword} | adj. | `pre-`(前)+`val`(强)+`-ent` | 普遍的，流行的 | [高频]{.freq .freq-1} |
+| [prevalence]{.headword} | n. | `pre-`+`val`+`-ence` | 普遍性，流行率 | [高频]{.freq .freq-1} |
+| [prevail]{.headword} | v. | `pre-`(前)+`vail`(强) | 盛行；战胜；说服 | [高频]{.freq .freq-1} |
+| [equivalent]{.headword} | adj./n. | `equi-`(等)+`val`(值)+`-ent` | 等值的；等价物 | [高频]{.freq .freq-1} |
+| [equivalence]{.headword} | n. | `equi-`+`val`+`-ence` | 等价，等效 | [中频]{.freq .freq-2} |
+| [ambivalent]{.headword} | adj. | `ambi-`(两)+`val`(力)+`-ent` | 矛盾的，摇摆不定的 | [高频]{.freq .freq-1} |
+| [ambivalence]{.headword} | n. | `ambi-`+`val`+`-ence` | 矛盾心理，两可 | [中频]{.freq .freq-2} |
+| [avail]{.headword} | v./n. | `a-`(向)+`vail`(有用) | 有益于；用处（to no avail 无济于事） | [中频]{.freq .freq-2} |
+| [available]{.headword} | adj. | `avail`(有用)+`-able` | 可获得的，有空的 | [高频]{.freq .freq-1} |
+| [availability]{.headword} | n. | `avail`+`-ability` | 可用性，可获得性 | [高频]{.freq .freq-1} |
+| [valor]{.headword} | n. | `val`(强壮)+`-or`(名词) | 英勇，勇气（尤指战场） | [中频]{.freq .freq-2} |
+| [valiant]{.headword} | adj. | `val`(强)+`-iant` | 英勇的，无畏的 | [中频]{.freq .freq-2} |
+| [valorous]{.headword} | adj. | `valor`+`-ous` | 英勇无畏的 | [低频]{.freq .freq-3} |
+| [convalesce]{.headword} | v. | `con-`(完全)+`val`(健)+`-esce`(渐变) | 逐渐康复，调养 | [中频]{.freq .freq-2} |
+| [convalescent]{.headword} | adj./n. | `convalesce`+`-ent` | 康复中的；康复期患者 | [中频]{.freq .freq-2} |
+| [convalescence]{.headword} | n. | `convalesce`+`-ence` | 康复期，疗养 | [中频]{.freq .freq-2} |
+| [devalue]{.headword} | v. | `de-`(向下)+`value` | 贬低；使贬值 | [高频]{.freq .freq-1} |
+| [devaluation]{.headword} | n. | `de-`+`value`+`-ation` | 货币贬值；降低价值 | [中频]{.freq .freq-2} |
+| [overvalue]{.headword} | v. | `over-`(过)+`value` | 高估，过于看重 | [中频]{.freq .freq-2} |
+| [undervalue]{.headword} | v. | `under-`(不足)+`value` | 低估，看轻 | [中频]{.freq .freq-2} |
+| [revalue]{.headword} | v. | `re-`(重新)+`value` | 重新估价；（货币）升值 | [中频]{.freq .freq-2} |
+| [ivalence]{.headword} | n. | `i-`+`val`+`-ence` | （化学）化合价 | [低频]{.freq .freq-3} |
+| [bivalent]{.headword} | adj. | `bi-`(二)+`val`(价)+`-ent` | 二价的；双重的 | [低频]{.freq .freq-3} |
+| [multivalent]{.headword} | adj. | `multi-`(多)+`val`(价)+`-ent` | 多价的；多义的 | [低频]{.freq .freq-3} |
+| [valence]{.headword} | n. | `val`(力)+`-ence` | （化学）化合价；（心理）效价 | [中频]{.freq .freq-2} |
+| [valorize]{.headword} | v. | `valor`+`-ize` | 提升……的价值或地位 | [低频]{.freq .freq-3} |
+| [face value]{.headword} | n. | `face`+`value`(字面值) | 票面价值；表面意义 | [高频]{.freq .freq-1} |
+| [value-added]{.headword} | adj. | `value`+`added` | 增值的（value-added tax 增值税） | [高频]{.freq .freq-1} |
+| [values]{.headword} | n. | `value`+`-s`（复数转义） | 价值观，道德标准 | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The antibiotic is no longer **valid** for treating this strain of bacteria.（这种抗生素对该菌株已经无效——valid 的核心：还有没有"力"）
+- Researchers **evaluated** the drug's efficacy over a 12-month trial period.（e- 向外评估，从数据里"提取"出价值）
+- Depression is now **prevalent** among college students worldwide.（pre- 站在前面压倒别的，流行到哪儿都有）
+- Despite mounting opposition, his view ultimately **prevailed**.（同一个 pre-vail，此处指他的观点"强过"了所有反对声音）
+- She felt **ambivalent** about the job offer—excited by the salary, but dread-ing the long commute.（ambi- 两个方向的力同时拉扯）
+- After weeks in hospital, he spent a month at home **convalescing**.（con- 加强语气，整个人慢慢"强回来"）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成罗盘方向——
+
+- **e-**（向外）：走出去秤一秤 → evaluate（评估）
+- **pre-**（向前冲）：比别人跑得快 → prevail（盛行）、prevalent（普遍）
+- **in-**（堵住路）：力气被挡回去 → invalid（无效）
+- **equi-**（两边水平）：天平两端一样重 → equivalent（等值）
+- **con-**（围拢）：大家帮你恢复力气 → convalesce（康复）
+- **ambi-**（两头拉）：左右各一匹马 → ambivalent（矛盾）
+- **a-/ad-**（朝你走来）：力气冲你来了 → avail（有用）、available（可用）
+- **de-**（向下压）：把力气往下踩 → devalue（贬值）
+
+核心口诀：**vale**（罗马人说"保重"），一个词根，八个前缀，八个方向，全都在"强与值"上做文章。
+:::
+
+::: {.trap}
+**陷阱**：
+
+1. **invalid** 有两个发音和含义：`ˈɪnvəlɪd`（名词，病弱者；历史用法，现已少用）和 `ɪnˈvælɪd`（形容词，无效的）。书面语中要看上下文，不要误以为"无效文件"里有个"体弱的人"。
+
+2. **valor / valour** 专指战场英勇，不能随意用于日常"勇气"场合——日常说勇气用 courage 更自然。
+
+3. **avail** 作名词几乎只出现在固定搭配 *to no avail*（无济于事）和 *of little avail* 中，不要把它当普通名词自由组合。
+
+4. **val-** 与 **valen-**（如 Valentine 情人节）之间的关联属于语源趣闻（Saint Valentine 的名字含义尚有争议），**不应**用来推断词义——这是历史趣闻，不是可靠的构词规律。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 75 章）学完后，请回看以下章节巩固邻近词根：
+
+- **第 74 章** — 上一章词根，趁热复习
+- **第 73 章** — 对比记忆
+- **第 71 章** — 与本章有前缀交叉的词根
+- **第 67 章** — 相关拉丁根群
+- **第 59 章** — 早期章节里的高频词复盘
+
+**本章自测提示**：
+
+- *valid* 和 *invalid* 的名词/动词形式各是什么？
+- *evaluate* 里的 e- 起什么作用？能换成其他前缀吗？
+- 用一句话解释 *ambivalent* 为什么含 *ambi-*？
+- *prevail* 和 *prevalent* 同根，语义有什么细微差别？
+- *to no avail* 是什么意思，能否换成 *available* 里的 *avail*？
+:::

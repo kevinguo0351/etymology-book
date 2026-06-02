@@ -1,0 +1,118 @@
+# sens / sent —— "感觉·感知"
+
+::: {.root-banner}
+sens · sent = to feel / to perceive 感觉，感知
+:::
+
+来源：拉丁语动词 **sentire**（to feel, to perceive, to think）及其过去分词词干 **sensus**。sentire 进入古法语后演变为 sentir，再随诺曼征服进入英语，形成了今天 sens- 与 sent- 两支并行的拼写形式。
+
+::: {.etymo}
+**词源故事：皮肤之下的感知**
+
+想象一个古罗马士兵站在夜色中的城墙上。他的身体在寒冷中感受着风向，他的耳朵捕捉着远处的动静，他的直觉告诉他——危险可能在某处酝酿。拉丁语把这整套"身体与心灵共同感知"的动作浓缩进一个词：*sentire*。它覆盖从皮肤的触觉到内心的判断，从生理感受到道德意见，是一个极其宽泛的"感"字。
+
+*sentire* 的名词形式是 *sensus*（感觉、感官、意义），两者共同繁殖出英语中庞大的 sens-/sent- 家族。有趣的是，拉丁人用同一个词既说"我感到冷"，也说"我认为此事有理"——感官与理性在他们那里本是一体的。这也是为什么 sense 这个词今天既能指"感官"，又能指"判断力"，还能指语言的"意义"。
+
+到了中世纪，*sentire* 派生出另一条支线：一个站岗警戒的士兵被称为 *sentinel*（哨兵），因为他的职责就是"持续感知"周围的一切动静，把身体变成一台不停运转的感知机器。词根虽小，藏的却是整个人类感知世界的地图。
+:::
+
+**前缀决定方向，sens/sent 永远是"感知"这个动作本身。** 不同前缀把感知的方向转向不同角度——向内、向外、向回、向前、向同、向异——根本动作分毫不变。
+
+| 前缀 | 本义 | 方向感 | 典型词 |
+|------|------|--------|--------|
+| con- | 一起/共同 | 众人共感→同意 | consent, consensus |
+| re- | 回，反 | 感受回来→愤恨 | resent, resentment |
+| dis- | 分开/反向 | 感知相异→异议 | dissent, dissension |
+| as- (ad-) | 朝向 | 感知趋同→赞同 | assent |
+| pre- | 在前 | 提前感知→预感 | presentiment |
+| in- | 向内/否定 | 感知迟钝/无感觉 | insensitive, insensible |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [sense]{.headword} | n./v. | `sens`(感知) | 感觉；感官；意义；意识到 | [高频]{.freq .freq-1} |
+| [sensation]{.headword} | n. | `sens`(感知)+`-ation`(名词化) | 感觉；轰动 | [高频]{.freq .freq-1} |
+| [sensory]{.headword} | adj. | `sens`(感知)+`-ory`(形容词) | 感觉的，感官的 | [高频]{.freq .freq-1} |
+| [sensitive]{.headword} | adj. | `sens`(感知)+`-itive`(易于…的) | 敏感的，灵敏的 | [高频]{.freq .freq-1} |
+| [sensitivity]{.headword} | n. | `sens`(感知)+`-ivity` | 敏感性，灵敏度 | [高频]{.freq .freq-1} |
+| [sensible]{.headword} | adj. | `sens`(感知)+`-ible`(能够) | 明智的；可感知的 | [高频]{.freq .freq-1} |
+| [sentiment]{.headword} | n. | `sent`(感)+`-iment`(名词化) | 情感；观点；感情色彩 | [高频]{.freq .freq-1} |
+| [sentimental]{.headword} | adj. | `sent`(感)+`-imental` | 多愁善感的，感伤的 | [高频]{.freq .freq-1} |
+| [consent]{.headword} | n./v. | `con-`(共同)+`sent`(感) | 同意；许可 | [高频]{.freq .freq-1} |
+| [consensus]{.headword} | n. | `con-`(共同)+`sensus`(感知) | 共识，一致意见 | [高频]{.freq .freq-1} |
+| [dissent]{.headword} | n./v. | `dis-`(相异)+`sent`(感) | 异议；不同意 | [高频]{.freq .freq-1} |
+| [assent]{.headword} | n./v. | `as-`(朝向)+`sent`(感) | 赞同；同意 | [中频]{.freq .freq-2} |
+| [resent]{.headword} | v. | `re-`(反向)+`sent`(感) | 愤恨；怨恨 | [高频]{.freq .freq-1} |
+| [resentment]{.headword} | n. | `re-`(反向)+`sent`(感)+`-ment` | 怨恨，愤慨 | [高频]{.freq .freq-1} |
+| [sentence]{.headword} | n./v. | `sent`(意见)+`-ence` | 句子；判决；宣判 | [高频]{.freq .freq-1} |
+| [sentient]{.headword} | adj. | `sent`(感)+`-ient`(具有…能力的) | 有感觉能力的，有知觉的 | [中频]{.freq .freq-2} |
+| [sentinel]{.headword} | n. | `sent`(感知)+`-inel`(拉丁小词) | 哨兵，警卫 | [中频]{.freq .freq-2} |
+| [presentiment]{.headword} | n. | `pre-`(预先)+`sent`(感)+`-iment` | 预感（尤指不祥之感） | [中频]{.freq .freq-2} |
+| [nonsense]{.headword} | n. | `non-`(无)+`sense`(意义) | 胡说；废话；无意义之物 | [高频]{.freq .freq-1} |
+| [sensual]{.headword} | adj. | `sens`(感)+`-ual`(形容词) | 感官的；肉欲的，感性享受的 | [中频]{.freq .freq-2} |
+| [sensuous]{.headword} | adj. | `sens`(感)+`-uous` | 诉诸感官的（文学/美感，无性色彩） | [中频]{.freq .freq-2} |
+| [insensitive]{.headword} | adj. | `in-`(否定)+`sensitive` | 迟钝的，无感的，失察的 | [高频]{.freq .freq-1} |
+| [insensible]{.headword} | adj. | `in-`(否定)+`sensible` | 失去知觉的；无感于…的 | [中频]{.freq .freq-2} |
+| [oversensitive]{.headword} | adj. | `over-`(过度)+`sensitive` | 过于敏感的，玻璃心的 | [中频]{.freq .freq-2} |
+| [dissension]{.headword} | n. | `dis-`(相异)+`sens`(感)+`-ion` | 内部纷争，不和 | [中频]{.freq .freq-2} |
+| [assentation]{.headword} | n. | `as-`(朝向)+`sent`(感)+`-ation` | 奉承性的附和（贬义） | [低频]{.freq .freq-3} |
+| [sensationalism]{.headword} | n. | `sensation`+`-ism` | 耸人听闻主义；感觉主义 | [中频]{.freq .freq-2} |
+| [sensationalize]{.headword} | v. | `sensation`+`-ize` | 使耸人听闻，过度渲染 | [中频]{.freq .freq-2} |
+| [sensor]{.headword} | n. | `sens`(感知)+`-or`(施动者) | 传感器，感应器 | [高频]{.freq .freq-1} |
+| [sensory deprivation]{.headword} | n. phr. | `sensory`+`deprivation` | 感觉剥夺（心理学术语） | [中频]{.freq .freq-2} |
+| [extrasensory]{.headword} | adj. | `extra-`(超出)+`sensory` | 超感官的（ESP 常见于此） | [中频]{.freq .freq-2} |
+| [sensitize]{.headword} | v. | `sensitive`+`-ize` | 使敏感；（摄影）使感光 | [中频]{.freq .freq-2} |
+| [desensitize]{.headword} | v. | `de-`(去除)+`sensitize` | 脱敏；使不再敏感 | [中频]{.freq .freq-2} |
+| [hypersensitive]{.headword} | adj. | `hyper-`(超)+`sensitive` | 过敏的，高度敏感的 | [中频]{.freq .freq-2} |
+| [photosensitive]{.headword} | adj. | `photo-`(光)+`sensitive` | 光敏的，感光的 | [中频]{.freq .freq-2} |
+| [sensorium]{.headword} | n. | `sens`(感)+`-orium`(场所) | 感觉中枢；感知系统的整体 | [低频]{.freq .freq-3} |
+| [sensualist]{.headword} | n. | `sensual`+`-ist` | 纵情声色者；感觉主义者 | [低频]{.freq .freq-3} |
+| [oversentimental]{.headword} | adj. | `over-`+`sentimental` | 过分感伤的 | [低频]{.freq .freq-3} |
+| [consenting]{.headword} | adj. | `con-`+`sent`+`-ing` | 已表示同意的（consenting adults） | [高频]{.freq .freq-1} |
+| [resentful]{.headword} | adj. | `resent`+`-ful` | 充满怨恨的 | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The researcher studied how **sensory** input from the environment shapes early childhood development.（感官输入，偏科学/学术语境）
+- She had a **presentiment** that the journey would not end well, though she could not explain why.（预感，强调无法理性解释的内心感知）
+- After years of **dissent**, the party finally reached a **consensus** on tax reform.（前者"异议"，后者"共识"——同一词根，前缀相反，对比鲜明）
+- He tried to hide his **resentment**, but it seeped into every conversation.（怨恨从内心渗出，re- 的"反向感受"在此完全可见）
+- The judge delivered a harsh **sentence**, silencing the courtroom.（sentence 在此是"判决"，从"表达意见"到"法律裁决"的语义旅程）
+- Modern smartphones are packed with **sensors** that track motion, light, and even air pressure.（传感器，sens- 在科技语境中的现代身份）
+:::
+
+::: {.mnemonic}
+**助记**：把 sens/sent 想象成一个指南针，指针永远指向"感知"；前缀是你拨动指针的手——con- 把指针转向"一起"（共识），re- 把它拨回来（怨恨），dis- 把它掰开（异议），pre- 把它推到时间轴的前方（预感）。只要认住"指针 = 感知不变，手势 = 前缀改方向"，这一家子几十个词全部一网打尽。
+:::
+
+::: {.trap}
+**陷阱一：sensible vs. sensitive**
+两词都含 sens-，但语义截然不同。**sensible** 在现代英语中主要意思是"明智的、合理的"（a sensible decision），而非"能感知的"；**sensitive** 才是"敏感的、灵敏的"。初学者常因词形相近而混淆，请务必通过例句区分。
+
+**陷阱二：sentence 的词源是趣闻，不是推断工具**
+sentence 确实来自 sentire（意见→判决→句子），这是有据可查的语义演变。但在现代英语中，sentence 表"句子"已经与"感知"完全脱节——遇到 sentence 时你看不出任何"感觉"的意味，也不需要靠词根来理解它。这段历史值得了解，但**不要用"sens/sent = 感觉"去猜测 sentence 的用法**，此处词源是历史趣闻，不是实用推断路径。
+
+**陷阱三：sensual vs. sensuous**
+两词都形容"感官的"，但色彩不同。**sensual** 带有肉体、性感的含义；**sensuous** 则是文学性的"诉诸审美感官的"，无性意涵。Milton 为了避免 sensual 的负面联想，据说自己造了 sensuous 一词。混用会在正式写作中造成误解。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 73 章）学完后，请回顾以下章节，强化前缀与词根叠加的感觉：
+
+- **第 72 章**：对照今天的前缀方向表，看看上章的前缀规律是否相通
+- **第 71 章**：回忆上上章的核心动词词根，与 sentire 做横向比较
+- **第 69 章**：复习该章的名词化后缀（-tion / -ment / -ence），对应今天的 sensation / resentment / sentence
+- **第 65 章**：回看形容词后缀（-ible / -ive）如何改变词性，对应今天的 sensible / sensitive
+- **第 57 章**：复习否定前缀 in- / dis-，验证 insensitive / dissent 的构词逻辑
+
+**本章自测（不看书回答）：**
+1. consent 和 consensus 都含 con-+sens/sent，两者含义有何细微差异？
+2. resent 的字面逻辑是什么？为什么是"怨恨"而不是"重新感受"？
+3. sentence 有几个意思？哪个意思与词根"感知/意见"的关联最直接？
+4. sensible 和 sensitive 各举一个例句，感受两者的语义边界。
+5. 不查书，写出含 sens/sent 的五个派生词，并拆出前缀说明其方向。
+:::

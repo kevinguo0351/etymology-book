@@ -1,0 +1,123 @@
+# sci —— "知道"
+
+::: {.root-banner}
+`sci` = to know 知道、认知
+:::
+
+来源：拉丁语 *scire*（知道、了解），与 *scindere*（切割）同族——知识是"切开"事物、分辨真伪的能力。
+
+::: {.etymo}
+**词源故事：切开迷雾，才算知道**
+
+拉丁语 *scire* 的远祖可追溯到印欧语根 \*skei-，本义是"切割、分离"。这并非偶然：在古罗马人的世界观里，"知道"一件事，就是能把它从混沌中"切"出来，看清边界，辨别真伪。同一个根还孕育了英语 *schism*（分裂）和 *scissors*（剪刀）——分辨、剪切、认知，本是同一动作。
+
+*Scire* 衍生出名词 *scientia*，意为"知识、学问"。中世纪拉丁语学者把人类系统性的探究活动称为 *scientia naturalis*（自然知识），这个词在14世纪进入英语，浓缩成今天的 *science*。
+
+最有戏剧性的派生词要数 *conscientia*——前缀 *con-*（共同、一起）加上 *scientia*，字面义是"与自己共同知晓"，即内心深处那个见证你一切行为的"旁观者"。英语 *conscience*（良知）和 *conscious*（有意识的）都从这里来，二者本是同一枚硬币的两面：良知是道德层面的自知，意识是认知层面的自知。
+:::
+
+**前缀决定方向，`sci` 永远是"知道"这个动作。**
+
+| 前缀 | 方向/含义 | 典型词 |
+|------|-----------|--------|
+| `con-` | 共同、向内 | conscious, conscience |
+| `omni-` | 全部 | omniscient |
+| `pre-` | 在前、提前 | prescient |
+| `sub-` | 在下、潜藏 | subconscious |
+| `un-` | 否定 | unconscious |
+| `ne-` | 否定（古拉丁） | nescient |
+| （无前缀） | 纯粹的知 | science, scientist |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [science]{.headword} | n. | `scientia`(知识) | 科学；学问 | [高频]{.freq .freq-1} |
+| [scientific]{.headword} | adj. | `scientia`+`-ic`(形容词尾) | 科学的；系统的 | [高频]{.freq .freq-1} |
+| [scientist]{.headword} | n. | `scientia`+`-ist`(人) | 科学家 | [高频]{.freq .freq-1} |
+| [science fiction]{.headword} | n. | `science`+`fiction`(虚构) | 科幻小说 | [高频]{.freq .freq-1} |
+| [conscious]{.headword} | adj. | `con-`(共同)+`sci`(知)+`-ous` | 有意识的；自觉的 | [高频]{.freq .freq-1} |
+| [consciousness]{.headword} | n. | `conscious`+`-ness` | 意识；知觉 | [高频]{.freq .freq-1} |
+| [conscience]{.headword} | n. | `con-`(共同)+`sci`(知)+`-ence` | 良知；良心 | [高频]{.freq .freq-1} |
+| [conscientious]{.headword} | adj. | `conscience`+`-ious` | 认真负责的；凭良心的 | [高频]{.freq .freq-1} |
+| [unconscious]{.headword} | adj. | `un-`(否)+`conscious` | 无意识的；失去知觉的 | [高频]{.freq .freq-1} |
+| [unconsciously]{.headword} | adv. | `unconscious`+`-ly` | 无意识地；不自觉地 | [高频]{.freq .freq-1} |
+| [subconscious]{.headword} | adj./n. | `sub-`(下)+`conscious` | 潜意识的；潜意识 | [高频]{.freq .freq-1} |
+| [subconsciousness]{.headword} | n. | `subconscious`+`-ness` | 潜意识状态 | [中频]{.freq .freq-2} |
+| [omniscient]{.headword} | adj. | `omni-`(全)+`sci`(知)+`-ent` | 全知的；无所不知的 | [中频]{.freq .freq-2} |
+| [omniscience]{.headword} | n. | `omni-`(全)+`sci`(知)+`-ence` | 全知；全知状态 | [中频]{.freq .freq-2} |
+| [prescient]{.headword} | adj. | `pre-`(前)+`sci`(知)+`-ent` | 有预知能力的；先知的 | [中频]{.freq .freq-2} |
+| [prescience]{.headword} | n. | `pre-`(前)+`sci`(知)+`-ence` | 预知；先见之明 | [中频]{.freq .freq-2} |
+| [nescient]{.headword} | adj. | `ne-`(否)+`sci`(知)+`-ent` | 无知的；不可知论的 | [低频]{.freq .freq-3} |
+| [nescience]{.headword} | n. | `ne-`(否)+`sci`(知)+`-ence` | 无知；不可知论 | [低频]{.freq .freq-3} |
+| [self-conscious]{.headword} | adj. | `self-`(自身)+`conscious` | 害羞局促的；过于自我意识的 | [高频]{.freq .freq-1} |
+| [self-consciousness]{.headword} | n. | `self-conscious`+`-ness` | 自我意识过强；局促不安 | [中频]{.freq .freq-2} |
+| [class-conscious]{.headword} | adj. | `class`(阶级)+`conscious` | 有阶级意识的 | [中频]{.freq .freq-2} |
+| [cost-conscious]{.headword} | adj. | `cost`(成本)+`conscious` | 注重成本的；精打细算的 | [中频]{.freq .freq-2} |
+| [consciously]{.headword} | adv. | `conscious`+`-ly` | 有意识地；自觉地 | [高频]{.freq .freq-1} |
+| [scientifically]{.headword} | adv. | `scientific`+`-ally` | 科学地；系统地 | [高频]{.freq .freq-1} |
+| [social science]{.headword} | n. | `social`+`science` | 社会科学 | [高频]{.freq .freq-1} |
+| [neuroscience]{.headword} | n. | `neuro-`(神经)+`science` | 神经科学 | [中频]{.freq .freq-2} |
+| [neuroscientist]{.headword} | n. | `neuro-`(神经)+`scientist` | 神经科学家 | [中频]{.freq .freq-2} |
+| [science-based]{.headword} | adj. | `science`+`based`(基于) | 以科学为基础的 | [中频]{.freq .freq-2} |
+| [pre-conscious]{.headword} | adj. | `pre-`(前)+`conscious` | 前意识的（心理学用语） | [低频]{.freq .freq-3} |
+| [unscientific]{.headword} | adj. | `un-`(否)+`scientific` | 不科学的 | [中频]{.freq .freq-2} |
+| [pseudoscience]{.headword} | n. | `pseudo-`(伪)+`science` | 伪科学 | [中频]{.freq .freq-2} |
+| [conscience-stricken]{.headword} | adj. | `conscience`+`stricken`(受打击) | 良心不安的；受良心谴责的 | [低频]{.freq .freq-3} |
+| [conscientiously]{.headword} | adv. | `conscientious`+`-ly` | 认真负责地；勤勤恳恳地 | [中频]{.freq .freq-2} |
+| [conscientiousness]{.headword} | n. | `conscientious`+`-ness` | 尽职尽责；责任心 | [中频]{.freq .freq-2} |
+| [omnisciently]{.headword} | adv. | `omniscient`+`-ly` | 全知地 | [低频]{.freq .freq-3} |
+| [computer science]{.headword} | n. | `computer`+`science` | 计算机科学 | [高频]{.freq .freq-1} |
+| [political science]{.headword} | n. | `political`+`science` | 政治学 | [高频]{.freq .freq-1} |
+| [science lab]{.headword} | n. | `science`+`lab`(实验室) | 科学实验室 | [高频]{.freq .freq-1} |
+| [scilicet]{.headword} | adv. | `sci`(知)+`licet`(允许，拉丁缩写 *sc.*) | 即；也就是说（学术缩写） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- She was not **conscious** of how much time had passed while reading.（她完全没意识到自己读书已经读了多久——`conscious` 是"知道自己处于某状态"）
+- He acted on **conscience** and returned the wallet to its owner.（良知驱动行动，`conscience` 是内心那个"共同见证者"）
+- The **omniscient** narrator reveals what every character thinks and feels.（全知叙事者，文学术语里的经典用法——上帝视角）
+- Her **prescient** warning about the housing bubble was ignored until it was too late.（她对房产泡沫的预见性警告被忽视，直到为时已晚）
+- A **conscientious** student double-checks sources before citing them.（认真负责的学生引用前一定核实来源——`conscientious` 强调"凭良心做到位"）
+- Much of our decision-making happens at the **subconscious** level, beyond rational control.（我们的大量决策发生在潜意识层面，超出理性控制——弗洛伊德式语境）
+:::
+
+::: {.mnemonic}
+**助记**：把 `sci` 想成一把"知识之刀"（呼应词根本义"切割"）——
+
+- 刀**向内切**（`con-` = 共同向内）→ **conscious**（意识到）、**conscience**（良知）
+- 刀**向前伸**（`pre-` = 向前）→ **prescient**（预知）
+- 刀**切到底**（`omni-` = 全部）→ **omniscient**（全知）
+- 刀**藏在下面**（`sub-` = 在下）→ **subconscious**（潜意识）
+- 刀**被收起来**（`un-` = 否定）→ **unconscious**（无意识）
+- 刀**根本不存在**（`ne-` = 古拉丁否定）→ **nescient**（无知）
+
+每次看到 `sci`，提醒自己：**"有人知道"**，再看前缀判断是谁、用什么方式知道。
+:::
+
+::: {.trap}
+**陷阱**：`sci` 与 `scis-`（剪刀）是同一远祖，但这是历史趣闻，**不是可以反推词义的规则**。看到 *scissors*（剪刀）、*schism*（分裂）、*rescind*（撤销）时，不能因为"感觉有点像 sci"就套用"知道"来猜义——它们走的是"切割"这条语义线，早已与"知"分道扬镳。遇到陌生词，先查词典确认，再决定词根是否适用。
+
+另：`conscious` 和 `conscience` 拼写极近，意思却有侧重——前者是感知/知觉层面（*aware*），后者是道德层面（*moral sense*）。写作时请勿混用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第77章）学完后，请回看：
+
+- **第76章** — 复习上一章词根，与 `sci` 对比记忆
+- **第75章** — 巩固相邻章节词汇网络
+- **第73章** — 重温较早学过的拉丁根，感受前缀系统的一致性
+- **第69章** — 回顾另一个"认知/感知"语义场的词根，与 `sci` 对照
+- **第61章** — 检视更早的基础词根，确认长期记忆稳固
+
+**本章自测提示**：
+
+1. `omni-` + `sci` + `-ent` 拼出哪个词？它的名词形式是？
+2. `conscience` 与 `conscious` 各强调什么维度的"知"？
+3. 弗洛伊德的三层心理结构里，哪两个词直接来自 `sci`？
+4. 用 `pre-` 造一个句子，描述某人对危机的预见。
+5. 为什么 `scissors` 不能用"知道"来理解？（考察陷阱意识）
+:::

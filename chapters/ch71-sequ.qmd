@@ -1,0 +1,134 @@
+# sequ / secut —— "跟随"
+
+::: {.root-banner}
+sequ · secut = to follow 跟随、追随
+:::
+
+来源：拉丁语动词 *sequi*（不定式）/ *secutus*（完成分词），本义"跟随、追随"。英语通过古典拉丁语借入 sequ- 形式（如 sequence），通过完成分词词干借入 secut- 形式（如 execute、persecute），另有一支经由古法语演变为 sue / pursue / ensue。
+
+::: {.etymo}
+**词源故事：一只猎犬的七种追法**
+
+想象一只训练有素的猎犬。它的本职只有一件事——*sequi*，跟随、追踪。主人走到哪里，它跟到哪里；猎物跑向何方，它追向何方。整本词根故事，不过是这只猎犬用不同姿态完成同一个动作。
+
+前缀换方向，根永远是同一个动作。把 *con-*（一起）贴上去，猎犬和同伴并肩追——事物紧挨着发生，便有了 *consecutive*（连续的）；加上因果逻辑，一件事"跟随"另一件而来，便是 *consequence*（结果）。把 *pro-*（向前）贴上去，检察官在法庭上追着被告不放——*prosecute*（起诉）；把 *per-*（贯穿、彻底）贴上去，追追追不停歇——*persecute*（迫害）。
+
+这只猎犬还穿越了语言的边界。拉丁语 *sequi* 进入古法语后，磨损成 *sivre*，再变成 *suer*，最终进入英语成为 *sue*（起诉，原义"追随、追索"）。加上 *pur-*（=*pro-*，向前）便是 *pursue*（追求、追赶）；加上 *en-*（进入状态）便是 *ensue*（随之发生）。换了面孔，却是同一只猎犬。
+
+还有一种跟随格外卑微：*ob-*（朝向、对着）加上 *sequi*，演变成 *obsequious*——对着主人亦步亦趋、曲意逢迎，是奴颜婢膝的"跟班"。拉丁人用这个词时已带贬义。而当猎犬把猎物一路追出去（*ex-*，向外、跟到底），任务就算完成了——那便是 *execute*，执行、处决。
+:::
+
+### 前缀决定方向，根永远是同一个动作
+
+| 前缀 | 方向／含义 | 代表词 | 逻辑 |
+|------|-----------|--------|------|
+| con- | 一起、紧接 | consecutive, consequence | 事物紧挨着跟在一起 |
+| pro- | 向前、在前 | prosecute | 向前追究、追诉 |
+| sub- | 在下、在后 | subsequent | 跟在后面 |
+| ex- | 向外、跟到底 | execute | 追到完成、执行到底 |
+| per- | 贯穿、彻底 | persecute | 一路追不停歇 |
+| ob- | 朝向、对着 | obsequious | 对着主人跟随、讨好 |
+| en-/in- | 进入状态 | ensue | 随之进入、随之发生 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [sequence]{.headword} | n. | `sequ`(跟随)+`-ence`(名词后缀) | 顺序；序列；一系列 | [高频]{.freq .freq-1} |
+| [sequential]{.headword} | adj. | `sequ`(跟随)+`-ential`(形容词后缀) | 按顺序的；顺次的 | [高频]{.freq .freq-1} |
+| [sequel]{.headword} | n. | `sequ`(跟随)+`-el`(小词后缀) | 续集；后续结果 | [高频]{.freq .freq-1} |
+| [consequence]{.headword} | n. | `con-`(一起)+`sequ`(跟随)+`-ence` | 结果；后果；重要性 | [高频]{.freq .freq-1} |
+| [consequent]{.headword} | adj. | `con-`(一起)+`sequ`(跟随)+`-ent` | 随之发生的；作为结果的 | [中频]{.freq .freq-2} |
+| [consequently]{.headword} | adv. | `con-`+`sequ`+`-ently` | 因此；结果是 | [高频]{.freq .freq-1} |
+| [inconsequential]{.headword} | adj. | `in-`(否)+`con-`+`sequ`+`-ential` | 不重要的；无关紧要的 | [中频]{.freq .freq-2} |
+| [consecutive]{.headword} | adj. | `con-`(一起)+`secut`(跟随)+`-ive` | 连续的；相继的 | [高频]{.freq .freq-1} |
+| [consecutively]{.headword} | adv. | `con-`+`secut`+`-ively` | 连续地；相继地 | [中频]{.freq .freq-2} |
+| [subsequent]{.headword} | adj. | `sub-`(在后)+`sequ`(跟随)+`-ent` | 随后的；之后的 | [高频]{.freq .freq-1} |
+| [subsequently]{.headword} | adv. | `sub-`+`sequ`+`-ently` | 随后；其后 | [高频]{.freq .freq-1} |
+| [execute]{.headword} | v. | `ex-`(向外/到底)+`secut`(跟随)+`-e` | 执行；处决；实施 | [高频]{.freq .freq-1} |
+| [execution]{.headword} | n. | `ex-`+`secut`+`-ion` | 执行；处决；实施 | [高频]{.freq .freq-1} |
+| [executive]{.headword} | n./adj. | `ex-`+`secut`+`-ive` | 行政主管；执行的 | [高频]{.freq .freq-1} |
+| [executor]{.headword} | n. | `ex-`+`secut`+`-or`(执行者) | 执行人；遗嘱执行人 | [中频]{.freq .freq-2} |
+| [prosecute]{.headword} | v. | `pro-`(向前)+`secut`(跟随)+`-e` | 起诉；追诉；继续从事 | [高频]{.freq .freq-1} |
+| [prosecution]{.headword} | n. | `pro-`+`secut`+`-ion` | 起诉；检察方；追究 | [高频]{.freq .freq-1} |
+| [prosecutor]{.headword} | n. | `pro-`+`secut`+`-or` | 检察官；起诉人 | [高频]{.freq .freq-1} |
+| [persecute]{.headword} | v. | `per-`(贯穿/彻底)+`secut`(跟随)+`-e` | 迫害；纠缠不休 | [高频]{.freq .freq-1} |
+| [persecution]{.headword} | n. | `per-`+`secut`+`-ion` | 迫害；虐待 | [高频]{.freq .freq-1} |
+| [persecutor]{.headword} | n. | `per-`+`secut`+`-or` | 迫害者；施害者 | [中频]{.freq .freq-2} |
+| [ensue]{.headword} | v. | `en-`(进入)+`sue`(跟随，古法语) | 随之发生；接踵而来 | [中频]{.freq .freq-2} |
+| [ensuing]{.headword} | adj. | `en-`+`su`+`-ing` | 随后发生的；接下来的 | [中频]{.freq .freq-2} |
+| [pursue]{.headword} | v. | `pur-`(=pro-，向前)+`sue`(跟随，古法语) | 追求；追赶；从事 | [高频]{.freq .freq-1} |
+| [pursuit]{.headword} | n. | `pur-`+`su`+`-it` | 追求；追赶；爱好活动 | [高频]{.freq .freq-1} |
+| [pursuer]{.headword} | n. | `pur-`+`su`+`-er` | 追求者；追赶者 | [中频]{.freq .freq-2} |
+| [sue]{.headword} | v. | 古法语 *sivre*（跟随→追索） | 起诉；诉讼 | [高频]{.freq .freq-1} |
+| [suit]{.headword} | n./v. | 同源于 sue（追随→一套、适合） | 诉讼；套装；适合 | [高频]{.freq .freq-1} |
+| [suite]{.headword} | n. | 法语 *suite*（跟随的一组） | 套房；套件；组曲 | [高频]{.freq .freq-1} |
+| [obsequious]{.headword} | adj. | `ob-`(朝向)+`sequ`(跟随)+`-ious` | 奴颜婢膝的；谄媚的 | [中频]{.freq .freq-2} |
+| [obsequiousness]{.headword} | n. | `ob-`+`sequ`+`-iousness` | 谄媚；奴从行为 | [低频]{.freq .freq-3} |
+| [obsequy]{.headword} | n. | `ob-`+`sequ`+`-y`（另一支义） | （复数 obsequies）葬礼仪式 | [低频]{.freq .freq-3} |
+| [non sequitur]{.headword} | n. | `non`(不)+`sequitur`(it follows，拉丁语第三人称) | 不合逻辑的推论；答非所问 | [中频]{.freq .freq-2} |
+| [sequela]{.headword} | n. | `sequ`(跟随)+`-ela`(拉丁医学后缀) | （复数 sequelae）后遗症 | [低频]{.freq .freq-3} |
+| [sequent]{.headword} | adj. | `sequ`(跟随)+`-ent` | （书面）随之而来的；连续的 | [低频]{.freq .freq-3} |
+| [sequentially]{.headword} | adv. | `sequ`+`-entially` | 依序地；顺次地 | [中频]{.freq .freq-2} |
+| [consequentialism]{.headword} | n. | `con-`+`sequ`+`-entialism` | 后果主义（伦理学） | [低频]{.freq .freq-3} |
+| [executive order]{.headword} | n. phr. | `ex-`+`secut`+`-ive` order | 行政命令 | [高频]{.freq .freq-1} |
+| [prosecutorial]{.headword} | adj. | `pro-`+`secut`+`-orial` | 检察官的；检察性质的 | [中频]{.freq .freq-2} |
+| [follow-up]{.headword} | n./adj. | （概念同源，非词根派生） | 后续；跟进（理解 sequel 时的对照词） | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The researchers observed a **sequence** of events that ultimately led to the system's collapse.（一连串事件依次展开——sequence 就是"跟着来的那一串"。）
+- Heavy rainfall throughout the week **ensued**, causing widespread flooding across the region.（暴雨随之而来——ensue 强调"紧跟某事之后自然发生"。）
+- The country has faced decades of **persecution** for its religious minorities, drawing international condemnation.（宗教少数族裔遭到迫害——per-secut 意指"一路追打不停歇"。）
+- She was **prosecuted** for financial fraud after a two-year investigation finally yielded enough evidence.（历经两年调查后被起诉——pro-secut 是检察官"向前追究"的动作。）
+- His argument made no logical sense—it was a complete **non sequitur** that left the audience confused.（论点毫无逻辑关联——non sequitur 字面是"它并不跟随"，即前后不相干。）
+- The CEO's **obsequious** behavior toward the board members struck many employees as deeply undignified.（对董事会成员谄媚奉承——obsequious 来自"朝着对方亦步亦趋地跟随"。）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成猎犬追猎物的方向——
+
+- **con-**（一起紧挨）→ consecutive 连续，consequence 结果跟着来
+- **pro-**（向前冲）→ prosecute 检察官追着被告冲
+- **sub-**（跟在后面）→ subsequent 事件排在后面跟着走
+- **ex-**（追出去/跟到底）→ execute 任务追到完成
+- **per-**（一路追到底）→ persecute 迫害不停歇
+- **ob-**（凑上去跟着）→ obsequious 贴着主人献媚
+
+核心口诀：**猎犬只会一件事——跟（sequ/secut）；前缀告诉它往哪儿跟。**
+:::
+
+::: {.trap}
+**陷阱一：secut- 与 sect-（切）**
+
+*secut-* 来自 *sequi*（跟随），而 *sect-* 来自 *secare*（切割）。两者拼写相似，意思完全不同。*execute* 是"跟到底/执行"，*dissect* 是"切开/解剖"——不可混淆。
+
+**陷阱二：suit / suite / sue 的分叉**
+
+这三个词确实同源于"跟随"，但现代词义已高度分化：*suit* 可指诉讼、套装、适合；*suite* 指套房或组曲；*sue* 指起诉。它们的共同词源（"一组跟随在一起的事物"）是有趣的历史事实，但不能用来推断词义——看到 *suit* 不要自动联想"追随"，要结合语境判断。
+
+**陷阱三：obsequy（葬礼）与 obsequious（谄媚）**
+
+二者拼写相近，词义却不同。*obsequies*（葬礼仪式）源自另一拉丁词 *obsequiae*，与 *obsequious* 的词源路径有交叉但不完全相同，属于历史上的混用。阅读中遇到 *obsequies* 切勿解读为"谄媚行为"。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 71 章）学完后，请回看以下章节巩固关联词根：
+
+- **第 70 章**：上一章词根，趁热夯实
+- **第 69 章**：复习强化
+- **第 67 章**：相关构词规律
+- **第 63 章**：前缀体系对照
+- **第 55 章**：早期核心词根回顾
+
+**本章自测提示：**
+
+1. *consequence* 与 *sequence* 中的 con- 各带来什么语义？
+2. 为什么 *prosecute* 和 *persecute* 都含 -secut-，含义却一个是"起诉"、一个是"迫害"？
+3. *pursue* 和 *ensue* 同源于古法语 *sivre*，前缀分别是什么、方向有何不同？
+4. 用一句话解释 *non sequitur* 的字面逻辑。
+5. *obsequious* 的词根逻辑是什么？为什么这个词带贬义？
+:::

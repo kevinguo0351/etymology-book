@@ -1,0 +1,124 @@
+# phob / phobia —— "怕·恐惧"
+
+::: {.root-banner}
+phob · phobia = fear 恐惧、害怕
+:::
+
+来源：希腊语 **phobos**（φόβος），本义为"逃跑时引发的恐惧、惊惧"，源自动词 *phebesthai*（逃窜）。Phobos 在希腊神话中是战神阿瑞斯（Ares）之子，掌管战场上的恐慌与溃逃；他的兄弟 Deimos（德摩斯）则代表更深层的恐惧与震颤——两兄弟一起跟随父亲出征，让敌军闻风丧胆。
+
+::: {.etymo}
+**词源故事：战场上的两兄弟**
+
+在古希腊人的想象中，战场不只是人与人的搏杀，还是神明力量彼此角力的舞台。当阿瑞斯（Ares）策马冲锋时，他的两个儿子 Phobos 与 Deimos 始终伴随左右。Phobos 制造的是那种让士兵扭头就跑的突发性恐慌——肾上腺素爆发、腿脚发软、脑子一片空白——而不是能理性分析的危险感。
+
+这个词进入拉丁语和后来的英语，成为医学词汇的核心构件。19 世纪，随着精神病学的建立，医生们开始用 **-phobia** 来命名各种持续性、非理性的恐惧症：对封闭空间的 claustrophobia、对广场人群的 agoraphobia、对陌生事物的 xenophobia……几乎任何一种病态恐惧都可以找到一个希腊搭档根，拼出专业术语。
+
+值得注意的是，**phobia** 与 **panic** 有近亲关系：panic 来自牧神潘（Pan），他的嚎叫同样让人不假思索地逃窜。两个词都在捕捉同一种人类经验——理性失守之前，身体先跑。
+:::
+
+## 搭档根表
+
+希腊根 **phob/phobia** 的威力在于"领域根互相拼搭"——任何一个描述领域的希腊根，几乎都能与 **-phobia** 结合，命名一种恐惧症。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| **claustro-** | 封闭、关锁（拉丁 claustrum） | claustrophobia 幽闭恐惧症 |
+| **xeno-** | 外来的、陌生的 | xenophobia 排外情绪 |
+| **agora-** | 广场、集市 | agoraphobia 广场恐惧症 |
+| **acro-** | 高处、顶端 | acrophobia 恐高症 |
+| **hydro-** | 水 | hydrophobia 恐水症／狂犬病 |
+| **arachno-** | 蜘蛛 | arachnophobia 蜘蛛恐惧症 |
+| **techno-** | 技术、工艺 | technophobia 技术恐惧症 |
+| **photo-** | 光 | photophobia 畏光症 |
+| **pyro-** | 火 | pyrophobia 恐火症 |
+| **nycto-** | 夜晚、黑暗 | nyctophobia 恐黑症 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [phobia]{.headword} | n. | `phob`(恐惧)+`-ia`(状态) | 恐惧症，病态的恐惧 | [高频]{.freq .freq-1} |
+| [phobic]{.headword} | adj./n. | `phob`(恐惧)+`-ic`(形容词缀) | 患恐惧症的；恐惧症患者 | [高频]{.freq .freq-1} |
+| [claustrophobia]{.headword} | n. | `claustro`(封闭)+`phobia`(恐惧) | 幽闭恐惧症 | [高频]{.freq .freq-1} |
+| [claustrophobic]{.headword} | adj./n. | `claustro`(封闭)+`phob`(恐惧)+`-ic` | 幽闭恐惧的；令人感到压抑封闭的 | [高频]{.freq .freq-1} |
+| [xenophobia]{.headword} | n. | `xeno`(外来者)+`phobia`(恐惧) | 排外情绪，仇外心理 | [高频]{.freq .freq-1} |
+| [xenophobic]{.headword} | adj. | `xeno`(外来者)+`phob`(恐惧)+`-ic` | 排外的，仇外的 | [高频]{.freq .freq-1} |
+| [agoraphobia]{.headword} | n. | `agora`(广场)+`phobia`(恐惧) | 广场恐惧症（害怕开阔公共场所） | [高频]{.freq .freq-1} |
+| [agoraphobic]{.headword} | adj./n. | `agora`(广场)+`phob`(恐惧)+`-ic` | 患广场恐惧症的 | [中频]{.freq .freq-2} |
+| [acrophobia]{.headword} | n. | `acro`(高处)+`phobia`(恐惧) | 恐高症 | [高频]{.freq .freq-1} |
+| [hydrophobia]{.headword} | n. | `hydro`(水)+`phobia`(恐惧) | 恐水症；狂犬病（的旧称） | [中频]{.freq .freq-2} |
+| [hydrophobic]{.headword} | adj. | `hydro`(水)+`phob`(恐惧)+`-ic` | 疏水的；恐水的 | [高频]{.freq .freq-1} |
+| [hydrophilic]{.headword} | adj. | `hydro`(水)+`phil`(爱)+`-ic` | 亲水的（与 hydrophobic 相对） | [高频]{.freq .freq-1} |
+| [arachnophobia]{.headword} | n. | `arachno`(蜘蛛)+`phobia`(恐惧) | 蜘蛛恐惧症 | [高频]{.freq .freq-1} |
+| [homophobia]{.headword} | n. | `homo`(同性)+`phobia`(恐惧) | 对同性恋者的恐惧或厌恶 | [高频]{.freq .freq-1} |
+| [homophobic]{.headword} | adj. | `homo`(同性)+`phob`(恐惧)+`-ic` | 对同性恋持厌恶态度的 | [高频]{.freq .freq-1} |
+| [technophobia]{.headword} | n. | `techno`(技术)+`phobia`(恐惧) | 技术恐惧症，对科技的排斥 | [中频]{.freq .freq-2} |
+| [technophobe]{.headword} | n. | `techno`(技术)+`phob`(恐惧)+`-e` | 技术恐惧者 | [中频]{.freq .freq-2} |
+| [photophobia]{.headword} | n. | `photo`(光)+`phobia`(恐惧) | 畏光症（眼睛对光过度敏感） | [中频]{.freq .freq-2} |
+| [pyrophobia]{.headword} | n. | `pyro`(火)+`phobia`(恐惧) | 恐火症 | [低频]{.freq .freq-3} |
+| [nyctophobia]{.headword} | n. | `nycto`(夜/黑暗)+`phobia`(恐惧) | 恐黑症，夜间恐惧症 | [低频]{.freq .freq-3} |
+| [social phobia]{.headword} | n. | `social`(社交)+`phobia`(恐惧) | 社交恐惧症（social anxiety disorder 的旧称） | [高频]{.freq .freq-1} |
+| [cynophobia]{.headword} | n. | `cyno`(狗)+`phobia`(恐惧) | 恐犬症 | [低频]{.freq .freq-3} |
+| [ophidiophobia]{.headword} | n. | `ophidio`(蛇)+`phobia`(恐惧) | 恐蛇症 | [低频]{.freq .freq-3} |
+| [trypophobia]{.headword} | n. | `trypo`(孔洞)+`phobia`(恐惧) | 密集恐惧症（对密集小孔的不适） | [中频]{.freq .freq-2} |
+| [coulrophobia]{.headword} | n. | `coulro`(小丑)+`phobia`(恐惧) | 小丑恐惧症 | [低频]{.freq .freq-3} |
+| [glossophobia]{.headword} | n. | `glosso`(舌/言语)+`phobia`(恐惧) | 演讲恐惧症，怯场 | [中频]{.freq .freq-2} |
+| [aquaphobia]{.headword} | n. | `aqua`(水，拉丁)+`phobia`(恐惧) | 恐水症（aqua 为拉丁语，同义于 hydro） | [中频]{.freq .freq-2} |
+| [anglophobia]{.headword} | n. | `Anglo`(英国)+`phobia`(恐惧) | 对英国（人/文化）的厌恶或恐惧 | [低频]{.freq .freq-3} |
+| [russophobia]{.headword} | n. | `Russo`(俄罗斯)+`phobia`(恐惧) | 恐俄情绪，仇俄心理 | [中频]{.freq .freq-2} |
+| [sinophobia]{.headword} | n. | `Sino`(中国)+`phobia`(恐惧) | 恐华情绪，仇华心理 | [中频]{.freq .freq-2} |
+| [islamophobia]{.headword} | n. | `Islam`(伊斯兰)+`phobia`(恐惧) | 对伊斯兰教或穆斯林的恐惧与偏见 | [高频]{.freq .freq-1} |
+| [phobe]{.headword} | n. | `phob`(恐惧)+`-e` | 某种恐惧症患者（构词后缀用法） | [中频]{.freq .freq-2} |
+| [phobophobia]{.headword} | n. | `phob`(恐惧)+`o`+`phobia`(恐惧) | 对恐惧本身的恐惧（恐惧之恐惧） | [低频]{.freq .freq-3} |
+| [xenophile]{.headword} | n./adj. | `xeno`(外来)+`phil`(爱)+`-e` | 喜爱外国文化的人（xenophobia 的反义） | [中频]{.freq .freq-2} |
+| [claustrum]{.headword} | n. | `claust`(关锁)+`-rum` | 屏状核（神经解剖）；封闭处 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- She couldn't take the elevator — her **claustrophobia** made even a brief ride unbearable.（幽闭恐惧症——封闭空间让她喘不过气）
+- The politician was accused of exploiting **xenophobia** to win votes, painting immigrants as a threat.（排外情绪——将陌生人妖魔化以煽动选民）
+- Doctors once called rabies "**hydrophobia**" because infected animals violently recoil from water.（狂犬病旧称恐水症——感染者喉肌痉挛，见水即惧）
+- The small café felt **claustrophobic** on a rainy day when every table was packed.（claustrophobic 作形容词——空间压抑让人不适）
+- **Photophobia** is a common symptom of migraines; sufferers often retreat to dark, quiet rooms.（畏光症——偏头痛常见症状，并非心理恐惧而是神经过敏）
+- A growing **technophobia** among older workers slowed the company's rollout of the new software.（技术恐惧——对新技术的排斥，不一定是临床症状，可指一般性抵触）
+:::
+
+::: {.mnemonic}
+**助记**：记住希腊神话里的 **Phobos**——他是战神之子，专门制造那种让人**拔腿就跑**的恐慌。只要你记住 Phobos = 战场上的恐慌之神，**phob/phobia** = 恐惧，再结合领域根（claustro封闭、xeno外来、agora广场、acro高处、hydro水、arachno蜘蛛）就能拆解几乎所有恐惧症名称。
+
+另一个记忆锚：**phobia / philia 是孪生姐妹**——philia（爱好）总是出现在 phobia（恐惧）对面。认识了一个，就顺带认识了另一个。
+:::
+
+::: {.trap}
+**陷阱一：hydrophobic 不一定是心理恐惧症**
+
+在化学和材料科学中，**hydrophobic**（疏水的）描述的是分子层面"排斥水分子"的物理性质，与心理恐惧毫无关系。Gore-Tex 防水面料是 hydrophobic 的，但它不会害怕水。阅读科学文献时请注意这一语义分裂。
+
+**陷阱二：medical phobia vs. colloquial phobia**
+
+临床上，**phobia** 特指符合诊断标准的持续性、非理性恐惧，需达到干扰日常生活的程度。日常口语中"I have a phobia of Mondays"只是夸张说法，并非真正的临床诊断。英文学术阅读中需辨别语境。
+
+**陷阱三：homo- 的多义**
+
+**homophobia** 中的 **homo-** 来自希腊语 *homos*（相同），指"同性"；但在其他词中，**homo-** 也可来自拉丁语 *homo*（人类），如 *Homo sapiens*。两个不同来源的前缀拼写相同，不可混用推断。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 72 章）学完后，请回看以下章节，巩固相关希腊根与构词规律：
+
+- **第 71 章**：phil / philo（爱好）——与本章 phobia 互为反义，xeno+philia vs. xeno+phobia，对比记忆效果翻倍
+- **第 70 章**：hydro / hydr（水）——本章 hydrophobia / hydrophobic 的水词根来源
+- **第 68 章**：photo / phos（光）——本章 photophobia 的搭档根
+- **第 64 章**：techno / tech（技术、工艺）——本章 technophobia 的搭档根
+- **第 56 章**：xeno（外来、陌生）——xenophobia 的核心前缀根
+
+**自测提示（本章）**：
+
+1. claustrophobia 里的 claustro- 来自什么语言，本义是什么？
+2. hydrophobic 在化学语境和心理学语境中各是什么意思？
+3. 如何用 phob + 领域根，现场造出"蛇恐惧症"和"演讲恐惧症"两个词？
+4. phobia 与 philia 互为反义——你能说出三对对应词吗？
+:::
