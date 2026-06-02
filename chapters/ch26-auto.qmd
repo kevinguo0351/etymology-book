@@ -1,0 +1,117 @@
+# auto —— "自己·自动"
+
+::: {.root-banner}
+auto = self, one's own 自己；自发的
+:::
+
+来源：希腊语 **autos**（αὐτός），本义"自身、同一个"，是希腊文中最活跃的构词前缀之一，进入英语后既可独立成词缀，也能与其他希腊根直接拼合，形成高密度技术与学术词汇。
+
+::: {.etymo}
+**词源故事：那个"自己做一切"的词根**
+
+古希腊人用 *autos* 强调"正是那个人本身"——不假他人之手，不借外力。当哲学家讨论一座城邦是否能自己立法、自己治理，他们说的就是 *auto + nomos*（法律）= **autonomia**，即自治。这个词根后来随着希腊文化进入拉丁语、进入文艺复兴时代的欧洲学术圈，最终大规模涌入英语，尤其在18、19世纪工业与科学革命期间，新事物层出不穷，造词者频繁抓住 *auto-* 来表达"无需人手干预、自行运转"的概念。
+
+想象一个场景：一位希腊工匠造出一个会自己走动的铜人，旁观者惊呼 *automatos*——"自己动起来的"。这就是 **automaton**（自动机器人）的词源画面，也是 **automatic** 的根。后来蒸汽时代到来，会自己行驶的车叫 **automobile**（auto + mobile，自己动的），飞机能自己控制方向叫 **autopilot**（auto + pilot，自己驾驶）。*auto-* 就这样从古代哲学语汇变成了现代技术词汇的核心砖块。
+
+还有一条线索通向"自我书写"。希腊人用 *graphein*（写）造出 *autograph*（亲笔签名）；用 *bios*（生命）+ *graphein* 造出 *biography*（传记），再加上 *auto-* 就变成了 **autobiography**（自传）——关于自己的生命故事。今天这条线还延伸到 **autocorrect**（自动更正）、**autofocus**（自动对焦），*auto-* 的生命力丝毫未减。
+:::
+
+**搭档根：** *auto-* 是一个纯粹的"前缀型根"，本身不带动作义，它需要与其他希腊根拼合，由搭档根提供具体含义，*auto-* 只负责说明"主体是自身"。下表列出最常见的搭档根：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| -mat- / -matos | 自发、动起来 | automatic, automaton |
+| -nom- / -nomy | 法则、管理 | autonomy, autonomous |
+| -graph / -graphy | 写、记录 | autograph, autobiography |
+| -mobil- | 移动 | automobile |
+| -bio- | 生命 | autobiography |
+| -krat- / -crat | 统治 | autocrat |
+| -ops- / -opsy | 看、观察 | autopsy |
+| -immun- | 豁免 | autoimmune |
+| -didakt- | 教导 | autodidact |
+| -pilot | 驾驶员 | autopilot |
+| -focus | 焦点 | autofocus |
+| -correct | 纠正 | autocorrect |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [automatic]{.headword} | adj. | `auto-`(自己)+`-mat-`(动)+`-ic`(形容词后缀) | 自动的；机械性的 | [高频]{.freq .freq-1} |
+| [automatically]{.headword} | adv. | `automatic`+`-ally`(副词) | 自动地；不假思索地 | [高频]{.freq .freq-1} |
+| [automobile]{.headword} | n. | `auto-`(自己)+`mobile`(能动的) | 汽车 | [高频]{.freq .freq-1} |
+| [autonomy]{.headword} | n. | `auto-`(自己)+`-nomy`(法则/管理) | 自治；自主权 | [高频]{.freq .freq-1} |
+| [autonomous]{.headword} | adj. | `auto-`(自己)+`-nom-`(管理)+`-ous`(形) | 自主的；自治的 | [高频]{.freq .freq-1} |
+| [autobiography]{.headword} | n. | `auto-`(自己)+`bio`(生命)+`-graphy`(写/记录) | 自传 | [高频]{.freq .freq-1} |
+| [autograph]{.headword} | n./v. | `auto-`(自己)+`-graph`(写) | 亲笔签名；亲笔签名于 | [高频]{.freq .freq-1} |
+| [autopilot]{.headword} | n. | `auto-`(自己)+`pilot`(驾驶员) | 自动驾驶仪；（喻）惯性行事 | [高频]{.freq .freq-1} |
+| [autocrat]{.headword} | n. | `auto-`(自己)+`-crat`(统治者) | 独裁者；专制君主 | [中频]{.freq .freq-2} |
+| [autocratic]{.headword} | adj. | `autocrat`+`-ic`(形) | 独裁的；专横的 | [中频]{.freq .freq-2} |
+| [autopsy]{.headword} | n. | `auto-`(自己)+`-opsy`(看) | 尸体解剖；验尸；（喻）事后剖析 | [中频]{.freq .freq-2} |
+| [autoimmune]{.headword} | adj. | `auto-`(自己)+`immune`(免疫的) | 自身免疫的 | [中频]{.freq .freq-2} |
+| [autism]{.headword} | n. | `aut-`(自身)+`-ism`(状态/病症) | 自闭症 | [高频]{.freq .freq-1} |
+| [autistic]{.headword} | adj. | `aut-`(自身)+`-istic`(形) | 自闭症的；与自闭症相关的 | [高频]{.freq .freq-1} |
+| [automaton]{.headword} | n. | `auto-`(自己)+`-maton`(动起来的) | 自动机器人；（喻）机械行事者 | [中频]{.freq .freq-2} |
+| [autodidact]{.headword} | n. | `auto-`(自己)+`-didact`(教导) | 自学者；无师自通者 | [低频]{.freq .freq-3} |
+| [autodidactic]{.headword} | adj. | `auto-`(自己)+`-didact-`(教导)+`-ic`(形) | 自学的；自学成才的 | [低频]{.freq .freq-3} |
+| [autocorrect]{.headword} | n./v. | `auto-`(自动)+`correct`(纠正) | 自动更正（功能） | [高频]{.freq .freq-1} |
+| [autofocus]{.headword} | n./v. | `auto-`(自动)+`focus`(对焦) | 自动对焦 | [中频]{.freq .freq-2} |
+| [automate]{.headword} | v. | `auto-`(自动)+`-mate`(动作化后缀) | 使自动化 | [高频]{.freq .freq-1} |
+| [automation]{.headword} | n. | `automate`+`-ion`(名词化) | 自动化 | [高频]{.freq .freq-1} |
+| [automated]{.headword} | adj. | `automate`+`-d`(形容词化) | 自动化的 | [高频]{.freq .freq-1} |
+| [autonomous vehicle]{.headword} | n. | `autonomous`(自主的)+`vehicle`(车辆) | 自动驾驶汽车 | [高频]{.freq .freq-1} |
+| [autoplay]{.headword} | n./v. | `auto-`(自动)+`play`(播放) | 自动播放 | [高频]{.freq .freq-1} |
+| [autosave]{.headword} | n./v. | `auto-`(自动)+`save`(保存) | 自动保存 | [高频]{.freq .freq-1} |
+| [autosuggestion]{.headword} | n. | `auto-`(自我)+`suggestion`(暗示) | 自我暗示；自我催眠 | [低频]{.freq .freq-3} |
+| [autotune]{.headword} | n./v. | `auto-`(自动)+`tune`(调音) | 自动调音（音频处理技术） | [中频]{.freq .freq-2} |
+| [automotive]{.headword} | adj. | `auto-`(自动)+`-mot-`(动)+`-ive`(形) | 汽车的；汽车工业的 | [高频]{.freq .freq-1} |
+| [autoimmunity]{.headword} | n. | `auto-`(自身)+`immunity`(免疫) | 自身免疫（现象） | [中频]{.freq .freq-2} |
+| [autogenous]{.headword} | adj. | `auto-`(自身)+`-gen-`(产生)+`-ous`(形) | 自生的；内源性的 | [低频]{.freq .freq-3} |
+| [autoclave]{.headword} | n. | `auto-`(自动)+`-clave`(锁/密封) | 高压灭菌器；压力锅 | [低频]{.freq .freq-3} |
+| [autonomic]{.headword} | adj. | `auto-`(自身)+`-nom-`(管理)+`-ic`(形) | 自主神经的；不随意的 | [中频]{.freq .freq-2} |
+| [autochthonous]{.headword} | adj. | `auto-`(自身)+`-chthon-`(大地)+`-ous`(形) | 土生土长的；本土的 | [低频]{.freq .freq-3} |
+| [autotroph]{.headword} | n. | `auto-`(自身)+`-troph`(营养) | 自养生物（如植物） | [低频]{.freq .freq-3} |
+| [autotrophic]{.headword} | adj. | `auto-`(自身)+`-troph-`(营养)+`-ic`(形) | 自养的 | [低频]{.freq .freq-3} |
+| [autobiographical]{.headword} | adj. | `auto-`(自)+`bio-`(生命)+`-graph-`(写)+`-ical`(形) | 自传体的 | [中频]{.freq .freq-2} |
+| [autoregulation]{.headword} | n. | `auto-`(自动)+`regulation`(调节) | 自动调节；自我调控 | [低频]{.freq .freq-3} |
+| [autopilot mode]{.headword} | n. | `autopilot`(自动驾驶)+`mode`(模式) | （喻）惯性/无意识运作状态 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The factory replaced most workers with **automated** assembly lines, cutting production time in half.（自动化流水线——*auto-* 让机器自己完成工作）
+- After years of living on **autopilot**, she finally paused to ask herself what she actually wanted.（"自动驾驶"模式是当代英语中 *auto-* 最生动的隐喻用法：无意识地照惯例过活）
+- The country declared **autonomy** from its colonial rulers after decades of resistance.（自治——自己管理自己的法则，*auto-* + *nomy* 的经典组合）
+- Doctors performed an **autopsy** to determine the exact cause of death.（验尸即"亲眼看见"——*auto-* 强调检验者亲自直视，而非听别人转述）
+- She's an **autodidact** who taught herself three programming languages without ever taking a formal course.（自学者——没有老师，*auto-* 就是自己的老师）
+- Rheumatoid arthritis is an **autoimmune** disease in which the body attacks its own joints.（自身免疫——免疫系统把"自己"当成了敌人，*auto-* 在此带有一丝悲剧意味）
+:::
+
+::: {.mnemonic}
+**助记**：把 *auto-* 想成一个永远指向自身的箭头"↺"。每次看到 *auto-* 开头的词，先问"是谁在执行这个动作？"答案永远是"它自己"。**autograph** = 自己写的签名；**automobile** = 自己会动的车；**autopsy** = 亲眼看见（而非听说）；**autonomy** = 自己给自己立法。把那个"↺"的画面钉在脑子里，遇到 *auto-* 新词，拆出搭档根，意思往往一拆即明。
+:::
+
+::: {.trap}
+**陷阱**：**autism**（自闭症）中的 *aut-* 确实来自希腊语 *autos*，由瑞士精神病学家 Eugen Bleuler 于1910年代造词，取"向内封闭于自我"之意。这是一段有据可查的词源。但要注意：这一词源描述的是历史上精神医学界对该症状的*命名视角*，并不反映自闭症的实质或当事人的内在体验。阅读临床或人文语境时，切勿用词根的字面义去推断关于自闭症者"封闭自我"的任何判断。词根给你记忆钩子，不给你诊断依据。
+
+另一个常见混淆：**auto** 在某些词中作为独立词（如 "auto industry"），此时它是 *automobile* 的缩略形式，与词根 *auto-* 同源，但要注意它在口语中已成为普通名词，不再是"前缀"用法。
+:::
+
+::: {.review-today}
+**今日复习**
+
+完成本章（第 26 章 *auto-*）后，请回顾以下章节，强化关联记忆：
+
+- **第 25 章**：复习上一章词根，检查与 *auto-* 有无搭配重叠
+- **第 24 章**：对照本章"搭档根"表，看是否有已学过的根出现在 *auto-* 组合中
+- **第 22 章**：回顾相关词根，与 *-nomy*、*-crat* 等希腊政治类根呼应
+- **第 18 章**：回顾 *-graph / -graphy* 词族，与 *autograph*、*autobiography* 对读
+- **第 10 章**：回顾 *bio-* 词族，与 *autobiography*、*autotrophic* 对读
+
+**本章自测提示：**
+
+1. *autonomy* 和 *astronomy* 都有 *-nom-*，但含义不同——你能解释为什么吗？
+2. 不看书，你能说出 *autopsy* 里 *-opsy* 的词源义，以及它为什么意味着"亲眼检验"吗？
+3. *automaton* 和 *automatic* 共享哪个搭档根？它们的核心差异在哪里？
+4. 造一个句子，用 *autodidact* 描述你认识的某个人。
+:::

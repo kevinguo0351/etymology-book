@@ -1,0 +1,161 @@
+# ject / jac / jec —— "投·掷"
+
+::: {.root-banner}
+`ject` · `jac` · `jec` = to throw 投、掷
+:::
+
+来源：拉丁语 **jacere**（现在时词干 jac-）/ 完成分词 **jactus**（词干 ject-），本义"投掷、抛出"。英语中绝大多数派生词来自分词词干 *ject-*，少数来自现在时词干 *jac-*（如 *adjacent*）。
+
+::: {.etymo}
+**词源故事：罗马投石兵的那一掷**
+
+在罗马军团的阵列中，投石兵（funditores）是最靠前的轻步兵——战斗开始前，他们负责将铅球或石块远远**投掷**出去，打乱敌方阵型。拉丁语里，这个"扔出去"的动作用一个词概括：*jacere*。
+
+*jacere* 的完成分词是 *jactus*，词干变为 *ject-*。罗马人发现，只要在这个词根前加上不同的方向前缀，就能精确描述投掷的每一个方向：往前投是 *pro-ject*，往里投是 *in-ject*，投回去是 *re-ject*，从中间插进去是 *inter-ject*……这套机制实在太好用，整个拉丁语家族把它沿用了两千年，最终原封不动地进入了英语。
+
+有意思的是，"投掷"的意象后来大量发生了隐喻化。*ob-ject*（投在面前的东西）变成了"物体"和"反对"；*sub-ject*（被投在下方的人）变成了"臣民"和"主题"；*de-ject*（向下投）描述了一个人心情跌落的状态——"沮丧"。每一次隐喻漂移，都忠实地保留着那个原始的"抛投"动作。
+
+记住这个核心画面：**一个罗马士兵举臂投石，前缀决定他把石头扔向哪里，词根永远是那一个动作。**
+:::
+
+**前缀决定方向，根不变**
+
+只要认识下面这张表，遇到 *-ject-* 族词几乎都能拆解推断：
+
+| 前缀 | 本义方向 | 典型派生词 | 意义 |
+|------|----------|------------|------|
+| `pro-` | 向前 | project | 投射；计划 |
+| `re-` | 向后/回 | reject | 投回去 → 拒绝 |
+| `in-` | 向内 | inject | 注入 |
+| `e-` / `ex-` | 向外 | eject | 弹出；驱逐 |
+| `ob-` | 对面/相对 | object | 投在面前 → 物体；反对 |
+| `sub-` | 向下/在下 | subject | 投于其下 → 臣民；主题 |
+| `inter-` | 之间 | interject | 插入中间 → 插嘴 |
+| `con-` | 一起/共 | conjecture | 合并投掷 → 推测 |
+| `de-` | 向下 | dejected | 向下投 → 情绪低落 |
+| `ab-` | 离开/远离 | abject | 投离弃置 → 卑贱 |
+| `tra-` / `trans-` | 穿越/横跨 | trajectory | 横穿投出 → 轨迹 |
+| `ad-` | 靠近 | adjacent | 投向旁边 → 毗邻 |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [reject]{.headword} | v./n. | `re-`(回)+`ject`(投) | 拒绝；驳回 | [高频]{.freq .freq-1} |
+| [rejection]{.headword} | n. | `re-`(回)+`ject`(投)+`-ion` | 拒绝；否决 | [高频]{.freq .freq-1} |
+| [project]{.headword} | v./n. | `pro-`(前)+`ject`(投) | 投射；计划；项目 | [高频]{.freq .freq-1} |
+| [projection]{.headword} | n. | `pro-`(前)+`ject`(投)+`-ion` | 投影；预测；突出部分 | [高频]{.freq .freq-1} |
+| [projector]{.headword} | n. | `pro-`(前)+`ject`(投)+`-or` | 投影仪 | [高频]{.freq .freq-1} |
+| [inject]{.headword} | v. | `in-`(入)+`ject`(投) | 注射；注入 | [高频]{.freq .freq-1} |
+| [injection]{.headword} | n. | `in-`(入)+`ject`(投)+`-ion` | 注射；注资 | [高频]{.freq .freq-1} |
+| [eject]{.headword} | v. | `e-`(出)+`ject`(投) | 弹出；驱逐 | [高频]{.freq .freq-1} |
+| [ejection]{.headword} | n. | `e-`(出)+`ject`(投)+`-ion` | 弹射；驱逐 | [中频]{.freq .freq-2} |
+| [object]{.headword} | n./v. | `ob-`(对)+`ject`(投) | 物体；目标；反对 | [高频]{.freq .freq-1} |
+| [objection]{.headword} | n. | `ob-`(对)+`ject`(投)+`-ion` | 异议；反对意见 | [高频]{.freq .freq-1} |
+| [objective]{.headword} | adj./n. | `ob-`(对)+`ject`(投)+`-ive` | 客观的；目标 | [高频]{.freq .freq-1} |
+| [subject]{.headword} | n./v./adj. | `sub-`(下)+`ject`(投) | 主题；科目；臣民；使服从 | [高频]{.freq .freq-1} |
+| [subjective]{.headword} | adj. | `sub-`(下)+`ject`(投)+`-ive` | 主观的 | [高频]{.freq .freq-1} |
+| [subjection]{.headword} | n. | `sub-`(下)+`ject`(投)+`-ion` | 征服；隶属 | [中频]{.freq .freq-2} |
+| [interject]{.headword} | v. | `inter-`(间)+`ject`(投) | 插嘴；突然插入 | [中频]{.freq .freq-2} |
+| [interjection]{.headword} | n. | `inter-`(间)+`ject`(投)+`-ion` | 感叹词；插嘴 | [中频]{.freq .freq-2} |
+| [conjecture]{.headword} | n./v. | `con-`(共)+`ject`(投)+`-ure` | 推测；猜想 | [中频]{.freq .freq-2} |
+| [projectile]{.headword} | n./adj. | `pro-`(前)+`ject`(投)+`-ile` | 抛射物；弹道的 | [中频]{.freq .freq-2} |
+| [trajectory]{.headword} | n. | `tra-`(横过)+`ject`(投)+`-ory` | 弹道；轨迹；发展轨迹 | [中频]{.freq .freq-2} |
+| [dejected]{.headword} | adj. | `de-`(下)+`ject`(投)+`-ed` | 垂头丧气的；沮丧的 | [中频]{.freq .freq-2} |
+| [dejection]{.headword} | n. | `de-`(下)+`ject`(投)+`-ion` | 沮丧；情绪低落 | [中频]{.freq .freq-2} |
+| [abject]{.headword} | adj. | `ab-`(离)+`ject`(投) | 极度悲惨的；卑贱的；彻底的 | [中频]{.freq .freq-2} |
+| [abjection]{.headword} | n. | `ab-`(离)+`ject`(投)+`-ion` | 卑贱；被抛弃的状态 | [低频]{.freq .freq-3} |
+| [adjective]{.headword} | n. | `ad-`(向)+`ject`(投)+`-ive` | 形容词（投靠在名词旁） | [高频]{.freq .freq-1} |
+| [adjectival]{.headword} | adj. | `ad-`(向)+`ject`(投)+`-ival` | 形容词性的 | [中频]{.freq .freq-2} |
+| [jettison]{.headword} | v./n. | `jact-`(投)+`-ison` | （船/飞机）抛弃货物；放弃 | [中频]{.freq .freq-2} |
+| [jet]{.headword} | n./v. | `jact-`(投掷/喷射) | 喷射；喷气式飞机 | [高频]{.freq .freq-1} |
+| [jut]{.headword} | v./n. | `jut`(突出，ject变体) | 突出；伸出 | [中频]{.freq .freq-2} |
+| [subjugate]{.headword} | v. | `sub-`(下)+`jug-`(轭，引申投于轭下) | 征服；使臣服 | [中频]{.freq .freq-2} |
+| [abjectly]{.headword} | adv. | `ab-`(离)+`ject`(投)+`-ly` | 极度悲惨地；卑贱地 | [低频]{.freq .freq-3} |
+| [ejecta]{.headword} | n. | `e-`(出)+`ject`(投)+`-a`(复数) | （火山）喷出物；（陨石坑）抛射物质 | [低频]{.freq .freq-3} |
+| [ejector]{.headword} | n. | `e-`(出)+`ject`(投)+`-or` | 弹射座椅；退壳器 | [中频]{.freq .freq-2} |
+| [inject into]{.headword} | phr. | `in-`(入)+`ject`(投) | 向……注入（资金/活力） | [高频]{.freq .freq-1} |
+| [rejectee]{.headword} | n. | `re-`(回)+`ject`(投)+`-ee`(受体) | 被拒绝者 | [低频]{.freq .freq-3} |
+| [projectable]{.headword} | adj. | `pro-`(前)+`ject`(投)+`-able` | 可投影的；可预测的 | [低频]{.freq .freq-3} |
+| [interjector]{.headword} | n. | `inter-`(间)+`ject`(投)+`-or` | 插嘴者 | [低频]{.freq .freq-3} |
+| [subjectivity]{.headword} | n. | `sub-`(下)+`ject`(投)+`-ivity` | 主观性 | [中频]{.freq .freq-2} |
+| [objectivity]{.headword} | n. | `ob-`(对)+`ject`(投)+`-ivity` | 客观性 | [高频]{.freq .freq-1} |
+| [projectionist]{.headword} | n. | `pro-`(前)+`ject`(投)+`-ionist` | 放映员；心理投射论者 | [低频]{.freq .freq-3} |
+| [conjectural]{.headword} | adj. | `con-`(共)+`ject`(投)+`-ural` | 推测性的；假设的 | [低频]{.freq .freq-3} |
+| [trajectories]{.headword} | n. | `tra-`(横)+`ject`(投)+`-ories`(复数) | 轨迹（复数）；发展路径 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The publisher **rejected** her manuscript three times before finally accepting it.（投回去三次才收——拒绝）
+
+- Scientists used computer models to calculate the **trajectory** of the asteroid.（横穿太空的那一"投"——轨迹）
+
+- He **interjected** before she could finish, "But what about the budget?"（从中间插入那一掷——打断插嘴）
+
+- After losing the championship, she looked utterly **dejected**, staring at the floor.（向下投落的情绪——垂头丧气）
+
+- The government announced a massive cash **injection** to rescue the failing banks.（向内注入——注资）
+
+- He made an **abject** apology, admitting every mistake without excuse.（被抛弃般卑微——彻底的、极度的道歉）
+:::
+
+::: {.mnemonic}
+**助记**：把词根 `ject` 想象成一枚硬币，前缀是你掷币的方向——
+
+- `re-`（回）：扔回去 → **reject**（退回/拒绝）
+- `pro-`（前）：往前扔 → **project**（投影/计划）
+- `in-`（内）：往里扔 → **inject**（注射）
+- `e-`（外）：往外弹 → **eject**（弹出）
+- `ob-`（对面）：扔到对面 → **object**（对面的东西=物体；扔向对方=反对）
+- `sub-`（下）：扔到脚下 → **subject**（踩在脚下=臣民；放在下面=主题）
+- `de-`（下坠）：情绪向下坠 → **dejected**（沮丧）
+- `inter-`（中间）：插进对话中 → **interject**（插嘴）
+- `tra-`（穿越）：穿越空间的投 → **trajectory**（轨迹）
+
+同一枚硬币，十一个方向。
+:::
+
+::: {.trap}
+**陷阱一：object 的双重身份**
+
+*object* 既是名词"物体/目标"，又是动词"反对"，词性不同，重音也不同：名词读 **OB**-ject，动词读 ob-**JECT**。*objective* 作形容词时意为"客观的"，作名词时意为"目标"——两种用法在学术写作中都极高频，注意从语境区分。
+
+**陷阱二：subject 的多义迷宫**
+
+*subject* 有四个核心义：①学科/主题（名词）②臣民/实验对象（名词）③使服从（动词）④受制于……的（形容词，如 *subject to change*）。词根逻辑一贯——"投于下方"，但每个义项都有独立语境，不要望文生义混用。
+
+**陷阱三：adjective 不像"投掷"词**
+
+*adjective*（形容词）来自 *adjectivum*，"被投靠在名词旁边的词"，这是语法学家的隐喻，不是字面的物理投掷。了解这个词源有趣，但不必用它去推断其他 `ad-` 词根家族成员的意义——请优先检索该词的具体词源，而非靠类比。
+
+**陷阱四：jet 与 ject 的关系需谨慎**
+
+*jet*（喷气；喷射）确实与 *jacere* 同族（经由法语 *jeter*），但在现代英语中 *jet* 已大量衍生出独立义项（jet lag 时差、jet set 富豪圈）。遇到 *jet* 开头的词，先查词源再决定是否用"投掷"来理解，不要强行套用。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 33 章）学习了 `ject`（投·掷）家族。趁热回看以下章节，强化前缀方向感：
+
+- **第 32 章**：回顾上一章词根，确认前缀 `pro-` / `re-` 的语感是否一致
+- **第 31 章**：对照另一个拉丁动词根，练习"前缀换方向"的拆词策略
+- **第 29 章**：复习带 `sub-` 前缀的词族，与本章 *subject* / *subjective* 呼应
+- **第 25 章**：复习带 `ob-` 前缀的词族，与本章 *object* / *objection* 呼应
+- **第 17 章**：复习带 `in-` / `e-` 前缀的词族，与本章 *inject* / *eject* 呼应
+
+**本章自测**：
+
+1. *trajectory* 里的 `tra-` 是什么意思？和 *transport* 的 `trans-` 是同一个前缀吗？
+2. *dejected* 和 *rejected* 都有 `-ject-`，但情感色彩截然不同——各自的前缀做了什么？
+3. *abject poverty*（赤贫）中 *abject* 的字面意象是什么？
+4. 为什么 *object* 作名词和作动词时重音不同？（提示：英语中双音节名词/动词对的通用规律）
+5. 不查词典，猜猜 *conjecture* 的字面意思——"大家把各自的猜想……"
+:::

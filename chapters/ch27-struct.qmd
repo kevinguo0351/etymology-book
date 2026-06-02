@@ -1,0 +1,135 @@
+# struct / stru —— "建·造·堆叠"
+
+::: {.root-banner}
+struct · stru = to build, pile up 建造、堆叠
+:::
+
+来源：拉丁语 *struere*（原形）/ *structus*（过去分词），本义"一层一层堆放、累砌"，与石块砌墙的动作同源。
+
+::: {.etymo}
+**词源故事：堆砖的人**
+
+古罗马工匠砌城墙时，把石块一块一块垒上去——这个"层层堆叠"的动作就是 *struere*。这个词根进入英语之后，始终保留着"把东西一层一层组合成整体"的核心意象：你 **construct** 一幢楼，是把砖、梁、柱"堆合在一起"；你 **instruct** 学生，是把知识"堆入"他们脑子；一场爆炸 **destroys**，是把堆好的一切"向下打散"。
+
+"堆叠"这个意象极其具体：想象你面前有一堆积木，你可以往上叠（*super-*），往里塞（*in-*），从对面挡住（*ob-*），全部拆掉（*de-*），或者重新再叠一遍（*re-*）。前缀换一换，方向就变了，但"叠砖"这个动作永远不变。
+
+拉丁语 *struere* 还和 *sternere*（铺平）有远亲关系，二者都指"把材料铺排开来"。但在英语中 struct/stru 这个支系已完全独立，专门承担"建造—教导—阻碍—破坏"这一组语义方向，是最高产的拉丁词根之一。
+:::
+
+**前缀决定方向，根永远是同一个动作——"堆叠砖块"。**
+
+| 前缀 | 方向 | 典型词 |
+|------|------|--------|
+| con- (一起) | 把材料聚合垒起 | construct |
+| in- (入/上) | 把知识堆入头脑 | instruct |
+| de- (向下) | 把堆好的打垮 | destroy / destruct |
+| ob- (对着/挡住) | 在路上堆砖挡路 | obstruct |
+| re- (再次) | 把倒塌的重新堆起 | reconstruct |
+| infra- (之下) | 撑在结构下方的基础 | infrastructure |
+| super- (之上) | 叠在主体结构上方 | superstructure |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [structure]{.headword} | n. | `struct`(堆叠)+`-ure`(结果名词) | 结构；建筑体 | [高频]{.freq .freq-1} |
+| [structural]{.headword} | adj. | `struct`+`-ur-`+`-al`(形容词) | 结构性的；构造上的 | [高频]{.freq .freq-1} |
+| [structurally]{.headword} | adv. | `structural`+`-ly` | 在结构上 | [中频]{.freq .freq-2} |
+| [construct]{.headword} | v./n. | `con-`(一起)+`struct`(堆叠) | 建造；构想；（心理学）建构 | [高频]{.freq .freq-1} |
+| [construction]{.headword} | n. | `con-`+`struct`+`-ion`(名词) | 建造；施工；结构 | [高频]{.freq .freq-1} |
+| [constructive]{.headword} | adj. | `construct`+`-ive` | 建设性的；有益的 | [高频]{.freq .freq-1} |
+| [constructor]{.headword} | n. | `construct`+`-or`(执行者) | 建造者；（编程）构造函数 | [中频]{.freq .freq-2} |
+| [reconstruct]{.headword} | v. | `re-`(再)+`construct`(建造) | 重建；复原；还原过程 | [高频]{.freq .freq-1} |
+| [reconstruction]{.headword} | n. | `re-`+`construct`+`-ion` | 重建；复原；历史复现 | [高频]{.freq .freq-1} |
+| [instruct]{.headword} | v. | `in-`(入)+`struct`(堆叠) | 指导；命令；传授 | [高频]{.freq .freq-1} |
+| [instruction]{.headword} | n. | `instruct`+`-ion` | 指示；说明书；教学 | [高频]{.freq .freq-1} |
+| [instructive]{.headword} | adj. | `instruct`+`-ive` | 有教育意义的；启发性的 | [中频]{.freq .freq-2} |
+| [instructor]{.headword} | n. | `instruct`+`-or` | 教练；讲师；指导员 | [高频]{.freq .freq-1} |
+| [destruct]{.headword} | v. | `de-`(向下)+`struct`(堆叠) | 摧毁（尤指有意自毁） | [中频]{.freq .freq-2} |
+| [destruction]{.headword} | n. | `de-`+`struct`+`-ion` | 破坏；毁灭；摧毁 | [高频]{.freq .freq-1} |
+| [destructive]{.headword} | adj. | `destruct`+`-ive` | 破坏性的；有害的 | [高频]{.freq .freq-1} |
+| [destructively]{.headword} | adv. | `destructive`+`-ly` | 破坏性地 | [低频]{.freq .freq-3} |
+| [indestructible]{.headword} | adj. | `in-`(否定)+`de-`+`struct`+`-ible`(能…的) | 坚不可摧的；不可毁灭的 | [中频]{.freq .freq-2} |
+| [self-destruct]{.headword} | v./n. | `self-`(自)+`destruct` | 自毁；自我毁灭 | [中频]{.freq .freq-2} |
+| [obstruct]{.headword} | v. | `ob-`(对着/挡住)+`struct`(堆叠) | 阻塞；妨碍；遮挡 | [高频]{.freq .freq-1} |
+| [obstruction]{.headword} | n. | `obstruct`+`-ion` | 阻碍物；障碍；梗阻 | [高频]{.freq .freq-1} |
+| [obstructive]{.headword} | adj. | `obstruct`+`-ive` | 阻碍性的；爱作梗的 | [中频]{.freq .freq-2} |
+| [obstructionism]{.headword} | n. | `obstruct`+`-ion`+`-ism` | 阻挠主义（议会策略） | [低频]{.freq .freq-3} |
+| [infrastructure]{.headword} | n. | `infra-`(之下)+`struct`+`-ure` | 基础设施；基础架构 | [高频]{.freq .freq-1} |
+| [superstructure]{.headword} | n. | `super-`(之上)+`struct`+`-ure` | 上层建筑；上部结构 | [中频]{.freq .freq-2} |
+| [microstructure]{.headword} | n. | `micro-`(微小)+`struct`+`-ure` | 微观结构；显微组织 | [低频]{.freq .freq-3} |
+| [substructure]{.headword} | n. | `sub-`(之下)+`struct`+`-ure` | 下部结构；基础部分 | [低频]{.freq .freq-3} |
+| [restructure]{.headword} | v. | `re-`(再)+`struct`+`-ure`→v. | 重组；改组；调整结构 | [高频]{.freq .freq-1} |
+| [restructuring]{.headword} | n. | `restructure`+`-ing` | （企业/债务）重组 | [高频]{.freq .freq-1} |
+| [construe]{.headword} | v. | `con-`+`stru`(堆叠/组合) | 理解；解读；解释（语法或意思） | [中频]{.freq .freq-2} |
+| [misconstrue]{.headword} | v. | `mis-`(错误地)+`construe` | 误解；曲解 | [中频]{.freq .freq-2} |
+| [misconstruction]{.headword} | n. | `mis-`+`construct`+`-ion` | 曲解；误读 | [低频]{.freq .freq-3} |
+| [instrument]{.headword} | n./v. | `in-`+`stru`+`-ment`(工具名词) | 乐器；仪器；工具；手段 | [高频]{.freq .freq-1} |
+| [instrumental]{.headword} | adj. | `instrument`+`-al` | 起关键作用的；乐器的；器乐的 | [高频]{.freq .freq-1} |
+| [instrumentation]{.headword} | n. | `instrument`+`-ation` | 仪器配置；编曲配器 | [中频]{.freq .freq-2} |
+| [constrained]{.headword} | adj. | *参见 strain/constrict 根系* | （结构受限）受约束的 | [高频]{.freq .freq-1} |
+| [industry]{.headword} | n. | `indu-`+`str`(堆叠努力)+`-y` | 工业；产业；勤奋 | [高频]{.freq .freq-1} |
+| [industrious]{.headword} | adj. | `industr`+`-ious` | 勤奋的；勤劳的 | [中频]{.freq .freq-2} |
+| [industrial]{.headword} | adj. | `industr`+`-ial` | 工业的；产业的 | [高频]{.freq .freq-1} |
+| [industrialize]{.headword} | v. | `industrial`+`-ize` | 工业化 | [中频]{.freq .freq-2} |
+| [obstinate]{.headword} | adj. | *ob- 挡住不动* → 意义引申 | 顽固的；执拗的 | [中频]{.freq .freq-2} |
+| [constructivism]{.headword} | n. | `construct`+`-iv-`+`-ism` | 建构主义（教育/艺术/哲学） | [低频]{.freq .freq-3} |
+| [deconstructive]{.headword} | adj. | `de-`+`construct`+`-ive` | 解构的 | [低频]{.freq .freq-3} |
+| [deconstruct]{.headword} | v. | `de-`(分解)+`construct` | 解构；拆解分析 | [中频]{.freq .freq-2} |
+| [unconstructive]{.headword} | adj. | `un-`(否定)+`constructive` | 无建设性的；无益的 | [低频]{.freq .freq-3} |
+
+::: {.trap}
+**陷阱（一）：industry 与 struct 的关系**
+*industry* 来自拉丁语 *industria*，词根可分析为 *indu-*（古介词，入内）+ *struere* 的变体，但这条词源线索在现代英语使用中已完全消退——没有母语者会把 *industry* 和 *construct* 联系在一起。请把这条信息当作有趣的历史知识，**不要用它来推断词义**。*industry* 的意思靠高频使用记忆，而非词根推算。
+
+**陷阱（二）：obstinate 与 obstruct**
+*obstinate*（顽固的）和 *obstruct* 都含 `ob-`，但两词分属不同词根：*obstinate* 来自 *obstinare*（坚持立场），而非 *struere*。前缀相同、词根不同，不可混推词义。
+
+**陷阱（三）：construe ≠ construct**
+两词同源，但用法分叉已久。*construe* 专指"语言、法律或行为的解读方式"，通常出现在正式或法律语境，而 *construct* 侧重物理或概念上的"建造"。别因形近而混用。
+:::
+
+## 生动语境
+
+::: {.ex}
+- The company plans to **construct** a new data center by 2027, using sustainable materials throughout.（用 con- 把材料"聚合堆起"——建造数据中心）
+- The earthquake left the building **structurally** unsound; engineers condemned it within hours.（结构性地不安全——词根直接体现"堆叠骨架"受损）
+- Poor road **infrastructure** is the single biggest obstacle to economic growth in the region.（infra- 在下方撑着的基础——基础设施）
+- He **misconstrued** her silence as agreement and signed the contract on her behalf.（mis- 加在 construe 前——把沉默"堆叠解读"出了错误的意思）
+- The new policy is **destructive** to community trust and will take years to repair.（de- 向下打散——破坏性的）
+- Debris from a fallen tree **obstructed** the main road for three hours during rush hour.（ob- 对着挡住——在路上"堆砖"挡路）
+:::
+
+::: {.mnemonic}
+**助记**：把七个前缀想象成七种对积木的操作——
+
+- **con-**：双手合拢，把积木堆在一起 → *construct*
+- **in-**：把积木推进容器 → *instruct*（知识推入脑）
+- **de-**：手一挥向下，积木散落一地 → *destroy/destruct*
+- **ob-**：横着挡在面前 → *obstruct*
+- **re-**：捡起来重叠 → *reconstruct*
+- **infra-**：垫在最下面 → *infrastructure*
+- **super-**：叠到最高处 → *superstructure*
+
+词根 **struct** = 积木本身，永远是那个"叠砖"动作。前缀换一次，积木的命运就变一次。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 27 章）学完后，趁热回看以下章节——这些词根与 struct 有相互呼应的语义或构词逻辑：
+
+- **第 26 章**：回看后对比今日新词，巩固记忆
+- **第 25 章**：回看并关注与 struct 搭配的名词后缀 -ure / -ion / -ive
+- **第 23 章**：前缀系统复习——ob-、con-、de- 在该章如何改变方向
+- **第 19 章**：与"建造/形态"相关的词根，与本章形成语义网络
+- **第 11 章**：re- 前缀的全貌——对照本章的 reconstruct / restructure 加深印象
+
+**本章自测提示**：
+
+1. *infrastructure* 中 infra- 是什么意思？为什么叫"基础设施"而不叫"上层设施"？
+2. *instruct* 的字面意象是什么？和 *construct* 的区别在哪个前缀？
+3. 用一句话区分 *construe* 和 *construct* 的使用场合。
+4. *indestructible* 包含几个词缀？分别是什么？
+5. 为什么说 *obstruct* 是"在路上堆砖"？ob- 的方向是什么？
+:::

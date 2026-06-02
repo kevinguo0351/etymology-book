@@ -1,0 +1,131 @@
+# demo / dem —— "人民·民众"
+
+::: {.root-banner}
+demo · dem = *people* 人民、民众
+:::
+
+来源：希腊语 **dēmos**（δῆμος），本义指城邦中有公民权的民众群体，后延伸为"地区、区划内的人口"。
+
+::: {.etymo}
+**词源故事：广场上的声音**
+
+古希腊城邦的心脏是公民大会。每隔一段时日，雅典的自由男性公民就聚集在山坡上的普尼克斯广场，对战争、税收、外交大声投票。这群"有资格发声的人"就叫 *dēmos*。民主制度因此以 *dēmos* 命名——*dēmokratia*，字面意思是"demos 拥有 kratos（权力）"。
+
+这个根与 *dēmos* 的另一层意思也密切相关：城邦被划分为若干行政区，每个区也叫 *dēmos*，住在这片土地上的人口就是该区的 demos。于是"人民"与"地方人口"两层含义从一开始就缠绕在一起，这正是今天 demographics（人口统计）这个词的根基。
+
+当 *dēmos* 搭上不同的词根，就能描述人口的各种面向：怎么统治（democracy）、怎么分布（demography）、疾病怎么在人群中蔓延（epidemic / pandemic）、某病只钉在某地某群人身上（endemic）……一个词根，撑起了政治学、社会学、公共卫生的半壁江山。
+:::
+
+**搭档根一览：**
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| **-cracy** | 统治、权力 | democracy, theocracy |
+| **-crat** | 掌权者 | democrat, autocrat |
+| **-graphy / -graphic** | 记录、描述 | demography, demographic |
+| **epi-** | 在……之上 / 在……之间 | epidemic, epidermis |
+| **pan-** | 全、所有 | pandemic, panacea |
+| **en-** | 在……之内 | endemic, endemic zone |
+| **-agogue** | 引领者、煽动者 | demagogue, pedagogue |
+| **-logy** | 学科、研究 | epidemiology, demology |
+| **-cide** | 杀灭 | genocide（geno- = 族群）|
+| **-phile** | 爱好者 | demophile（罕，爱民者）|
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [democracy]{.headword} | n. | `demo`(人民)+`-cracy`(统治) | 民主制度 | [高频]{.freq .freq-1} |
+| [democratic]{.headword} | adj. | `demo`(人民)+`-crat`+`-ic` | 民主的；平等的 | [高频]{.freq .freq-1} |
+| [democrat]{.headword} | n. | `demo`(人民)+`-crat`(掌权者) | 民主主义者；民主党人 | [高频]{.freq .freq-1} |
+| [democratize]{.headword} | v. | `democrat`+`-ize`(使……化) | 使民主化 | [中频]{.freq .freq-2} |
+| [democratization]{.headword} | n. | `democratize`+`-ation` | 民主化（过程） | [中频]{.freq .freq-2} |
+| [undemocratic]{.headword} | adj. | `un-`(否)+`democratic` | 不民主的 | [中频]{.freq .freq-2} |
+| [demography]{.headword} | n. | `demo`(人口)+`-graphy`(记录) | 人口学 | [高频]{.freq .freq-1} |
+| [demographic]{.headword} | adj./n. | `demo`(人口)+`-graphic`(描述的) | 人口统计的；人口群体 | [高频]{.freq .freq-1} |
+| [demographics]{.headword} | n. | `demographic`+`-s`(复数) | 人口统计数据；人口结构 | [高频]{.freq .freq-1} |
+| [demographer]{.headword} | n. | `demo`+`-grapher`(研究者) | 人口学家 | [中频]{.freq .freq-2} |
+| [epidemic]{.headword} | n./adj. | `epi-`(在……之间)+`dem`(人民)+`-ic` | 流行病；（疾病）流行的 | [高频]{.freq .freq-1} |
+| [epidemiology]{.headword} | n. | `epidemic`+`-logy`(学科) | 流行病学 | [高频]{.freq .freq-1} |
+| [epidemiologist]{.headword} | n. | `epidemiology`+`-ist` | 流行病学家 | [中频]{.freq .freq-2} |
+| [epidemiological]{.headword} | adj. | `epidemiology`+`-ical` | 流行病学的 | [中频]{.freq .freq-2} |
+| [pandemic]{.headword} | n./adj. | `pan-`(全)+`dem`(人民)+`-ic` | 大流行病；波及全球的 | [高频]{.freq .freq-1} |
+| [endemic]{.headword} | adj./n. | `en-`(在内)+`dem`(人民)+`-ic` | 地方性的；地方病 | [高频]{.freq .freq-1} |
+| [endemicity]{.headword} | n. | `endemic`+`-ity` | 地方性（程度）；流行度 | [低频]{.freq .freq-3} |
+| [demagogue]{.headword} | n. | `demo`(人民)+`-agogue`(引领者) | 煽动者；蛊惑民心的政客 | [中频]{.freq .freq-2} |
+| [demagoguery]{.headword} | n. | `demagogue`+`-ry` | 煽动行为；蛊惑民心的手段 | [中频]{.freq .freq-2} |
+| [demagogic]{.headword} | adj. | `demagogue`+`-ic` | 煽动性的 | [低频]{.freq .freq-3} |
+| [demotic]{.headword} | adj. | `demo`(人民)+`-tic` | 通俗的；平民用的（尤指文字/语言） | [低频]{.freq .freq-3} |
+| [demos]{.headword} | n. | `demo`(人民) | 平民大众；民众 | [低频]{.freq .freq-3} |
+| [deme]{.headword} | n. | `demo`(地区人口) | （古希腊）行政区；（生物）地方种群 | [低频]{.freq .freq-3} |
+| [demotic script]{.headword} | n. | `demotic`(民众的)+`script` | 古埃及世俗体文字 | [低频]{.freq .freq-3} |
+| [epidemy]{.headword} | n. | `epi-`+`dem`+`-y` | （罕）流行病（epidemic 的古旧形式） | [低频]{.freq .freq-3} |
+| [hyperendemic]{.headword} | adj. | `hyper-`(超)+`endemic` | 高度地方性流行的 | [低频]{.freq .freq-3} |
+| [holoendemic]{.headword} | adj. | `holo-`(全)+`endemic` | 全民地方性流行的（全人口均受影响）| [低频]{.freq .freq-3} |
+| [nondemocratic]{.headword} | adj. | `non-`(非)+`democratic` | 非民主的 | [中频]{.freq .freq-2} |
+| [social democracy]{.headword} | n. | `social`+`democracy` | 社会民主主义 | [中频]{.freq .freq-2} |
+| [liberal democracy]{.headword} | n. | `liberal`+`democracy` | 自由民主制 | [中频]{.freq .freq-2} |
+| [representative democracy]{.headword} | n. | `representative`+`democracy` | 代议民主制 | [中频]{.freq .freq-2} |
+| [direct democracy]{.headword} | n. | `direct`+`democracy` | 直接民主制 | [中频]{.freq .freq-2} |
+| [demography shift]{.headword} | n. | `demography`+`shift` | 人口结构转变 | [中频]{.freq .freq-2} |
+| [demographic dividend]{.headword} | n. | `demographic`+`dividend` | 人口红利 | [中频]{.freq .freq-2} |
+| [demographic transition]{.headword} | n. | `demographic`+`transition` | 人口转型 | [中频]{.freq .freq-2} |
+| [demographic profile]{.headword} | n. | `demographic`+`profile` | 人口特征概况 | [中频]{.freq .freq-2} |
+| [epidemic curve]{.headword} | n. | `epidemic`+`curve` | 流行曲线（公卫图表）| [中频]{.freq .freq-2} |
+| [pandemic preparedness]{.headword} | n. | `pandemic`+`preparedness` | 大流行病应对准备 | [中频]{.freq .freq-2} |
+| [endemic species]{.headword} | n. | `endemic`+`species` | 特有物种；地方性物种 | [中频]{.freq .freq-2} |
+| [post-pandemic]{.headword} | adj. | `post-`(后)+`pandemic` | 后疫情的 | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- The country transitioned from dictatorship to **democracy** within a single decade.（一个国家在十年内完成了从专制到民主的转型——demos + kratos 全部到位。）
+- Shifting **demographics** mean that one in three citizens will be over 65 by 2050.（人口结构变化意味着到 2050 年三分之一的公民将超过 65 岁——demographic 指人口统计数据构成的群体。）
+- The 1918 influenza was the deadliest **pandemic** in recorded history, killing more people than World War I.（1918 年流感是有记录以来最致命的大流行病——pan（全部）+ dem（人民），跨越了所有人群。）
+- Malaria remains **endemic** to large parts of sub-Saharan Africa, resisting decades of eradication efforts.（疟疾在撒哈拉以南非洲大部分地区仍属地方性疾病——en（在内）+ dem，"扎根"在当地人口中。）
+- The senator was dismissed as a **demagogue** who exploited fear instead of offering real solutions.（这位参议员被批评为煽动者，利用恐惧而非提供真正的解决方案——agogue 是"引领者"，但引领的方向令人质疑。）
+- **Epidemiologists** traced the outbreak to a single contaminated water source in less than 48 hours.（流行病学家在不到 48 小时内将疫情追溯到一个受污染的水源——epi + dem + logy 三根合一。）
+:::
+
+::: {.mnemonic}
+**助记**：把 *demos* 想成希腊广场上的人群。
+
+- **demo**cracy：demos（人群）+ kratos（拳头/权力）→ 人群握住权力
+- **demo**graphy：demos（人口）+ graphein（写下来）→ 把人口数据写成图表
+- **epi**demic：epi（在……之上/之间）+ demos（人群）→ 疾病"落在"人群之间
+- **pan**demic：pan（全部）+ demos（所有人）→ 全人类都中招
+- **en**demic：en（在内）+ demos（本地人）→ 只在本地人群里扎根
+- **dema**gogue：demos（人民）+ agein（引领）→ 拉着人民走，但方向不见得正
+
+核心口诀：**epi- 局部流行，pan- 全球蔓延，en- 地方扎根**——三个前缀三种传播格局，配合 dem 一看就懂。
+:::
+
+::: {.trap}
+**陷阱：pandemonium ≠ pan + demos**
+
+*Pandemonium*（喧嚣混乱；地狱全境）看起来像 pan（全）+ demo（人民），实则与 demos 毫无关系。它来自弥尔顿《失乐园》（1667）中虚构的魔王首都名 *Pandæmonium*，其中是 **pan-**（全）+ **dæmon**（恶魔，来自希腊语 daimōn）。两个根的发音和拼写近似纯属巧合，**绝不可**用"demonium = 人民"来推断词义。
+
+类似地，*demoralize*（使士气崩溃）中的词根是 **morale**（士气），与 demo- 同样没有关联。
+
+规则：词根推断只在**能确认词源一致**时才有效；历史趣闻不能用来阅读生词。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 38 章）学完，建议回看：
+
+- **第 37 章**（上一章）——趁记忆新鲜做对比
+- **第 36 章**——巩固近期词根
+- **第 34 章**——检视相关构词规律
+- **第 30 章**——复习中期核心词根
+- **第 22 章**——回顾早期希腊根基础
+
+**本章自测（不看书，能说出来吗？）**
+
+1. *epidemic* 与 *pandemic* 的前缀有何差异？各自意味着什么传播范围？
+2. *endemic* 中的 *en-* 是"在内"，这跟"地方性疾病"的概念如何对应？
+3. *demagogue* 的字面意思是"引领人民者"，为什么现代语义变成了贬义？
+4. 不查书，说出 *demography* 的两个词根及各自含义。
+5. *pandemonium* 里的词根是什么？它和 *pandemic* 的 *pan-* 一样吗？词根 *-demon-* 来自哪里？
+:::

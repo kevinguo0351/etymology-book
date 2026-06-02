@@ -1,0 +1,131 @@
+# form —— "形·状·塑"
+
+::: {.root-banner}
+form = shape, mold 形状；塑造
+:::
+
+来源：拉丁语 *forma*，本义"形状、外观、模具"，与希腊语 *morphē*（形体）同族概念，核心意象是"一块可被塑造的型"。
+
+::: {.etymo}
+**词源故事：罗马人的模具**
+
+古罗马人用 *forma* 指一切"模具"与"样式"：制鞋匠的楦头、铸币的铜模、面包的烤盘都叫 *forma*。从物理的模具出发，这个词很自然地扩展到抽象的"形式"——文书的格式、仪式的规程、外貌的姿态。
+
+这个词根进入英语后，成为一台高产的"前缀机器"：换一个前缀，就换一个塑造的方向。*in-* 把形状压入脑中，就是 *inform*（告知）；*re-* 把旧形状重新塑造，就是 *reform*（改革）；*trans-* 把形状从一种变成另一种，就是 *transform*（转变）。词根 form 始终不动，前缀负责指示方向。
+
+拉丁语 *forma* 还有一个隐秘后代：*formula*，原是"小型模具"（-ula 是拉丁语小词缀），后来专指"固定的表达式/配方"，今天在数学、化学、法律领域仍随处可见。
+:::
+
+**前缀决定方向，form 永远是"塑造"**
+
+| 前缀 | 方向含义 | 代表词 |
+|------|----------|--------|
+| `re-` | 再次、重塑 | reform |
+| `trans-` | 跨越、变形 | transform |
+| `in-` | 向内、塞入 | inform |
+| `con-` | 一起、一致 | conform |
+| `de-` | 去除、破坏 | deform |
+| `per-` | 彻底完成 | perform |
+| `uni-` | 唯一、统一 | uniform |
+| `multi-` | 多种 | multiform |
+| `mal-` | 坏的、异常 | malformed |
+| `plat-` | 平面（借道法语） | platform |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [form]{.headword} | n./v. | `form`(形状) | 形状；形成 | [高频]{.freq .freq-1} |
+| [formal]{.headword} | adj. | `form`(形)+`-al`(形容词尾) | 正式的；形式上的 | [高频]{.freq .freq-1} |
+| [format]{.headword} | n./v. | `form`(形)+`-at`(拉丁名词尾) | 格式；版式；格式化 | [高频]{.freq .freq-1} |
+| [formula]{.headword} | n. | `form`(模具)+`-ula`(小词缀) | 公式；配方；固定表达 | [高频]{.freq .freq-1} |
+| [formation]{.headword} | n. | `form`(形)+`-ation`(名词尾) | 形成；队形；地层 | [高频]{.freq .freq-1} |
+| [inform]{.headword} | v. | `in-`(入)+`form`(形) | 告知；通报 | [高频]{.freq .freq-1} |
+| [reform]{.headword} | v./n. | `re-`(再)+`form`(塑造) | 改革；改造 | [高频]{.freq .freq-1} |
+| [transform]{.headword} | v. | `trans-`(跨越)+`form`(形) | 转变；彻底改变 | [高频]{.freq .freq-1} |
+| [conform]{.headword} | v. | `con-`(一起)+`form`(形) | 遵从；符合（使形状与他人一致） | [高频]{.freq .freq-1} |
+| [perform]{.headword} | v. | `per-`(彻底)+`form`(完成) | 表演；执行；完成 | [高频]{.freq .freq-1} |
+| [uniform]{.headword} | adj./n. | `uni-`(一)+`form`(形) | 统一的；制服 | [高频]{.freq .freq-1} |
+| [deform]{.headword} | v. | `de-`(去除)+`form`(形) | 使变形；毁形 | [中频]{.freq .freq-2} |
+| [platform]{.headword} | n. | `plat-`(平面)+`form`(形) | 平台；月台；讲台 | [高频]{.freq .freq-1} |
+| [formative]{.headword} | adj. | `form`(塑)+`-ative`(形容词尾) | 塑造性的；形成中的 | [中频]{.freq .freq-2} |
+| [informal]{.headword} | adj. | `in-`(否定)+`formal`(正式) | 非正式的；随意的 | [高频]{.freq .freq-1} |
+| [information]{.headword} | n. | `inform`(告知)+`-ation`(名词尾) | 信息；资料 | [高频]{.freq .freq-1} |
+| [informant]{.headword} | n. | `inform`(告知)+`-ant`(行为者) | 线人；报告者；提供信息的人 | [中频]{.freq .freq-2} |
+| [reformation]{.headword} | n. | `re-`(再)+`formation`(形成) | 改革；（宗教）宗教改革 | [中频]{.freq .freq-2} |
+| [transformation]{.headword} | n. | `trans-`(跨越)+`formation`(形成) | 转变；变革；变形 | [高频]{.freq .freq-1} |
+| [conformity]{.headword} | n. | `conform`(一致)+`-ity`(名词尾) | 顺从；一致性；符合 | [中频]{.freq .freq-2} |
+| [performance]{.headword} | n. | `perform`(表演)+`-ance`(名词尾) | 表演；绩效；执行 | [高频]{.freq .freq-1} |
+| [performer]{.headword} | n. | `perform`(表演)+`-er`(行为者) | 表演者；执行者 | [高频]{.freq .freq-1} |
+| [malformed]{.headword} | adj. | `mal-`(坏)+`form`(形)+`-ed` | 畸形的；形状异常的 | [中频]{.freq .freq-2} |
+| [multiform]{.headword} | adj. | `multi-`(多)+`form`(形) | 多形态的；多样的 | [低频]{.freq .freq-3} |
+| [uniform]{.headword} | v. | `uni-`(一)+`form`(形) | 使统一；（罕见动词用法） | [低频]{.freq .freq-3} |
+| [formalism]{.headword} | n. | `formal`(形式)+`-ism`(主义) | 形式主义 | [中频]{.freq .freq-2} |
+| [formality]{.headword} | n. | `formal`(正式)+`-ity`(名词尾) | 正式程序；礼节性手续 | [中频]{.freq .freq-2} |
+| [formulaic]{.headword} | adj. | `formula`(公式)+`-ic`(形容词尾) | 公式化的；套路化的 | [中频]{.freq .freq-2} |
+| [formulate]{.headword} | v. | `formula`(公式)+`-ate`(动词尾) | 表达；制定；用公式表示 | [高频]{.freq .freq-1} |
+| [formulation]{.headword} | n. | `formulate`(表达)+`-ion`(名词尾) | 表述；配方；制剂 | [中频]{.freq .freq-2} |
+| [conform]{.headword} | n. | — | 见 conformist | — |
+| [conformist]{.headword} | n. | `conform`(顺从)+`-ist`(行为者) | 随大流者；循规蹈矩的人 | [中频]{.freq .freq-2} |
+| [nonconformist]{.headword} | n./adj. | `non-`(否)+`conformist`(随大流) | 不循常规者；异见者 | [中频]{.freq .freq-2} |
+| [deformity]{.headword} | n. | `deform`(变形)+`-ity`(名词尾) | 畸形；缺陷 | [中频]{.freq .freq-2} |
+| [deformation]{.headword} | n. | `de-`(去)+`formation`(形成) | 变形；（地质）形变 | [中频]{.freq .freq-2} |
+| [reform]{.headword} | n. | `re-`(再)+`form` | 改革方案；改造 | [高频]{.freq .freq-1} |
+| [reformer]{.headword} | n. | `reform`(改革)+`-er`(行为者) | 改革者；革新者 | [中频]{.freq .freq-2} |
+| [transformer]{.headword} | n. | `transform`(变形)+`-er`(设备/人) | 变压器；变革者 | [高频]{.freq .freq-1} |
+| [transformative]{.headword} | adj. | `transform`(变形)+`-ative` | 变革性的；深刻改变的 | [中频]{.freq .freq-2} |
+| [inform]{.headword} | adj. | `in-`(否)+`form` | 无形的（古英语用法，现已罕用） | [低频]{.freq .freq-3} |
+| [misinform]{.headword} | v. | `mis-`(错误)+`inform`(告知) | 误导；提供错误信息 | [中频]{.freq .freq-2} |
+| [misinformation]{.headword} | n. | `mis-`(错误)+`information`(信息) | 错误信息；误导性资讯 | [高频]{.freq .freq-1} |
+| [disinformation]{.headword} | n. | `dis-`(散/反)+`information`(信息) | 蓄意散布的虚假信息 | [中频]{.freq .freq-2} |
+| [uninformed]{.headword} | adj. | `un-`(未)+`inform`(告知)+`-ed` | 不了解情况的；无知的 | [中频]{.freq .freq-2} |
+| [well-informed]{.headword} | adj. | `well`(好)+`informed`(知情) | 消息灵通的；博识的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The government announced sweeping plans to **reform** the tax system.（re- = 重新塑造：把旧税制重新铸一遍）
+- A caterpillar **transforms** into a butterfly over weeks inside its chrysalis.（trans- = 形状跨越：从一种形完全变成另一种形）
+- She was asked to **conform** to the company's dress code on her first day.（con- = 与众形合：让自己的外形与集体看齐）
+- The actors **performed** the entire play without a single prompt from the wings.（per- = 彻底完成：从头到尾把整台戏"形"完整呈现）
+- The **formative** years of childhood shape a person's emotional responses for life.（形成中的岁月，字面就是"正在被塑造的"阶段）
+- Social media has become a major source of **misinformation** during elections.（mis- = 错误地把形塞入脑中：送进脑子里的是扭曲的信息）
+:::
+
+::: {.mnemonic}
+**助记**：把 form 想象成一块橡皮泥——它本身只是"形状/塑造"。前缀是你的双手动作：  
+- **re-**（再） → 把它重新捏一遍 → *reform*  
+- **trans-**（跨越） → 捏成完全不同的形状 → *transform*  
+- **in-**（向内） → 把形状压入对方脑中 → *inform*  
+- **con-**（一起） → 捏成和别人一样的形 → *conform*  
+- **de-**（去掉） → 把形状破坏掉 → *deform*  
+- **per-**（彻底） → 从头到尾把形塑完 → *perform*  
+- **uni-**（一） → 所有形状变成同一种 → *uniform*  
+
+记住方向，form 永远不变，剩下的词自己就出来了。
+:::
+
+::: {.trap}
+**陷阱**：*inform* 的 *in-* 不是"否定"前缀，而是"向内"前缀（把信息的"形"输入对方心中）。真正的否定用 *un-*：*uninformed*（不知情的）。  
+另外，*platform* 里的 *plat-* 来自法语 *plat*（平的），与拉丁语 *forma* 是不同来源的组合词，属于"法语中转"借词，不要反推 *plat-* 在其他词里也有"平台"含义。  
+最后，*misinformation*（无意传播的错误信息）与 *disinformation*（蓄意制造的虚假信息）语义有别，学术与新闻语境中区分严格，不可混用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 29 章）学完后，请回看以下章节以强化前缀与词根网络：
+
+- **第 28 章**：上一章词根——趁热巩固
+- **第 27 章**：对照本章前缀体系，检验前缀 re-/trans-/de- 在不同词根上的一致性
+- **第 25 章**：回顾与 form 同属"行为完成"语义场的词根
+- **第 21 章**：对照希腊语 morph-（形态），感受拉丁根与希腊根处理"形状"的不同风格
+- **第 13 章**：复习 in-（向内/否定）前缀的双重用法，帮助厘清 inform 与 informal 的 in- 区别
+
+**本章自测提示**（遮住释义列自测）：
+1. *re- + form* = ？（改革，重新塑造）
+2. *trans- + form* = ？（转变，跨越形态）
+3. *formula* 的 -ula 表示什么？（小词缀，"小模具"→公式）
+4. *perform* 里 per- 的方向是什么？（彻底完成）
+5. *misinformation* 与 *disinformation* 的区别？（无意 vs. 蓄意）
+:::

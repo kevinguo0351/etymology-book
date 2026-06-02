@@ -1,0 +1,148 @@
+# vert / vers —— "转·向"
+
+::: {.root-banner}
+vert · vers = to turn 转动；转向
+:::
+
+来源：拉丁语动词 **vertere**（转，旋转）及其过去分词形式 **versus**（已转，朝向）。vertere 在古罗马语中既可指物理旋转，也指方向上的改变，是拉丁文书写中极高频的行为动词。
+
+::: {.etymo}
+**词源故事：那个永远在转的罗马车轮**
+
+想象一辆罗马战车：车轮（vertex）在转，车夫让马转向（convert），敌方阵线被迫翻转（reverse），河流让道路不得不横越（traverse）。整个词族只有一个核心动作——"转"，**vertere**。
+
+拉丁文的 *versus* 本是 vertere 的过去分词，意思是"已经转向了某个方向"。它进入英语后变成了 **versus**（对阵，两方各朝一边），也变成了 **version**（一种"转"出来的版本）。
+
+更有意思的是，古罗马人犁田时，犁到地头要"转身"回来耕下一行，这个动作叫 *versus*；诗行到末尾也要"转"——所以拉丁诗歌的"行"也叫 *versus*，英语 **verse**（诗节）就这样诞生了。
+
+词根进入英语时保留了两种面孔：在单词末尾或单独出现时写 **-vers-**（如 version、adverse），在构词时若跟辅音开头的后缀相接则常写 **-vert-**（如 convert、invert）。两个拼写，同一个"转"。
+:::
+
+**前缀决定方向，根永远是同一个动作。** 把下面这张"方向盘"记住，遇到任何 -vert / -vers 的词，只需找前缀、认方向：
+
+| 前缀 | 本义 | 转向哪里 | 代表词 |
+|------|------|----------|--------|
+| con- | 一起，完全 | 完全转变 | convert |
+| re- | 回，反 | 转回去，反转 | reverse |
+| di- / dis- | 分开，偏离 | 转离，转移 | divert / diverse |
+| in- | 向内，相反 | 翻转，向内转 | invert / introvert |
+| ad- | 朝向 | 转向（某物/某人） | advertise / adverse |
+| sub- | 在下 | 从底下翻转颠覆 | subvert |
+| per- | 贯穿，彻底 | 彻底扭曲 | perverse |
+| trans- | 横越 | 横向穿越而过 | traverse |
+| uni- | 一，单一 | 转向同一中心 | universe |
+| contra- | 反对 | 反方向对抗 | controversy |
+| a- / ab- | 离开 | 转身离开 | averse |
+| extra- / extro- | 向外 | 朝外转 | extrovert |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [convert]{.headword} | v./n. | `con-`(完全)+`vert`(转) | 转变，改变信仰；改变信仰者 | [高频]{.freq .freq-1} |
+| [conversion]{.headword} | n. | `con-`+`vers`+`-ion` | 转变，换算；改宗 | [高频]{.freq .freq-1} |
+| [reverse]{.headword} | v./adj./n. | `re-`(回)+`vers`(转)+`-e` | 倒转，反转；相反的；反面 | [高频]{.freq .freq-1} |
+| [reversal]{.headword} | n. | `re-`+`vers`+`-al` | 逆转，撤销 | [高频]{.freq .freq-1} |
+| [divert]{.headword} | v. | `di-`(偏离)+`vert`(转) | 转移（注意力/交通）；使娱乐 | [高频]{.freq .freq-1} |
+| [diversion]{.headword} | n. | `di-`+`vers`+`-ion` | 转移；绕行；消遣 | [高频]{.freq .freq-1} |
+| [diverse]{.headword} | adj. | `di-`+`vers`+`-e` | 多样的，各种各样的（转向不同方向） | [高频]{.freq .freq-1} |
+| [diversity]{.headword} | n. | `di-`+`vers`+`-ity` | 多样性 | [高频]{.freq .freq-1} |
+| [diversify]{.headword} | v. | `di-`+`vers`+`-ify` | 使多样化，多元化经营 | [中频]{.freq .freq-2} |
+| [invert]{.headword} | v. | `in-`(反)+`vert`(转) | 翻转，颠倒 | [中频]{.freq .freq-2} |
+| [inverse]{.headword} | adj./n. | `in-`+`vers`+`-e` | 相反的；反比；反数 | [中频]{.freq .freq-2} |
+| [inversion]{.headword} | n. | `in-`+`vers`+`-ion` | 倒置，颠倒；逆温（气象）| [中频]{.freq .freq-2} |
+| [introvert]{.headword} | n./v. | `intro-`(向内)+`vert`(转) | 内向者；使内省 | [高频]{.freq .freq-1} |
+| [extrovert]{.headword} | n./adj. | `extro-`(向外)+`vert`(转) | 外向者；外向的 | [高频]{.freq .freq-1} |
+| [subvert]{.headword} | v. | `sub-`(从下)+`vert`(转) | 颠覆，推翻 | [中频]{.freq .freq-2} |
+| [subversion]{.headword} | n. | `sub-`+`vers`+`-ion` | 颠覆（行为） | [中频]{.freq .freq-2} |
+| [advertise]{.headword} | v. | `ad-`(朝向)+`vert`(转)+`-ise` | 做广告，宣传（让人转头来看） | [高频]{.freq .freq-1} |
+| [advertisement]{.headword} | n. | `ad-`+`vert`+`-isement` | 广告 | [高频]{.freq .freq-1} |
+| [adverse]{.headword} | adj. | `ad-`(朝)+`vers`+`-e` | 不利的，逆向的（转向对抗） | [高频]{.freq .freq-1} |
+| [adversity]{.headword} | n. | `ad-`+`vers`+`-ity` | 逆境，苦难 | [高频]{.freq .freq-1} |
+| [adversary]{.headword} | n. | `ad-`+`vers`+`-ary` | 对手，敌手 | [中频]{.freq .freq-2} |
+| [averse]{.headword} | adj. | `a-`(离开)+`vers`+`-e` | 反感的，不愿意的（转身离开） | [中频]{.freq .freq-2} |
+| [aversion]{.headword} | n. | `a-`+`vers`+`-ion` | 厌恶，反感 | [中频]{.freq .freq-2} |
+| [perverse]{.headword} | adj. | `per-`(彻底/偏离)+`vers`+`-e` | 乖张的，故意作对的 | [中频]{.freq .freq-2} |
+| [perversity]{.headword} | n. | `per-`+`vers`+`-ity` | 乖张，执拗 | [低频]{.freq .freq-3} |
+| [perversion]{.headword} | n. | `per-`+`vers`+`-ion` | 歪曲，变态（扭曲到面目全非） | [中频]{.freq .freq-2} |
+| [traverse]{.headword} | v./n. | `trans-`(横越)+`vers`+`-e` | 横穿，横越；横断面 | [中频]{.freq .freq-2} |
+| [controversy]{.headword} | n. | `contra-`(反)+`vers`+`-y` | 争议，论争（双方各自转向对立面）| [高频]{.freq .freq-1} |
+| [controversial]{.headword} | adj. | `contra-`+`vers`+`-ial` | 有争议的 | [高频]{.freq .freq-1} |
+| [universe]{.headword} | n. | `uni-`(一)+`vers`+`-e` | 宇宙（万物转向同一中心）| [高频]{.freq .freq-1} |
+| [universal]{.headword} | adj. | `uni-`+`vers`+`-al` | 普遍的，全宇宙的 | [高频]{.freq .freq-1} |
+| [university]{.headword} | n. | `uni-`+`vers`+`-ity` | 大学（学问归一之所） | [高频]{.freq .freq-1} |
+| [version]{.headword} | n. | `vers`+`-ion` | 版本；说法（"转"出的一个形态） | [高频]{.freq .freq-1} |
+| [versus]{.headword} | prep. | `versus`（已转向对方） | 对阵；与……相比 | [高频]{.freq .freq-1} |
+| [verse]{.headword} | n. | `vers`+`-e` | 诗节，诗行（犁到地头"转身"处）| [高频]{.freq .freq-1} |
+| [vertical]{.headword} | adj. | `vert`(顶点)+`-ical` | 垂直的（→ vertex，见陷阱注） | [高频]{.freq .freq-1} |
+| [vertex]{.headword} | n. | `vert`(转/顶)+`-ex` | 顶点，极点 | [中频]{.freq .freq-2} |
+| [vortex]{.headword} | n. | 同源变体 `vort-`(旋转)+`-ex` | 旋涡，漩涡 | [中频]{.freq .freq-2} |
+| [divorce]{.headword} | v./n. | `di-`(分)+`vorc`(=vers，转)+`-e` | 离婚；使分离（各自转向不同方向）| [高频]{.freq .freq-1} |
+| [anniversary]{.headword} | n. | `anni-`(年)+`vers`(转)+`-ary` | 周年纪念日（年轮转回来的日子）| [高频]{.freq .freq-1} |
+| [revert]{.headword} | v. | `re-`(回)+`vert`(转) | 重新回到（旧状态/话题）| [中频]{.freq .freq-2} |
+| [reversion]{.headword} | n. | `re-`+`vers`+`-ion` | 回复，退化；归还（法律）| [低频]{.freq .freq-3} |
+| [avert]{.headword} | v. | `a-`(离)+`vert`(转) | 转移（目光）；防止 | [中频]{.freq .freq-2} |
+| [converse]{.headword} | v./adj./n. | `con-`+`vers`+`-e` | 交谈（转话头）；相反的；反面 | [中频]{.freq .freq-2} |
+| [conversation]{.headword} | n. | `con-`+`vers`+`-ation` | 对话，交谈 | [高频]{.freq .freq-1} |
+| [transverse]{.headword} | adj. | `trans-`+`vers`+`-e` | 横向的，横截的 | [低频]{.freq .freq-3} |
+| [inadvertent]{.headword} | adj. | `in-`(非)+`ad-`+`vert`+`-ent` | 无意的，不经意的（没有"转头注意"）| [中频]{.freq .freq-2} |
+| [extroversion]{.headword} | n. | `extro-`+`vers`+`-ion` | 外向性（心理学术语） | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The company decided to **convert** its empty warehouses into affordable housing units.（把仓库"完全转变"成住宅，con- 强调彻底性）
+- The court **reversed** the lower court's decision after reviewing new evidence.（法院"转回"了原判决，re- 表示方向倒置）
+- Heavy rains **diverted** traffic away from the flooded highway for three days.（洪水让交通"偏转"到别处，di- 意味着脱离原路线）
+- She is an **introvert** who recharges by spending time alone, not at parties.（introvert 字面是"向内转"的人，与 extrovert 互为镜像）
+- The documentary sparked **controversy** over whether the government had concealed key data.（两方观点各自"转向对立"，形成 controversy）
+- Centuries of **adversity** had forged in them a resilience that outsiders found hard to comprehend.（adversity = 逆境，ad- 朝向 + vers = 转向对抗之力）
+:::
+
+::: {.mnemonic}
+**助记**：把这个词族想成一个方向盘（steering wheel），轮毂永远是 **-vert / -vers-**（"转"这个动作），而每个前缀就是一个指向不同方位的箭头——
+
+- **re-** ← 往回转（reverse）
+- **con-** ↺ 完全转化（convert）
+- **di-** ↗↙ 分叉转开（divert / diverse）
+- **in-** ↙ 向内翻转（invert / introvert）
+- **ad-** → 朝某处转（advertise：让别人"转头看你"）
+- **sub-** ↓ 从下面翻转（subvert）
+- **trans-** ↔ 横向穿越（traverse）
+- **uni-** ⊙ 万物转向一中心（universe）
+
+背住这张"方向盘"，遇到任何带 -vert / -vers- 的生词，先找前缀、认箭头，词义十之八九便能推出。
+:::
+
+::: {.trap}
+**陷阱一：vertical 与 vertex 的关系**
+
+**vertical**（垂直的）词源上来自 **vertex**（顶点），而 vertex 确实源自 vertere（转），因为"旋涡的顶端"是最高的旋转中心。所以 vertical 与 -vert- 同根，但含义已从"旋转"漂移到"顶点→自顶点向下即垂直"。这是一段有趣的语义漂移，但**不要**用它来推断其他生词含义，vertical 在现代英语里就只表示"垂直的"。
+
+**陷阱二：averse 与 adverse**
+
+两词都含 -vers-，但前缀不同，语义也截然不同：**averse**（a- = 离开）表示个人的"反感、不愿意"（I am averse to risk = 我不喜欢风险），是主观情感；**adverse**（ad- = 朝向，此处意为对抗性地朝向）表示客观的"不利、有害"（adverse conditions = 不利条件）。混淆两词是高频错误。
+
+**陷阱三：divorce 拼写**
+
+divorce 中的 -vorc- 是 -vers- 的古法语变体（拉丁语 divortium），规律性稍弱，属于"了解即可，不要用词根直接拼写拼凑"的历史形态。
+:::
+
+::: {.review-today}
+**今日复习安排（第 31 章完成后）**
+
+| 应回看章节 | 重点自查 |
+|------------|---------|
+| 第 30 章 | 回顾那章的旗舰词，与本章有无重叠前缀？ |
+| 第 29 章 | 默写三个核心词，能否用构词法拆解？ |
+| 第 27 章 | 遮住释义栏，能否凭拆解猜出词义？ |
+| 第 23 章 | 抽查频率标注为【高频】的词，能否造句？ |
+| 第 15 章 | 回顾该章助记方法，是否仍然记得？ |
+
+**本章自测提示（第 31 章）：**
+
+1. 不看书，把"方向盘"上的 8 个前缀及其代表词默写出来。
+2. **controversy / adverse / averse / perverse** 四词：各用一句话说明它们的前缀如何影响语义。
+3. 填空：*The flood forced authorities to ______ traffic away from the city center.* （divert）
+4. 区辨：introvert 与 extrovert 字面义分别是什么？为什么 invert 不能指"内向者"？
+:::

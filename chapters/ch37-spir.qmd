@@ -1,0 +1,137 @@
+# spir —— "呼吸·气息"
+
+::: {.root-banner}
+spir = breathe 呼吸；breath 气息；spirit 灵魂之气
+:::
+
+来源：拉丁语 *spirare*（to breathe），原指空气进出肺部的动作，后引申为生命力、灵魂、神圣的气息。
+
+::: {.etymo}
+**词源故事：神给泥人吹了一口气**
+
+古罗马人相信，人之所以活着，是因为神把 *spiritus*——神圣的气息——吹进了肥土捏成的躯体。没有这口气，肉体不过是泥偶。这个观念深深刻入了拉丁语：*spirare* 既指物理的呼吸，也指生命本身的跃动。
+
+于是当诗人、演说家或先知受到神明感召，人们就说神把气 *in-spirare*（吹入）了他的胸腔——这就是 *inspire*。反过来，当最后一口气 *ex-spirare*（呼出），生命也随之终结，日期也随之"到期"——这是 *expire*。
+
+*spiritus* 穿越中世纪教会拉丁语，变成了 *spirit*：先是"圣灵、鬼魂"，后来又落地为"精神、情绪、烈酒"（蒸馏酒就是把液体的"精气"提炼出来）。今天我们说 team spirit，用的还是那口古老的神圣之气。
+
+记住：无论前缀怎么变，*spir* 这个动作永远是"一口气"——入、出、再入，或者一起呼吸、透过皮肤渗出、悄悄泄露。前缀决定方向，根永远是那口气。
+:::
+
+**前缀决定方向，根永远是同一口气**
+
+| 前缀 | 方向 / 语义 | 代表词 |
+|------|------------|--------|
+| in- | 向内，吹入 | inspire |
+| ex- | 向外，呼出 | expire |
+| re- | 反复，来回呼吸 | respire |
+| con- | 一起，同呼吸 → 密谋 | conspire |
+| ad- / a- | 朝向，渴望之气 | aspire |
+| per- | 穿透，透皮渗出 | perspire |
+| trans- | 穿越，泄露出去 | transpire |
+| dis- | 失去，气散了 | dispirited |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [inspire]{.headword} | v. | `in-`(入)+`spir`(气)+`-e` | 激励；给予灵感；吸入 | [高频]{.freq .freq-1} |
+| [inspiration]{.headword} | n. | `in-`+`spir`+`-ation`(名词化) | 灵感；鼓舞；吸气 | [高频]{.freq .freq-1} |
+| [inspiring]{.headword} | adj. | `inspir-`+`-ing` | 令人振奋的；鼓舞人心的 | [高频]{.freq .freq-1} |
+| [inspired]{.headword} | adj. | `inspir-`+`-ed` | 受灵感激发的；才华横溢的 | [高频]{.freq .freq-1} |
+| [expire]{.headword} | v. | `ex-`(出)+`spir`(气)+`-e` | 到期；呼气；死亡 | [高频]{.freq .freq-1} |
+| [expiration]{.headword} | n. | `ex-`+`spir`+`-ation` | 到期；期满；呼气 | [高频]{.freq .freq-1} |
+| [expiry]{.headword} | n. | `expir-`+`-y` | 截止日期；期满（英式） | [高频]{.freq .freq-1} |
+| [spirit]{.headword} | n. | `spir`(气)+`-it`(拉丁名词后缀) | 精神；灵魂；情绪；烈酒 | [高频]{.freq .freq-1} |
+| [spiritual]{.headword} | adj. | `spirit`+`-ual` | 精神的；灵性的；神圣的 | [高频]{.freq .freq-1} |
+| [spirituality]{.headword} | n. | `spiritual`+`-ity` | 灵性；精神性 | [中频]{.freq .freq-2} |
+| [aspire]{.headword} | v. | `a-`(=ad-朝向)+`spir`(气)+`-e` | 渴望；有志于 | [高频]{.freq .freq-1} |
+| [aspiration]{.headword} | n. | `a-`+`spir`+`-ation` | 渴望；志向；送气音 | [高频]{.freq .freq-1} |
+| [aspirational]{.headword} | adj. | `aspiration`+`-al` | 有抱负的；追求向上的 | [中频]{.freq .freq-2} |
+| [conspire]{.headword} | v. | `con-`(一起)+`spir`(气)+`-e` | 密谋；共同促成 | [高频]{.freq .freq-1} |
+| [conspiracy]{.headword} | n. | `con-`+`spir`+`-acy` | 阴谋；密谋 | [高频]{.freq .freq-1} |
+| [conspirator]{.headword} | n. | `conspir-`+`-ator`(人) | 阴谋者；共谋者 | [中频]{.freq .freq-2} |
+| [conspiratorial]{.headword} | adj. | `conspirator`+`-ial` | 阴谋式的；鬼鬼祟祟的 | [中频]{.freq .freq-2} |
+| [respire]{.headword} | v. | `re-`(反复)+`spir`(气)+`-e` | 呼吸（正式/医学用语） | [中频]{.freq .freq-2} |
+| [respiration]{.headword} | n. | `re-`+`spir`+`-ation` | 呼吸（作用）；呼吸过程 | [高频]{.freq .freq-1} |
+| [respiratory]{.headword} | adj. | `respir`+`-atory`(形容词后缀) | 呼吸的；呼吸系统的 | [高频]{.freq .freq-1} |
+| [respirator]{.headword} | n. | `respir`+`-ator`(设备) | 口罩；人工呼吸器 | [中频]{.freq .freq-2} |
+| [perspire]{.headword} | v. | `per-`(透过)+`spir`(气)+`-e` | 出汗；排汗 | [中频]{.freq .freq-2} |
+| [perspiration]{.headword} | n. | `per-`+`spir`+`-ation` | 汗液；排汗 | [中频]{.freq .freq-2} |
+| [transpire]{.headword} | v. | `trans-`(穿越/透出)+`spir`(气)+`-e` | 发生；泄露；（植物）蒸腾 | [中频]{.freq .freq-2} |
+| [transpiration]{.headword} | n. | `trans-`+`spir`+`-ation` | （植物）蒸腾作用；泄露 | [中频]{.freq .freq-2} |
+| [dispirited]{.headword} | adj. | `dis-`(失去)+`spirit`+`-ed` | 沮丧的；气馁的 | [中频]{.freq .freq-2} |
+| [dispirit]{.headword} | v. | `dis-`(失去)+`spirit` | 使沮丧；打击…的士气 | [中频]{.freq .freq-2} |
+| [dispiriting]{.headword} | adj. | `dispirit`+`-ing` | 令人沮丧的；扫兴的 | [中频]{.freq .freq-2} |
+| [spirited]{.headword} | adj. | `spirit`+`-ed` | 精神饱满的；活泼的；激烈的 | [高频]{.freq .freq-1} |
+| [high-spirited]{.headword} | adj. | `high`+`spirit`+`-ed` | 精力充沛的；意气风发的 | [中频]{.freq .freq-2} |
+| [low-spirited]{.headword} | adj. | `low`+`spirit`+`-ed` | 情绪低落的；垂头丧气的 | [中频]{.freq .freq-2} |
+| [team spirit]{.headword} | n. | `team`+`spirit` | 团队精神；集体荣誉感 | [高频]{.freq .freq-1} |
+| [free spirit]{.headword} | n. | `free`+`spirit` | 自由不羁的人 | [中频]{.freq .freq-2} |
+| [uninspired]{.headword} | adj. | `un-`(否)+`inspir-`+`-ed` | 缺乏灵感的；平淡无奇的 | [中频]{.freq .freq-2} |
+| [uninspiring]{.headword} | adj. | `un-`+`inspiring` | 不能激励人的；枯燥乏味的 | [中频]{.freq .freq-2} |
+| [spiritless]{.headword} | adj. | `spirit`+`-less`(无) | 没有精神的；毫无生气的 | [低频]{.freq .freq-3} |
+| [esprit]{.headword} | n. | 法语借词，源自同一拉丁根 | 才智；机智（常见于 esprit de corps） | [低频]{.freq .freq-3} |
+| [esprit de corps]{.headword} | n. | 法语短语 | 集体精神；团队凝聚力 | [中频]{.freq .freq-2} |
+| [aspirate]{.headword} | v./n. | `a-`+`spir`+`-ate` | 吸出；送气音（语音学） | [低频]{.freq .freq-3} |
+| [inspiratory]{.headword} | adj. | `inspir`+`-atory` | 吸气的；与吸气有关的 | [低频]{.freq .freq-3} |
+| [expiratory]{.headword} | adj. | `expir`+`-atory` | 呼气的；与呼气有关的 | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The documentary **inspired** a whole generation of young scientists to pursue marine biology.（神吹入了一口气——激励了整整一代人）
+- Your passport has **expired**; you'll need to renew it before the trip.（最后一口气呼出，有效期走到了尽头）
+- Evidence suggests the two executives **conspired** to hide the company's losses from investors.（两人凑在一起同呼吸、共命运——密谋）
+- She has always **aspired** to lead a research team at a top university.（朝着那个方向呼气——渴望、志向）
+- After three consecutive defeats, the team looked completely **dispirited** at the press conference.（气被抽走了——垂头丧气）
+- The respiratory system **transpires** carbon dioxide continuously as a byproduct of cellular metabolism.（气穿越、透出——排出废气；此处 transpire 取生理义）
+:::
+
+::: {.mnemonic}
+**助记**：把八个前缀想象成八个方向的箭头，spir 是圆心处永远在跳动的肺：
+
+- **in-** 箭头射入肺 → *inspire*（吸气/激励）
+- **ex-** 箭头从肺射出 → *expire*（呼气/到期）
+- **re-** 箭头反复往返 → *respire*（呼吸）
+- **con-** 两支箭头同时射入一个肺 → *conspire*（一起呼吸 → 密谋）
+- **a-/ad-** 箭头朝远方射去 → *aspire*（渴望抵达）
+- **per-** 箭头穿透皮肤射出 → *perspire*（排汗）
+- **trans-** 箭头穿越边界 → *transpire*（泄露/发生）
+- **dis-** 箭头把气散走 → *dispirited*（泄气/沮丧）
+
+只要见到 spir，先问："是哪个方向的气？"前缀一告诉你，整词义自然浮出。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**spirit 与"烈酒"** — *spirits* 确实指蒸馏酒，因为早期炼金术士把蒸馏所得的挥发物称为"物质的精气"（*spiritus*）。这是真实的词义演变，但属于历史趣闻，**不能反过来**说"见到 spirit 类词就往酒的方向联想"，也绝不能用这个趣闻去推断陌生词的意思。
+
+**aspire 的语音学义** — *aspirate* / *aspiration* 在语音学中指"送气音"（如普通话声母 p、t、k 的气流），与"渴望"的 *aspiration* 同根，但语境完全不同。阅读学术论文时注意区分，不要把音韵学文章里的 "aspirated stops" 误读为"渴望的中止"。
+
+**transpire 的语义漂移** — 在正式书面语中，*transpire* 本义是"（秘密）渗漏出来、泄露"，后来引申为"（事情）发生"。部分风格指南认为"发生"义是误用，但它在现代英语中已十分普遍。写作时若受众偏保守，用 *occur* / *happen* 更稳妥。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 37 章）学完后，请回看：
+
+- **第 36 章** — 对应前序词根，巩固前缀系统
+- **第 35 章** — 与本章前缀逻辑衔接
+- **第 33 章** — 复习相关拉丁根的"动作方向"模式
+- **第 29 章** — 对比另一个"生命/身体"语义场词根
+- **第 21 章** — 回顾 con- / com- 前缀的"共同"义
+
+**本章自测**：
+
+1. *expire* 和 *aspire* 都含 *spir*，但前缀不同——能说出各自的"气的方向"吗？
+2. *conspiracy* 字面义是什么？为什么"同呼吸"会变成"密谋"？
+3. 看到 *dispirited*，能拆出三个语素并说明各自贡献的意义吗？
+4. *perspire* 与 *transpire* 的前缀 per- 和 trans- 有何不同？各自的核心画面是什么？
+:::

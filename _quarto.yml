@@ -38,6 +38,20 @@ book:
         - chapters/ch22-therm.qmd
         - chapters/ch23-cap.qmd
         - chapters/ch24-photo.qmd
+        - chapters/ch25-ced.qmd
+        - chapters/ch26-auto.qmd
+        - chapters/ch27-struct.qmd
+        - chapters/ch28-phil.qmd
+        - chapters/ch29-form.qmd
+        - chapters/ch30-micro.qmd
+        - chapters/ch31-vert.qmd
+        - chapters/ch32-tele.qmd
+        - chapters/ch33-ject.qmd
+        - chapters/ch34-nom.qmd
+        - chapters/ch35-sta.qmd
+        - chapters/ch36-anthrop.qmd
+        - chapters/ch37-spir.qmd
+        - chapters/ch38-demo.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

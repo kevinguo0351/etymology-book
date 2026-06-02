@@ -1,0 +1,147 @@
+# ced / cess —— "行·走·让"
+
+::: {.root-banner}
+ced · cess = to go, to yield 行走；退让
+:::
+
+来源：拉丁语 *cedere*（行走、退让、让步），过去分词 *cessus*。动词原义兼含"向前走"与"让出位置"两个方向，具体走向由前缀决定。
+
+::: {.etymo}
+**词源故事：一个动词，走遍四面八方**
+
+古罗马法律语言里，*cedere* 是个极其实用的词——它既能说一支军队"向前推进"，也能说一位公民"让出土地"。同一个词根，两种截然相反的画面，这正是它高产的秘密：前缀负责指定方向，词根本身只管"走"这个动作。
+
+想象一条罗马大道上的人流：有人 *pro-cedit*（向前走 → proceed），有人 *re-cedit*（往后退 → recede），有人 *ex-cedit*（走出边界 → exceed），有人 *ac-cedit*（走近 → accede），有人 *se-cedit*（走离队伍 → secede）。整条路上，那个"走"的动作始终如一，只是方向不同。
+
+过去分词 *cessus* 同样多产：*pro-cessus*（向前走的过程 → process），*suc-cessus*（从下方接上来 → success），*con-cessus*（一起让步 → concession）。注意 *cess-* 形式往往出现在名词和形容词里，而 *-cede* 多见于动词词尾。掌握这一规律，词汇量可以翻倍。
+
+拉丁语 *cedere* 还直接进入法律英语，成为 *cede*（割让领土）。历史上无数条约里，战败国 *ceded* territory——把土地"走出去"交给对方，字面画面历历在目。
+:::
+
+**前缀决定方向，根永远是同一个"走"**
+
+| 前缀 | 原义 | 方向画面 | 代表词 |
+|------|------|----------|--------|
+| pro- | 向前 | 往前走 | proceed, process |
+| ex- | 向外/超出 | 走出界限 | exceed, excess |
+| ac- (=ad-) | 朝向 | 走近 | access, accede |
+| re- | 向后 | 往回退 | recede, recess, recession |
+| con- | 一起 | 一起退让 | concede, concession |
+| pre- | 在前 | 提前走在前面 | precede, predecessor |
+| suc- (=sub-) | 从下 | 从下方接上来 | succeed, success |
+| inter- | 之间 | 走入两方之间 | intercede |
+| se- | 分离 | 走离出去 | secede, secession |
+| ante- | 在前 | 走在更早之前 | antecedent |
+| de- | 向下/离去 | 走离人世 | decease |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [cede]{.headword} | v. | `ced`(走让) | 割让；让出（领土、权利） | [中频]{.freq .freq-2} |
+| [proceed]{.headword} | v. | `pro-`(向前)+`ceed`(走) | 继续前进；着手进行 | [高频]{.freq .freq-1} |
+| [process]{.headword} | n./v. | `pro-`(向前)+`cess`(走) | 过程；加工处理 | [高频]{.freq .freq-1} |
+| [procedure]{.headword} | n. | `pro-`(向前)+`ced`(走)+`-ure` | 程序；步骤 | [高频]{.freq .freq-1} |
+| [proceedings]{.headword} | n.pl. | `pro-`+`ceed`+`-ings` | （法律/会议）诉讼程序；记录 | [中频]{.freq .freq-2} |
+| [proceed]{.headword} | v. | `pro-`(向前)+`ceed`(走) | 继续进行 | [高频]{.freq .freq-1} |
+| [exceed]{.headword} | v. | `ex-`(超出)+`ceed`(走) | 超过；超出（限度） | [高频]{.freq .freq-1} |
+| [excess]{.headword} | n./adj. | `ex-`(超出)+`cess`(走) | 超额；过量 | [高频]{.freq .freq-1} |
+| [excessive]{.headword} | adj. | `ex-`+`cess`+`-ive` | 过分的；过多的 | [高频]{.freq .freq-1} |
+| [access]{.headword} | n./v. | `ac-`(朝向)+`cess`(走近) | 通道；获取；进入 | [高频]{.freq .freq-1} |
+| [accessible]{.headword} | adj. | `ac-`+`cess`+`-ible` | 可进入的；易获得的 | [高频]{.freq .freq-1} |
+| [accessory]{.headword} | n./adj. | `ac-`+`cess`+`-ory` | 附件；配饰；从犯 | [中频]{.freq .freq-2} |
+| [accede]{.headword} | v. | `ac-`(朝)+`cede`(走近) | 同意；就职；加入（条约） | [中频]{.freq .freq-2} |
+| [recede]{.headword} | v. | `re-`(往回)+`cede`(走) | 后退；减退；（发际线）往后 | [高频]{.freq .freq-1} |
+| [recess]{.headword} | n./v. | `re-`(往回)+`cess`(走) | 休会；壁龛；（学校）课间休息 | [高频]{.freq .freq-1} |
+| [recession]{.headword} | n. | `re-`+`cess`+`-ion` | 经济衰退；后退 | [高频]{.freq .freq-1} |
+| [recessional]{.headword} | n./adj. | `re-`+`cess`+`-ional` | 退场圣歌；后退的 | [低频]{.freq .freq-3} |
+| [recessive]{.headword} | adj. | `re-`+`cess`+`-ive` | （基因）隐性的；退行的 | [中频]{.freq .freq-2} |
+| [concede]{.headword} | v. | `con-`(一起)+`cede`(让步) | 承认；让步；（比赛）认输 | [高频]{.freq .freq-1} |
+| [concession]{.headword} | n. | `con-`+`cess`+`-ion` | 让步；特许经营权 | [高频]{.freq .freq-1} |
+| [concessionary]{.headword} | adj. | `con-`+`cess`+`-ionary` | 特许的；优惠的 | [低频]{.freq .freq-3} |
+| [precede]{.headword} | v. | `pre-`(在前)+`cede`(走) | 先于；在……之前 | [高频]{.freq .freq-1} |
+| [precedent]{.headword} | n. | `pre-`+`ced`+`-ent` | 先例；前例 | [高频]{.freq .freq-1} |
+| [unprecedented]{.headword} | adj. | `un-`+`pre-`+`ced`+`-ented` | 史无前例的 | [高频]{.freq .freq-1} |
+| [predecessor]{.headword} | n. | `pre-`+`de-`+`cess`+`-or` | 前任；先驱；前身 | [高频]{.freq .freq-1} |
+| [succeed]{.headword} | v. | `suc-`(从下接上)+`ceed`(走) | 成功；接任；继承 | [高频]{.freq .freq-1} |
+| [success]{.headword} | n. | `suc-`+`cess`(走到位) | 成功 | [高频]{.freq .freq-1} |
+| [successful]{.headword} | adj. | `suc-`+`cess`+`-ful` | 成功的 | [高频]{.freq .freq-1} |
+| [succession]{.headword} | n. | `suc-`+`cess`+`-ion` | 继承；连续；接班顺序 | [高频]{.freq .freq-1} |
+| [successive]{.headword} | adj. | `suc-`+`cess`+`-ive` | 连续的；依次的 | [高频]{.freq .freq-1} |
+| [successor]{.headword} | n. | `suc-`+`cess`+`-or` | 继任者；接班人 | [高频]{.freq .freq-1} |
+| [intercede]{.headword} | v. | `inter-`(之间)+`cede`(走入) | 调停；求情；斡旋 | [中频]{.freq .freq-2} |
+| [intercession]{.headword} | n. | `inter-`+`cess`+`-ion` | 调停；代祷 | [中频]{.freq .freq-2} |
+| [intercessor]{.headword} | n. | `inter-`+`cess`+`-or` | 调解人；代祷者 | [低频]{.freq .freq-3} |
+| [secede]{.headword} | v. | `se-`(分离)+`cede`(走开) | 脱离（组织、联盟） | [中频]{.freq .freq-2} |
+| [secession]{.headword} | n. | `se-`+`cess`+`-ion` | 脱离；分裂（尤指政治） | [中频]{.freq .freq-2} |
+| [secessionist]{.headword} | n. | `se-`+`cess`+`-ionist` | 分裂主义者 | [中频]{.freq .freq-2} |
+| [antecedent]{.headword} | n./adj. | `ante-`(在前)+`ced`(走)+`-ent` | 先行词；前因；先前的 | [中频]{.freq .freq-2} |
+| [decease]{.headword} | n./v. | `de-`(离去)+`cease`←`cess`(走) | 死亡；离世（正式用语） | [中频]{.freq .freq-2} |
+| [deceased]{.headword} | adj./n. | `de-`+`ceas`+`-ed` | 已故的；死者 | [中频]{.freq .freq-2} |
+| [incessant]{.headword} | adj. | `in-`(不)+`cess`(停走)+`-ant` | 不停的；持续不断的 | [高频]{.freq .freq-1} |
+| [cessation]{.headword} | n. | `cess`(停)+`-ation` | 停止；终止 | [中频]{.freq .freq-2} |
+| [cession]{.headword} | n. | `cess`(让走)+`-ion` | （正式）割让；转让 | [中频]{.freq .freq-2} |
+| [abscess]{.headword} | n. | `abs-`(离)+`cess`(走开) | 脓肿（积液"走离"正常组织） | [中频]{.freq .freq-2} |
+| [accession]{.headword} | n. | `ac-`(朝)+`cess`+`-ion` | 就任；新增馆藏；加入条约 | [中频]{.freq .freq-2} |
+| [procession]{.headword} | n. | `pro-`(向前)+`cess`+`-ion` | 队伍行进；游行 | [高频]{.freq .freq-1} |
+| [processional]{.headword} | adj./n. | `pro-`+`cess`+`-ional` | 游行的；进场圣歌 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The CEO **preceded** her remarks with a brief apology, then **proceeded** to outline the restructuring plan.（先走一步道歉，再向前推进讲计划——两个词根方向一目了然）
+- After three **successive** quarters of contraction, economists officially declared a **recession**.（连续三个季度"跟着退"，经济正式"向后走"）
+- The southern states voted to **secede**, triggering a **secession** crisis that would define the century.（"走离"联邦，分裂危机由此而起）
+- She **conceded** the argument but refused to make any formal **concession** on pricing.（口头承认让步，但实质让步一分不给——动词与名词的语境对比）
+- His **receding** hairline and **unprecedented** calm suggested he had heard far worse news before.（发际线往后退，心态史无前例地稳）
+- The charity **interceded** on behalf of refugees, urging the government to **accede** to their asylum requests.（走入两方之间调停，请求政府走近、同意申请）
+:::
+
+::: {.mnemonic}
+**助记**：画一条横轴，中间写 **CEDE**（走）。左边贴前缀方向箭头：
+
+- **pro→** 向前走 = proceed  
+- **ex→** 走出去 = exceed  
+- **←re** 往回走 = recede  
+- **↓suc** 从下接上 = succeed  
+- **↔inter** 走入中间 = intercede  
+- **↗ac** 走近 = access  
+- **✂se** 走离 = secede  
+
+记住：**前缀换方向，CEDE 永不变**。遇到陌生词，先扒前缀定方向，再确认"走/让"的意思，释义水到渠成。
+:::
+
+::: {.trap}
+**陷阱一：cease 与 cess 是兄弟，但不完全重叠**
+*cease*（停止）确实与 *cessare*（频繁地走开、停歇）同源，*incessant*（不停的）、*cessation*（停止）中的 *cess-* 也含"停走"义。然而 *cease* 在现代英语中已发展为独立词，不能用"走"的框架机械推导所有含 *cease* 的词——请把 *cessation* 视为专项记忆，不要泛化。
+
+**陷阱二：predecessor 里藏着两个前缀**
+*predecessor* = *pre-*（在前）+ *de-*（离去）+ *cess*（走）+ *-or*（人）。字面是"提前走离的那个人"，即前任。不要把 *de-* 误解为"向下"（如 *decrease* 中的用法），此处 *de-* 是"离去"义。
+
+**陷阱三：abscess 看起来很陌生，其实可以推导**
+*ab-/abs-*（离开）+ *cess*（走）= 某种东西"走离"正常组织、积聚成脓。这是"高产词根帮助推断"的合法案例：知道词根，未见过这个词也能猜出大意。但类似的医学词根组合，猜到大概方向即可，具体临床定义仍需查证。
+:::
+
+::: {.review-today}
+**今日复习排程（第 25 章）**
+
+完成本章后，请按以下顺序回看：
+
+| 章次 | 词根 | 与本章的关联 |
+|------|------|-------------|
+| 第 24 章 | 上一章词根 | 巩固相邻章节，防遗忘 |
+| 第 23 章 | 上一章词根 | 同上 |
+| 第 21 章 | 词根 | 间隔复习，强化长期记忆 |
+| 第 17 章 | 词根 | 跨度加大，测试提取强度 |
+| 第 9 章 | 词根 | 最远间隔，巩固深层记忆 |
+
+**本章自测提示**（遮住释义列，仅看拆解）：
+
+1. `un-` + `pre-` + `ced` + `-ented` → ？（史无前例的）
+2. `suc-` + `cess` + `-ion` → ？（继承；连续）
+3. `inter-` + `cede` → ？（调停；走入两方之间）
+4. `se-` + `cede` → ？（脱离；分裂）
+5. `ante-` + `ced` + `-ent` → ？（先行词；前因）
+
+如果五题全部秒答，本章可标记为"掌握"；若有迟疑，重读前缀方向表。
+:::

@@ -1,0 +1,125 @@
+# nom / nomy —— "法·序·管理"
+
+::: {.root-banner}
+nom · nomy = law, order, management 法则、秩序、管理
+:::
+
+来源：希腊语 **nomos**（νόμος），本义"分配的份额、习俗、法则"，源自动词 *nemein*（分配、管理），与 *number*、*nemesis* 同出一脉。
+
+::: {.etymo}
+**词源故事：牧场上的分配者**
+
+古希腊农村社会里，土地不是随意使用的——每家每户都有被"分配"到的一块牧场，叫做 *nomos*。这个词的根 *nemein* 的第一个意思就是"分配"：把草场分给各家，把份额分给各人。久而久之，*nomos* 从"分配来的地块"演变成"分配的规则"，再演变成"管理秩序的法则"。
+
+希腊人是擅长造词的民族。他们把 *-nomos* 当作一块积木，与描述各种"领域"的词根拼在一起，造出一套意思完整的"管理学"词族：管理星星的是 *astronomia*，管理家园的是 *oikonomia*，管理身体的是……这套造词法一直活到今天，英语里凡以 *-nomy* 结尾的词，几乎都是"某领域的系统知识／管理法则"。
+
+值得注意的是，*nomos*（法则）与另一个希腊词 *logos*（学问、道理）是希腊学术造词的两大支柱。遇到 *-nomy* 后缀，问自己："这是哪个领域的分配/管理法则？"答案就是该词的意思。
+:::
+
+**搭档根表：** *-nomy* 几乎从不独立出现，总是与"领域根"搭档。熟记下表，遇到新词便能一眼拆解。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|---------|
+| auto- | 自己 | autonomy（自我管理→自治） |
+| eco- / oiko- | 家、栖息地 | economy（家政管理→经济） |
+| astro- | 星星 | astronomy（星的法则→天文学） |
+| taxo- / tax- | 排列、分类 | taxonomy（分类法则→分类学） |
+| agro- | 田地、农业 | agronomy（农田管理→农学） |
+| gastro- | 胃、饮食 | gastronomy（饮食法则→美食学） |
+| ergo- | 工作、能量 | ergonomics（工作管理→人机工程学） |
+| metro- | 测量、节拍 | metronome（节拍管理→节拍器） |
+| anti- | 反对 | antinomy（法则相悖→二律背反） |
+| bio- | 生命 | bionomy（生命法则→生态学旧称） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [autonomy]{.headword} | n. | `auto-`(自己)+`-nomy`(管理) | 自治；自主权 | [高频]{.freq .freq-1} |
+| [autonomous]{.headword} | adj. | `auto-`(自己)+`-nom-`(管理)+`-ous` | 自治的；独立运作的 | [高频]{.freq .freq-1} |
+| [autonomously]{.headword} | adv. | 同上+`-ly` | 自主地 | [中频]{.freq .freq-2} |
+| [economy]{.headword} | n. | `eco-`(家)+`-nomy`(管理) | 经济；节约 | [高频]{.freq .freq-1} |
+| [economics]{.headword} | n. | `eco-`+`-nom-`+`-ics`(学科) | 经济学 | [高频]{.freq .freq-1} |
+| [economic]{.headword} | adj. | `eco-`+`-nom-`+`-ic` | 经济的；经济上的 | [高频]{.freq .freq-1} |
+| [economical]{.headword} | adj. | `eco-`+`-nom-`+`-ical` | 节省的；合算的 | [高频]{.freq .freq-1} |
+| [economically]{.headword} | adv. | 同上+`-ly` | 经济地；节省地 | [中频]{.freq .freq-2} |
+| [economist]{.headword} | n. | `eco-`+`-nom-`+`-ist`(人) | 经济学家 | [高频]{.freq .freq-1} |
+| [economize]{.headword} | v. | `eco-`+`-nom-`+`-ize`(动词化) | 节约；精打细算 | [中频]{.freq .freq-2} |
+| [macroeconomics]{.headword} | n. | `macro-`(大)+`eco-`+`-nomics` | 宏观经济学 | [高频]{.freq .freq-1} |
+| [microeconomics]{.headword} | n. | `micro-`(小)+`eco-`+`-nomics` | 微观经济学 | [高频]{.freq .freq-1} |
+| [socioeconomic]{.headword} | adj. | `socio-`(社会)+`eco-`+`-nomic` | 社会经济的 | [中频]{.freq .freq-2} |
+| [astronomy]{.headword} | n. | `astro-`(星)+`-nomy`(法则) | 天文学 | [高频]{.freq .freq-1} |
+| [astronomer]{.headword} | n. | `astro-`+`-nom-`+`-er`(人) | 天文学家 | [高频]{.freq .freq-1} |
+| [astronomical]{.headword} | adj. | `astro-`+`-nom-`+`-ical` | 天文学的；天文数字般的 | [高频]{.freq .freq-1} |
+| [astronomically]{.headword} | adv. | 同上+`-ly` | 天文般地（形容极大） | [中频]{.freq .freq-2} |
+| [taxonomy]{.headword} | n. | `taxo-`(排列)+`-nomy`(法则) | 分类学；分类体系 | [中频]{.freq .freq-2} |
+| [taxonomic]{.headword} | adj. | `taxo-`+`-nom-`+`-ic` | 分类学的 | [中频]{.freq .freq-2} |
+| [taxonomist]{.headword} | n. | `taxo-`+`-nom-`+`-ist` | 分类学家 | [低频]{.freq .freq-3} |
+| [agronomy]{.headword} | n. | `agro-`(田地)+`-nomy`(管理) | 农学；农艺学 | [中频]{.freq .freq-2} |
+| [agronomist]{.headword} | n. | `agro-`+`-nom-`+`-ist` | 农学家 | [中频]{.freq .freq-2} |
+| [agronomic]{.headword} | adj. | `agro-`+`-nom-`+`-ic` | 农学的 | [低频]{.freq .freq-3} |
+| [gastronomy]{.headword} | n. | `gastro-`(胃)+`-nomy`(法则) | 美食学；烹饪艺术 | [中频]{.freq .freq-2} |
+| [gastronome]{.headword} | n. | `gastro-`+`-nome`(遵循法则者) | 美食家；饕餮客 | [中频]{.freq .freq-2} |
+| [gastronomic]{.headword} | adj. | `gastro-`+`-nom-`+`-ic` | 美食学的；烹饪的 | [中频]{.freq .freq-2} |
+| [ergonomics]{.headword} | n. | `ergo-`(工作)+`-nomics`(管理学) | 人机工程学；工效学 | [高频]{.freq .freq-1} |
+| [ergonomic]{.headword} | adj. | `ergo-`+`-nom-`+`-ic` | 符合人机工程的 | [高频]{.freq .freq-1} |
+| [ergonomically]{.headword} | adv. | 同上+`-ly` | 从人机工程角度地 | [中频]{.freq .freq-2} |
+| [ergonomist]{.headword} | n. | `ergo-`+`-nom-`+`-ist` | 人机工程专家 | [低频]{.freq .freq-3} |
+| [metronome]{.headword} | n. | `metro-`(测量/节拍)+`-nome`(法则) | 节拍器 | [中频]{.freq .freq-2} |
+| [metronomic]{.headword} | adj. | `metro-`+`-nom-`+`-ic` | 节拍器般规律的 | [中频]{.freq .freq-2} |
+| [antinomy]{.headword} | n. | `anti-`(反对)+`-nomy`(法则) | 二律背反；法则相悖 | [低频]{.freq .freq-3} |
+| [autonomic]{.headword} | adj. | `auto-`+`-nom-`+`-ic` | 自主神经的（医学）；自律的 | [中频]{.freq .freq-2} |
+| [heteronomy]{.headword} | n. | `hetero-`(他者)+`-nomy`(管理) | 他律；受外部法则支配 | [低频]{.freq .freq-3} |
+| [hegemony]{.headword} | n. | 希腊语 *hēgemonia*（领导权）；词根不同但常见误关联 | 霸权；领导地位 | [高频]{.freq .freq-1} |
+| [nemesis]{.headword} | n. | 希腊语 *nemein*(分配)+`-sis`；命运的公正分配 | 天谴；宿敌；报应 | [中频]{.freq .freq-2} |
+| [agronom]{.headword} | n. | `agro-`+`-nom`(管理者) | 农学家（= agronomist，较正式） | [低频]{.freq .freq-3} |
+| [anomie]{.headword} | n. | 法语借词，源自希腊 `a-`(无)+`nomos`(法则) | 社会失范；无规范状态 | [中频]{.freq .freq-2} |
+| [anomic]{.headword} | adj. | `a-`(无)+`-nom-`+`-ic` | 失范的；无准则的 | [低频]{.freq .freq-3} |
+| [numismatic]{.headword} | n./adj. | 希腊 *nomisma*(流通的货币，源自 *nomos*) | 钱币学的；钱币学 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The region was granted **autonomy** to govern its own affairs without interference from the capital.（自治权——自己管理自己的法则）
+- Rising energy costs have forced households to become more **economical** with their electricity use.（economical 强调"节省"，比 economic 更生活化）
+- The cost of replacing all the servers was described as **astronomical** — the figure ran into hundreds of millions.（astronomical 已脱离天文学本义，夸张形容"天文数字"）
+- Carl Linnaeus developed the **taxonomic** system that scientists still use today to classify every living species.（分类学的秩序——taxonomy 是生物学基础框架）
+- The chair's **ergonomic** design reduces strain on the lower back during long hours at the desk.（ergo- 工作 + -nomic 管理，工作中如何管理身体）
+- In Kant's ethics, the will is **autonomous** when it legislates moral law for itself rather than obeying external commands.（康德的自律概念，autonomous 最哲学化的用法）
+:::
+
+::: {.mnemonic}
+**助记**：把 *-nomy* 想成一把**管理钥匙**🔑。钥匙插进不同的"领域锁"：*astro-*（星空）、*eco-*（家园）、*taxo-*（分类柜）、*agro-*（田野）、*gastro-*（厨房）……每把锁开一扇学问的门。记住"领域根 + nomy = 那个领域的系统管理法则"，遇到新词先拆领域根，意思自然浮现。
+
+还有一个具身感记忆：想象古希腊牧民手持测量绳，把草场**分配**给各家——这根绳子就是 *nomos*，既是分配工具，也是秩序象征。
+:::
+
+::: {.trap}
+**陷阱一：economic vs. economical**
+*economic* 意为"与经济相关的"（economic policy 经济政策），*economical* 意为"节省的、不浪费的"（an economical car 省油的车）。两词外形相近，含义有别，写学术文章时尤其要区分。
+
+**陷阱二：hegemony 不来自 nomos**
+*hegemony*（霸权）的词根是希腊语 *hēgemon*（领导者），与 *nomos* 无关。虽然两词都涉及"统治"语义，但拼写和词根完全不同，不能用 *-nomy* 框架推断其意思。**这是有趣的历史旁注，但不是可推断的构词规律。**
+
+**陷阱三：astronomy vs. astrology**
+*astronomy*（-nomy，法则/科学）是研究星体运动的自然科学；*astrology*（-logy，学问/学说）是占星术，属玄学。词根后缀一字之差，科学地位天壤之别。
+:::
+
+::: {.review-today}
+**今日复习排程**
+
+本章（第 34 章）新词以"拼搭型词根"为核心，建议搭配以下已学章节一起复习，强化"词根组合"思维：
+
+- **第 33 章**：回看上一章词根，检验词根连接是否熟练
+- **第 32 章**：复习近邻章节，巩固本阶段词根体系
+- **第 30 章**：复习拉丁前缀方向系统，与本章"领域根+管理根"对比——拉丁根靠前缀变方向，希腊根靠搭档根变领域
+- **第 26 章**：复习 *-logy*（学问）根，与本章 *-nomy*（管理法则）根对比：同为学科后缀，语义侧重不同
+- **第 18 章**：复习早期词根章节，回顾词根组合的基础逻辑
+
+**本章自测提示：**
+1. *auto-* + *-nomy* = ？（提示：自己管理自己）
+2. 哪个词根与 *-nomy* 拼出"天文学"？
+3. *economical* 与 *economic* 有何区别？各造一句。
+4. 不查词典，猜测 *ethnon-omy*（ethno- = 民族）的意思。
+5. *anomie* 的 *a-* 前缀什么含义？这个词描述什么社会现象？
+:::

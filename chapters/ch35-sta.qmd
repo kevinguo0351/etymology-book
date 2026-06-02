@@ -1,0 +1,154 @@
+# sta / stat / sist —— "站·立·稳"
+
+::: {.root-banner}
+`sta` · `stat` · `sist` = to stand, to make stand 站立、使站稳
+:::
+
+来源：拉丁语 **stāre**（站立，不及物）及其强化形 **sistere**（使站立、停住），均源自原始印欧语词根 \*steh₂-（站立）。
+
+::: {.etymo}
+**词源故事：一个姿势撑起半个英语词汇**
+
+想象一根柱子竖立在广场正中。拉丁语 *stāre* 就是这个动作的精华：双脚落地，身体直立，不移动、不倒塌。从这一个姿势，罗马人造出了描述地位、位置、状态、建筑、法规的整个词族。英语通过古法语大规模借入这批词，又直接从拉丁语借入一批学术词，最终让 sta/stat/sist 成为英语中最高产的词根之一。
+
+*sistere* 是 *stāre* 的强化重叠形（带有"使停下""使就位"的及物含义），专门用在加前缀的合成词里：*resistere*（向回站 → 抵抗）、*insistere*（站上去 → 坚持）、*consistere*（一起站 → 组成、一致）。你会发现，凡是 -sist 结尾的词，骨子里都藏着这个"站"的动作。
+
+更妙的是：同一个词根还向英语贡献了 **stage**（站台）、**stall**（畜棚，让牲口"站"的地方）、**standard**（旗帜，竖立的东西）、甚至 **stay**（留下，保持站立状态）——这些词来自日耳曼语系，但追溯到原始印欧语，与 *stāre* 同宗同源。英语的"站"字宇宙，远比你想象的庞大。
+:::
+
+**前缀决定方向，根永远是同一个"站"**
+
+学 sta/stat/sist 词族，最省力的方法是把前缀当路标：前缀告诉你"往哪个方向站"，根告诉你"这个动作本质是站"。
+
+| 前缀 | 方向/含义 | 代表词 |
+|------|-----------|--------|
+| re- | 向回站、顶住 | resist（抵抗） |
+| in- | 站上去、往里站 | insist（坚持）、institute（建立） |
+| con- / com- | 一起站 | consist（组成）、constant（恒定） |
+| per- | 贯穿着站、一直站 | persist（坚持不懈） |
+| as- (ad-) | 朝着站过去 | assist（协助） |
+| ex- | 站出来、立于其中 | exist（存在） |
+| dis- | 分开站 | distance（距离）、distinct（有别） |
+| sub- | 站在下面 | substance（实质）、substitute（替代） |
+| circum- | 围着站 | circumstance（情形，周围站立的事物） |
+| ob- | 站在前面、挡住 | obstacle（障碍） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [stable]{.headword} | adj./n. | `sta`(站)+`-ble`(能…的) | 稳定的；马厩 | [高频]{.freq .freq-1} |
+| [status]{.headword} | n. | `stat`(站)+`-us`(名词尾) | 地位，状态 | [高频]{.freq .freq-1} |
+| [statue]{.headword} | n. | `stat`(站立)+`-ue` | 雕像（立着的形象） | [高频]{.freq .freq-1} |
+| [station]{.headword} | n. | `stat`(站)+`-ion` | 站，位置，职位 | [高频]{.freq .freq-1} |
+| [stationary]{.headword} | adj. | `station`(站)+`-ary`(形容词尾) | 静止的，不动的 | [高频]{.freq .freq-1} |
+| [static]{.headword} | adj./n. | `stat`(站)+`-ic` | 静态的；静电 | [高频]{.freq .freq-1} |
+| [statistics]{.headword} | n. | `stat`(国家/状态)+`-istics`(学科尾) | 统计学，统计数据 | [高频]{.freq .freq-1} |
+| [state]{.headword} | n./v. | `stat`(站立的状态) | 状态；国家；陈述 | [高频]{.freq .freq-1} |
+| [estate]{.headword} | n. | `e(x)`(出)+`state`(站立的状态) | 地产，遗产，身份 | [高频]{.freq .freq-1} |
+| [establish]{.headword} | v. | `e(x)`+`stab`(站稳)+`-lish` | 建立，确立 | [高频]{.freq .freq-1} |
+| [resist]{.headword} | v. | `re-`(回)+`sist`(站) | 抵抗，抗拒 | [高频]{.freq .freq-1} |
+| [insist]{.headword} | v. | `in-`(上/强调)+`sist`(站) | 坚持，坚决要求 | [高频]{.freq .freq-1} |
+| [consist]{.headword} | v. | `con-`(一起)+`sist`(站) | 由…组成，在于 | [高频]{.freq .freq-1} |
+| [persist]{.headword} | v. | `per-`(贯穿)+`sist`(站) | 坚持，持续存在 | [高频]{.freq .freq-1} |
+| [assist]{.headword} | v./n. | `as-(ad-)`(朝)+`sist`(站) | 协助，帮助 | [高频]{.freq .freq-1} |
+| [exist]{.headword} | v. | `ex-`(出)+`sist`(站) | 存在 | [高频]{.freq .freq-1} |
+| [constant]{.headword} | adj./n. | `con-`(一起)+`st`(站)+`-ant` | 恒定的；常数 | [高频]{.freq .freq-1} |
+| [distance]{.headword} | n. | `dis-`(分开)+`st`(站)+`-ance` | 距离 | [高频]{.freq .freq-1} |
+| [instance]{.headword} | n. | `in-`(上)+`st`(站)+`-ance` | 例子，实例；坚持（古义） | [高频]{.freq .freq-1} |
+| [substance]{.headword} | n. | `sub-`(下)+`st`(站)+`-ance` | 物质，实质，本质 | [高频]{.freq .freq-1} |
+| [circumstance]{.headword} | n. | `circum-`(围绕)+`st`(站)+`-ance` | 情形，情况，环境 | [高频]{.freq .freq-1} |
+| [obstacle]{.headword} | n. | `ob-`(前面)+`st`(站)+`-acle` | 障碍，阻碍 | [高频]{.freq .freq-1} |
+| [constitute]{.headword} | v. | `con-`(一起)+`stitute`(站立) | 构成，组成；设立 | [高频]{.freq .freq-1} |
+| [institute]{.headword} | v./n. | `in-`(进入)+`stitute`(站立) | 建立，制定；学院 | [高频]{.freq .freq-1} |
+| [stamina]{.headword} | n. | `stam`(站/支撑)+`-ina`(复数) | 耐力，持久力 | [高频]{.freq .freq-1} |
+| [stance]{.headword} | n. | `st`(站)+`-ance` | 姿态，立场 | [高频]{.freq .freq-1} |
+| [standard]{.headword} | n./adj. | `stand`(站立)+`-ard` | 标准；旗帜；标准的 | [高频]{.freq .freq-1} |
+| [instant]{.headword} | adj./n. | `in-`(上)+`st`(站)+`-ant` | 即时的；瞬间 | [高频]{.freq .freq-1} |
+| [distant]{.headword} | adj. | `dis-`(分开)+`st`(站)+`-ant` | 遥远的，疏远的 | [高频]{.freq .freq-1} |
+| [substantial]{.headword} | adj. | `sub`(下)+`st`(站)+`-antial` | 实质性的，大量的 | [高频]{.freq .freq-1} |
+| [substitute]{.headword} | v./n. | `sub-`(下/代替)+`stitute`(站) | 替代；代替品 | [高频]{.freq .freq-1} |
+| [constitution]{.headword} | n. | `con-`(一起)+`stitu`(站)+`-tion` | 宪法；构成；体质 | [高频]{.freq .freq-1} |
+| [institution]{.headword} | n. | `in-`+`stitu`(站)+`-tion` | 机构，制度，习俗 | [高频]{.freq .freq-1} |
+| [prostitute]{.headword} | n./v. | `pro-`(前面)+`stitute`(站) | 妓女；滥用（才能） | [中频]{.freq .freq-2} |
+| [destitute]{.headword} | adj. | `de-`(去除)+`stitute`(站) | 一无所有的，贫困的 | [中频]{.freq .freq-2} |
+| [restitution]{.headword} | n. | `re-`(回)+`stitut`(站)+`-ion` | 归还，赔偿，恢复 | [中频]{.freq .freq-2} |
+| [resistance]{.headword} | n. | `re-`(回)+`sist`(站)+`-ance` | 抵抗，阻力 | [高频]{.freq .freq-1} |
+| [persistence]{.headword} | n. | `per-`(贯穿)+`sist`(站)+`-ence` | 坚持，执着 | [高频]{.freq .freq-1} |
+| [existence]{.headword} | n. | `ex-`(出)+`sist`(站)+`-ence` | 存在，生存 | [高频]{.freq .freq-1} |
+| [consistency]{.headword} | n. | `con-`(一起)+`sist`(站)+`-ency` | 一致性，稠度 | [高频]{.freq .freq-1} |
+| [assistant]{.headword} | n. | `as-`(朝)+`sist`(站)+`-ant` | 助手，助理 | [高频]{.freq .freq-1} |
+| [stature]{.headword} | n. | `stat`(站)+`-ure` | 身高；声望，地位 | [中频]{.freq .freq-2} |
+| [statute]{.headword} | n. | `stat`(站定)+`-ute` | 成文法，法规 | [中频]{.freq .freq-2} |
+| [static]{.headword} | adj. | `stat`(站不动)+`-ic` | 静止的，停滞的 | [高频]{.freq .freq-1} |
+| [circumstantial]{.headword} | adj. | `circum`(围绕)+`st`(站)+`-antial` | 情节的；间接的（证据） | [中频]{.freq .freq-2} |
+| [reinstate]{.headword} | v. | `re-`(回)+`in-`(进)+`state`(站) | 恢复原职，复原 | [中频]{.freq .freq-2} |
+| [ecstasy]{.headword} | n. | `ec-(ex-)`(出)+`sta`(站)+`-sy` | 狂喜，出神（站到自身之外） | [中频]{.freq .freq-2} |
+| [apostasy]{.headword} | n. | `apo-`(离开)+`sta`(站)+`-sy` | 叛教，背弃信仰 | [低频]{.freq .freq-3} |
+| [interstice]{.headword} | n. | `inter-`(之间)+`stice`(站) | 间隙，裂缝 | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The government struggled to maintain a **stable** economy amid rising inflation.（*stable* 来自"能站稳的"——经济的立足点）
+- She **insisted** that the contract be reviewed before signing.（*insist* = 站上去不让步，坚持到底）
+- The ancient sculpture **consists** of three interlocking bronze figures.（*consist* = 各部分一起站在那里，构成整体）
+- Despite repeated failures, he **persisted** in his research for a decade.（*persist* = 贯穿时间地站着，一直不倒）
+- The new regulation **constitutes** a significant departure from previous policy.（*constitute* = 把各元素一起站立起来，构成某件事物）
+- Lack of **substance** in his argument made it easy to refute.（*substance* = 站在下面支撑论点的东西，即实质）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想成一个人在广场上"站"的姿势——
+
+- **re**-sist：身体向**后**倾，顶住冲过来的力 → 抵抗
+- **in**-sist：脚**踩上去**不动 → 坚持
+- **con**-sist：好几个人**并排站**在一起 → 组成
+- **per**-sist：**穿越**漫长时间一直站着 → 持续坚持
+- **as**-sist：**走近**别人身旁站 → 协助
+- **ex**-ist：**站出来**让人看见 → 存在
+- **dis**-tance：两人**分开站**，中间有空隙 → 距离
+- **sub**-stance：站在**下面**默默支撑的东西 → 实质/物质
+
+只要记住"根 = 站"，前缀就是方向牌，整张词汇地图自己展开。
+:::
+
+::: {.trap}
+**陷阱一：stationary vs. stationery**
+
+*stationary*（形容词）= 静止的，不动的（来自 *station* + *-ary*）；*stationery*（名词）= 文具（来自历史上文具商在固定摊位 *station* 经营的典故，拼写以 *-ery* 结尾）。两词发音相同，但词性和意思完全不同。可以用"文具用 **e**，像 **e**nvelope（信封）"来区分拼写。
+
+**陷阱二：instance 和"坚持"**
+
+现代英语 *instance* 主要意思是"例子、实例"，但其词根 *in* + *stare*（站上去）在拉丁语里有"紧迫、坚持"之意。拉丁语 *instantia* 传入法语后语义转移，指"具体的例子"。今天不能用 *instance* 表达"坚持"，这只是有趣的历史趣闻，**不可用来推断现代词义**。
+
+**陷阱三：ecstasy 的词根是"站"？**
+
+是的，*ecstasy* 来自希腊语 *ekstasis*（*ek-* 出 + *stasis* 站立），字面意思是"站到自身之外"，即精神出窍的狂喜状态。这是词源趣闻，**不是现代英语推断规则**——见到 *ecstasy* 直接认"狂喜"即可，不必从词根倒推。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 35 章）学完后，请回看以下章节，巩固相关词根，加深对比记忆：
+
+- **第 34 章**：上一章词根，趁热对比
+- **第 33 章**：复习加深
+- **第 31 章**：对比相近词根，厘清差异
+- **第 27 章**：中期词根回顾
+- **第 19 章**：早期高频词根，检验长期记忆
+
+**本章自测提示**：
+
+1. *substance* 的前缀是什么？它如何帮助你记住这个词的意思？
+2. 不看表格，说出 *persist*、*resist*、*insist*、*consist* 四个词前缀各自的"方向"。
+3. *stationary* 和 *stationery* 如何区分拼写？
+4. *exist* 的字面意思是什么？这与"存在"的哲学意味有何呼应？
+5. 用一句英文造句，同时体现 *stable* 和 *constant* 的区别用法。
+:::

@@ -1,0 +1,125 @@
+# anthrop —— "人·人类"
+
+::: {.root-banner}
+`anthrop` = *human being* 人，人类
+:::
+
+来源：希腊语 **anthrōpos**（ἄνθρωπος），本义"人类，人这种存在"，与 **anēr**（男人）同族，但 anthrōpos 指的是不分男女的人类整体，相当于英文的 *human being*。
+
+::: {.etymo}
+**词源故事：仰望星辰的动物**
+
+古希腊哲学家解析 *anthrōpos* 时，留下一个颇有诗意的民间语源：据说这个词拆开来是"仰望（*ana*）看（*thrōskein*）者"——一种抬头注视星空、自我反思的生物。这个解释未必是真正的词源，但它恰好捕捉了希腊人眼中"人"的本质：会思考、会追问、会抬头凝视宇宙的动物。
+
+这个根在希腊语里极为活跃。哲学家普罗泰戈拉说"人是万物的尺度（*anthrōpos metron pantōn*）"，直接催生了 **anthropocentric**（以人类为中心的）这个词的精神内核。进入拉丁语世界后，*anthrop-* 随着文艺复兴时期对古典学问的热情大举进入英语，构成了一整套研究"人"的学科词汇。
+
+希腊根的特别之处在于它喜欢**拼搭**：几乎任何一个表示学科、情感、形态的希腊根，只要拼上 *anthrop-*，就能造出一个涉及人类的新词。下面那张搭档根表，就是这套拼搭游戏的成果单。
+:::
+
+### anthrop 的搭档根
+
+| 搭档根 | 含义 | 代表组合 |
+|--------|------|----------|
+| `-logy` | 学，研究 | **anthropology** 人类学 |
+| `phil-` | 爱 | **philanthropy** 博爱，慈善 |
+| `mis-`（希腊 *misos*） | 恨 | **misanthrope** 厌世者 |
+| `morph-` | 形，形状 | **anthropomorphic** 拟人化的 |
+| `-oid` | 似……的 | **anthropoid** 类人猿的 |
+| `-centric` | 以……为中心 | **anthropocentric** 人类中心的 |
+| `gen-` | 产生，起源 | **anthropogenic** 人为产生的 |
+| `-cene`（希腊 *kainos*，新的） | 新时代 | **Anthropocene** 人类世 |
+| `zo-`（希腊 *zōon*，动物） | 动物 | **anthrozoology** 人与动物关系学 |
+| `geo-` | 地，地球 | **anthropogeography** 人文地理学 |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [anthropology]{.headword} | n. | `anthrop`(人)+`-ology`(学) | 人类学 | [高频]{.freq .freq-1} |
+| [anthropologist]{.headword} | n. | `anthrop`(人)+`-ologist`(学者) | 人类学家 | [高频]{.freq .freq-1} |
+| [anthropological]{.headword} | adj. | `anthropolog-`+`-ical` | 人类学的 | [高频]{.freq .freq-1} |
+| [philanthropy]{.headword} | n. | `phil-`(爱)+`anthrop`(人)+`-y` | 博爱；慈善事业 | [高频]{.freq .freq-1} |
+| [philanthropist]{.headword} | n. | `phil-`(爱)+`anthrop`(人)+`-ist` | 慈善家 | [高频]{.freq .freq-1} |
+| [philanthropic]{.headword} | adj. | `phil-`(爱)+`anthrop`(人)+`-ic` | 慈善的，博爱的 | [高频]{.freq .freq-1} |
+| [misanthrope]{.headword} | n. | `mis-`(恨)+`anthrop`(人)+`-e` | 厌世者；愤世嫉俗者 | [中频]{.freq .freq-2} |
+| [misanthropy]{.headword} | n. | `mis-`(恨)+`anthrop`(人)+`-y` | 厌人情绪；厌世 | [中频]{.freq .freq-2} |
+| [misanthropic]{.headword} | adj. | `mis-`(恨)+`anthrop`(人)+`-ic` | 厌世的，愤世嫉俗的 | [中频]{.freq .freq-2} |
+| [anthropomorphic]{.headword} | adj. | `anthrop`(人)+`morph`(形)+`-ic` | 拟人化的；赋予人形的 | [中频]{.freq .freq-2} |
+| [anthropomorphism]{.headword} | n. | `anthrop`(人)+`morph`(形)+`-ism` | 拟人论；人形崇拜 | [中频]{.freq .freq-2} |
+| [anthropomorphize]{.headword} | v. | `anthrop`(人)+`morph`(形)+`-ize` | 将……拟人化 | [中频]{.freq .freq-2} |
+| [anthropoid]{.headword} | adj./n. | `anthrop`(人)+`-oid`(似) | 类人猿的；类人猿 | [中频]{.freq .freq-2} |
+| [anthropocentric]{.headword} | adj. | `anthrop`(人)+`-centric`(中心) | 以人类为中心的 | [中频]{.freq .freq-2} |
+| [anthropocentrism]{.headword} | n. | `anthrop`(人)+`-centrism` | 人类中心主义 | [中频]{.freq .freq-2} |
+| [anthropogenic]{.headword} | adj. | `anthrop`(人)+`gen`(产生)+`-ic` | 人为的；由人类活动引起的 | [高频]{.freq .freq-1} |
+| [Anthropocene]{.headword} | n./adj. | `anthrop`(人)+`-cene`(新时代) | 人类世（地质学时代概念） | [高频]{.freq .freq-1} |
+| [anthropometry]{.headword} | n. | `anthrop`(人)+`metr`(量)+`-y` | 人体测量学 | [低频]{.freq .freq-3} |
+| [anthropometric]{.headword} | adj. | `anthrop`(人)+`metr`(量)+`-ic` | 人体测量的 | [低频]{.freq .freq-3} |
+| [anthropogenesis]{.headword} | n. | `anthrop`(人)+`genesis`(起源) | 人类起源 | [低频]{.freq .freq-3} |
+| [anthroposophy]{.headword} | n. | `anthrop`(人)+`soph`(智慧)+`-y` | 人智学（鲁道夫·斯坦纳创立的思想体系） | [低频]{.freq .freq-3} |
+| [anthropophagous]{.headword} | adj. | `anthrop`(人)+`phag`(吃)+`-ous` | 食人的 | [低频]{.freq .freq-3} |
+| [anthropophagy]{.headword} | n. | `anthrop`(人)+`phagy`(食) | 食人（行为） | [低频]{.freq .freq-3} |
+| [anthrozoology]{.headword} | n. | `anthr(op)`(人)+`zo`(动物)+`-ology` | 人与动物关系学 | [低频]{.freq .freq-3} |
+| [anthropogeography]{.headword} | n. | `anthrop`(人)+`geo`(地)+`-graphy` | 人文地理学 | [低频]{.freq .freq-3} |
+| [paleoanthropology]{.headword} | n. | `paleo-`(古)+`anthrop`(人)+`-ology` | 古人类学 | [中频]{.freq .freq-2} |
+| [paleoanthropologist]{.headword} | n. | `paleo-`(古)+`anthrop`(人)+`-ologist` | 古人类学家 | [中频]{.freq .freq-2} |
+| [bioanthropology]{.headword} | n. | `bio-`(生命)+`anthrop`(人)+`-ology` | 生物人类学 | [低频]{.freq .freq-3} |
+| [cultural anthropology]{.headword} | n. | `cultural`(文化)+`anthrop`(人)+`-ology` | 文化人类学 | [高频]{.freq .freq-1} |
+| [physical anthropology]{.headword} | n. | `physical`(体质)+`anthrop`(人)+`-ology` | 体质人类学 | [中频]{.freq .freq-2} |
+| [linguistic anthropology]{.headword} | n. | `linguistic`(语言)+`anthrop`(人)+`-ology` | 语言人类学 | [中频]{.freq .freq-2} |
+| [anthropocracy]{.headword} | n. | `anthrop`(人)+`-cracy`(统治) | 人类统治（理论概念） | [低频]{.freq .freq-3} |
+| [philanthropically]{.headword} | adv. | `philanthropic`+`-ally` | 出于慈善地 | [低频]{.freq .freq-3} |
+| [misanthropist]{.headword} | n. | `mis-`(恨)+`anthrop`(人)+`-ist` | 厌世者（misanthrope 的变体） | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The discovery of new fossils forced **anthropologists** to revise the timeline of human evolution.（古化石迫使人类学家重新修订人类演化的时间线——见到 *anthropologist* 立刻想到"研究人类的学者"）
+- **Anthropogenic** greenhouse gas emissions are the primary driver of current climate change, according to the latest IPCC report.（人为排放的温室气体——*anthrop-* 表示"人类活动"，*gen* 表示"产生"）
+- She dismissed him as a **misanthrope** who trusted no one and preferred his library to any party.（他不信任任何人、宁可待在书房——*mis-* 表示恨，这里恨的是人类）
+- The charity's **philanthropic** work has provided clean water to over a million people across three continents.（慈善工作——*phil-*(爱)+*anthrop-*(人)，爱人类，故做好事）
+- Children readily **anthropomorphize** their toys, imagining that stuffed animals have feelings and opinions.（孩子们很容易把玩具拟人化——*morph* 是形状，赋予人形即为拟人）
+- Scientists now debate whether the **Anthropocene** should be formally recognized as a new geological epoch, defined by humanity's global footprint.（人类世——人类的活动已大到足以定义一个地质时代）
+:::
+
+::: {.mnemonic}
+**助记**：把 `anthrop` 拆成两个画面——**"an"**（一个）**"throp"**（谐音"人"）——"一个人"。或者记住这个核心等式：
+
+> **anthrop = human being（人这种物种）**
+
+然后用搭档根拼搭：*phil*（爱）+ *anthrop* = 爱人类 → 慈善；*mis*（恨）+ *anthrop* = 恨人类 → 厌世；*-morph*（形）+ *ic* = 赋予人类的形状 → 拟人化。掌握这五六个搭档根，这一族词就能全部自动推导。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**1. `philanthropy` ≠ 仅指"捐钱"**　*Philanthropy* 的本义是对人类的爱与善意，可泛指各种无私的利他行为，不限于金钱捐赠。学术语境和媒体语境均可用于更广泛的社会慈善行为。
+
+**2. `anthropoid` 是形容词也是名词**　*Anthropoid apes*（类人猿，即大型无尾猿类：黑猩猩、大猩猩、红毛猩猩等）在生物学中有专门所指，不可与 *hominid*（人科动物）混用——后者包括人类自身。
+
+**3. `Anthropocene` 的大写**　这是一个地层学/地质学专有名词，书写时首字母必须大写，就像 *Holocene*（全新世）、*Pleistocene*（更新世）一样。在气候议题文本中极高频，务必记住大写。
+
+**4. 民间词源警示**　前文提到古希腊人将 *anthrōpos* 解释为"仰望者"，这是古典时代的哲学联想，**不是现代语言学接受的词源**。它是有趣的历史趣闻，但不能用来推断相关词汇的含义。真正可靠的核心义只有一个：*human being*（人类）。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 36 章）学习了词根 `anthrop`（人·人类）。请回看以下章节，巩固相关词根群：
+
+- **第 35 章**：复习上一章词根，与本章做对比梳理
+- **第 34 章**：回顾相关构词模式
+- **第 32 章**：温习希腊语学科后缀 `-logy` 家族
+- **第 28 章**：重温 `morph`（形态）词根——直接搭档 *anthropomorphic*
+- **第 20 章**：回看 `phil-`（爱）词根——直接搭档 *philanthropy*
+
+**本章自测提示**：
+
+1. 看到 *anthropogenic*，能否立刻说出两个词根各自的意思？
+2. *misanthrope* 与 *philanthropist* 的情感方向正好相反——能否用拆词法解释这两个词？
+3. *Anthropocene* 为什么首字母要大写？它的 *-cene* 来自哪个希腊词？
+4. 遮住释义栏，逐行扫描核心词表，默想每个词的拆解路径。
+:::

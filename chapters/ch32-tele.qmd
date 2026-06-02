@@ -1,0 +1,120 @@
+# tele —— "远·距离"
+
+::: {.root-banner}
+tele = *far, at a distance* 远，距离
+:::
+
+来源：希腊语 **tēle**（τηλε），本义"远处、遥远"，与 **telos**（目的，端点）同源，指"延伸到远方的那一端"。
+
+::: {.etymo}
+**词源故事：把声音和影像送到远方**
+
+古希腊人用 *tēle* 描述"远处"这个概念——他们眺望海平线，想象那些触不可及的地方。这个词根本身不承载任何具体动作，它只是一个**方向标**：把另一个词根的能力"射"向远处。
+
+19世纪是 *tele-* 爆发的时代。1838年前后，**telegraph**（远距书写）让文字跨越大陆；1876年贝尔发明**telephone**（远距声音），人类第一次听到千里之外的声音；1926年前后**television**（远距视觉）横空出世，把影像也送了过去。每一次技术突破，都是在同一个词根前面换了一个搭档。
+
+这正是 *tele-* 最迷人的地方：**它不孤军奋战，永远在找搭档**。给它一个表示感官或手段的根，它就把那种能力"发射"到远方。phone（声）、scope（看）、graph（写）、vision（看）、pathy（感应）……*tele-* 是所有这些词根的"远程发射器"。
+
+进入20世纪，这个词根又搭上了新伙伴：teleport（远程传送）、telemetry（远程测量）、telecommute（远程通勤）。只要人类还在渴望跨越距离，*tele-* 就永远不会失业。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| phone / phon | 声音 | telephone, telephony |
+| vision / vis | 看见 | television |
+| scope | 观察、仪器 | telescope, telescopic |
+| graph / gram | 书写、记录、电文 | telegraph, telegram, telégraphie |
+| pathy / path | 感应、感受 | telepathy, telepath |
+| port | 传送、携带 | teleport, teleportation |
+| metry / meter | 测量 | telemetry, telemeter |
+| photo | 光 | telephoto, telephotography |
+| cast | 广播、投射 | telecast, broadcast |
+| commute | 通勤、转换 | telecommute |
+| kinesis | 运动 | telekinesis |
+| medicine / med | 医疗 | telemedicine |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [telephone]{.headword} | n./v. | `tele-`(远)+`phone`(声音) | 电话；打电话 | [高频]{.freq .freq-1} |
+| [television]{.headword} | n. | `tele-`(远)+`vision`(视觉,看) | 电视 | [高频]{.freq .freq-1} |
+| [telescope]{.headword} | n./v. | `tele-`(远)+`scope`(观察) | 望远镜；望远镜式伸缩 | [高频]{.freq .freq-1} |
+| [telegraph]{.headword} | n./v. | `tele-`(远)+`graph`(写/记录) | 电报（机）；发电报 | [中频]{.freq .freq-2} |
+| [telegram]{.headword} | n. | `tele-`(远)+`gram`(书写的内容) | 电报（信息本身） | [中频]{.freq .freq-2} |
+| [telepathy]{.headword} | n. | `tele-`(远)+`pathy`(感应/感受) | 心灵感应 | [中频]{.freq .freq-2} |
+| [telecommunication]{.headword} | n. | `tele-`(远)+`communication`(通讯) | 电信，远程通信 | [高频]{.freq .freq-1} |
+| [teleport]{.headword} | v./n. | `tele-`(远)+`port`(传送,携带) | 瞬间传送；远程传输 | [中频]{.freq .freq-2} |
+| [telemetry]{.headword} | n. | `tele-`(远)+`metry`(测量) | 遥测；远程测量技术 | [中频]{.freq .freq-2} |
+| [telephoto]{.headword} | adj./n. | `tele-`(远)+`photo`(光/照片) | 远摄的；长焦镜头 | [中频]{.freq .freq-2} |
+| [telecast]{.headword} | n./v. | `tele-`(远)+`cast`(广播,投射) | 电视播出；电视节目 | [中频]{.freq .freq-2} |
+| [telecommute]{.headword} | v. | `tele-`(远)+`commute`(通勤) | 远程办公；居家上班 | [高频]{.freq .freq-1} |
+| [telescopic]{.headword} | adj. | `telescope`+`-ic` | 望远镜的；可伸缩的 | [中频]{.freq .freq-2} |
+| [telephony]{.headword} | n. | `tele-`(远)+`phony`(声音技术) | 电话通信技术 | [中频]{.freq .freq-2} |
+| [telepath]{.headword} | n. | `tele-`(远)+`path`(感应者) | 有心灵感应能力的人 | [低频]{.freq .freq-3} |
+| [telepathic]{.headword} | adj. | `telepathy`+`-ic` | 心灵感应的 | [中频]{.freq .freq-2} |
+| [telemedicine]{.headword} | n. | `tele-`(远)+`medicine`(医疗) | 远程医疗 | [高频]{.freq .freq-1} |
+| [telemeter]{.headword} | n./v. | `tele-`(远)+`meter`(测量仪) | 遥测仪；进行遥测 | [低频]{.freq .freq-3} |
+| [telekinesis]{.headword} | n. | `tele-`(远)+`kinesis`(运动) | 意念移物；隔空移物 | [低频]{.freq .freq-3} |
+| [teleconference]{.headword} | n./v. | `tele-`(远)+`conference`(会议) | 电话/视频会议 | [高频]{.freq .freq-1} |
+| [teleprompter]{.headword} | n. | `tele-`(远)+`prompter`(提词器) | 电视提词器 | [中频]{.freq .freq-2} |
+| [telework]{.headword} | n./v. | `tele-`(远)+`work`(工作) | 远程工作；居家工作 | [高频]{.freq .freq-1} |
+| [telesales]{.headword} | n. | `tele-`(远)+`sales`(销售) | 电话销售 | [中频]{.freq .freq-2} |
+| [telemarketing]{.headword} | n. | `tele-`(远)+`marketing`(营销) | 电话营销；远程营销 | [中频]{.freq .freq-2} |
+| [telethon]{.headword} | n. | `tele-`(电视)+`-thon`(马拉松式活动) | 电视马拉松募款节目 | [低频]{.freq .freq-3} |
+| [teletext]{.headword} | n. | `tele-`(远)+`text`(文字) | 图文电视；电视文字广播 | [低频]{.freq .freq-3} |
+| [telesurgery]{.headword} | n. | `tele-`(远)+`surgery`(外科) | 远程手术 | [低频]{.freq .freq-3} |
+| [telerobotics]{.headword} | n. | `tele-`(远)+`robotics`(机器人学) | 遥控机器人技术 | [低频]{.freq .freq-3} |
+| [telepresence]{.headword} | n. | `tele-`(远)+`presence`(临场感) | 远程临场感；远程呈现 | [中频]{.freq .freq-2} |
+| [telemetric]{.headword} | adj. | `telemetry`+`-ic` | 遥测的；远程测量的 | [低频]{.freq .freq-3} |
+| [telegenic]{.headword} | adj. | `tele-`(电视)+`-genic`(适合产生) | 上镜的；适合上电视的 | [低频]{.freq .freq-3} |
+| [teleological]{.headword} | adj. | `telos`(目的)+`-logical` | 目的论的（注意：与 tele- "远"不同源） | [低频]{.freq .freq-3} |
+| [telltale]{.headword} | adj./n. | `tell`+`tale`（与 tele- 无关） | 泄露秘密的；告密者（仅音近，非同源） | [中频]{.freq .freq-2} |
+| [television set]{.headword} | n. | `television`+`set`(整套装置) | 电视机（整机） | [高频]{.freq .freq-1} |
+| [live telecast]{.headword} | n. | `live`+`tele-`(远)+`cast`(播) | 电视直播 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The scientist used a powerful **telescope** to observe distant galaxies billions of light-years away.（一架望远镜把几十亿光年外的星系拉到眼前——*tele-* 做到了人力做不到的事。）
+- Thanks to **telecommuting**, she can work for a New York company while living in a small coastal town.（远程办公让地理距离不再是职业障碍。）
+- Doctors in remote clinics now rely on **telemedicine** to consult specialists in major hospitals without the patient traveling hours.（远程医疗让偏远地区的病人也能获得顶级医生的意见。）
+- The spacecraft's **telemetry** data was streamed back to Mission Control in real time, showing the rocket's speed, temperature, and fuel level.（遥测数据实时回传——这正是 tele- + metry 的字面义。）
+- She claimed to sense her twin's pain through **telepathy**, feeling a sharp ache in her shoulder at the exact moment he fell.（心灵感应让"远距离感受"有了神秘色彩，但本质仍是 tele- + pathy 的组合。）
+- The news channel provided a live **telecast** of the election results as they came in hour by hour.（电视直播把开票现场同步传送到千万个客厅——*tele-* 的标准用法。）
+:::
+
+::: {.mnemonic}
+**助记**：记住 *tele-* 是"远程发射器"——它自己没有实质动作，但能把任何搭档根的能力"发射"到远处。遇到 tele- 开头的陌生词，先问自己：后面那个根是什么意思？再加上"远程/远距离地做这件事"，十之八九就是正确释义。  
+口诀：**"望远镜看远星，电话传远声，电视送远景——tele 是距离的翅膀。"**
+:::
+
+::: {.trap}
+**陷阱 1：teleological（目的论的）不含 tele-"远"**  
+这个词来自希腊语 *telos*（目的、终点），与 *tēle*（远处）是不同的词，只是拼写高度相似。*teleological* 指"以目的来解释事物"，与"远距离"毫无关系。这是一条有趣的历史知识，但**不能**用它来推断词义——见到 *teleological* 时，别套 tele- = "远"的公式。
+
+**陷阱 2：telltale 与 tele- 无关**  
+*telltale*（泄露秘密的、告密者）= *tell* + *tale*，是纯粹的英语本土词，只是开头音节碰巧读成 /tel/。这类音近假同源（false cognate by sound）在词源学里很常见，提醒你：**分析词根时看词形全貌，不要只看开头几个字母**。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 32 章）学完后，请回看以下章节：
+
+- **第 31 章** — 上一章词根，巩固近期记忆
+- **第 30 章** — 与本章形成对比的词根
+- **第 28 章** — 间隔复习，检验中期保留
+- **第 24 章** — 较早章节的周期性复习
+- **第 16 章** — 长期记忆检验（距今最远）
+
+**本章自测提示**：
+
+1. *tele-* 的核心义是什么？它与哪个希腊词同源？
+2. 不查笔记，写出 5 个 tele- 派生词并拆解各自的搭档根。
+3. **telemetry** 和 **telegraph** 的后缀有何区别？它们分别表示什么？
+4. 为什么 **teleological** 不属于 tele-"远"这个家族？
+5. 造句：用 **telecommute** 和 **telepresence** 各造一个真实场景的句子。
+:::

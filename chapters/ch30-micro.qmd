@@ -1,0 +1,125 @@
+# micro / macro —— "小·微 与 大·宏"
+
+::: {.root-banner}
+micro · macro = small / large 小·微 / 大·宏
+:::
+
+来源：希腊语 **mikros**（小的、细小的）与 **makros**（长的、大的），两者在古希腊语中常作形容词，后来直接进入科学拉丁语，成为现代构词中最多产的一对"尺度对立根"。
+
+::: {.etymo}
+**词源故事：哲学家眼里的两个宇宙**
+
+古希腊哲学家早就意识到，宇宙有两个刻度。人站在中间，往外看是无边的大宇宙——**macrocosmos**，往内看是自身体内的小世界——**microcosmos**。柏拉图在《蒂迈欧篇》里写道，人体是宇宙的镜像：天球是大宇宙，人头是小宇宙。这个隐喻一直活到文艺复兴，莎士比亚剧中仍频繁出现"小宇宙"这个词。
+
+17 世纪，列文虎克把镜片磨得极薄，把两块镜片叠在一起，造出第一台真正意义上的**microscope**（显微镜）。镜筒里出现了之前从未见过的生命形态，他称之为"极微小的动物"，后来科学家给了它一个更精准的名字——**microbe**（微生物），由 *mikros*（小）+ *bios*（生命）拼合而成。
+
+与此同时，**micro** 的对立面 **macro** 也在向不同方向伸展：天文学家用 **macroscopic** 描述肉眼可见的尺度，经济学家则用 **macroeconomics** 对应整体国民经济，与研究个体行为的 **microeconomics** 成对而立。今天，物理学里有**macromolecule**（高分子），管理学里有**micromanage**（过度管控），两个希腊词根依然各守一端，像一把量尺的两个刻度，丈量着人类认识世界的方式。
+:::
+
+### 搭档根：micro / macro 常见组合伙伴
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| -scope | 看·观察（希腊 *skopein*） | microscope / macroscope |
+| -bio- | 生命（希腊 *bios*） | microbe, microbiology |
+| -phone | 声音（希腊 *phōnē*） | microphone |
+| -meter | 测量（希腊 *metron*） | micrometer |
+| -cosm- | 宇宙·秩序（希腊 *kosmos*） | microcosm / macrocosm |
+| -econ- | 家·经济（希腊 *oikos*） | microeconomics / macroeconomics |
+| -wave | 波（英语） | microwave |
+| -molecule | 分子（拉丁 *molecula*） | macromolecule |
+| -organ- | 器官·生物（希腊 *organon*） | microorganism |
+| -manage | 管理（意大利 *maneggiare*） | micromanage |
+| -chip | 芯片（英语） | microchip |
+| -film | 胶片（英语） | microfilm |
+| -aggression | 侵犯（拉丁 *aggredi*） | microaggression |
+| -brew | 酿造（古英语） | microbrewery |
+| -nutrient | 营养（拉丁 *nutrire*） | micronutrient |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [microscope]{.headword} | n. | `micro`(小)+`scope`(看) | 显微镜 | [高频]{.freq .freq-1} |
+| [microscopic]{.headword} | adj. | `micro`(小)+`scop`(看)+`-ic` | 微观的；极微小的 | [高频]{.freq .freq-1} |
+| [microbiology]{.headword} | n. | `micro`(小)+`bio`(生命)+`-logy`(学) | 微生物学 | [高频]{.freq .freq-1} |
+| [microbe]{.headword} | n. | `micro`(小)+`be`←`bios`(生命) | 微生物，细菌 | [高频]{.freq .freq-1} |
+| [microphone]{.headword} | n. | `micro`(小)+`phone`(声音) | 麦克风，话筒 | [高频]{.freq .freq-1} |
+| [microwave]{.headword} | n./v. | `micro`(小)+`wave`(波) | 微波；用微波炉加热 | [高频]{.freq .freq-1} |
+| [microchip]{.headword} | n. | `micro`(小)+`chip`(芯片) | 微型芯片，集成电路 | [高频]{.freq .freq-1} |
+| [microeconomics]{.headword} | n. | `micro`(小)+`economics`(经济学) | 微观经济学 | [高频]{.freq .freq-1} |
+| [microorganism]{.headword} | n. | `micro`(小)+`organism`(生物体) | 微生物，微小有机体 | [高频]{.freq .freq-1} |
+| [microcosm]{.headword} | n. | `micro`(小)+`cosm`(宇宙) | 微观世界；缩影 | [中频]{.freq .freq-2} |
+| [micrometer]{.headword} | n. | `micro`(小)+`meter`(测量) | 测微计；微米 | [中频]{.freq .freq-2} |
+| [micromanage]{.headword} | v. | `micro`(小)+`manage`(管理) | 过度管控；事无巨细地干涉 | [中频]{.freq .freq-2} |
+| [microfilm]{.headword} | n. | `micro`(小)+`film`(胶片) | 缩微胶片 | [中频]{.freq .freq-2} |
+| [micronutrient]{.headword} | n. | `micro`(小)+`nutrient`(营养素) | 微量营养素 | [中频]{.freq .freq-2} |
+| [microbial]{.headword} | adj. | `microbe`(微生物)+`-al` | 微生物的 | [中频]{.freq .freq-2} |
+| [microaggression]{.headword} | n. | `micro`(小)+`aggression`(侵犯) | 微侵犯（无意识的歧视言行） | [中频]{.freq .freq-2} |
+| [microbrewery]{.headword} | n. | `micro`(小)+`brewery`(酿酒厂) | 精酿小酒厂 | [中频]{.freq .freq-2} |
+| [microcredit]{.headword} | n. | `micro`(小)+`credit`(信贷) | 小额信贷 | [中频]{.freq .freq-2} |
+| [microclimate]{.headword} | n. | `micro`(小)+`climate`(气候) | 小气候，局部气候 | [中频]{.freq .freq-2} |
+| [microcosmic]{.headword} | adj. | `microcosm`(微观世界)+`-ic` | 微观的；作为缩影的 | [低频]{.freq .freq-3} |
+| [microsurgery]{.headword} | n. | `micro`(小)+`surgery`(外科手术) | 显微外科手术 | [低频]{.freq .freq-3} |
+| [microprocessor]{.headword} | n. | `micro`(小)+`processor`(处理器) | 微处理器 | [中频]{.freq .freq-2} |
+| [microfiche]{.headword} | n. | `micro`(小)+法语`fiche`(卡片) | 缩微卡片 | [低频]{.freq .freq-3} |
+| [microtransaction]{.headword} | n. | `micro`(小)+`transaction`(交易) | 微交易（游戏内小额购买） | [中频]{.freq .freq-2} |
+| [macroeconomics]{.headword} | n. | `macro`(大)+`economics`(经济学) | 宏观经济学 | [高频]{.freq .freq-1} |
+| [macroscopic]{.headword} | adj. | `macro`(大)+`scop`(看)+`-ic` | 宏观的；肉眼可见的 | [高频]{.freq .freq-1} |
+| [macrocosm]{.headword} | n. | `macro`(大)+`cosm`(宇宙) | 宏观宇宙；整体世界 | [中频]{.freq .freq-2} |
+| [macromolecule]{.headword} | n. | `macro`(大)+`molecule`(分子) | 高分子，大分子 | [中频]{.freq .freq-2} |
+| [macro]{.headword} | n./adj. | `macro`(大) | 宏；宏观的（也指程序宏命令） | [高频]{.freq .freq-1} |
+| [macronutrient]{.headword} | n. | `macro`(大)+`nutrient`(营养素) | 宏量营养素（蛋白质、脂肪、碳水） | [中频]{.freq .freq-2} |
+| [macroevolution]{.headword} | n. | `macro`(大)+`evolution`(演化) | 宏观进化（种以上层级的演化） | [低频]{.freq .freq-3} |
+| [macrostructure]{.headword} | n. | `macro`(大)+`structure`(结构) | 宏观结构 | [低频]{.freq .freq-3} |
+| [macrophotography]{.headword} | n. | `macro`(大)+`photo`(光)+`-graphy`(写·记录) | 微距摄影（拍出放大效果） | [低频]{.freq .freq-3} |
+| [macrocephalic]{.headword} | adj. | `macro`(大)+`cephal`(头)+`-ic` | 大头的，头颅异常大的 | [低频]{.freq .freq-3} |
+| [micron]{.headword} | n. | `micro`(小)+`-on`(单位后缀) | 微米（1/1,000,000 米） | [中频]{.freq .freq-2} |
+| [micrograph]{.headword} | n. | `micro`(小)+`graph`(写·图像) | 显微照片 | [中频]{.freq .freq-2} |
+| [microfinance]{.headword} | n. | `micro`(小)+`finance`(金融) | 小额金融 | [中频]{.freq .freq-2} |
+| [microbiome]{.headword} | n. | `micro`(小)+`biome`(生物群落) | 微生物组（肠道菌群等） | [高频]{.freq .freq-1} |
+| [macrobiotic]{.headword} | adj./n. | `macro`(大·长)+`bio`(生命)+`-tic` | 长寿饮食法的；宏生命的 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- Scientists used a **microscope** to identify the bacteria in the water sample.（用显微镜看水样，micro- 提示"小到肉眼看不见"）
+- The new **microchip** is smaller than a fingernail yet stores terabytes of data.（芯片越来越小，micro- 完全名副其实）
+- The CEO was accused of **micromanaging** his team, approving even the font choice in presentations.（字体都要管——"过度"管控，micro- 暗示碎到极致的介入）
+- The gut **microbiome** contains trillions of bacteria that influence mood, immunity, and digestion.（biome=生物群落，microbiome 是当下医学最热词之一）
+- **Macroeconomics** looks at inflation and unemployment nationally, while **microeconomics** examines individual consumer choices.（一句话说清 macro/micro 的对立：大视野 vs. 小行为）
+- The novel depicts the village as a **microcosm** of the entire nation's political tensions.（microcosm 作"缩影"，是文学批评常用词）
+:::
+
+::: {.mnemonic}
+**助记**：把 **micro** 和 **macro** 想成数码相机的两个按钮——**MICRO 微距**（拉近放大，看细节，小世界）vs. **MACRO 全景**（推远缩小，看整体，大视野）。记住这对按钮，再遇到任何 micro- 或 macro- 的词，先问自己"这里在说哪个刻度"，词义自然浮现。
+
+另一个锚点：**micro**phone——麦克风把极其**微小**的声波放大让人听见，"micro + phone"就是"把小声音捕捉下来"。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**macrophotography（微距摄影）看似矛盾**：macro 明明是"大"，为什么微距摄影叫 *macro* photography？这里 macro 指的是拍出来的**像比实物大**（放大倍率 ≥ 1:1），不是说被摄物体大。这是摄影圈的行业用语，与"拍摄微小物体"完全不矛盾——被摄物越小，越需要微距，成像反而越"宏大"。切勿因为 macro = 大就以为微距摄影拍的是大场景。
+
+**micro ≠ 总是 "微米级"**：日常语言中 micro- 泛指"非常小"或"小规模"（如 microbrewery、microcredit），并非学术上严格的 10⁻⁶。只有在计量单位语境（micron、micrometer）中才精确表示百万分之一。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 30 章）学完后，请回看以下章节以巩固相关词根网络：
+
+- **第 29 章**：复习上一章词根，与 micro/macro 构成的"尺度词汇"有何联系？
+- **第 28 章**：对比本章 `-scope`（看）搭档根与该章内容。
+- **第 26 章**：重温 `-bio-`（生命）根——microbe、microbiology、microbiome 都用到它。
+- **第 22 章**：回顾 `-cosm-`（宇宙）根，对照 microcosm / macrocosm 的用法。
+- **第 14 章**：复习 `-phone`（声音）根，巩固 microphone 的构词逻辑。
+
+**本章自测提示**：
+
+1. 不看书，说出 microscope / macroscope / micrometer 各自的两个词根及含义。
+2. microeconomics 与 macroeconomics 研究的对象各是什么？用 micro/macro 的本义解释这个区别。
+3. 为什么 macrophotography 翻译成"微距摄影"？macro 在这里的真实含义是什么？
+4. 用 microbe、microbiome、microbial 各造一个句子，注意词性区别。
+:::

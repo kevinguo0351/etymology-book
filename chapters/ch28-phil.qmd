@@ -1,0 +1,135 @@
+# phil / phile —— "爱·喜好"
+
+::: {.root-banner}
+phil · phile = love, fondness 爱，喜好
+:::
+
+来源：希腊语 *philein*（to love）及形容词 *philos*（loving, dear, friend），原义指对某物或某人的深切喜爱与依恋。
+
+::: {.etymo}
+**词源故事：雅典人的爱**
+
+古希腊人对"爱"的刻画极为精细，他们有 *eros*（情欲之爱）、*agape*（无私之爱）、*storge*（亲情之爱），还有 *philia*——这个词描述朋友之间、同道之间那种志趣相投、相互珍视的情感。*Philia* 从动词 *philein*（爱、喜好）而来，根形 *philos* 则是"所爱之人、友人"的意思。
+
+古希腊哲人苏格拉底的学生们把 *philos* 与各种名词拼合，造出了大量"爱XX"的复合词。其中最著名的是 *philosophia*：*philos*（爱）+ *sophia*（智慧）= 爱智慧，这就是"哲学"。柏拉图记录的苏格拉底式对话，本质上就是一群热爱智慧的人聚在一起，用问答逼近真理。
+
+*philos* 这个根格外多才多艺：它既可以作**前缀**（phil- / philo-），又可以作**后缀**（-phile / -philia），接在任何名词后面，就造出"某领域的爱好者"或"对某物的喜爱"。书虫叫 *bibliophile*，乐迷叫 *audiophile*，爱酒之人叫 *oenophile*——只要认识这个根，见到陌生的"-phile"词，你几乎总能猜中它的意思。
+
+更有趣的是，*philos* 也留在了专有名词里。Philadelphia（费城）来自 *philos*（爱）+ *adelphos*（兄弟），字面义是"兄弟之爱之城"，正是早期贵格会创始人威廉·佩恩对这座新城的期许。
+:::
+
+**搭档根一览**：*phil-* 的魔力在于它能与几乎任何领域根自由拼接，下表列出最重要的搭档根：
+
+| 搭档根 | 含义 | 组合示例 |
+|---|---|---|
+| -sophy (σοφία) | 智慧 | philosophy 哲学 |
+| -anthropy (ἄνθρωπος) | 人类 | philanthropy 博爱，慈善 |
+| biblio- (βιβλίον) | 书 | bibliophile 爱书人 |
+| -harmonic (ἁρμονία) | 和声，和谐 | philharmonic 爱乐的 |
+| -logy (λόγος) | 语言，学问 | philology 语言学，文献学 |
+| Anglo- (Anglus) | 英格兰 | Anglophile 亲英者 |
+| audio- (audire) | 声音 | audiophile 音响发烧友 |
+| hemo- / haemo- (αἷμα) | 血 | hemophilia 血友病 |
+| Franco- (Francus) | 法兰西 | Francophile 亲法者 |
+| oeno- (οἶνος) | 酒（葡萄酒） | oenophile 品酒家 |
+| dendro- (δένδρον) | 树 | dendrophile 爱树者 |
+| xeno- (ξένος) | 外来者 | xenophile 对外国文化抱有好感者 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [philosophy]{.headword} | n. | `phil-`(爱)+`sophy`(智慧) | 哲学；人生哲学 | [高频]{.freq .freq-1} |
+| [philosopher]{.headword} | n. | `phil-`(爱)+`soph`(智慧)+`-er`(人) | 哲学家 | [高频]{.freq .freq-1} |
+| [philosophical]{.headword} | adj. | `philosoph`+`-ical` | 哲学的；达观的 | [高频]{.freq .freq-1} |
+| [philanthropy]{.headword} | n. | `phil-`(爱)+`anthropy`(人类) | 博爱；慈善事业 | [高频]{.freq .freq-1} |
+| [philanthropist]{.headword} | n. | `philanthrop`+`-ist`(人) | 慈善家 | [高频]{.freq .freq-1} |
+| [philanthropic]{.headword} | adj. | `philanthrop`+`-ic` | 慈善的；博爱的 | [中频]{.freq .freq-2} |
+| [philharmonic]{.headword} | adj./n. | `phil-`(爱)+`harmonic`(和声) | 爱乐的；交响乐团 | [高频]{.freq .freq-1} |
+| [philology]{.headword} | n. | `phil-`(爱)+`logy`(语言，学问) | 语文学；文献语言学 | [中频]{.freq .freq-2} |
+| [philologist]{.headword} | n. | `philolog`+`-ist` | 语文学家 | [中频]{.freq .freq-2} |
+| [philological]{.headword} | adj. | `philolog`+`-ical` | 语文学的 | [低频]{.freq .freq-3} |
+| [bibliophile]{.headword} | n. | `biblio`(书)+`phile`(爱好者) | 爱书人；藏书家 | [中频]{.freq .freq-2} |
+| [bibliophilia]{.headword} | n. | `biblio`(书)+`philia`(喜爱) | 对书籍的热爱 | [低频]{.freq .freq-3} |
+| [audiophile]{.headword} | n. | `audio`(音响)+`phile`(爱好者) | 音响发烧友；Hi-Fi 爱好者 | [中频]{.freq .freq-2} |
+| [Anglophile]{.headword} | n. | `Anglo`(英格兰)+`phile`(爱好者) | 亲英者；英国文化爱好者 | [中频]{.freq .freq-2} |
+| [Francophile]{.headword} | n. | `Franco`(法国)+`phile`(爱好者) | 亲法者；法国文化爱好者 | [中频]{.freq .freq-2} |
+| [Sinophile]{.headword} | n. | `Sino`(中国)+`phile`(爱好者) | 亲华者；中国文化爱好者 | [中频]{.freq .freq-2} |
+| [Russophile]{.headword} | n. | `Russo`(俄国)+`phile`(爱好者) | 亲俄者 | [低频]{.freq .freq-3} |
+| [Germanophile]{.headword} | n. | `Germano`(德国)+`phile`(爱好者) | 亲德者；德国文化爱好者 | [低频]{.freq .freq-3} |
+| [hemophilia]{.headword} | n. | `hemo`(血)+`philia`(爱/亲和) | 血友病（血液凝固障碍） | [中频]{.freq .freq-2} |
+| [hemophiliac]{.headword} | n./adj. | `hemophili`+`-ac` | 血友病患者；血友病的 | [中频]{.freq .freq-2} |
+| [oenophile]{.headword} | n. | `oeno`(葡萄酒)+`phile`(爱好者) | 品酒家；葡萄酒鉴赏者 | [低频]{.freq .freq-3} |
+| [necrophilia]{.headword} | n. | `necro`(死)+`philia`(迷恋) | 恋尸癖（病理用语） | [低频]{.freq .freq-3} |
+| [pedophilia]{.headword} | n. | `pedo`(儿童)+`philia`(迷恋) | 恋童癖（病理用语） | [低频]{.freq .freq-3} |
+| [xenophile]{.headword} | n. | `xeno`(外来者)+`phile`(爱好者) | 对外国文化有好感的人 | [低频]{.freq .freq-3} |
+| [dendrophile]{.headword} | n. | `dendro`(树)+`phile`(爱好者) | 爱树者 | [低频]{.freq .freq-3} |
+| [technophile]{.headword} | n. | `techno`(技术)+`phile`(爱好者) | 技术爱好者；科技迷 | [中频]{.freq .freq-2} |
+| [cinephile]{.headword} | n. | `cine`(电影)+`phile`(爱好者) | 电影迷；影评爱好者 | [中频]{.freq .freq-2} |
+| [logophile]{.headword} | n. | `logo`(词语)+`phile`(爱好者) | 文字爱好者；词汇迷 | [低频]{.freq .freq-3} |
+| [astrophile]{.headword} | n. | `astro`(星)+`phile`(爱好者) | 天文爱好者 | [低频]{.freq .freq-3} |
+| [hydrophilic]{.headword} | adj. | `hydro`(水)+`phil`(亲)+`-ic` | 亲水的（化学/材料） | [中频]{.freq .freq-2} |
+| [hydrophilia]{.headword} | n. | `hydro`(水)+`philia`(亲和) | 亲水性 | [低频]{.freq .freq-3} |
+| [lipophilic]{.headword} | adj. | `lipo`(脂肪)+`phil`(亲)+`-ic` | 亲脂的（生物化学） | [低频]{.freq .freq-3} |
+| [Philadelphia]{.headword} | n. (地名) | `phil`(爱)+`adelpho`(兄弟)+`-ia` | 费城（"兄弟之爱之城"） | [高频]{.freq .freq-1} |
+| [Philip]{.headword} | n. (人名) | `phil`(爱)+`hippo`(马) | 菲利普（"爱马者"） | [高频]{.freq .freq-1} |
+| [Philippines]{.headword} | n. (地名) | 源自 *Philippus*（菲利普二世） | 菲律宾（以西班牙国王菲利普二世命名） | [高频]{.freq .freq-1} |
+| [philander]{.headword} | v. | `phil`(爱)+`ander`(男人) | 拈花惹草；在情感上不忠 | [低频]{.freq .freq-3} |
+| [philanderer]{.headword} | n. | `philander`+`-er` | 拈花惹草的男人；多情浪子 | [低频]{.freq .freq-3} |
+| [philatelist]{.headword} | n. | `phil`(爱)+`atel-`(邮票)+`-ist` | 集邮爱好者 | [中频]{.freq .freq-2} |
+| [philately]{.headword} | n. | `phil`(爱)+`atele`(免费通行标志) | 集邮；邮票研究 | [中频]{.freq .freq-2} |
+| [euphile]{.headword} | n. | `eu`(好)+`phile`(爱好者) | 乐观主义者（较罕见） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The university's **philosophy** department traces its roots back to the Socratic tradition of questioning everything.（哲学系——爱智慧的地方，问题本身就是答案）
+- Bill Gates has donated billions through his **philanthropic** foundation, focusing on global health and education.（慈善的——博爱人类，把钱用回人身上）
+- She is a devoted **bibliophile** who refuses to buy e-books, insisting that the smell of paper is irreplaceable.（爱书人——拆开就是 biblio书 + phile爱好者）
+- The Berlin **Philharmonic** is widely regarded as one of the greatest orchestras in the world.（爱乐乐团——phil爱 + harmonic和声）
+- **Hemophilia** was once called "the royal disease" because it spread through European royal families in the 19th century.（血友病——hemo血 + philia亲和，血液"太爱"流而不凝）
+- As a self-described **Francophile**, he has visited Paris seven times and insists on ordering coffee in French.（亲法者——Franco法国 + phile爱好者，拼法规律一看即懂）
+:::
+
+::: {.mnemonic}
+**助记**：记住核心方程式：**phil = 爱**。
+
+前缀用法：**phil(o)-** + 领域 → "爱某领域的"（philosophy, philology, philharmonic）
+
+后缀用法：领域 + **-phile / -philia** → "爱某物的人/状态"（bibliophile, audiophile, hemophilia）
+
+想象一个古希腊人张开双臂，左边拥抱书本，右边拥抱音乐，脚下踩着智慧的土地——他就是 *philos*，爱一切的人。每当见到 phil-，就想起这个张臂拥抱的形象。
+:::
+
+::: {.trap}
+**陷阱一：phil- 拼出的"-philia"词不总是褒义**
+
+在日常用语中，-phile / -philia 构成的词大多是中性或正面的（bibliophile 爱书人，audiophile 音响迷）。但在医学心理学中，-philia 专门用于指代病理性迷恋（necrophilia, pedophilia）。两套用法并存，阅读时注意语境，不要把所有"-philia"词都理解为无害的喜好。
+
+**陷阱二：Philip / Philippines 是有趣的历史故事，但不是推断词义的工具**
+
+Philip（"爱马者"）和 Philippines（以菲利普国王命名）确实含有 phil- 词根，但这属于专有名词的历史掌故。你不能反过来利用这个事实去推断陌生词的意思——因为大量以 Phil- 开头的人名和地名已经语义化石化，与"爱"的含义毫无同步关系。这类词源趣闻"好听但不好用"，请与高产的普通词根知识明确区分。
+
+**陷阱三：hydrophilic / lipophilic 中的 -phil- 是科学借用，意思是"亲和"而非"喜爱"**
+
+化学、材料学中的 hydrophilic（亲水的）、lipophilic（亲脂的）借用了 phil- 的词根，但含义已从"情感上的爱"转变为"物理化学上的亲和力"。这是科学术语有意类比的用法，理解即可，不要混淆日常语义。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 28 章）学完后，请回顾以下章节巩固相关词根：
+
+- **第 27 章**（上一章）——词根衔接，确认前后知识串联
+- **第 26 章**——回顾以巩固近期词根记忆
+- **第 24 章**——相关构词规律复习
+- **第 20 章**——中期词根系统性回顾
+- **第 12 章**——基础词根长期记忆检验
+
+**本章自测提示**：
+
+1. 不看书，能写出 philosophy / philanthropy / philharmonic / philology 的词根拆解吗？
+2. "爱书人"是哪个词？"音响发烧友"呢？"亲法者"呢？——三词全部来自同一个后缀模板，能默出吗？
+3. *-phile* 作后缀时，接什么样的词根？试着用 `techno-`、`cine-`、`logo-` 各造一个词，写下来再核对。
+4. hemophilia 里的 phil- 是什么意思？和 bibliophile 里的 -phile 有何异同？
+:::
