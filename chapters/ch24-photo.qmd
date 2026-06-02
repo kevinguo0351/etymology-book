@@ -1,0 +1,118 @@
+# photo / phot —— "光"
+
+::: {.root-banner}
+photo · phot = light 光
+:::
+
+来源：希腊语 **phōs**（主格）/ **phōtos**（属格），本义即"光、光线"，与拉丁语 *lux/lucis* 同为印欧语系 \*leuk-（发光）的后裔，但在科学与技术词汇中，希腊路线大获全胜。
+
+::: {.etymo}
+**词源故事：用光作画的人**
+
+19 世纪初，人们刚刚发现银盐在光照下会变色。1839 年，英国科学家约翰·赫歇尔（John Herschel）需要为这项新发明起一个学名，他从希腊语 *phōs*（光）加上 *graphē*（书写、描绘）合成了 **photograph**——"用光写下的画"。这个词的逻辑极其准确：摄影师不是用手画，而是用光在感光材料上"书写"。
+
+同一个词根，往更小处走，就成了 **photon**（光子）——物理学家用它命名光的最小量子单位，就像 *electron*（电子）是电的最小单位。往更大处走，天文学家用 **photosphere**（光球层）命名太阳最外层那个发光的气壳，我们平时肉眼看见的"太阳表面"正是它。
+
+植物不会说话，却是最懂 *phōs* 的生命：**photosynthesis**（光合作用）把光能转化为化学能，而向着光弯曲的 **phototropism**（向光性）让每一片叶子都努力迎向光源。光，是生命的底层语言。
+:::
+
+希腊根的拼搭力极强。*photo-* 几乎可以与任何一个表示"领域、行为、测量"的希腊根自由组合，生成新词。下表列出本章最重要的"搭档根"：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| graph / graphy | 写、描绘 | photograph, photography |
+| syn- | 合、合成 | photosynthesis |
+| -genic | 产生/宜于…的 | photogenic |
+| -phobia | 恐惧、厌恶 | photophobia |
+| -meter / -metry | 测量 | photometer, photometry |
+| sphere | 球层 | photosphere |
+| -tropism | 转向性 | phototropism |
+| electr- | 电 | photoelectric |
+| -voltaic | 电压/伏特 | photovoltaic |
+| tele- | 远 | telephoto |
+| -journalism | 新闻报道 | photojournalism |
+| -sensitive | 敏感的 | photosensitive |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [photograph]{.headword} | n./v. | `photo`(光)+`graph`(写) | 照片；拍照 | [高频]{.freq .freq-1} |
+| [photography]{.headword} | n. | `photo`(光)+`graphy`(写的技艺) | 摄影术 | [高频]{.freq .freq-1} |
+| [photographer]{.headword} | n. | `photo`(光)+`grapher`(操作者) | 摄影师 | [高频]{.freq .freq-1} |
+| [photographic]{.headword} | adj. | `photo`(光)+`graphic`(描绘的) | 摄影的；照片般精确的 | [高频]{.freq .freq-1} |
+| [photo]{.headword} | n. | `photo`(光) | 照片（photograph 缩写） | [高频]{.freq .freq-1} |
+| [photon]{.headword} | n. | `phot`(光)+`-on`(粒子后缀) | 光子（光的量子单位） | [高频]{.freq .freq-1} |
+| [photosynthesis]{.headword} | n. | `photo`(光)+`syn-`(合)+`-thesis`(放置) | 光合作用 | [高频]{.freq .freq-1} |
+| [photosynthesize]{.headword} | v. | 同上派生动词 | 进行光合作用 | [中频]{.freq .freq-2} |
+| [photosynthetic]{.headword} | adj. | 同上派生形容词 | 光合的 | [中频]{.freq .freq-2} |
+| [photogenic]{.headword} | adj. | `photo`(光/摄影)+`-genic`(产生/宜于) | 上镜的；适于拍照的 | [高频]{.freq .freq-1} |
+| [photophobia]{.headword} | n. | `photo`(光)+`-phobia`(恐惧) | 畏光症；对光敏感或恐惧 | [中频]{.freq .freq-2} |
+| [photophobic]{.headword} | adj. | 同上派生形容词 | 畏光的 | [低频]{.freq .freq-3} |
+| [photovoltaic]{.headword} | adj./n. | `photo`(光)+`volt`(伏特)+`-aic`(…的) | 光伏的；光伏装置 | [高频]{.freq .freq-1} |
+| [telephoto]{.headword} | adj./n. | `tele-`(远)+`photo`(光/摄影) | 远摄的；长焦镜头 | [中频]{.freq .freq-2} |
+| [photocopy]{.headword} | n./v. | `photo`(光)+`copy`(复制) | 影印件；复印 | [高频]{.freq .freq-1} |
+| [photocopier]{.headword} | n. | 同上+`-er`(机器) | 复印机 | [高频]{.freq .freq-1} |
+| [photometer]{.headword} | n. | `photo`(光)+`-meter`(测量仪) | 光度计 | [中频]{.freq .freq-2} |
+| [photometry]{.headword} | n. | `photo`(光)+`-metry`(测量术) | 光度测量学 | [低频]{.freq .freq-3} |
+| [photosphere]{.headword} | n. | `photo`(光)+`sphere`(球层) | 光球层（太阳可见表面） | [中频]{.freq .freq-2} |
+| [photoelectric]{.headword} | adj. | `photo`(光)+`electric`(电的) | 光电的 | [中频]{.freq .freq-2} |
+| [photoelectron]{.headword} | n. | `photo`(光)+`electron`(电子) | 光电子 | [低频]{.freq .freq-3} |
+| [phototropism]{.headword} | n. | `photo`(光)+`-tropism`(转向性) | 向光性 | [中频]{.freq .freq-2} |
+| [phototrophic]{.headword} | adj. | `photo`(光)+`-trophic`(营养的) | 光养的（以光为能源） | [低频]{.freq .freq-3} |
+| [photojournalism]{.headword} | n. | `photo`(光/摄影)+`journalism`(新闻业) | 新闻摄影 | [高频]{.freq .freq-1} |
+| [photojournalist]{.headword} | n. | 同上+`-ist`(从业者) | 新闻摄影师 | [高频]{.freq .freq-1} |
+| [photosensitive]{.headword} | adj. | `photo`(光)+`sensitive`(敏感的) | 对光敏感的；感光的 | [高频]{.freq .freq-1} |
+| [photosensitivity]{.headword} | n. | 同上+`-ity`(性质) | 光敏感性；感光度 | [中频]{.freq .freq-2} |
+| [photoreceptor]{.headword} | n. | `photo`(光)+`receptor`(感受器) | 光感受器；视觉感光细胞 | [中频]{.freq .freq-2} |
+| [photoperiod]{.headword} | n. | `photo`(光)+`period`(周期) | 光照周期 | [低频]{.freq .freq-3} |
+| [photoperiodism]{.headword} | n. | 同上+`-ism` | 光周期现象（生物响应日照时长） | [低频]{.freq .freq-3} |
+| [photodegradable]{.headword} | adj. | `photo`(光)+`degradable`(可降解的) | 可光降解的 | [低频]{.freq .freq-3} |
+| [photodegradation]{.headword} | n. | `photo`(光)+`degradation`(降解) | 光降解 | [低频]{.freq .freq-3} |
+| [photon beam]{.headword} | n. | `photon`(光子)+`beam`(束) | 光子束（放射治疗术语） | [中频]{.freq .freq-2} |
+| [photochemistry]{.headword} | n. | `photo`(光)+`chemistry`(化学) | 光化学 | [中频]{.freq .freq-2} |
+| [photochemical]{.headword} | adj. | 同上形容词形式 | 光化学的 | [中频]{.freq .freq-2} |
+| [photolysis]{.headword} | n. | `photo`(光)+`-lysis`(分解) | 光解（光引起的化学分解） | [低频]{.freq .freq-3} |
+| [biophotonic]{.headword} | adj. | `bio-`(生命)+`photon`(光子)+`-ic` | 生物光子的 | [低频]{.freq .freq-3} |
+| [astrophotography]{.headword} | n. | `astro-`(星)+`photo`(光)+`graphy` | 天文摄影 | [低频]{.freq .freq-3} |
+| [photorealism]{.headword} | n. | `photo`(摄影)+`realism`(写实主义) | 照相写实主义（艺术流派） | [中频]{.freq .freq-2} |
+| [photorealistic]{.headword} | adj. | 同上形容词 | 照片级真实的 | [中频]{.freq .freq-2} |
+| [phototypesetting]{.headword} | n. | `photo`(光)+`typesetting`(排版) | 照相排版法 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The **photovoltaic** panels on the roof convert sunlight directly into electricity, slashing the building's carbon footprint.（屋顶光伏板把阳光直接转化为电能，大幅降低碳足迹——photo = 光，voltaic = 电压的）
+- Einstein won his Nobel Prize not for relativity but for explaining the **photoelectric** effect—the curious way light knocks electrons loose from metal.（爱因斯坦获诺贝尔奖是因为解释了光电效应，即光将电子从金属中打出的现象）
+- Migraine sufferers often experience severe **photophobia**, forcing them to retreat to a darkened room.（偏头痛患者常有严重的畏光症，不得不躲进黑暗的房间——photo = 光，phobia = 恐惧）
+- Through **photosynthesis**, a single oak tree can absorb hundreds of kilograms of carbon dioxide each year.（通过光合作用，一棵橡树每年可吸收数百公斤二氧化碳——syn = 合，thesis = 放置，"用光把东西合在一起"）
+- The magazine cover was shot with a **telephoto** lens, compressing the skyline so the skyscrapers loomed impossibly close together.（杂志封面用长焦镜头拍摄，将天际线压缩，令摩天楼显得近得不可思议——tele = 远，photo = 光/摄影）
+- Certain deep-sea bacteria are **phototrophic**, harvesting the faint bioluminescent glow of other organisms as their energy source.（某些深海细菌是光养型的，以其他生物的微弱生物发光作为能量来源——当用于这类学术语境，要从上下文确认词义）
+:::
+
+::: {.mnemonic}
+**助记**：记住"phōs/phōtos = 光"最快的钩子是这个画面——你拿起相机，按下快门，光（photo-）在感光板上"写"（-graph）出一张照片。*photograph* 就是"用光书写"。一旦这个核心词稳固，再遇到 photo- 开头的陌生词，先问自己："这个词和光有什么关系？"——答案几乎总是显而易见的：photovoltaic（光→电压），photophobia（怕光），photosynthesis（光合），photosphere（发光的球层）……光，贯穿一切。
+:::
+
+::: {.trap}
+**陷阱**：*photogenic* 在日常英语里几乎只用来形容"上镜、适合拍照"，而非字面的"由光产生"。如果你在报纸上看到"She is incredibly photogenic"，别翻译成"她是光产生的"——正确意思是"她拍出来很好看"。词根的字面义（*genic* = 产生）在这里已经高度惯用化，请以语境为准，词根只是辅助理解，不是机械解码器。
+
+另一个常见混淆：**phosphorescence**（磷光）和 *photo-* 无关。它来自希腊语 *phosphoros*（带光者），虽然也含 *phōs*（光），但 *phosphor-* 已经演化为独立词根，指"磷"或"冷发光"，不要把 phospho- 与 photo- 等同使用。
+:::
+
+::: {.review-today}
+**今日复习**
+
+今天学完 photo/phot 之后，花 10 分钟回看以下章节，强化词根网络：
+
+- **第 23 章**（graph/gram — 写、画）：*photograph* 正是 photo + graph，回看 *autograph, diagram, telegram* 等，感受 graph 如何与不同前缀拼搭。
+- **第 22 章**（tele- — 远）：*telephoto* 的前缀来自这里；对比 *telescope, television, telegram*，巩固"远"的概念。
+- **第 20 章**（electr- — 电）：*photoelectric, photovoltaic* 都涉及光与电的转换，与 *electron, electric* 形成词族网络。
+- **第 16 章**（bio-/vita- — 生命）：*phototrophic, photosynthesis* 都是生命科学词汇，与生命词根呼应。
+- **第 8 章**（-phobia — 恐惧）：*photophobia* 让你复习"恐惧"后缀，连同 *claustrophobia, arachnophobia* 一起记。
+
+**自测提示**：
+1. 不看书，说出 *photosynthesis* 的三个词根及各自的含义。
+2. *photovoltaic* 中 *voltaic* 来自哪里？它和哪位科学家的名字有关？（提示：回看第 20 章注释）
+3. 用一句话解释为什么摄影机发明者选择 *photograph* 而非 *lightdraw* 这样的英语自造词——词语的"希腊味"给科学发明带来了什么形象？
+:::

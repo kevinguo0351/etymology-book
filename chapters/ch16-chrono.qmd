@@ -1,0 +1,111 @@
+# chrono / chron —— "时间"
+
+::: {.root-banner}
+chrono · chron = time 时间
+:::
+
+来源：希腊语 **χρόνος**（*chronos*），本义"时间、时段"，与神话中的时间之神 Kronos 同音，但词源学家区分二者：Kronos 是农业之神，*chronos* 才是抽象的"流逝之时"。
+
+::: {.etymo}
+**词源故事：时间之神的名字刻入每个单词**
+
+古希腊人把时间想象成一条不停流动的河，*chronos* 就是这条河的名字。哲学家用它讨论"时间的本质"，历史学家用它排列事件的先后，医生用它描述病程的长短——这个词根因此渗透进几乎所有与"时间顺序""时间测量""时间关系"有关的学科。
+
+最直观的例子：当你听到 *chronicle*，脑海里应该浮现一位抄写员，按照年份顺序把事件逐条记录下来；当你听到 *synchronize*，想象两块手表的秒针在同一瞬间对齐——*syn-*（一起）加上 *chron*（时间），就是"让时间合一"。
+
+希腊根有一个迷人的特性：它们彼此拼搭，生成复合词汇。*chrono* 几乎从不单打独斗，而是与 *-logy*（学问）、*-meter*（测量）、*-graph*（书写记录）、*syn-*（共同）、*ana-*（逆向）等搭档根紧密联合，构成整片学术词汇的骨架。掌握这张"搭档网"，你就同时解锁了十几个领域的核心术语。
+:::
+
+**希腊根搭档表**
+
+| 搭档根 | 含义 | 与 chron 的组合示例 |
+|--------|------|---------------------|
+| -logy | 学问、研究 | chronology（年代学） |
+| syn- | 一起、共同 | synchronize（同步） |
+| ana- | 逆向、向后 | anachronism（时代错置） |
+| -meter | 测量 | chronometer（精密计时器） |
+| dia- | 贯穿、跨越 | diachronic（历时的） |
+| -graph | 书写、记录 | chronograph（计时仪） |
+| iso- | 相等 | isochronous（等时的） |
+| -icle / -icler | 小记录、记录者 | chronicle / chronicler |
+| -os / -ic | 形容词化 | chronic（慢性的、长期的） |
+| syn- + -ous | 共时的形容词 | synchronous（同步的） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [chronology]{.headword} | n. | `chron`(时间)+`-ology`(学问) | 年代学；时间顺序 | [高频]{.freq .freq-1} |
+| [chronological]{.headword} | adj. | `chron`(时间)+`-logical`(学的) | 按年代顺序的 | [高频]{.freq .freq-1} |
+| [chronologically]{.headword} | adv. | `chronological`+`-ly` | 按时间先后地 | [高频]{.freq .freq-1} |
+| [chronic]{.headword} | adj. | `chron`(时间)+`-ic`(形容词化) | 慢性的；长期的；积习难改的 | [高频]{.freq .freq-1} |
+| [chronically]{.headword} | adv. | `chronic`+`-ally` | 长期地；慢性地 | [中频]{.freq .freq-2} |
+| [chronicle]{.headword} | n./v. | `chron`(时间)+`-icle`(小记录) | 编年史；逐条记录 | [高频]{.freq .freq-1} |
+| [chronicler]{.headword} | n. | `chronicle`+`-r`(人) | 编年史作者；记录者 | [中频]{.freq .freq-2} |
+| [synchronize]{.headword} | v. | `syn-`(一起)+`chron`(时间)+`-ize` | 使同步；对表 | [高频]{.freq .freq-1} |
+| [synchronization]{.headword} | n. | `synchronize`+`-ation` | 同步化；同期 | [高频]{.freq .freq-1} |
+| [synchronous]{.headword} | adj. | `syn-`(一起)+`chron`(时间)+`-ous` | 同步的；同时发生的 | [中频]{.freq .freq-2} |
+| [synchrony]{.headword} | n. | `syn-`(一起)+`chron`(时间)+`-y` | 同时性；共时状态 | [中频]{.freq .freq-2} |
+| [synchronicity]{.headword} | n. | `syn-`+`chron`+`-icity` | 共时性（荣格心理学术语） | [低频]{.freq .freq-3} |
+| [anachronism]{.headword} | n. | `ana-`(逆/错置)+`chron`(时间)+`-ism` | 时代错置；不合时宜的事物 | [中频]{.freq .freq-2} |
+| [anachronistic]{.headword} | adj. | `anachronism`+`-ic` | 时代错置的；过时的 | [中频]{.freq .freq-2} |
+| [anachronistically]{.headword} | adv. | `anachronistic`+`-ally` | 以时代错置的方式 | [低频]{.freq .freq-3} |
+| [chronometer]{.headword} | n. | `chron`(时间)+`-meter`(测量) | 精密计时器；船用天文钟 | [中频]{.freq .freq-2} |
+| [chronometry]{.headword} | n. | `chron`(时间)+`-metry`(测量学) | 计时术；时间测量学 | [低频]{.freq .freq-3} |
+| [chronograph]{.headword} | n. | `chron`(时间)+`-graph`(记录) | 记时仪；计时码表 | [中频]{.freq .freq-2} |
+| [diachronic]{.headword} | adj. | `dia-`(贯穿)+`chron`(时间)+`-ic` | 历时的（研究语言变化的） | [中频]{.freq .freq-2} |
+| [diachronically]{.headword} | adv. | `diachronic`+`-ally` | 从历时角度地 | [低频]{.freq .freq-3} |
+| [diachrony]{.headword} | n. | `dia-`+`chron`+`-y` | 历时性 | [低频]{.freq .freq-3} |
+| [isochronous]{.headword} | adj. | `iso-`(相等)+`chron`(时间)+`-ous` | 等时的；周期相等的 | [低频]{.freq .freq-3} |
+| [isochronal]{.headword} | adj. | `iso-`+`chron`+`-al` | 等时的（同 isochronous） | [低频]{.freq .freq-3} |
+| [anachronous]{.headword} | adj. | `ana-`(错置)+`chron`+`-ous` | 时代错置的（较 anachronistic 少见） | [低频]{.freq .freq-3} |
+| [synchronize with]{.headword} | v. phr. | `syn-`+`chron`+`-ize` | 与……同步 | [高频]{.freq .freq-1} |
+| [out of sync]{.headword} | phr. | `syn`(synchrony 缩略) | 不同步；不协调 | [高频]{.freq .freq-1} |
+| [in sync]{.headword} | phr. | `syn`(synchrony 缩略) | 同步；协调一致 | [高频]{.freq .freq-1} |
+| [chronobiology]{.headword} | n. | `chron`+`-o-`+`bio`(生命)+`-logy` | 时间生物学（研究生物节律） | [低频]{.freq .freq-3} |
+| [chronotherapy]{.headword} | n. | `chron`+`-o-`+`therapy`(治疗) | 时间疗法（依据生物钟给药） | [低频]{.freq .freq-3} |
+| [chronotype]{.headword} | n. | `chron`+`-o-`+`type`(类型) | 时间型（晨型/夜型人） | [中频]{.freq .freq-2} |
+| [asynchronous]{.headword} | adj. | `a-`(非)+`syn-`+`chron`+`-ous` | 异步的；非同步的 | [高频]{.freq .freq-1} |
+| [asynchronously]{.headword} | adv. | `asynchronous`+`-ly` | 异步地 | [高频]{.freq .freq-1} |
+| [asynchrony]{.headword} | n. | `a-`+`syn-`+`chron`+`-y` | 异步性；不同步 | [中频]{.freq .freq-2} |
+| [synchronize watches]{.headword} | v. phr. | 对表（对表场景固定搭配） | 对准手表时间 | [中频]{.freq .freq-2} |
+| [pre-chronological]{.headword} | adj. | `pre-`(前)+`chronological` | 有文字记载以前的 | [低频]{.freq .freq-3} |
+| [polychronic]{.headword} | adj. | `poly-`(多)+`chron`+`-ic` | 多时态的；可同时处理多事的 | [低频]{.freq .freq-3} |
+| [monochronic]{.headword} | adj. | `mono-`(单)+`chron`+`-ic` | 单时态的；一次只做一件事的 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The museum displayed the artifacts in **chronological** order, from the earliest stone tools to modern smartphones.（年代顺序排列——时间从远到近）
+- Her **chronic** back pain had persisted for over a decade, limiting her mobility.（慢性疼痛——"长期停留在时间里"的病）
+- The director asked all actors to **synchronize** their watches before the scene began.（同步——让所有人的时间合一）
+- Using a knight in armor at a 1950s cocktail party is a glaring **anachronism** in the screenplay.（时代错置——铠甲骑士闯入鸡尾酒会）
+- Nineteenth-century navigators depended on a precise **chronometer** to calculate longitude at sea.（精密计时器——大航海时代的命根子）
+- The historian spent twenty years as the **chronicler** of the dynasty's rise and fall.（编年史作者——用时间顺序刻写历史的人）
+:::
+
+::: {.mnemonic}
+**助记**：把 **chron** 想成一个"时钟里的 on"——时钟永远在走，永远"on（开着）"。看到 chron，就想到时钟上滴答滴答的秒针。再用搭档根锁定方向：**syn**（同）→同一时钟；**ana**（逆）→时钟倒转；**dia**（穿越）→时钟跨越历史长河；**iso**（等）→每格等分的时钟刻度。
+:::
+
+::: {.trap}
+**陷阱**：*chronic* 的核心语感是"在时间里持续存在的"，所以引申为"慢性的、长期的、积习难改的"——这是高产的词根推断，完全可信。但 *Kronos*（农业之神、吞食子女的泰坦）与 *chronos*（时间）虽在古代有混用，现代词源学明确区分两者：**不要用 Kronos 的神话故事去推断 chron- 词族的语义**，那属于有趣的历史趣闻，而非可靠的词义线索。另外，*synchronicity*（共时性）是荣格发明的心理学专用术语，带有"有意义的巧合"含义，不可简单等同于技术语境下的 *synchrony*（同步性）。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 16 章）学完后，请回看：
+
+- **第 15 章**：回顾上一章词根，趁记忆新鲜做跨章对比
+- **第 14 章**：检验两周前学的内容是否仍能快速拆解
+- **第 12 章**：重温间隔稍长的词根，强化长期记忆
+- **第 8 章**：验证早期章节的词根是否真正内化
+
+**本章自测提示**：
+
+1. 不看书，写出 *anachronism* 的完整拆解（前缀 + 根 + 后缀）及释义。
+2. *synchronous* 与 *asynchronous* 各用在什么场景？举一个编程例子、一个日常生活例子。
+3. *chronic* 和 *chronicle* 都含 *chron*，但词性和语感截然不同——用一句话说清两者的区别。
+4. 语言学里 *diachronic* 与 *synchronic* 分别指什么研究方向？
+:::

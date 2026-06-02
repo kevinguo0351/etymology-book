@@ -1,0 +1,139 @@
+# tract / trac / treat —— "拉·拽"
+
+::: {.root-banner}
+tract · trac · treat = to draw, to pull 拉、拽、牵引
+:::
+
+来源：拉丁语动词 **trahere**（拉、拖），其过去分词词干为 **tractus**；通过古法语演变还衍生出 **treat**（处理→对待）这一支脉。
+
+::: {.etymo}
+**词源故事：农夫的绳子**
+
+在古罗马，农民用牛绳 *trahere* 犁地——把犁拖过土地、把货物从田间拉回来。这个动作的核心就是一条拉紧的绳子，一头连着力量，一头连着负载。词根 **tract** 便是这根绳子的语言化身。
+
+两千年来，这根绳子没有断。它只是被不同的前缀抓住了不同方向：**at-**（朝向你）把绳子变成引力，**ex-**（向外）把绳子变成抽取器，**sub-**（向下）把绳子变成减号，**re-**（向后）让绳子把话收回去……绳子本身从未改变，变化的只是你从哪个方向用力。
+
+在英语的另一条支脉里，古法语借走了这根绳子，把"处理/对待某事"（即把事情朝某方向拉扯、安排）留在了 **treat**、**treaty**、**treatise** 里——外形已不像 tract，但本是同根同源。
+:::
+
+前缀换方向，根永远是"拉"这个动作：
+
+| 前缀 | 字面方向 | 代表词 |
+|------|---------|--------|
+| **at-** (ad-) | 朝向·拉近 | attract |
+| **con-** | 一起·拉紧 | contract |
+| **ex-** | 向外·抽出 | extract |
+| **dis-** | 分开·拉散 | distract |
+| **sub-** | 往下·减去 | subtract |
+| **abs-** | 离开·抽离 | abstract |
+| **de-** | 向下·贬损 | detract |
+| **re-** | 向后·缩回 | retract |
+| **pro-** | 向前·拖延 | protract |
+| **in-**（否定）| 无法被拉动 | intractable |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [attract]{.headword} | v. | `at-`(朝)+`tract`(拉) | 吸引；引起兴趣 | [高频]{.freq .freq-1} |
+| [attraction]{.headword} | n. | `at-`+`tract`+`-ion`(名词化) | 吸引力；景点 | [高频]{.freq .freq-1} |
+| [attractive]{.headword} | adj. | `at-`+`tract`+`-ive`(有…性质的) | 有吸引力的；迷人的 | [高频]{.freq .freq-1} |
+| [contract]{.headword} | n./v. | `con-`(一起)+`tract`(拉) | 合同；收缩；感染（病） | [高频]{.freq .freq-1} |
+| [contractor]{.headword} | n. | `contract`+`-or`(人) | 承包商；立约人 | [高频]{.freq .freq-1} |
+| [contraction]{.headword} | n. | `con-`+`tract`+`-ion` | 收缩；（语法）缩略形式 | [高频]{.freq .freq-1} |
+| [extract]{.headword} | v./n. | `ex-`(出)+`tract`(拉) | 提取；摘录；精华 | [高频]{.freq .freq-1} |
+| [extraction]{.headword} | n. | `ex-`+`tract`+`-ion` | 提取；拔出；出身 | [高频]{.freq .freq-1} |
+| [distract]{.headword} | v. | `dis-`(分开)+`tract`(拉) | 分散注意力；使心烦意乱 | [高频]{.freq .freq-1} |
+| [distraction]{.headword} | n. | `dis-`+`tract`+`-ion` | 分心；干扰；消遣 | [高频]{.freq .freq-1} |
+| [subtract]{.headword} | v. | `sub-`(下)+`tract`(拉) | 减去；扣除 | [高频]{.freq .freq-1} |
+| [subtraction]{.headword} | n. | `sub-`+`tract`+`-ion` | 减法；扣除 | [高频]{.freq .freq-1} |
+| [abstract]{.headword} | adj./n./v. | `abs-`(离开)+`tract`(拉) | 抽象的；摘要；提炼 | [高频]{.freq .freq-1} |
+| [abstraction]{.headword} | n. | `abs-`+`tract`+`-ion` | 抽象概念；心不在焉 | [中频]{.freq .freq-2} |
+| [detract]{.headword} | v. | `de-`(向下/离开)+`tract`(拉) | 减损；贬低（价值或名誉） | [中频]{.freq .freq-2} |
+| [detractor]{.headword} | n. | `de-`+`tract`+`-or`(人) | 批评者；诋毁者 | [中频]{.freq .freq-2} |
+| [retract]{.headword} | v. | `re-`(回)+`tract`(拉) | 缩回；撤回（声明）；食言 | [中频]{.freq .freq-2} |
+| [retraction]{.headword} | n. | `re-`+`tract`+`-ion` | 撤回；（媒体）更正声明 | [中频]{.freq .freq-2} |
+| [protract]{.headword} | v. | `pro-`(向前/延长)+`tract`(拉) | 拖延；延长（时间） | [中频]{.freq .freq-2} |
+| [protracted]{.headword} | adj. | `pro-`+`tract`+`-ed` | 旷日持久的；迁延的 | [中频]{.freq .freq-2} |
+| [traction]{.headword} | n. | `tract`+`-ion` | 牵引力；附着力；进展势头 | [中频]{.freq .freq-2} |
+| [tractor]{.headword} | n. | `tract`+`-or`(施动者) | 拖拉机；牵引车 | [高频]{.freq .freq-1} |
+| [tractable]{.headword} | adj. | `tract`+`-able`(能被…) | 易驾驭的；顺从的；易处理的 | [中频]{.freq .freq-2} |
+| [intractable]{.headword} | adj. | `in-`(不)+`tract`+`-able` | 棘手的；难以控制的；顽固的 | [中频]{.freq .freq-2} |
+| [trace]{.headword} | v./n. | 源自同族 *trahere* 的古法语支 | 追踪；踪迹；微量 | [高频]{.freq .freq-1} |
+| [treat]{.headword} | v./n. | 古法语 *traitier*（处置）← 拉丁 *tractare* | 对待；治疗；款待 | [高频]{.freq .freq-1} |
+| [treatment]{.headword} | n. | `treat`+`-ment` | 待遇；治疗；处理 | [高频]{.freq .freq-1} |
+| [treaty]{.headword} | n. | 同 treat 族，拉丁 *tractatus* | 条约；协议 | [高频]{.freq .freq-1} |
+| [treatise]{.headword} | n. | `treat`+`-ise`(名词后缀) | 专论；学术论著 | [中频]{.freq .freq-2} |
+| [trail]{.headword} | v./n. | 古法语 *trailler* ← *trahere* | 拖拽；小径；踪迹 | [高频]{.freq .freq-1} |
+| [train]{.headword} | v./n. | 古法语 *trainer*（拖拉）← *trahere* | 训练；火车；（裙子的）拖摆 | [高频]{.freq .freq-1} |
+| [trait]{.headword} | n. | 法语 *trait*（一笔/一拉）← *trahere* | 特征；特质；笔画 | [高频]{.freq .freq-1} |
+| [portray]{.headword} | v. | `por-`(pro-变体)+`tray`(描绘←拉出轮廓) | 描绘；刻画；扮演 | [高频]{.freq .freq-1} |
+| [portrait]{.headword} | n. | `por-`+`trait`(特征/轮廓) | 肖像；画像；人物描写 | [高频]{.freq .freq-1} |
+| [distraught]{.headword} | adj. | `dis-`+`traught`(tract 的古英语变体) | 心烦意乱的；悲痛欲绝的 | [中频]{.freq .freq-2} |
+| [attract]{.headword} | v. | `at-`(朝)+`tract`(拉) | ↑见首行 | [高频]{.freq .freq-1} |
+| [subcontract]{.headword} | n./v. | `sub-`(下)+`contract` | 分包；转包合同 | [中频]{.freq .freq-2} |
+| [counteract]{.headword} | v. | `counter-`(对抗)+`act`(← agere，另根） | 抵消；对抗（注：act 非 tract 族，勿混淆） | [中频]{.freq .freq-2} |
+| [extract]{.headword} | n. | ↑同 extract v. | 提取物；节选片段 | [高频]{.freq .freq-1} |
+| [protractor]{.headword} | n. | `pro-`+`tract`+`-or` | 量角器；（解剖）前伸肌 | [低频]{.freq .freq-3} |
+| [retractable]{.headword} | adj. | `re-`+`tract`+`-able` | 可伸缩的；可收回的 | [中频]{.freq .freq-2} |
+| [overextract]{.headword} | v. | `over-`+`extract` | 过度提取（咖啡/资源等） | [低频]{.freq .freq-3} |
+| [abstract art]{.headword} | n. phr. | `abstract`(抽离具体形象) | 抽象艺术 | [高频]{.freq .freq-1} |
+| [traction engine]{.headword} | n. phr. | `traction`(牵引)+`engine` | 蒸汽牵引机（历史机械） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The city's old quarter **attracts** millions of tourists every year, despite its narrow, uneven streets.（"朝向"拉近——观光客被老城区拉过去了）
+- Both parties signed the **contract** after weeks of negotiation, each pulling in their own direction until they met in the middle.（"一起拉紧"——合同是双方各自拉紧的那根绳子）
+- Surgeons managed to **extract** the bullet without damaging the surrounding tissue.（"向外拉"——子弹被小心地从组织里拉出来）
+- Constant phone notifications **distract** students and fragment their concentration into useless shards.（"拉向四方"——注意力被拉散成碎片）
+- The peace talks were **protracted** by mutual distrust; what was supposed to take a week stretched into three months.（"向前拖拉"——谈判一直被往后拽，硬是延长了）
+- The newspaper published a **retraction** the next morning after realizing the story had been based on a fabricated source.（"向后拉回"——把已发出的报道重新拉回来）
+:::
+
+::: {.mnemonic}
+**助记**：把 tract 想象成一根永远绷紧的橡皮绳，前缀决定你从哪个方向拽它——
+
+- **at-**（朝你）→ attract 你被拉过来了  
+- **ex-**（向外）→ extract 东西被抽出来了  
+- **sub-**（向下）→ subtract 数字被往下拽走了  
+- **dis-**（四散）→ distract 注意力被拉散了  
+- **re-**（向后）→ retract 话被收回去了  
+- **pro-**（向前/拖）→ protract 时间被硬拖长了  
+- **in-**（拉不动）→ intractable 这根绳子根本拽不动
+
+把这张方向图贴在脑子里，任何 -tract- 新词出现，先找前缀、再定方向，词义便呼之欲出。
+:::
+
+::: {.trap}
+**陷阱一："treat / trail / train / trait" 外形已变，但本是同根**
+
+这几个词通过古法语来自同一个拉丁词根 *trahere*，但拼写已和 -tract- 相差甚远。它们是真实的历史亲戚，但**不能反过来**用"train = t-rain = 拉雨？"之类的方式推导词义——这只是帮助记忆的历史联系，不是可靠的拆字规则。
+
+**陷阱二："counteract" 里没有 -tract-**
+
+*counter**act*** 的 **-act-** 来自拉丁语 *agere*（做、行动），与 *trahere*（拉）是两个完全不同的词根，只是字形相近。两者不可混用。
+
+**陷阱三："contract" 的三个截然不同的词义**
+
+作名词是"合同"（双方拉紧），作动词可以是"收缩"（肌肉拉紧），也可以是"感染（疾病）"（病毒把你"拉进去了"）。在阅读时留意语境，不要只看到 contract 就默认是"合同"。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 15 章）讲完 tract，建议今天回看：
+
+- **第 14 章**：复习上一词根，与 tract 的"动作性"做对比
+- **第 13 章**：检查是否和本章词汇有前缀重叠（如 con-、ex-、re-）
+- **第 11 章**：回顾另一个高产拉丁动词根，对照"前缀决定方向"的规律
+- **第 7 章**：回顾前缀系统总表，确认 ab-/abs-、dis-、pro- 的方向感已内化
+
+**本章自测**（盖住释义列，看拆解能否还原词义）：
+
+1. *intractable* — `in-` + `tract` + `-able`，应译为？
+2. *protracted* — `pro-` + `tract` + `-ed`，形容谈判/战争时意为？
+3. *retraction* — `re-` + `tract` + `-ion`，报纸刊登 a retraction 意味着什么？
+4. *abstract* (v.) — `abs-` + `tract`，从文本中 abstract the key points 是在做什么？
+5. *detractor* — `de-` + `tract` + `-or`，这类人对你做什么？
+:::

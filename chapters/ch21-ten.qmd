@@ -1,0 +1,141 @@
+# ten / tain / tin —— "握·持·守"
+
+::: {.root-banner}
+ten · tain · tin = to hold, to keep 握住、持有、守住
+:::
+
+来源：拉丁语 *tenēre*（to hold, to keep），原形动词，印欧词根 \*ten-（拉伸、绷紧、持守），与希腊语 *teinein*（拉伸）同源。
+
+::: {.etymo}
+**词源故事：那只永远不松手的拳头**
+
+想象一只拳头，紧紧握住一根绳子，无论绳子被往哪个方向拉——向里拉、向外拉、向下压、向上提——那只拳头始终不松开。这就是拉丁语 *tenēre* 的本质：一个持续发力的"握"的动作。罗马人用它描述握住武器、守住阵地、保留财产、克制情绪……几乎一切"不放手"的行为都可以用这个词根表达。
+
+这个词根流传到古法语时，动词形式分裂成两支：一支保留了 *ten-* 的写法（如古法语 *tenir*），一支在鼻音影响下变成了 *-tain-*（如 *obtenir*、*retenir*），第三支则在非重读音节里弱化成 *-tin-*（如 *continent* 里的 *-tin-*）。三种拼法，一个祖先，一个意思——握。
+
+最能体现这个词根穿越历史能量的词，是 *lieutenant*：字面意思是"代替'位置'的持有者"——*lieu*（位置）+ *tenant*（持守者）。在长官不在时，由"握住那个位置"的人暂代职权。一个军衔，藏着整套权力交接的哲学。
+:::
+
+## 前缀决定方向，根永远是同一个动作
+
+*tenēre* 本身就是"握"。换一个前缀，握的方向、对象、目的就变了，但那只拳头始终没有松开：
+
+| 前缀 | 方向/语义 | 代表词 |
+|------|-----------|--------|
+| con- | 一起·容纳在内 | contain |
+| re- | 往回·保留住 | retain |
+| main- （manu- 手） | 用手托住·维护 | maintain |
+| sus- / sub- | 从下方支撑 | sustain |
+| ob- | 朝向·取得 | obtain |
+| de- | 扣下·拘留 | detain |
+| at- / ad- | 达到·攀及 | attain |
+| abs- | 离开·克制 | abstain |
+| per- | 贯穿·关涉 | pertain |
+
+记住这张表，遇到任何 *-tain / -ten / -tin* 的词，先认出那只拳头，再看前缀告诉你往哪个方向握。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [contain]{.headword} | v. | `con-`(一起/容纳)+`tain`(握) | 容纳；包含；控制（情绪） | [高频]{.freq .freq-1} |
+| [container]{.headword} | n. | `contain`+`-er`(物) | 容器；集装箱 | [高频]{.freq .freq-1} |
+| [retain]{.headword} | v. | `re-`(回)+`tain`(握) | 保留；记住；聘请（律师） | [高频]{.freq .freq-1} |
+| [retention]{.headword} | n. | `re-`+`ten`+`-tion` | 保留；记忆力；（液体）潴留 | [高频]{.freq .freq-1} |
+| [maintain]{.headword} | v. | `manu-`(手)+`-tain`(握) | 维护；坚持主张；供养 | [高频]{.freq .freq-1} |
+| [maintenance]{.headword} | n. | `maintain`+`-ance` | 维护；保养；赡养费 | [高频]{.freq .freq-1} |
+| [sustain]{.headword} | v. | `sus-`(从下)+`tain`(握) | 支撑；维持；承受（打击） | [高频]{.freq .freq-1} |
+| [sustenance]{.headword} | n. | `sus-`+`ten`+`-ance` | 食物；维持生计之物；精神支柱 | [中频]{.freq .freq-2} |
+| [sustainable]{.headword} | adj. | `sustain`+`-able` | 可持续的；可维持的 | [高频]{.freq .freq-1} |
+| [obtain]{.headword} | v. | `ob-`(朝向)+`tain`(握) | 获得；取得（正式用词） | [高频]{.freq .freq-1} |
+| [detain]{.headword} | v. | `de-`(扣下)+`tain`(握) | 拘留；耽搁；扣押 | [高频]{.freq .freq-1} |
+| [detention]{.headword} | n. | `de-`+`ten`+`-tion` | 拘留；课后留校；扣押 | [高频]{.freq .freq-1} |
+| [attain]{.headword} | v. | `at-`(到达)+`tain`(握) | 达到（目标/年龄）；获得 | [高频]{.freq .freq-1} |
+| [attainment]{.headword} | n. | `attain`+`-ment` | 成就；达到（尤指学业） | [中频]{.freq .freq-2} |
+| [abstain]{.headword} | v. | `abs-`(离开)+`tain`(握，克制) | 戒除；弃权（投票） | [中频]{.freq .freq-2} |
+| [abstinence]{.headword} | n. | `abs-`+`tin`+`-ence` | 禁欲；戒绝（酒、食等） | [中频]{.freq .freq-2} |
+| [pertain]{.headword} | v. | `per-`(贯穿)+`tain`(握) | 与……有关；适用于；属于 | [中频]{.freq .freq-2} |
+| [pertinent]{.headword} | adj. | `per-`+`tin`+`-ent` | 相关的；切题的；恰当的 | [中频]{.freq .freq-2} |
+| [impertinent]{.headword} | adj. | `im-`(非)+`pertinent` | 无礼的；不恰当的；不相关的 | [中频]{.freq .freq-2} |
+| [content]{.headword} | n./adj. | `con-`(一起)+`tent`(握住) | 内容；满足的（心里握住了） | [高频]{.freq .freq-1} |
+| [contented]{.headword} | adj. | `content`+`-ed` | 满足的；知足的 | [高频]{.freq .freq-1} |
+| [discontent]{.headword} | n./adj. | `dis-`(否)+`content` | 不满；不满足的 | [高频]{.freq .freq-1} |
+| [continent]{.headword} | n./adj. | `con-`+`tin`+`-ent` | 大陆；能自制的（大块陆地"连绵相接"） | [高频]{.freq .freq-1} |
+| [continental]{.headword} | adj. | `continent`+`-al` | 大陆的；欧洲大陆的 | [高频]{.freq .freq-1} |
+| [continue]{.headword} | v. | `con-`+`tin`+`-ue` | 继续；持续；延续 | [高频]{.freq .freq-1} |
+| [continuous]{.headword} | adj. | `con-`+`tinu`+`-ous` | 连续不断的；持续的 | [高频]{.freq .freq-1} |
+| [continual]{.headword} | adj. | `con-`+`tinu`+`-al` | 频繁发生的（有间歇的重复） | [中频]{.freq .freq-2} |
+| [continuity]{.headword} | n. | `continu`+`-ity` | 连续性；一贯性 | [中频]{.freq .freq-2} |
+| [discontinue]{.headword} | v. | `dis-`+`continue` | 停止；中断；停产 | [中频]{.freq .freq-2} |
+| [tenure]{.headword} | n. | `ten`+`-ure` | 任期；（土地）保有权；终身职位 | [中频]{.freq .freq-2} |
+| [tenacious]{.headword} | adj. | `ten`+`-acious`(充满) | 坚韧的；顽强的；牢固的 | [中频]{.freq .freq-2} |
+| [tenacity]{.headword} | n. | `ten`+`-acity` | 坚韧；顽强；执着 | [中频]{.freq .freq-2} |
+| [tenant]{.headword} | n. | `ten`+`-ant`(人) | 房客；租户；土地持有者 | [高频]{.freq .freq-1} |
+| [tenancy]{.headword} | n. | `tenant`→`-ancy` | 租赁（关系）；租期 | [中频]{.freq .freq-2} |
+| [tenable]{.headword} | adj. | `ten`+`-able`(可…的) | （论点）站得住脚的；可持守的 | [中频]{.freq .freq-2} |
+| [untenable]{.headword} | adj. | `un-`+`tenable` | 站不住脚的；无法辩护的 | [中频]{.freq .freq-2} |
+| [lieutenant]{.headword} | n. | `lieu`(位置)+`tenant`(持守者) | 中尉；副手；代理官员 | [高频]{.freq .freq-1} |
+| [pertinacity]{.headword} | n. | `per-`+`tin`+`-acity` | 坚持不懈；顽固执着 | [低频]{.freq .freq-3} |
+| [impertinence]{.headword} | n. | `im-`+`pertinen`+`-ce` | 无礼；冒失；不相关 | [低频]{.freq .freq-3} |
+| [abstinent]{.headword} | adj. | `abs-`+`tin`+`-ent` | 节制的；戒绝的 | [低频]{.freq .freq-3} |
+| [continence]{.headword} | n. | `con-`+`tin`+`-ence` | 自制力；（医）控制（排泄）能力 | [低频]{.freq .freq-3} |
+| [incontinence]{.headword} | n. | `in-`+`continence` | 失禁；无节制 | [中频]{.freq .freq-2} |
+| [countenance]{.headword} | n./v. | `con-`+`ten`变形 | 面容；表情；容忍；认可 | [中频]{.freq .freq-2} |
+| [appertain]{.headword} | v. | `ap-`(朝向)+`pertain` | 属于；与……相关（正式/法律用语） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The new policy aims to **contain** the spread of misinformation on social media platforms. （"握住"不让它蔓延——contain 表示控制、遏制）
+- The company decided to **retain** its best engineers by offering stock options and flexible hours. （把人才"握回来"留住——retain 强调保留）
+- It takes enormous resources to **maintain** the aging infrastructure of a modern city. （用"手"托住不让它垮——maintain 强调持续维护）
+- She managed to **sustain** her focus throughout the grueling eight-hour exam. （从下方"撑住"专注力——sustain 强调支撑、承受）
+- His argument that the data was fabricated is simply **untenable** in light of three independent audits. （论点"站不住脚"——untenable 是 tenable 加否定前缀）
+- The **lieutenant** stepped in to command the unit when the captain was wounded. （代握"位置"的人——lieutenant 字面即"持位者"）
+:::
+
+::: {.mnemonic}
+**助记**：画一张"方向盘"，中心写 **tain/ten/tin = 握**，八个辐条分别标上前缀和方向——
+
+- **con-** → 向内围住 → **contain**（容纳）
+- **re-** → 往回拉 → **retain**（保留）
+- **main-/manu-** → 用手托 → **maintain**（维护）
+- **sus-** → 从下撑 → **sustain**（支撑）
+- **ob-** → 朝外抓 → **obtain**（获取）
+- **de-** → 扣下不放 → **detain**（拘留）
+- **at-** → 伸手够到 → **attain**（达到）
+- **abs-** → 松手走开 → **abstain**（戒除/弃权）
+
+每次见到 *-tain/-ten/-tin*，先认出"握"，再看前缀告诉你往哪个方向握——词义自然浮出。
+:::
+
+::: {.trap}
+**陷阱一：continuous vs. continual**
+两者都来自同一词根，但语义已经分化。**continuous** 指"完全不中断的连续"（a continuous stream of water），**continual** 指"频繁重复但有间歇的"（continual interruptions）。不可互换。
+
+**陷阱二：content 的词根分析是趣闻，不是推断工具**
+[content]{.headword}（满足的）确实可以追溯到 *con- + tenēre*（心里完全被握满），但这属于历史词源演变，现代英语中 content 的"满足"义已高度词化。**不要用这个分析去猜测其他词的含义**——如果你见到一个新词，靠词根推义仍然可行，但"满足"这层引申义是特定演变，不代表所有 *con-tent* 结构都与情感满足有关。
+
+**陷阱三：countenance 与 contain 不是同一条演变路径**
+*countenance*（面容；容忍）经过了古法语的大幅改造，虽可追溯至 *continentia*（自持的举止），但其语义路径弯曲复杂。将它与 contain、retain 并排靠词根推义，风险较高——把它单独作为词汇记忆，不要强行纳入"前缀+tain"的推理框架。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 21 章）学完后，请回看以下章节以强化关联网络：
+
+- **第 20 章** — 对照今日词根，感受相邻词根在语义上的联系
+- **第 19 章** — 复习已学的动作性拉丁根，与 *tenēre* 比较"持续"与"运动"的区别
+- **第 17 章** — 巩固前缀系统（con-/re-/sub-/ab- 等），这些前缀在本章大量复现
+- **第 13 章** — 回顾另一组拉丁语持守义词根，与本章对比记忆
+- **第 5 章** — 复习基础前缀方向表，确保前缀直觉牢固
+
+**本章自测提示（遮住释义，只看词，能说出含义和词根拆解吗？）**
+
+1. *untenable* — 前缀是什么？否定的是什么能力？
+2. *lieutenant* — 两个词素各是什么意思？
+3. *sustain* vs. *maintain* — 两者的前缀方向有何不同？身体感受上有何差异？
+4. *abstain* — abs- 表示"离开"，tain 表示"握"，合起来的动作是什么？
+5. *continent*（大陆）— 为什么一块陆地会用"持守/相连"的词根命名？
+:::

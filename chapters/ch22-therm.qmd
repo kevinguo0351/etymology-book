@@ -1,0 +1,127 @@
+# therm / thermo —— "热·温"
+
+::: {.root-banner}
+therm · thermo = heat 热、温度
+:::
+
+来源：希腊语 **thermē**（热、温暖）与形容词 **thermos**（热的），同族于梵语 *gharma*（热）、拉丁语 *formus*（温暖），均可追溯至印欧语根 *\*gwher-*（热、温）。
+
+::: {.etymo}
+**词源故事：温泉、神话与测量的执念**
+
+希腊人生活在爱琴海边，对"热"的感知极为具体：太阳的炙烤、火山温泉的腾腾热气、冶铁炉的橙红光焰。他们用 *thermos* 描述这一切，并把这个词刻进了大量日常用语。今天著名的希腊温泉地 **Thermopylae**（温泉关）字面意思就是"热门之地"——*thermos* 加 *pylai*（门、关口），那场斯巴达三百勇士的血战，地名里藏着温泉。
+
+17世纪，意大利物理学家伽利略造出第一支粗陋的温度计，不久后工匠们用希腊语给它命名：*thermometer*，"测量热的仪器"。这个词之后像砖块一样被科学家反复借用，每当他们需要讨论热的新现象，就从 *thermo-* 里抽一块出来，拼上另一个希腊根，造出一个新词。
+
+19世纪热力学（thermodynamics）诞生，工程师们开始追问：热究竟能做多少功？蒸汽机的出现让这个问题变得生死攸关。*thermo* + *dynamis*（力量）= 动力与热的关系学。与此同时，日常生活里也出现了 *thermostat*——*thermo* + *statos*（站稳不动），意思是"让温度站住不动"的装置，恒温器由此得名。
+
+20世纪，物理学家把 *thermo-* 推向极端：*thermonuclear*（热核的），描述数千万度高温才能触发的核聚变反应。从温泉到氢弹，同一个希腊根跨越了人类文明两千五百年的热力探索。
+:::
+
+---
+
+**希腊领域根的拼搭逻辑：**
+
+*thermo-* 的力量在于它是一个"领域根"——自身清晰表达"热/温度"这个物理量，因此极适合与其他领域根直接拼合，构成专业术语。认识它的搭档根，就等于同时解锁数十个科学词汇。
+
+| 搭档根 | 含义 | 与 thermo 的组合示例 |
+|--------|------|----------------------|
+| -meter | 测量 | thermometer（温度计） |
+| -stat | 稳定、静止 | thermostat（恒温器） |
+| -dynamics | 力、运动 | thermodynamics（热力学） |
+| hypo- | 在下、低于 | hypothermia（体温过低） |
+| hyper- | 在上、超过 | hyperthermia（体温过高） |
+| geo- | 大地 | geothermal（地热的） |
+| iso- | 相等 | isotherm（等温线） |
+| exo- | 向外 | exothermic（放热的） |
+| endo- | 向内 | endothermic（吸热的） |
+| -nuclear | 原子核 | thermonuclear（热核的） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [thermometer]{.headword} | n. | `thermo`(热)+`-meter`(测量) | 温度计 | [高频]{.freq .freq-1} |
+| [thermal]{.headword} | adj./n. | `therm`(热)+`-al`(形容词后缀) | 热的；热气流 | [高频]{.freq .freq-1} |
+| [thermostat]{.headword} | n. | `thermo`(热)+`-stat`(稳定) | 恒温器，温控装置 | [高频]{.freq .freq-1} |
+| [thermos]{.headword} | n. | `therm`(热)+`-os`(希腊名词后缀) | 保温瓶（商标词转普通名词） | [高频]{.freq .freq-1} |
+| [thermodynamics]{.headword} | n. | `thermo`(热)+`dynamics`(动力学) | 热力学 | [高频]{.freq .freq-1} |
+| [hypothermia]{.headword} | n. | `hypo-`(低于)+`therm`(热)+`-ia`(医学状态) | 体温过低（症） | [高频]{.freq .freq-1} |
+| [hyperthermia]{.headword} | n. | `hyper-`(超过)+`therm`(热)+`-ia`(状态) | 体温过高（症）；高热 | [中频]{.freq .freq-2} |
+| [geothermal]{.headword} | adj. | `geo`(地)+`therm`(热)+`-al`(形容词) | 地热的 | [高频]{.freq .freq-1} |
+| [thermonuclear]{.headword} | adj. | `thermo`(热)+`nuclear`(核) | 热核的 | [中频]{.freq .freq-2} |
+| [isotherm]{.headword} | n. | `iso-`(等)+`therm`(热) | 等温线 | [中频]{.freq .freq-2} |
+| [exothermic]{.headword} | adj. | `exo-`(向外)+`therm`(热)+`-ic`(形容词) | 放热的（化学反应向外释放热量） | [中频]{.freq .freq-2} |
+| [endothermic]{.headword} | adj. | `endo-`(向内)+`therm`(热)+`-ic`(形容词) | 吸热的（化学反应吸收热量） | [中频]{.freq .freq-2} |
+| [thermocouple]{.headword} | n. | `thermo`(热)+`couple`(配对) | 热电偶（测高温的传感器） | [中频]{.freq .freq-2} |
+| [thermodynamic]{.headword} | adj. | `thermo`(热)+`dynamic`(动力的) | 热力学的 | [高频]{.freq .freq-1} |
+| [thermoregulation]{.headword} | n. | `thermo`(热)+`regulation`(调节) | 体温调节 | [中频]{.freq .freq-2} |
+| [thermosphere]{.headword} | n. | `thermo`(热)+`-sphere`(球层) | 热层（大气层分层之一） | [中频]{.freq .freq-2} |
+| [thermoplastic]{.headword} | adj./n. | `thermo`(热)+`plastic`(可塑的) | 热塑性的；热塑材料 | [中频]{.freq .freq-2} |
+| [thermosetting]{.headword} | adj. | `thermo`(热)+`setting`(固化) | 热固性的（加热后永久硬化） | [中频]{.freq .freq-2} |
+| [thermoelectric]{.headword} | adj. | `thermo`(热)+`electric`(电) | 热电的 | [中频]{.freq .freq-2} |
+| [thermochemistry]{.headword} | n. | `thermo`(热)+`chemistry`(化学) | 热化学 | [低频]{.freq .freq-3} |
+| [thermogram]{.headword} | n. | `thermo`(热)+`-gram`(图/记录) | 热谱图；红外热像图 | [低频]{.freq .freq-3} |
+| [thermography]{.headword} | n. | `thermo`(热)+`-graphy`(书写/记录技术) | 热成像术 | [中频]{.freq .freq-2} |
+| [thermopile]{.headword} | n. | `thermo`(热)+`pile`(堆叠) | 热电堆（多个热电偶串联） | [低频]{.freq .freq-3} |
+| [thermophile]{.headword} | n./adj. | `thermo`(热)+`-phile`(喜好) | 嗜热生物；嗜热的 | [低频]{.freq .freq-3} |
+| [thermophilic]{.headword} | adj. | `thermo`(热)+`-philic`(亲…的) | 嗜热性的（微生物学） | [低频]{.freq .freq-3} |
+| [isothermal]{.headword} | adj. | `iso-`(等)+`therm`(热)+`-al`(形容词) | 等温的 | [中频]{.freq .freq-2} |
+| [geothermics]{.headword} | n. | `geo`(地)+`therm`(热)+`-ics`(学科) | 地热学 | [低频]{.freq .freq-3} |
+| [ectotherm]{.headword} | n. | `ecto-`(外)+`therm`(热) | 外温动物（俗称"冷血动物"） | [中频]{.freq .freq-2} |
+| [endotherm]{.headword} | n. | `endo-`(内)+`therm`(热) | 内温动物（俗称"温血动物"） | [中频]{.freq .freq-2} |
+| [poikilotherm]{.headword} | n. | `poikilo-`(变化)+`therm`(热) | 变温动物 | [低频]{.freq .freq-3} |
+| [homeotherm]{.headword} | n. | `homeo-`(相同/恒定)+`therm`(热) | 恒温动物 | [低频]{.freq .freq-3} |
+| [thermocline]{.headword} | n. | `thermo`(热)+`-cline`(倾斜/梯度) | 温跃层（海洋中温度急变层） | [低频]{.freq .freq-3} |
+| [thermolysis]{.headword} | n. | `thermo`(热)+`-lysis`(分解) | 热分解；（生理）散热 | [低频]{.freq .freq-3} |
+| [thermometer scale]{.headword} | n. | `thermo`(热)+`-meter`(计)+`scale`(刻度) | 温度计刻度 | [中频]{.freq .freq-2} |
+| [diathermy]{.headword} | n. | `dia-`(穿透)+`therm`(热)+`-y`(名词) | 透热疗法（医用高频电加热） | [低频]{.freq .freq-3} |
+| [athermous]{.headword} | adj. | `a-`(无)+`therm`(热)+`-ous`(形容词) | 不传热的；阻热的 | [低频]{.freq .freq-3} |
+| [thermalization]{.headword} | n. | `thermo`(热)+`-ization`(过程) | 热化（粒子达到热平衡的过程） | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The hiker was rushed to hospital showing early signs of **hypothermia** after spending the night in freezing rain.（体温过低：低于正常体温的危险状态，*hypo-* = 低于）
+- Scientists drilled deep into the Earth's crust to tap **geothermal** energy for the city's heating network.（地热能：来自地球内部的热量，*geo-* = 大地）
+- The combustion of hydrogen is highly **exothermic**, releasing heat rapidly into the surroundings.（放热的：反应向外部环境释放热能，*exo-* = 向外）
+- A **thermostat** senses the room temperature and switches the furnace on or off to maintain a set point.（恒温器：让温度"站住不动"的装置，*-stat* = 稳定）
+- The **thermodynamic** efficiency of a steam engine is fundamentally limited by the laws of entropy.（热力学的：研究热与功转换规律的学科形容词）
+- Dissolving ammonium nitrate in water is an **endothermic** process — the solution actually feels cold to the touch.（吸热的：反应从环境吸收热量，*endo-* = 向内）
+:::
+
+::: {.mnemonic}
+**助记**：把 *thermo-* 想成一支**温度计**（thermometer）——它是整章的母词，也是最直觉的记忆锚。每次遇到新的 *thermo-* 词，先在脑海里摆一支温度计，再看它的搭档根决定"对温度做什么"：*-stat* 让它不动（恒温），*-meter* 测量它，*dynamics* 研究它能做什么功，*hypo-* / *hyper-* 把指针拉低或推高，*exo-* / *endo-* 决定热量流向哪里。搭档根的方向感定了，整个词族自然成网。
+:::
+
+::: {.trap}
+**陷阱**：*thermos* 作为"保温瓶"是一个商标词（1904年德国公司注册），后来在英语中演变为普通名词。这个词的词源确实来自希腊语 *thermos*（热的），因为保温瓶的原理是隔热保温。但要注意：**Thermos**（大写）在部分国家仍是注册商标，书面正式用语更常用 *vacuum flask* 或 *insulated bottle*。
+
+另外，*thermal* 作名词时指"热气流"（上升的暖气柱，滑翔机、猛禽借助它上升），与"热的"这个形容词义来自同一词根，但使用场景截然不同，不要混淆。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 22 章）学完后，请回顾以下章节，强化词根网络：
+
+- **第 21 章**：复习上一章词根，检验是否已能流利拆解派生词
+- **第 20 章**：对照本章"领域根互相拼搭"的模式，回看第 20 章是否也有类似的拼搭逻辑
+- **第 18 章**：重温该章词根与 *thermo-* 的语义交叉点
+- **第 14 章**：本章出现了 *-meter*（测量），回看第 14 章中与"测量"相关的词根族
+- **第 6 章**：本章出现了 *-lysis*（分解）、*-graphy*（书写/记录）等后缀，回看第 6 章巩固后缀系统
+
+**本章自测**（不翻书，在纸上写出）：
+
+1. *hypothermia* 的三个词素分别是什么，各是什么意思？
+2. 化学课上说某反应是 *exothermic*，热量是流入还是流出？
+3. *thermostat* 里的 *-stat* 和哪个你学过的词共享同一个根？（提示：想想"静态/稳定"）
+4. 不查词典，猜测 *thermophilic bacteria* 是喜欢什么环境的细菌？
+5. *isotherm* 在气象图上是什么？它和 *iso-* 的哪个意思有关？
+:::

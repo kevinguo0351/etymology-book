@@ -1,0 +1,145 @@
+# path / patho —— "感受·苦·疾病"
+
+::: {.root-banner}
+`path` · `patho` = feeling, suffering, disease　感受、苦难、疾病
+:::
+
+来源：希腊语 **pathos**（πάθος），本义为"感受、经历、苦难"，动词原形为 *paschein*（受苦、经历），与 *penthos*（悲痛）同源。
+
+::: {.etymo}
+**词源故事：古希腊的"感受之根"**
+
+在古希腊戏剧中，*pathos* 是修辞三要素（*ethos*、*logos*、*pathos*）之一，专指打动观众情感的力量——悲剧主角的痛苦、命运的无情、观众席上流下的泪水，全部汇聚于这一个词。亚里士多德在《诗学》里分析悲剧时，*pathos* 意味着情节中的苦难场景，是净化灵魂的核心。
+
+这个根进入医学词汇后，重心略有偏移——从"感受到的苦"走向"造成苦的事物"，也就是疾病本身。于是 *pathology*（病理学）诞生了：研究疾病的学科，字面意思正是"对苦难的研究"。
+
+`path` 在英语里扮演的角色极其特殊：它不是行走的"小路"（那个 path 是纯日耳曼词，与此无关），而是一个纯粹的意义容器，专门等待其他希腊词根来和它拼接。前缀或搭档根决定"谁的感受、用什么方式感受"，`path` 永远只负责"那个感受/苦/病"本身。正因如此，这个根的生产力几乎无穷尽——心理学、神经学、社会学、医学各个领域都用它造新词。
+:::
+
+### 搭档根一览
+
+这是一个典型的"领域根互相拼搭"的希腊词根——它几乎从不单独出现，而是与其他希腊前缀或词根结合，产生意义截然不同的派生词群。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `sym-` / `syn-`（共同，来自 *syn*） | 一起 | sympathy 同情、sympathetic |
+| `em-` / `en-`（进入） | 入内 | empathy 移情、empathize |
+| `a-`（否定，希腊前缀） | 无 | apathy 冷漠、apathetic |
+| `anti-`（反对） | 反 | antipathy 反感 |
+| `tele-`（远距离） | 远 | telepathy 心灵感应 |
+| `psycho-`（心灵、精神） | 心智 | psychopath 精神病患者 |
+| `socio-`（社会） | 社会 | sociopath 反社会者 |
+| `-gen` / `geno-`（产生） | 生出 | pathogen 病原体 |
+| `neuro-`（神经） | 神经 | neuropathy 神经病变 |
+| `homeo-`（相似、同质） | 同类 | homeopathy 顺势疗法 |
+| `osteo-`（骨骼） | 骨头 | osteopathy 整骨疗法 |
+| `-logy`（研究） | 学科 | pathology 病理学 |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [sympathy]{.headword} | n. | `sym-`(共同)+`path`(感受)+`-y` | 同情；共鸣 | [高频]{.freq .freq-1} |
+| [sympathetic]{.headword} | adj. | `sym-`+`path`+`-etic` | 表示同情的；交感神经的 | [高频]{.freq .freq-1} |
+| [sympathize]{.headword} | v. | `sym-`+`path`+`-ize` | 同情；表示赞同 | [高频]{.freq .freq-1} |
+| [empathy]{.headword} | n. | `em-`(进入)+`path`(感受)+`-y` | 移情；感同身受 | [高频]{.freq .freq-1} |
+| [empathetic]{.headword} | adj. | `em-`+`path`+`-etic` | 有移情能力的；善解人意的 | [高频]{.freq .freq-1} |
+| [empathize]{.headword} | v. | `em-`+`path`+`-ize` | 设身处地感受；产生共情 | [高频]{.freq .freq-1} |
+| [apathy]{.headword} | n. | `a-`(无)+`path`(感受)+`-y` | 冷漠；无动于衷 | [高频]{.freq .freq-1} |
+| [apathetic]{.headword} | adj. | `a-`+`path`+`-etic` | 冷漠的；麻木的 | [中频]{.freq .freq-2} |
+| [pathetic]{.headword} | adj. | `path`(苦)+`-etic` | 可怜的；令人同情的；（口）差劲的 | [高频]{.freq .freq-1} |
+| [pathos]{.headword} | n. | `pathos`（原词保留） | （文学/艺术中的）悲情；感染力 | [中频]{.freq .freq-2} |
+| [pathology]{.headword} | n. | `patho`(疾病)+`-logy`(研究) | 病理学；病理状态 | [高频]{.freq .freq-1} |
+| [pathological]{.headword} | adj. | `patho`+`-logy`+`-ical` | 病理的；病态的；无法控制的 | [高频]{.freq .freq-1} |
+| [pathologist]{.headword} | n. | `patho`+`-logy`+`-ist` | 病理学家 | [中频]{.freq .freq-2} |
+| [pathogen]{.headword} | n. | `patho`(病)+`-gen`(产生) | 病原体；致病微生物 | [高频]{.freq .freq-1} |
+| [pathogenic]{.headword} | adj. | `patho`+`-gen`+`-ic` | 致病的；引起疾病的 | [中频]{.freq .freq-2} |
+| [antipathy]{.headword} | n. | `anti-`(反)+`path`(感受)+`-y` | 反感；厌恶 | [中频]{.freq .freq-2} |
+| [antipathetic]{.headword} | adj. | `anti-`+`path`+`-etic` | 令人反感的；有强烈厌恶的 | [低频]{.freq .freq-3} |
+| [telepathy]{.headword} | n. | `tele-`(远)+`path`(感受)+`-y` | 心灵感应；超距传心 | [中频]{.freq .freq-2} |
+| [telepathic]{.headword} | adj. | `tele-`+`path`+`-ic` | 心灵感应的 | [中频]{.freq .freq-2} |
+| [psychopath]{.headword} | n. | `psycho-`(精神)+`path`(病) | 精神病态者；反社会人格者 | [高频]{.freq .freq-1} |
+| [psychopathic]{.headword} | adj. | `psycho-`+`path`+`-ic` | 精神病态的 | [中频]{.freq .freq-2} |
+| [psychopathy]{.headword} | n. | `psycho-`+`path`+`-y` | 精神病态；精神变态 | [中频]{.freq .freq-2} |
+| [sociopath]{.headword} | n. | `socio-`(社会)+`path`(病) | 反社会人格者（轻于 psychopath）| [高频]{.freq .freq-1} |
+| [sociopathic]{.headword} | adj. | `socio-`+`path`+`-ic` | 反社会人格的 | [中频]{.freq .freq-2} |
+| [neuropathy]{.headword} | n. | `neuro-`(神经)+`path`(病)+`-y` | 神经病变；周围神经病 | [中频]{.freq .freq-2} |
+| [neuropathic]{.headword} | adj. | `neuro-`+`path`+`-ic` | 神经病变的 | [中频]{.freq .freq-2} |
+| [homeopathy]{.headword} | n. | `homeo-`(相似)+`path`(病)+`-y` | 顺势疗法（以毒攻毒的替代医学）| [中频]{.freq .freq-2} |
+| [homeopathic]{.headword} | adj. | `homeo-`+`path`+`-ic` | 顺势疗法的；极微量的 | [中频]{.freq .freq-2} |
+| [osteopathy]{.headword} | n. | `osteo-`(骨)+`path`(病)+`-y` | 整骨疗法；骨病 | [低频]{.freq .freq-3} |
+| [osteopath]{.headword} | n. | `osteo-`+`path` | 整骨师 | [低频]{.freq .freq-3} |
+| [cardiopathy]{.headword} | n. | `cardio-`(心脏)+`path`(病)+`-y` | 心脏病变 | [低频]{.freq .freq-3} |
+| [myopathy]{.headword} | n. | `myo-`(肌肉)+`path`(病)+`-y` | 肌肉病变 | [低频]{.freq .freq-3} |
+| [encephalopathy]{.headword} | n. | `encephalo-`(脑)+`path`(病)+`-y` | 脑病；脑部病变 | [低频]{.freq .freq-3} |
+| [allopathy]{.headword} | n. | `allo-`(他、异)+`path`+`-y` | 对抗疗法（现代主流医学的别称）| [低频]{.freq .freq-3} |
+| [suffering]{.headword} | n./adj. | 源于同族 *pascho*，经拉丁转手 | 苦难；受苦（词根同族，词形已异化）| [高频]{.freq .freq-1} |
+| [passion]{.headword} | n. | 来自拉丁 *pati*（受苦），同根 | 激情；受难（词形已完全拉丁化）| [高频]{.freq .freq-1} |
+| [passive]{.headword} | adj. | 拉丁 *passivus*，同族 *pati* | 被动的；消极的 | [高频]{.freq .freq-1} |
+| [patient]{.headword} | n./adj. | 拉丁 *patiens*（忍受者）同族 | 病人；有耐心的 | [高频]{.freq .freq-1} |
+| [compatible]{.headword} | adj. | `com-`+`pat-`(忍受)+`-ible` | 相容的；兼容的 | [高频]{.freq .freq-1} |
+| [compassion]{.headword} | n. | `com-`(共)+`passion`(受苦) | 同情心；怜悯 | [高频]{.freq .freq-1} |
+| [impassioned]{.headword} | adj. | `im-`+`passion`+`-ed` | 慷慨激昂的；充满激情的 | [中频]{.freq .freq-2} |
+| [dispassionate]{.headword} | adj. | `dis-`+`passion`+`-ate` | 冷静客观的；不动感情的 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- She expressed deep **sympathy** for the victims of the flood, organizing a community fundraiser within days.（sympathy = 与他人共同感受苦难，不只是嘴上说说）
+- A good therapist doesn't just sympathize—they **empathize**, temporarily inhabiting the patient's emotional world.（empathy 比 sympathy 更深：是"进入"对方的感受，而非从旁共鸣）
+- The voter turnout was shockingly low, reflecting widespread **apathy** toward the election.（a- 无 + pathy 感受 = 完全没有情绪反应，投票都懒得去）
+- The documentary used real case files to avoid cheap **pathos**, letting the facts speak for themselves.（pathos = 刻意煽情的悲情手法；此处导演主动回避它）
+- Blood tests confirmed the presence of a **pathogen** resistant to three classes of antibiotics.（patho- 病 + -gen 产生者 = 制造疾病的东西，即病原体）
+- His **pathological** need for control made every team meeting unbearable.（pathological 已脱离字面医学义，指"病态到无法自控的"）
+:::
+
+::: {.mnemonic}
+**助记**：把 `path` 想象成一张"感受雷达"。雷达的方向由前缀决定：
+- `sym-`（共同）→ 雷达朝向**他人**，捕捉对方的苦 = sympathy 同情
+- `em-`（进入）→ 雷达**钻进**对方内心 = empathy 移情
+- `a-`（无）→ 雷达**关机** = apathy 冷漠
+- `anti-`（反）→ 雷达**排斥**信号 = antipathy 反感
+- `patho-` + `-gen` → 雷达探测到**病的来源** = pathogen 病原体
+
+只要记住"path = 感受/苦/病，前缀决定方向"，遇到任何新词都能拆解推断。
+:::
+
+::: {.trap}
+**陷阱一：pathway 与 path（道路）**
+
+英语里 `path`（小路、路径）和希腊根 `path-`（感受、疾病）是**两个不同来源的词**，外形完全相同但毫无关联。前者来自古英语 *pæþ*，属日耳曼语系；后者来自希腊语 *pathos*。`pathway`、`footpath`、`career path` 里的 path 是"路"，与感受、疾病概念**没有任何词源联系**。不要用 pathway 去推测词根含义，也不要用 sympathy 的词源去解读 pathway。
+
+**陷阱二：passion / patient / compatible 的归属**
+
+sympathy 是**希腊根** path，而 passion、patient、compatible 来自**拉丁语** *pati*（受苦、忍受）。两者是远亲：希腊 *paschein* 和拉丁 *pati* 可能有更远的印欧语共同祖先，但这属于历史语言学的推测，不是可靠的推断工具。实用建议：把它们当作两套独立记忆的词族——希腊族（path/patho）和拉丁族（pass/pat/pati），偶尔的语义呼应（都涉及"受苦、感受"）可以帮助记忆，但**不能用一族的词形去推测另一族的拼写或含义**。
+
+**陷阱三：sympathetic 的医学含义**
+
+`sympathetic` 在日常语境中是"富有同情心的"，但在解剖学/生理学中，`sympathetic nervous system`（交感神经系统）是完全独立的技术术语，指控制心跳加速、血压升高等"战或逃"反应的神经系统分支。读医学文本时不要将两者混淆。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 18 章）学完后，请回看以下已学章节，激活记忆网络：
+
+- **第 17 章**：上一章内容，趁热巩固
+- **第 16 章**：回顾相关词根，与本章对照
+- **第 14 章**：检验中期记忆留存
+- **第 10 章**：测试远期记忆
+- **第 2 章**：回到早期词根，看能否主动回想
+
+**本章自测提示**（不看书，先默写）：
+
+1. `sym-` + `path` = ？（提示：与他人同感）
+2. `a-` + `path` + `-ic` = ？（提示：情绪"断电"的形容词）
+3. `patho-` + `-gen` = ？（提示：医院里要隔离的东西）
+4. `psycho-` + `path` = ？（提示：反社会犯罪剧里常见的诊断词）
+5. 英文造句：用 empathize 描述一位优秀的老师对学生的态度。
+:::

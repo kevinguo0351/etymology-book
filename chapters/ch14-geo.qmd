@@ -1,0 +1,119 @@
+# geo —— "大地·地球"
+
+::: {.root-banner}
+geo = earth 大地、地球
+:::
+
+来源：希腊语 **gē**（γῆ）/ **geō**（γεω-），本义"大地、土地"，是古希腊人对脚下这片实体土地的称呼，后来扩展为"整个地球"的抽象概念。
+
+::: {.etymo}
+**词源故事：大地女神盖亚的名字**
+
+古希腊神话中，大地本身就是一位神——**Gaia**（盖亚），万物的母亲。她的名字来自同一个词根 *gē*，意思就是"大地"。当希腊人说 *gē* 的时候，他们想的不是抽象的"行星地球"，而是那片可以耕种、可以踩踏、会震动也会喷火的实体土地。
+
+希腊人用这个词根构建了一整套描述"研究大地"的词汇。*geōgraphía* 是"描绘大地"，*geōlogía* 是"研究大地的学问"，*geōmetría* 原本的意思竟然是"测量土地"——古埃及尼罗河每年泛滥过后，人们需要重新丈量土地边界，这门"测地学"逐渐演化成了今天的几何学。
+
+*geo-* 进入拉丁语，再传入现代英语，成为一个高产的前缀，几乎与所有描述"测量、研究、书写、力量"的希腊词根自由拼搭。这种"领域根互相拼搭"的能力，是希腊词根最迷人的地方：认识了 *geo-*，再认识五六个搭档根，你就能解锁几十个学术词汇。
+:::
+
+### 搭档根一览
+
+| 搭档根 | 含义 | 与 geo- 的组合示例 |
+|--------|------|-------------------|
+| **-graphy** | 写、描绘、记录（graphō） | geo**graphy** 地理学 |
+| **-logy** | 学说、研究（logos） | geo**logy** 地质学 |
+| **-metry** | 测量（metron） | geo**metry** 几何（原义：测地） |
+| **-physics** | 自然/物理（physis） | geo**physics** 地球物理学 |
+| **thermo-** | 热（thermos） | geo**thermal** 地热的 |
+| **-centric** | 以……为中心（kentron） | geo**centric** 地心说的 |
+| **magnet-** | 磁（magnēs） | geo**magnetic** 地磁的 |
+| **apo-** | 远离（apo） | **apo**gee 远地点 |
+| **peri-** | 围绕、近旁（peri） | **peri**gee 近地点 |
+| **-spatial** | 空间（spatium，拉丁） | geo**spatial** 地理空间的 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [geography]{.headword} | n. | `geo-`(地球)+`-graphy`(描绘) | 地理学；地形 | [高频]{.freq .freq-1} |
+| [geographical]{.headword} | adj. | `geo-`+`-graph-`+`-ical`(形容词尾) | 地理（学）的 | [高频]{.freq .freq-1} |
+| [geographer]{.headword} | n. | `geo-`+`-grapher`(从事者) | 地理学家 | [中频]{.freq .freq-2} |
+| [geology]{.headword} | n. | `geo-`(地球)+`-logy`(学) | 地质学 | [高频]{.freq .freq-1} |
+| [geological]{.headword} | adj. | `geo-`+`-logic-`+`-al` | 地质的 | [高频]{.freq .freq-1} |
+| [geologist]{.headword} | n. | `geo-`+`-logist`(研究者) | 地质学家 | [中频]{.freq .freq-2} |
+| [geometry]{.headword} | n. | `geo-`(土地)+`-metry`(测量) | 几何学 | [高频]{.freq .freq-1} |
+| [geometric]{.headword} | adj. | `geo-`+`-metric`(测量的) | 几何的；几何形状的 | [高频]{.freq .freq-1} |
+| [geometrical]{.headword} | adj. | `geo-`+`-metrical` | 几何学的（与 geometric 近义） | [中频]{.freq .freq-2} |
+| [geophysics]{.headword} | n. | `geo-`(地球)+`physics`(物理) | 地球物理学 | [中频]{.freq .freq-2} |
+| [geophysical]{.headword} | adj. | `geo-`+`physical` | 地球物理的 | [中频]{.freq .freq-2} |
+| [geothermal]{.headword} | adj. | `geo-`(地球)+`thermal`(热的) | 地热的 | [中频]{.freq .freq-2} |
+| [geothermal energy]{.headword} | n. phr. | `geo-`+`therm-`(热)+`-al` | 地热能 | [中频]{.freq .freq-2} |
+| [geopolitics]{.headword} | n. | `geo-`(地理)+`politics`(政治) | 地缘政治学 | [高频]{.freq .freq-1} |
+| [geopolitical]{.headword} | adj. | `geo-`+`political` | 地缘政治的 | [高频]{.freq .freq-1} |
+| [geocentric]{.headword} | adj. | `geo-`(地球)+`-centric`(中心) | 地心说的；以地球为中心的 | [中频]{.freq .freq-2} |
+| [geode]{.headword} | n. | `geo-`(地球)+`-ode`(像……的) | 晶洞（外表普通、内有水晶的岩石） | [中频]{.freq .freq-2} |
+| [geomagnetic]{.headword} | adj. | `geo-`(地球)+`magnetic`(磁的) | 地磁的 | [中频]{.freq .freq-2} |
+| [geomagnetism]{.headword} | n. | `geo-`+`magnet-`+`-ism` | 地磁（学） | [低频]{.freq .freq-3} |
+| [geospatial]{.headword} | adj. | `geo-`(地理)+`spatial`(空间的) | 地理空间的 | [中频]{.freq .freq-2} |
+| [geochemistry]{.headword} | n. | `geo-`(地球)+`chemistry`(化学) | 地球化学 | [中频]{.freq .freq-2} |
+| [geochemical]{.headword} | adj. | `geo-`+`chemical` | 地球化学的 | [低频]{.freq .freq-3} |
+| [geomorphology]{.headword} | n. | `geo-`(地球)+`morph-`(形态)+`-logy`(学) | 地貌学 | [低频]{.freq .freq-3} |
+| [geomorphological]{.headword} | adj. | `geo-`+`morpho-`+`-logical` | 地貌学的 | [低频]{.freq .freq-3} |
+| [apogee]{.headword} | n. | `apo-`(远离)+`geo-`(地球) | 远地点；（比喻）顶峰 | [中频]{.freq .freq-2} |
+| [perigee]{.headword} | n. | `peri-`(靠近)+`geo-`(地球) | 近地点 | [中频]{.freq .freq-2} |
+| [geodesy]{.headword} | n. | `geo-`(地球)+`-desy`（daíō，分割） | 大地测量学 | [低频]{.freq .freq-3} |
+| [geodetic]{.headword} | adj. | `geo-`+`-detic` | 大地测量的 | [低频]{.freq .freq-3} |
+| [geocode]{.headword} | v./n. | `geo-`(地理)+`code`(编码) | 地理编码（将地址转为坐标） | [中频]{.freq .freq-2} |
+| [geostationary]{.headword} | adj. | `geo-`(地球)+`stationary`(静止的) | 地球同步静止的 | [中频]{.freq .freq-2} |
+| [geostationary orbit]{.headword} | n. phr. | `geo-`+`stationary`+`orbit` | 地球静止轨道 | [中频]{.freq .freq-2} |
+| [geosynchronous]{.headword} | adj. | `geo-`(地球)+`synchronous`(同步的) | 地球同步的 | [低频]{.freq .freq-3} |
+| [georeferencing]{.headword} | n. | `geo-`+`referencing`(参照) | 地理配准（GIS 术语） | [低频]{.freq .freq-3} |
+| [geologic time]{.headword} | n. phr. | `geo-`+`logic`+`time` | 地质时间（数亿年尺度） | [中频]{.freq .freq-2} |
+| [geomorphic]{.headword} | adj. | `geo-`+`morph-`(形)+`-ic` | 地貌的；地形形成的 | [低频]{.freq .freq-3} |
+| [geophagy]{.headword} | n. | `geo-`(土)+`-phagy`(吃) | 食土癖（动物或人摄入土壤） | [低频]{.freq .freq-3} |
+| [geomancy]{.headword} | n. | `geo-`(土地)+`-mancy`(占卜) | 土占；风水占卜术 | [低频]{.freq .freq-3} |
+| [Pangaea]{.headword} | n. | `pan-`(全)+`gaea`(大地) | 盘古大陆（原始超大陆） | [中频]{.freq .freq-2} |
+| [perigean]{.headword} | adj. | `peri-`(近)+`geo-`+`-an` | 近地点的（天文） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The **geography** of a country shapes everything from its climate to its politics.（一国的地理面貌决定了气候乃至政治走向——geography 在此既指学科，也指实体地形）
+- **Geological** surveys revealed that the region sits on an ancient volcanic bed.（地质勘探揭示该地区下方是古老的火山基岩——geological 修饰"调查"，搭配非常固定）
+- At its **apogee**, the empire controlled trade routes stretching from the Mediterranean to Central Asia.（帝国鼎盛时期，商路从地中海延伸到中亚——apogee 从天文"远地点"借喻"顶峰"，比 peak 更书面）
+- The satellite was placed in **geostationary** orbit, hovering over the same spot on Earth's surface at all times.（卫星被送入地球静止轨道，始终悬停在地球表面同一点正上方——geo- 强调"与地球同步"）
+- **Geospatial** data from GPS sensors is now used to optimize everything from delivery routes to disaster response.（GPS 传感器采集的地理空间数据，如今被用于优化从快递路线到灾难响应的一切——geospatial 是数字地理信息行业的核心词）
+- Iceland harnesses **geothermal** energy to heat nearly 90% of its homes.（冰岛利用地热能为近 90% 的住宅供暖——geo- 与 thermal 合体，指来自地球内部的热能）
+:::
+
+::: {.mnemonic}
+**助记**：把 **geo-** 想成大地女神 **Gaia** 的小名——Gaia → **Gea** → **Geo**。每次看到 geo- 开头的词，就想象 Gaia 站在中间，伸出双手拉着不同的搭档根：左手抓着 *-logy*（学）变成"地质学"，右手抓着 *-metry*（测）变成"几何"，脚下踩着 *thermo-*（热）变成"地热"。大地女神拉着各路学科，拼出整个地球科学体系。
+
+另外记住两个"距离"词：**apo-**（away，远离）+ geo = **apogee** 远地点，**peri-**（around/near，靠近）+ geo = **perigee** 近地点。天文学家把卫星轨道的两端都和"地球"联系在一起，因为一切距离都是以地球为参照点量出来的。
+:::
+
+::: {.trap}
+**陷阱：geometry 不是"地球测量"，而是"几何学"**
+
+*geometry* 的词源故事（古埃及人测量尼罗河泛滥后的土地）是真实的历史——公元前 3 世纪希腊人把这套测量规则抽象化，写进了欧几里得的《几何原本》。然而今天的 **geometry** 已经完全脱离"土地"语义，专指抽象的几何学。请不要把词源故事当成现代词义来使用：你学了 geo-(地)+metry(测量)，只能帮你记住这个词，**不能**据此推断 geometry 有任何"土地"或"测量实际地形"的现代含义。
+
+同理，**geomancy**（风水占卜，土占）和 **geophagy**（食土癖）属于真实词汇，词源透明，但都是极低频的专业/历史词，仅供兴趣了解，**不要**把这类词拿来反推 geo- 在其他词中的意思。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 14 章）引入了 **geo-** 这一高产希腊根及其九个搭档根。建议回顾以下已学章节，强化搭档根的印象：
+
+- **第 13 章**——请回看上一章的词根，检查它与 geo- 有无组合词（如 geo- + 上一章词根）
+- **第 12 章**——重温该章词根，尝试用"前缀 + 根 + 后缀"方式默写三个派生词
+- **第 10 章**——本章出现了 -logy、-graphy 等后缀；回看第 10 章，找出所有含这两个后缀的词并默写释义
+- **第 6 章**——回顾 -metry / -meter 的来源，与本章 geometry 的词源故事相互印证
+
+**本章自测提示**
+
+1. 不看书，用中文说出 apogee 与 perigee 的区别，以及 apo-/peri- 各自的含义。
+2. 遮住"拆解"列，默写 geothermal、geocentric、geomorphology 的词缀组合。
+3. 造一个含 geopolitical 的英文句子，描述一个真实的当代事件。
+4. 解释为什么 geometry 词源来自"测地"，却与现代"几何"含义几乎无关——用自己的话说清楚这种"语义漂移"。
+:::

@@ -1,0 +1,125 @@
+# psych / psycho —— "心灵·精神"
+
+::: {.root-banner}
+psych · psycho = soul, mind 灵魂；心灵；精神
+:::
+
+来源：希腊语 **psychē**（ψυχή），本义"呼吸、生命力、灵魂"，与动词 *psychein*（吹气）同源，古希腊人相信灵魂随最后一口气离开身体。
+
+::: {.etymo}
+**词源故事：那个因爱而得名的女孩**
+
+古希腊神话里，Psyche 是一位美貌的凡间女孩，美得让爱神之母阿芙罗狄忒嫉妒。爱神厄洛斯（Eros）奉命去惩罚她，却不慎被自己的箭射中，爱上了她。两人秘密同居，但厄洛斯禁止 Psyche 看自己的脸——因为他是神，凡人看见神的真容会死。Psyche 经不住姐姐挑唆，在夜里点起油灯查看，爱神惊醒飞走。此后 Psyche 历经重重考验，最终得到众神之王宙斯赐予的不死之身，与厄洛斯永结连理。
+
+这个神话里，Psyche 象征人类的"灵魂"——脆弱、好奇、渴望被理解，又能在苦难中成长。希腊文 *psychē* 于是成了"灵魂"的代名词，后世凡涉及精神、心灵的领域，都从这个词根取材。
+
+进入近现代英语，**psych-** 系词根集中爆发在 19 世纪至 20 世纪：心理学（psychology）在 1653 年就有记载，精神病学（psychiatry）随着现代医学兴起，精神分析（psychoanalysis）因弗洛伊德而家喻户晓，致幻剂时代诞生了 psychedelic。这个词根本身就是一部西方人探索"内心世界"的简史。
+:::
+
+## psych- 的搭档根
+
+这是一个典型的**领域根**：psych- 自己代表研究对象（心灵），借助各类搭档根说明"怎么研究、怎么治、出了什么问题"。
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| -logy | 学科；研究 | psychology 心理学 |
+| -iatry / -iatrist | 医治；医生 | psychiatry 精神病学 |
+| -therapy | 治疗 | psychotherapy 心理治疗 |
+| -path / -pathy | 痛苦；病 | psychopath 精神病态者 |
+| -osis | 病态；病变 | psychosis 精神病 |
+| -otic | …病的；…状态的 | psychotic 精神病的 |
+| -analysis | 分析；拆解 | psychoanalysis 精神分析 |
+| -somatic | 身体的 | psychosomatic 身心的 |
+| -metric / -metrics | 测量 | psychometrics 心理测量学 |
+| -edelic | 显现；显示 | psychedelic 迷幻的 |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [psyche]{.headword} | n. | `psych`(灵魂) | 心灵；灵魂；（希腊神话）灵魂女神 | [高频]{.freq .freq-1} |
+| [psychic]{.headword} | adj./n. | `psych`(心灵)+`-ic`(形容词后缀) | 心灵的；超自然的；通灵者 | [高频]{.freq .freq-1} |
+| [psychology]{.headword} | n. | `psych`(心灵)+`-o-`(连接)+`-logy`(学科) | 心理学 | [高频]{.freq .freq-1} |
+| [psychological]{.headword} | adj. | `psychology`+`-ical` | 心理（学）的 | [高频]{.freq .freq-1} |
+| [psychologist]{.headword} | n. | `psychology`+`-ist`(从业者) | 心理学家 | [高频]{.freq .freq-1} |
+| [psychiatry]{.headword} | n. | `psych`(心灵)+`-iatry`(医治) | 精神病学 | [高频]{.freq .freq-1} |
+| [psychiatrist]{.headword} | n. | `psychiatry`+`-ist` | 精神科医生 | [高频]{.freq .freq-1} |
+| [psychiatric]{.headword} | adj. | `psychiatry`+`-ic` | 精神病学的 | [高频]{.freq .freq-1} |
+| [psychotherapy]{.headword} | n. | `psych`(心灵)+`-o-`+`therapy`(治疗) | 心理治疗 | [高频]{.freq .freq-1} |
+| [psychotherapist]{.headword} | n. | `psychotherapy`+`-ist` | 心理治疗师 | [高频]{.freq .freq-1} |
+| [psychoanalysis]{.headword} | n. | `psych`(心灵)+`-o-`+`analysis`(分析) | 精神分析（法） | [高频]{.freq .freq-1} |
+| [psychoanalyst]{.headword} | n. | `psychoanalysis`+`-ist` | 精神分析师 | [中频]{.freq .freq-2} |
+| [psychoanalytic]{.headword} | adj. | `psychoanalysis`+`-ic` | 精神分析的 | [中频]{.freq .freq-2} |
+| [psychosis]{.headword} | n. | `psych`(心灵)+`-osis`(病变) | 精神病；精神失常 | [高频]{.freq .freq-1} |
+| [psychotic]{.headword} | adj./n. | `psych`(心灵)+`-otic`(病态的) | 精神病的；精神病患者 | [高频]{.freq .freq-1} |
+| [psychopath]{.headword} | n. | `psych`(心灵)+`-o-`+`path`(苦；病) | 反社会人格者；精神病态者 | [高频]{.freq .freq-1} |
+| [psychopathic]{.headword} | adj. | `psychopath`+`-ic` | 精神病态的 | [中频]{.freq .freq-2} |
+| [psychopathy]{.headword} | n. | `psych`(心灵)+`-o-`+`-pathy`(病态) | 精神病态；反社会人格障碍 | [中频]{.freq .freq-2} |
+| [psychosomatic]{.headword} | adj. | `psych`(心灵)+`-o-`+`somatic`(身体的) | 身心的；心因性的 | [高频]{.freq .freq-1} |
+| [psychedelic]{.headword} | adj./n. | `psych`(心灵)+`-edelic`(显现，源自 *delos* 清晰) | 迷幻的；致幻剂 | [高频]{.freq .freq-1} |
+| [psychometric]{.headword} | adj. | `psych`(心灵)+`-o-`+`metric`(测量) | 心理测量的 | [中频]{.freq .freq-2} |
+| [psychometrics]{.headword} | n. | `psych`+`metrics`(测量学) | 心理测量学 | [中频]{.freq .freq-2} |
+| [psycholinguistics]{.headword} | n. | `psych`(心灵)+`linguistics`(语言学) | 心理语言学 | [中频]{.freq .freq-2} |
+| [neuropsychology]{.headword} | n. | `neuro`(神经)+`psychology`(心理学) | 神经心理学 | [中频]{.freq .freq-2} |
+| [neuropsychological]{.headword} | adj. | `neuro`+`psychological` | 神经心理学的 | [中频]{.freq .freq-2} |
+| [psychophysiology]{.headword} | n. | `psych`(心灵)+`physiology`(生理学) | 心理生理学 | [低频]{.freq .freq-3} |
+| [parapsychology]{.headword} | n. | `para-`(超越)+`psychology` | 超心理学（研究超自然心灵现象） | [低频]{.freq .freq-3} |
+| [psychosocial]{.headword} | adj. | `psych`(心灵)+`social`(社会的) | 心理社会的 | [中频]{.freq .freq-2} |
+| [psychodynamic]{.headword} | adj. | `psych`(心灵)+`dynamic`(动力的) | 心理动力的 | [中频]{.freq .freq-2} |
+| [psychobiology]{.headword} | n. | `psych`(心灵)+`biology`(生物学) | 心理生物学 | [低频]{.freq .freq-3} |
+| [psychopharmacology]{.headword} | n. | `psych`(心灵)+`pharmacology`(药理学) | 精神药理学 | [低频]{.freq .freq-3} |
+| [psychoneurosis]{.headword} | n. | `psych`(心灵)+`neurosis`(神经症) | 心理神经症 | [低频]{.freq .freq-3} |
+| [psychopathology]{.headword} | n. | `psych`(心灵)+`pathology`(病理学) | 精神病理学 | [中频]{.freq .freq-2} |
+| [psychotropic]{.headword} | adj. | `psych`(心灵)+`-tropic`(转向；作用于) | 作用于精神的；精神药物的 | [中频]{.freq .freq-2} |
+| [psychosexual]{.headword} | adj. | `psych`(心灵)+`sexual`(性的) | 心理性的；与性心理相关的 | [中频]{.freq .freq-2} |
+| [psychomotor]{.headword} | adj. | `psych`(心灵)+`motor`(运动) | 心理运动的 | [中频]{.freq .freq-2} |
+| [psychogenic]{.headword} | adj. | `psych`(心灵)+`-genic`(产生的) | 心因性的；起源于心理的 | [中频]{.freq .freq-2} |
+| [psych]{.headword} | v. | `psych`(心灵) | （口）搞垮心理；使不安；心理准备（psych up/out） | [高频]{.freq .freq-1} |
+
+## 生动语境
+
+::: {.ex}
+- She spent years in **psychotherapy** before she could finally talk about the trauma without breaking down.（在心理治疗中慢慢重建自己——不是一蝴蝶破茧，而是长期工作）
+- The **psychosomatic** symptoms—chest pain, nausea, fatigue—disappeared almost overnight once the lawsuit was settled.（身心症状：身体真实生病，但根源在心理压力）
+- Researchers warn that labeling someone a **psychopath** based on a checklist oversimplifies a spectrum of complex personality traits.（psychopath 在学术语境里有精确定义，日常用语往往滥用）
+- The 1960s counterculture embraced **psychedelic** art and music as a way to expand consciousness beyond the ordinary.（psychedelic = 让心灵"显现"——delos 意为"清晰可见"，词义形象）
+- His **psyche** was so battered by years of criticism that even genuine praise felt like a trap.（psyche 作名词，指个人的深层心理结构或灵魂核心）
+- The **psychometric** tests used in hiring aim to predict job performance, but their validity is fiercely debated.（心理测量：把看不见的心理特征转化为可量化的数字）
+:::
+
+::: {.mnemonic}
+**助记**：记住希腊神话里的 **Psyche**——她是灵魂女神，名字就是"灵魂"。想到 psych- 这个词根，就想到这个历经苦难、追求真爱的女孩：她的故事涉及情感（psyche）、心理痛苦（psychopathy）、灵魂治愈（psychotherapy）、内心探索（psychoanalysis）。所有 psych- 的词，都是在研究或处理"那个渴望被看见的内在世界"。
+
+另一个锚点：读 **psych** 时注意 *p* 不发音（希腊语借词特征，与 pneumonia 的 pn-、pterodactyl 的 pt- 同类），只发 /saɪk/。
+:::
+
+::: {.trap}
+**陷阱一：psychic 与 psychological 不可互换**
+**psychic** 侧重"超自然的心灵感应"或"灵媒"（a psychic claims to read minds），**psychological** 则是中性学术词，指"与心理学相关的"（psychological research）。在学术写作中混用会闹笑话。
+
+**陷阱二：psychosis vs. neurosis（历史趣闻，勿推断）**
+历史上精神病学曾区分 **neurosis**（神经症，如焦虑症，患者现实感完整）与 **psychosis**（精神病，现实感受损，如幻觉、妄想）。这对区分来自 19 世纪分类法，**neuro-** 此处并不代表"神经系统"而是指"神经症"概念——这是历史趣闻，不是可以推导新词的规律，请勿类推。现代 DSM 诊断体系已不再使用 neurosis 作正式分类。
+
+**陷阱三：psychedelic 里的 -edelic**
+这个词缀来自希腊语 *dēlos*（清晰、显现），是个极罕见的词缀，**不要**试图用它推断其他英语单词——它在英语中几乎只出现在 psychedelic 一词里。记住它是"使心灵显现"的造词游戏即可，不作举一反三。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 20 章）涉及的词根与前几章有大量交叉，建议回看：
+
+- **第 19 章**（neuro- 神经）：psychosomatic 中的 somatic、neuropsychology 中的 neuro- 均已出现；对比 neurosis 与 psychosis 的历史区分
+- **第 18 章**（path / pathy 痛苦·病）：psychopath、psychopathy、psychopathology 中的 -path 根
+- **第 16 章**（logy / log 学科·言语）：psychology、psycholinguistics 中的 -logy
+- **第 12 章**（therapy 治疗）：psychotherapy、psychotherapist 中的 -therapy
+- **第 4 章**（bio / bi 生命）：psychobiology 中的 bio-；对比"生命"与"灵魂"两个希腊概念
+
+**本章自测提示**：
+
+1. **psychosomatic** 拆开是哪两个根？各是什么义？能举一个生活中的例子吗？
+2. **psychedelic** 里的 -edelic 来自什么希腊词？为什么这个词缀不能举一反三？
+3. 区分：**psychologist**、**psychiatrist**、**psychotherapist** 三者的职业侧重有何不同？
+4. **psychosis** 和 **neurosis** 的词根分别是什么？为什么不能凭词根直接推断它们的区别？
+5. 用 psych- + 搭档根造一个你熟悉的词，在脑海中演练它的拆解过程。
+:::

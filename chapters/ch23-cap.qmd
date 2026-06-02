@@ -1,0 +1,139 @@
+# cap / cept / cip / ceive —— "取·抓·拿"
+
+::: {.root-banner}
+`cap` · `cept` · `cip` · `ceive` = to take, to seize 取、抓、拿
+:::
+
+来源：拉丁语 *capere*（动词原形，"取、抓"）/ *captus*（过去分词，"被取、被抓"）。*capere* 是印欧语系 \*kap-（抓握）的直系后代，与英语 *have* 同源。
+
+::: {.etymo}
+**词源故事：那只永远在抓握的手**
+
+想象古罗马一位士兵的手。他 *capit*——抓住俘虏（*captive*），把他押回军营。这个动作——张开手、扣紧、握住——就是 *capere* 的本义，一个无比具体的身体动作。两千年后，这只手依然藏在英语里数十个词的中心。
+
+*capere* 进入法语时，发生了一次有趣的语音漂移：词尾辅音群 *-pt-* 在口语中被磨蚀，*-cept-* 在动词不定式中变成了 *-ceiv-*（法语 *recevoir*，"接收"）。于是同一个拉丁根在英语里留下了三副面孔：来自拉丁语书面形式的 `-cept`，来自拉丁语直接借词的 `-cap`，以及经由法语转手的 `-ceive`。三者同宗同义，只是旅行路线不同。
+
+*capere* 的抽象化旅程同样耐人寻味。从"用手抓"到"用脑抓住"——*concept*（概念）是"一起抓住"的思想，*perceive*（感知）是"透彻抓住"的印象，*deceive*（欺骗）是"把对方的判断抓走、带偏"。具体的手势，变成了抽象的认知与社会行为。
+
+还有一条支流值得注意：*capere* 的名词形式 *caput*（头）另立门户，衍生出 *capital*、*captain*、*chapter* 等词——但那是另一族词根的故事，切勿混淆。本章只聚焦"抓取"这个动作。
+:::
+
+## 前缀决定方向，根永远是同一个抓取动作
+
+拉丁词根的魔力在于：只要换上不同前缀，同一个"抓"动作就能变换出几十种含义。记住下面这张方向表，见到任何含 `cap/cept/cip/ceive` 的词，先找前缀，再看"往哪个方向抓"。
+
+| 前缀 | 本义 | 方向感 | 代表词 |
+|------|------|--------|--------|
+| `ac-`（← `ad-`） | 朝向 | 伸手接过来 | *accept* |
+| `con-` | 一起 | 合拢抓住 | *concept*, *conceive* |
+| `re-` | 回 | 伸手接回来 | *receive*, *reception* |
+| `per-` | 透、彻底 | 穿透抓住 | *perceive*, *perception* |
+| `de-` | 离、去 | 把（真相）抓走 | *deceive* |
+| `ex-` | 出、除外 | 把某物抓出去 | *except*, *exception* |
+| `inter-` | 之间 | 插手截住 | *intercept* |
+| `ante-`（`anti-`） | 前 | 提前抓住 | *anticipate* |
+| `in-` | 进入 | 开始抓进来 | *incipient*, *incept* |
+| `parti-` | 部分 | 抓取一份 | *participate*, *principle* |
+| `sus-`（← `sub-`） | 下、易于 | 从下方被抓住 | *susceptible* |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [accept]{.headword} | v. | `ac-`(朝)+`cept`(取) | 接受，接收 | [高频]{.freq .freq-1} |
+| [acceptable]{.headword} | adj. | `accept`+`-able` | 可接受的 | [高频]{.freq .freq-1} |
+| [acceptance]{.headword} | n. | `accept`+`-ance` | 接受；认可 | [高频]{.freq .freq-1} |
+| [concept]{.headword} | n. | `con-`(共)+`cept`(取) | 概念（心智合拢抓住的东西） | [高频]{.freq .freq-1} |
+| [conceive]{.headword} | v. | `con-`(共)+`ceive`(取) | 构想；怀孕 | [高频]{.freq .freq-1} |
+| [conception]{.headword} | n. | `con-`+`cept`+`-ion` | 概念；构想；受孕 | [高频]{.freq .freq-1} |
+| [receive]{.headword} | v. | `re-`(回)+`ceive`(取) | 收到，接收 | [高频]{.freq .freq-1} |
+| [reception]{.headword} | n. | `re-`+`cept`+`-ion` | 接收；招待会；前台 | [高频]{.freq .freq-1} |
+| [recipient]{.headword} | n. | `re-`+`cip`+`-ient` | 接受者，收件人 | [中频]{.freq .freq-2} |
+| [perceive]{.headword} | v. | `per-`(透)+`ceive`(取) | 感知；察觉 | [高频]{.freq .freq-1} |
+| [perception]{.headword} | n. | `per-`+`cept`+`-ion` | 感知；看法 | [高频]{.freq .freq-1} |
+| [perceptible]{.headword} | adj. | `percept`+`-ible` | 可感知的，可察觉的 | [中频]{.freq .freq-2} |
+| [perceptive]{.headword} | adj. | `percept`+`-ive` | 感知敏锐的，有洞察力的 | [中频]{.freq .freq-2} |
+| [deceive]{.headword} | v. | `de-`(去)+`ceive`(取) | 欺骗（把真相"拿走"） | [高频]{.freq .freq-1} |
+| [deception]{.headword} | n. | `de-`+`cept`+`-ion` | 欺骗；骗局 | [高频]{.freq .freq-1} |
+| [deceptive]{.headword} | adj. | `decept`+`-ive` | 迷惑性的，骗人的 | [中频]{.freq .freq-2} |
+| [except]{.headword} | prep./v. | `ex-`(出)+`cept`(取) | 除…之外；把…除外 | [高频]{.freq .freq-1} |
+| [exception]{.headword} | n. | `ex-`+`cept`+`-ion` | 例外；异议 | [高频]{.freq .freq-1} |
+| [exceptional]{.headword} | adj. | `exception`+`-al` | 出色的；例外的 | [高频]{.freq .freq-1} |
+| [intercept]{.headword} | v./n. | `inter-`(之间)+`cept`(取) | 拦截；截击 | [中频]{.freq .freq-2} |
+| [interception]{.headword} | n. | `intercept`+`-ion` | 拦截；截获 | [中频]{.freq .freq-2} |
+| [anticipate]{.headword} | v. | `anti-`(前)+`cip`(取)+`-ate` | 预料；期待；提前应对 | [高频]{.freq .freq-1} |
+| [anticipation]{.headword} | n. | `anticipate`+`-ion` | 预期；期待 | [高频]{.freq .freq-1} |
+| [participate]{.headword} | v. | `parti-`(部分)+`cip`(取)+`-ate` | 参与（抓取一份份额） | [高频]{.freq .freq-1} |
+| [participation]{.headword} | n. | `participate`+`-ion` | 参与；参加 | [高频]{.freq .freq-1} |
+| [participant]{.headword} | n. | `parti-`+`cip`+`-ant` | 参与者 | [高频]{.freq .freq-1} |
+| [capture]{.headword} | v./n. | `cap`(取)+`-ture` | 捕获；俘获 | [高频]{.freq .freq-1} |
+| [captive]{.headword} | n./adj. | `capt`(被抓)+`-ive` | 俘虏；被俘的 | [中频]{.freq .freq-2} |
+| [captivate]{.headword} | v. | `captiv`+`-ate` | 迷住，使着迷 | [中频]{.freq .freq-2} |
+| [capable]{.headword} | adj. | `cap`(取/拿)+`-able` | 有能力的（能拿得起来的） | [高频]{.freq .freq-1} |
+| [capacity]{.headword} | n. | `cap`+`-acity` | 容量；能力；身份 | [高频]{.freq .freq-1} |
+| [incapable]{.headword} | adj. | `in-`(否)+`capable` | 无能力的 | [中频]{.freq .freq-2} |
+| [incapacity]{.headword} | n. | `in-`+`capacity` | 无能力；残障 | [中频]{.freq .freq-2} |
+| [recipe]{.headword} | n. | `re-`(回)+`cipe`(取；拿！) | 食谱；配方（"请取…"的命令式） | [高频]{.freq .freq-1} |
+| [principle]{.headword} | n. | `princi-`(首位)+`ple`(← `cap`) | 原则；原理（最先抓住的要点） | [高频]{.freq .freq-1} |
+| [principal]{.headword} | adj./n. | `princip`+`-al` | 主要的；校长；本金 | [高频]{.freq .freq-1} |
+| [municipal]{.headword} | adj. | `munici-`(市民义务)+`pal`(← `cap`) | 市政的；市立的 | [中频]{.freq .freq-2} |
+| [occupy]{.headword} | v. | `oc-`(← `ob-`,朝)+`cup`(← `cap`,取)+`-y` | 占据；占领；占用（时间） | [高频]{.freq .freq-1} |
+| [occupation]{.headword} | n. | `occup`+`-ation` | 职业；占领；占用 | [高频]{.freq .freq-1} |
+| [preoccupy]{.headword} | v. | `pre-`(前)+`occupy` | 使全神贯注；（思虑）占据心头 | [中频]{.freq .freq-2} |
+| [susceptible]{.headword} | adj. | `sus-`(← `sub-`,下)+`cept`+`-ible` | 易受影响的；敏感的 | [中频]{.freq .freq-2} |
+| [emancipate]{.headword} | v. | `e-`(出)+`man`(手)+`cip`(取)+`-ate` | 解放（从手中取出） | [中频]{.freq .freq-2} |
+| [emancipation]{.headword} | n. | `emancipate`+`-ion` | 解放；解除束缚 | [中频]{.freq .freq-2} |
+| [incipient]{.headword} | adj. | `in-`(进入)+`cip`(取)+`-ient` | 初始的，刚开始的 | [低频]{.freq .freq-3} |
+| [precept]{.headword} | n. | `pre-`(前)+`cept`(取) | 戒律；准则（预先抓住的规则） | [低频]{.freq .freq-3} |
+| [percipient]{.headword} | adj./n. | `per-`+`cip`+`-ient` | 感知力敏锐的；感知者 | [低频]{.freq .freq-3} |
+| [inception]{.headword} | n. | `in-`(进入)+`cept`+`-ion` | 开始；创始（第一次"抓住"） | [中频]{.freq .freq-2} |
+| [receptive]{.headword} | adj. | `re-`+`cept`+`-ive` | 善于接受的；接受性强的 | [中频]{.freq .freq-2} |
+| [imperceptible]{.headword} | adj. | `im-`(否)+`per-`+`cept`+`-ible` | 难以察觉的；细微的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The spy managed to **intercept** the encrypted message before it reached headquarters.（拦截：插手中间把信息"抓住"）
+- She could not **conceive** of a world without music—it was as natural as breathing.（conceive 用于否定：脑子里根本抓不住那个画面）
+- His **deceptive** calm masked a seething frustration beneath the surface.（外表平静是骗人的，真相被"拿走"了）
+- The new drug was shown to be **susceptible** to degradation at high temperatures.（从下方被"抓住"——易受条件影响）
+- With the **anticipation** of rain, she packed an umbrella before leaving the house.（提前抓住未来的可能，做好准备）
+- The study found that children are **perceptive** enough to detect subtle changes in adult facial expressions.（感知力强，能透彻地"抓住"微表情）
+:::
+
+::: {.mnemonic}
+**助记**：画一张手掌，在掌心写"cap/cept/cip/ceive = 抓"。然后把每个前缀想象成一个方向箭头压在手掌上：`re-`（向自己）= receive 接回来；`de-`（向外甩）= deceive 把真相甩走；`inter-`（横着插）= intercept 横刀截住；`per-`（向内穿透）= perceive 透视抓住；`ex-`（向外排出）= except 抓出去。方向变了，"抓"这个核心动作始终没变。
+
+*recipe* 是个奇趣助记：它本是拉丁语命令式"*Recipe!*"（你去取！），医生在药方开头写给药剂师的指令，缩写成 **Rx** 的那个词。所以食谱/配方本质上就是一张"依次取用这些材料"的指令单。
+:::
+
+::: {.trap}
+**陷阱一：`principle` vs. `principal`**
+两词同根（`princip-` ← *primus* "第一" + *capere* "取"，"首先取得的地位"），词义却截然不同。`principle` 只作名词，意为"原则、原理"；`principal` 作形容词意为"主要的"，作名词意为"校长、本金"。区分口诀：*The principAl is your pAl*（校长是你的伙伴——A 和 A 对应）。
+
+**陷阱二：`municipal` 的来源不可推断**
+`municipal` 确实含 `-cip-`（← *capere*），但其前缀 `munici-` 来自拉丁语 *munus*（公民义务、礼物），整词意为"承担公民义务的"，演变为"市政的"。这是一条真实的词源线索，但整词意义**不可从前缀+根机械推导**——请直接记忆"市政的"这个义项，不要用"市民抓住义务"的逻辑去推断陌生词。
+
+**陷阱三：`capital / captain / chapter` 不属于本根**
+这三个词来自 *caput*（头），虽与 *capere* 同属印欧语系且有远亲关系，但在英语词汇学习层面应视为**独立词根**，不要把它们纳入 cap/cept 家族用于推断词义。
+:::
+
+::: {.review-today}
+**今日复习安排**
+
+本章（第 23 章）学完后，按以下顺序回看，巩固相关词根网络：
+
+- **第 22 章**：回顾上一章词根，检查与 `cap/cept` 的语义交叉
+- **第 21 章**：复习相关词根，注意与"抓取"语义的对比
+- **第 19 章**：重点回顾拉丁动词派生模式，与本章前缀系统印证
+- **第 15 章**：对比另一拉丁动词根，巩固"前缀换方向"规律
+- **第 7 章**：回看早期词根基础，确认词缀识别能力是否稳固
+
+**本章自测提示**（遮住释义列，逐词默写）：
+
+1. `inter-` + `cept` = ？（方向：插入中间，动作：抓）
+2. *recipe* 为何是命令式？它的原始受众是谁？
+3. `susceptible` 的 `sus-` 来自哪个前缀？为何"从下方被抓"意味着"易受影响"？
+4. `emancipate` 含几个词根？`man-` 是什么义？
+5. `perceive` 和 `deception` 是同一个根的不同变体，能说出为什么拼写不同吗？
+:::

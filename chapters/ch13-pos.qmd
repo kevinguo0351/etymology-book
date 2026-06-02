@@ -1,0 +1,155 @@
+# pos / pon / posit —— "放·置"
+
+::: {.root-banner}
+pos · pon · posit = to put, to place 放置、搁放
+:::
+
+来源：拉丁语动词 *ponere*（放置、搁放），过去分词词干 *posit-*；其中 *pon-* 是不定式词干，*pos-* / *posit-* 来自分词形式，三者同根异形，进入英语后分布于不同派生层。
+
+::: {.etymo}
+**词源故事：罗马人用一个动词搬动了整个世界**
+
+在拉丁语里，*ponere* 的意思简洁到令人惊讶——就是"把东西放下去"。罗马士兵扎营叫 *castra ponere*（把营地放下），立法者颁布法律叫 *legem ponere*（把法律放到那里），桥梁工程师架桥叫 *pontem ponere*（把桥架上去）。一个动词，撑起了建设文明的全部动作。
+
+拉丁语动词通常有两个常用词干：不定式词干（*pone-*，去掉 -re 末尾得 *pon-*）和过去分词词干（*posit-*，缩写成 *pos-*）。就像同一个人在正式场合叫"王建国"、私下叫"小王"——两个形式，同一个人。英语从拉丁语借词时，这两条路都走了：从 *pon-* 来了 postpone、component、proponent，从 *pos-/posit-* 来了 position、positive、deposit、composition。
+
+关键的升维在于前缀。罗马人只需换一个前置词，就能让"放"这个动作朝任意方向运动：往上放是 *im-*（impose），往外放是 *ex-*（expose），往对面放是 *ob-*（oppose），往底下放是 *sub-*（suppose），往一起放是 *com-*（compose）。前缀是罗马人的方向盘，词根是永不停转的引擎。
+
+这一套构词逻辑完整地活在现代英语里。当你看到陌生单词里有 *-pos-*、*-pon-*、*-posit-* 的字样，只需问自己：前缀把"放"这个动作推向了哪个方向？答案往往就是词义本身。
+:::
+
+## 前缀决定方向，词根永远是"放"
+
+拉丁根的精髓在于：**前缀换了，方向变了，但词根从未变过**。记住下面这张"方向盘"，遇到生词时对号入座：
+
+| 前缀 | 本义 | 方向感 | 代表词 |
+|------|------|--------|--------|
+| com- / con- | 一起 | 合拢·合放 | compose, component |
+| pro- | 向前 | 提出·放到台前 | propose, proponent |
+| ex- / e- | 向外 | 放出去·暴露 | expose, exposure |
+| de- | 向下 | 放下去·存入 | deposit, depose |
+| im- / in- | 向内/上 | 强加·放进去 | impose, imposition |
+| ob- / op- | 对面 | 对着放·反对 | oppose, opponent |
+| sub- / sup- | 在下 | 放在下面·假设 | suppose, suppress |
+| dis- | 分开 | 分散地放·处置 | dispose, disposition |
+| trans- | 跨越 | 放到另一边 | transpose, transposition |
+| post- | 在后 | 往后放·推迟 | postpone |
+| pre- | 在前 | 预先放置 | preposition, prepone |
+| juxta- | 并排 | 并列摆放 | juxtapose |
+| re- | 回·再 | 放回·再置 | repose, repository |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [compose]{.headword} | v. | `com-`(一起)+`pose`(放) | 组合；创作（乐曲、文章） | [高频]{.freq .freq-1} |
+| [composition]{.headword} | n. | `com-`+`posit`+`-ion` | 构成；作品；（化学）成分 | [高频]{.freq .freq-1} |
+| [component]{.headword} | n./adj. | `com-`+`pon`(放)+`-ent` | 组成部分；构成的 | [高频]{.freq .freq-1} |
+| [composite]{.headword} | adj./n. | `com-`+`posit`+`-e` | 复合的；合成物 | [中频]{.freq .freq-2} |
+| [compound]{.headword} | n./v./adj. | `com-`+`pound`(< `pon`) | 复合物；使加重；复合的 | [高频]{.freq .freq-1} |
+| [propose]{.headword} | v. | `pro-`(向前)+`pose`(放) | 提议；求婚 | [高频]{.freq .freq-1} |
+| [proposal]{.headword} | n. | `pro-`+`pos`+`-al` | 提案；求婚 | [高频]{.freq .freq-1} |
+| [proposition]{.headword} | n. | `pro-`+`posit`+`-ion` | 主张；命题；（口）交易 | [高频]{.freq .freq-1} |
+| [proponent]{.headword} | n. | `pro-`+`pon`+`-ent` | 支持者；提倡者 | [中频]{.freq .freq-2} |
+| [position]{.headword} | n./v. | `posit`+`-ion` | 位置；立场；职位；摆放 | [高频]{.freq .freq-1} |
+| [positive]{.headword} | adj. | `posit`+`-ive` | 确定的；积极的；正的 | [高频]{.freq .freq-1} |
+| [posture]{.headword} | n./v. | `pos`+`-ture` | 姿势；态度；摆姿态 | [高频]{.freq .freq-1} |
+| [expose]{.headword} | v. | `ex-`(向外)+`pose`(放) | 暴露；揭露；（摄影）曝光 | [高频]{.freq .freq-1} |
+| [exposure]{.headword} | n. | `ex-`+`pos`+`-ure` | 暴露；曝光；接触 | [高频]{.freq .freq-1} |
+| [exponent]{.headword} | n. | `ex-`+`pon`+`-ent` | 倡导者；（数学）指数 | [中频]{.freq .freq-2} |
+| [exposition]{.headword} | n. | `ex-`+`posit`+`-ion` | 展览；阐述；（叙事）铺陈 | [中频]{.freq .freq-2} |
+| [expose]{.headword} | n. | 同上（法语借道） | 揭露性报道 | [中频]{.freq .freq-2} |
+| [deposit]{.headword} | n./v. | `de-`(向下)+`posit`(放) | 存款；押金；沉积；存入 | [高频]{.freq .freq-1} |
+| [depose]{.headword} | v. | `de-`+`pose` | 废黜（统治者）；（法律）宣誓作证 | [中频]{.freq .freq-2} |
+| [deposition]{.headword} | n. | `de-`+`posit`+`-ion` | 废黜；（法律）书面证词；沉积 | [中频]{.freq .freq-2} |
+| [impose]{.headword} | v. | `im-`(向内/上)+`pose`(放) | 强加；征（税）；打扰 | [高频]{.freq .freq-1} |
+| [imposition]{.headword} | n. | `im-`+`posit`+`-ion` | 强加；负担；欺骗 | [中频]{.freq .freq-2} |
+| [oppose]{.headword} | v. | `op-`(对面)+`pose`(放) | 反对；对抗 | [高频]{.freq .freq-1} |
+| [opponent]{.headword} | n./adj. | `op-`+`pon`+`-ent` | 对手；反对者 | [高频]{.freq .freq-1} |
+| [opposite]{.headword} | adj./n./prep. | `op-`+`posit`+`-e` | 对面的；相反的；对立面 | [高频]{.freq .freq-1} |
+| [opposition]{.headword} | n. | `op-`+`posit`+`-ion` | 反对；对立；（政治）在野党 | [高频]{.freq .freq-1} |
+| [suppose]{.headword} | v. | `sup-`(在下)+`pose`(放) | 假设；认为 | [高频]{.freq .freq-1} |
+| [supposition]{.headword} | n. | `sup-`+`posit`+`-ion` | 假定；猜测 | [中频]{.freq .freq-2} |
+| [supposedly]{.headword} | adv. | `suppos`+`-edly` | 据说；照理应该 | [高频]{.freq .freq-1} |
+| [dispose]{.headword} | v. | `dis-`(分开)+`pose`(放) | 处置；清除；使倾向 | [高频]{.freq .freq-1} |
+| [disposal]{.headword} | n. | `dis-`+`pos`+`-al` | 处置；（垃圾）处理 | [高频]{.freq .freq-1} |
+| [disposition]{.headword} | n. | `dis-`+`posit`+`-ion` | 性情；倾向；部署 | [中频]{.freq .freq-2} |
+| [indisposed]{.headword} | adj. | `in-`+`dis-`+`posed` | 不舒服的；不愿意的 | [中频]{.freq .freq-2} |
+| [transpose]{.headword} | v. | `trans-`(跨越)+`pose`(放) | 移位；（音乐）变调；调换 | [中频]{.freq .freq-2} |
+| [transposition]{.headword} | n. | `trans-`+`posit`+`-ion` | 移置；（音乐）转调 | [低频]{.freq .freq-3} |
+| [postpone]{.headword} | v. | `post-`(在后)+`pon`(放)+`-e` | 推迟；延期 | [高频]{.freq .freq-1} |
+| [postponement]{.headword} | n. | `postpone`+`-ment` | 推迟；延期 | [中频]{.freq .freq-2} |
+| [preposition]{.headword} | n. | `pre-`(在前)+`posit`+`-ion` | 介词（语法中放在名词前的词） | [高频]{.freq .freq-1} |
+| [juxtapose]{.headword} | v. | `juxta-`(并排)+`pose`(放) | 并列；并排放置 | [中频]{.freq .freq-2} |
+| [juxtaposition]{.headword} | n. | `juxta-`+`posit`+`-ion` | 并列；对照摆放 | [中频]{.freq .freq-2} |
+| [repository]{.headword} | n. | `re-`(回)+`posit`+`-ory` | 仓库；知识库；（代码）储存库 | [中频]{.freq .freq-2} |
+| [repose]{.headword} | n./v. | `re-`(回)+`pose`(放) | 休息；安放；平静 | [低频]{.freq .freq-3} |
+| [depose]{.headword} | v. | `de-`+`pose` | 废黜；作证陈述 | [中频]{.freq .freq-2} |
+| [post]{.headword} | n./v. | `pos`(t)（放置之处） | 职位；邮件；张贴；岗位 | [高频]{.freq .freq-1} |
+| [posit]{.headword} | v. | `posit`(放下一个命题) | （正式）假定；提出（命题） | [低频]{.freq .freq-3} |
+| [composite]{.headword} | n./adj. | `com-`+`posit` | 合成物；合成的 | [中频]{.freq .freq-2} |
+| [decompose]{.headword} | v. | `de-`+`com-`+`pose` | 分解；腐烂 | [中频]{.freq .freq-2} |
+| [impost]{.headword} | n. | `im-`+`pos`(t) | 税款；（建筑）拱脚石 | [低频]{.freq .freq-3} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The journalist's investigation **exposed** years of financial fraud hidden behind corporate filings.（记者的调查把隐藏在公司文件背后多年的金融欺诈暴露出来——"向外放"到公众视野）
+- The committee voted to **postpone** the final decision until more data could be gathered.（委员会投票把最终决定"往后放"，等待更多数据——post- 的方向感一目了然）
+- She **composed** herself before walking into the boardroom, her **posture** straight and deliberate.（她走进董事会前先平复情绪——"把自己合拢"——姿势笔直而沉稳；两个同根词在一句里）
+- The museum **juxtaposed** ancient Roman coins with modern currency to show how little the concept of value has changed.（博物馆把古罗马硬币与现代货币并排放置，展示价值观念的延续性）
+- His **opponents** argued that the new tax would **impose** an unfair burden on middle-income families.（他的对手们认为新税将向中等收入家庭强加不公平的负担——op- 与 im- 两个方向在同一句对撞）
+- The **repository** now contains over forty thousand open-source packages, making it the world's largest code archive.（这个代码仓库如今收录超过四万个开源包，是"把代码放回去储存"的最大集散地）
+:::
+
+::: {.mnemonic}
+**助记**：把词根 *pos/pon/posit* 想象成一张空桌子——一个中性的"放"的动作。前缀是你手上的方向牌：
+
+- **com-**（合拢）→ 把东西一起放上桌 → compose / component
+- **pro-**（向前推出）→ 把想法推到桌子外面 → propose
+- **ex-**（向外翻出）→ 把桌上的东西掀开给人看 → expose
+- **de-**（往下压）→ 把钱压到桌子下面的保险箱 → deposit
+- **im-**（硬塞进来）→ 把包袱放到别人桌上 → impose
+- **op-**（对着放）→ 把椅子搬到桌子对面坐下 → oppose
+- **post-**（推到桌子后面）→ 待会儿再放 → postpone
+- **juxta-**（紧挨着放）→ 两样东西并肩摆上桌 → juxtapose
+
+只要记住"桌子"和"方向牌"，见到 -*pos-*、*-pon-*、*-posit-* 就能无障碍推断。
+:::
+
+::: {.trap}
+**陷阱一：pose 与 pose**
+
+英语里有两个同形的 *pose*：一个来自本章的拉丁语 *ponere*（如 compose、expose），另一个来自希腊语经拉丁语再经法语，意为"停住、休止"（与 *pause* 同源，如 pose as an artist"摆姿势"的核心义是"静止地放着自己"）。两者在现代英语里已高度融合，日常使用不必区分，但词义推断时要靠整体语境，不能仅靠拼写。
+
+**陷阱二：compound 的 -pound**
+
+*Compound*（复合物）里的 *-pound* 确实来自 *ponere*，但日常英语里的 *pound*（磅、英镑、打击）是完全不同的词，两者仅是同形。*Impound*（扣押）的 *-pound* 与"关入围栏（pound = enclosure）"相关，也非同一词根。这类"视觉上像、实际不同源"的词，是有趣的历史巧合，**不能用 pos/pon/posit 的逻辑来推断其词义**。
+
+**陷阱三：position 的多义陷阱**
+
+*Position* 在不同语境下可以指物理位置、政治立场、工作职位、运动姿势——这是语义泛化的结果，并非有多个不同词根。看到时靠上下文定义，别在词根层面过度分析。
+:::
+
+::: {.review-today}
+**今日复习排程**
+
+本章（第 13 章）学完后，请回顾以下章节以强化前后联系：
+
+- **第 12 章** ——上一章词根，趁热检验短期记忆
+- **第 11 章** ——与本章构词逻辑有呼应，巩固"前缀决定方向"的模式感
+- **第 9 章** ——重点检查该章拉丁根的前缀体系，与本章对照
+- **第 5 章** ——回看最早接触的前缀表，用本章的 12 个方向前缀验证你当时的理解
+
+**本章自测提示（闭书回答）：**
+
+1. *expose* 和 *deposit* 的前缀各把"放"推向哪个方向？含义有何不同？
+2. 不看笔记，写出含 *-posit-* 词干的三个名词（词尾 *-ion*）。
+3. *postpone* 里的 *post-* 是"邮政"的意思吗？解释真实词源。
+4. *proponent* 和 *opponent* 的前缀相差哪个方向？这个方向差如何体现在两人的关系上？
+5. 用一句英文造句，同时用到 *compose* 和 *component*（或 *position* 和 *positive*）。
+:::

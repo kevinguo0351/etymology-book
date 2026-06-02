@@ -1,0 +1,148 @@
+# ven / vent —— "来"
+
+::: {.root-banner}
+ven · vent = to come 来；到来
+:::
+
+来源：拉丁语动词 *venīre*（来，到来），过去分词词干 *vent-*；与古英语 *cuman*（来）同属印欧语系同源词族，词根 \*gʷem-，本义"迈步走来"。
+
+::: {.etymo}
+**词源故事：赴会的人，总在路上**
+
+拉丁人说"某人来了"，用动词 *venīre*。这个词极其多产，原因简单：大多数人类活动都涉及"来"这个动作——来参加会议、来找麻烦、来阻止某事、来拿回报。罗马人给这个词加上各式各样的前缀，就像给同一条路打上不同的路牌，每块路牌决定你从哪个方向走来，或者最终走到哪里。
+
+*vent-* 是 *venīre* 的过去分词词干，意思是"已来到"。英语借用了大量拉丁语派生词，但这些词往往经由古法语转道而来，因此 -ven-/-vent- 两种形式都活跃在现代英语里。来路不同，根却只有一个：**来**。
+
+想象一座古罗马广场（forum）：人从四面八方赶来（*con-venire*，convene）；有人抢在事情发生之前来拦截（*prae-venire*，prevent）；贸易船返港带回收入（*re-venīre*，revenue，利润"回来了"）；旅人走进那条林荫大道（*ad-venīre*，avenue，"朝着你走来的路"）。同一个动词，被前缀推向了不同方向。
+:::
+
+---
+
+### 前缀决定方向，根永远是"来"
+
+| 前缀 | 字面方向 | 代表词 |
+|------|----------|--------|
+| pre- | 来在前面，挡在前 | prevent 预防 |
+| in- / in- | 进来；撞上（某想法） | invent 发明 |
+| con- | 一起来，聚集 | convene / convention |
+| inter- | 来到两者之间 | intervene 介入 |
+| e- / ex- | 来出去，结果出现 | event 事件 |
+| ad- / a- | 朝向而来 | avenue / advent |
+| re- | 来回来，带着回报 | revenue 收入 |
+| circum- | 绕着来，绕过去 | circumvent 绕过 |
+| contra- | 来对着，违背 | contravene 违反 |
+| super- | 从上方来，后来居上 | supervene 继发 |
+| sub- | 从下方来 | subvention 补贴 |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [prevent]{.headword} | v. | `pre-`(前)+`vent`(来) | 预防；阻止 | [高频]{.freq .freq-1} |
+| [prevention]{.headword} | n. | `pre-`(前)+`vent`(来)+`-ion` | 预防；防止 | [高频]{.freq .freq-1} |
+| [preventive]{.headword} | adj./n. | `pre-`+`vent`+`-ive` | 预防性的；预防药 | [高频]{.freq .freq-1} |
+| [preventable]{.headword} | adj. | `prevent`+`-able` | 可预防的 | [中频]{.freq .freq-2} |
+| [invent]{.headword} | v. | `in-`(进入)+`vent`(来) | 发明；虚构 | [高频]{.freq .freq-1} |
+| [invention]{.headword} | n. | `in-`+`vent`+`-ion` | 发明；发明物 | [高频]{.freq .freq-1} |
+| [inventor]{.headword} | n. | `in-`+`vent`+`-or` | 发明家 | [高频]{.freq .freq-1} |
+| [inventory]{.headword} | n. | `in-`+`vent`+`-ory`(找到的清单) | 库存；财产清单 | [高频]{.freq .freq-1} |
+| [inventive]{.headword} | adj. | `invent`+`-ive` | 有发明才能的；独创的 | [中频]{.freq .freq-2} |
+| [convene]{.headword} | v. | `con-`(一起)+`vene`(来) | 召集；（正式）开会 | [中频]{.freq .freq-2} |
+| [convention]{.headword} | n. | `con-`+`vent`+`-ion` | 惯例；大会；协议 | [高频]{.freq .freq-1} |
+| [conventional]{.headword} | adj. | `convention`+`-al` | 传统的；常规的 | [高频]{.freq .freq-1} |
+| [unconventional]{.headword} | adj. | `un-`+`conventional` | 非传统的；不落俗套的 | [中频]{.freq .freq-2} |
+| [convener]{.headword} | n. | `con-`+`ven`+`-er` | 召集人 | [低频]{.freq .freq-3} |
+| [convent]{.headword} | n. | `con-`(一起)+`vent`(来聚) | 女修道院 | [中频]{.freq .freq-2} |
+| [covenant]{.headword} | n. | `con-`+`ven`+`-ant` | 契约；圣约 | [中频]{.freq .freq-2} |
+| [intervene]{.headword} | v. | `inter-`(之间)+`vene`(来) | 介入；干预 | [高频]{.freq .freq-1} |
+| [intervention]{.headword} | n. | `inter-`+`vent`+`-ion` | 介入；干预；干涉 | [高频]{.freq .freq-1} |
+| [event]{.headword} | n. | `e-`(出)+`vent`(来) | 事件；活动；（比赛）项目 | [高频]{.freq .freq-1} |
+| [eventual]{.headword} | adj. | `event`+`-ual` | 最终的 | [高频]{.freq .freq-1} |
+| [eventually]{.headword} | adv. | `eventual`+`-ly` | 最终；终究 | [高频]{.freq .freq-1} |
+| [eventful]{.headword} | adj. | `event`+`-ful` | 多事的；充实的 | [中频]{.freq .freq-2} |
+| [advent]{.headword} | n. | `ad-`(朝向)+`vent`(来到) | 来临；到来；降临节 | [中频]{.freq .freq-2} |
+| [adventure]{.headword} | n./v. | `ad-`+`vent`(将来到)+`-ure` | 冒险；奇遇 | [高频]{.freq .freq-1} |
+| [adventurous]{.headword} | adj. | `adventure`+`-ous` | 爱冒险的；充满冒险的 | [高频]{.freq .freq-1} |
+| [adventurer]{.headword} | n. | `adventure`+`-r` | 冒险家；投机者 | [中频]{.freq .freq-2} |
+| [avenue]{.headword} | n. | `a-`(朝向)+`ven`(来)+`-ue` | 大道；途径 | [高频]{.freq .freq-1} |
+| [venue]{.headword} | n. | 古法语 *venue* "来到处" | 场所；会场 | [高频]{.freq .freq-1} |
+| [revenue]{.headword} | n. | `re-`(回)+`ven`(来)+`-ue` | 收入；岁入；税收 | [高频]{.freq .freq-1} |
+| [convenient]{.headword} | adj. | `con-`+`ven`(来)+`-ient` | 方便的；便利的 | [高频]{.freq .freq-1} |
+| [convenience]{.headword} | n. | `con-`+`ven`+`-ience` | 便利；方便设施 | [高频]{.freq .freq-1} |
+| [inconvenient]{.headword} | adj. | `in-`(否)+`convenient` | 不方便的 | [高频]{.freq .freq-1} |
+| [circumvent]{.headword} | v. | `circum-`(围绕)+`vent`(来) | 绕过；规避 | [中频]{.freq .freq-2} |
+| [contravene]{.headword} | v. | `contra-`(反)+`vene`(来) | 违反（法律/规定） | [中频]{.freq .freq-2} |
+| [contravention]{.headword} | n. | `contra-`+`vent`+`-ion` | 违反；违例 | [中频]{.freq .freq-2} |
+| [souvenir]{.headword} | n. | `sou-`(sub-,从下)+`ven`(来)+`-ir` | 纪念品；纪念物 | [高频]{.freq .freq-1} |
+| [supervene]{.headword} | v. | `super-`(上/后)+`vene`(来) | 继发；突然发生（加在已有情况之上） | [低频]{.freq .freq-3} |
+| [subvention]{.headword} | n. | `sub-`(下)+`vent`+`-ion` | 补贴；资助 | [低频]{.freq .freq-3} |
+| [provenience]{.headword} | n. | `pro-`(前)+`ven`+`-ience` | 出处；起源（考古学用语） | [低频]{.freq .freq-3} |
+| [provenance]{.headword} | n. | `pro-`+`ven`+`-ance`（法语路径） | 出处；来源；血统 | [中频]{.freq .freq-2} |
+| [parvenu]{.headword} | n. | 法语 *parvenu* "来到上层者" | 暴发户；新贵 | [低频]{.freq .freq-3} |
+| [pervenu]{.headword} | n. | `per-`(通过)+`ven` | 暴发户（同 parvenu，更罕见） | [低频]{.freq .freq-3} |
+| [bienvenue]{.headword} | n. | 法语 *bien*(好)+*venue*(来到) | 欢迎（借入英语的法语词） | [低频]{.freq .freq-3} |
+| [unconventionally]{.headword} | adv. | `un-`+`conventional`+`-ly` | 非传统地 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- Early vaccination programs **prevent** thousands of deaths each year.（pre- 挡在死亡"来临"之前——预防）
+- Edison did not **invent** the light bulb from nothing; he refined dozens of earlier designs.（in- 进入黑暗，"撞上"一个解法——发明）
+- The UN Security Council voted to **intervene** before the conflict spread further.（inter- 插入两方之间——介入）
+- She saved every ticket stub and postcard as a **souvenir** of the trip.（记忆从记忆深处"浮上来"——纪念品）
+- The company found a legal way to **circumvent** the import tariff.（circum- 绕着走，"来"到规则旁边——规避）
+- After years of setbacks, she **eventually** published her debut novel.（事情最终"来出来了"——终于）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀画成路牌——
+
+- **pre-vent**：有块路牌立在"来"的前面，挡住了去路 → 阻止
+- **in-vent**：脑子里"闯进来"一个新想法 → 发明
+- **con-vene**：大家"一起来"到同一个地方 → 召集
+- **inter-vene**：一个人"从中间走进来" → 介入
+- **e-vent**：某件事"冒出来" → 事件
+- **re-venue**：利润"回到你手里来" → 收入
+- **ad-vent**：重要的事物"朝你走来" → 来临
+- **circum-vent**：绕一圈，从侧面"来"过去 → 规避
+
+九个前缀，九个方向，根只有一个：**来（ven/vent）**。
+:::
+
+::: {.trap}
+**陷阱一：inventory 不是"进入仓库"的字面意义**
+
+*inventory*（库存清单）确实含 *invent-* 词干，但它的语义路径是：中世纪拉丁语 *inventarium*，指"被找到（发现）的东西的清单"——财物被盘点时逐一"发现"。与 *invent*（发明）共享词根，但现代含义已经高度专业化，不能用"进入"来强行推导"清单"的意思。
+
+**陷阱二：venue 与 avenue 同源，但 avenue 还有"途径"的引申义**
+
+*avenue* 字面是"朝你走来的路（林荫道）"，现已广泛引申为"可行的途径/办法"（explore every avenue of negotiation）。这是正常语义延伸，可以推断；但别把所有含 -ven- 的词都硬套"来"义——*sovereign*（主权）中的 *-reign* 与本根无关，别混淆。
+
+**陷阱三：souvenir 的 sou- 不是独立前缀**
+
+*souvenir* 经由法语，来自拉丁语 *subvenīre*（浮上心头），sub- 在这里是"从下方"，但这是一条完整词汇化的法语借词，不要把它拆成"sub + venir"去生造衍生词。了解其词源有趣，但语义已固定，无须推断其他用法。
+:::
+
+---
+
+::: {.review-today}
+**今日复习**
+
+本章（第 19 章）学完后，建议回顾以下章节，强化前缀感知：
+
+- **第 18 章**（上一章）：趁记忆新鲜，对比相邻词根的前缀用法
+- **第 17 章**：复习同样高产的另一拉丁动词词根，注意前缀如何在不同词根上产生平行含义
+- **第 15 章**：对比"行走/运动"类词根（如 *ced-/cess-*）与本章"来"的语义差异
+- **第 11 章**：复习 *port-*（携带），与 *ven-*（来）共享大量相同前缀，对比两组词
+- **第 3 章**：重温前缀系统总论，用本章的十个前缀方向表做验证
+
+**本章自测提示**：
+1. *revenue* 里哪个前缀说明"钱回来了"？
+2. *circumvent* 与 *contravene* 都含 *vent-*，两者语义差异来自哪个前缀？
+3. 不看笔记，说出 *intervene* 的字面拆解和引申逻辑。
+4. *souvenir* 和 *supervene* 的前缀各表示什么方向？
+:::

@@ -1,0 +1,148 @@
+# scrib / script —— "写"
+
+::: {.root-banner}
+scrib · script = to write 书写、刻写
+:::
+
+来源：拉丁语动词 **scribere**（原形，意为"写、刻"）及其过去分词 **scriptus**。动词形式衍生出 *scrib-* 系词，分词形式衍生出 *script-* 系词。
+
+::: {.etymo}
+**词源故事：刻刀与羽毛笔**
+
+在铁笔和羊皮纸出现之前，古罗马人用金属刻刀（*stilus*）把文字划进蜡板。*scribere* 最初的意象正是这个"划、刻"的动作——不是轻盈地写，而是用力在硬质表面留下痕迹。所以同一个根，既能描述医生在处方上**刻下**指令（prescribe），也能描述书记官把律令**刻入**石碑（inscribe）。
+
+后来羊皮纸取代蜡板，鹅毛笔取代刻刀，*scribere* 的意象才慢慢柔化成"书写"。但那股"留下不可磨灭痕迹"的劲儿始终没走——你看 *scripture*（圣经经文）这个词，直到今天仍带着一种庄重、不可更改的分量。
+
+拉丁语 *scribere* 进入法语时变成 *écrire*，进入西班牙语变成 *escribir*，进入英语则走了两条路：日常口语里我们说 *write*（来自古英语 *wrītan*，同样有"刻划"之意），而学术和正式语体里则保留了大量 *scrib-/script-* 词族，数量之多，足以撑起一整章。
+:::
+
+### 前缀决定方向，根永远是同一个动作
+
+*scrib/script* 始终只做一件事：**写**。换方向靠前缀：
+
+| 前缀 | 方向/含义 | 旗舰词 |
+|------|-----------|--------|
+| `de-` | 向下、记录下来 | describe |
+| `pre-` | 事先、在前面 | prescribe |
+| `sub-` | 在下方签名 | subscribe |
+| `in-` | 往里、刻入 | inscribe |
+| `trans-` | 横跨、转移 | transcribe |
+| `manu-` | 手（写的） | manuscript |
+| `post-` | 在后面附加 | postscript |
+| `con-` | 一起、共同征召 | conscription |
+| `ad-`（→`a-`） | 归于、归因于 | ascribe |
+| `circum-` | 围绕、限定范围 | circumscribe |
+| `pro-` | 公开宣布禁令 | proscribe |
+| `non-` | 无特征可写 | nondescript |
+
+记住这张表，遇到任何带 *scrib/script* 的陌生词，先找前缀，方向立刻出来。
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [describe]{.headword} | v. | `de-`(向下/记录)+`scrib`(写)+`-e` | 描述，描写 | [高频]{.freq .freq-1} |
+| [description]{.headword} | n. | `de-`+`script`(写)+`-ion`(名词) | 描述，说明 | [高频]{.freq .freq-1} |
+| [descriptive]{.headword} | adj. | `de-`+`script`+`-ive`(形容词) | 描述性的，叙述的 | [高频]{.freq .freq-1} |
+| [prescribe]{.headword} | v. | `pre-`(事先)+`scrib`(写)+`-e` | 开处方；规定 | [高频]{.freq .freq-1} |
+| [prescription]{.headword} | n. | `pre-`+`script`+`-ion` | 处方；规定 | [高频]{.freq .freq-1} |
+| [subscribe]{.headword} | v. | `sub-`(在下方)+`scrib`(写)+`-e` | 订阅；签名同意 | [高频]{.freq .freq-1} |
+| [subscription]{.headword} | n. | `sub-`+`script`+`-ion` | 订阅；订购 | [高频]{.freq .freq-1} |
+| [subscriber]{.headword} | n. | `sub-`+`scrib`+`-er`(人) | 订阅者；签署人 | [高频]{.freq .freq-1} |
+| [inscribe]{.headword} | v. | `in-`(往内/入)+`scrib`(写)+`-e` | 刻写；题词 | [中频]{.freq .freq-2} |
+| [inscription]{.headword} | n. | `in-`+`script`+`-ion` | 铭文；题词 | [中频]{.freq .freq-2} |
+| [transcribe]{.headword} | v. | `trans-`(转移)+`scrib`(写)+`-e` | 转录；誊写；改编 | [中频]{.freq .freq-2} |
+| [transcript]{.headword} | n. | `trans-`+`script`(写下的) | 文字记录；成绩单 | [高频]{.freq .freq-1} |
+| [transcription]{.headword} | n. | `trans-`+`script`+`-ion` | 转录；记录 | [中频]{.freq .freq-2} |
+| [manuscript]{.headword} | n. | `manu-`(手)+`script`(写的) | 手稿；原稿 | [高频]{.freq .freq-1} |
+| [scripture]{.headword} | n. | `script`(写)+`-ure`(物/结果) | 圣经经文；经典 | [高频]{.freq .freq-1} |
+| [postscript]{.headword} | n. | `post-`(在后)+`script`(写的) | 附言（P.S.）；后记 | [高频]{.freq .freq-1} |
+| [conscription]{.headword} | n. | `con-`(共同)+`script`+`-ion` | 征兵，强制服役 | [中频]{.freq .freq-2} |
+| [conscript]{.headword} | v./n. | `con-`+`script` | 强制征召（入伍）；被征召士兵 | [中频]{.freq .freq-2} |
+| [ascribe]{.headword} | v. | `a-`=`ad-`(归于)+`scrib`(写)+`-e` | 归因于；归咎于 | [中频]{.freq .freq-2} |
+| [circumscribe]{.headword} | v. | `circum-`(围绕)+`scrib`(写)+`-e` | 划定范围；约束，限制 | [中频]{.freq .freq-2} |
+| [nondescript]{.headword} | adj. | `non-`(无)+`de-`+`script`(描述) | 平淡无奇的；难以描述的 | [中频]{.freq .freq-2} |
+| [proscribe]{.headword} | v. | `pro-`(公开在前)+`scrib`(写)+`-e` | 明令禁止；放逐 | [低频]{.freq .freq-3} |
+| [proscription]{.headword} | n. | `pro-`+`script`+`-ion` | 禁令；放逐令 | [低频]{.freq .freq-3} |
+| [scribe]{.headword} | n. | `scrib`(写)+-e | 书记员；抄写员 | [中频]{.freq .freq-2} |
+| [scribble]{.headword} | v./n. | `scrib`(写)+`-le`(反复小动作) | 潦草书写；涂鸦 | [高频]{.freq .freq-1} |
+| [script]{.headword} | n. | `script`(写下的) | 剧本；手写体；脚本 | [高频]{.freq .freq-1} |
+| [scriptwriter]{.headword} | n. | `script`(剧本)+`writer`(写者) | 编剧；剧本作家 | [高频]{.freq .freq-1} |
+| [scripture]{.headword} | n. | `script`+`-ure` | （宗教）经文；圣典 | [高频]{.freq .freq-1} |
+| [descriptor]{.headword} | n. | `de-`+`script`+`-or`(施动者) | 描述符；标识词 | [低频]{.freq .freq-3} |
+| [indescribable]{.headword} | adj. | `in-`(否定)+`de-`+`scrib`+`-able` | 难以描述的，无法形容的 | [中频]{.freq .freq-2} |
+| [prescriptive]{.headword} | adj. | `pre-`+`script`+`-ive` | 规定性的；规范性的 | [中频]{.freq .freq-2} |
+| [descriptively]{.headword} | adv. | `de-`+`script`+`-ive`+`-ly` | 描述性地 | [低频]{.freq .freq-3} |
+| [superscript]{.headword} | n./adj. | `super-`(上方)+`script`(写) | 上标（如²中的²） | [中频]{.freq .freq-2} |
+| [subscript]{.headword} | n./adj. | `sub-`(下方)+`script`(写) | 下标（如H₂O中的₂） | [中频]{.freq .freq-2} |
+| [rescript]{.headword} | n. | `re-`(再)+`script`(写) | 复函；法令重申 | [低频]{.freq .freq-3} |
+| [unscripted]{.headword} | adj. | `un-`(未)+`script`+`-ed` | 即兴的，无剧本的 | [高频]{.freq .freq-1} |
+| [manuscript]{.headword} | adj. | `manu-`+`script` | 手写的（形容词用法） | [中频]{.freq .freq-2} |
+| [overwrite]{.headword} | v. | （对照词）`over-`+`write` | 覆盖写入（类比 *over-scribe* 的英语本土形式） | [高频]{.freq .freq-1} |
+| [scriptorium]{.headword} | n. | `script`+`-orium`(场所) | （中世纪修道院的）抄写室 | [低频]{.freq .freq-3} |
+| [scripted]{.headword} | adj. | `script`+`-ed` | 按剧本的；事先写好的 | [高频]{.freq .freq-1} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The doctor **prescribed** antibiotics for three days, but also **described** the side effects in detail.（处方写在前，描述写在下——两个方向的"写"）
+- She **subscribed** to three academic journals, then found the **transcripts** of past lectures even more useful.（签名在下=订阅；转录=transcript）
+- The archaeologist carefully copied the Latin **inscription** on the tomb, turning it into a readable **manuscript**.（刻入石头=inscription；手写稿=manuscript）
+- His behavior was utterly **nondescript** in the crowd—no one could later **describe** him to the police.（非描述性的=难以描述；describe 呼应）
+- After the formal letter, she added a **postscript**: *P.S. Please burn this after reading.*（写在后面的附言，最经典的 postscript 用法）
+- The **conscription** law was **proscribed** by the new government within a year of taking power.（一起写名征召=conscription；公开写出禁令=proscribe）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀想象成方向箭头，根是一支笔——
+
+- **de**scribe：箭头**向下**，把所见写下来 → 描述  
+- **pre**scribe：箭头**向前**，事先写好 → 开处方  
+- **sub**scribe：箭头**向下**，签名在文件底部 → 订阅  
+- **in**scribe：箭头**向内**，刻入石头 → 铭刻  
+- **trans**cribe：箭头**横穿**，从一种形式转写到另一种 → 转录  
+- **post**script：箭头**在后**，正文写完再加 → 附言  
+- **circum**scribe：箭头**绕圈**，在周围画线 → 限定范围  
+
+把这张"方向箭头图"贴在脑子里，任何 *scrib/script* 新词拆开前缀就够了。
+:::
+
+::: {.trap}
+**陷阱一：prescribe vs. proscribe**
+
+两个词长得像，意思**相反**。*prescribe* = 事先写好（规定应该做的）；*proscribe* = 公开写出禁令（禁止某事或某人）。医生 *prescribes* medicine；政府 *proscribes* illegal activities。混淆后果严重，请务必分清前缀 `pre-`（之前）和 `pro-`（公开在前/放逐）。
+
+**陷阱二：*scribble* 的 -le 是频率后缀，不是独立词根**
+
+*scribble* 中的 `-le` 是古英语/中古英语的**反复动作后缀**（iterative suffix），表示动作轻微、重复、随意，并非另一个词根。*scribble* = 反复随意地写 = 涂鸦。这是历史趣闻，不能由此推断其他 `-le` 结尾词都有"反复"义。
+
+**陷阱三：*scripture* ≠ 泛指任何文字**
+
+在现代英语中，*Scripture* 或 *the Scriptures* 几乎专指宗教经典（尤其是《圣经》），带有神圣不可更改的含义。不要把它当成 *writing* 或 *text* 的通用替换词。
+:::
+
+---
+
+::: {.review-today}
+**今日复习排程**
+
+本章是第 **17** 章。建议今日同时回看：
+
+- **第 16 章** — *(上一章词根)*：对比上章前缀系统，强化"前缀换方向"的模式识别
+- **第 15 章** — *(上二章词根)*：检查是否记住了词根核心义，用造句法测试
+- **第 13 章** — *(中段章节)*：回顾该章词根，看能否组成跨章短语
+- **第 9 章** — *(中前段)*：重新默写核心派生词表，不看书
+- **第 1 章** — *(第一章)*：返回起点，确认基础词根全部稳固
+
+**本章自测提示**：
+
+1. 不看书，写出 *describe / prescribe / subscribe / inscribe / transcribe* 的词根拆解和义项——五个词全对再继续。  
+2. *postscript* 的缩写是什么？信末为什么用它？  
+3. 用一句话解释 *conscription*，说出前缀 `con-` 在这里的作用。  
+4. *nondescript* 字面意思是什么？为什么这个词义顺理成章？  
+5. 默写 *proscribe* 和 *prescribe* 的区别，各造一个例句。
+:::

@@ -26,6 +26,18 @@ book:
         - chapters/ch10-meter.qmd
         - chapters/ch11-mit.qmd
         - chapters/ch12-bio.qmd
+        - chapters/ch13-pos.qmd
+        - chapters/ch14-geo.qmd
+        - chapters/ch15-tract.qmd
+        - chapters/ch16-chrono.qmd
+        - chapters/ch17-scrib.qmd
+        - chapters/ch18-path.qmd
+        - chapters/ch19-ven.qmd
+        - chapters/ch20-psych.qmd
+        - chapters/ch21-ten.qmd
+        - chapters/ch22-therm.qmd
+        - chapters/ch23-cap.qmd
+        - chapters/ch24-photo.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd
