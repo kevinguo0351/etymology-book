@@ -12,10 +12,20 @@ book:
   chapters:
     - index.qmd
     - chapters/method.qmd
-    - part: "样章预览（第一梯队 · 地基根）"
+    - part: "正文 · 词根章节"
       chapters:
         - chapters/ch01-spec.qmd
         - chapters/ch02-graph-gram.qmd
+        - chapters/ch03-port.qmd
+        - chapters/ch04-log.qmd
+        - chapters/ch05-dict.qmd
+        - chapters/ch06-phon.qmd
+        - chapters/ch07-duc.qmd
+        - chapters/ch08-scope.qmd
+        - chapters/ch09-fer.qmd
+        - chapters/ch10-meter.qmd
+        - chapters/ch11-mit.qmd
+        - chapters/ch12-bio.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

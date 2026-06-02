@@ -1,104 +1,91 @@
-# 脊柱：词根清单 · 频率排序 · 60 章映射
+# 脊柱：80 章词根清单 · 拉丁/希腊交替 · 频率分层
 
-> 这是全书的骨架，供你先审。**排序原则：纯频率分层** —— 按"该词根能解锁词汇的累计使用频率"从高到低排，高产出根先教。每章 = 一个词根簇（1 个主根 + 其拼写变体）。
+> 全书骨架。**排序：频率分层为主，拉丁(L)/希腊(G)交替为辅** —— 在"高产根先教"的前提下让两系交替出现，读着不腻（略偏离纯频率，你已同意）。每章 = 一个词根簇。
 >
-> 标签：**[L]** 拉丁系（靠换前缀） · **[G]** 希腊系（靠拼搭档根）。
-> "旗舰词"只列几个代表，正式章节每章 drilled 30–50 词 + 延伸词族。
-> 精确次序最终由 `scripts/rank_roots.mjs`（读频率表）微调，下面是基于频率的人工初排。
-
----
-
-## 第一梯队 · 地基根（最高频，几乎每页都撞见）
+> ch01/ch02 已是定稿样章。ch03 起为待产清单。每章 drilled 30–50 词 + 延伸词族。
+> "今日复习"间隔：第 N 章回看 N−1, N−2, N−4, N−8, N−16 章。
 
 | № | 词根（变体） | 义 | 系 | 旗舰词 |
 |---|---|---|---|---|
-| 1 | spec / spect / spic | 看 | L | respect, suspect, conspicuous ✅样章 |
-| 2 | graph / gram | 写·画·记 | G | photograph, diagram, program ✅样章 |
+| 1 | spec/spect/spic | 看 | L | respect, suspect, conspicuous ✅ |
+| 2 | graph/gram | 写·画·记 | G | photograph, diagram, program ✅ |
 | 3 | port | 运·拿 | L | import, transport, support, portable |
-| 4 | dict | 说 | L | predict, contradict, verdict, dictate |
-| 5 | duc / duct | 引导 | L | produce, conduct, educate, introduce |
-| 6 | fer | 带·承 | L | transfer, refer, prefer, confer |
-| 7 | mit / miss | 送 | L | transmit, submit, mission, dismiss |
-| 8 | pon / pos / posit | 放·置 | L | compose, propose, position, expose |
-| 9 | tract | 拉·拽 | L | attract, contract, extract, distract |
-| 10 | scrib / script | 写 | L | describe, prescribe, manuscript, subscribe |
-| 11 | ven / vent | 来 | L | prevent, invent, convene, intervene |
-| 12 | ten / tain / tin | 握·持 | L | contain, retain, maintain, sustain |
-| 13 | cap / cept / cip | 取·抓 | L | accept, concept, receive, perceive |
-| 14 | ced / cess | 行·让 | L | proceed, exceed, access, recede |
-| 15 | struct | 建 | L | construct, structure, instruct, infrastructure |
+| 4 | log/logy | 言·学 | G | logic, biology, dialogue, catalog |
+| 5 | dict | 说 | L | predict, contradict, verdict, dictate |
+| 6 | phon | 声 | G | telephone, symphony, microphone |
+| 7 | duc/duct | 引导 | L | produce, conduct, educate, introduce |
+| 8 | scope/scop | 看·察 | G | telescope, microscope, periscope |
+| 9 | fer | 带·承 | L | transfer, refer, prefer, confer |
+| 10 | meter/metr | 测·量 | G | thermometer, diameter, symmetry |
+| 11 | mit/miss | 送 | L | transmit, submit, mission, dismiss |
+| 12 | bio | 生命 | G | biology, biography, antibiotic |
+| 13 | pos/pon/posit | 放·置 | L | compose, propose, position, expose |
+| 14 | geo | 大地 | G | geography, geology, geometry |
+| 15 | tract | 拉·拽 | L | attract, contract, extract, distract |
+| 16 | chrono | 时间 | G | chronology, synchronize, chronic |
+| 17 | scrib/script | 写 | L | describe, prescribe, manuscript, subscribe |
+| 18 | path | 感·病 | G | sympathy, empathy, pathology |
+| 19 | ven/vent | 来 | L | prevent, invent, convene, intervene |
+| 20 | psych | 心·灵 | G | psychology, psychic, psyche |
+| 21 | ten/tain/tin | 握·持 | L | contain, retain, maintain, sustain |
+| 22 | therm | 热 | G | thermometer, thermal, thermostat |
+| 23 | cap/cept/cip | 取·抓 | L | accept, concept, receive, perceive |
+| 24 | photo | 光 | G | photograph, photon, photosynthesis |
+| 25 | ced/cess | 行·让 | L | proceed, exceed, access, recede |
+| 26 | auto | 自己 | G | automatic, autonomy, autograph |
+| 27 | struct | 建 | L | construct, structure, instruct, infrastructure |
+| 28 | phil | 爱 | G | philosophy, philanthropy, bibliophile |
+| 29 | form | 形 | L | reform, transform, inform, conform |
+| 30 | micro/macro | 小·大 | G | microscope, macroeconomics, macro |
+| 31 | vert/vers | 转 | L | convert, reverse, divert, controversy |
+| 32 | tele | 远 | G | telephone, television, telescope |
+| 33 | ject | 投·掷 | L | reject, project, inject, object |
+| 34 | nom/nomy | 法·序 | G | autonomy, economy, astronomy, taxonomy |
+| 35 | sta/stat/sist | 站·立 | L | stable, status, resist, insist, constant |
+| 36 | anthrop | 人类 | G | anthropology, philanthropy, misanthrope |
+| 37 | spir | 呼吸 | L | inspire, expire, conspire, spirit |
+| 38 | demo | 人民 | G | democracy, demographic, epidemic |
+| 39 | vid/vis | 看·见 | L | video, vision, evident, provide, supervise |
+| 40 | arch | 统治·首·古 | G | monarch, anarchy, architect, archaic |
+| 41 | mot/mov/mob | 动 | L | motion, motor, mobile, promote, emotion |
+| 42 | cracy/crat | 权·治 | G | democracy, autocrat, bureaucracy |
+| 43 | pend/pens | 悬·称·付 | L | depend, suspend, expensive, pensive |
+| 44 | morph | 形态 | G | morphology, amorphous, metamorphosis |
+| 45 | clud/clus | 关·闭 | L | include, exclude, conclude, seclude |
+| 46 | soph | 智 | G | philosophy, sophisticated, sophomore |
+| 47 | pel/puls | 驱·推 | L | compel, expel, propel, impulse |
+| 48 | theo | 神 | G | theology, atheist, monotheism |
+| 49 | cred | 信 | L | credit, credible, incredible, credential |
+| 50 | phys | 自然 | G | physics, physical, physician |
+| 51 | fid | 信·忠 | L | confide, fidelity, confident |
+| 52 | onym | 名 | G | synonym, anonymous, pseudonym |
+| 53 | flu/flux | 流 | L | fluent, influence, fluid, influenza |
+| 54 | gno/gnos | 知 | G | diagnosis, prognosis, agnostic |
+| 55 | rupt | 断·裂 | L | interrupt, erupt, corrupt, bankrupt |
+| 56 | poly | 多 | G | polygon, polymer, polytheism |
+| 57 | flect/flex | 弯·曲 | L | reflect, flexible, deflect, reflex |
+| 58 | mono | 一 | G | monopoly, monologue, monotone |
+| 59 | fract/frag | 碎·折 | L | fracture, fragment, fraction, fragile |
+| 60 | syn/sym | 一起 | G | synthesis, sympathy, synchronize |
+| 61 | gen | 生·种 | L | generate, genetic, genesis, indigenous |
+| 62 | hyper/hypo | 过·下 | G | hyperactive, hypothesis, hypothermia |
+| 63 | aud | 听 | L | audio, audience, audible, auditorium |
+| 64 | hetero/homo | 异·同 | G | heterogeneous, homogeneous, homonym |
+| 65 | voc/vok | 声·召 | L | vocal, advocate, provoke, vocabulary |
+| 66 | derm | 皮 | G | dermatology, epidermis, hypodermic |
+| 67 | vit/viv | 生命 | L | vital, survive, revive, vivid |
+| 68 | neuro/neur | 神经 | G | neuron, neurology, neurotic |
+| 69 | cur/curs/cours | 跑 | L | current, occur, excursion, cursory |
+| 70 | cardi | 心 | G | cardiology, cardiac, tachycardia |
+| 71 | sequ/secut | 跟随 | L | sequence, consequence, prosecute, sequel |
+| 72 | phob | 怕 | G | claustrophobia, xenophobia, phobic |
+| 73 | sens/sent | 感觉 | L | sense, sentiment, consent, sensation |
+| 74 | pseudo | 假 | G | pseudonym, pseudoscience, pseudo |
+| 75 | val/vail | 强·值 | L | valid, evaluate, prevail, valiant |
+| 76 | hydro | 水 | G | hydrate, dehydrate, hydrogen |
+| 77 | sci | 知 | L | science, conscious, conscience, omniscient |
+| 78 | cid/cis | 切·杀 | L | decide, precise, homicide, incision |
+| 79 | man/manu | 手 | L | manual, manufacture, manuscript, manipulate |
+| 80 | nov | 新 | L | novel, innovate, renovate, novice |
 
-## 第二梯队 · 高频动作根
-
-| № | 词根（变体） | 义 | 系 | 旗舰词 |
-|---|---|---|---|---|
-| 16 | form | 形 | L | reform, transform, inform, conform |
-| 17 | vert / vers | 转 | L | convert, reverse, divert, controversy |
-| 18 | ject | 投·掷 | L | reject, project, inject, object |
-| 19 | sta / stat / sist | 站·立 | L | stable, status, resist, insist, constant |
-| 20 | spir | 呼吸 | L | inspire, expire, conspire, spirit |
-| 21 | vid / vis | 看·见 | L | video, vision, evident, provide, supervise |
-| 22 | mot / mov / mob | 动 | L | motion, motor, mobile, promote, emotion |
-| 23 | pend / pens | 悬·称·付 | L | depend, suspend, expensive, pensive |
-| 24 | clud / clus | 关·闭 | L | include, exclude, conclude, seclude |
-| 25 | pel / puls | 驱·推 | L | compel, expel, propel, impulse |
-
-## 第三梯队 · 希腊领域根（科学词的半壁江山）
-
-| № | 词根（变体） | 义 | 系 | 旗舰词 |
-|---|---|---|---|---|
-| 26 | log / logy | 言·学 | G | logic, biology, dialogue, catalog |
-| 27 | phon | 声 | G | telephone, symphony, microphone |
-| 28 | scope / scop | 看·察 | G | telescope, microscope, periscope |
-| 29 | meter / metr | 测·量 | G | thermometer, diameter, symmetry |
-| 30 | bio | 生命 | G | biology, biography, antibiotic |
-| 31 | geo | 大地 | G | geography, geology, geometry |
-| 32 | chrono | 时间 | G | chronology, synchronize, chronic |
-| 33 | path | 感·病 | G | sympathy, empathy, pathology |
-| 34 | psych | 心·灵 | G | psychology, psychic, psyche |
-| 35 | therm | 热 | G | thermometer, thermal, thermostat |
-| 36 | photo | 光 | G | photograph, photon, photosynthesis |
-| 37 | auto | 自己 | G | automatic, autonomy, autograph |
-| 38 | phil | 爱 | G | philosophy, philanthropy, bibliophile |
-| 39 | micro / macro | 小·大 | G | microscope, macroeconomics |
-| 40 | tele | 远 | G | telephone, television, telescope |
-
-## 第四梯队 · 中频实义根
-
-| № | 词根（变体） | 义 | 系 | 旗舰词 |
-|---|---|---|---|---|
-| 41 | cred | 信 | L | credit, credible, incredible, credential |
-| 42 | fid | 信·忠 | L | confide, fidelity, confident |
-| 43 | flu / flux | 流 | L | fluent, influence, fluid, influenza |
-| 44 | rupt | 断·裂 | L | interrupt, erupt, corrupt, bankrupt |
-| 45 | flect / flex | 弯·曲 | L | reflect, flexible, deflect, reflex |
-| 46 | fract / frag | 碎·折 | L | fracture, fragment, fraction, fragile |
-| 47 | gen | 生·种 | L | generate, genetic, genesis, indigenous |
-| 48 | aud | 听 | L | audio, audience, audible, auditorium |
-| 49 | greg | 群 | L | congregate, gregarious, segregate |
-| 50 | nom / nomy | 法·名·序 | G | autonomy, economy, astronomy, taxonomy |
-
-## 第五梯队 · 学术高产根（频率较低，但解码价值极高）
-
-| № | 词根（变体） | 义 | 系 | 旗舰词 |
-|---|---|---|---|---|
-| 51 | leg / lig / lect | 读·选·词 | L | legible, select, collect, elect, intelligent |
-| 52 | anthrop | 人类 | G | anthropology, philanthropy, misanthrope |
-| 53 | demo | 人民 | G | democracy, demographic, epidemic |
-| 54 | arch | 统治·首·古 | G | monarch, anarchy, architect, archaic |
-| 55 | cracy / crat | 权·治 | G | democracy, autocrat, bureaucracy |
-| 56 | morph | 形态 | G | morphology, amorphous, metamorphosis |
-| 57 | soph | 智 | G | philosophy, sophisticated, sophomore |
-| 58 | theo | 神 | G | theology, atheist, monotheism |
-| 59 | phys | 自然 | G | physics, physical, physician |
-| 60 | onym / nom | 名 | G | synonym, anonymous, pseudonym |
-
----
-
-## 待你确认的几点
-
-1. **60 章这个总量** 对应"每天一章、两个月一轮"。可加可减——加到 ~80 章覆盖更广但拖长周期；减到 ~45 章只攻最高产根、更快跑完一轮。
-2. **纯频率排序 vs 教学连贯**：现在第 3–25 章拉丁根扎堆、26–40 希腊根扎堆，是按产出量自然形成的。若你更想"拉丁/希腊交替"读着不腻，我可以重排——但那会偏离纯频率。
-3. **延伸方向**：跑完这 60 个核心根后，第二轮可加"少见但成簇"的根（如 -duct- 的医学簇、法律拉丁短语等）。
-
-> 下一步只等你对**样章风格**（ch01 / ch02）和**这份脊柱**点头，我就按此批量产章。
+> 尾部 77–80 转为拉丁，因希腊高产根已排完——希腊系总量本就少于拉丁。

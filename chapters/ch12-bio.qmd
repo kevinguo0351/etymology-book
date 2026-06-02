@@ -1,0 +1,123 @@
+# bio —— "生命·活的"
+
+::: {.root-banner}
+`bio` = life 生命
+:::
+
+来源：希腊语 **bios**（βίος），本义为"生命、生活方式、生计"，与 **zōē**（ζωή，纯粹的生命力）有别——*bios* 更强调有方向、有历程的**个体生命**。
+
+::: {.etymo}
+**词源故事：给生命写档案**
+
+古希腊人用 *bios* 描述一个人走过的生命轨迹，就像一条有起点、有终点的路线。他们最早把它与 *graphein*（书写）拼合，造出 *biographia*——替人"写下生命路线"，这就是今天 biography（传记）的祖先。
+
+后来，随着博物学兴起，人们开始研究所有生物共同遵循的规律，于是把 *bios* 与 *logia*（学说）拼合，创造 *biologia*——**biology**（生物学）就此诞生，成为一门专门解释"什么是生命"的学科。
+
+到了抗生素时代，科学家发现某些微生物会分泌物质来杀死同类竞争者。这种"反生命"的机制被命名为 **antibiotic**：*anti-*（对抗）+ *bio*（生命）+ *-ic*（形容词尾）。一粒青霉素，从词根上看，就是一颗"专门对抗生命"的子弹——只不过它瞄准的是细菌的生命，而非你的。
+
+**bio** 这个根之所以高产，是因为"生命"触碰几乎所有自然学科的边界：与空气结合谈有氧呼吸（aerobic），与地球结合谈生物圈（biosphere），与化学结合谈生物化学（biochemistry）。希腊人留给我们的这三个字母，撑起了整片生命科学的词汇森林。
+:::
+
+**搭档根一览**——`bio` 是天然的"核心词根"，常与以下希腊领域根自由拼搭：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `-logy` | 学问、学科 | biology, microbiology |
+| `-graphy` | 书写、记录 | biography, autobiography |
+| `anti-` | 对抗、反 | antibiotic, antibody |
+| `sym- / syn-` | 共同、一起 | symbiosis, symbiont |
+| `micro-` | 微小 | microbe, microbiology |
+| `-opsy` | 观察、检视 | biopsy, autopsy |
+| `aero-` | 空气 | aerobic, anaerobic |
+| `auto-` | 自己 | autobiography, autotroph |
+| `-sphere` | 球体、范围 | biosphere, atmosphere |
+| `-chem-` | 化学 | biochemistry, biochemical |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [biology]{.headword} | n. | `bio`(生命)+`-logy`(学) | 生物学 | [高频]{.freq .freq-1} |
+| [biological]{.headword} | adj. | `bio`(生命)+`-logical`(学科的) | 生物学的；生理的 | [高频]{.freq .freq-1} |
+| [biologist]{.headword} | n. | `bio`(生命)+`-logist`(学者) | 生物学家 | [高频]{.freq .freq-1} |
+| [biography]{.headword} | n. | `bio`(生命)+`-graphy`(书写) | 传记 | [高频]{.freq .freq-1} |
+| [biographical]{.headword} | adj. | `bio`(生命)+`-graphical`(书写的) | 传记的；传记性的 | [中频]{.freq .freq-2} |
+| [biographer]{.headword} | n. | `bio`(生命)+`-grapher`(书写者) | 传记作者 | [中频]{.freq .freq-2} |
+| [autobiography]{.headword} | n. | `auto-`(自己)+`bio`(生命)+`-graphy`(书写) | 自传 | [高频]{.freq .freq-1} |
+| [autobiographical]{.headword} | adj. | `auto-`(自己)+`bio`+`-graphical` | 自传性的 | [中频]{.freq .freq-2} |
+| [antibiotic]{.headword} | n./adj. | `anti-`(对抗)+`bio`(生命)+`-tic`(形容词尾) | 抗生素；抗菌的 | [高频]{.freq .freq-1} |
+| [biosphere]{.headword} | n. | `bio`(生命)+`-sphere`(球体/范围) | 生物圈 | [高频]{.freq .freq-1} |
+| [symbiosis]{.headword} | n. | `sym-`(共同)+`bio`(生命)+`-sis`(名词尾) | 共生关系 | [高频]{.freq .freq-1} |
+| [symbiotic]{.headword} | adj. | `sym-`(共同)+`bio`(生命)+`-tic` | 共生的；互利互惠的 | [高频]{.freq .freq-1} |
+| [symbiont]{.headword} | n. | `sym-`(共同)+`bio`(生命)+`-nt`(行为者) | 共生体 | [低频]{.freq .freq-3} |
+| [microbe]{.headword} | n. | `micro-`(微小)+`bio`(生命) → 词尾省略 | 微生物 | [高频]{.freq .freq-1} |
+| [microbial]{.headword} | adj. | `micro-`(微小)+`bio`(生命)+`-al` | 微生物的 | [高频]{.freq .freq-1} |
+| [microbiology]{.headword} | n. | `micro-`(微小)+`bio`(生命)+`-logy`(学) | 微生物学 | [高频]{.freq .freq-1} |
+| [microbiome]{.headword} | n. | `micro-`(微小)+`bio`(生命)+`-ome`(整体集合) | 微生物组；菌群 | [高频]{.freq .freq-1} |
+| [biopsy]{.headword} | n. | `bio`(生命)+`-opsy`(观察/检视) | 活体组织检查；活检 | [高频]{.freq .freq-1} |
+| [biome]{.headword} | n. | `bio`(生命)+`-ome`(整体集合) | 生物群系（如热带雨林、苔原） | [高频]{.freq .freq-1} |
+| [biodiversity]{.headword} | n. | `bio`(生命)+`diversity`(多样性) | 生物多样性 | [高频]{.freq .freq-1} |
+| [aerobic]{.headword} | adj. | `aero-`(空气)+`bio`(生命)+`-ic` | 有氧的；需氧的 | [高频]{.freq .freq-1} |
+| [anaerobic]{.headword} | adj. | `an-`(无)+`aero-`(空气)+`bio`(生命)+`-ic` | 厌氧的；无氧的 | [中频]{.freq .freq-2} |
+| [biochemistry]{.headword} | n. | `bio`(生命)+`chemistry`(化学) | 生物化学 | [高频]{.freq .freq-1} |
+| [biochemical]{.headword} | adj. | `bio`(生命)+`chemical`(化学的) | 生化的 | [高频]{.freq .freq-1} |
+| [biodegradable]{.headword} | adj. | `bio`(生命)+`degrade`(降解)+`-able`(可…的) | 可生物降解的 | [高频]{.freq .freq-1} |
+| [biodegradation]{.headword} | n. | `bio`(生命)+`degradation`(降解) | 生物降解 | [中频]{.freq .freq-2} |
+| [biorhythm]{.headword} | n. | `bio`(生命)+`rhythm`(节律) | 生物节律；生理韵律 | [中频]{.freq .freq-2} |
+| [bioluminescence]{.headword} | n. | `bio`(生命)+`luminescence`(发光) | 生物发光 | [中频]{.freq .freq-2} |
+| [bioethics]{.headword} | n. | `bio`(生命)+`ethics`(伦理) | 生命伦理学 | [中频]{.freq .freq-2} |
+| [biotechnology]{.headword} | n. | `bio`(生命)+`technology`(技术) | 生物技术；生物工程 | [高频]{.freq .freq-1} |
+| [biotech]{.headword} | n./adj. | `bio`(生命)+`tech`(技术，缩略) | 生物科技（公司/行业） | [高频]{.freq .freq-1} |
+| [biomarker]{.headword} | n. | `bio`(生命)+`marker`(标记物) | 生物标志物 | [高频]{.freq .freq-1} |
+| [biomass]{.headword} | n. | `bio`(生命)+`mass`(质量/团块) | 生物量；生物质（能源） | [高频]{.freq .freq-1} |
+| [biofuel]{.headword} | n. | `bio`(生命)+`fuel`(燃料) | 生物燃料 | [高频]{.freq .freq-1} |
+| [biosecurity]{.headword} | n. | `bio`(生命)+`security`(安全) | 生物安全 | [中频]{.freq .freq-2} |
+| [biohazard]{.headword} | n. | `bio`(生命)+`hazard`(危险) | 生物危害；生化危险品 | [中频]{.freq .freq-2} |
+| [bioweapon]{.headword} | n. | `bio`(生命)+`weapon`(武器) | 生物武器 | [中频]{.freq .freq-2} |
+| [biotic]{.headword} | adj. | `bio`(生命)+`-tic`(形容词尾) | 生物的；有生命的 | [中频]{.freq .freq-2} |
+| [abiotic]{.headword} | adj. | `a-`(无)+`bio`(生命)+`-tic` | 非生物的（如温度、光照） | [中频]{.freq .freq-2} |
+| [probiotic]{.headword} | n./adj. | `pro-`(有利于)+`bio`(生命)+`-tic` | 益生菌；有益菌的 | [高频]{.freq .freq-1} |
+| [prebiotic]{.headword} | n./adj. | `pre-`(在…之前)+`bio`(生命)+`-tic` | 益生元；前生命的 | [中频]{.freq .freq-2} |
+| [biopic]{.headword} | n. | `bio`(传记缩略)+`pic`(电影缩略) | 传记电影；人物传记片 | [高频]{.freq .freq-1} |
+| [biosynthesis]{.headword} | n. | `bio`(生命)+`synthesis`(合成) | 生物合成 | [中频]{.freq .freq-2} |
+| [photosynthesis]{.headword} | n. | `photo-`(光)+`synthesis`(合成) | 光合作用（*bio* 隐含其中） | [高频]{.freq .freq-1} |
+| [symbiogenesis]{.headword} | n. | `sym-`(共同)+`bio`(生命)+`genesis`(起源) | 共生起源论 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- Scientists warn that the rate of species extinction threatens global **biodiversity** more severely than any previous mass extinction event.（生物多样性——注意是"生命"与"多样性"的拼合，强调物种层面的丰富程度）
+
+- The doctor ordered a **biopsy** to determine whether the growth was malignant.（活检——字面意思是"观察活体组织"，*opsy* 与 autopsy 共享同一个"看"的词根）
+
+- Gut health research has shifted focus to the **microbiome**, the vast community of bacteria living in the human digestive system.（微生物组——现代医学最热关键词之一，*micro-* + *bio* + *-ome* 三根并列）
+
+- Overuse of **antibiotics** in livestock farming contributes to the emergence of drug-resistant bacteria.（抗生素——*anti-* 对抗 + *bio* 生命，指"杀菌"，注意它本身不含"药"的成分）
+
+- The relationship between clownfish and sea anemones is a classic example of **symbiosis**: the fish gains protection while the anemone benefits from cleaning.（共生——*sym-* 共同 + *bio* 生命，两个生命共同获益）
+
+- Her memoir is explicitly **autobiographical**, drawing on diaries she kept for thirty years.（自传性的——*auto-* 自己 + *bio* 生命 + *-graphical* 书写的，三根连缀逻辑一目了然）
+:::
+
+::: {.mnemonic}
+**助记**：把 `bio` 想成一颗心跳的图标"♥"——它出现在哪个词里，哪个词就跟"有生命的事物"有关。你买的**bio**degradable 袋子，靠的是**微生**物（micro**be**）把它吃掉；你吃的**pro**biotic 酸奶，是在用"有利于生命"的菌群来保护你；医生做**bio**psy，是"看一眼活体"来判断你的细胞是否还健康。记住这颗"♥"，30个词自然串成一条链。
+:::
+
+::: {.trap}
+**陷阱**：**microbe** 的词尾 `-be` 并非独立词根，它是希腊语 *bios* 末端省略后的残余形式（词源为 *mikrobios*），不能单独拆出来推断其他词的意思。这属于构词史上的音变趣闻，**不能**用它去推断含 *-be* 的其他词（如 cube、globe）与"生命"有关。  
+
+另外，**biopic**（传记电影）是 20 世纪的英语缩略造词：*biographical picture* → *bio* + *pic*，这里的 *bio* 已经不是纯粹的希腊词根，而是英语缩略词。它的构词方式与其他 bio- 词不同，不能用同样的词根逻辑去推断。
+:::
+
+::: {.review-today}
+**今日复习排程（第 12 章）**
+
+完成本章后，请翻回以下章节做遮盖自测：
+
+- **第 11 章**：翻开，遮住释义列，只看词形，自测能否说出词义
+- **第 10 章**：重点复习该章"核心派生词"表中频率标注为[高频]{.freq .freq-1}的词
+- **第 8 章**：回顾该章词根，尝试与本章 `bio-` 拼合——能造出哪些实际存在的词？
+- **第 4 章**：用该章词根造句，句中同时包含一个本章的 bio- 词（强迫跨章联结）
+
+**本章自测词（遮住释义）**：biography · antibiotic · symbiosis · biopsy · aerobic · biodegradable · microbiome · biotic
+:::

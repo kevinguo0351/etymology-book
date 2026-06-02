@@ -1,0 +1,151 @@
+# log / logy —— "言·说·学科·理性"
+
+::: {.root-banner}
+`log` · `logy` = word, reason, study 言语·理性·学科
+:::
+
+来源：希腊语 *logos*（λόγος），原义"所说之言、理性、计算"，由动词 *legein*（说话、收集）派生。
+
+::: {.etymo}
+**词源故事：宇宙的理性之网**
+
+在古希腊人眼中，*logos* 不只是普通的"一句话"。哲学家赫拉克利特用它指称宇宙运行背后那条看不见的理性法则——万物流转，但 *logos* 永恒不变。它同时意味着：你说出的话、话语背后的道理、以及那股让世界有条不紊的理性力量。
+
+这个词有两条进入英语的主干通道。第一条是 `-logy`：当希腊人要命名一门研究某事物的学问，就在研究对象后面接 `-logia`（言说、研究）。*bios*（生命）+ *logos* = *biologia*，研究生命之言，即 biology。于是 `-logy` 成了西方学科名称的万能后缀，从 geology（地学）到 psychology（心理学），整个现代科学命名体系都拱在这个小尾巴上。
+
+第二条是 `log-` 直接出场：*dialogos* 是"穿越双方的话"（*dia-* 贯穿 + *logos*），*monologos* 是"一人之言"（*mono-* 单），*apologia* 是"为自己的话辩护"（*apo-* 离开），*eulogia* 是"美好的言辞"（*eu-* 好）。这些词进入拉丁语、法语，再进入英语，形体略有磨损，意思一脉相承。
+
+记住：凡见 `log` 或 `logy`，背后总有一个希腊人在开口说话，或者在用理性丈量世界。
+:::
+
+**搭档根表**——`log/logy` 最常与以下希腊域根拼搭，形成独立学科或复合词：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `bio-` | 生命 | biology, biography |
+| `psych-` | 心灵、心理 | psychology, psychologist |
+| `eco-` | 家、环境 | ecology, ecosystem |
+| `ideo-` / `idea-` | 观念、思想 | ideology, ideologue |
+| `mono-` | 单一 | monologue, monolog |
+| `dia-` | 穿越、经由 | dialogue, dialectic |
+| `pro-` | 在前、提前 | prologue, prolog |
+| `epi-` | 在后、在上 | epilogue, epigraph |
+| `ana-` | 类比、回溯 | analogy, analysis |
+| `neo-` | 新 | neologism, neoclassical |
+| `eu-` | 好、美 | eulogy, euphemism |
+| `geo-` | 大地 | geology, geography |
+| `theo-` | 神 | theology, theocracy |
+| `socio-` | 社会 | sociology, sociopath |
+| `anthrop-` | 人类 | anthropology, anthropoid |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [logic]{.headword} | n. | `log`(理性/言)+`-ic`(名词化) | 逻辑；推理体系 | [高频]{.freq .freq-1} |
+| [logical]{.headword} | adj. | `log`(理性)+`-ical`(形容词) | 合乎逻辑的，合理的 | [高频]{.freq .freq-1} |
+| [illogical]{.headword} | adj. | `il-`(否)+`logic`+`-al` | 不合逻辑的，荒谬的 | [中频]{.freq .freq-2} |
+| [logically]{.headword} | adv. | `logic`+`-ally` | 合乎逻辑地 | [高频]{.freq .freq-1} |
+| [dialogue]{.headword} | n. | `dia-`(穿越/双方)+`logue`(言) | 对话；对白 | [高频]{.freq .freq-1} |
+| [monologue]{.headword} | n. | `mono-`(单)+`logue`(言) | 独白；长篇大论 | [高频]{.freq .freq-1} |
+| [prologue]{.headword} | n. | `pro-`(前)+`logue`(言) | 序言，开场白 | [中频]{.freq .freq-2} |
+| [epilogue]{.headword} | n. | `epi-`(后)+`logue`(言) | 结语，后记，尾声 | [中频]{.freq .freq-2} |
+| [apology]{.headword} | n. | `apo-`(离开/为…辩护)+`logy`(言) | 道歉；辩护（古义） | [高频]{.freq .freq-1} |
+| [apologize]{.headword} | v. | `apolog-`+`-ize` | 道歉 | [高频]{.freq .freq-1} |
+| [analogy]{.headword} | n. | `ana-`(按比例/类比)+`logy`(言) | 类比；相似之处 | [高频]{.freq .freq-1} |
+| [analogous]{.headword} | adj. | `analog-`+`-ous` | 类似的，可类比的 | [中频]{.freq .freq-2} |
+| [catalog]{.headword} | n./v. | `cata-`(向下/完全)+`log`(列举之言) | 目录；编目 | [高频]{.freq .freq-1} |
+| [eulogy]{.headword} | n. | `eu-`(好)+`logy`(言) | 颂词，悼词，称颂 | [中频]{.freq .freq-2} |
+| [eulogize]{.headword} | v. | `eulog-`+`-ize` | 颂扬，称赞 | [低频]{.freq .freq-3} |
+| [neologism]{.headword} | n. | `neo-`(新)+`log`(言)+`-ism` | 新词；新词语现象 | [中频]{.freq .freq-2} |
+| [biology]{.headword} | n. | `bio-`(生命)+`logy`(学) | 生物学 | [高频]{.freq .freq-1} |
+| [biologist]{.headword} | n. | `biolog-`+`-ist` | 生物学家 | [高频]{.freq .freq-1} |
+| [psychology]{.headword} | n. | `psych-`(心灵)+`ology` | 心理学 | [高频]{.freq .freq-1} |
+| [psychologist]{.headword} | n. | `psycholog-`+`-ist` | 心理学家 | [高频]{.freq .freq-1} |
+| [psychological]{.headword} | adj. | `psycholog-`+`-ical` | 心理（学）的 | [高频]{.freq .freq-1} |
+| [ecology]{.headword} | n. | `eco-`(家/环境)+`logy` | 生态学 | [高频]{.freq .freq-1} |
+| [ecological]{.headword} | adj. | `ecolog-`+`-ical` | 生态的，生态学的 | [高频]{.freq .freq-1} |
+| [ideology]{.headword} | n. | `ideo-`(观念)+`logy` | 意识形态；思想体系 | [高频]{.freq .freq-1} |
+| [ideological]{.headword} | adj. | `ideolog-`+`-ical` | 意识形态的 | [高频]{.freq .freq-1} |
+| [ideologue]{.headword} | n. | `ideo-`+`logue`(言者) | 意识形态信奉者，教条主义者 | [中频]{.freq .freq-2} |
+| [geology]{.headword} | n. | `geo-`(大地)+`logy` | 地质学 | [高频]{.freq .freq-1} |
+| [sociology]{.headword} | n. | `socio-`(社会)+`logy` | 社会学 | [高频]{.freq .freq-1} |
+| [anthropology]{.headword} | n. | `anthrop-`(人类)+`ology` | 人类学 | [中频]{.freq .freq-2} |
+| [theology]{.headword} | n. | `theo-`(神)+`logy` | 神学 | [中频]{.freq .freq-2} |
+| [methodology]{.headword} | n. | `method-`(方法)+`ology` | 方法论；研究方法 | [高频]{.freq .freq-1} |
+| [terminology]{.headword} | n. | `termin-`(界限/术语)+`ology` | 术语系统；专业词汇 | [高频]{.freq .freq-1} |
+| [chronology]{.headword} | n. | `chron-`(时间)+`ology` | 年代学；年代顺序 | [中频]{.freq .freq-2} |
+| [technology]{.headword} | n. | `techno-`(技艺)+`logy` | 技术；工艺学 | [高频]{.freq .freq-1} |
+| [technological]{.headword} | adj. | `technolog-`+`-ical` | 技术的，工艺的 | [高频]{.freq .freq-1} |
+| [etymology]{.headword} | n. | `etymo-`(原义)+`logy` | 词源学；词源 | [中频]{.freq .freq-2} |
+| [mythology]{.headword} | n. | `mytho-`(神话)+`logy` | 神话学；神话体系 | [中频]{.freq .freq-2} |
+| [zoology]{.headword} | n. | `zoo-`(动物)+`logy` | 动物学 | [中频]{.freq .freq-2} |
+| [pharmacology]{.headword} | n. | `pharmaco-`(药)+`logy` | 药理学 | [中频]{.freq .freq-2} |
+| [neurology]{.headword} | n. | `neuro-`(神经)+`logy` | 神经病学 | [中频]{.freq .freq-2} |
+| [epilogist]{.headword} | n. | `epi-`+`log-`+`-ist` | 写结语者（罕用，知道即可） | [低频]{.freq .freq-3} |
+| [apologetics]{.headword} | n. | `apolog-`+`-etics` | 护教学；辩护论证 | [低频]{.freq .freq-3} |
+| [travelogue]{.headword} | n. | `travel`+`logue`(言) | 旅行演讲；游记 | [低频]{.freq .freq-3} |
+| [logician]{.headword} | n. | `logic`+`-ian`(人) | 逻辑学家 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The detective's **logical** reasoning led him to identify the only suspect who lacked an alibi.（合乎逻辑的推理——侦探一步步排除不可能）
+
+- The film opens with a **prologue** set thirty years before the main story, then ends with a haunting **epilogue** that reframes everything we have seen.（前有开场白，后有结语——一头一尾框住叙事）
+
+- She offered a sincere **apology**, acknowledging that no excuse could undo the damage her words had caused.（道歉——注意现代义已从"辩护"转为"认错"，见陷阱区）
+
+- The professor drew an **analogy** between the immune system and a national army: both maintain a vast memory of past invaders.（类比——用熟悉的事物解释陌生概念，论文写作常用手法）
+
+- "Selfie" is a **neologism** born in the social-media age, now formal enough to appear in major dictionaries.（新词——语言随时代生长的典型案例）
+
+- The play's **monologue** in Act II—seven uninterrupted minutes of a mother's grief—left the audience in silence.（独白——一人之言，承载最浓缩的情感）
+:::
+
+::: {.mnemonic}
+**助记**：把 `log` 想象成一个希腊哲人永远在"说话"（log = talk）：
+
+- 他说话有道理 → **logic**（理性）
+- 两人你来我往 → **dia**logue（对话）
+- 只他一人开口 → **mono**logue（独白）
+- 他在前面先说 → **pro**logue（序言）
+- 他在后面补充 → **epi**logue（结语）
+- 他好话连篇 → **eu**logy（颂词）
+- 他为自己的话辩护 → **apo**logy（道歉）
+
+至于 `-logy` 学科后缀，就是"就某话题专门开讲的那门学问"——`bio`（生命）+ `logy` = 专门讲生命的学问 = **biology**。认识了这个逻辑，遇到任何新的 `-ology` 词，拆开前缀就能八九不离十地猜出学科内容。
+:::
+
+::: {.trap}
+**陷阱一：apology 的语义漂移**
+
+现代 **apology** 几乎专指"道歉、认错"，但词源义是 `apo-`（离开、为…）+ `logy`（言辞），即"为自己辩护的一番话"。英语历史上 *apology* 长期是"辩护、申辩"之意（柏拉图《苏格拉底的辩护》英译 *Apology of Socrates*，苏格拉底可没有道歉）。语义漂移发生了：从"我有理由这样做"→"我承认我错了"。
+
+这是一条**有趣的历史趣闻**，但请不要用它去推断现代英语用法——今天在正式场合说 *I owe you an apology*，对方理解的一定是"认错道歉"，而非"我要向你辩护"。词义已锁定，趣闻归趣闻。
+
+**陷阱二：catalog 的 `cata-` 不是"向下"那么简单**
+
+`cata-` 在希腊语里含义复杂（向下、彻底、按照），catalog 的原义是"完整列出的清单"。不要过度依赖"向下"这个拆解去记 cata- 系词，catalog 直接记"清单/目录"即可。
+
+**陷阱三：`-logy` ≠ 一定是学科**
+
+`eulogy`（颂词）、`apology`（道歉）、`analogy`（类比）、`travelogue`（游记）里的 `-logy`/`-logue` 是"言辞/话语"义，并非学科命名。只有与学科域根拼搭时（bio-, geo-, psych-…），`-logy` 才稳定表示"…学"。
+:::
+
+::: {.review-today}
+**今日复习排程（第 4 章）**
+
+完成本章之后，请回头复习：
+
+- **第 3 章**：遮住释义列，逐行自测核心词表，重点检查中等频率词。
+- **第 2 章**：从生动语境段随机挑 3 句，尝试不看原文背诵或改写。
+
+**本章自测种子词**（遮住右侧释义，逐一说出中文义与词根拆解）：
+
+| 遮住 → | logic | dialogue | apology | analogy | neologism |
+|--------|-------|----------|---------|---------|-----------|
+| 遮住 → | biology | psychology | ideology | epilogue | eulogy |
+
+提示：能解释"为什么 apology 有'道歉'义但词根是'辩护'"，说明你真正掌握了这个词的词源背景（参见陷阱区）。
+:::

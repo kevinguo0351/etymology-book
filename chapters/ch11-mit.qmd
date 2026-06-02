@@ -1,0 +1,127 @@
+# mit / miss —— "送·放出"
+
+::: {.root-banner}
+**mit** · **miss** = *to send* 送出、放出
+:::
+
+来源：拉丁语 **mittere**（不定式，送；派遣；释放），过去分词 **missus**。古罗马士兵被"送出"执行任务，神职人员被"派遣"传播福音，箭矢被"放出"飞向敌阵——都是同一个根。
+
+::: {.etymo}
+**词源故事：罗马邮差与飞出的箭**
+
+想象古罗马城里的一名信使（tabellarius）。每天清晨，长官把他"送出"城门，带着命令前往各行省——这个"送出"的动作，就是 *mittere*。不管他往东往西往北往南，动作本身不变，只是出发方向不同。
+
+这个根进入英语后，拼写在现在时形态保留为 **mit**，在过去分词形态变成 **miss**。两者是同一个词根的两副面孔：前者多用于动词（transmit、submit），后者多用于名词和形容词（mission、missile、permission）。
+
+字母 **missile** 直接展示了词源故事：被"发射出去"的东西。古人把标枪、箭矢称为"被送出的物体"，和今天的导弹共享同一个拉丁动词。
+
+关键在前缀。mittere 本身只描述"送"这个动作，方向和意图完全由前缀决定。背单词时，只要认住"前缀换方向、根永远是送"，一组二十几个词就能举一反三。
+:::
+
+**前缀决定方向，根永远是同一个动作。**
+
+| 前缀 | 方向/意图 | 示例 |
+|------|-----------|------|
+| **trans-** | 横跨、穿越 | transmit（传送过去） |
+| **sub-** | 向下、呈交 | submit（递交给上级） |
+| **per-** | 透过、全程 | permit（让通过，许可） |
+| **ad-** | 朝向、靠近 | admit（让进入，承认） |
+| **ob-/o-** | 对着、阻碍 | omit（把某物挡在外面→略去） |
+| **e-/ex-** | 向外 | emit（放出去） |
+| **com-/con-** | 一起、共同 | commit（一起送出→交托；犯罪） |
+| **dis-** | 分散、离开 | dismiss（打发离开） |
+| **pro-** | 向前 | promise（预先送出承诺） |
+| **inter-** | 在……之间 | intermittent（时送时停→间歇的） |
+| **re-** | 回、退 | remit（汇回；免除） |
+| **mis-** | 错误地 | misfire（打偏，此处 mis- 为"错误"非 miss 词根） |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [transmit]{.headword} | v. | `trans-`(横跨)+`mit`(送) | 传送；播送（信号、病毒） | [高频]{.freq .freq-1} |
+| [transmission]{.headword} | n. | `trans-`+`miss`+`-ion` | 传输；变速箱 | [高频]{.freq .freq-1} |
+| [submit]{.headword} | v. | `sub-`(下)+`mit`(送) | 提交；屈服 | [高频]{.freq .freq-1} |
+| [submission]{.headword} | n. | `sub-`+`miss`+`-ion` | 提交物；顺从 | [高频]{.freq .freq-1} |
+| [permit]{.headword} | v./n. | `per-`(透过)+`mit`(送) | 允许；许可证 | [高频]{.freq .freq-1} |
+| [permission]{.headword} | n. | `per-`+`miss`+`-ion` | 许可；批准 | [高频]{.freq .freq-1} |
+| [permissive]{.headword} | adj. | `per-`+`miss`+`-ive` | 宽松的；纵容的 | [中频]{.freq .freq-2} |
+| [admit]{.headword} | v. | `ad-`(朝向)+`mit`(送) | 允许进入；承认 | [高频]{.freq .freq-1} |
+| [admission]{.headword} | n. | `ad-`+`miss`+`-ion` | 入场；入学；坦白 | [高频]{.freq .freq-1} |
+| [admittance]{.headword} | n. | `ad-`+`mit`+`-ance` | （物理或正式）准入 | [中频]{.freq .freq-2} |
+| [omit]{.headword} | v. | `o-`(=ob-, 对着挡住)+`mit`(送) | 省略；遗漏 | [高频]{.freq .freq-1} |
+| [omission]{.headword} | n. | `o-`+`miss`+`-ion` | 遗漏；疏忽 | [高频]{.freq .freq-1} |
+| [emit]{.headword} | v. | `e-`(出)+`mit`(送) | 散发；发射（光、声） | [高频]{.freq .freq-1} |
+| [emission]{.headword} | n. | `e-`+`miss`+`-ion` | 排放；发射量 | [高频]{.freq .freq-1} |
+| [commit]{.headword} | v. | `com-`(一起)+`mit`(送) | 承诺；犯（罪）；交付 | [高频]{.freq .freq-1} |
+| [commitment]{.headword} | n. | `com-`+`mit`+`-ment` | 承诺；义务；专注 | [高频]{.freq .freq-1} |
+| [committee]{.headword} | n. | `com-`+`mitt`+`-ee` | 委员会（被共同委托的人） | [高频]{.freq .freq-1} |
+| [commission]{.headword} | n./v. | `com-`+`miss`+`-ion` | 委托；佣金；委员会 | [高频]{.freq .freq-1} |
+| [commissioner]{.headword} | n. | `com-`+`miss`+`-ioner` | 专员；委员 | [中频]{.freq .freq-2} |
+| [dismiss]{.headword} | v. | `dis-`(分散)+`miss`(送) | 解散；驳回；开除 | [高频]{.freq .freq-1} |
+| [dismissal]{.headword} | n. | `dis-`+`miss`+`-al` | 解雇；驳回 | [高频]{.freq .freq-1} |
+| [dismissive]{.headword} | adj. | `dis-`+`miss`+`-ive` | 轻蔑的；不屑一顾的 | [中频]{.freq .freq-2} |
+| [mission]{.headword} | n. | `miss`(送)+`-ion` | 任务；使命；传教团 | [高频]{.freq .freq-1} |
+| [missionary]{.headword} | n./adj. | `miss`+`-ionary` | 传教士；传道的 | [中频]{.freq .freq-2} |
+| [missile]{.headword} | n. | `miss`(送出)+`-ile`(适合…的) | 导弹；投射物 | [高频]{.freq .freq-1} |
+| [promise]{.headword} | n./v. | `pro-`(向前)+`mise`(送) | 承诺；迹象（大有可为） | [高频]{.freq .freq-1} |
+| [promising]{.headword} | adj. | `pro-`+`mis`+`-ing` | 有前途的；有希望的 | [高频]{.freq .freq-1} |
+| [compromise]{.headword} | n./v. | `com-`(共同)+`pro-`(向前)+`mise`(送) | 妥协；折中；危及 | [高频]{.freq .freq-1} |
+| [remit]{.headword} | v./n. | `re-`(回)+`mit`(送) | 汇款；免除；职责范围 | [中频]{.freq .freq-2} |
+| [remittance]{.headword} | n. | `re-`+`mit`+`-ance` | 汇款；汇出的款项 | [中频]{.freq .freq-2} |
+| [remission]{.headword} | n. | `re-`+`miss`+`-ion` | （疾病）缓解；罪的赦免 | [中频]{.freq .freq-2} |
+| [intermittent]{.headword} | adj. | `inter-`(之间)+`mitt`(送)+`-ent` | 间歇性的；断断续续的 | [高频]{.freq .freq-1} |
+| [intermission]{.headword} | n. | `inter-`+`miss`+`-ion` | 幕间休息；中断 | [中频]{.freq .freq-2} |
+| [manumit]{.headword} | v. | `manu-`(手)+`mit`(送) | 解放奴隶（从手中放出） | [低频]{.freq .freq-3} |
+| [manumission]{.headword} | n. | `manu-`+`miss`+`-ion` | 释奴（行为或文件） | [低频]{.freq .freq-3} |
+| [demise]{.headword} | n. | `de-`(下)+`mise`(送) | 死亡；终结；（法律）遗赠 | [中频]{.freq .freq-2} |
+| [surmise]{.headword} | v./n. | `sur-`(在…上)+`mise`(送) | 推测；猜想 | [中频]{.freq .freq-2} |
+| [emissary]{.headword} | n. | `e-`(出)+`miss`+`-ary`(人) | 使节；特使（被派出去的人） | [中频]{.freq .freq-2} |
+| [premiss]{.headword} | n. | `pre-`(前)+`miss`(送) | 前提（逻辑学，也拼 premise） | [低频]{.freq .freq-3} |
+| [premise]{.headword} | n./v. | `pre-`(前)+`mise`(送) | 前提；（复数）房屋场所 | [高频]{.freq .freq-1} |
+| [commissary]{.headword} | n. | `com-`+`miss`+`-ary` | 军需官；代理人；食堂 | [低频]{.freq .freq-3} |
+| [inadmissible]{.headword} | adj. | `in-`(否)+`ad-`+`miss`+`-ible` | 不可采纳的（证据等） | [中频]{.freq .freq-2} |
+| [permissible]{.headword} | adj. | `per-`+`miss`+`-ible` | 允许的；可接受的 | [中频]{.freq .freq-2} |
+| [noncommittal]{.headword} | adj. | `non-`+`com-`+`mit`+`-al` | 不表态的；模棱两可的 | [中频]{.freq .freq-2} |
+
+## 生动语境
+
+::: {.ex}
+- The satellite **transmits** data back to Earth every six hours.（卫星每六小时把数据**传送**回地球——trans- 横跨太空）
+- She finally **submitted** her resignation after months of deliberation.（她终于**提交**了辞呈——sub- 向下递给上级）
+- Carbon dioxide **emissions** have declined slightly this year.（今年二氧化碳**排放量**略有下降——e- 向外放出）
+- The board **committed** to a three-year investment plan.（董事会**承诺**了一项三年投资计划——com- 共同送出承诺）
+- Doctors say the tumor is in **remission**.（医生说肿瘤已经**缓解**——re- 病势退回去了）
+- His **intermittent** cough worried the doctor more than a constant one.（他**断断续续**的咳嗽比持续咳嗽更令医生担忧——inter- 来了又停、停了又来）
+:::
+
+::: {.mnemonic}
+**助记**：把前缀画成一张罗马地图——信使站在城中央（mitt/miss），不同前缀是通往各方的城门：**trans-** 是跨越大海的东方之门，**sub-** 是地下通道，**per-** 是穿城而过的直道，**ad-** 是朝向城内的正门，**e-** 是向外奔出的西城门，**dis-** 是把人打发走的驱逐之路，**re-** 是来回的折返跑。每次见到新词，先找前缀、认方向，再加上"送"——意思八九不离十。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**"miss"两种身份**：日常词 *miss*（错过、想念、小姐）与词根 **miss**（送/放出）毫无关联。*Miss* 作动词来自古英语 *missan*，意为"未命中"；作称谓则是 *mistress* 的缩写。见到 *miss* 别自动套词根解释——需要看整个词的结构和来源。
+
+**commit 的语义扩展**：*commit a crime*（犯罪）看似和"送"无关，其实是"把自己交付给某个行为"（将自身托付出去），属于词义延伸，词根逻辑依然成立。但这类引申义需要靠语境确认，不能强行用词根推出所有含义。
+
+**compromise 的内部结构**：此词由 *com-* + *pro-* + *mise* 构成，字面义是"双方共同向前送出（承诺）"，引申为各退一步的妥协。词根逻辑在此可以辅助理解，但"危及名誉"这一义项（如 *compromise security*）是后期英语引申，单靠词根无法直接推出，需结合语境识记。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章是第 11 章。请回头翻看：
+
+- **第 10 章**（上一章词根）
+- **第 9 章**
+- **第 7 章**
+- **第 3 章**
+
+**自测方法**：遮住释义列，逐行念出本章核心词，尝试说出：①前缀方向 ②整词大意。重点考自己这几个词：
+
+*transmit · submit · permit · commit · emit · omit · dismiss · intermittent · remit · mission · promise*
+
+能不假思索地把前缀方向说出来，这章就过关了。
+:::

@@ -1,0 +1,136 @@
+# meter / metr —— "测量·尺度"
+
+::: {.root-banner}
+meter · metr = to measure 测量，度量
+:::
+
+来源：希腊语 *metron*（μέτρον），本义"测量工具、尺度、度量"，亦引申为诗歌的"韵律格律"——因为诗行的节拍正是对音节的精确计数。
+
+::: {.etymo}
+**词源故事：万物皆可量**
+
+古希腊人相信宇宙是有秩序的，而秩序的基础是**度量**。*Metron* 既指手中的尺子，也指宇宙中隐藏的比例与节律。德尔菲神庙门楣上刻着"μηδὲν ἄγαν"（无过无不及），正是 *metron* 精神的写照：凡事有度。
+
+这个根的特别之处在于它几乎从不单打独斗。希腊人把 *metron* 与各个领域词根拼合，造出一整套"测量仪器"家族——量热的、量压的、量速的、量距的……每换一个前置领域根，就得到一个新仪器名。这套造词逻辑延续到今天，当科学家发明新设备，仍然本能地用 *-meter* 后缀来命名。
+
+*Metron* 还衍生出了 *geometry*（地+测量）——古埃及人每年尼罗河洪水退后，需要重新丈量田地边界，这门学问传到希腊后升华为抽象的空间推理，成为整个西方数学的骨架。"地理测量"变成了"几何学"，*-metr-* 这个根也随之进入一切与精密计算相关的领域。
+
+记住：当你看到 *-meter*（多作名词后缀，表仪器或单位）或 *-metry*（多作学科后缀，表"测量之法"），背后永远是同一个希腊根——*metron*，度量。
+:::
+
+### 搭档根：与 metr 拼合的领域根
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| thermo- | 热 | thermometer（温度计）|
+| dia- | 贯穿、横过 | diameter（直径）|
+| peri- | 周围、围绕 | perimeter（周长）|
+| sym- / syn- | 共同、对称 | symmetry（对称）|
+| geo- | 地球、土地 | geometry（几何学）|
+| baro- | 气压、重量 | barometer（气压计）|
+| para- | 旁侧、辅助 | parameter（参数）|
+| kilo- | 千 | kilometer（千米）|
+| iso- | 相等 | isometric（等距的）|
+| chrono- | 时间 | chronometer（精密计时器）|
+| tachyo- / tacho- | 速度 | tachometer（转速计）|
+| odo- | 道路、行程 | odometer（里程表）|
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [meter]{.headword} | n. | `metr`(测量)+`-er`(工具/单位) | 米（长度单位）；仪表，计量器 | [高频]{.freq .freq-1} |
+| [metric]{.headword} | adj./n. | `metr`(测量)+`-ic`(形容词化) | 公制的；度量标准，指标 | [高频]{.freq .freq-1} |
+| [metrics]{.headword} | n. | `metr`+`-ics`(学科/复数) | 度量体系，绩效指标集 | [高频]{.freq .freq-1} |
+| [thermometer]{.headword} | n. | `thermo`(热)+`metr`(量)+`-er` | 温度计 | [高频]{.freq .freq-1} |
+| [diameter]{.headword} | n. | `dia-`(贯穿)+`metr`(量)+`-er` | 直径 | [高频]{.freq .freq-1} |
+| [perimeter]{.headword} | n. | `peri-`(周围)+`metr`(量)+`-er` | 周长；边界线 | [高频]{.freq .freq-1} |
+| [kilometer]{.headword} | n. | `kilo-`(千)+`metr`(量)+`-er` | 千米，公里 | [高频]{.freq .freq-1} |
+| [geometry]{.headword} | n. | `geo-`(地)+`metr`(量)+`-y` | 几何学 | [高频]{.freq .freq-1} |
+| [symmetry]{.headword} | n. | `sym-`(共同)+`metr`(度量)+`-y` | 对称（性） | [高频]{.freq .freq-1} |
+| [symmetric]{.headword} | adj. | `sym-`(共同)+`metr`+`-ic` | 对称的 | [高频]{.freq .freq-1} |
+| [asymmetry]{.headword} | n. | `a-`(无)+`sym`+`metr`+`-y` | 不对称 | [高频]{.freq .freq-1} |
+| [asymmetric]{.headword} | adj. | `a-`(无)+`sym`+`metr`+`-ic` | 不对称的，非对称的 | [高频]{.freq .freq-1} |
+| [barometer]{.headword} | n. | `baro-`(气压)+`metr`(量)+`-er` | 气压计；风向标（喻） | [高频]{.freq .freq-1} |
+| [parameter]{.headword} | n. | `para-`(旁)+`metr`(量)+`-er` | 参数；界限，范围 | [高频]{.freq .freq-1} |
+| [speedometer]{.headword} | n. | `speed`(速度)+`o`+`metr`+`-er` | 速度表，车速计 | [高频]{.freq .freq-1} |
+| [odometer]{.headword} | n. | `odo-`(道路)+`metr`(量)+`-er` | 里程表 | [中频]{.freq .freq-2} |
+| [isometric]{.headword} | adj. | `iso-`(等)+`metr`(量)+`-ic` | 等距的；等长收缩的（运动） | [中频]{.freq .freq-2} |
+| [metronome]{.headword} | n. | `metr`(节拍/度量)+`nomos`(规律) | 节拍器 | [中频]{.freq .freq-2} |
+| [chronometer]{.headword} | n. | `chrono-`(时间)+`metr`+`-er` | 精密计时器，天文钟 | [中频]{.freq .freq-2} |
+| [tachometer]{.headword} | n. | `tacho-`(速度)+`metr`+`-er` | 转速计，转速表 | [中频]{.freq .freq-2} |
+| [altimeter]{.headword} | n. | `alti-`(高)+`metr`+`-er` | 高度计，测高仪 | [中频]{.freq .freq-2} |
+| [voltmeter]{.headword} | n. | `volt`(伏特)+`metr`+`-er` | 电压表 | [中频]{.freq .freq-2} |
+| [ammeter]{.headword} | n. | `am(pere)`(安培)+`metr`+`-er` | 电流表 | [中频]{.freq .freq-2} |
+| [geometrical]{.headword} | adj. | `geo`+`metr`+`-ical` | 几何学的 | [中频]{.freq .freq-2} |
+| [geometric]{.headword} | adj. | `geo`+`metr`+`-ic` | 几何（图案）的；按等比增长的 | [高频]{.freq .freq-1} |
+| [geometrician]{.headword} | n. | `geo`+`metr`+`-ician`(专家) | 几何学家 | [低频]{.freq .freq-3} |
+| [trigonometry]{.headword} | n. | `trigon`(三角)+`metr`+`-y` | 三角学 | [中频]{.freq .freq-2} |
+| [trigonometric]{.headword} | adj. | `trigon`+`metr`+`-ic` | 三角学的 | [中频]{.freq .freq-2} |
+| [metrology]{.headword} | n. | `metr`(测量)+`-logy`(学科) | 计量学，度量衡学 | [低频]{.freq .freq-3} |
+| [metrological]{.headword} | adj. | `metr`+`-logical` | 计量学的 | [低频]{.freq .freq-3} |
+| [micrometer]{.headword} | n. | `micro-`(微)+`metr`+`-er` | 千分尺；测微器 | [中频]{.freq .freq-2} |
+| [nanometer]{.headword} | n. | `nano-`(纳，十亿分之一)+`metr`+`-er` | 纳米 | [高频]{.freq .freq-1} |
+| [millimeter]{.headword} | n. | `milli-`(千分之一)+`metr`+`-er` | 毫米 | [高频]{.freq .freq-1} |
+| [centimeter]{.headword} | n. | `centi-`(百分之一)+`metr`+`-er` | 厘米 | [高频]{.freq .freq-1} |
+| [decimeter]{.headword} | n. | `deci-`(十分之一)+`metr`+`-er` | 分米 | [中频]{.freq .freq-2} |
+| [hydrometer]{.headword} | n. | `hydro-`(水)+`metr`+`-er` | 液体比重计 | [低频]{.freq .freq-3} |
+| [hygrometer]{.headword} | n. | `hygro-`(湿)+`metr`+`-er` | 湿度计 | [低频]{.freq .freq-3} |
+| [seismometer]{.headword} | n. | `seismo-`(震动)+`metr`+`-er` | 地震仪 | [低频]{.freq .freq-3} |
+| [photometer]{.headword} | n. | `photo-`(光)+`metr`+`-er` | 光度计 | [低频]{.freq .freq-3} |
+| [dosimeter]{.headword} | n. | `dosi-`(剂量)+`metr`+`-er` | 剂量计，辐射量计 | [低频]{.freq .freq-3} |
+| [radiometer]{.headword} | n. | `radio-`(辐射)+`metr`+`-er` | 辐射计 | [低频]{.freq .freq-3} |
+| [parametric]{.headword} | adj. | `para`+`metr`+`-ic` | 参数的，参量的 | [中频]{.freq .freq-2} |
+| [diametric]{.headword} | adj. | `dia`+`metr`+`-ic` | 直径的；完全相反的 | [中频]{.freq .freq-2} |
+| [diametrically]{.headword} | adv. | `dia`+`metr`+`-ically` | 截然地（diametrically opposed 截然相反） | [高频]{.freq .freq-1} |
+| [symmetrical]{.headword} | adj. | `sym`+`metr`+`-ical` | 对称的，均衡的 | [高频]{.freq .freq-1} |
+| [barometric]{.headword} | adj. | `baro`+`metr`+`-ic` | 气压的，气压计的 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The nurse placed the **thermometer** under his tongue and waited sixty seconds for the reading.（护士把温度计放在他舌下，等待六十秒读数——*thermo* 热 + *meter* 量）
+- The trunk of that oak measures nearly two meters in **diameter**, which means it's probably three centuries old.（那棵橡树的直径将近两米——*dia-* 贯穿 + *meter*，直径就是"从一侧贯穿到另一侧的度量"）
+- Security cameras monitored every inch of the building's **perimeter** throughout the night.（安保摄像头整夜监控着楼宇周界——*peri-* 周围 + *meter*，周长/边界线）
+- The two candidates hold **diametrically** opposed views on immigration policy.（两位候选人在移民政策上的立场截然相反——"直径两端"意象：距离最远，完全对立）
+- Architects must work within strict **parameters**: budget, load-bearing limits, and local zoning codes.（建筑师必须在严格的参数范围内工作——*para-* 旁侧，parameter 原指"辅助度量"，引申为约束条件）
+- The study found a striking **asymmetry** between the brain's left and right hemispheres when processing music versus language.（研究发现大脑在处理音乐与语言时，左右半球存在显著不对称——*a-* 无 + *symmetry*）
+:::
+
+::: {.mnemonic}
+**助记**：把 *-meter* 想象成一把**万能尺**，只要换一个领域词根贴在它前面，就得到那个领域的专用仪器：
+
+- *thermo*（热）+ 尺 → 温度计
+- *baro*（压）+ 尺 → 气压计
+- *geo*（地）+ 尺 → 几何（测量大地之学）
+- *kilo*（千）+ 尺 → 千米
+
+看到新词如 *glucometer*（血糖仪）、*spirometer*（肺活量计），同理可推。记住这把"万能尺"，你就拥有了一整个仪器词族的解码钥匙。
+:::
+
+::: {.trap}
+**陷阱**：*meter*（仪表/米）与 *metronome*（节拍器）同根，后者中的 *nomos* 是另一个希腊根，意为"规律、法则"，与"测量"结合即"规律性地量拍"。这是真实词源，可用于理解词义。
+
+但要注意：英语中 *parameter*（参数）在日常口语里被滥用为"范围、界限"，如 *within the parameters of the law*——这是语义扩展，写学术文章时应使用更精确的表达（*within the limits/confines/scope of*）。
+
+另外，*metric*（公制的）和 *imperial*（英制的）是两套度量体系的对立词，二者并无词源关联，不要因为都与"度量"有关而混淆其使用场合。
+:::
+
+::: {.review-today}
+**今日复习排程（第 10 章）**
+
+学完本章后，请回头自测以下章节，遮住释义栏，默写含义：
+
+- **第 9 章**：回看本书上一章的核心词表，默写 5 个代表词
+- **第 8 章**：抽查 5 个代表词，重点检验前缀搭配规律
+- **第 6 章**：重温该章词根的派生链，看能否默想出 3 个本章之外的派生词
+- **第 2 章**：回到最早的词根章节，检验长期记忆是否稳固
+
+**本章自测词（遮释义后默说英文义和拆解）：**
+
+> thermometer · diameter · perimeter · asymmetry · parameter · isometric · barometer · geometric · diametrically · metronome
+:::

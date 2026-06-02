@@ -1,0 +1,136 @@
+# duc / duct —— "引导·带领"
+
+::: {.root-banner}
+`duc` · `duct` = to lead, to draw 引导，带领
+:::
+
+来源：拉丁语动词 *dūcere*（to lead, to draw），过去分词 *ductus*；词根两形并存：动词茎 `duc-`，过去分词茎 `duct-`。
+
+::: {.etymo}
+**词源故事：将军手中的指挥棒**
+
+罗马军队里，*dux*（将军，字面义"引领者"）手持指挥棒，决定全军的前进方向。这个词直接来自 *dūcere*——"领着走"。意大利语把它借走变成 *Duce*，德语变成 *Herzog*（Herzog 里的 *-zog* 其实是 *ziehen* 拉，但罗马的 *dux* 影响横跨欧洲，带出了英语 *duke*、*duchess*、*duchy* 整个贵族系列）。
+
+记忆的关键不在于记单词，而在于记住那根指挥棒的方向。前缀换了，方向就换了：棒子指向前方就是 *produce*（pro- 前），指向内部就是 *introduce*（intro- 向内），指向某人就是 *induce*（in- 入），往回收就是 *reduce*（re- 回），从底部向下推就是 *deduce*（de- 向下/出），并排走在一起就是 *conduct*（con- 共同）。根永远是那个"带领"的动作，前缀只是换了站位。
+
+工程上，罗马人用 *ductus aquae*（水的渠道）把山泉"引"进城市，就是今天的 *aqueduct*（水道桥）。管道工程师的英文职称 *ductwork* 和建筑里的 *air duct*，都在重复同一个罗马工程动作：把流体"引"着走。
+:::
+
+**前缀决定方向，根永远是"引导"这一个动作。** 学这个词根，不需要逐词死记，只要把前缀当成方向标：
+
+| 前缀 | 方向意象 | 代表词 |
+|------|---------|-------|
+| `pro-` 向前 | 推向前方 | produce, project |
+| `re-` 向回 | 往回带、缩减 | reduce, reproduce |
+| `con-` 共同 | 并排带领 | conduct, conduit |
+| `in-` 向内 | 引入、导入 | induce, induct |
+| `de-` 向下/出 | 从前提引出结论 | deduce, deduct |
+| `intro-` 向内部 | 带进内部 | introduce |
+| `ab-` 离开 | 带离、劫走 | abduct |
+| `se-` 分离 | 偷偷带走 | seduce |
+| `e-/ex-` 向外 | 引出潜能 | educate, educe |
+| `via-` 道路 | 沿路引水 | viaduct |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [produce]{.headword} | v. | `pro-`(前)+`duce`(引) | 生产；产生 | [高频]{.freq .freq-1} |
+| [product]{.headword} | n. | `pro-`(前)+`duct`(引→结果) | 产品；乘积 | [高频]{.freq .freq-1} |
+| [production]{.headword} | n. | `pro-`(前)+`duct`+`-ion`(名词化) | 生产；制作 | [高频]{.freq .freq-1} |
+| [productive]{.headword} | adj. | `pro-`+`duct`+`-ive`(形) | 多产的；富有成效的 | [高频]{.freq .freq-1} |
+| [productivity]{.headword} | n. | `pro-`+`duct`+`-ivity`(名) | 生产率；生产力 | [高频]{.freq .freq-1} |
+| [reduce]{.headword} | v. | `re-`(回)+`duce`(引) | 减少；降低 | [高频]{.freq .freq-1} |
+| [reduction]{.headword} | n. | `re-`+`duct`+`-ion` | 减少；缩减 | [高频]{.freq .freq-1} |
+| [reductive]{.headword} | adj. | `re-`+`duct`+`-ive` | 简化的；还原的 | [中频]{.freq .freq-2} |
+| [conduct]{.headword} | v./n. | `con-`(共同)+`duct`(引) | 引导；实施；行为 | [高频]{.freq .freq-1} |
+| [conductor]{.headword} | n. | `con-`+`duct`+`-or`(施动者) | 指挥；导体；售票员 | [高频]{.freq .freq-1} |
+| [conductive]{.headword} | adj. | `con-`+`duct`+`-ive` | 导电的；传导的 | [中频]{.freq .freq-2} |
+| [conductivity]{.headword} | n. | `con-`+`duct`+`-ivity` | 导电性；传导率 | [中频]{.freq .freq-2} |
+| [semiconductor]{.headword} | n. | `semi-`(半)+`con-`+`duct`+`-or` | 半导体 | [高频]{.freq .freq-1} |
+| [induce]{.headword} | v. | `in-`(入)+`duce`(引) | 诱使；引起；感应 | [高频]{.freq .freq-1} |
+| [induction]{.headword} | n. | `in-`+`duct`+`-ion` | 归纳（法）；感应；就职 | [高频]{.freq .freq-1} |
+| [inductive]{.headword} | adj. | `in-`+`duct`+`-ive` | 归纳的；感应的 | [中频]{.freq .freq-2} |
+| [inducement]{.headword} | n. | `in-`+`duce`+`-ment`(结果) | 诱因；刺激物 | [中频]{.freq .freq-2} |
+| [induct]{.headword} | v. | `in-`+`duct`(引入) | 正式接纳；使就职 | [中频]{.freq .freq-2} |
+| [deduce]{.headword} | v. | `de-`(向下/出)+`duce`(引) | 推断；演绎 | [高频]{.freq .freq-1} |
+| [deduction]{.headword} | n. | `de-`+`duct`+`-ion` | 演绎；扣除 | [高频]{.freq .freq-1} |
+| [deductive]{.headword} | adj. | `de-`+`duct`+`-ive` | 演绎的 | [中频]{.freq .freq-2} |
+| [deduct]{.headword} | v. | `de-`+`duct`(引走) | 扣除；减去 | [高频]{.freq .freq-1} |
+| [introduce]{.headword} | v. | `intro-`(向内)+`duce`(引) | 介绍；引入 | [高频]{.freq .freq-1} |
+| [introduction]{.headword} | n. | `intro-`+`duct`+`-ion` | 介绍；引言；导论 | [高频]{.freq .freq-1} |
+| [introductory]{.headword} | adj. | `intro-`+`duct`+`-ory`(形) | 介绍性的；入门的 | [高频]{.freq .freq-1} |
+| [educate]{.headword} | v. | `e-`(外)+`duc`+`-ate`(动词化) | 教育；培养 | [高频]{.freq .freq-1} |
+| [education]{.headword} | n. | `e-`+`duc`+`-ation` | 教育 | [高频]{.freq .freq-1} |
+| [educated]{.headword} | adj. | `e-`+`duc`+`-ated` | 受过教育的；有学识的 | [高频]{.freq .freq-1} |
+| [educator]{.headword} | n. | `e-`+`duc`+`-ator` | 教育者；教师 | [高频]{.freq .freq-1} |
+| [educe]{.headword} | v. | `e-`(外)+`duce`(引) | 引出；推断出（较文雅） | [低频]{.freq .freq-3} |
+| [abduct]{.headword} | v. | `ab-`(离)+`duct`(引) | 绑架；外展（肌肉） | [中频]{.freq .freq-2} |
+| [abduction]{.headword} | n. | `ab-`+`duct`+`-ion` | 绑架；外展 | [中频]{.freq .freq-2} |
+| [seduce]{.headword} | v. | `se-`(离)+`duce`(引) | 引诱；诱惑 | [中频]{.freq .freq-2} |
+| [seduction]{.headword} | n. | `se-`+`duct`+`-ion` | 诱惑；魅力 | [中频]{.freq .freq-2} |
+| [seductive]{.headword} | adj. | `se-`+`duct`+`-ive` | 诱人的；迷人的 | [中频]{.freq .freq-2} |
+| [reproduce]{.headword} | v. | `re-`(再)+`pro-`(前)+`duce`(引) | 复制；繁殖；再现 | [高频]{.freq .freq-1} |
+| [reproduction]{.headword} | n. | `re-`+`pro-`+`duct`+`-ion` | 繁殖；复制品 | [高频]{.freq .freq-1} |
+| [aqueduct]{.headword} | n. | `aqua`(水)+`duct`(引) | 水道桥；输水管 | [中频]{.freq .freq-2} |
+| [viaduct]{.headword} | n. | `via`(路)+`duct`(引) | 高架桥；栈桥 | [中频]{.freq .freq-2} |
+| [duct]{.headword} | n. | `duct`(引→管道) | 管道；导管 | [中频]{.freq .freq-2} |
+| [ductile]{.headword} | adj. | `duct`+`-ile`(可…的) | 可延展的；柔韧的 | [中频]{.freq .freq-2} |
+| [ductwork]{.headword} | n. | `duct`+`work` | 管道系统（建筑通风） | [低频]{.freq .freq-3} |
+| [conduit]{.headword} | n. | `con-`+`duit`(引→管) | 管道；渠道；中间人 | [中频]{.freq .freq-2} |
+| [duke]{.headword} | n. | 源自 `dux`(领导者) | 公爵 | [中频]{.freq .freq-2} |
+| [duchess]{.headword} | n. | `duke`阴性形 | 公爵夫人；女公爵 | [中频]{.freq .freq-2} |
+| [duchy]{.headword} | n. | `duke`+`-y`(领地) | 公爵领地 | [低频]{.freq .freq-3} |
+| [overduce]{.headword} | — | — | （不存在；常见拼写陷阱，见下方陷阱框） | — |
+
+## 生动语境
+
+::: {.ex}
+- The factory **produces** over ten thousand units a day.（pro- 向前推出，工厂把原料"向前带出"变成产品。）
+- A low-carb diet can **reduce** inflammation in the body.（re- 往回收，把炎症"带回去"减掉。）
+- The Roman **aqueduct** carried water fifty miles into the city.（aqua 水 + duct 引，字面就是"引水的管道"。）
+- She was **seduced** by the promise of easy money.（se- 偷偷带离正道，被诱惑"拐走"了。）
+- Good education **educates** children by drawing out their innate curiosity.（e- 向外，把孩子内在的好奇心"引出来"，这才是 educate 的本义。）
+- Detectives use **deductive** reasoning to move from general principles to specific conclusions.（de- 向下导出，从大前提推往具体结论。）
+:::
+
+::: {.mnemonic}
+**助记**：想象一根魔法指挥棒，棒头永远是 **duc/duct**（领着走）。棒子指向哪里，前缀就是方向：
+
+- **pro-** 棒子指前 → produce（生产出来）
+- **re-** 棒子往后收 → reduce（带回去，缩小）
+- **con-** 两根棒并排 → conduct（共同引导）
+- **in-** 棒子向内插 → induce / induct（引入）
+- **de-** 棒子向下压 → deduce / deduct（向下推出）
+- **intro-** 棒子转向内室 → introduce（向内引入）
+- **ab-** 棒子拨向别处 → abduct（带走劫持）
+- **se-** 棒子悄悄侧移 → seduce（引诱离开）
+- **e-** 棒子向外拔出 → educate（把潜能引出来）
+
+只要记住"棒头 = duc/duct"，方向前缀一换，词义自动到位。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**duke / dux 是词根趣闻，不是推断工具。** *Duke*（公爵）确实源自拉丁 *dux*（领导者），但英语里 *duke* 已完全变成封号，与"引导"毫无语义关联。看到 *duke* 不可推断"引领"义；这段历史只是帮你理解词根的来源，不是用来推断词义的工具。
+
+**-duce 与 -duse 不可混淆。** *Reduce*、*produce*、*seduce* 全以 `-duce` 结尾，没有 `-duse` 这个拼写。口语中易误写，注意。
+
+**conduit 读音陷阱。** *Conduit*（管道）词形像法语，美式英语读 /ˈkɑːndwɪt/ 或 /ˈkɑːndjuːɪt/，不读成 /kənˈdjuːɪt/；英式英语倾向 /ˈkɒndjʊɪt/。词形虽含 `con-` + `duit`，与 `duct` 同源，但读音不跟 *conduct* 走。
+
+**education 的本义警示。** 词源上 *educate* 是"把（潜能）引出来"（e- 出 + duc），但在现代英语里它的含义已完全覆盖"传授知识/正规学校教育"。不要在正式写作中用"引出潜能"来解释 *education* 的现代用法，词源只帮助记忆，不替代现代语义。
+:::
+
+::: {.review-today}
+**今日复习**
+
+本章（第 7 章）学完后，请回看：
+
+- **第 6 章**：遮住释义列，默写本章代表词：*produce / conduct / deduce / educate / abduct*——只看词形，在脑中还原"前缀方向 + duc/duct 动作"的完整画面。
+- **第 5 章**：检查自己对前缀 `re-`、`con-`、`in-` 的掌握——这三个前缀在本章高频出现，是否已融会贯通？
+- **第 3 章**：回顾名词后缀 `-tion`、`-or`、`-ive` 的用法，对照本章 *production / conductor / productive* 验证理解。
+
+**本章自测词**（遮住释义列快速过一遍）：
+*reduce · induction · seduce · aqueduct · deductive · semiconductor · introductory · ductile*
+:::

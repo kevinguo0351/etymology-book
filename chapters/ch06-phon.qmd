@@ -1,0 +1,124 @@
+# phon / phone —— "声·音"
+
+::: {.root-banner}
+phon · phone = sound 声音
+:::
+
+来源：希腊语 **phōnē**（φωνή），本义为"声音、嗓音、语言"，源自原始印欧根 \*bʰeh₂-（说话）。
+
+::: {.etymo}
+**词源故事：古希腊人的声音哲学**
+
+在古希腊，*phōnē* 不只是物理上的声响，更是人类区别于动物的标志——是有意义的言语之声。亚里士多德在《政治学》中正是用这个词来说明人是"政治动物"：动物有声（phōnē），但只有人类的声音承载了理性与意义。
+
+这个根从科学与艺术两个方向生长出庞大的词族。在音乐里，多重声部的 **polyphony**（复调）和谐共鸣，而刺耳的噪声则是 **cacophony**（嘈杂）；美妙悦耳的声音是 **euphony**，整个乐团同声相和就是 **symphony**。
+
+在技术革命的时代，*phon* 更是插上了翅膀：**telephone** 把声音送往远方（*tele-* = 远），**microphone** 把微弱的声音放大（*micro-* = 小），**megaphone** 把声音扩成巨响（*mega-* = 大）。19 世纪的发明家们热衷于用这个希腊根命名各种声学装置，仿佛给机器命名时也必须向古希腊致敬。
+
+在语言学领域，**phoneme**（音素）是语言的最小声音单位，**phonics**（自然拼读法）教儿童把字母与声音对应起来，**phonetic**（语音的）则描述一切与声音发音相关的研究——这些词都在提醒我们：语言的本质首先是声音。
+:::
+
+### 搭档根——希腊根组合逻辑
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| **tele-** | 远 | telephone（电话）、telepathy |
+| **sym- / syn-** | 一起、共同 | symphony（交响乐）、symbiosis |
+| **micro-** | 小 | microphone（麦克风）、microscope |
+| **mega-** | 大、巨 | megaphone（扩音器）、megabyte |
+| **homo-** | 相同 | homophone（同音词）、homogeneous |
+| **caco-** | 坏、难听 | cacophony（嘈杂声）、cacography |
+| **eu-** | 好、美 | euphony（悦耳）、euphoria |
+| **poly-** | 多 | polyphony（复调）、polygon |
+| **xylo-** | 木 | xylophone（木琴）、xylography |
+| **anti-** | 反、对 | antiphon（对唱）、antithesis |
+| **mono-** | 单一 | monophonic（单声道）、monologue |
+| **stereo-** | 立体、固体 | stereophonic（立体声）、stereotype |
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [telephone]{.headword} | n./v. | `tele-`(远)+`phon`(声)+`-e` | 电话；打电话 | [高频]{.freq .freq-1} |
+| [phone]{.headword} | n./v. | `phon`(声)+`-e` | 电话；打电话（口语缩写） | [高频]{.freq .freq-1} |
+| [microphone]{.headword} | n. | `micro-`(小)+`phon`(声)+`-e` | 麦克风，扩音话筒 | [高频]{.freq .freq-1} |
+| [symphony]{.headword} | n. | `sym-`(共同)+`phon`(声)+`-y` | 交响乐；和谐一致 | [高频]{.freq .freq-1} |
+| [phonics]{.headword} | n. | `phon`(声)+`-ics`(学科) | 自然拼读法；语音教学法 | [高频]{.freq .freq-1} |
+| [phonetic]{.headword} | adj. | `phon`(声)+`-et-`+`-ic` | 语音的；表音的 | [高频]{.freq .freq-1} |
+| [phonetics]{.headword} | n. | `phon`(声)+`-et-`+`-ics` | 语音学 | [高频]{.freq .freq-1} |
+| [phoneme]{.headword} | n. | `phon`(声)+`-eme`(最小单位) | 音素（语言最小语音单位） | [中频]{.freq .freq-2} |
+| [homophone]{.headword} | n. | `homo-`(同)+`phon`(声)+`-e` | 同音异义词（如 hear/here） | [中频]{.freq .freq-2} |
+| [megaphone]{.headword} | n. | `mega-`(大)+`phon`(声)+`-e` | 扩音器，喇叭筒 | [中频]{.freq .freq-2} |
+| [saxophone]{.headword} | n. | `Saxon-`(萨克斯，人名)+`-o-`+`phon`(声)+`-e` | 萨克斯管 | [中频]{.freq .freq-2} |
+| [xylophone]{.headword} | n. | `xylo-`(木)+`phon`(声)+`-e` | 木琴 | [中频]{.freq .freq-2} |
+| [cacophony]{.headword} | n. | `caco-`(坏)+`phon`(声)+`-y` | 嘈杂刺耳的噪声 | [中频]{.freq .freq-2} |
+| [euphony]{.headword} | n. | `eu-`(好)+`phon`(声)+`-y` | 悦耳的声音；音韵和谐 | [中频]{.freq .freq-2} |
+| [euphonious]{.headword} | adj. | `eu-`(好)+`phon`(声)+`-ious` | 悦耳的，音调优美的 | [低频]{.freq .freq-3} |
+| [polyphony]{.headword} | n. | `poly-`(多)+`phon`(声)+`-y` | 复调音乐；多声部 | [中频]{.freq .freq-2} |
+| [polyphonic]{.headword} | adj. | `poly-`(多)+`phon`(声)+`-ic` | 复调的；多声部的 | [中频]{.freq .freq-2} |
+| [gramophone]{.headword} | n. | `gramo-`(字母/书写)+`phon`(声)+`-e` | 留声机（英式，旧称） | [中频]{.freq .freq-2} |
+| [phonograph]{.headword} | n. | `phon`(声)+`-o-`+`graph`(写/记录) | 留声机（美式，爱迪生发明） | [中频]{.freq .freq-2} |
+| [monophonic]{.headword} | adj. | `mono-`(单)+`phon`(声)+`-ic` | 单声道的 | [中频]{.freq .freq-2} |
+| [stereophonic]{.headword} | adj. | `stereo-`(立体)+`phon`(声)+`-ic` | 立体声的 | [中频]{.freq .freq-2} |
+| [antiphon]{.headword} | n. | `anti-`(对立/交替)+`phon`(声) | 对唱；交替咏唱的圣歌 | [低频]{.freq .freq-3} |
+| [antiphonal]{.headword} | adj. | `anti-`(交替)+`phon`(声)+`-al` | 交替对唱的；应答式的 | [低频]{.freq .freq-3} |
+| [phonology]{.headword} | n. | `phon`(声)+`-o-`+`logy`(学科) | 音系学；语音系统研究 | [中频]{.freq .freq-2} |
+| [phonological]{.headword} | adj. | `phon`(声)+`-o-`+`log`+`-ical` | 音系学的，音韵的 | [中频]{.freq .freq-2} |
+| [phonologist]{.headword} | n. | `phon`(声)+`-o-`+`log-`+`-ist` | 音系学家 | [低频]{.freq .freq-3} |
+| [aphonia]{.headword} | n. | `a-`(无)+`phon`(声)+`-ia`(病症) | 失声症（医学术语） | [低频]{.freq .freq-3} |
+| [aphonic]{.headword} | adj. | `a-`(无)+`phon`(声)+`-ic` | 失声的；无声的 | [低频]{.freq .freq-3} |
+| [dysphonia]{.headword} | n. | `dys-`(坏/障碍)+`phon`(声)+`-ia` | 发声困难，嗓音障碍 | [低频]{.freq .freq-3} |
+| [earphone]{.headword} | n. | `ear`(耳)+`phon`(声)+`-e` | 耳机 | [高频]{.freq .freq-1} |
+| [headphone]{.headword} | n. | `head`(头)+`phon`(声)+`-e` | 头戴式耳机（常用复数） | [高频]{.freq .freq-1} |
+| [smartphone]{.headword} | n. | `smart`(智能)+`phon`(声/电话)+`-e` | 智能手机 | [高频]{.freq .freq-1} |
+| [videophone]{.headword} | n. | `video-`(视频)+`phon`(声)+`-e` | 可视电话 | [中频]{.freq .freq-2} |
+| [speakerphone]{.headword} | n. | `speaker`(扬声器)+`phon`(声)+`-e` | 免提电话，扬声器电话 | [中频]{.freq .freq-2} |
+| [interphone]{.headword} | n. | `inter-`(相互)+`phon`(声)+`-e` | 对讲机；内部通话系统 | [中频]{.freq .freq-2} |
+| [radiophone]{.headword} | n. | `radio-`(无线电)+`phon`(声)+`-e` | 无线电话 | [低频]{.freq .freq-3} |
+| [saxophone]{.headword} | n. | `Saxo-`(萨克斯，人名)+`phon`(声)+`-e` | 萨克斯管（含brass管+reed簧片） | [中频]{.freq .freq-2} |
+| [sousaphone]{.headword} | n. | `Sousa-`(苏萨，作曲家名)+`phon`(声)+`-e` | 苏萨号（大号的一种，围身式） | [低频]{.freq .freq-3} |
+| [francophone]{.headword} | n./adj. | `Franco-`(法国/法语)+`phon`(声/语言)+`-e` | 以法语为母语者；法语区的 | [中频]{.freq .freq-2} |
+| [anglophone]{.headword} | n./adj. | `Anglo-`(英格兰/英语)+`phon`(声/语言)+`-e` | 以英语为母语者；英语区的 | [中频]{.freq .freq-2} |
+| [allophone]{.headword} | n. | `allo-`(其他)+`phon`(声)+`-e` | 同位音（同一音素的变体） | [低频]{.freq .freq-3} |
+| [diphone]{.headword} | n. | `di-`(二)+`phon`(声)+`-e` | 双音素（语音合成单位） | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The **symphony** filled the concert hall with layers of sound that no single instrument could produce alone.（交响乐——众多乐器合声，*sym-* 一起，*phony* 声音）
+- She leaned into the **microphone** and spoke barely above a whisper, yet every word rang clear.（麦克风把微弱之声放大，*micro-* 小）
+- The market was sheer **cacophony**: vendors shouting, children crying, and a bad busker's trumpet wailing off-key.（街市的嘈杂——*caco-* 坏，与 *euphony* 恰成反义）
+- English learners often mix up **homophones** like *their*, *there*, and *they're* — same sound, entirely different meanings.（同音异义词——*homo-* 相同，提醒书面语要看上下文）
+- The teacher used **phonics** to help the first-graders decode unfamiliar words by sounding out each letter.（自然拼读法——把字母与声音绑定，*phon-* 声）
+- Medieval monks would sing in **antiphon**, one group chanting a phrase, the other responding in kind.（交替对唱——*anti-* 对立/交替，此处非"反对"而是"呼应"）
+:::
+
+::: {.mnemonic}
+**助记**：想象一架**木琴**（xylo**phone**）放在舞台中央——木槌敲下，*phon* 的声音向远处（tele-）飞去，被麦克风（micro**phone**）拾起，汇入整个交响乐团（sym**phony**）的洪流。一个"声"字，串起了所有。记住：**phon = 声**，前缀告诉你这声音来自哪里、去往何处、好听还是难听。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**saxophone 的"saxo"不是词根**。萨克斯管（saxophone）得名于比利时乐器制造商 **Adolphe Sax**（阿道夫·萨克斯）的姓氏，1846 年专利命名。*Saxo-* 在此是人名，不是任何意义上的构词根，**不能**用它推断"saxo = 某某含义"。这是一个有趣的历史故事，但仅此而已。
+
+同理，**sousaphone** 得名于作曲家 **John Philip Sousa**，**gramophone** 中的 *gramo-* 来自 *gram*（书写/记录），与"留声"的工作原理有关，并非另一个独立的希腊词根。这些乐器名是**专有名词组合**，不适合用来推断普通词汇。
+
+**高产规律**（可放心推断的）：前缀 tele-, micro-, mega-, sym-, poly-, caco-, eu-, homo- 与 phon 的组合在新词中依然高度能产。见到 *-phone* 结尾的新词，先想"某种声音设备或声音特性"，再看前缀——这个逻辑基本可靠。
+:::
+
+::: {.review-today}
+**今日复习排程（第 6 章）**
+
+完成本章后，请依次回看：
+
+- **第 5 章** · **第 4 章** · **第 2 章**
+
+复习方法：遮住释义列，只看"词"列，逐词默想：①词义 ②拆解结构 ③能否造一个语境句。
+
+本章自测抽查词（先不看表，默写释义与拆解）：
+
+> **symphony · cacophony · phoneme · homophone · euphony · polyphonic · phonetics · megaphone**
+
+若某词回忆不起，立刻回到本章词表找它的拆解，再读一遍语境例句，加深印象。
+:::

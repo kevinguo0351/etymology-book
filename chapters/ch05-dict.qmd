@@ -1,0 +1,159 @@
+# dict / dic / dit —— "说"
+
+::: {.root-banner}
+dict · dic · dit = to say, to tell 说、宣告
+:::
+
+来源：拉丁语 *dicere*（不定式，to say）/ *dictus*（过去分词，said），原始印欧根 \*deik-，意为"指示、展示、说出"。
+
+::: {.etymo}
+**词源故事：罗马人的"嘴"**
+
+在古罗马法庭上，法官端坐高台，张嘴一"说"（*dicere*），便决定了一个人的命运。这个动词的过去分词词干 *dict-* 就这样进入了拉丁语的血液——凡是"开口、宣告、命名、指令"，都绕不开它。
+
+罗马人把这个根用得极为广泛：皇帝的 *edictum*（edict，布告）贴在广场柱子上；独裁官的 *dictatura* 让全城噤若寒蝉；律师在法庭上争辩 *jurisdictio*（管辖权，"谁有权开口说话"）；牧师祈祷中吐出的 *benedictio* 则是"说好话"，是祝福。
+
+这个根进入英语时，几乎原封不动地带着它所有的前缀家族。只要认识了 *dict-*，就等于拿到了一把能打开几十扇门的万能钥匙。
+
+中世纪法语也吸收了这个根，缩写成 *-dit*（如 *verdict*，真实的宣告），有时又简化成 *-dic-*（如 *indicate*，朝内指向）。形态不同，根却是同一个动作：张嘴，说话。
+:::
+
+---
+
+**前缀决定方向，根永远是"说"**
+
+| 前缀 | 方向/含义 | 代表词 |
+|------|----------|--------|
+| `pre-`（前） | 提前说 | *predict* |
+| `contra-`（反） | 反着说 | *contradict* |
+| `e-`（出） | 发布说出 | *edict* |
+| `in-`（朝向） | 指向说 | *indicate*, *indict* |
+| `de-`（完全/朝下） | 庄严宣告 | *dedicate*, *declare* |
+| `bene-`（好） | 说好话 | *benediction* |
+| `male-`（坏） | 说坏话 | *malediction* |
+| `juris-`（法律） | 法律说话权 | *jurisdiction* |
+| `vale-`（告别） | 告别时说的话 | *valediction* |
+| `ver-`（真实） | 说出真相 | *verdict* |
+
+只需牢记这张表：前缀换一换，根 *dict-* 纹丝不动，意思就跟着转向了。
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [predict]{.headword} | v. | `pre-`(前)+`dict`(说) | 预测，预言 | [高频]{.freq .freq-1} |
+| [prediction]{.headword} | n. | `pre-`(前)+`dict`(说)+`-ion`(名词) | 预测，预言 | [高频]{.freq .freq-1} |
+| [predictable]{.headword} | adj. | `pre-dict`+`-able`(可…的) | 可预测的，意料之中的 | [高频]{.freq .freq-1} |
+| [unpredictable]{.headword} | adj. | `un-`(否)+`predictable` | 不可预测的 | [高频]{.freq .freq-1} |
+| [contradict]{.headword} | v. | `contra-`(反)+`dict`(说) | 与…矛盾，反驳 | [高频]{.freq .freq-1} |
+| [contradiction]{.headword} | n. | `contra-`(反)+`dict`+`-ion` | 矛盾，对立 | [高频]{.freq .freq-1} |
+| [contradictory]{.headword} | adj. | `contra-dict`+`-ory`(形容词) | 相互矛盾的 | [中频]{.freq .freq-2} |
+| [verdict]{.headword} | n. | `ver-`(真实)+`-dict`(说) | 裁决，判决，意见 | [高频]{.freq .freq-1} |
+| [dictate]{.headword} | v. | `dict`(说)+`-ate`(动词) | 口述；命令，支配 | [高频]{.freq .freq-1} |
+| [dictation]{.headword} | n. | `dict-ate`+`-ion` | 听写；口授，命令 | [高频]{.freq .freq-1} |
+| [dictator]{.headword} | n. | `dict-ate`+`-or`(人) | 独裁者 | [高频]{.freq .freq-1} |
+| [dictatorship]{.headword} | n. | `dictator`+`-ship`(制度) | 独裁制度，专政 | [高频]{.freq .freq-1} |
+| [dictionary]{.headword} | n. | `dict`(说/词)+`-ion-ary`(场所/集合) | 词典，字典 | [高频]{.freq .freq-1} |
+| [diction]{.headword} | n. | `dict`(说)+`-ion` | 措辞，发音风格 | [中频]{.freq .freq-2} |
+| [edict]{.headword} | n. | `e-`(出)+`dict`(说) | 法令，布告 | [中频]{.freq .freq-2} |
+| [indicate]{.headword} | v. | `in-`(朝向)+`dic`(说/指)+`-ate` | 表明，指出，预示 | [高频]{.freq .freq-1} |
+| [indication]{.headword} | n. | `in-dic-ate`+`-ion` | 迹象，指示，表明 | [高频]{.freq .freq-1} |
+| [indicator]{.headword} | n. | `indicate`+`-or`(工具/人) | 指标，指示器 | [高频]{.freq .freq-1} |
+| [indicative]{.headword} | adj. | `indicate`+`-ive` | 表示…的，象征性的；陈述语气的 | [中频]{.freq .freq-2} |
+| [dedicate]{.headword} | v. | `de-`(完全/朝向)+`dic`+`-ate` | 将…献给；题献；致力于 | [高频]{.freq .freq-1} |
+| [dedication]{.headword} | n. | `dedicate`+`-ion` | 献身精神；题词 | [高频]{.freq .freq-1} |
+| [dedicated]{.headword} | adj. | `dedicate`+`-ed` | 专用的；全身心投入的 | [高频]{.freq .freq-1} |
+| [benediction]{.headword} | n. | `bene-`(好)+`dict`(说)+`-ion` | 祝福，祈祷祝福词 | [中频]{.freq .freq-2} |
+| [malediction]{.headword} | n. | `male-`(坏/恶)+`dict`+`-ion` | 诅咒，咒骂 | [低频]{.freq .freq-3} |
+| [jurisdiction]{.headword} | n. | `juris-`(法律)+`dict`(说)+`-ion` | 司法权，管辖权，辖区 | [高频]{.freq .freq-1} |
+| [valediction]{.headword} | n. | `vale-`(告别)+`dict`+`-ion` | 告别词，告别致辞 | [低频]{.freq .freq-3} |
+| [valedictorian]{.headword} | n. | `vale-dict`+`-or`+`-ian` | （毕业典礼）致告别词的最优秀毕业生 | [低频]{.freq .freq-3} |
+| [indict]{.headword} | v. | `in-`(朝向)+`dict`(说) | 正式起诉，控告 | [中频]{.freq .freq-2} |
+| [indictment]{.headword} | n. | `indict`+`-ment` | 起诉书；强烈谴责 | [中频]{.freq .freq-2} |
+| [abdicate]{.headword} | v. | `ab-`(离开)+`dic`+`-ate` | 退位，放弃（权力/责任） | [中频]{.freq .freq-2} |
+| [abdication]{.headword} | n. | `abdicate`+`-ion` | 退位，放弃职责 | [中频]{.freq .freq-2} |
+| [interdict]{.headword} | v./n. | `inter-`(在…之间)+`dict`(说) | 禁止，制止；禁令 | [低频]{.freq .freq-3} |
+| [interdiction]{.headword} | n. | `interdict`+`-ion` | 禁令；（军事）拦截 | [低频]{.freq .freq-3} |
+| [vindicate]{.headword} | v. | `vin-`(强制/力量)+`dic`+`-ate` | 证明…无罪/正确，为…辩护 | [中频]{.freq .freq-2} |
+| [vindication]{.headword} | n. | `vindicate`+`-ion` | 证明清白，辩护 | [中频]{.freq .freq-2} |
+| [predicament]{.headword} | n. | `pre-`(前)+`dic`+`-ament` | 困境，窘境 | [高频]{.freq .freq-1} |
+| [predicate]{.headword} | v./n. | `pre-`(前)+`dic`+`-ate` | 断言，以…为依据；（语法）谓语 | [中频]{.freq .freq-2} |
+| [addict]{.headword} | v./n. | `ad-`(朝向)+`dict`(说/判给) | 使成瘾；上瘾者 | [高频]{.freq .freq-1} |
+| [addiction]{.headword} | n. | `addict`+`-ion` | 成瘾，沉迷 | [高频]{.freq .freq-1} |
+| [addicted]{.headword} | adj. | `addict`+`-ed` | 上瘾的，沉迷的 | [高频]{.freq .freq-1} |
+| [index]{.headword} | n./v. | `in-`(朝向)+`dex`(dic 变体，指) | 索引；指数；为…编索引 | [高频]{.freq .freq-1} |
+| [condition]{.headword} | n. | `con-`(共同)+`dit`(说/协议)+`-ion` | 条件，状况，处境 | [高频]{.freq .freq-1} |
+| [unconditional]{.headword} | adj. | `un-`+`condition`+`-al` | 无条件的 | [高频]{.freq .freq-1} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The weather forecast **predicted** heavy snow for the weekend, but the sun came out instead.（**预测**天气总有偏差——这正说明未来本就难以掌控）
+- She couldn't **contradict** the evidence: the fingerprints were hers.（证据面前无法**反驳**，"反着说"已无意义）
+- After three days of deliberation, the jury finally returned a **verdict** of not guilty.（陪审团说出了"真实的话"——**裁决**宣布无罪）
+- The general's **edict** banned all civilian movement after sundown.（将军"发布"了一道**命令**，全城宵禁）
+- His entire career had been **dedicated** to finding a cure for the disease.（"将自己完全给出"——**献身**于一项事业）
+- The athlete admitted to a long-term **addiction** to painkillers following the injury.（伤后被"判给"了止痛药——**成瘾**往往就是这样开始的）
+:::
+
+---
+
+::: {.mnemonic}
+**助记**：把 *dict-* 想象成一张"嘴"，每个前缀告诉你这张嘴朝哪个方向开：
+
+- **pre-**（提前）→ 嘴提前说 → **predict**（预言）
+- **contra-**（反向）→ 嘴反着说 → **contradict**（反驳）
+- **e-**（向外）→ 嘴向外发布 → **edict**（法令）
+- **in-**（指向内/朝向）→ 嘴指着说 → **indicate**（指出）
+- **bene-**（好）→ 嘴说好话 → **benediction**（祝福）
+- **male-**（坏）→ 嘴说坏话 → **malediction**（诅咒）
+- **juris-**（法律）→ 法律的嘴 → **jurisdiction**（管辖权）
+- **vale-**（告别）→ 离别时的嘴 → **valediction**（告别词）
+- **ver-**（真实）→ 嘴说真话 → **verdict**（裁决）
+
+前缀是方向，*dict* 是那张嘴，永远不变。
+:::
+
+---
+
+::: {.trap}
+**陷阱**：
+
+**`addict` 的词源比你想的更黑暗。** 拉丁语 *addictus* 本指古罗马法庭上被"判给"债主为奴的人——法官开口一"说"（*dicere*），这个人便从自由人变成了奴隶。这是一个迷人的历史趣闻，**但请不要用这个故事去"推断"** *addict* 只与法律判决有关。在现代英语中，*addict* 和 *addiction* 完全用于"心理/生理上的成瘾"，这才是你阅读时会遇到的意思。
+
+**`condition` 和 `dict` 的关系**：*condition* 来自拉丁语 *condicio*（协议、约定），其中 *-dic-* 确实是"说/协议"之意，但 *condition* 在现代英语中的核心用法（"条件、状况"）已高度抽象化。你可以把这个联系作为辅助记忆，**但不要见到 *condition* 就想着用词根去推断它的具体含义**——直接记住它的常用义更可靠。
+
+**`index` 的 `-dex`**：这是 *dic-* 在拉丁语中的另一个形态变体（*index* 原意"指示者、食指"），属于有据可查的音变，但日常阅读时直接认 *index* 这个词即可，无需从 *dict-* 推导。
+:::
+
+---
+
+::: {.review-today}
+**今日复习排程**
+
+本章是第 5 章。按间隔复习原则，今天同时回顾：
+
+- **第 4 章**（上一章）
+- **第 3 章**
+- **第 1 章**
+
+**自测方法**：遮住释义列，只看"词"和"拆解"，说出每个词的中文意思。  
+本章抽测重点词（各遮一侧自测）：
+
+| 测试词 | 能说出意思吗？ |
+|--------|--------------|
+| *verdict* | □ |
+| *jurisdiction* | □ |
+| *valediction* | □ |
+| *contradict* | □ |
+| *dedicate* | □ |
+| *indict* | □ |
+| *abdicate* | □ |
+| *vindicate* | □ |
+
+全部打勾后，再从本章中任选 5 个词，尝试造一个英文短句。
+:::

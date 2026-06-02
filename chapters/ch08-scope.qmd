@@ -1,0 +1,124 @@
+# scope / scop —— "看·观察·范围"
+
+::: {.root-banner}
+`scope` · `scop` = *to look, to watch* 看，观察，范围
+:::
+
+来源：希腊语 **skopein**（σκοπεῖν），本义"仔细看、盯住看"，与 **skeptesthai**（审视、怀疑）同源，印欧语根 \*spek-（看）。
+
+::: {.etymo}
+**词源故事：古希腊瞭望台上的哨兵**
+
+古希腊城邦的制高点叫 *skopeion*，是专门用来"观察敌情"的瞭望台。站在上面的人叫 *skopos*——既是"哨兵"，也是"目标、标靶"，因为盯着目标看与被目标盯着看是同一个动作的两面。
+
+这个根在进入英语时，最先是以"-scope"的形式附在"什么"后面，表示"用来看那件东西的工具"。于是，用来看远处的叫 *telescope*（tele- 远），用来看微小事物的叫 *microscope*（micro- 小），用来绕着周围看的叫 *periscope*（peri- 周围）……每一个 -scope 词，骨子里都是那个站在瞭望台上侧目远眺的哨兵。
+
+到了中世纪，*skopein* 还分叉出一支进入占星术：*horoscope*（horo- 时辰），意思是"观察出生时辰的星象"。这条占星传统用的仍是同一个动词：盯住天穹，仔细看。
+
+现代英语里 **scope** 本身也独立成词，意思是"范围、视野"——你能"看到的地方"就是你的 scope，这是从工具义到抽象义最自然的一步延伸。
+:::
+
+**搭档根表：** `-scope` 最爱与以下希腊领域根拼搭，组成"看×领域"的仪器或学科词：
+
+| 搭档根 | 含义 | 组合示例 |
+|--------|------|----------|
+| `tele-` | 远 | telescope（望远镜） |
+| `micro-` | 小 | microscope（显微镜） |
+| `peri-` | 周围、绕 | periscope（潜望镜） |
+| `steth(o)-` | 胸、胸腔 | stethoscope（听诊器） |
+| `kaleido-` | 美丽的形 | kaleidoscope（万花筒） |
+| `horo-` | 时辰、时间 | horoscope（星座运势） |
+| `endo-` | 内、里面 | endoscope（内窥镜） |
+| `gyro-` | 旋转 | gyroscope（陀螺仪） |
+| `spectro-` | 光谱 | spectroscope（分光镜） |
+| `arthro-` | 关节 | arthroscope（关节镜） |
+| `laparo-` | 腹壁 | laparoscope（腹腔镜） |
+| `rhino-` | 鼻 | rhinoscope（鼻镜） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [scope]{.headword} | n./v. | `scope`（观察范围） | 范围；视野；（口语）仔细打量 | [高频]{.freq .freq-1} |
+| [telescope]{.headword} | n./v. | `tele-`（远）+`scope`（看） | 望远镜；（使）套叠缩短 | [高频]{.freq .freq-1} |
+| [telescopic]{.headword} | adj. | `telescope`+`-ic` | 望远镜的；可伸缩套叠的 | [中频]{.freq .freq-2} |
+| [microscope]{.headword} | n. | `micro-`（小）+`scope`（看） | 显微镜 | [高频]{.freq .freq-1} |
+| [microscopic]{.headword} | adj. | `microscope`+`-ic` | 极微小的；显微镜级别的 | [高频]{.freq .freq-1} |
+| [macroscopic]{.headword} | adj. | `macro-`（大）+`scop`+`-ic` | 宏观的；肉眼可见的 | [中频]{.freq .freq-2} |
+| [periscope]{.headword} | n. | `peri-`（周围）+`scope`（看） | 潜望镜 | [中频]{.freq .freq-2} |
+| [stethoscope]{.headword} | n. | `steth(o)-`（胸）+`scope`（看/察） | 听诊器 | [高频]{.freq .freq-1} |
+| [kaleidoscope]{.headword} | n. | `kaleido-`（美丽形）+`scope`（看） | 万花筒；纷繁多彩的景象 | [中频]{.freq .freq-2} |
+| [kaleidoscopic]{.headword} | adj. | `kaleidoscope`+`-ic` | 万花筒般变幻的；色彩缤纷的 | [中频]{.freq .freq-2} |
+| [horoscope]{.headword} | n. | `horo-`（时辰）+`scope`（观察） | 星座运势；天宫图 | [高频]{.freq .freq-1} |
+| [endoscope]{.headword} | n. | `endo-`（内）+`scope`（看） | 内窥镜 | [中频]{.freq .freq-2} |
+| [endoscopy]{.headword} | n. | `endo-`（内）+`scopy`（检视） | 内窥镜检查术 | [中频]{.freq .freq-2} |
+| [gyroscope]{.headword} | n. | `gyro-`（旋转）+`scope`（观察） | 陀螺仪；回转仪 | [中频]{.freq .freq-2} |
+| [spectroscope]{.headword} | n. | `spectro-`（光谱）+`scope`（看） | 分光镜；光谱仪 | [中频]{.freq .freq-2} |
+| [spectroscopy]{.headword} | n. | `spectro-`+`scopy`（检视） | 光谱学 | [中频]{.freq .freq-2} |
+| [arthroscope]{.headword} | n. | `arthro-`（关节）+`scope`（看） | 关节镜 | [低频]{.freq .freq-3} |
+| [arthroscopy]{.headword} | n. | `arthro-`+`scopy` | 关节镜检查 | [低频]{.freq .freq-3} |
+| [laparoscope]{.headword} | n. | `laparo-`（腹壁）+`scope`（看） | 腹腔镜 | [低频]{.freq .freq-3} |
+| [laparoscopy]{.headword} | n. | `laparo-`+`scopy` | 腹腔镜手术/检查 | [低频]{.freq .freq-3} |
+| [bronchoscope]{.headword} | n. | `broncho-`（气管）+`scope`（看） | 支气管镜 | [低频]{.freq .freq-3} |
+| [ophthalmoscope]{.headword} | n. | `ophthalmo-`（眼）+`scope`（看） | 检眼镜；眼底镜 | [低频]{.freq .freq-3} |
+| [rhinoscope]{.headword} | n. | `rhino-`（鼻）+`scope`（看） | 鼻镜 | [低频]{.freq .freq-3} |
+| [oscilloscope]{.headword} | n. | `oscillo-`（震荡）+`scope`（看） | 示波器 | [中频]{.freq .freq-2} |
+| [stroboscope]{.headword} | n. | `strobo-`（旋转闪光）+`scope`（看） | 频闪仪；闪光测速仪 | [低频]{.freq .freq-3} |
+| [cystoscope]{.headword} | n. | `cysto-`（膀胱）+`scope`（看） | 膀胱镜 | [低频]{.freq .freq-3} |
+| [otoscope]{.headword} | n. | `oto-`（耳）+`scope`（看） | 耳镜 | [低频]{.freq .freq-3} |
+| [episcope]{.headword} | n. | `epi-`（上/在…上）+`scope`（看） | 实物投影仪（旧式） | [低频]{.freq .freq-3} |
+| [bioscope]{.headword} | n. | `bio-`（生命）+`scope`（看） | 早期电影放映机；（南非英语）电影院 | [低频]{.freq .freq-3} |
+| [scoping]{.headword} | v./n. | `scope`+`-ing` | 界定范围；（口语）打量、侦察 | [中频]{.freq .freq-2} |
+| [scope out]{.headword} | phr.v. | `scope`（观察）+`out` | 事先侦察；仔细打量 | [中频]{.freq .freq-2} |
+| [-scopy]{.headword} | suf. | `-scop`+`-y`（名词化） | 检查术/学（构成医学/科学名词） | [中频]{.freq .freq-2} |
+| [microscopy]{.headword} | n. | `micro-`+`scopy` | 显微镜学；显微检查法 | [中频]{.freq .freq-2} |
+| [telescope array]{.headword} | n. phr. | `telescope`（望远镜）+`array`（阵列） | 望远镜阵列（天文学） | [低频]{.freq .freq-3} |
+| [wide-scope]{.headword} | adj. | `wide-`（宽）+`scope`（范围） | 涵盖面广的；大范围的 | [中频]{.freq .freq-2} |
+| [full-scope]{.headword} | adj. | `full-`（完整）+`scope`（范围） | 全方位的；全范围的 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The **telescope** Galileo turned toward Jupiter in 1610 revealed four moons orbiting the planet.（伽利略把望远镜对准木星，发现了四颗卫星——*tele-* 让遥远的星体进入视野。）
+- Under the **microscope**, a single human hair looks as thick as a tree trunk.（在显微镜下，一根头发丝像树干一样粗——*micro-* 把肉眼看不见的东西放大出来。）
+- The doctor pressed the cold **stethoscope** against his chest to listen for any irregular heartbeat.（医生把冰凉的听诊器贴在他胸口，听是否有心律不齐——*steth-* 就是"胸"。）
+- The project's **scope** expanded so dramatically that the original deadline became meaningless.（项目范围扩张得如此离谱，最初的截止日期已毫无意义——注意 *scope* 在这里是抽象名词"范围"。）
+- A **kaleidoscopic** mix of cultures, languages, and cuisines makes this city unlike any other.（万花筒般多元的文化、语言和美食，令这座城市独一无二——*kaleidoscopic* 已完全比喻化，不再指具体仪器。）
+- Surgeons performed the procedure using a thin **endoscope** inserted through a small incision, avoiding open surgery.（外科医生通过一个小切口插入细长的内窥镜完成手术，避免了开刀——*endo-* 强调"向内看"。）
+:::
+
+::: {.mnemonic}
+**助记**：把 `-scope` 理解为一块**"透明观察窗"**。哪个根贴在它前面，就透过这扇窗看什么：*tele-* 贴上去就看**远**，*micro-* 贴上去就看**小**，*endo-* 贴上去就看**里面**。遇到任何不认识的 -scope 词，先拆前面的根，八九不离十就能猜出这台仪器是干什么的。
+
+记 **scope** 这个词本身：你站在山顶，目力所及的一片——那就是你的 scope（视野/范围）。能看多远，scope 就有多大。
+:::
+
+::: {.trap}
+**陷阱：stethoscope 里的 -scope 不是"看"**
+
+严格说，听诊器是"听"的工具，并非"看"的工具。*stethoscope* 之所以用 `-scope`，是因为早期希腊语 *skopein* 有更宽泛的"仔细审察、检查"之义，而非仅指视觉上的"看"——医生用它"检查"胸腔，与"看"有共同的"诊察"语义内核。这是历史词义延伸的结果，属于"有趣的词源背景"，**不要**据此推断"凡 -scope 词都包含视觉意义以外的检查义"——绝大多数 -scope 词确实是"用来看的光学仪器"，stethoscope 是少见的例外。
+
+另一个常见混淆：**skeptic**（怀疑论者）看似与 *scope* 无关，实则同源于 *skeptesthai*（审视、仔细检查）。这是有趣的词源知识，但无助于直接推断 skeptic 的意思，请勿硬套。
+:::
+
+::: {.review-today}
+**今日复习排程（第 8 章）**
+
+完成本章后，请回头复习：
+
+- **第 7 章**（上一章）：遮住释义列，逐行默写词义
+- **第 6 章**：只看"拆解"列，在心里还原完整释义
+- **第 4 章**：随机抽 5 个词，在空白纸上造句
+
+**本章自测词**（遮住释义，凭构词拆解说出大意）：
+
+1. `endoscopy` — endo- 是什么意思？
+2. `kaleidoscopic` — kaleido- 来自哪个希腊根？
+3. `macroscopic` — macro- 与 micro- 的方向相反，这个词是什么意思？
+4. `spectroscopy` — spectro- 指光谱，这门学科研究什么？
+5. `gyroscope` — gyro- 表示旋转，陀螺仪如何"观察"旋转？
+:::

@@ -1,0 +1,138 @@
+# fer / -fer / -ferous —— "带·拿·承载"
+
+::: {.root-banner}
+fer · late = carry 带，拿，承载
+:::
+
+来源：拉丁语 *ferre*（不定式：to bear, to carry, to bring），与希腊语 *pherein*（φέρειν）同源，均源自印欧词根 *\*bher-*，意为"拿着、承载"。
+
+::: {.etymo}
+**词源故事：搬运工的十张面孔**
+
+罗马人有一个常用动词 *ferre*——拿、带、运、承受。这个词本身不起眼，但它有一个惊人的特质：只要换一个前缀，意思立刻转向，像搬运工换了一条新路线。*trans-* 是"横跨"，*re-* 是"回去"，*con-* 是"一起"，*in-* 是"进入"，*pre-* 是"提前"——每换一个前缀，那个搬运工就走上了不同的方向。
+
+想象一座罗马集市：一个搬运工站在广场中央，四面八方都有路口。向右是 *transfer*——把货物运到对面；向左是 *refer*——把货物送回原主；向前是 *prefer*——把这批货优先抬到台面上；向下蹲是 *suffer*——把重担压在肩头默默承受。根不变，方向变，这就是 *fer* 家族的核心逻辑。
+
+土地也能"承载"：拉丁语 *fertilis* 意思是"能承载庄稼的"，即肥沃的。词根 *fer* 在这里不是搬运动作，而是土地承托生命的能力——*fertile soil* 是能"抱着"庄稼生长的土地。
+
+这个根还在英语里留下了一个独立的小词：*ferry*（渡船）。渡船的本职就是把人和货物从此岸"带"到彼岸，朴素而直接，是 *ferre* 最原始形态的活化石。
+:::
+
+### 前缀决定方向，根永远是同一个动作
+
+| 前缀 | 本义 | 加上 *fer* | 搬运工走向 |
+|------|------|-----------|-----------|
+| `trans-` | 横跨、越过 | **transfer** | 把东西搬到对面 |
+| `re-` | 回、返 | **refer** | 把读者/话题送回某处 |
+| `pre-` | 提前、前置 | **prefer** | 把某物提前摆上来 |
+| `con-`（变 `com-`） | 一起、共同 | **confer** | 大家把意见搬到一处 |
+| `in-` | 向内、进入 | **infer** | 把结论往脑子里运 |
+| `ob-`（变 `of-`） | 朝向、对着 | **offer** | 把东西送到对方面前 |
+| `dis-`（变 `dif-`） | 分开、散开 | **differ** | 把东西搬往不同方向 |
+| `sub-`（变 `suf-`） | 在下、承受 | **suffer** | 把重负压在自己身下扛 |
+| `circum-` | 围绕 | **circumference** | 绕着圆圈搬一圈 |
+| `pro-` | 向前 | **proffer** | 主动伸手递出去 |
+
+记住这张表，你就掌握了 *fer* 家族的全部骨架。根永远在做同一件事——"带着走"；变的只是前缀标注的方向。
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|---|---|---|---|---|
+| [transfer]{.headword} | v./n. | `trans-`(横跨)+`fer`(带) | 转移，调动，转账 | [高频]{.freq .freq-1} |
+| [refer]{.headword} | v. | `re-`(回)+`fer`(带) | 提及，参考，转介 | [高频]{.freq .freq-1} |
+| [reference]{.headword} | n. | `refer`+`-ence`(名词后缀) | 参考，引用，推荐信 | [高频]{.freq .freq-1} |
+| [prefer]{.headword} | v. | `pre-`(前)+`fer`(带) | 更喜欢，偏好 | [高频]{.freq .freq-1} |
+| [preference]{.headword} | n. | `prefer`+`-ence` | 偏好，优先选择 | [高频]{.freq .freq-1} |
+| [confer]{.headword} | v. | `con-`(共同)+`fer`(带) | 商议；授予（学位/荣誉） | [高频]{.freq .freq-1} |
+| [conference]{.headword} | n. | `confer`+`-ence` | 会议，会谈 | [高频]{.freq .freq-1} |
+| [infer]{.headword} | v. | `in-`(入)+`fer`(带) | 推断，推论 | [高频]{.freq .freq-1} |
+| [inference]{.headword} | n. | `infer`+`-ence` | 推断，推论结果 | [中频]{.freq .freq-2} |
+| [offer]{.headword} | v./n. | `ob-`→`of-`(朝向)+`fer`(带) | 提供，报价；提议 | [高频]{.freq .freq-1} |
+| [differ]{.headword} | v. | `dif-`(分开)+`fer`(带) | 不同，有差异；意见相左 | [高频]{.freq .freq-1} |
+| [difference]{.headword} | n. | `differ`+`-ence` | 差异，不同点 | [高频]{.freq .freq-1} |
+| [different]{.headword} | adj. | `differ`+`-ent` | 不同的 | [高频]{.freq .freq-1} |
+| [suffer]{.headword} | v. | `suf-`(在下)+`fer`(承载) | 遭受，受苦；容忍 | [高频]{.freq .freq-1} |
+| [suffering]{.headword} | n. | `suffer`+`-ing` | 苦难，痛苦 | [高频]{.freq .freq-1} |
+| [fertile]{.headword} | adj. | `fer`(承载)+`-tile`(能…的) | 肥沃的；多产的 | [中频]{.freq .freq-2} |
+| [fertility]{.headword} | n. | `fertile`+`-ity` | 肥沃；生育能力 | [中频]{.freq .freq-2} |
+| [infertile]{.headword} | adj. | `in-`(否定)+`fertile` | 贫瘠的；不育的 | [中频]{.freq .freq-2} |
+| [fertilize]{.headword} | v. | `fertile`+`-ize` | 施肥；使受精 | [中频]{.freq .freq-2} |
+| [fertilizer]{.headword} | n. | `fertilize`+`-r` | 肥料 | [中频]{.freq .freq-2} |
+| [ferry]{.headword} | n./v. | `fer`(带)→`ferry` | 渡船；用渡船运送 | [中频]{.freq .freq-2} |
+| [circumference]{.headword} | n. | `circum-`(围绕)+`fer`(带)+`-ence` | 圆周，周长 | [中频]{.freq .freq-2} |
+| [vociferous]{.headword} | adj. | `voc-`(声音)+`i`+`fer`(带)+`-ous` | 大声的，吵嚷的，强烈表达的 | [中频]{.freq .freq-2} |
+| [proffer]{.headword} | v. | `pro-`(向前)+`fer`(带) | 主动提供，伸手递出 | [低频]{.freq .freq-3} |
+| [defer]{.headword} | v. | `de-`(离开/向下)+`fer`(带) | 推迟；顺从（把决定权交出去） | [中频]{.freq .freq-2} |
+| [deference]{.headword} | n. | `defer`+`-ence` | 顺从，敬重，谦让 | [中频]{.freq .freq-2} |
+| [deferential]{.headword} | adj. | `deference`+`-ial` | 恭顺的，表示尊重的 | [低频]{.freq .freq-3} |
+| [indifferent]{.headword} | adj. | `in-`(否定)+`different` | 漠不关心的；无差别的 | [高频]{.freq .freq-1} |
+| [indifference]{.headword} | n. | `in-`+`difference` | 漠然，冷漠 | [中频]{.freq .freq-2} |
+| [differential]{.headword} | adj./n. | `differ`+`-ential` | 差别的；差速器；微分 | [中频]{.freq .freq-2} |
+| [differentiate]{.headword} | v. | `different`+`-iate` | 区分，使不同；分化 | [中频]{.freq .freq-2} |
+| [transferable]{.headword} | adj. | `transfer`+`-able` | 可转让的，可转移的 | [中频]{.freq .freq-2} |
+| [transference]{.headword} | n. | `transfer`+`-ence` | 转移；（心理学）移情作用 | [低频]{.freq .freq-3} |
+| [referendum]{.headword} | n. | `refer`+`-endum`(拉丁动名词) | 全民公投（把决定"送回"人民手中） | [中频]{.freq .freq-2} |
+| [preferential]{.headword} | adj. | `prefer`+`-ential` | 优先的，优惠的 | [中频]{.freq .freq-2} |
+| [preferably]{.headword} | adv. | `prefer`+`-ably` | 最好，宁可 | [中频]{.freq .freq-2} |
+| [conferral]{.headword} | n. | `confer`+`-al` | 授予（学位/荣誉）的行为 | [低频]{.freq .freq-3} |
+| [sufferance]{.headword} | n. | `suffer`+`-ance` | 默许；忍耐（能力） | [低频]{.freq .freq-3} |
+| [luciferous]{.headword} | adj. | `luc-`(光)+`i`+`fer`(带)+`-ous` | 带来光明的；启迪性的 | [低频]{.freq .freq-3} |
+| [coniferous]{.headword} | adj. | `con-`(锥)+`i`+`fer`(带)+`-ous` | 针叶的（松柏类树木） | [低频]{.freq .freq-3} |
+| [pestiferous]{.headword} | adj. | `pest-`(疫病)+`i`+`fer`(带)+`-ous` | 传播疾病的；有害的 | [低频]{.freq .freq-3} |
+| [aquifer]{.headword} | n. | `aqu-`(水)+`i`+`fer`(带) | 含水层，地下蓄水层 | [低频]{.freq .freq-3} |
+| [somniferous]{.headword} | adj. | `somn-`(睡眠)+`i`+`fer`(带)+`-ous` | 催眠的，使人昏昏欲睡的 | [低频]{.freq .freq-3} |
+
+## 生动语境
+
+::: {.ex}
+- The company decided to **transfer** the regional manager to the Singapore office.（把人从此地"横跨"带去彼地——调职）
+- The doctor **referred** the patient to a specialist and attached all the test results.（把病人"送回"到专科医生那里——转介）
+- She **prefers** early morning runs to evening workouts because the air is cooler.（把早晨的选项"提前摆上来"——偏好）
+- The committee will **confer** honorary degrees on three distinguished alumni at the ceremony.（大家把荣誉"一起带到"受奖者身上——授予）
+- From the sudden silence, he **inferred** that something had gone badly wrong.（把突如其来的线索"运入"脑中得出结论——推断）
+- The protesters were **vociferous** in their opposition, chanting slogans outside the parliament building for hours.（声音被大力"带出来"——大声的、喧嚣的）
+:::
+
+::: {.mnemonic}
+**助记**：把 *fer* 想成一辆四通八达的货车。货车本身只会"拉货"（carry），但装上不同的"导航目的地"（前缀），它就走不同的路：
+
+- **trans-** = 跨海大桥 → transfer（运过去）
+- **re-** = 回程路 → refer（送回去）
+- **pre-** = 快车道/优先道 → prefer（提前带出来）
+- **con-** = 汇聚路口 → confer（聚到一起商量）
+- **in-** = 进入隧道 → infer（带进脑子里）
+- **of-** = 对面停车位 → offer（递到对方面前）
+- **dif-** = 分岔路 → differ（各走各路，不一样）
+- **suf-** = 地下通道（压在下面） → suffer（扛在肩上，承受）
+- **circum-** = 环形路 → circumference（绕一圈，周长）
+
+货车（fer）不动，换路（前缀）走天下。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**1. infer vs. imply 别混淆。** *Infer* 是听者/读者"把信息运进脑子里推断"，*imply* 是说话者"把含义携带在话里暗示"。说话者 implies，听者 infers——方向刚好相反。"You inferred that he was lying" 意思是"你推断出他在撒谎"，而不是"你暗示他在撒谎"。
+
+**2. -ferous 后缀组合词：有趣，但不可滥用推断。** *Vociferous、coniferous、luciferous、aquifer* 等词中的 `-fer-` 确实来自 *ferre*，属于"高产可推断词根"，认出它有助于理解词义。但像 *Lucifer*（魔鬼的名字，字面义"带来光的"，即启明星）这类文化含义，是**历史趣闻**，不能用"词根推断"去理解现代语境中的这个词——在现代英语里它就是专有名词，不要见到 *luci-* + *fer* 就推断某物"是光明的"。
+
+**3. differ 与 defer 形近易混。** *Differ*（`dif-`+`fer`）= 不同；*defer*（`de-`+`fer`）= 推迟/顺从。字形相差一个字母，词义截然不同，阅读时留意前缀。
+:::
+
+::: {.review-today}
+**今日复习排程（第 9 章）**
+
+按间隔复习原则，今天在学完本章后，请回头自测以下章节：
+
+- **第 8 章**（上一章，巩固新鲜记忆）
+- **第 7 章**（两章前，进入第一次间隔）
+- **第 5 章**（较早章节，中等间隔强化）
+- **第 1 章**（第一章，长间隔验证是否真正掌握）
+
+**自测方法**：遮住释义列，只看"词"列，默说拆解和中文义；再遮住"词"列，只看中文义，默写英文单词。
+
+**本章代表词快测**（遮住释义，逐词说出意思）：
+
+> transfer · refer · infer · confer · prefer · suffer · fertile · circumference · vociferous · defer · proffer
+:::

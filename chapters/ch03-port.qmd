@@ -1,0 +1,143 @@
+# port —— "运·拿·携带"
+
+::: {.root-banner}
+`port` = *to carry, to bear* 运、拿、携带
+:::
+
+来源：拉丁语 *portāre*（携带、运送），与古希腊语 *pherein*（负担）同属印欧语系根 \*bher-，原始意象是"双手托物、肩膀承重"。
+
+::: {.etymo}
+**词源故事：港口边的搬运工**
+
+罗马城靠台伯河与地中海命脉维系。每当一艘货船驶入港湾，甲板上堆满谷物、橄榄油、大理石——一群体格健壮的搬运工跳上船，把货物一件件扛下来，走过跳板，卸在岸边仓库里。这个"扛货"动作，拉丁语就叫 *portāre*。
+
+港口本身叫 *portus*——因为人们把货物"运进运出"的地方。而一道城门叫 *porta*，因为人们每天"带着自己"穿越它。同一个根，一个承载船货，一个承载人流。
+
+随着拉丁语演化成罗曼语族，英语又大量借入，*portāre* 的后代遍布各行各业：医院里运送病人的 *porter*（门卫/搬运工）、随身可带走的 *portable* 电脑、穿越大洋的 *transport*、国家之间的货物进出口 *import / export*。同一个动作，前缀一换，方向全变。
+
+记住这个画面：码头上的罗马搬运工，弓着腰，肩上扛着一口陶瓮——无论货物最终往哪儿走，"扛"这件事永远不变。
+:::
+
+---
+
+**前缀决定方向，根永远是"携带"这一个动作。**
+
+| 前缀 | 方向/含义 | 代表词 |
+|------|-----------|--------|
+| `im-`（← `in-`） | 向内、进入 | *import* |
+| `ex-` | 向外、出去 | *export* |
+| `trans-` | 横跨、穿越 | *transport* |
+| `re-` | 返回 | *report*, *repost* |
+| `sup-`（← `sub-`） | 从下方、支撑 | *support* |
+| `de-` | 离开、向下 | *deport* |
+| `ob-`（→ `op-`） | 朝向、面对 | *opportunity* |
+| `com-` | 一起、共同 | *comport* |
+| `dis-` | 分散、放开 | *disport* |
+| `pro-` | 向前 | *proportion*（有争议，见陷阱） |
+
+---
+
+## 核心派生词
+
+| 词 | 词性 | 拆解 | 释义 | 频率 |
+|----|------|------|------|------|
+| [import]{.headword} | v./n. | `im-`(入)+`port`(运) | 进口；输入；重要性 | [高频]{.freq .freq-1} |
+| [important]{.headword} | adj. | `im-`(入)+`port`(运)+`-ant` | 重要的（原义：携带重大意义进来） | [高频]{.freq .freq-1} |
+| [importance]{.headword} | n. | `im-`+`port`+`-ance` | 重要性 | [高频]{.freq .freq-1} |
+| [export]{.headword} | v./n. | `ex-`(出)+`port`(运) | 出口；输出 | [高频]{.freq .freq-1} |
+| [transport]{.headword} | v./n. | `trans-`(横跨)+`port`(运) | 运输；运送 | [高频]{.freq .freq-1} |
+| [transportation]{.headword} | n. | `trans-`+`port`+`-ation` | 交通运输；运输方式 | [高频]{.freq .freq-1} |
+| [report]{.headword} | v./n. | `re-`(回)+`port`(运) | 报告；汇报（把消息"运回"） | [高频]{.freq .freq-1} |
+| [reporter]{.headword} | n. | `re-`+`port`+`-er` | 记者；报告人 | [高频]{.freq .freq-1} |
+| [support]{.headword} | v./n. | `sup-`(从下)+`port`(扛) | 支持；支撑；支援 | [高频]{.freq .freq-1} |
+| [supporter]{.headword} | n. | `sup-`+`port`+`-er` | 支持者；拥护者 | [高频]{.freq .freq-1} |
+| [portable]{.headword} | adj. | `port`(运)+`-able`(能…的) | 便携的；可移动的 | [高频]{.freq .freq-1} |
+| [porter]{.headword} | n. | `port`(运)+`-er`(人) | 搬运工；门卫；行李员 | [高频]{.freq .freq-1} |
+| [deport]{.headword} | v. | `de-`(离开)+`port`(运) | 驱逐出境；递解出境 | [中频]{.freq .freq-2} |
+| [deportation]{.headword} | n. | `de-`+`port`+`-ation` | 驱逐出境；遣返 | [中频]{.freq .freq-2} |
+| [deportment]{.headword} | n. | `de-`+`port`+`-ment` | 举止；风度（"呈现自身"的方式） | [低频]{.freq .freq-3} |
+| [portfolio]{.headword} | n. | `port`(携带)+`folio`(纸页) | 文件夹；投资组合；作品集 | [高频]{.freq .freq-1} |
+| [opportunity]{.headword} | n. | `op-`(朝向)+`port`(港口)+`-unity` | 机会（风向对着港口，船可入港） | [高频]{.freq .freq-1} |
+| [opportune]{.headword} | adj. | `op-`+`port`+`-une` | 恰当的；及时的 | [中频]{.freq .freq-2} |
+| [opportunist]{.headword} | n. | `op-`+`port`+`-un`+`-ist` | 机会主义者 | [中频]{.freq .freq-2} |
+| [comport]{.headword} | v. | `com-`(共同)+`port`(行止) | 举止；表现；与…相符 | [低频]{.freq .freq-3} |
+| [comportment]{.headword} | n. | `com-`+`port`+`-ment` | 举止；行为方式 | [低频]{.freq .freq-3} |
+| [disport]{.headword} | v. | `dis-`(分散)+`port`(带走) | 嬉戏；娱乐（把自己"带离"烦恼） | [低频]{.freq .freq-3} |
+| [sport]{.headword} | n./v. | `dis-`缩减→`sport` | 运动；体育（disport 的缩短形式） | [高频]{.freq .freq-1} |
+| [sporting]{.headword} | adj. | `sport`+`-ing` | 运动的；光明正大的 | [中频]{.freq .freq-2} |
+| [port]{.headword} | n. | `port` | 港口；口岸（货物"运进运出"之地） | [高频]{.freq .freq-1} |
+| [portal]{.headword} | n. | `port`(门)+`-al` | 门户；入口；网络门户 | [中频]{.freq .freq-2} |
+| [portage]{.headword} | n./v. | `port`(运)+`-age` | 陆路运输；搬运（尤指独木舟绕过急流） | [低频]{.freq .freq-3} |
+| [portly]{.headword} | adj. | `port`(姿态)+`-ly` | 肥胖的；体态臃肿的 | [低频]{.freq .freq-3} |
+| [portmanteau]{.headword} | n. | `port`(携带)+`manteau`(斗篷) | 大旅行箱；合词（linguistics）| [中频]{.freq .freq-2} |
+| [rapport]{.headword} | n. | `re-`(回)+法语 `port`(运) | 融洽关系；共鸣（情感"来回流通"） | [中频]{.freq .freq-2} |
+| [purport]{.headword} | v./n. | `pur-`(← `pro-` 向前)+`port` | 声称；意图；要旨 | [中频]{.freq .freq-2} |
+| [purportedly]{.headword} | adv. | `purport`+`-ed`+`-ly` | 据称；据说 | [中频]{.freq .freq-2} |
+| [import]{.headword}（义②） | v. | `im-`+`port` | 意味着；蕴含（将含义"带入"） | [中频]{.freq .freq-2} |
+| [importation]{.headword} | n. | `import`+`-ation` | 进口行为；输入物 | [中频]{.freq .freq-2} |
+| [exporter]{.headword} | n. | `export`+`-er` | 出口商；出口国 | [高频]{.freq .freq-1} |
+| [transporter]{.headword} | n. | `transport`+`-er` | 运输车；运输工具 | [中频]{.freq .freq-2} |
+| [reportage]{.headword} | n. | `report`+`-age`（法语后缀） | 新闻报道；纪实文学 | [中频]{.freq .freq-2} |
+| [reportedly]{.headword} | adv. | `report`+`-ed`+`-ly` | 据报道；据说 | [高频]{.freq .freq-1} |
+| [supportive]{.headword} | adj. | `support`+`-ive` | 给予支持的；支持性的 | [高频]{.freq .freq-1} |
+| [unsupported]{.headword} | adj. | `un-`+`support`+`-ed` | 未经证实的；无支撑的 | [中频]{.freq .freq-2} |
+| [porthole]{.headword} | n. | `port`(孔)+`hole`(洞) | 舷窗；炮孔 | [中频]{.freq .freq-2} |
+
+---
+
+## 生动语境
+
+::: {.ex}
+- The company decided to **export** its technology to emerging markets, transforming local industries within a decade.（把技术"运出去"——出口；注意与 *import* 方向相反）
+
+- She carried a **portable** speaker to the picnic, blasting jazz across the meadow.（"能被带走的"——便携式；`-able` 直接说明可携带性）
+
+- The government announced it would **deport** undocumented migrants who had crossed the border illegally.（把人"运离"本国——驱逐出境；语气正式，常见于新闻）
+
+- **Reportedly**, the new **transportation** hub will connect six major cities by high-speed rail.（*reportedly* = 据报道；*transportation* 强调运输体系整体）
+
+- The **opportunity** came like a ship catching the right wind into harbor—you either sail in or watch it pass.（机会如风顺港口而入；这个比喻正是词源本义的还原）
+
+- His **portfolio** included photographs, design sketches, and three years of client **reports**, each one more polished than the last.（*portfolio* = 装着纸页的携带物，即作品集；*reports* = 汇报送回的文件）
+:::
+
+::: {.mnemonic}
+**助记**：把 `port` 想象成"一根扁担"，永远不变——变的只是肩膀的方向：
+
+- **im**-port → 扁担**进来**（in）
+- **ex**-port → 扁担**出去**（exit）
+- **trans**-port → 扁担**穿越**（cross）
+- **re**-port → 扁担**运回来**（return）
+- **sup**-port → 扁担**从下往上顶**（sub = under）
+- **de**-port → 扁担**离开这里**（depart）
+- **op**-port-unity → 扁担**朝着港口**，风正好，别错过
+
+前缀是指南针，`port` 是那根永远弓着腰的扁担。
+:::
+
+::: {.trap}
+**陷阱**：
+
+**`sport` 是 `disport` 的缩写，不是"运动的拉丁根"。** *disport* 的词源是 `dis-`（分散/放开）+ `portāre`（带走），意为"把自己带离日常烦恼去娱乐"，后来缩短为 *sport*。这是一条有趣的历史故事，但**不能用它来推断**所有 `sp-` 开头的词都与"娱乐、运动"有关——*spirit*、*spy*、*spell* 等来自完全不同的词根。
+
+**`proportion` 和 `portion`** 的 `-port-` 来自另一个拉丁词 *portio*（份额、比例），与 *portāre*（携带）**同形而异源**。*portion* 意为"一份"，*proportion* 意为"份额之比"，它们和"运输"没有语义关联。遇到 `-port-` 先辨认前后缀语义，不要自动套用"运/带"的解释。
+
+**`rapport`** 虽然拼写中含 `-port`，且确实经由法语 *rapporter*（带回）演化而来，词根关联是真实的；但现代英语中它完全是"融洽关系"的固定意义，不能拆开来推断字面义，只能作为整词记忆。
+:::
+
+::: {.review-today}
+**今日复习（第 3 章 → 回看第 1、2 章）**
+
+完成本章后，请翻回**第 1 章**和**第 2 章**，遮住释义列，依次自测：
+
+- 第 1 章：从各派生词中任取 8 个，能否不看提示说出词根拆解？
+- 第 2 章：任取 5 个中频词，能否造一个英文短句？
+
+本章自测词（遮住释义，凭拆解说出意思）：
+
+1. **deportation** — 前缀 `de-` 指什么方向？结合 `port` 是什么意思？
+2. **opportunity** — 这个词的词源画面是什么场景？
+3. **reportedly** — 拆出三层词缀，各自是什么？
+4. **portfolio** — `folio` 是什么意思？整个词原来装什么用？
+5. **purportedly** — `pur-` 是哪个前缀的变体？整词为何意？
+:::
