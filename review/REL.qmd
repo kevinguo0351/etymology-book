@@ -2,150 +2,164 @@
 
 
 
-> 本主题共 8 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 8 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### At the Threshold of the Sacred
 
+:::: {.columns}
+::: {.column width="57%"}
 The old **pagan** village had no **bible**, no **papal** authority, no **sect** to claim it — only a moss-covered **altar** at the forest's edge where every harvest moon the elders placed a clay **joss** figure as an offering. A wandering **guru** arrived one autumn, sat cross-legged on a **pew** dragged out from a half-ruined chapel, and began recounting the **myth** of **Horus** — the falcon-headed god whose eye, torn away and restored, became the symbol of healing across the ancient world. Children gathered, wide-eyed, half-believing the stranger had placed a **hex** on the air itself, for his words seemed to shimmer.
 
 He spoke of **karma**, of how every act coils back upon the actor the way smoke circles before it rises; of **Amor** and **Cupid** — the same longing rendered in two tongues; of **Deus**, the root-word that branched into a dozen divine names across a dozen faiths. He read from **Amos** and from **Ezra**, two voices out of the same ancient hunger, and when he chanted their verses they sounded almost like **hymns**. Two **nuns** who had wandered down from the hillside monastery stood at the back, listening without interrupting, their faces open.
 
 By nightfall the mood had darkened pleasantly. Someone lit incense near the **tomb** of the village founder, its carved face worn smooth by rain and decades of touch. Talk turned to the **demon** that local legend said haunted the crossroads, and to the **devil**-bargains folklore warned against. A young skeptic challenged the guru's **dogma** outright, calling the whole evening a **cult** gathering dressed in respectability. The guru smiled — the **zen** kind, maddening in its calm — and gestured toward the **ephod** he wore, a narrow linen vestment draped across his shoulders, saying only that every cloth, every **vow**, every murmured **hymn** is finally an attempt to touch what the word **piety** has always meant: the ache to be faithful to something larger than oneself. The skeptic sat back down. Outside, **Amor** shot no arrows; the night needed none. The **vows** people carried inwardly were already doing their work.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| hex | n. | 十六进制,巫婆,妖法; 施魔法于,施魔法 |
-| pew | n. | 教堂的条凳式座位 |
-| vow | n. | 誓言; 郑重宣布；许愿; & 起誓，发誓; 郑重宣告 |
-| zen | n. | 禅,禅宗 |
-| Amor | | 〈罗神〉埃莫,即爱神丘比特 |
-| Amos | n. | 阿摩司,阿摩司书,《旧约圣经》中的一卷 |
-| cult | n. | 狂热；异教团体；宗教信仰；膜拜仪式；时髦的人；信徒 受特定群体欢迎的 |
-| Deus | n. | 迪乌斯，上帝 |
-| Ezra | n. | 以斯拉,以斯拉记 |
-| guru | n. | 宗教老师,领袖,头头 |
-| hymn | n. | 赞美诗；圣歌；欢乐的歌; 唱赞美歌; 唱赞歌 |
-| joss | n. | 佛像；偶像 |
-| myth | n. | 神话；虚构的人，虚构的事 |
-| nuns | | (nun 复数) 修女 |
-| sect | n. | 宗派 |
-| tomb | n. | 墓穴 |
-| vows | n. | 婚誓；誓约; 发誓；郑重声明 |
-| altar | n. | 祭坛；圣坛；圣餐台 |
-| bible | n. | 圣经; 有权威的书 |
-| Cupid | n. | 丘比特; 美男孩; 丘比特塑像 |
-| demon | n. | 魔鬼；精力充沛的人；恶魔；邪恶的事物 |
-| devil | n. | 魔鬼; 家伙, 人 |
-| dogma | n. | 教条，教理；武断的意见 |
-| ephod | n. | 以弗得 |
-| Horus | n. | 何露斯 |
-| hymns | n. | 赞美诗；圣诗; 唱诗 |
-| karma | n. | 〈宗〉业; 命运, 宿缘 |
-| pagan | n. | 异教徒, 非基督教徒; 异教徒的, 无宗教信仰的 |
-| papal | adj. | 教皇的,教皇职位或权力的,罗马教廷的,教皇任期的 |
-| piety | n. | 虔诚；孝敬；虔诚的行为或语言 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **hex** <span class="wpos">n.</span> | 十六进制,巫婆,妖法; 施魔法于,施魔法 |
+| **pew** <span class="wpos">n.</span> | 教堂的条凳式座位 |
+| **vow** <span class="wpos">n.</span> | 誓言; 郑重宣布；许愿; &amp; 起誓，发誓; 郑重宣告 |
+| **zen** <span class="wpos">n.</span> | 禅,禅宗 |
+| **Amor** | 〈罗神〉埃莫,即爱神丘比特 |
+| **Amos** <span class="wpos">n.</span> | 阿摩司,阿摩司书,《旧约圣经》中的一卷 |
+| **cult** <span class="wpos">n.</span> | 狂热；异教团体；宗教信仰；膜拜仪式；时髦的人；信徒 受特定群体欢迎的 |
+| **Deus** <span class="wpos">n.</span> | 迪乌斯，上帝 |
+| **Ezra** <span class="wpos">n.</span> | 以斯拉,以斯拉记 |
+| **guru** <span class="wpos">n.</span> | 宗教老师,领袖,头头 |
+| **hymn** <span class="wpos">n.</span> | 赞美诗；圣歌；欢乐的歌; 唱赞美歌; 唱赞歌 |
+| **joss** <span class="wpos">n.</span> | 佛像；偶像 JOSSabbr. Johnniac Open-Shop System 琼尼阿克开放系统 |
+| **myth** <span class="wpos">n.</span> | 神话；虚构的人，虚构的事 |
+| **nuns** |  |
+| **sect** <span class="wpos">n.</span> | 宗派 SECT集肤电伴热 |
+| **tomb** <span class="wpos">n.</span> | 墓穴 |
+| **vows** <span class="wpos">n.</span> | 婚誓；誓约; 发誓；郑重声明 |
+| **altar** <span class="wpos">n.</span> | 祭坛；圣坛；圣餐台 Altar天坛星座 |
+| **bible** <span class="wpos">n.</span> | 圣经; 有权威的书 |
+| **Cupid** <span class="wpos">n.</span> | 丘比特; 美男孩; 丘比特塑像 |
+| **demon** <span class="wpos">n.</span> | 魔鬼；精力充沛的人；恶魔；邪恶的事物 DEMONabbr. Debug Monitor 调试监督程序 |
+| **devil** <span class="wpos">n.</span> | 魔鬼; 家伙, 人 |
+| **dogma** <span class="wpos">n.</span> | 教条，教理；武断的意见 |
+| **ephod** <span class="wpos">n.</span> | 以弗得 |
+| **Horus** <span class="wpos">n.</span> | 何露斯 horusn. 何露斯 |
+| **hymns** <span class="wpos">n.</span> | 赞美诗；圣诗; 唱诗 |
+| **karma** <span class="wpos">n.</span> | 〈宗〉业; 命运, 宿缘 Karma卡马 |
+| **pagan** <span class="wpos">n.</span> | 异教徒, 非基督教徒; 异教徒的, 无宗教信仰的 |
+| **papal** <span class="wpos">adj.</span> | 教皇的,教皇职位或权力的,罗马教廷的,教皇任期的 |
+| **piety** <span class="wpos">n.</span> | 虔诚；孝敬；虔诚的行为或语言 |
+:::
+:::
+::::
 
 ### The Shrine at the Edge of the World
 
+:::: {.columns}
+::: {.column width="57%"}
 The old **curate** arrived at the hilltop **parish** just before dawn, his robes smelling of incense from the **censer** he had swung through the night vigil. He was a **devout** man — not in any **pious**, performative sense, but quietly so, shaped by decades of **rites** that had worn smooth grooves into his days. The **deacon** who met him at the door pressed a worn **tarot** card into his palm — a relic left by some wanderer — and said nothing. Inside, above the altar, a painted **Apollo** gazed down with that serene, almost **deific** calm that old craftsmen gave to gods they still half-believed in.
 
 The **pastor** lit the morning candles and began to chant a **psalm**, low and unhurried, the syllables rising like smoke. Someone had chalked a **mantra** on the stone floor, letters overlapping the chalk outline of an older, stranger symbol — something **occult**, pre-Christian, the kind of mark that made scholars argue about **dharma** and **divine** will in the same breath. The **Elohim**, **Isaiah** insisted in the scripture pinned to the lectern, tolerated no **fetish**, no carved **goblin** standing in for the holy. And yet here they all were, layered: the **kosher** prohibition on one wall, a notice about the upcoming **Purim** celebration on another, and beside it a hand-lettered flyer for a **fiesta** the following weekend.
 
 The curate was due to **ordain** a young man that afternoon — to **anoint** his head with oil and speak the words that would **hallow** him, set him apart, send him into a world that included, somewhere in its shadows, every name for darkness ever coined: **DIABLO** in one tongue, **satan** in another, a **goblin** king in a third. **Heaven**, the curate thought, is less a place than a direction — the way you face when you decide what to **hallow** and what to refuse. He folded the tarot card into his pocket, nodded to **Elijah**'s portrait on the wall, and went to prepare.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| pious | adj. | 虔诚的, 信神的; 虚伪的, 伪善的; 不可能实现的 |
-| psalm | n. | 赞美诗,圣诗,圣歌; 《诗篇》 |
-| Purim | n. | 普林节 |
-| rites | n. | 仪式 |
-| satan | n. | 撒旦；魔鬼 |
-| tarot | n. | 塔罗纸牌 |
-| anoint | vt. | 给…涂油；用油擦；抹油使神圣化 |
-| Apollo | n. | 阿波罗；太阳神；太阳；美男子 |
-| censer | n. | 香炉 |
-| curate | n. | 助理牧师；副牧师 |
-| deacon | n. | 执事；助祭 |
-| deific | adj. | 予以神化的；神圣的；奉为神的 |
-| devout | adj. | 虔诚的；衷心的 |
-| dharma | n. | 达摩；法则 |
-| DIABLO | — | 暗黑破坏神；恐惧 |
-| divine | adj. | 神圣的；非凡的；天赐的；极好的 |
-| Elijah | n. | 以利亚 |
-| Elohim | n. | 上帝；神 |
-| fetish | n. | 迷信；偶像；恋物 |
-| fiesta | n. | 圣日，宗教节日；假日；祭典 |
-| goblin | n. | 小妖精，丑妖精 |
-| hallow | vt. | 使…神圣；把…视为神圣 |
-| heaven | n. | 天堂；天空；极乐 |
-| Isaiah | n. | 以赛亚书；希伯来的大预言家 |
-| kosher | adj. | 犹太教所规定允许的；合适的 |
-| mantra | n. | 颂歌；咒语 |
-| occult | adj. | 玄奥的；神秘的；隐秘的 |
-| ordain | vt. | 任命某人为牧师；授某人以圣职；命令；注定 |
-| parish | n. | 教区；郡以下的地方行政区 |
-| pastor | n. | 牧师 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **pious** <span class="wpos">adj.</span> | 虔诚的, 信神的; 虚伪的, 伪善的; 不可能实现的 |
+| **psalm** <span class="wpos">n.</span> | 赞美诗,圣诗,圣歌; 《诗篇》 |
+| **Purim** <span class="wpos">n.</span> | 普林节 |
+| **rites** <span class="wpos">n.</span> | 仪式 |
+| **satan** <span class="wpos">n.</span> | 撒旦；魔鬼 Satann. 撒旦,魔鬼 |
+| **tarot** <span class="wpos">n.</span> | 塔罗纸牌 |
+| **anoint** <span class="wpos">vt.</span> | 给…涂油；用油擦；抹油使神圣化 |
+| **Apollo** <span class="wpos">n.</span> | 阿波罗；太阳神;太阳; 美男子 |
+| **censer** <span class="wpos">n.</span> | 香炉 |
+| **curate** <span class="wpos">n.</span> | 助理牧师；副牧师 |
+| **deacon** <span class="wpos">n.</span> | 执事；助祭; 朗读；搞欺骗 |
+| **deific** <span class="wpos">adj.</span> | 予以神化的；神圣的；奉为神的 |
+| **devout** <span class="wpos">adj.</span> | 虔诚的；衷心的 |
+| **dharma** <span class="wpos">n.</span> | 达摩；法则 |
+| **DIABLO** | 暗黑破坏神，一个著名游戏的名称，又称恐惧 |
+| **divine** <span class="wpos">adj.</span> | 神圣的；非凡的；天赐的；极好的; 占卜；预言；用占卜勘探; 占卜；预言；使用占卜勘探矿; 牧师；神学… |
+| **Elijah** <span class="wpos">n.</span> | 以利亚 |
+| **Elohim** <span class="wpos">n.</span> | 上帝；神 |
+| **fetish** <span class="wpos">n.</span> | 迷信；偶像；恋物 |
+| **fiesta** <span class="wpos">n.</span> | 圣日，宗教节日；假日；祭典 |
+| **goblin** <span class="wpos">n.</span> | 小妖精,丑妖精 |
+| **hallow** <span class="wpos">vt.</span> | 使...神圣；把…视为神圣; 圣徒 |
+| **heaven** <span class="wpos">n.</span> | 天堂；天空；极乐 |
+| **Isaiah** <span class="wpos">n.</span> | 以赛亚书 男人名,希伯来的大预言家 |
+| **kosher** <span class="wpos">adj.</span> | 犹太教所规定允许的,合适的; 使合适 |
+| **mantra** <span class="wpos">n.</span> | 颂歌；咒语 |
+| **occult** <span class="wpos">adj.</span> | 玄奥的；神秘的；隐秘的，秘密的; 超自然的；有魔力的; 隐藏地；不公开地；难以理解地; 秘密；玄妙 |
+| **ordain** <span class="wpos">vt.</span> | 任命某人为牧师；授某人以圣职；命令；注定; 颁布命令 |
+| **parish** <span class="wpos">n.</span> | 教区; 郡以下的地方行政区; 知识领域, 职权范围, 工作区域 |
+| **pastor** <span class="wpos">n.</span> | 牧师; 作……的牧师 |
+:::
+:::
+::::
 
 ### Shadows of the Sacred: From **Temple** to **Zodiac**
 
+:::: {.columns}
+::: {.column width="57%"}
 In the oldest cities, a **priest** would climb the steps of the **temple** at dawn, where the scent of incense rose toward ceilings painted with every sign of the **zodiac**. The **sacred** space was not merely stone; it was a threshold between the mortal and the divine. Painted **cherubs** hovered above the altar, and on certain feast days the congregation would gather to hear a **sermon** delivered from the **pulpit**, its timber worn smooth by generations of gripping hands. Before the **ritual** began, **devotee**s spent the previous night **fasting**, seeking purity before they **invoked** the name of their god. An **Aaronic** blessing would then be chanted — words tracing their lineage back to the first **apostle**s who carried the faith beyond their homeland.
 
 Yet belief rarely travels without fracture. A **schism** tore the community in two when a **gnostic** teacher arrived, whispering that hidden knowledge — not public ceremony — was the only path to truth. The elders declared him a **heretic**, but his followers multiplied. Among them was an **ascetic** who survived on dried figs and water, and an **acolyte** who had once dreamed of becoming a **messiah** figure himself. The conflict played out with the quiet menace of **alchemy**: doctrines transformed, base arguments transmuted into creeds. **Judaism**, Christianity, and older mystery traditions all left traces in the dispute, each side claiming its own lineage of **martyrs** who had died rather than **repent**.
 
 It was a wandering **masonic** lodge that finally offered neutral ground. In their hall, old grievances were set aside long enough for both factions to attend the **funeral** of the community's founder together. Standing at the graveside, the surviving priest allowed himself to be **bewitched** — not by magic, but by grief and the strange beauty of shared loss. He opened the **Psalms** to a passage about redemption, his voice steadying as he read. Perhaps, he thought, the only way to **redeem** the community was not to win the argument but to **baptism**-wash the wound clean and begin again. Whether that was wisdom or wishful thinking, no one at the **shrine** that day could say.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| priest | n. | 牧师；神父；教士; 使成为神职人员；任命…为祭司 |
-| Psalms | n. | 圣经旧约中的诗篇 |
-| pulpit | n. | 讲道坛；高架操纵台；神职人员 |
-| redeem | vt. | 赎回；补偿；挽回；恢复；履行；兑换 |
-| repent | vi. | 忏悔；后悔; 后悔；对…感到后悔; 匍匐生根的；爬行的 |
-| ritual | n. | 仪式；惯例；礼制; 仪式的；礼节性的；例行的 |
-| sacred | adj. | 神圣的；庄严的；宗教的；神的 |
-| schism | n. | 教会分立,分裂 |
-| sermon | n. | 布道, 讲道, 说教; 讲道文章; 一大通教训 |
-| shrine | n. | 圣地；神殿；神龛；圣祠; 将…置于神龛内；把…奉为神圣 |
-| temple | n. | 庙宇；寺院；神殿；太阳穴 |
-| zodiac | n. | 黄道带，黄道十二宫; 黄道十二宫图 |
-| Aaronic | adj. | 亚伦的 |
-| acolyte | n. | 侍僧；助手 |
-| alchemy | n. | 点金术；魔力 |
-| apostle | n. | 使徒;十二个门徒之一;传道先驱者; 早期基督教的传教士 |
-| ascetic | adj. | 苦行的；禁欲主义的; 禁欲者；苦行者 |
-| baptism | n. | 洗礼；严峻考验 |
-| bewitch | vt. | 施魔法于，蛊惑；使着迷 |
-| cherubs | n. | 可爱的人；天真无邪的人；天使 |
-| devotee | n. | 爱好者；信徒 |
-| fasting | adj. | 禁食的; 禁食 |
-| funeral | n. | 葬礼；麻烦事; 丧葬的，出殡的 |
-| gnostic | adj. | 诺斯替教派的,诺斯替派教徒的; 诺斯替教徒 |
-| heretic | n. | 持异端者 |
-| invoked | v. | 叫唤 |
-| Judaism | n. | 犹太教 |
-| martyrs | n. | 烈士；殉道者; 使殉难 |
-| masonic | adj. | 共济会会员的 |
-| messiah | n. | 救星，解放者；弥赛亚; 救世主耶稣 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **priest** <span class="wpos">n.</span> | 牧师；神父；教士; 使成为神职人员；任命…为祭司 |
+| **Psalms** <span class="wpos">n.</span> | 圣经旧约中的诗篇 |
+| **pulpit** <span class="wpos">n.</span> | 讲道坛；高架操纵台；神职人员 |
+| **redeem** <span class="wpos">vt.</span> | 赎回；补偿；挽回；恢复；履行；兑换 |
+| **repent** <span class="wpos">vi.</span> | 忏悔；后悔; 后悔；对…感到后悔; 匍匐生根的；爬行的 |
+| **ritual** <span class="wpos">n.</span> | 仪式；惯例；礼制; 仪式的；礼节性的；例行的 |
+| **sacred** <span class="wpos">adj.</span> | 神圣的；庄严的；宗教的；神的 |
+| **schism** <span class="wpos">n.</span> | 教会分立,分裂 |
+| **sermon** <span class="wpos">n.</span> | 布道, 讲道, 说教; 讲道文章; 一大通教训 |
+| **shrine** <span class="wpos">n.</span> | 圣地；神殿；神龛；圣祠; 将…置于神龛内；把…奉为神圣 |
+| **temple** <span class="wpos">n.</span> | 庙宇；寺院；神殿；太阳穴 Temple坦普尔 |
+| **zodiac** <span class="wpos">n.</span> | 黄道带，黄道十二宫; 黄道十二宫图 Zodiac左迪阿克铜镍锌合金；黄道带 |
+| **Aaronic** <span class="wpos">adj.</span> | 亚伦的 |
+| **acolyte** <span class="wpos">n.</span> | 侍僧；助手 |
+| **alchemy** <span class="wpos">n.</span> | 点金术；魔力 |
+| **apostle** <span class="wpos">n.</span> | 使徒;十二个门徒之一;传道先驱者; 早期基督教的传教士; 倡导者; 摩门教教会的十二个行政执事之一 |
+| **ascetic** <span class="wpos">adj.</span> | 苦行的；禁欲主义的; 禁欲者；苦行者 |
+| **baptism** <span class="wpos">n.</span> | 洗礼；严峻考验 |
+| **bewitch** <span class="wpos">vt.</span> | 施魔法于，蛊惑；使着迷 |
+| **cherubs** <span class="wpos">n.</span> | 可爱的人；天真无邪的人；天使 |
+| **devotee** <span class="wpos">n.</span> | 爱好者；信徒 |
+| **fasting** <span class="wpos">adj.</span> | 禁食的; 禁食 |
+| **funeral** <span class="wpos">n.</span> | 葬礼；麻烦事; 丧葬的，出殡的 |
+| **gnostic** <span class="wpos">adj.</span> | 诺斯替教派的,诺斯替派教徒的; 诺斯替教徒 |
+| **heretic** <span class="wpos">n.</span> | 持异端者 |
+| **invoked** <span class="wpos">v.</span> | 叫唤 |
+| **Judaism** <span class="wpos">n.</span> | 犹太教 |
+| **martyrs** <span class="wpos">n.</span> | 烈士；殉道者; 使殉难 |
+| **masonic** <span class="wpos">adj.</span> | 共济会会员的 |
+| **messiah** <span class="wpos">n.</span> | 救星，解放者；弥赛亚 Messiahn. 弥赛亚; 救世主耶稣; 救星,解放者 |
+:::
+:::
+::::
 
 ### The Seeker Who Crossed Every Threshold
 
+:::: {.columns}
+::: {.column width="57%"}
 In the ancient temple district, where the smell of incense never quite left the stone, a young scholar arrived carrying only a water-skin and the **Biblical** texts his mother had pressed into his hands at parting. He had been **baptized** as an infant in a village so small it had no name on any map, **christened** with the name **Emmanuel** — *God with us* — though by now he doubted whether any god was with anyone at all. His tutors back home would have called him an **apostate**, a word that landed like a stone in still water; his own heart preferred the quieter label of **agnostic**. He simply did not know.
 
 The first temple he entered was consecrated to **Mithras**, the bull-slaying god of soldiers and oaths. A fresco showed the deity surrounded by a **trinity** of torchbearers, their faces worn to soft smears by centuries of lamp-smoke. The **cardinal** directions were marked in red ochre on the floor. A lone **celibate** priest — bound by vow to neither wife nor wine — sat in the inner **sanctum**, copying the book of **Numbers** by hand onto stretched hide. The scholar watched the priest's steady fingers and felt, briefly, the appeal of a life so narrowed that every choice had already been made.
@@ -157,139 +171,151 @@ That evening a wandering teacher — one of those itinerant figures the locals h
 Later a **spectre** of doubt moved through him — the old kind, the kind that **nemesis** sends not as punishment but as education. He had seen a bishop propose to **canonize** a local healer; he had watched an **Epiphany** procession in which children carried candles through fog, their faces ghostly as **phantoms**; he had sat beside a man who claimed a shaman had **exorcised** a grief from his chest the way one removes a splinter. The world, he decided, was not waiting to be classified. It was **Proteus** — slipping through every grip, wearing every shape, refusing to hold still long enough to be pinned. The right response was not certainty. The right response was to **enshrine** the question itself, to carry it carefully, the way one carries a flame.
 
 He slept under the portico and dreamed of the **phoenix** again.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| Mithras | n. | 密特拉神 |
-| nemesis | n. | 报应；给与惩罚的人；天罚 |
-| nirvana | n. | 生命之火的熄灭；天堂；极乐世界 |
-| Numbers | n. | 民数记 |
-| phantom | n. | 幽灵；幻影；虚位 |
-| phoenix | n. | 凤凰；长生鸟 |
-| profane | adj. | 不敬的；渎神的；世俗的 |
-| Proteus | n. | 希腊海神；多变的人 |
-| samadhi | n. | 等持；定；三昧 |
-| sanctum | n. | 圣所；私室 |
-| Satanic | adj. | 邪恶的；魔鬼的 |
-| secular | adj. | 世俗的；长期的；现世的 |
-| specter | n. | 鬼怪；幽灵；缠绕心头的恐惧 |
-| spectre | n. | 幽灵；妖怪；鬼性 |
-| trinity | n. | 三人小组；三件一套；三合一 |
-| agnostic | n. | 不可知论者 |
-| apostate | adj. | 脱党的；变节的；背教的 |
-| apostles | n. | 传道者；倡导者；使徒 |
-| baptized | adj. | 受洗礼的 |
-| Biblical | adj. | 《圣经》的；《圣经》中的 |
-| canonize | vt. | 使加入圣徒之列；褒扬；封为圣徒 |
-| cardinal | adj. | 主要的；基本的；深红色的 |
-| celibate | n. | 独身者；独身的；禁欲的 |
-| cemetery | n. | 墓地；公墓 |
-| christen | vt. | 在洗礼时为命名 |
-| Emmanuel | n. | 以马内利；伊曼纽尔 |
-| enshrine | vt. | 把…置于神龛内；奉为神圣；珍藏 |
-| Epiphany | n. | 主显节；显现 |
-| exorcise | vt. | 驱邪；除怪 |
-| gentiles | n. | 外邦人；异教徒；非犹太人 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **Mithras** <span class="wpos">n.</span> | 密特拉神 |
+| **nemesis** <span class="wpos">n.</span> | 报应；给与惩罚的人；天罚 Nemesisn. 报应,复仇女神 |
+| **nirvana** <span class="wpos">n.</span> | 生命之火的熄灭; 天堂;极乐世界 |
+| **Numbers** <span class="wpos">n.</span> | 民数记 |
+| **phantom** <span class="wpos">n.</span> | 幽灵；幻影；虚位; 幻觉的；幽灵的；有名无实的 |
+| **phoenix** <span class="wpos">n.</span> | 凤凰；长生鸟 Phoenix菲尼克斯 |
+| **profane** <span class="wpos">adj.</span> | 不敬的,渎神的,好咒骂的; 亵渎的,不圣洁的; 世俗的,非宗教的; 不敬; 亵渎,玷污 |
+| **Proteus** <span class="wpos">n.</span> | 希腊海神,多变的人 |
+| **samadhi** <span class="wpos">n.</span> | 等持,定,三昧 |
+| **sanctum** <span class="wpos">n.</span> | 圣所; 私室 |
+| **Satanic** <span class="wpos">adj.</span> | 邪恶的；魔鬼的 satanicadj. 似撒旦的，魔鬼的; 邪恶的；罪恶的 |
+| **secular** <span class="wpos">adj.</span> | 世俗的；长期的；现世的；不朽的 修道院外的教士， 俗人 |
+| **specter** <span class="wpos">n.</span> | 鬼怪,幽灵; 缠绕心头的恐惧,凶兆 |
+| **spectre** <span class="wpos">n.</span> | 幽灵；妖怪；鬼性 |
+| **trinity** <span class="wpos">n.</span> | 三人小组；三件一套；三合一; 三，三倍 |
+| **agnostic** <span class="wpos">n.</span> | 不可知论者; 不可知论的 |
+| **apostate** <span class="wpos">adj.</span> | 脱党的；变节的；背教的; 脱党者；变节者；叛教者 |
+| **apostles** <span class="wpos">n.</span> | 传道者；倡导者；使徒 |
+| **baptized** <span class="wpos">adj.</span> | 受洗礼的; 施洗礼；使经受考验；给…名称 |
+| **Biblical** <span class="wpos">adj.</span> | 《圣经》的;《圣经》中的; 按照《圣经》的;恪守《圣经》的; 似《圣经》的 |
+| **canonize** <span class="wpos">vt.</span> | 使加入圣徒之列；褒扬；将…封为圣徒；推崇 |
+| **cardinal** <span class="wpos">adj.</span> | 主要的，基本的；深红色的; 红衣主教；枢机主教；鲜红色 |
+| **celibate** <span class="wpos">n.</span> | 独身者; 独身的；禁欲的 |
+| **cemetery** <span class="wpos">n.</span> | 墓地；公墓 |
+| **christen** <span class="wpos">vt.</span> | 在洗礼时为命名 |
+| **Emmanuel** <span class="wpos">n.</span> | 以马内利；伊曼纽尔 |
+| **enshrine** <span class="wpos">vt.</span> | 把…置于神龛内；把…奉为神圣；铭记，珍藏 |
+| **Epiphany** <span class="wpos">n.</span> | 主显节；显现 |
+| **exorcise** <span class="wpos">vt.</span> | 驱邪；除怪 |
+| **gentiles** <span class="wpos">n.</span> | 外邦人；异教徒；非犹太人 |
+:::
+:::
+::::
 
 ### A Flame Kept Burning — Across Temples, Heresies, and Dreams
 
+:::: {.columns}
+::: {.column width="57%"}
 In a **lamasery** tucked high in the frost-bitten peaks, the monks rose before dawn to chant verses from **Proverbs** — words they believed could **sanctify** the ordinary act of breathing. The head lama, a figure of quiet **sanctity**, moved through the **hieratic** rituals with hands so steady they seemed carved from the mountain itself. Pilgrims who made the climb spoke of reaching a kind of **paradise** — not the gilded afterlife promised elsewhere, but a stillness in the chest that felt **hallowed**, as though the air itself had been set apart.
 
 Down in the valley, the story grew more tangled. A **Lutheran** minister and a wandering **alchemist** argued by firelight: the minister insisted that **atonement** was the axis on which all meaning turned, quoting **Immanuel** as proof that the divine had once walked in dust and sweat; the alchemist countered with **solarism**, tracing every savior myth back to the arc of the sun. A young **ordinand** listened from the shadows, uncertain which tradition he was preparing to serve. Nearby, a woman who could **soothsay** unrolled a star chart — her **astrology** was dismissed as superstition by the **apostolic** elder, who muttered warnings about **idolatry** and the **heresies** that rot a congregation from within. Yet the elder himself kept, locked in his trunk, a forbidden **theogony** — a **reverend** old manuscript tracing the births and wars of gods far older than his own.
 
 Night deepened, and the **Arthurian** tapestry on the wall stirred in the draft: **unicorns** rearing beside a wounded king, **immortal** knights who refused to fall. Someone whispered that the hall was cursed — that **succubae** and the lone **succubus** who led them rose from **Tartarus** to feed on faith that had grown vain. **Augustine** had warned against exactly this: the soul that mistakes its own hunger for **prophecy**, that calls private longing an **apostolic** vision. But the night was long, and every **atheistic** doubt dissolved a little in the firelight — leaving only the oldest question, unanswerable and unextinguished, floating above the embers like smoke.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| hallowed | adj. | 神圣的 |
-| heresies | n. | 异教；异端邪说 |
-| hieratic | adj. | 僧侣的,僧侣用的 |
-| idolatry | n. | 偶像崇拜；盲目崇拜；邪神崇拜 |
-| Immanuel | n. | 以马利 |
-| immortal | adj. | 长生的；不朽的；神仙的; 不朽人物；神仙 |
-| lamasery | n. | 喇嘛庙 |
-| Lutheran | adj. | 路德教会的; 路德教会 |
-| ordinand | n. | 圣职候选人 |
-| paradise | n. | 天堂 |
-| Passover | n. | 逾越节,逾越节祭神的羔羊 |
-| prophecy | n. | 预言；预言能力；预言书 |
-| Proverbs | n. | 箴言篇 |
-| reverend | adj. | 尊敬的，可敬的; 教士,牧师 |
-| sanctify | vt. | 使神圣化；把…奉献给神；使圣洁；认可 |
-| sanctity | n. | 圣洁；尊严；神圣不可侵犯性 |
-| solarism | n. | 太阳中心说；太阳神话论 |
-| soothsay | vi. | 预言 |
-| succubae | n. | 妖魔；女妖 |
-| succubus | n. | 女淫妖; 淫妇；娼妇；妓女 |
-| Tartarus | n. | 塔耳塔洛斯；地狱 |
-| theogony | n. | 神谱,神统系,记述神的史诗 |
-| unicorns | n. | 独角兽 |
-| alchemist | n. | 炼金术士 |
-| apostolic | adj. | 使徒的 |
-| Arthurian | adj. | 亚瑟王的 |
-| astrology | n. | 占星术 |
-| atheistic | adj. | 无神论的,无神论者的 |
-| atonement | n. | 弥补,补偿；赎罪; 调和,合而为一; 上帝与人的和好 |
-| Augustine | | 奥古斯丁 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **hallowed** <span class="wpos">adj.</span> | 神圣的 |
+| **heresies** <span class="wpos">n.</span> | 异教；异端邪说 |
+| **hieratic** <span class="wpos">adj.</span> | 僧侣的,僧侣用的 |
+| **idolatry** <span class="wpos">n.</span> | 偶像崇拜；盲目崇拜；邪神崇拜 |
+| **Immanuel** <span class="wpos">n.</span> | 以马利 |
+| **immortal** <span class="wpos">adj.</span> | 长生的；不朽的；神仙的; 不朽人物；神仙 |
+| **lamasery** <span class="wpos">n.</span> | 喇嘛庙 |
+| **Lutheran** <span class="wpos">adj.</span> | 路德教会的; 路德教会 |
+| **ordinand** <span class="wpos">n.</span> | 圣职候选人 |
+| **paradise** <span class="wpos">n.</span> | 天堂 |
+| **Passover** <span class="wpos">n.</span> | 逾越节,逾越节祭神的羔羊 |
+| **prophecy** <span class="wpos">n.</span> | 预言；预言能力；预言书 |
+| **Proverbs** <span class="wpos">n.</span> | 箴言篇 |
+| **reverend** <span class="wpos">adj.</span> | 尊敬的，可敬的; 教士,牧师 Reverendn. 牧师 |
+| **sanctify** <span class="wpos">vt.</span> | 使神圣化；把…奉献给神；使圣洁；认可 |
+| **sanctity** <span class="wpos">n.</span> | 圣洁；尊严；神圣不可侵犯性 |
+| **solarism** <span class="wpos">n.</span> | 太阳中心说；太阳神话论 |
+| **soothsay** <span class="wpos">vi.</span> | 预言 |
+| **succubae** <span class="wpos">n.</span> | 妖魔；女妖 |
+| **succubus** <span class="wpos">n.</span> | 女淫妖; 淫妇；娼妇；妓女 |
+| **Tartarus** <span class="wpos">n.</span> | 塔耳塔洛斯；地狱 |
+| **theogony** <span class="wpos">n.</span> | 神谱,神统系,记述神的史诗 |
+| **unicorns** <span class="wpos">n.</span> | 独角兽 |
+| **alchemist** <span class="wpos">n.</span> | 炼金术士 |
+| **apostolic** <span class="wpos">adj.</span> | 使徒的 |
+| **Arthurian** <span class="wpos">adj.</span> | 亚瑟王的 |
+| **astrology** <span class="wpos">n.</span> | 占星术 |
+| **atheistic** <span class="wpos">adj.</span> | 无神论的,无神论者的 |
+| **atonement** <span class="wpos">n.</span> | 弥补,补偿；赎罪; 调和,合而为一; 上帝与人的和好 |
+| **Augustine** | 奥古斯丁 |
+:::
+:::
+::::
 
 ### Shadows of the Sacred
 
+:::: {.columns}
+::: {.column width="57%"}
 In the great **cathedral** whose stones had stood since the first **Christian** missionaries arrived, a **Methodist** preacher once climbed the pulpit and declared that all rival traditions were **heretical** — words the **episcopal** council would later rule a **blasphemy** against the unity of the faith. The **canonical** texts, they insisted, left no room for such **Manichean** divisions between light and absolute darkness. Among the pews sat a quiet scholar of **Levitical** law, his worn copy of **Leviticus** open beside him, silently recounting how even the **Sadducees** of ancient Jerusalem had quarrelled over resurrection — the same hope that drove every **sacrament** performed in this very hall.
 
 Outside the cathedral walls, other seekers gathered in the shadow of a nearby **monastery**, trading **esoterica** that the church would sooner burn than canonise. An **occultist** versed in the lore of a **freemason** lodge murmured to his companion about **Kundalini** energy rising through the spine — a path to inner **salvation** he preferred to any **purgatory** of prescribed ritual. The companion, a woman of **confucian** disposition who had studied the sayings of **Confucius** in Nanjing before sailing west, listened without judgment; she had long grown accustomed to the **recusancy** of those who refused the **synagogue** and the nave alike, choosing instead the unmarked **sanctuary** of wild hills at dawn. Somewhere beneath the roots of that hill, legend promised, lay **Excalibur**, a sword whose power was beyond **the devil** himself to corrupt — though the **occultism** peddled around its myth had long since consigned several true believers to **perdition**.
 
 Only the old woman in the corner went on whispering the **Hail Mary**, her lips moving in their familiar rhythm, trusting that something — however named, however carved in stone or legend — would, in its own hour, **resurrect** the world.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| blasphemy | n. | 对上帝的亵渎，亵渎的言词〔行为〕；侮慢的言词 |
-| canonical | adj. | 按照教规的；见于《圣经》正经篇目的；权威的，公认的；大教堂教士的，牧师的 |
-| cathedral | n. | 总教堂，大教堂 |
-| Christian | n. | 基督教徒；信基督教的；基督教的；基督教徒的 |
-| confucian | adj. | 孔子的，儒家的；儒学的；孔子信徒 |
-| Confucius | n. | 孔子 |
-| episcopal | adj. | 主教的，主教制度的，英国国教的 |
-| esoterica | n. | 秘事；秘籍；秘教；秘传 |
-| Excalibur | n. | 亚瑟王的神剑 |
-| freemason | n. | 互济会会员 |
-| Hail Mary | n. | 〈天主教〉万福马利亚 |
-| heretical | adj. | 异教的；异端的 |
-| Kundalini | n. | 生命力 |
-| Levitical | adj. | 利未族的，利未记的 |
-| Leviticus | n. | 《利未记》 |
-| Manichean | n. | 摩尼教；摩尼教的，摩尼教徒的 |
-| Methodist | n. | 强调方法的人；卫理公会教徒 |
-| monastery | n. | 修道院 |
-| occultism | n. | 神秘主义，神秘学，神秘论 |
-| occultist | n. | 神秘学者，术士 |
-| perdition | n. | 毁灭 |
-| purgatory | n. | 炼狱，涤罪；暂时受苦的地方，暂时的苦难 |
-| recusancy | n. | 不服从，不服国教 |
-| resurrect | vt. | 使复活；使复苏；使再活跃；复活；复苏 |
-| sacrament | n. | 圣事，圣礼；神圣的东西；庄严的誓言 |
-| Sadducees | | （古代犹太教一派，不信复活） |
-| salvation | n. | 拯救；避免损失、躲避灾难等的途径或方法 |
-| sanctuary | n. | 圣所，圣地；圣堂；庇护所；庇护，庇护权；禁猎区 |
-| synagogue | n. | 犹太人集会；犹太教会堂 |
-| the devil | | 魔王，恶魔 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **blasphemy** <span class="wpos">n.</span> | 对上帝的亵渎,亵渎的言词〔行为〕; 侮慢的言词 |
+| **canonical** <span class="wpos">adj.</span> | 按照教规的; 见于《圣经》正经篇目的; 权威的,公认的; 大教堂教士的,牧师的; 教士礼拜时穿的法衣 |
+| **cathedral** <span class="wpos">n.</span> | 总教堂, 大教堂 |
+| **Christian** <span class="wpos">n.</span> | 基督教徒; 信基督教的; 基督教的; 基督教徒的 |
+| **confucian** <span class="wpos">adj.</span> | 孔子的，儒家的；儒学的 孔子信徒 |
+| **Confucius** <span class="wpos">n.</span> | 孔子 |
+| **episcopal** <span class="wpos">adj.</span> | 主教的,主教制度的,英国国教的 |
+| **esoterica** <span class="wpos">n.</span> | 秘事;秘籍;秘教;秘传 |
+| **Excalibur** <span class="wpos">n.</span> | 亚瑟王的神剑 |
+| **freemason** <span class="wpos">n.</span> | 互济会会员 |
+| **Hail Mary** <span class="wpos">n.</span> | 〈天主教〉万福马利亚 |
+| **heretical** <span class="wpos">adj.</span> | 异教的;异端的 |
+| **Kundalini** <span class="wpos">n.</span> | 生命力 |
+| **Levitical** <span class="wpos">adj.</span> | 利未族的,利未记的 |
+| **Leviticus** <span class="wpos">n.</span> | 《利未记》 |
+| **Manichean** <span class="wpos">n.</span> | 摩尼教; 摩尼教的,摩尼教徒的 |
+| **Methodist** <span class="wpos">n.</span> | 强调方法的人；卫理公会教徒 |
+| **monastery** <span class="wpos">n.</span> | 修道院 |
+| **occultism** <span class="wpos">n.</span> | 神秘主义,神秘学,神秘论 |
+| **occultist** <span class="wpos">n.</span> | 神秘学者,术士 |
+| **perdition** <span class="wpos">n.</span> | 毁灭 |
+| **purgatory** <span class="wpos">n.</span> | 炼狱, 涤罪; 暂时受苦的地方, 暂时的苦难; 净化的, 清洗的 |
+| **recusancy** <span class="wpos">n.</span> | 不服从,不服国教 |
+| **resurrect** <span class="wpos">vt.</span> | 使复活；使复苏; 使再活跃；使再流行; 挖出; 复活；复苏 |
+| **sacrament** <span class="wpos">n.</span> | 圣事,圣礼; 神圣的东西; 庄严的誓言 |
+| **Sadducees** |  |
+| **salvation** <span class="wpos">n.</span> | 拯救; 避免损失、躲避灾难等的途径或方法 |
+| **sanctuary** <span class="wpos">n.</span> | 圣所, 圣地; 圣堂; 庇护所; 庇护, 庇护权; 避难所; 禁猎区, 鸟兽类保护区 |
+| **synagogue** <span class="wpos">n.</span> | 犹太人集会；犹太教会堂 |
+| **the devil** | 魔王，恶魔 |
+:::
+:::
+::::
 
 ### Between the Living and the Gone
 
+:::: {.columns}
+::: {.column width="57%"}
 At the edge of the village, beneath a yew older than memory, stood a weathered **tombstone** carved with a single candle flame — the emblem of a local **Unitarian** congregation that had quietly practiced its faith for two centuries. Tradition held that the flame was lit by **Zoroaster** himself, a legend almost certainly **apocryphal**, yet repeated with the solemn warmth of something believed.
 
 Every autumn, on **Michaelmas**, the priest would lead a procession past the stone to the chapel, where the **liturgical** chant of the **Benedictus** rose into the rafters. The rite was ancient: incense, candle-wax, and the low drone of the **evangelical** choir. Somewhere in the archive, a manuscript described a **coronation** of abbots performed on this same ground — a **consecrated** hill where **immolation** of grain and oil had once sealed a covenant between the community and whatever force governed rain and harvest. A **Melchizedek** figure, priest-king and stranger, was said to have presided. Whether that story was scripture or **soothsaying** no scholar had settled.
@@ -299,49 +325,51 @@ Inside the chapel, a lay **evangelist** taught a class on **monotheism**, tracin
 When the rector took the podium to **pontificate** on the end of days — drawing on **apocalyptic** texts with the confidence of someone who had read them all — his **benediction** rolled through the hall like low thunder. Outside, the sky had turned that particular violet that always made people reach for **apocalypse** as the only word large enough. The stained glass cast broken light across the floor. **Providence**, someone whispered, though no one was sure what they meant by it. The **crucifixion** panel glowed deepest red. The **deliverance** panel, pale gold.
 
 In the courtyard afterward, two children traced the letters on the old **tombstone** with their fingers, sounding out a name nobody living could now remember.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| tombstone | n. | 墓碑 |
-| Unitarian | n. | 唯一神论者;一位论派教会成员;否认三位一体的基督教教徒;上帝一位论派教徒; 一位论派的;一位论教义的 |
-| Zoroaster | | 拜火教的创始人 |
-| apocalypse | n. | 启示, 天启 |
-| apocryphal | adj. | 真实性可疑的; 伪造的,杜撰的; 作者不明的; 次经的；新约外传的 |
-| asceticism | n. | 禁欲主义;苦行主义;苦行生活 |
-| Benedictus | n. | 短赞美诗 |
-| coronation | n. | 加冕礼 |
-| evangelist | n. | 圣经新约福音书的作者,福音传道者 |
-| immolation | n. | 祭物，供奉牲礼；宰杀，祭品 |
-| liturgical | adj. | 礼拜仪式的 |
-| Michaelmas | n. | 米迦勒节 |
-| monotheism | n. | 一神论,一神教 |
-| priesthood | n. | 牧师〔教士、神父、司铎〕的职位；司祭品; 全体教士，全体神职人员；司祭团 |
-| Protestant | adj. | 新教徒的；表示不服的 新教徒；抗议者 |
-| providence | n. | 天道，天意; 远见；卓识; 玩命；冒险 Providence普罗维登斯 |
-| redemption | n. | 赎回;补救;兑现 |
-| tabernacle | n. | 临时房屋；帐篷；神龛; 把…置于神龛中; 暂居；暂附肉体 |
-| veneration | n. | 尊敬；崇拜 |
-| apocalyptic | adj. | 预言将来的大灾难的; 世界末日的; 启示性的，预示性的 |
-| benediction | n. | 祝福; 赐福祈祷; 祈求上帝赐福的仪式; 恩赐;幸事 |
-| consecrated | adj. | 神圣的,被视为神圣的 |
-| crucifixion | n. | 苦难；刑罚 |
-| deliverance | n. | 解救;解脱 |
-| evangelical | n. | 信福音主义者;福音; 新教会的 |
-| Melchizedek | | 麦基冼德 |
-| pontificate | n. | 教皇的职位,主教的地位; 装作教皇的说话 |
-| reincarnate | vt. | 赋予新形体,使转世化身; 转世化身的 |
-| scientology | n. | 信仰疗法;基督教科学派 |
-| soothsaying | n. | 占卜,预言 |
-
 :::
-
-The last entry `"with  Love  Divine.\""` appears to be a fragment/artifact rather than a real vocabulary word. I will treat it as a closing hymn phrase woven into the prose, and list it in the table as-is to satisfy the iron rule of including every entry from the file.
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **tombstone** <span class="wpos">n.</span> | 墓碑 |
+| **Unitarian** <span class="wpos">n.</span> | 唯一神论者;一位论派教会成员;否认三位一体的基督教教徒;上帝一位论派教徒; 一位论派的;一位论教义的 |
+| **Zoroaster** | 拜火教的创始人 |
+| **apocalypse** <span class="wpos">n.</span> | 启示, 天启 |
+| **apocryphal** <span class="wpos">adj.</span> | 真实性可疑的; 伪造的,杜撰的; 作者不明的; 次经的；新约外传的 |
+| **asceticism** <span class="wpos">n.</span> | 禁欲主义;苦行主义;苦行生活 |
+| **Benedictus** <span class="wpos">n.</span> | 短赞美诗 |
+| **coronation** <span class="wpos">n.</span> | 加冕礼 |
+| **evangelist** <span class="wpos">n.</span> | 圣经新约福音书的作者,福音传道者 |
+| **immolation** <span class="wpos">n.</span> | 祭物，供奉牲礼；宰杀，祭品 |
+| **liturgical** <span class="wpos">adj.</span> | 礼拜仪式的 |
+| **Michaelmas** <span class="wpos">n.</span> | 米迦勒节 |
+| **monotheism** <span class="wpos">n.</span> | 一神论,一神教 |
+| **priesthood** <span class="wpos">n.</span> | 牧师〔教士、神父、司铎〕的职位；司祭品; 全体教士，全体神职人员；司祭团 |
+| **Protestant** <span class="wpos">adj.</span> | 新教徒的；表示不服的 新教徒；抗议者 |
+| **providence** <span class="wpos">n.</span> | 天道，天意; 远见；卓识; 玩命；冒险 Providence普罗维登斯 |
+| **redemption** <span class="wpos">n.</span> | 赎回;补救;兑现 |
+| **tabernacle** <span class="wpos">n.</span> | 临时房屋；帐篷；神龛; 把…置于神龛中; 暂居；暂附肉体 |
+| **veneration** <span class="wpos">n.</span> | 尊敬；崇拜 |
+| **apocalyptic** <span class="wpos">adj.</span> | 预言将来的大灾难的; 世界末日的; 启示性的，预示性的 |
+| **benediction** <span class="wpos">n.</span> | 祝福; 赐福祈祷; 祈求上帝赐福的仪式; 恩赐;幸事 |
+| **consecrated** <span class="wpos">adj.</span> | 神圣的,被视为神圣的 |
+| **crucifixion** <span class="wpos">n.</span> | 苦难；刑罚 |
+| **deliverance** <span class="wpos">n.</span> | 解救;解脱 |
+| **evangelical** <span class="wpos">n.</span> | 信福音主义者;福音; 新教会的 |
+| **Melchizedek** | 麦基冼德 |
+| **pontificate** <span class="wpos">n.</span> | 教皇的职位,主教的地位; 装作教皇的说话 |
+| **reincarnate** <span class="wpos">vt.</span> | 赋予新形体,使转世化身; 转世化身的 |
+| **scientology** <span class="wpos">n.</span> | 信仰疗法;基督教科学派 |
+| **soothsaying** <span class="wpos">n.</span> | 占卜,预言 |
+:::
+:::
+::::
 
 ### A Scholar's Vigil at the Edge of the Sacred
 
+:::: {.columns}
+::: {.column width="57%"}
 In the high-vaulted library of an old seminary, Brother Edmund sat hunched over texts that spanned every **ecclesiastical** tradition he could name. His dissertation was a **theological** survey of how ancient peoples moved from polytheism toward **monotheistic** faith — a journey mapped not through the **crystal ball** of prophecy but through patient reading. He belonged to no single **denomination**, though he had been raised **Episcopalian** and still felt the quiet pull of that ordered liturgy. On the shelf beside him stood a jar of **frankincense**, its resin scenting the cold air and carrying his thoughts toward something older than argument.
 
 Downstairs, the Sunday **congregation** gathered under the ministry of a visiting **televangelist** whose flair for **evangelicalism** made the older deacons uneasy. The man's theology leaned hard **Trinitarian**, invoking the threefold name at every turn, and rumor held that his predecessor had been threatened with **excommunicate**d status after feuding with the bishop. Edmund found such spectacle tiresome. He preferred the quieter logic of **transcendentalism**, the **transcendentalist** conviction that the divine shone directly through conscience and nature — no mediator required. He kept a dog-eared copy of the **Song of Solomon** open on the lectern, its aching imagery far more alive to him than any broadcast sermon.
@@ -349,33 +377,35 @@ Downstairs, the Sunday **congregation** gathered under the ministry of a visitin
 Outside, a procession marked the feast of **resurrection**, candles tracing a slow orbit around the churchyard. Edmund watched from his window and thought about **transmigration** — how certain Eastern traditions imagined the soul cycling through lives the way seasons cycle through a year, each existence a step toward something **paradisiacal**. Against such vast cosmologies, the West's fear of **superstition** could look like a failure of imagination. Yet he also understood **enshrinement**: the human need to fix a sacred thing in stone and ritual, to make the ineffable endure. He recalled a mosaic of **Pontius Pilate** in a Ravenna chapel — the governor's hands forever mid-wash, guilt crystallized into gold tessera.
 
 He returned to his notes. The modern church still wrestled with questions that **theological** councils had debated for centuries, questions no **crystal ball** could settle: how belief travels, what it costs to belong, and whether grace could survive **transmigration** from one age's language into the next. From somewhere below, a choir rose through the floorboards — a hymn that closed, as he knew it would, *with Love Divine.*
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| theological | adj. | 神学的；神学上的; 研究神学的 |
-| Trinitarian | adj. | 三位一体的,三位一体说的,信仰三位一体的; 信仰三位一体教理的人 |
-| congregation | n. | 人群;会众 |
-| crystal ball | | 水晶球；预言未来的方法 |
-| denomination | n. | 宗派, 教派; 面额, 单位; 名称, 种类名, 名目 |
-| enshrinement | n. | 奉祀庙中,秘藏 |
-| episcopalian | adj. | 主教制度的,主教派的; 主教派的人,主教派会员,美国圣公会教徒 |
-| frankincense | n. | 乳香 |
-| monotheistic | adj. | 一神论的 |
-| paradisiacal | adj. | 天堂的,天堂似的,乐园的 |
-| resurrection | n. | 耶稣复活; 所有死者的复活; 恢复使用、活动等；重新流行; 复活的，复兴的; 盗尸者; 使复活者 |
-| superstition | n. | 迷信, 迷信行为 |
-| excommunicate | vt. | 开除…的教籍,把…逐出教会 |
-| televangelist | n. | 电视传道者 |
-| ecclesiastical | adj. | 基督教的;教会的; 基督教地;教会地 |
-| evangelicalism | n. | 福音派的教义,福音,教义的信仰 |
-| Pontius Pilate | | 彼拉多 |
-| transmigration | n. | 轮回 |
-| Song of Solomon | | 雅歌 |
-| transcendentalism | n. | 超验主义,先验论; 顿悟 |
-| transcendentalist | adj. | 先验论者的,超越论者的 |
-| with  Love  Divine." | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **theological** <span class="wpos">adj.</span> | 神学的；神学上的; 研究神学的 |
+| **Trinitarian** <span class="wpos">adj.</span> | 三位一体的,三位一体说的,信仰三位一体的; 信仰三位一体教理的人 |
+| **congregation** <span class="wpos">n.</span> | 人群;会众 |
+| **crystal ball** | 水晶球；预言未来的方法 |
+| **denomination** <span class="wpos">n.</span> | 宗派, 教派; 面额, 单位; 名称, 种类名, 名目 |
+| **enshrinement** <span class="wpos">n.</span> | 奉祀庙中,秘藏 |
+| **episcopalian** <span class="wpos">adj.</span> | 主教制度的,主教派的; 主教派的人,主教派会员,美国圣公会教徒 Episcopalianadj. 主… |
+| **frankincense** <span class="wpos">n.</span> | 乳香 |
+| **monotheistic** <span class="wpos">adj.</span> | 一神论的 |
+| **paradisiacal** <span class="wpos">adj.</span> | 天堂的,天堂似的,乐园的 |
+| **resurrection** <span class="wpos">n.</span> | 耶稣复活; 所有死者的复活; 恢复使用、活动等；重新流行; 复活的，复兴的; 盗尸者; 使复活者，使… |
+| **superstition** <span class="wpos">n.</span> | 迷信, 迷信行为 |
+| **excommunicate** <span class="wpos">vt.</span> | 开除…的教籍,把…逐出教会 |
+| **televangelist** <span class="wpos">n.</span> | 电视传道者 |
+| **ecclesiastical** <span class="wpos">adj.</span> | 基督教的;教会的; 基督教地;教会地 |
+| **evangelicalism** <span class="wpos">n.</span> | 福音派的教义,福音,教义的信仰 |
+| **Pontius Pilate** | 彼拉多 |
+| **transmigration** <span class="wpos">n.</span> | 轮回 |
+| **Song of Solomon** | 雅歌 |
+| **transcendentalism** <span class="wpos">n.</span> | 超验主义,先验论; 顿悟 |
+| **transcendentalist** <span class="wpos">adj.</span> | 先验论者的,超越论者的 |
+| **with  Love  Divine."** |  |
+:::
+:::
+::::

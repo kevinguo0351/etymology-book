@@ -2,104 +2,114 @@
 
 
 
-> 本主题共 13 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 13 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### 忙乱一日，情绪潮起潮落
 
+:::: {.columns}
+::: {.column width="57%"}
 The morning began without much **ado**: she made tea, wrapped herself in a **cozy** blanket, and tried to read. Yet a **gnawing** sense of unease had already taken hold. She couldn't quite name it — a low **funk**, a quiet **hyp** that pressed behind her eyes and refused to lift. She kept **fret**ting over the meeting she'd missed, the email she'd bungled, the small defeats that piled up like stones. That **edgy** feeling was familiar. So was the **doom** — the dim, wordless conviction that things were quietly, inevitably going wrong.
 
 By noon the **turmoil** had peaked. A colleague's offhand remark sent a flash of **fury** through her chest, hot and sudden as a slammed door. She didn't say anything — just let the **rage** bloom and then, with effort, begin to cool. She **damn**ed herself silently for caring so much. The **thwarted** ambition, the **envy** she'd tried to bury — it was all still there, patient and sharp. She felt a **jag** of something rawer: not quite grief, just the exhaustion of wanting. And beneath that, a **moan** no one heard, a slow leak of weariness she couldn't patch.
 
 Late afternoon light changed things. A friend texted something absurd, and she felt a **glee** so sudden it startled her — a **grin** spreading before she could stop it. She noticed her posture **perk** up, her shoulders drop. The day's weight hadn't vanished, but it had shifted. She stepped outside. The cold air began to **soothe** the last heat from her temples. She **pooh**-poohed the morning's catastrophising, told herself not to **fuss**, reached for whatever **vim** remained, and found — surprising herself — just enough to **cope**. She let the lingering **irk** and **ick**y residue of the afternoon **ease** away. Even the **lure** of lying down and catastrophising all over again lost its pull. She looked at the sky — grey, **grim**, but honest — and decided, for now, that was enough. What the **heck**.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| soothe | vt. | 安慰；使平静；缓和; 起抚慰作用 |
-| thwarted | adj. | 挫败的; 反对；挫败 |
-| turmoil | n. | 混乱 |
-| gnawing | adj. | 令人痛苦的；折磨人的; 咬；不断的苦痛; 咬；侵蚀 |
-| ado | n. | 无谓的忙乱, 无谓的纷扰,费力, 艰难; 毫不耽搁地；干脆地；立即 |
-| hyp | n. | 〈废〉忧郁,疑病; 使忧郁 |
-| irk | vt. | 使烦恼；使厌倦 |
-| jag | n. | 难以控制的一阵 |
-| vim | n. | 精力；活力；力量 |
-| cope | vi. | 处理；对付；竞争 长袍 |
-| cozy | adj. | 舒适的，惬意的 |
-| damn | vt. | 谴责；罚…下地狱; 谴责; 诅咒；一点; 可恶的; 非常; 讨厌 |
-| doom | vt. | 注定；判定; 厄运，劫数 |
-| ease | vt. | 减轻，缓和；使安心; 安逸，悠闲；轻松，舒适; 减轻，缓和；放松；灵活地移动 |
-| edgy | adj. | 不安的, 易激怒的 |
-| envy | n. | 羡慕；嫉妒，妒忌; 羡慕；嫉妒，妒忌; 感到妒忌；显示出妒忌 |
-| fret | vt. | 焦急；使磨损；使烦恼; 磨损；烦恼；焦急; 烦躁；焦急；磨损 |
-| funk | n. | 恐惧；怯懦；恐怖；臭味; 害怕；畏缩；使闻到臭味; 畏缩；惊恐；发出臭味 |
-| fury | n. | 狂怒；暴怒；激怒者 |
-| fuss | vi. | 小题大作；忙乱；焦燥；焦急；无事自扰; 大惊小怪，大惊小怪的人；小题大作；忙乱; 使烦恼，使烦忧 |
-| glee | n. | 快乐；欢欣；重唱歌曲 |
-| grim | adj. | 严酷的, 无情的; 讨厌的, 糟糕的; 严厉的 |
-| grin | v. | 露齿而笑，咧着嘴笑; 露齿笑 |
-| heck | int. | 只是为了好玩; 那又怎么样 |
-| icky | adj. | 黏得讨厌的,过分甜的,讨厌的; 令人作呕的人 |
-| lure | n. | 诱惑物；诱惑；饵; 引诱；诱惑 |
-| moan | vt. | 呻吟；悲叹; 抱怨; 呻吟声悲叹声；呼啸声; 抱怨 |
-| perk | vi. | 昂首；振作; 打扮；竖起；使振作; 小费；额外收入 |
-| pooh | vt. | 使疲倦; 呸 |
-| rage | n. | 愤怒；狂暴，肆虐；情绪激动; 大怒，发怒；流行，风行 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **soothe** <span class="wpos">vt.</span> | 安慰；使平静；缓和; 起抚慰作用 |
+| **thwarted** <span class="wpos">adj.</span> | 挫败的; 反对；挫败 |
+| **turmoil** <span class="wpos">n.</span> | 混乱 |
+| **gnawing** <span class="wpos">adj.</span> | 令人痛苦的；折磨人的; 咬；不断的苦痛; 咬；侵蚀 |
+| **ado** <span class="wpos">n.</span> | 无谓的忙乱, 无谓的纷扰,费力, 艰难; 毫不耽搁地；干脆地；立即 |
+| **hyp** <span class="wpos">n.</span> | 〈废〉忧郁,疑病; 使忧郁 |
+| **irk** <span class="wpos">vt.</span> | 使烦恼；使厌倦 |
+| **jag** <span class="wpos">n.</span> | 难以控制的一阵 |
+| **vim** <span class="wpos">n.</span> | 精力；活力；力量 |
+| **cope** <span class="wpos">vi.</span> | 处理；对付；竞争 长袍 |
+| **cozy** <span class="wpos">adj.</span> | 舒适的，惬意的 |
+| **damn** <span class="wpos">vt.</span> | 谴责；罚…下地狱; 谴责; 诅咒；一点; 可恶的; 非常; 讨厌 |
+| **doom** <span class="wpos">vt.</span> | 注定；判定; 厄运，劫数 |
+| **ease** <span class="wpos">vt.</span> | 减轻，缓和；使安心; 安逸，悠闲；轻松，舒适; 减轻，缓和；放松；灵活地移动 EASEabbr. E… |
+| **edgy** <span class="wpos">adj.</span> | 不安的, 易激怒的 |
+| **envy** <span class="wpos">n.</span> | 羡慕；嫉妒，妒忌; 羡慕；嫉妒，妒忌; 感到妒忌；显示出妒忌 |
+| **fret** <span class="wpos">vt.</span> | 焦急；使磨损；使烦恼; 磨损；烦恼；焦急; 烦躁；焦急；磨损 |
+| **funk** <span class="wpos">n.</span> | 恐惧；怯懦；恐怖；臭味; 害怕；畏缩；使闻到臭味; 畏缩；惊恐；发出臭味 Funk芬克 |
+| **fury** <span class="wpos">n.</span> | 狂怒；暴怒；激怒者 Furyn. 〈希神〉复仇女神 |
+| **fuss** <span class="wpos">vi.</span> | 小题大作；忙乱；焦燥；焦急；无事自扰; 大惊小怪，大惊小怪的人；小题大作；忙乱; 使烦恼，使烦忧 |
+| **glee** <span class="wpos">n.</span> | 快乐；欢欣；重唱歌曲 |
+| **grim** <span class="wpos">adj.</span> | 严酷的, 无情的; 讨厌的, 糟糕的; 严厉的 |
+| **grin** <span class="wpos">v.</span> | 露齿而笑，咧着嘴笑; 露齿笑 |
+| **heck** <span class="wpos">int.</span> | &amp; ; 只是为了好玩; 那又怎么样 |
+| **icky** <span class="wpos">adj.</span> | 黏得讨厌的,过分甜的,讨厌的; 令人作呕的人 |
+| **lure** <span class="wpos">n.</span> | 诱惑物；诱惑；饵; 引诱；诱惑 |
+| **moan** <span class="wpos">vt.</span> | &amp; 呻吟；悲叹; 抱怨; 呻吟声悲叹声；呼啸声; 抱怨 |
+| **perk** <span class="wpos">vi.</span> | 昂首；振作; 打扮；竖起；使振作; 小费；额外收入 |
+| **pooh** <span class="wpos">vt.</span> | 使疲倦; 呸 |
+| **rage** <span class="wpos">n.</span> | 愤怒；狂暴，肆虐；情绪激动; 大怒，发怒；流行，风行 |
+:::
+:::
+::::
 
 ### When the Storm Inside Finally Breaks
 
+:::: {.columns}
+::: {.column width="57%"}
 She sat by the rain-streaked window, **rapt** in her own silence, the city's muffled hum doing nothing to **allay** the weight in her chest. It had been a week since the argument — one of those **pesky** misunderstandings that start small and then **haunt** every quiet moment. She knew she had let a passing **whim** of pride turn into something uglier. She had **sulked**, retreated, let the cold air between them thicken. A **dread** of being the first to reach out **daunted** her more than she expected.
 
 Yet underneath the stiffness lived something she couldn't deny: she still **craved** his presence the way she **coveted** ordinary evenings — takeout, bad television, the easy **vibe** of two people who simply fit. The memory of his **jolly** laugh, the **rosy** mornings when everything felt possible, filled her with a **bliss** she now feared was gone. She caught herself **gloating** a little over a text he'd sent last night — tentative, barely two lines — and hated herself for it. **Grief** over a relationship still breathing, she thought, was its own strange **mania**.
 
 Downstairs, she heard him moving. The sound **riled** something loose in her. She **groaned**, pressed her palms flat on the table, and chose, on **urge** alone, to go down. He looked up — **dazed**, a little **hyper** from too much coffee, clearly mid-**prank** of some kind involving a colander and a phone. They both almost laughed. She felt her **zeal** for the argument dissolve. He had the **ardor** of someone who still wanted to fix things, and she could see it. She had been **cowering** behind silence; he had been waiting, quietly **gnashing** through his own version of the same story. She found a **vent** at last — not a shout, not a **gally**-ing accusation, just honest words that **exulted** in their own relief. She **urged** herself not to retreat again. The **dread** softened. The storm, at long last, broke clean.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| rapt | adj. | 全神贯注的；入迷的 |
-| rile | vt. | 惹恼；激怒 |
-| rosy | adj. | 玫瑰色的，肤色红润的；乐观的；愉快的；美好的 |
-| sulk | vi. | 生气；愠怒 |
-| urge | vt. | 力劝；敦促；强烈的愿望 |
-| vent | n. | 出口；通风孔；发泄 |
-| vibe | n. | 感应，共鸣；气氛，环境 |
-| whim | n. | 一时的兴致；突然的念头；突发奇想 |
-| zeal | n. | 热心；热忱；热情 |
-| allay | vt. | 减轻；使缓和；使平静 |
-| ardor | n. | 热情；狂热；灼热 |
-| bliss | n. | 极乐；天赐的福 |
-| covet | vt. | 垂涎；觊觎 |
-| cower | vi. | 退缩；抖缩；蜷缩；弯腰屈膝 |
-| crave | vt. | 恳求；渴望 |
-| daunt | vt. | 使气馁，使畏缩；威吓 |
-| dazed | adj. | 茫然的；头昏的 |
-| dread | n. | 恐惧；可怕的人；惧怕 |
-| exult | vi. | 非常高兴；狂喜，欢欣鼓舞 |
-| gally | vt. | 恐吓；吓唬 |
-| gloat | vi. | 幸灾乐祸；心满意足地注视 |
-| gnash | vt. | 咬牙切齿 |
-| grief | n. | 悲伤；悲痛 |
-| groan | vi. | 呻吟；抱怨；发吱嘎声 |
-| haunt | vt. | 经常出没于；缠绕，萦绕 |
-| hyper | adj. | 亢奋的；高度紧张的 |
-| jolly | adj. | 愉快的；欢乐的；宜人的 |
-| mania | n. | 狂热；狂躁；热衷 |
-| pesky | adj. | 烦人的；让人讨厌的 |
-| prank | n. | 恶作剧；开玩笑；戏谑 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **rapt** <span class="wpos">adj.</span> | 全神贯注的；入迷的 |
+| **rile** <span class="wpos">vt.</span> | &amp; 惹恼；激怒 |
+| **rosy** <span class="wpos">adj.</span> | 玫瑰色的，肤色红润的; 乐观的; 愉快的；美好的; 一切都称心如意；事事顺遂 |
+| **sulk** <span class="wpos">vi.</span> | 生气；愠怒; 生气；愠怒；生气的人 |
+| **urge** <span class="wpos">vt.</span> | 力劝；敦促; 鼓励；极力主张; 驱策，促使; 强烈的愿望 |
+| **vent** <span class="wpos">n.</span> | 出口；通风孔；发泄; 发泄感情；放出…；给…开孔; 减轻压力；放出 |
+| **vibe** <span class="wpos">n.</span> | Ⅰ ①感应，共鸣②气氛，环境; Ⅱ 产生共鸣 |
+| **whim** <span class="wpos">n.</span> | 一时的兴致, 突然的念头, 突发奇想, 异想天开 |
+| **zeal** <span class="wpos">n.</span> | 热心, 热忱, 热情 |
+| **allay** <span class="wpos">vt.</span> | 减轻；使缓和；使平静 |
+| **ardor** <span class="wpos">n.</span> | 热情；狂热；灼热 |
+| **bliss** <span class="wpos">n.</span> | 极乐；天赐的福; 使欣喜若狂; 狂喜 BLISSBLISS语言 Bliss布利斯 |
+| **covet** <span class="wpos">vt.</span> | 垂涎；觊觎; 垂涎；觊觎 |
+| **cower** <span class="wpos">vi.</span> | 退缩；抖缩；蜷缩；弯腰屈膝 |
+| **crave** <span class="wpos">vt.</span> | 恳求；渴望; 渴望；恳求 |
+| **daunt** <span class="wpos">vt.</span> | 使气馁，使畏缩；威吓 |
+| **dazed** <span class="wpos">adj.</span> | 茫然的；头昏的; 使眩晕；使惶惑 |
+| **dread** <span class="wpos">n.</span> | 恐惧；可怕的人; 惧怕；担心; 惧怕；担心; 可怕的 |
+| **exult** <span class="wpos">vi.</span> | 非常高兴；狂喜，欢欣鼓舞 |
+| **gally** <span class="wpos">vt.</span> | 恐吓；吓唬 |
+| **gloat** <span class="wpos">vi.</span> | 幸灾乐祸；心满意足地注视; 幸灾乐祸；贪婪的盯视；洋洋得意 |
+| **gnash** <span class="wpos">vt.</span> | 咬牙切齿; 咬牙切齿; 咬 |
+| **grief** <span class="wpos">n.</span> | 悲伤, 悲痛; 悲伤的事, 悲痛的缘由 |
+| **groan** <span class="wpos">vi.</span> | 呻吟；抱怨；发吱嘎声; 呻吟；抱怨; 呻吟；叹息；吱嘎声 |
+| **haunt** <span class="wpos">vt.</span> | 经常出没于; 缠绕, 萦绕; 某人常去的地方 |
+| **hyper** <span class="wpos">adj.</span> | 亢奋的；高度紧张的; 宣传人员 |
+| **jolly** <span class="wpos">adj.</span> | 愉快的；欢乐的；宜人的; 非常；很; 用好话劝某人做…；用好话使高兴; 开玩笑 Jolly耐火砖成型… |
+| **mania** <span class="wpos">n.</span> | 狂热；狂躁；热衷 |
+| **pesky** <span class="wpos">adj.</span> | 烦人的；让人讨厌的 |
+| **prank** <span class="wpos">n.</span> | 恶作剧，开玩笑；戏谑; 装饰；打扮; 炫耀自己；胡闹 |
+:::
+:::
+::::
 
 ### The Night She Finally Felt Everything
 
+:::: {.columns}
+::: {.column width="57%"}
 She had spent years in **apathy**, coasting through her days without hunger or colour. Then the letter arrived. She read it at the kitchen table, the winter light falling **eerily** across the page, and something cracked open in her chest.
 
 She had **yearned** for her mother's approval so long the wanting had grown into its own strange shape — tender and **bitter** at the same time. Now the words were right there, and they did not say what she had hoped. A **dismay** settled over her, slow and total, like a tide coming in. She let herself **bemoan** the years quietly, then folded the letter and set it aside.
@@ -111,47 +121,51 @@ Later, her oldest friend sat beside her and **enticed** her into talking — no 
 She admitted that the silence between her and her mother had begun to **spook** her — not like a ghost, but like a room where something once lived. She said the distance had a **stink** to it, a rottenness she could no longer ignore. Her friend did not **tease** her for the drama of it. She did not **psych** her out with warnings. She only nodded, and the nodding was enough.
 
 Outside, the night was **dreary**, rain sheeting down the glass. But inside there was **erotic** aliveness to the moment — not in a **carnal** sense, but in the way full presence always carries a charge. She let the warmth **dampen** the grief rather than the grief dampening the warmth. She did not need to **endure** the night; she wanted to live it. And she **cuddled** that small revelation close as the candles burned low, **yikes** and all — even the part of herself that still startled at good things.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| psych | vt. | 使某人精神紧张或丧失信心等 |
-| revel | v. | 狂欢；陶醉；狂欢作乐 |
-| scorn | n. | 鄙视；轻蔑；不屑做 |
-| snarl | n. | 咆哮；混乱；怒骂 |
-| sneer | vi. | 嘲笑，冷笑 |
-| spook | n. | 鬼；吓；吓唬 |
-| stink | vi. | 散发出恶臭；名声臭；恶臭 |
-| tease | vt. | 取笑，戏弄 |
-| yearn | vi. | 渴望，向往；思念，想念 |
-| yikes | int. | 〈口〉呀！ |
-| allure | vt. | 吸引；引诱，诱惑 |
-| apathy | n. | 漠然，冷淡；无动于衷 |
-| arouse | vt. | 唤醒；引起，激发 |
-| aspire | vi. | 渴望，追求 |
-| averse | adj. | 不愿意的；反对的 |
-| bemoan | vt. | 惋惜；叹息 |
-| bitter | adj. | 有苦味的；辛酸的；充满仇恨的 |
-| caress | n. | 爱抚；抚摸 |
-| carnal | adj. | 肉体的；肉欲的；性欲的 |
-| cringe | vi. | 畏缩；阿谀 |
-| cuddle | vt. | 拥抱，怀抱；依偎 |
-| dampen | vt. | 抑制；使沮丧；使潮湿 |
-| dismay | n. | 沮丧，灰心；惊慌 |
-| dreary | adj. | 使人闷闷不乐的；阴沉的；单调的 |
-| eerily | adv. | 怪诞地；奇异地；可怕地 |
-| endure | vt. | 忍耐；容忍；持续 |
-| entice | vt. | 诱使；怂恿 |
-| erotic | adj. | 性欲的；色情的；引起性欲地 |
-| esteem | vt. | 认为；尊敬；尊重 |
-| fervor | n. | 热情；热烈；炽热 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **psych** <span class="wpos">vt.</span> | 使某人精神紧张或丧失信心等 |
+| **revel** <span class="wpos">v.</span> | 狂欢；陶醉；狂欢作乐; 狂欢；喜庆狂欢活动；喧闹的庆典 |
+| **scorn** <span class="wpos">n.</span> | 鄙视；轻蔑; 受某人鄙视的人或事物; 轻视，蔑视; 不屑做 |
+| **snarl** <span class="wpos">n.</span> | 咆哮；混乱；怒骂; 咆哮；怒骂；缠结; 搞乱；咆哮着说；使…缠结 |
+| **sneer** <span class="wpos">vi.</span> | 嘲笑，冷笑; 嘲笑，冷笑; 嘲笑，冷笑 |
+| **spook** <span class="wpos">n.</span> | 鬼; 吓；吓唬 |
+| **stink** <span class="wpos">vi.</span> | 散发出恶臭；发臭味; 名声臭；糟透; 恶臭，难闻的气味; 大声抱怨 |
+| **tease** <span class="wpos">vt.</span> | &amp; 取笑, 戏弄; 梳理; 爱嘲弄他人的人 |
+| **yearn** <span class="wpos">vi.</span> | 渴望，向往；思念，想念；怀念；同情，怜悯 |
+| **yikes** <span class="wpos">int.</span> | 〈口〉呀! |
+| **allure** <span class="wpos">vt.</span> | 吸引；引诱，诱惑; 诱惑力; 诱人，吸引人 |
+| **apathy** <span class="wpos">n.</span> | 漠然，冷淡; 无兴趣；无动于衷 |
+| **arouse** <span class="wpos">vt.</span> | 唤醒; 引起, 激发 |
+| **aspire** <span class="wpos">vi.</span> | 渴望, 追求 |
+| **averse** <span class="wpos">adj.</span> | 不愿意的；反对的 |
+| **bemoan** <span class="wpos">vt.</span> | 惋惜；为…恸哭; 叹息 |
+| **bitter** <span class="wpos">adj.</span> | 有苦味的; 严寒的，刺骨的; 辛酸的，引起痛苦的；难以接受的; 充满仇恨的 |
+| **caress** <span class="wpos">n.</span> | 爱抚；抚摸; 爱抚或抚摸… |
+| **carnal** <span class="wpos">adj.</span> | 肉体的；肉欲的；淫荡的；性欲的 |
+| **cringe** <span class="wpos">vi.</span> | 奉承；畏缩；阿谀; 畏缩；奉承 |
+| **cuddle** <span class="wpos">vt.</span> | &amp; 拥抱，怀抱; 依偎着睡; 依偎着；紧靠在一起; 亲近…；靠拢; 搂抱；拥抱 |
+| **dampen** <span class="wpos">vt.</span> | 抑制；使…沮丧；使…潮湿; 潮湿；丧气 |
+| **dismay** <span class="wpos">n.</span> | 沮丧，灰心；惊慌; 使惊慌；使沮丧 |
+| **dreary** <span class="wpos">adj.</span> | 使人闷闷不乐或沮丧的；阴沉的，忧郁的; 令人厌烦的；单调的；枯燥的 |
+| **eerily** <span class="wpos">adv.</span> | 怪诞地；奇异地；可怕地 |
+| **endure** <span class="wpos">vt.</span> | 忍耐；容忍; 忍耐；持续 |
+| **entice** <span class="wpos">vt.</span> | 诱使；怂恿 |
+| **erotic** <span class="wpos">adj.</span> | 性欲的;色情的; 引起性欲地 |
+| **esteem** <span class="wpos">vt.</span> | 认为；尊敬；考虑；估价; 尊重；尊敬 |
+| **fervor** <span class="wpos">n.</span> | 热情；热烈；炽热；热心 |
+:::
+:::
+::::
 
 ### The Long Weekend That Cracked Us Open
 
+:::: {.columns}
+::: {.column width="57%"}
 Maya had always tended to **fixate** on small slights, turning them over in her mind the way a tongue finds a sore tooth. That Saturday morning, still raw from the argument with her sister, she sat by the window in a **gloomy** silence, listening to the rain. A low, involuntary sound — somewhere between a sigh and one of those quiet **groans** the body makes when it gives up pretending — escaped her.
 
 She had carried a **grudge** against her sister for years, and she knew it. The feeling was old, barnacled with **malice** she was not proud of. She **loathe**d how familiar the resentment had become, how she could **resent** even small kindnesses from the same person. Her **psyche**, she suspected, had built a whole architecture around the wound. Yet her therapist kept nudging her toward a simple question: what would it cost to **relent**? She sat with the word. It felt like putting down a stone she had been carrying uphill.
@@ -163,47 +177,51 @@ Later, walking home, she passed a neighbor who was in one of his reliably **grum
 That evening her sister called. The conversation was careful at first, **sedate**, neither of them quite willing to **ruffle** the new quiet. But then her sister told a story about their mother — absurd, warm, entirely unguarded — and Maya found herself laughing. Not a polite laugh. A laugh that made her sister say *hurray* in that exaggerated way, and they were both laughing, the old **grudge** still there somewhere but no longer running the room. Maya felt something close to what she could only call being **ravish**ed by ordinariness: the sheer, unexpected grace of an evening that had decided to be kind.
 
 She hung up with no **qualms** about having been the first to soften. She put on music, poured tea, felt the hour go **mellow** around her. She was still tired. She was still a little afraid of the test results. She did not **obsess** over either. She sat in the **sedate** lamplight and let herself simply be — no longer a person who had been **ruffle**d, but a person who had, for one evening at least, refused to let **hatred** write the ending.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| fixate | vi. | 注视；固定下来; 注视…；使固定 |
-| fondle | vt. | 抚弄；爱抚; 调戏；爱抚 |
-| frenzy | n. | 狂怒；狂暴；暴怒; 使发狂；使狂怒 |
-| frolic | vi. | 嬉戏; 无忧无虑的快乐时光 |
-| giggle | vi. | 傻笑；咯咯地笑; 咯咯地笑着说; 吃吃的笑 |
-| gloomy | adj. | 黑暗的；沮丧的；阴郁的 |
-| groans | n. | 呻吟; 呻吟 |
-| grudge | n. | 不满, 怨恨, 妒忌; 勉强给, 不情愿做 |
-| grumpy | adj. | 脾气坏的,生气的; 生气地 |
-| hassle | vt. | 找麻烦，搅扰；与…争辩；使…烦恼; 困难，麻烦；激战; 争论，争辩 |
-| hatred | n. | 憎恨；怨恨；敌意 |
-| hurray | n. | 万岁呼声；狂热; 欢呼; 向…欢呼; 加油 |
-| lament | n. | 挽歌；恸哭；悲痛之情; 悲叹；悔恨；哀悼; 哀悼；痛惜 |
-| loathe | vt. | 憎恨, 厌恶; 极不喜欢 |
-| malice | n. | 恶意, 蓄意害人 |
-| mellow | adj. | 柔和的, 丰富的; 熟透的, 甘美多汁的, 芳醇的; 成熟的, 老练的, 稳健的; 高兴的, 微醉的… |
-| muddle | n. | 糊涂；混乱，杂乱; 弄乱，弄糟; 使糊涂; 对付，混日子; 混日子；得过且过; 勉强应付过去; 使糊… |
-| nuzzle | vt. | 用鼻紧挨，用鼻爱抚；紧贴某人; 用鼻擦；舒服地躺著 |
-| obsess | v. | 使痴迷，使迷恋；使心神不宁，不停地困扰； 唠叨；挂牵，念念不忘 |
-| ordeal | n. | 痛苦的经验；严酷的考验；折磨 |
-| phobia | n. | 恐惧, 厌恶 |
-| psyche | n. | 灵魂；心智 Psychen. 灵魂,心灵,精神 |
-| qualms | n. | 良心之谴责，不安 |
-| ravish | vt. | 使欣喜若狂；使着迷；使心醉 |
-| relent | vi. | 变温和，变宽厚；减弱；缓和; 使变温和；减轻; 再借给 |
-| resent | vt. | 对…感到愤怒 |
-| ruffle | vt. | 弄皱；触怒；扰乱；迅速翻动; 起皱；烦恼；连续地轻敲; 皱褶；生气；混乱；连续轻敲声 |
-| sanity | n. | 神志正常；心智健康; 明智，稳健，理智 |
-| sedate | adj. | 沉着的；安详的；平静的; 使昏昏入睡，使镇静 |
-| shiver | n. | 颤抖，战栗；碎片; 颤抖；哆嗦；打碎; 颤抖；打碎 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **fixate** <span class="wpos">vi.</span> | 注视；固定下来; 注视…；使固定 |
+| **fondle** <span class="wpos">vt.</span> | 抚弄；爱抚; 调戏；爱抚 |
+| **frenzy** <span class="wpos">n.</span> | 狂怒；狂暴；暴怒; 使发狂；使狂怒 |
+| **frolic** <span class="wpos">vi.</span> | 嬉戏; 无忧无虑的快乐时光 |
+| **giggle** <span class="wpos">vi.</span> | 傻笑；咯咯地笑; 咯咯地笑着说; 吃吃的笑 |
+| **gloomy** <span class="wpos">adj.</span> | 黑暗的；沮丧的；阴郁的 |
+| **groans** <span class="wpos">n.</span> | 呻吟; 呻吟 |
+| **grudge** <span class="wpos">n.</span> | 不满, 怨恨, 妒忌; 勉强给, 不情愿做 |
+| **grumpy** <span class="wpos">adj.</span> | 脾气坏的,生气的; 生气地 |
+| **hassle** <span class="wpos">vt.</span> | 找麻烦，搅扰；与…争辩；使…烦恼; 困难，麻烦；激战; 争论，争辩 |
+| **hatred** <span class="wpos">n.</span> | 憎恨；怨恨；敌意 |
+| **hurray** <span class="wpos">n.</span> | 万岁呼声；狂热; 欢呼; 向…欢呼; 加油 |
+| **lament** <span class="wpos">n.</span> | 挽歌；恸哭；悲痛之情; 悲叹；悔恨；哀悼; 哀悼；痛惜 |
+| **loathe** <span class="wpos">vt.</span> | 憎恨, 厌恶; 极不喜欢 |
+| **malice** <span class="wpos">n.</span> | 恶意, 蓄意害人 |
+| **mellow** <span class="wpos">adj.</span> | 柔和的, 丰富的; 熟透的, 甘美多汁的, 芳醇的; 成熟的, 老练的, 稳健的; 高兴的, 微醉的… |
+| **muddle** <span class="wpos">n.</span> | 糊涂；混乱，杂乱; 弄乱，弄糟; 使糊涂; 对付，混日子; 混日子；得过且过; 勉强应付过去; 使糊… |
+| **nuzzle** <span class="wpos">vt.</span> | 用鼻紧挨，用鼻爱抚；紧贴某人; 用鼻擦；舒服地躺著 |
+| **obsess** <span class="wpos">v.</span> | 使痴迷，使迷恋；使心神不宁，不停地困扰； 唠叨；挂牵，念念不忘 |
+| **ordeal** <span class="wpos">n.</span> | 痛苦的经验；严酷的考验；折磨 |
+| **phobia** <span class="wpos">n.</span> | 恐惧, 厌恶 |
+| **psyche** <span class="wpos">n.</span> | 灵魂；心智 Psychen. 灵魂,心灵,精神 |
+| **qualms** <span class="wpos">n.</span> | 良心之谴责，不安 |
+| **ravish** <span class="wpos">vt.</span> | 使欣喜若狂；使着迷；使心醉 |
+| **relent** <span class="wpos">vi.</span> | 变温和，变宽厚；减弱；缓和; 使变温和；减轻; 再借给 |
+| **resent** <span class="wpos">vt.</span> | 对…感到愤怒 |
+| **ruffle** <span class="wpos">vt.</span> | 弄皱；触怒；扰乱；迅速翻动; 起皱；烦恼；连续地轻敲; 皱褶；生气；混乱；连续轻敲声 |
+| **sanity** <span class="wpos">n.</span> | 神志正常；心智健康; 明智，稳健，理智 |
+| **sedate** <span class="wpos">adj.</span> | 沉着的；安详的；平静的; 使昏昏入睡，使镇静 |
+| **shiver** <span class="wpos">n.</span> | 颤抖，战栗；碎片; 颤抖；哆嗦；打碎; 颤抖；打碎 |
+:::
+:::
+::::
 
 ### 从阴郁到狂喜：一个周末的情绪切片
 
+:::: {.columns}
+::: {.column width="57%"}
 The morning began **somber**, the kind of gray that settles into your chest before you have words for it. Marcus sat at his desk feeling utterly **torpid** — too dulled to move, too restless to sleep — while a **dreaded** message notification blinked on his phone. He'd been nursing a quiet **craving** for good news for weeks, and the silence felt **tragic**.
 
 When he finally opened the message, the syntax was **awkward**, the tone flat, and for a moment he was completely **baffled** — the logic of it **baffles** even now, in retrospect. He felt a flash of **disdain** toward the sender, then **furious** at himself for caring so much. He almost **wailed** aloud, that hollow sound grief makes when **terror** and disappointment arrive at once. A cold **despair** pooled somewhere beneath his ribs.
@@ -213,93 +231,101 @@ His sister called an hour later and did what she always does: she **consoled** h
 By afternoon the mood had fully turned. A letter arrived — the **coveted** acceptance he'd applied for in February. "**Yippee**!" he said to the empty room, not caring how he sounded. He felt **stoked**, almost **gleeful**, nearly **dazzled** by the sudden reversal of fortune. His heart went **amorous** toward the whole world, the sentimental, slightly embarrassing way joy sometimes lands. He was **upbeat** enough to **enchant** even his skeptical flatmate into celebrating with him. Standing in the kitchen opening a bottle of wine, Marcus realized the day had run the full spectrum — and that the **ecstasy** tasted sharper for the **somber** hours that came before.
 
 *(He still couldn't figure out what the morning message actually meant. It **flummox**ed him then; it flummoxes him now.)*
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| somber | adj. | 昏暗的；阴沉的; 忧郁的；闷闷不乐的; 严峻的; 暗淡的，灰暗的；朴实无华的 |
-| spooky | adj. | 使人想到鬼的；吓人的 |
-| stoked | adj. | 〈俚〉热烈的，振奋的 |
-| tender | adj. | 柔软的；温柔的；脆弱的；幼稚的；难对付的; 看管人；小船；偿付，清偿; 使…变嫩；是…变柔软；提供，… |
-| terror | n. | 恐怖; 恐怖活动; 引起恐怖的人; 讨厌的人 |
-| torpid | adj. | 麻痹的；麻木的; 懒散的；迟缓的；迟钝的; 不活泼的;有气无力的; 冬眠的;非活动状态的 |
-| tragic | adj. | 悲剧的；悲痛的，不幸的 |
-| upbeat | n. | 兴旺；上升；弱拍; 乐观的；上升的 |
-| wailed | v. | 恸哭；呼啸；悲叹 |
-| whimsy | n. | 怪念头,异想天开,怪脾气; 与众不同的幽默感 |
-| yippee | int. | 开心,快乐等时叫起来的感叹词 |
-| abreact | vt. | 使消散；发泄 |
-| amorous | adj. | 色情的, 多情的, 爱情的; 热情的 |
-| awkward | adj. | 笨拙的；尴尬的；棘手的；不合适的 |
-| baffled | adj. | 带有挡板的; 阻碍；使迷惑 |
-| baffles | n. | 困惑；转盘；挡板; 阻碍；使困惑 |
-| chuckle | vi. | 咯咯的笑，轻声地笑; 轻笑，窃笑; 轻声笑着表示 |
-| console | v. | 安慰，安抚，抚慰，慰藉; 操纵台，控制台，仪表板 |
-| coveted | adj. | 梦寐以求的；垂涎的; 垂涎；贪图；渴望 |
-| craving | n. | 渴望;渴求 |
-| dazzled | adj. | 目眩的；眼花撩乱的; 眼花 |
-| despair | n. | 绝望; 使人绝望的人; 绝望 |
-| disdain | n. | 鄙视, 轻蔑; 鄙视; 不屑于做, 不愿意做 |
-| dreaded | adj. | 令人畏惧的，可怕的; 惧怕 |
-| ecstasy | n. | 入迷；狂喜；忘形 |
-| enchant | vt. | 使迷惑；施魔法 |
-| flummox | n. | 失败; 使狼狈；使混乱；使惶惑; 出现错误；失败 |
-| frantic | adj. | 狂乱的，疯狂的 |
-| furious | adj. | 狂怒的, 暴怒的; 强烈的, 激烈的 |
-| gleeful | adj. | 欣喜的,高兴的,欢乐的; 高兴地 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **somber** <span class="wpos">adj.</span> | 昏暗的；阴沉的; 忧郁的；闷闷不乐的; 严峻的; 暗淡的，灰暗的；朴实无华的 |
+| **spooky** <span class="wpos">adj.</span> | 使人想到鬼的；吓人的 |
+| **stoked** <span class="wpos">adj.</span> | 〈俚〉热烈的，振奋的 |
+| **tender** <span class="wpos">adj.</span> | 柔软的；温柔的；脆弱的；幼稚的；难对付的; 看管人；小船；偿付，清偿; 使…变嫩；是…变柔软；提供，… |
+| **terror** <span class="wpos">n.</span> | 恐怖; 恐怖活动; 引起恐怖的人; 讨厌的人 |
+| **torpid** <span class="wpos">adj.</span> | 麻痹的；麻木的; 懒散的；迟缓的；迟钝的; 不活泼的;有气无力的; 冬眠的;非活动状态的 |
+| **tragic** <span class="wpos">adj.</span> | 悲剧的；悲痛的，不幸的 |
+| **upbeat** <span class="wpos">n.</span> | 兴旺；上升；弱拍; 乐观的；上升的 |
+| **wailed** <span class="wpos">v.</span> | 恸哭；呼啸；悲叹 |
+| **whimsy** <span class="wpos">n.</span> | 怪念头,异想天开,怪脾气; 与众不同的幽默感 |
+| **yippee** <span class="wpos">int.</span> | 开心,快乐等时叫起来的感叹词 |
+| **abreact** <span class="wpos">vt.</span> | 使消散；发泄 |
+| **amorous** <span class="wpos">adj.</span> | 色情的, 多情的, 爱情的; 热情的 |
+| **awkward** <span class="wpos">adj.</span> | 笨拙的；尴尬的；棘手的；不合适的 |
+| **baffled** <span class="wpos">adj.</span> | 带有挡板的; 阻碍；使迷惑 |
+| **baffles** <span class="wpos">n.</span> | 困惑；转盘；挡板; 阻碍；使困惑 |
+| **chuckle** <span class="wpos">vi.</span> | 咯咯的笑，轻声地笑; 轻笑，窃笑; 轻声笑着表示 |
+| **console** <span class="wpos">v.</span> | 安慰，安抚，抚慰，慰藉; 操纵台，控制台，仪表板 |
+| **coveted** <span class="wpos">adj.</span> | 梦寐以求的；垂涎的; 垂涎；贪图；渴望 |
+| **craving** <span class="wpos">n.</span> | 渴望;渴求 |
+| **dazzled** <span class="wpos">adj.</span> | 目眩的；眼花撩乱的; 眼花 |
+| **despair** <span class="wpos">n.</span> | 绝望; 使人绝望的人; 绝望 |
+| **disdain** <span class="wpos">n.</span> | 鄙视, 轻蔑; 鄙视; 不屑于做, 不愿意做 |
+| **dreaded** <span class="wpos">adj.</span> | 令人畏惧的，可怕的; 惧怕 |
+| **ecstasy** <span class="wpos">n.</span> | 入迷；狂喜；忘形 |
+| **enchant** <span class="wpos">vt.</span> | 使迷惑；施魔法 |
+| **flummox** <span class="wpos">n.</span> | 失败; 使狼狈；使混乱；使惶惑; 出现错误；失败 |
+| **frantic** <span class="wpos">adj.</span> | 狂乱的，疯狂的 |
+| **furious** <span class="wpos">adj.</span> | 狂怒的, 暴怒的; 强烈的, 激烈的 |
+| **gleeful** <span class="wpos">adj.</span> | 欣喜的,高兴的,欢乐的; 高兴地 |
+:::
+:::
+::::
 
 ### When the Heart Will Not Stay Still
 
+:::: {.columns}
+::: {.column width="57%"}
 The afternoon had started **idyllic** — a café terrace, slow coffee, nothing demanding his attention. Yet Marcus sat **uptight** in his chair, jaw tight. He had spotted her across the street: Elena, laughing with the man she had chosen instead of him. A **grimace** crossed his face before he could stop it. He knew he was being **jealous**, and that knowledge only made him more **hostile** toward himself. The old **grudges** he thought he had buried rose again, **haunted** him with the particular cruelty of things that never fully die. An **impulse** seized him — to cross the street, to say something cutting, to let **revenge** finally have its moment. He didn't move. Instead he watched the **mockery** his self-control was making of his pride, and felt something close to **outrage** at how little mastery he had over his own chest.
 
 He had told himself, after the breakup, that the **setback** would become a **triumph**. That story now felt **tedious**, a script recited to **satiate** the people who asked how he was doing. The truth was simpler and more **obscene**: he was still **smitten**, stubbornly, stupidly, against all reason. The realization **startled** him — not because it was new, but because it still had teeth. Her laughter from across the street seemed to **provoke** every nerve. He tried to **indulge** the pain fully, the way a doctor probes a wound to gauge its depth, and the exercise only deepened the **torment**. What he felt was **sensual** and irrational at once — not lust exactly, but a full-body ache, the kind that **horrify**-ies you because you recognize your own helplessness in it.
 
 The waiter refilled his cup without asking. Marcus **rejoice**d at the small kindness, then caught himself and almost laughed at the proportion. He had let this **tragedy** — and yes, he could call it that without irony — **unhinge** him long enough. He was **wailing** inside while sitting perfectly still; he was **whining** in the private theater of his skull while wearing a neutral face. He **scorned** that version of himself even as he inhabited it. What **perplex**ed him most was not the love but the persistence of it: how the mind refuses to file certain people under the past. He finished his coffee, left a tip, and walked in the opposite direction — not healed, not free, but at least no longer feeding something that had grown large enough on **grudges** and silence.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| grimace | n. | 面部扭曲, 鬼脸; 扮鬼相, 做鬼脸 |
-| grudges | n. | 怨恨；积怨; 怀恨；嫉妒 |
-| haunted | adj. | 闹鬼的；反复出现的；受到困扰的; 常去；缠住；使担忧 |
-| horrify | vt. | 使震惊, 使感到恐怖 |
-| hostile | adj. | 怀有敌意的, 不友善的; 敌人的, 敌方的 |
-| idyllic | adj. | 牧歌的，田园诗的 |
-| impulse | n. | 冲动；脉冲；刺激；推动力；神经冲动; 推动 |
-| indulge | vt. | 满足；使沉迷于…；使高兴；纵容; 满足；沉溺；放任 |
-| jealous | adj. | 妒忌的，猜疑的; 妒羡的；羡慕的; 精心守护的，珍惜的 |
-| mockery | n. | 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲 |
-| obscene | adj. | 淫秽的, 下流的; 可憎的, 可恶的 |
-| outrage | n. | 暴行；侮辱；愤怒，愤慨; 对…施暴行；凌辱，强奸；激起愤怒 |
-| perplex | vt. | 使困惑，使为难；使复杂化 |
-| provoke | vt. | 激起；惹怒 |
-| rejoice | vi. | 高兴；庆祝; 使高兴 |
-| revenge | n. | 复仇；报复; 报复；替…报仇；洗雪; 报仇；雪耻 |
-| satiate | vt. | 充分满足；使厌腻; 饱足的；厌腻的 |
-| scorned | v. | 轻蔑；嘲笑; 轻蔑的；鄙视的 |
-| sensual | adj. | 感觉的；肉欲的；感觉论的；世俗的 |
-| setback | n. | 挫折; 阻碍 |
-| smitten | — | smite的过去分词；深深迷恋的 |
-| startle | vt. | 使吓一跳；使惊奇; 惊吓；惊跳；惊奇; 惊愕；惊恐 |
-| tedious | adj. | 乏味的, 单调的 |
-| torment | n. | 折磨，痛苦；苦难之源; 使备受折磨；使痛苦；烦扰；戏弄；捉弄；纠缠 |
-| tragedy | n. | 悲剧；灾难；惨案 |
-| triumph | n. | 胜利，成功; 巨大的成就; 获胜，得胜；克服 |
-| unhinge | vt. | 使分开；取下…的铰链；使发狂或错乱 |
-| uptight | adj. | 紧张的,愤怒的; 经济状况不佳的,拮据的; 极端保守的 |
-| wailing | v. | 哭号；哭泣 |
-| whining | v. | 发牢骚；抱怨 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **grimace** <span class="wpos">n.</span> | 面部扭曲, 鬼脸; 扮鬼相, 做鬼脸 |
+| **grudges** <span class="wpos">n.</span> | 怨恨；积怨; 怀恨；嫉妒 |
+| **haunted** <span class="wpos">adj.</span> | 闹鬼的；反复出现的；受到困扰的; 常去；缠住；使担忧 |
+| **horrify** <span class="wpos">vt.</span> | 使震惊, 使感到恐怖 |
+| **hostile** <span class="wpos">adj.</span> | 怀有敌意的, 不友善的; 敌人的, 敌方的 |
+| **idyllic** <span class="wpos">adj.</span> | 牧歌的，田园诗的 |
+| **impulse** <span class="wpos">n.</span> | 冲动；脉冲；刺激；推动力；神经冲动; 推动 |
+| **indulge** <span class="wpos">vt.</span> | 满足；使沉迷于…；使高兴；纵容; 满足；沉溺；放任 |
+| **jealous** <span class="wpos">adj.</span> | 妒忌的，猜疑的; 妒羡的；羡慕的; 精心守护的，珍惜的 |
+| **mockery** <span class="wpos">n.</span> | 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲 |
+| **obscene** <span class="wpos">adj.</span> | 淫秽的, 下流的; 可憎的, 可恶的 |
+| **outrage** <span class="wpos">n.</span> | 暴行；侮辱；愤怒，愤慨; 对…施暴行；凌辱，强奸；激起愤怒 |
+| **perplex** <span class="wpos">vt.</span> | 使困惑，使为难；使复杂化 |
+| **provoke** <span class="wpos">vt.</span> | 激起；惹怒 |
+| **rejoice** <span class="wpos">vi.</span> | 高兴；庆祝; 使高兴 |
+| **revenge** <span class="wpos">n.</span> | 复仇；报复; 报复；替…报仇；洗雪; 报仇；雪耻 |
+| **satiate** <span class="wpos">vt.</span> | 充分满足；使厌腻; 饱足的；厌腻的 |
+| **scorned** <span class="wpos">v.</span> | 轻蔑；嘲笑; 轻蔑的；鄙视的 |
+| **sensual** <span class="wpos">adj.</span> | 感觉的；肉欲的；感觉论的；世俗的 |
+| **setback** <span class="wpos">n.</span> | 挫折; 阻碍 |
+| **smitten** | smite的 |
+| **startle** <span class="wpos">vt.</span> | 使吓一跳；使惊奇; 惊吓；惊跳；惊奇; 惊愕；惊恐 |
+| **tedious** <span class="wpos">adj.</span> | 乏味的, 单调的 |
+| **torment** <span class="wpos">n.</span> | 折磨，痛苦；苦难之源; 使备受折磨；使痛苦；烦扰；戏弄；捉弄；纠缠 |
+| **tragedy** <span class="wpos">n.</span> | 悲剧；灾难；惨案 |
+| **triumph** <span class="wpos">n.</span> | 胜利，成功; 巨大的成就; 获胜，得胜；克服 |
+| **unhinge** <span class="wpos">vt.</span> | 使分开；取下…的铰链；使发狂或错乱 |
+| **uptight** <span class="wpos">adj.</span> | 紧张的,愤怒的; 经济状况不佳的,拮据的; 极端保守的 |
+| **wailing** <span class="wpos">v.</span> | 哭号；哭泣 |
+| **whining** <span class="wpos">v.</span> | 发牢骚；抱怨 |
+:::
+:::
+::::
 
 ### The Weight of a Long Evening
 
+:::: {.columns}
+::: {.column width="57%"}
 She sat by the window in a **brooding** silence, her reflection caught in the glass like someone she no longer recognised. The **ambiance** of the old café — low lamplight, the smell of rain on stone — usually brought her comfort, but tonight it only deepened the **wistful** ache she couldn't name. She felt a strange **affinity** with the couple at the corner table, strangers wrapped in their own private world, **enamored** of each other in a way that felt both **gripping** and faintly unbearable to watch.
 
 She had been **fretting** over the letter for three days. Re-reading it had done nothing but **embitter** her further. His words carried an unmistakable **contempt**, a cold **defiance** that left her **appalled** — not because she hadn't seen it coming, but because part of her had nursed the **illusion** that things might still be repaired. That was her **delusion**, she supposed: staying **devoted** to a version of him that no longer existed. The truth was **daunting**, and she was tired of pretending to be **composed**.
@@ -307,47 +333,51 @@ She had been **fretting** over the letter for three days. Re-reading it had done
 A low **glooming** had settled behind her eyes all week. She did not **begrudge** him his happiness — or told herself she didn't — but the **loathing** she felt for her own helplessness was harder to dismiss. She had watched herself **languish** in this liminal sadness, **detached** from the **euphoria** others seemed to wear so easily, unable to summon even a pale imitation of feeling **euphoric**. The **blushing** warmth of her earlier years, that easy flush of joy, now seemed to belong to someone else entirely. She **bristled** at the memory of how trusting she had been.
 
 Outside, a group of tourists erupted into laughter — shrill, climbing toward **hysteria** — and she felt it like a **nuisance** against her skin, a small intrusion into the **distress** she had almost made her own. The **misogyny** she had faced at work, the dismissals dressed up as feedback, had compounded everything, hardening a grief that had no clean shape. Yet sitting here, coffee going cold, she felt something loosen very slightly. Not **ecstatic** relief — nothing so dramatic — just the quiet recognition that the **devotion** she had poured outward could, perhaps, be redirected.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| wistful | adj. | 渴望的；沉思的，默想的；引起怀念的；神往的 |
-| affinity | n. | 吸引力；姻亲关系；密切关系；类同 |
-| ambiance | n. | 气氛；周围环境 |
-| appalled | adj. | 惊骇的；丧胆的 |
-| begrudge | vt. | 羡慕，嫉妒；吝惜，舍不得给 |
-| blushing | n. | 红色的；雾浊 |
-| bristled | adj. | 多刺毛的；有刚毛的；直立的；布满；直立 |
-| brooding | adj. | 沉思的；徘徊不去的；孵卵 |
-| composed | adj. | 镇静的，沉着的 |
-| contempt | n. | 轻视，蔑视；耻辱 |
-| daunting | adj. | 使人畏缩的；使人气馁的；令人怯步的 |
-| defiance | n. | 蔑视；挑战；反抗 |
-| delusion | n. | 错觉；幻想；迷惑，欺骗 |
-| detached | adj. | 分离的，分开的；超然的；分离 |
-| devotion | n. | 奉献，献身，忠诚；热爱，挚爱 |
-| distress | n. | 悲痛，痛苦，忧伤，苦恼；贫困，窘迫；危险，困难，危难 |
-| ecstatic | adj. | 狂喜的；入迷的 |
-| embitter | vt. | 使怨恨；使难受；使受苦 |
-| enamored | adj. | 迷恋的；倾心的 |
-| euphoria | n. | 极度愉快的心情；过度兴奋的情绪 |
-| euphoric | adj. | 欣快的；精神愉快的 |
-| fretting | n. | 微振磨损；侵蚀；使烦躁 |
-| glooming | n. | 怒容，皱眉 |
-| gripping | adj. | 引人注意的；令人全神贯注的；扣人心弦的 |
-| hysteria | n. | 不能控制的情绪激动；歇斯底里 |
-| illusion | n. | 错觉，幻想，错误观念；假象 |
-| languish | vi. | 长期受苦，受折磨；变得衰弱；因渴望而变得憔悴或闷闷不乐 |
-| loathing | n. | 嫌恶；厌恶；讨厌 |
-| misogyny | n. | 厌恶女人；厌女症 |
-| nuisance | n. | 讨厌的东西 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **wistful** <span class="wpos">adj.</span> | 渴望的；沉思的，默想的；引起怀念的；神往的 |
+| **affinity** <span class="wpos">n.</span> | 吸引力；姻亲关系；密切关系；类同 |
+| **ambiance** <span class="wpos">n.</span> | 气氛；周围环境 |
+| **appalled** <span class="wpos">adj.</span> | 惊骇的；丧胆的 |
+| **begrudge** <span class="wpos">vt.</span> | 羡慕，嫉妒；吝惜，舍不得给 |
+| **blushing** <span class="wpos">n.</span> | 红色的;雾浊 |
+| **bristled** <span class="wpos">adj.</span> | 多刺毛的；有刚毛的；直立的; 布满；直立 |
+| **brooding** <span class="wpos">adj.</span> | 沉思的；徘徊不去的; 孵卵 |
+| **composed** <span class="wpos">adj.</span> | 镇静的，沉着的 |
+| **contempt** <span class="wpos">n.</span> | 轻视，蔑视；耻辱 |
+| **daunting** <span class="wpos">adj.</span> | 使人畏缩的；使人气馁的；令人怯步的 |
+| **defiance** <span class="wpos">n.</span> | 蔑视；挑战；反抗 |
+| **delusion** <span class="wpos">n.</span> | 错觉；幻想；迷惑，欺骗 |
+| **detached** <span class="wpos">adj.</span> | 分离的，分开的；超然的; 分离 |
+| **devotion** <span class="wpos">n.</span> | 奉献, 献身, 忠诚; 热爱, 挚爱 |
+| **distress** <span class="wpos">n.</span> | 悲痛, 痛苦, 忧伤, 苦恼; 贫困, 窘迫; 危险, 困难, 危难; 使痛苦, 使忧伤 |
+| **ecstatic** <span class="wpos">adj.</span> | 狂喜的；入迷的; 狂喜的人 |
+| **embitter** <span class="wpos">vt.</span> | 使怨恨；使难受；使受苦 |
+| **enamored** <span class="wpos">adj.</span> | 迷恋的；倾心的; 迷住，使迷恋 |
+| **euphoria** <span class="wpos">n.</span> | 极度愉快的心情;过度兴奋的情绪 |
+| **euphoric** <span class="wpos">adj.</span> | 欣快的；精神愉快的 |
+| **fretting** <span class="wpos">n.</span> | 微振磨损；侵蚀; 给弦乐器装品定音；用回纹饰装饰；使烦躁；侵蚀 |
+| **glooming** <span class="wpos">n.</span> | 怒容,皱眉 |
+| **gripping** <span class="wpos">adj.</span> | 引人注意的；令人全神贯注的；扣人心弦的; 握紧；扣人心弦 |
+| **hysteria** <span class="wpos">n.</span> | 不能控制的情绪激动;歇斯底里 |
+| **illusion** <span class="wpos">n.</span> | 错觉, 幻想, 错误观念; 假象 |
+| **languish** <span class="wpos">vi.</span> | 长期受苦,受折磨; 变得衰弱; 因渴望而变得憔悴或闷闷不乐 |
+| **loathing** <span class="wpos">n.</span> | 嫌恶; 厌恶的; 讨厌 |
+| **misogyny** <span class="wpos">n.</span> | 厌恶女人；厌女症 |
+| **nuisance** <span class="wpos">n.</span> | 讨厌的东西 |
+:::
+:::
+::::
 
 ### The Long Way Back to Feeling
 
+:::: {.columns}
+::: {.column width="57%"}
 She sat by the window, staring **vacantly** at the rain-blurred street below. The **suspense** of waiting for news had worn her thin — not the dramatic kind, but the slow, grinding kind that hollows you out. Behind her, the walls held the quiet evidence of someone **burnt-out**: stacked unread notebooks, a cold cup of tea, the faint **sinister** feeling that the world had been rearranged while she wasn't looking.
 
 She thought of him — her **truelove**, or what she had once believed he was. The memory arrived with a **poignant** sting she hadn't expected. She **abominate**d herself a little for still caring, for being so **obsessed** with replaying the same scenes: his **affection** in the early mornings, the way his laughter used to **resonate** across a room and pull everyone toward him. Now she felt only a hollow **yearning**, and something almost like **animosity** — not quite hatred, just a bitter residue left by too many **setbacks** and too many explanations that explained nothing.
@@ -357,47 +387,51 @@ The **puzzling** part was how ordinary it had all become. She had expected grief
 Still, there were people who offered **sympathy** without conditions, who had shown her **adoration** when she had nothing useful to give back. Their warmth did not fix things, but it did not add to the **detriment** either. It sat beside her like a candle — small, **tranquil**, honestly lit. She had been **desperate** in darker months, had felt the pull of **adversity** like a current under ice. But those people had **captivate**d her attention long enough to interrupt the spiral. Their steadiness **provoked** something she hadn't named yet — not quite gratitude, maybe closer to wonder.
 
 She breathed. The rain eased. She was not yet **contented**, not fully. But she was less afraid of the feeling.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| oblivion | n. | 遗忘；赦免；湮没 |
-| obsessed | adj. | 着迷的；无法摆脱的; 着迷；纠缠 |
-| outburst | n. | 爆发；破裂 |
-| paranoid | adj. | 类似妄想狂的；属于偏执狂的; 患妄想狂的人；偏执狂患者 |
-| poignant | adj. | 伤心至极的；辛酸的，痛切的; 令人心碎的，深深打动人的；强烈的，深刻的 |
-| provoked | v. | 激起；挑衅; 被激怒的；受到挑衅的 |
-| puzzling | adj. | 使莫明其妙的；使迷惑的; 使迷惑 |
-| resonate | v. | 产生共鸣；发出回响；回荡; 回响，起回声; 使产生联想；引起共鸣；和…的想法类似 |
-| revolted | adj. | 起来反抗的；厌恶的；起义的; 反叛 |
-| riddance | n. | 摆脱；驱逐；解除 |
-| setbacks | n. | 挫折；周折 |
-| sinister | adj. | 危险的, 不吉祥的, 凶兆的, 险恶的 |
-| startled | adj. | 受惊吓的 |
-| suspense | n. | 悬念；焦虑；悬疑；悬而不决 |
-| sympathy | n. | 同情; 同情; 支持 |
-| tranquil | adj. | 安静的; 平静的; 宁静的 |
-| truelove | n. | 爱人；轮叶王孙；纯爱 |
-| unhinged | adj. | 精神错乱的 |
-| vacantly | adv. | 神情茫然地 |
-| yearning | adj. | 怀念的；向往的；渴望的; 渴望；怀念；同情; 渴望；向往；想念 |
-| abominate | vt. | 憎恶, 厌恶, 不喜欢; 憎恶者, 厌恶者 |
-| adoration | n. | 爱慕；崇拜 |
-| adversity | n. | 逆境;厄运;窘境; 灾祸;灾难;不幸 |
-| affection | n. | 感情；喜爱，关爱；爱慕之情；影响 |
-| animosity | n. | 憎恨, 仇恨, 敌意 |
-| burnt-out | adj. | 竭尽的,因过度使用而损坏的 |
-| captivate | vt. | 迷住；迷惑; 迷惑，迷人; 有吸引力的人或物 |
-| contented | adj. | 满意的，满足的；知足的 |
-| desperate | adj. | 不顾一切的, 拼命的; 铤而走险的, 孤注一掷的; 极渴望的, 极需要的; 危急的, 极严重的；令人… |
-| detriment | n. | 损害, 伤害; 造成损害的事物 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **oblivion** <span class="wpos">n.</span> | 遗忘；赦免；湮没 |
+| **obsessed** <span class="wpos">adj.</span> | 着迷的；无法摆脱的; 着迷；纠缠 |
+| **outburst** <span class="wpos">n.</span> | 爆发；破裂 |
+| **paranoid** <span class="wpos">adj.</span> | 类似妄想狂的；属于偏执狂的; 患妄想狂的人；偏执狂患者 |
+| **poignant** <span class="wpos">adj.</span> | 伤心至极的；辛酸的，痛切的; 令人心碎的，深深打动人的；强烈的，深刻的 |
+| **provoked** <span class="wpos">v.</span> | 激起；挑衅; 被激怒的；受到挑衅的 |
+| **puzzling** <span class="wpos">adj.</span> | 使莫明其妙的；使迷惑的; 使迷惑 |
+| **resonate** <span class="wpos">v.</span> | 产生共鸣；发出回响；回荡; 回响，起回声; 使产生联想；引起共鸣；和…的想法类似 |
+| **revolted** <span class="wpos">adj.</span> | 起来反抗的；厌恶的；起义的; 反叛 |
+| **riddance** <span class="wpos">n.</span> | 摆脱；驱逐；解除 |
+| **setbacks** <span class="wpos">n.</span> | 挫折；周折 |
+| **sinister** <span class="wpos">adj.</span> | 危险的, 不吉祥的, 凶兆的, 险恶的 |
+| **startled** <span class="wpos">adj.</span> | 受惊吓的 |
+| **suspense** <span class="wpos">n.</span> | 悬念；焦虑；悬疑；悬而不决 |
+| **sympathy** <span class="wpos">n.</span> | 同情; 同情; 支持 |
+| **tranquil** <span class="wpos">adj.</span> | 安静的; 平静的; 宁静的 |
+| **truelove** <span class="wpos">n.</span> | 爱人；轮叶王孙；纯爱 |
+| **unhinged** <span class="wpos">adj.</span> | 精神错乱的 |
+| **vacantly** <span class="wpos">adv.</span> | 神情茫然地 |
+| **yearning** <span class="wpos">adj.</span> | 怀念的；向往的；渴望的; 渴望；怀念；同情; 渴望；向往；想念 |
+| **abominate** <span class="wpos">vt.</span> | 憎恶, 厌恶, 不喜欢; 憎恶者, 厌恶者 |
+| **adoration** <span class="wpos">n.</span> | 爱慕；崇拜 |
+| **adversity** <span class="wpos">n.</span> | 逆境;厄运;窘境; 灾祸;灾难;不幸 |
+| **affection** <span class="wpos">n.</span> | 感情；喜爱，关爱；爱慕之情；影响 |
+| **animosity** <span class="wpos">n.</span> | 憎恨, 仇恨, 敌意 |
+| **burnt-out** <span class="wpos">adj.</span> | 竭尽的,因过度使用而损坏的 |
+| **captivate** <span class="wpos">vt.</span> | 迷住；迷惑; 迷惑，迷人; 有吸引力的人或物 |
+| **contented** <span class="wpos">adj.</span> | 满意的，满足的；知足的 |
+| **desperate** <span class="wpos">adj.</span> | 不顾一切的, 拼命的; 铤而走险的, 孤注一掷的; 极渴望的, 极需要的; 危急的, 极严重的；令人… |
+| **detriment** <span class="wpos">n.</span> | 损害, 伤害; 造成损害的事物 |
+:::
+:::
+::::
 
 ### When the Mind Has Weather of Its Own
 
+:::: {.columns}
+::: {.column width="57%"}
 The morning felt off before it even began. She sat by the window **pensively**, turning over a **grievance** she couldn't quite name — not rage, just a low, persistent **dysphoria** that had settled in her chest like fog. She was **reluctant** to call it depression; that word felt too large. Still, something was wrong.
 
 Her therapist had once told her she had a gift for being able to **empathize** with nearly anyone, to step so fully into another person's **sensation** that their pain became her own. That quality was **endearing** to her friends, exhausting to herself. Now she wondered if it had curdled into something closer to **masochism** — as if she, the quiet **masochist** she'd never admitted to being, sought out other people's sorrow just to have something to feel.
@@ -407,47 +441,51 @@ By noon the mood had shifted, as moods do. Her colleague arrived **exuberant**, 
 But the **pessimist** in her lingered at the edge of the room. Some part of her brain was still running its **obsession** — a loop, a **nightmare** she hadn't dreamed but somehow carried. The **sentiment** she kept returning to was old and worn smooth: that happiness was temporary, that joy had the texture of **phantasia**, beautiful precisely because it wasn't solid. She recognised in herself a tendency to **satisfice** — to accept just enough calm rather than reach for something more. It was safer that way. Less **repulsive** than the alternative of wanting too much and being **miserable** when it didn't last.
 
 By evening she had found a different register. A glass of wine, a dog-eared novel, the particular **nostalgia** of a song heard through a wall. She was **plastered** with nothing stronger than tiredness. **Fervently** she hoped the next day would arrive with less weight. And there was, beneath all of it, a faint, **irritated** tenderness toward herself — for the **philogyny** she held for the women in the books she loved, for the strange, **endearing** mess of being a person who felt things this loudly, this often, this much.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| dysphoria | n. | 病理性心境恶劣，烦躁不安 |
-| empathize | v. | 移情,神会 |
-| endearing | adj. | 使人喜欢的;讨人喜欢的 |
-| exuberant | adj. | 兴高采烈的；活跃的；愉快的; 茁壮的，繁茂的 |
-| fervently | adv. | 热烈地;热情地;强烈地 |
-| gratitude | n. | 感激, 感谢 |
-| grievance | n. | 委屈, 苦衷, 不满, 怨恨 |
-| hilarious | adj. | 十分有趣的, 非常滑稽的; 欢闹的 |
-| inebriate | adj. | 酒醉的; 酒鬼,酗酒者; 使酒醉,灌醉; 使兴奋 |
-| irritated | adj. | 恼怒的,生气的 |
-| ludicrous | adj. | 荒唐可笑的,滑稽可笑的 |
-| luxuriate | vi. | 茂盛的生长,生活奢侈,沉溺 |
-| masochism | n. | 受虐狂；被虐待狂 |
-| masochist | n. | 性受虐狂者,受虐狂者 |
-| miserable | adj. | 悲惨的，不幸的，可怜的; 令人痛苦的；令人不快的 |
-| nightmare | n. | 噩梦; 〈口〉可怕的事情, 无法摆脱的恐惧 |
-| nostalgia | n. | 对往事的怀恋, 怀旧 |
-| obsession | n. | 困扰, 无法摆脱的思想 |
-| pensively | adv. | 沉思地,焦虑地 |
-| pessimist | n. | 悲观主义者 |
-| phantasia | n. | 幻想，白日梦 |
-| philogyny | n. | 对女人喜欢,对女子的爱慕 |
-| plastered | adj. | 喝醉了的 |
-| reluctant | adj. | 不情愿的, 勉强的 |
-| repulsive | adj. | 令人厌恶的,可憎的 |
-| resentful | adj. | 感到愤恨的, 表示愤恨的, 憎恨的 |
-| satisfice | vi. | 满足最低要求 |
-| seduction | n. | 诱惑；魅力；诱惑物 |
-| sensation | n. | 感觉, 感受; 知觉; 激动, 轰动 |
-| sentiment | n. | 柔情; 态度或意见; 观点; 意见 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **dysphoria** <span class="wpos">n.</span> | 病理性心境恶劣，烦躁不安 |
+| **empathize** <span class="wpos">v.</span> | 移情,神会 |
+| **endearing** <span class="wpos">adj.</span> | 使人喜欢的;讨人喜欢的 |
+| **exuberant** <span class="wpos">adj.</span> | 兴高采烈的；活跃的；愉快的; 茁壮的，繁茂的; 兴高采烈地；活跃地；愉快地 |
+| **fervently** <span class="wpos">adv.</span> | 热烈地;热情地;强烈地 |
+| **gratitude** <span class="wpos">n.</span> | 感激, 感谢 |
+| **grievance** <span class="wpos">n.</span> | 委屈, 苦衷, 不满, 怨恨 |
+| **hilarious** <span class="wpos">adj.</span> | 十分有趣的, 非常滑稽的; 欢闹的 |
+| **inebriate** <span class="wpos">adj.</span> | 酒醉的; 酒鬼,酗酒者; 使酒醉,灌醉; 使兴奋 |
+| **irritated** <span class="wpos">adj.</span> | 恼怒的,生气的 |
+| **ludicrous** <span class="wpos">adj.</span> | 荒唐可笑的,滑稽可笑的 |
+| **luxuriate** <span class="wpos">vi.</span> | 茂盛的生长,生活奢侈,沉溺 |
+| **masochism** <span class="wpos">n.</span> | 受虐狂；被虐待狂 |
+| **masochist** <span class="wpos">n.</span> | 性受虐狂者,受虐狂者 |
+| **miserable** <span class="wpos">adj.</span> | 悲惨的，不幸的，可怜的; 令人痛苦的；令人不快的; 低劣的；贫乏的; 卑鄙的，可耻的，可恶的 |
+| **nightmare** <span class="wpos">n.</span> | 噩梦; 〈口〉可怕的事情, 无法摆脱的恐惧 |
+| **nostalgia** <span class="wpos">n.</span> | 对往事的怀恋, 怀旧 |
+| **obsession** <span class="wpos">n.</span> | 困扰, 无法摆脱的思想 |
+| **pensively** <span class="wpos">adv.</span> | 沉思地,焦虑地 |
+| **pessimist** <span class="wpos">n.</span> | 悲观主义者 |
+| **phantasia** <span class="wpos">n.</span> | 幻想，白日梦 |
+| **philogyny** <span class="wpos">n.</span> | 对女人喜欢,对女子的爱慕 |
+| **plastered** <span class="wpos">adj.</span> | 喝醉了的 |
+| **reluctant** <span class="wpos">adj.</span> | 不情愿的, 勉强的 |
+| **repulsive** <span class="wpos">adj.</span> | 令人厌恶的,可憎的 |
+| **resentful** <span class="wpos">adj.</span> | 感到愤恨的, 表示愤恨的, 憎恨的 |
+| **satisfice** <span class="wpos">vi.</span> | 满足最低要求 |
+| **seduction** <span class="wpos">n.</span> | 诱惑；魅力；诱惑物 |
+| **sensation** <span class="wpos">n.</span> | 感觉, 感受; 知觉; 激动, 轰动 |
+| **sentiment** <span class="wpos">n.</span> | 柔情; 态度或意见; 观点; 意见 |
+:::
+:::
+::::
 
 ### The Weight We Carry Through the Night
 
+:::: {.columns}
+::: {.column width="57%"}
 She lay **shattered** on the kitchen floor — not physically broken, but hollowed out in the way only grief can hollow a person. The news had been **startling**, almost surreal: her brother, whom she had spoken to just that morning, was gone. Nothing could have **stimulate**d her back to herself that night, not tea, not television, not the careful **condolence**s her neighbours pressed through the door.
 
 A quiet **suspicion** crept in by midnight — had she missed the signs? The thought was **torturous**, cycling through her mind in a loop she couldn't break. It was **uncannily** familiar, this particular shade of guilt; she had felt it once before, years ago, and now it returned **withering** her confidence, stripping her bare. She was **distracted** beyond reason, **distraught** in a way that made the walls feel closer. The **desolation** was total, a vast inland silence she couldn't see across.
@@ -461,47 +499,51 @@ By the second day, **discontent** with her own numbness set in. Friends offered 
 She worried she was becoming **delusional** — that the sense of his presence in the next room was a symptom rather than a gift. Her therapist had warned her about this, the mind's **enchanting** talent for softening unbearable fact into bearable fiction.
 
 Still, on the third morning, light came through the curtain at a particular angle, and something in her stirred — not joy, not yet, but **aspiration** of a different kind: the small, **startling** desire to go on.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| shattered | adj. | 破碎的；极度疲劳的 打碎；削弱；使心烦意乱 |
-| startling | adj. | 令人震惊的,惊人的 |
-| stimulate | vt. | 刺激；激励 |
-| suspicion | n. | 怀疑, 嫌疑; 疑心, 猜疑; 一点儿, 少量 |
-| torturous | adj. | 折磨人的;充满痛苦的 |
-| uncannily | adv. | 惊异地,危险地,神秘地 |
-| vicarious | adj. | 从他人经验中获得的；间接感受到的 |
-| withering | adj. | 使人畏缩的; 使人害羞的; 使人难堪的 |
-| affliction | n. | 折磨；苦恼；苦难 |
-| alienation | n. | 离间,疏远; 疏离感；离心离德 |
-| allurement | n. | 诱惑;吸引; 诱惑物;有诱惑力的事物 |
-| ambivalent | adj. | 对某物、某人或某境况具有或显示矛盾情感的 |
-| appetitive | adj. | 食欲的,有食欲的,促进食欲的 |
-| aspiration | n. | 抱负；志向；渴望；送气音 |
-| astounding | adj. | 使人震惊的 |
-| blubbering |  | 提取鲸脂 |
-| burdensome | adj. | 繁重的,烦累的,难以承担的 |
-| compassion | n. | 怜悯, 同情 |
-| compulsion | n. | 强迫,被迫; 欲望,冲动,要求 |
-| compulsive | adj. | 极有趣的，令人着迷的; 因着迷而引起的，上瘾的; 强迫性的; 极有趣地，令人着迷地；强迫性地 |
-| condolence | n. | 同情;吊唁 |
-| delusional |  | 妄想的 |
-| desolation | n. | 荒芜；废墟；孤寂；忧伤 |
-| despondent | adj. | 沮丧的,泄气的 |
-| discontent | n. | 不满 |
-| discourage | vt. | 使气馁；使沮丧; 阻碍；劝阻 |
-| disgruntle | vt. | 使不高兴 |
-| distracted | adj. | 心烦意乱的,慌张失措的,错乱的 |
-| distraught | adj. | 忧心如焚的;心神错乱的;几乎发狂的 |
-| enchanting | adj. | 使人喜悦的，可爱的；迷人的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **shattered** <span class="wpos">adj.</span> | 破碎的；极度疲劳的 打碎；削弱；使心烦意乱 |
+| **startling** <span class="wpos">adj.</span> | 令人震惊的,惊人的 |
+| **stimulate** <span class="wpos">vt.</span> | 刺激；激励 |
+| **suspicion** <span class="wpos">n.</span> | 怀疑, 嫌疑; 疑心, 猜疑; 一点儿, 少量 |
+| **torturous** <span class="wpos">adj.</span> | 折磨人的;充满痛苦的 |
+| **uncannily** <span class="wpos">adv.</span> | 惊异地,危险地,神秘地 |
+| **vicarious** <span class="wpos">adj.</span> | 从他人经验中获得的；间接感受到的 |
+| **withering** <span class="wpos">adj.</span> | 使人畏缩的; 使人害羞的; 使人难堪的 |
+| **affliction** <span class="wpos">n.</span> | 折磨；苦恼；苦难 |
+| **alienation** <span class="wpos">n.</span> | 离间,疏远; 疏离感；离心离德 |
+| **allurement** <span class="wpos">n.</span> | 诱惑;吸引; 诱惑物;有诱惑力的事物 |
+| **ambivalent** <span class="wpos">adj.</span> | 对某物、某人或某境况具有或显示矛盾情感的 |
+| **appetitive** <span class="wpos">adj.</span> | 食欲的,有食欲的,促进食欲的 |
+| **aspiration** <span class="wpos">n.</span> | 抱负；志向；渴望；送气音 |
+| **astounding** <span class="wpos">adj.</span> | 使人震惊的 |
+| **blubbering** | 提取鲸脂 |
+| **burdensome** <span class="wpos">adj.</span> | 繁重的,烦累的,难以承担的 |
+| **compassion** <span class="wpos">n.</span> | 怜悯, 同情 |
+| **compulsion** <span class="wpos">n.</span> | 强迫,被迫; 欲望,冲动,要求 |
+| **compulsive** <span class="wpos">adj.</span> | 极有趣的，令人着迷的; 因着迷而引起的，上瘾的; 强迫性的; 极有趣地，令人着迷地；强迫性地 |
+| **condolence** <span class="wpos">n.</span> | 同情;吊唁 |
+| **delusional** | 妄想的 |
+| **desolation** <span class="wpos">n.</span> | 荒芜；废墟；孤寂；忧伤 |
+| **despondent** <span class="wpos">adj.</span> | 沮丧的,泄气的 |
+| **discontent** <span class="wpos">n.</span> | 不满 |
+| **discourage** <span class="wpos">vt.</span> | 使气馁；使沮丧; 阻碍；劝阻 |
+| **disgruntle** <span class="wpos">vt.</span> | 使不高兴 |
+| **distracted** <span class="wpos">adj.</span> | 心烦意乱的,慌张失措的,错乱的 |
+| **distraught** <span class="wpos">adj.</span> | 忧心如焚的;心神错乱的;几乎发狂的 |
+| **enchanting** <span class="wpos">adj.</span> | 使人喜悦的，可爱的；迷人的 |
+:::
+:::
+::::
 
 ### The Weight of a Wednesday Night
 
+:::: {.columns}
+::: {.column width="57%"}
 She had always been **optimistic** by nature, but tonight something felt **unsettling**. Sitting cross-legged on the bedroom floor, **meditating** in the amber glow of a single lamp, she tried to chase away the quiet **melancholy** that had crept in since sundown. The day had been **horrendous** — a cascade of small **misfortune**s that alone meant nothing but together left her feeling **vulnerable**, as though the world had decided to squeeze her all at once. A colleague's **irritating** comment at the morning meeting had lodged itself in her mind like a splinter; the **irritation** had curdled, by noon, into low-grade **resentment**, and by evening into the dull ache of **unpleasure** she could not quite name.
 
 She thought about Marcus, the **disgruntled** neighbour who had slipped an **uninspired**, barely coherent note under her door complaining about noise. He struck her as a **malcontent** of the purest kind — someone whose **despondency** had calcified into a permanent posture of grievance. There was even talk in the building that he had once threatened the landlord in a manner so extreme that people whispered the word **psychopath**, though she suspected that was an exaggeration born of **fanaticism** for gossip. Still, his letter had made her feel **constrained**, watched, as if her own home were suddenly a place that required permission. A flash of anger rose — she was genuinely **pissed off** — before she breathed it back down. Letting him become an **abomination** in her mind would only deepen the trap.
@@ -509,47 +551,51 @@ She thought about Marcus, the **disgruntled** neighbour who had slipped an **uni
 What she wanted, she realised, was **eudaemonia** — not the fizzy **exuberance** of a good party or the **captivating** rush of a new idea, but the steadier thing: **contentment**, the quiet proof that a life was being lived well. The **intriguing** puzzle was how to hold onto it when everything felt like it was pulling the other way. She had the **reluctance** of someone who knew the answer but found it **constrained** by habit — she kept choosing **complacency** over growth, kept threatening to change and then **chicken out**-ing at the last moment. The **drunkenness** of routine was its own kind of comfort, even when it numbed. She wanted to be **passionate** about something again, **passionate** the way she had been at twenty-two, before the years had taught her caution.
 
 She exhaled slowly, and let the lamp burn a little longer.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| eudaemonia | n. | 幸福,因理性而积极生活所带来的幸福 |
-| exuberance | n. | 兴高采烈; 活跃; 愉快; 茁壮 |
-| fanaticism | n. | 狂热;盲信;着迷 |
-| horrendous | adj. | 可怕的, 恐怖的; 极讨厌的 |
-| intriguing | adj. | 引起好奇心的;令人感兴趣的;有迷惑力的 |
-| irritating | adj. | 气人的, 使人不愉快的; 起刺激作用的 |
-| irritation | n. | 刺激；刺激物；激怒；兴奋 |
-| malcontent | n. | 不满者; 不满的 |
-| meditating | adj. | 沉思的, 冥想的@动词meditate的 |
-| melancholy | n. | 忧郁, 悲哀; 忧郁的, 悲伤的 |
-| misfortune | n. | 不幸, 厄运, 逆境; 不幸的事, 灾难, 灾祸 |
-| optimistic | adj. | 乐观的, 乐观主义的 |
-| passionate | adj. | 多情的; 表现激情的，激昂的; 热切的；强烈的 |
-| pissed off | | 愤怒；生气，不高兴 |
-| psychopath | n. | 精神变态者,精神病患者 |
-| reluctance | n. | 不愿意；勉强 |
-| resentment | n. | 愤恨,不满,怨恨 |
-| uninspired | adj. | 无想像力的; 无灵感的; 枯燥的 |
-| unpleasure | n. | 不愉快,不高兴,不满足 |
-| unsettling | adj. | 使人不安的;混乱的 |
-| vulnerable | adj. | 易受伤的, 脆弱的, 敏感的 |
-| abomination | n. | 厌恶；憎恨；令人厌恶的事物 |
-| captivating | adj. | 迷人的; 有魅力的; 有吸引力的 |
-| chicken out | | 临阵退缩；因害怕而停止做某事 |
-| complacency | n. | 自满;自得;自鸣得意 |
-| constrained | adj. | 不舒服的,被强迫的,拘泥的 |
-| contentment | n. | 满足,满意 |
-| despondency | n. | 失去勇气,失望 |
-| disgruntled | adj. | 不满的, 不高兴的 |
-| drunkenness | n. | 酩酊,醉态,醉 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **eudaemonia** <span class="wpos">n.</span> | 幸福,因理性而积极生活所带来的幸福 |
+| **exuberance** <span class="wpos">n.</span> | 兴高采烈; 活跃; 愉快; 茁壮 |
+| **fanaticism** <span class="wpos">n.</span> | 狂热;盲信;着迷 |
+| **horrendous** <span class="wpos">adj.</span> | 可怕的, 恐怖的; 极讨厌的 |
+| **intriguing** <span class="wpos">adj.</span> | 引起好奇心的;令人感兴趣的;有迷惑力的 |
+| **irritating** <span class="wpos">adj.</span> | 气人的, 使人不愉快的; 起刺激作用的 |
+| **irritation** <span class="wpos">n.</span> | 刺激；刺激物；激怒；兴奋 |
+| **malcontent** <span class="wpos">n.</span> | 不满者; 不满的 |
+| **meditating** <span class="wpos">adj.</span> | 沉思的, 冥想的@动词meditate的 |
+| **melancholy** <span class="wpos">n.</span> | 忧郁, 悲哀; 忧郁的, 悲伤的 |
+| **misfortune** <span class="wpos">n.</span> | 不幸, 厄运, 逆境; 不幸的事, 灾难, 灾祸 |
+| **optimistic** <span class="wpos">adj.</span> | 乐观的, 乐观主义的 |
+| **passionate** <span class="wpos">adj.</span> | 多情的; 表现激情的，激昂的; 热切的；强烈的 |
+| **pissed off** | 愤怒；生气，不高兴 |
+| **psychopath** <span class="wpos">n.</span> | 精神变态者,精神病患者 |
+| **reluctance** <span class="wpos">n.</span> | 不愿意；勉强 |
+| **resentment** <span class="wpos">n.</span> | 愤恨,不满,怨恨 |
+| **uninspired** <span class="wpos">adj.</span> | 无想像力的; 无灵感的; 枯燥的 |
+| **unpleasure** <span class="wpos">n.</span> | 不愉快,不高兴,不满足 |
+| **unsettling** <span class="wpos">adj.</span> | 使人不安的;混乱的 |
+| **vulnerable** <span class="wpos">adj.</span> | 易受伤的, 脆弱的, 敏感的 |
+| **abomination** <span class="wpos">n.</span> | 厌恶；憎恨；令人厌恶的事物 |
+| **captivating** <span class="wpos">adj.</span> | 迷人的; 有魅力的; 有吸引力的 |
+| **chicken out** | 临阵退缩；因害怕而停止做某事 |
+| **complacency** <span class="wpos">n.</span> | 自满;自得;自鸣得意 |
+| **constrained** <span class="wpos">adj.</span> | 不舒服的,被强迫的,拘泥的 |
+| **contentment** <span class="wpos">n.</span> | 满足,满意 |
+| **despondency** <span class="wpos">n.</span> | 失去勇气,失望 |
+| **disgruntled** <span class="wpos">adj.</span> | 不满的, 不高兴的 |
+| **drunkenness** <span class="wpos">n.</span> | 酩酊,醉态,醉 |
+:::
+:::
+::::
 
 ### The Weight of a Restless Mind
 
+:::: {.columns}
+::: {.column width="57%"}
 Marcus sat in the empty café, **contemplative** and still, nursing the same cold coffee he had ordered an hour ago. Outside, autumn light fell in pale strips across the pavement — almost **invigorating**, if he had been in any mood to notice. He was not. He had been caught in a **predicament** for weeks now: a friendship quietly collapsing, and no clean way to stop it.
 
 He had watched Yuna grow **disapproving** of nearly everything he did — his **recreational** Saturday hikes, his taste in music, the **sentimental** photographs he kept pinned above his desk. Her **disaffection** had crept in without announcement, and **regrettably**, he had not seen it coming. Now their exchanges carried something **off-putting** he could not name — a flatness, an absence of warmth. He **wonder about** whether he had changed, or she had, or both. The **introspection** was exhausting.
@@ -561,65 +607,71 @@ What stung most was the **inferiority** he felt when he replayed the arguments: 
 He scrolled through old messages **frantically**, then stopped himself. This was not **self-esteem** — this was its opposite. The **tribulation** of replaying old conversations was producing nothing but a low-grade **hallucination** of meaning, seeing intentions in punctuation and pauses. He needed **tranquility**, not more evidence.
 
 He closed his phone and let his eyes go soft on the window. Some part of him carried a quiet **wistfulness** for the version of himself who had walked into this friendship without all this weight. That person had been **light-hearted**, easy, unburdened by the **preoccupation** of wondering whether he was enough. He did not know how to return to that. But sitting here, at least, he had stopped moving **frantically** — and that, for now, felt like a beginning, however small, of something **psychedelic** in the truest sense: a shift in how the whole picture looked.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| frantically | adv. | 疯狂地;狂热地 |
-| inferiority | n. | 劣势，劣等；下等；次级; 自卑情绪，自卑感 |
-| megalomania | n. | 妄想自大狂; 狂热 |
-| nympholepsy | n. | 狂乱,着迷,狂热,性欲增盛,小阴唇切除术 |
-| off-putting | adj. | 令人厌恶的; 老是推托的 |
-| predicament | n. | 困难的处境;窘境 |
-| psychedelic | adj. | 引起幻觉的,致幻觉的; 产生迷幻效果的 |
-| regrettably | adv. | 抱歉地,遗憾地,可悲地 |
-| self-esteem | n. | 自尊; 自负 |
-| sensibility | n. | 识别力, 敏感性, 灵敏性; 感情 |
-| sentimental | adj. | 伤感的, 多愁善感的; 感情用事的, 寓有情感的 |
-| slack-jawed | adj. | 发呆的,目瞪口呆的 |
-| sour grapes | | 酸葡萄；酸葡萄作用 |
-| sympathetic | adj. | 表示同情的; 赞同的, 支持的 |
-| tranquility | n. | 平静;安静;安宁; 平稳;稳定 |
-| tribulation | n. | 苦难；磨难；忧患 |
-| wistfulness | n. | 渴望,愿望 |
-| affectionate | adj. | 慈爱的,充满深情的,温柔亲切的 |
-| apprehension | n. | 忧虑,担心; 逮捕; 理解；领悟 |
-| apprehensive | adj. | 不安的；害怕的；担心的；恐惧的；焦虑的; 善于领会的；敏悟的; 知晓的，有认识力的 |
-| disaffection | n. | 不忠; 不满 |
-| disapproving | adj. | 不满的;反对的 |
-| invigorating | adj. | 精神充沛的,爽快的 |
-| recreational | adj. | 休养的,娱乐的 |
-| wonder about | | |
-| contemplative | adj. | 沉思的, 出神的 |
-| hallucination | n. | 幻觉，幻想；错觉 |
-| introspection | n. | 反省,内省 |
-| light-hearted | adj. | 轻松愉快的,无忧无虑的; 随便的,漫不经心的 |
-| preoccupation | n. | 全神贯注，入神; 当务之急；使人全神贯注的事物 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **frantically** <span class="wpos">adv.</span> | 疯狂地;狂热地 |
+| **inferiority** <span class="wpos">n.</span> | 劣势，劣等；下等；次级; 自卑情绪，自卑感 |
+| **megalomania** <span class="wpos">n.</span> | 妄想自大狂; 狂热 |
+| **nympholepsy** <span class="wpos">n.</span> | 狂乱,着迷,狂热,性欲增盛,小阴唇切除术 |
+| **off-putting** <span class="wpos">adj.</span> | 令人厌恶的; 老是推托的 |
+| **predicament** <span class="wpos">n.</span> | 困难的处境;窘境 |
+| **psychedelic** <span class="wpos">adj.</span> | 引起幻觉的,致幻觉的; 产生迷幻效果的 |
+| **regrettably** <span class="wpos">adv.</span> | 抱歉地,遗憾地,可悲地 |
+| **self-esteem** <span class="wpos">n.</span> | 自尊; 自负 |
+| **sensibility** <span class="wpos">n.</span> | 识别力, 敏感性, 灵敏性; 感情 |
+| **sentimental** <span class="wpos">adj.</span> | 伤感的, 多愁善感的; 感情用事的, 寓有情感的 |
+| **slack-jawed** <span class="wpos">adj.</span> | 发呆的,目瞪口呆的 |
+| **sour grapes** | 酸葡萄；酸葡萄作用 |
+| **sympathetic** <span class="wpos">adj.</span> | 表示同情的; 赞同的, 支持的 |
+| **tranquility** <span class="wpos">n.</span> | 平静;安静;安宁; 平稳;稳定 |
+| **tribulation** <span class="wpos">n.</span> | 苦难；磨难；忧患 |
+| **wistfulness** <span class="wpos">n.</span> | 渴望,愿望 |
+| **affectionate** <span class="wpos">adj.</span> | 慈爱的,充满深情的,温柔亲切的 |
+| **apprehension** <span class="wpos">n.</span> | 忧虑,担心; 逮捕; 理解；领悟 |
+| **apprehensive** <span class="wpos">adj.</span> | 不安的；害怕的；担心的；恐惧的；焦虑的; 善于领会的；敏悟的; 知晓的，有认识力的 |
+| **disaffection** <span class="wpos">n.</span> | 不忠; 不满 |
+| **disapproving** <span class="wpos">adj.</span> | 不满的;反对的 |
+| **invigorating** <span class="wpos">adj.</span> | 精神充沛的,爽快的 |
+| **recreational** <span class="wpos">adj.</span> | 休养的,娱乐的 |
+| **wonder about** |  |
+| **contemplative** <span class="wpos">adj.</span> | 沉思的, 出神的 |
+| **hallucination** <span class="wpos">n.</span> | 幻觉，幻想；错觉 |
+| **introspection** <span class="wpos">n.</span> | 反省,内省 |
+| **light-hearted** <span class="wpos">adj.</span> | 轻松愉快的,无忧无虑的; 随便的,漫不经心的 |
+| **preoccupation** <span class="wpos">n.</span> | 全神贯注，入神; 当务之急；使人全神贯注的事物 |
+:::
+:::
+::::
 
 ### The Weight of Waking Up
 
+:::: {.columns}
+::: {.column width="57%"}
 She sat at the edge of the bed, trying to **collect myself** after another restless night. The **psychological** damage of the past year had settled into her bones quietly, the way cold does. She had believed in something — in him, in the project, in the version of herself that seemed to have it all figured out — and now the **disillusionment** sat in her chest like a stone that refused to dissolve.
 
 Her therapist had told her she was **psychologically** resilient, that she processed loss better than most. She wanted to believe that. But some mornings she still caught herself drifting back into **cloud-cuckoo-land**, replaying the old story where everything turned out fine, where the recognition finally came, where she was enough.
 
 It was the **emotional arousal** that surprised her most — how a single memory could spike her pulse, flood her with heat, then leave her hollow. She had started to recognize it as a signal rather than a verdict. And slowly, hesitantly, something lighter was threading through the heaviness. When her niece called just to say "**Hooray for you!**" after hearing she'd submitted the application, she laughed — a real one. The **Impostor Syndrome** was still there, whispering that she didn't deserve any of it. But for one quiet moment, she let the warmth land anyway.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| psychological | adj. | 心理的; 精神的; 心理学的; 关于心理学的 |
-| collect myself | — | — |
-| disillusionment | n. | 醒悟;理想破灭 |
-| psychologically | adv. | 心理上地;心理学地 |
-| cloud-cuckoo-land | n. | 脱离现实的幻境 |
-| emotional arousal | — | — |
-| Horray for you! | — | — |
-| Impostor Syndrome | — | — |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **psychological** <span class="wpos">adj.</span> | 心理的; 精神的; 心理学的; 关于心理学的 |
+| **collect myself** |  |
+| **disillusionment** <span class="wpos">n.</span> | 醒悟;理想破灭 |
+| **psychologically** <span class="wpos">adv.</span> | 心理上地;心理学地 |
+| **cloud-cuckoo-land** <span class="wpos">n.</span> | 脱离现实的幻境 |
+| **emotional arousal** |  |
+| **Horray   for you!** |  |
+| **Impostor Syndrome** |  |
+:::
+:::
+::::

@@ -2,12 +2,14 @@
 
 
 
-> 本主题共 6 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 6 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### The Clock's Long Shadow
 
+:::: {.columns}
+::: {.column width="57%"}
 Long before **DST** was invented to squeeze an extra hour of light from the reluctant sun, people read time in simpler contrasts: **dawn**, when the sky cracked pale and cold over the fields, and **dusk**, when the same fields dissolved into shadow. Between those two poles, the day ran its **cycle** — not always tidily, not always on schedule, but always forward.
 
 Civilizations, too, moved in cycles. Each **epoch** announced its own **advent** with fanfare, then quietly began to **decay**. What an **eon** of geology accomplishes in stone, a century of politics manages in the reputations of empires. Power was in **flux**: it rose, peaked, and entered its **ebb** before anyone had quite noticed the turn. And what **ensued** was rarely the clean break the victors promised — more often a long **hiatus**, a gap in the record, a silence that only later generations could read as transition.
@@ -15,93 +17,101 @@ Civilizations, too, moved in cycles. Each **epoch** announced its own **advent**
 Progress was seldom free of **lag**. Ideas that would one day remake the world spent **prior** decades ignored, their champions dismissed as **tardy** arrivals to conversations that had not yet started. A thinker might endure a lonely **stint** at the margins before the age finally **morphed** around their insight. Change did not announce itself; it accumulated. One **nonce** observation became a pattern; a pattern **begot** a theory; the theory, once it **ceased** to be controversial, hardened into common sense and eventually into **relic**.
 
 In the **midst** of it all, individuals felt only the grain of the immediate: the **haste** with which a deadline approached, the need to **hurry** a decision before circumstance decided for them, the way a good season could **elapse** before one had properly enjoyed it. Those who learned to **forego** urgency — to let time work on a problem — often found that what looked like the **demise** of a plan was merely its dormancy. The thing would **recur**, altered and stronger. It always did. Whatever came before had not been wasted; it had simply been **altering** itself, grain by grain, into whatever came next.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| DST | — | abbr. daylight saving time 经济时 |
-| ebb | n. | 退潮；衰退；衰落 |
-| eon | n. | 永世；无数的年代；极长时期 |
-| lag | n. | 迟延；落后；滞后 |
-| dawn | n. | 拂晓，破晓，黎明；开端 |
-| dusk | n. | 黄昏，薄暮；幽暗，昏暗 |
-| fade | vt. | 褪去，变弱，枯萎；逐渐消失 |
-| flux | n. | 连续的改变；不稳定的状态 |
-| alter | vt. | 改变，更改 |
-| beget | vt. | 产生，引起 |
-| cycle | n. | 循环；周期；一段时间 |
-| decay | vi. | 腐烂，腐朽；衰退，衰减 |
-| ensue | vi. | 跟着发生，接着发生；继起 |
-| epoch | n. | 纪元，时期，时代 |
-| haste | n. | 匆忙；急忙；轻率 |
-| hurry | vt. | 催促；急忙 |
-| midst | n. | 当中，中间 |
-| morph | n. | 变体；改变 |
-| nonce | n. | 现时，目前 |
-| prior | adj. | 在先的，在前的；优先的 |
-| recur | vi. | 重现；复发；再来 |
-| relic | n. | 遗物，遗迹，遗产 |
-| stint | n. | 从事某项工作的时间；定额 |
-| tardy | adj. | 行动缓慢的；迟缓的；迟的 |
-| advent | n. | 出现，到来 |
-| ceased | v. | 中止；中断；停止 |
-| demise | n. | 死亡，终止 |
-| elapse | vi. | 时间过去；消逝 |
-| forego | vt. | 走在…之前；居先 |
-| hiatus | n. | 裂缝，空隙；脱漏部分 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **DST** | abbr. daylight saving time 经济时 |
+| **ebb** <span class="wpos">n.</span> | 退潮；衰退；衰落; 衰退；衰落；潮退；减少 EBBabbr. Early Basic Breccia… |
+| **eon** <span class="wpos">n.</span> | 永世；无数的年代；极长时期 |
+| **lag** <span class="wpos">n.</span> | 迟延；防护套；囚犯；桶板；落后; 押往监狱；落后于；加上外套; 滞后；缓缓而行；蹒跚; 最后的 |
+| **dawn** <span class="wpos">n.</span> | 拂晓，破晓，黎明; 开端；曙光；萌芽; 破晓；开始; 见分晓，水落石出；变得明朗 Dawnn. 道恩 |
+| **dusk** <span class="wpos">n.</span> | 黄昏，薄暮；幽暗，昏暗; 微暗的; 使变微暗; 变微暗 |
+| **fade** <span class="wpos">vt.</span> | &amp; 褪去, 变弱, 枯萎; 逐渐消失 |
+| **flux** <span class="wpos">n.</span> | 连续的改变；不稳定的状态 |
+| **alter** <span class="wpos">vt.</span> | 改变，更改; 改变；修改 |
+| **beget** <span class="wpos">vt.</span> | 为…之生父; 产生,引起 |
+| **cycle** <span class="wpos">n.</span> | 循环；周期；整套；自行车；一段时间; 使循环；使轮转; 骑自行车；循环；轮转 |
+| **decay** <span class="wpos">vi.</span> | 腐烂，腐朽；衰退，衰减; 衰退，衰减；腐烂，腐朽; 使腐烂，使腐败；使衰退，使衰落 |
+| **ensue** <span class="wpos">vi.</span> | 跟着发生，接着发生；继起; 追求 |
+| **epoch** <span class="wpos">n.</span> | 纪元, 时期, 时代 |
+| **haste** <span class="wpos">n.</span> | 匆忙；急忙；轻率; 匆忙；赶紧; 赶快 |
+| **hurry** <span class="wpos">vt.</span> | &amp; 催促；急忙; 匆忙，急忙 |
+| **midst** <span class="wpos">n.</span> | 当中，中间; 在…中间 |
+| **morph** <span class="wpos">n.</span> | 词态；语素；变体; 在屏幕上变换图像；改变 |
+| **nonce** <span class="wpos">n.</span> | 现时,目前 |
+| **prior** <span class="wpos">adj.</span> | 在先的，在前的；优先的; 在前，居先 Prior普赖尔 |
+| **recur** <span class="wpos">vi.</span> | 重现；复发；再来；采用；循环；递归 |
+| **relic** <span class="wpos">n.</span> | 遗物, 遗迹, 遗产; 遗体, 尸骸 |
+| **stint** <span class="wpos">n.</span> | 节约；定额，定量；从事某项工作的时间；有限供给，有限的努力；滨鹬；一段时间 节省；限制；节约，吝啬；… |
+| **tardy** <span class="wpos">adj.</span> | 行动缓慢的, 缓缓移动的, 迟缓的; 晚的, 迟的 |
+| **advent** <span class="wpos">n.</span> | 出现, 到来 |
+| **ceased** <span class="wpos">v.</span> | 中止；中断；停止 |
+| **demise** <span class="wpos">n.</span> | 死亡，终止；转让；传位; 遗赠；禅让 |
+| **elapse** <span class="wpos">vi.</span> | 时间过去；消逝; 时间的过去；流逝 |
+| **forego** <span class="wpos">vt.</span> | 走在…之前,居先 |
+| **hiatus** <span class="wpos">n.</span> | 裂缝，空隙；脱漏部分 |
+:::
+:::
+::::
 
 ### The Clock That Cannot Be Rewound
 
+:::: {.columns}
+::: {.column width="57%"}
 At the **outset**, the old **sundial** stood in the garden like a patient teacher, its shadow **ticking** across stone as the morning light climbed. The village was **nascent** then — a **budding** cluster of rooftops and mud lanes where every **grownup** still remembered the smell of **infancy**, and the young had not yet learned that time moves in only one direction.
 
 Those early decades felt **cyclical**, the seasons **preceding** each other with a kind of comfort. In the long **interim** between harvests, life seemed to enter a **dormant** **stasis** — fields resting, ambitions quietly **slumbering** in the cold. Yet beneath that stillness the world was already shifting. Fortunes began to **crumble** and **dwindle**; old certainties that once felt **mature** and solid turned brittle. Anxiety **loomed** on the horizon long before anyone named it, and the **lagging** signs of decay were easy to miss when you were busy tending to **recess** and routine.
 
 The hardest lesson was that you cannot **rewind** the tape. What the **bygones** held — the laughter, the quarrels, the long afternoons when light would **linger** on the water — could only be **relived** in memory, never in fact. Grief, if left alone, tends to **regress** into numbness; but numbness, too, will eventually **subside** if you do not let sorrow **retard** the slow work of healing. Some mornings a person must simply **commence** again: let the old aches **perish**, refuse to let the fear of what is **looming** become an excuse for **stasis**. At **last**, the **kickoff** of a new chapter rarely announces itself with fanfare — it arrives quietly, the way dawn does, and you only recognize it looking back.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| linger | vi. | 逗留, 徘徊; 缓慢消失 |
-| mature | adj. | 成熟的；到期的；成年人的；充分考虑的; 到期；成熟; 使…成熟；使…长成；慎重作出 |
-| outset | n. | 开始, 开端 |
-| perish | vt. | 使麻木；毁坏; 死亡；毁灭；腐烂；枯萎 |
-| recess | n. | 中止或暂停期间; 学校的课间休息; 壁凹；壁龛; 某物内部的凹形空间; 遥远或隐秘的地方; 把某物放… |
-| relive | vt. | 再体验; 复活；再生 |
-| retard | vt. | 使减速；妨碍；阻止; 推迟，延迟; 使延迟; 减慢；受到阻滞; 减速；阻滞；延迟 |
-| rewind | n. | 重绕；倒带器; 重绕；倒回; 倒回；重绕 |
-| stasis | n. | 郁积，停滞；血行停滞 |
-| at last | | 终于, 最后 |
-| budding | adj. | 正发芽的；开始发育的,成长中的; 新获得成功的,初露头角的; 发芽 |
-| bygones | n. | 往事；往昔恩怨 |
-| crumble | vt. | & 弄碎, 碎成细屑; 衰落, 崩溃 |
-| dormant | adj. | 潜伏的,蛰服的,休眠的 |
-| dwindle | vi. | 逐渐变少或变小 |
-| grownup | n. | 成年人; 已长成的 |
-| infancy | n. | 婴儿期；幼年；初期 |
-| interim | adj. | 临时的，暂时的；中间的；间歇的; 过渡时期，中间时期；暂定 |
-| kickoff | n. | 开始；开球 |
-| lagging | n. | 绝缘层材料; 落后的 |
-| looming | n. | 上现蜃景；庞视；幽影; 隐隐约约的；正在逼近的; 逼近；隐约可见 |
-| nascent | adj. | 初期的；新生的；萌芽的；未成熟的 |
-| precede | v. | 在…之前发生；先于; 走在…前面; 在…之前 |
-| regress | vi. | 退化, 退步, 倒退 |
-| slumber | n. | 睡眠；麻木状态；静止状态; 睡眠；蛰伏；麻木; 睡眠；睡着度过 |
-| subside | vi. | 平息；沉淀；减弱；坐下 |
-| sundial | n. | 日晷, 日规 |
-| ticking | n. | 坚质条纹棉布或亚麻布；滴答响声 |
-| commence | vt. | 开始；着手; 使……开始；使……得学位 |
-| cyclical | adj. | 周期的，循环的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **linger** <span class="wpos">vi.</span> | 逗留, 徘徊; 缓慢消失 |
+| **mature** <span class="wpos">adj.</span> | 成熟的；到期的；成年人的；充分考虑的; 到期；成熟; 使…成熟；使…长成；慎重作出 |
+| **outset** <span class="wpos">n.</span> | 开始, 开端 |
+| **perish** <span class="wpos">vt.</span> | 使麻木；毁坏; 死亡；毁灭；腐烂；枯萎 |
+| **recess** <span class="wpos">n.</span> | 中止或暂停期间; 学校的课间休息; 壁凹；壁龛; 某物内部的凹形空间; 遥远或隐秘的地方; 把某物放… |
+| **relive** <span class="wpos">vt.</span> | 再体验; 复活；再生 |
+| **retard** <span class="wpos">vt.</span> | 使减速；妨碍；阻止; 推迟，延迟; 使延迟; 减慢；受到阻滞; 减速；阻滞；延迟 |
+| **rewind** <span class="wpos">n.</span> | 重绕；倒带器; 重绕；倒回; 倒回；重绕 |
+| **stasis** <span class="wpos">n.</span> | 郁积，停滞；血行停滞 |
+| **at last** | 终于, 最后 |
+| **budding** <span class="wpos">adj.</span> | 正发芽的；开始发育的,成长中的; 新获得成功的,初露头角的; 发芽 |
+| **bygones** <span class="wpos">n.</span> | 往事；往昔恩怨 |
+| **crumble** <span class="wpos">vt.</span> | &amp; 弄碎, 碎成细屑; 衰落, 崩溃 |
+| **dormant** <span class="wpos">adj.</span> | 潜伏的,蛰服的,休眠的 |
+| **dwindle** <span class="wpos">vi.</span> | 逐渐变少或变小 |
+| **grownup** <span class="wpos">n.</span> | 成年人; 已长成的 |
+| **infancy** <span class="wpos">n.</span> | 婴儿期；幼年；初期 |
+| **interim** <span class="wpos">adj.</span> | 临时的，暂时的；中间的；间歇的; 过渡时期，中间时期；暂定 |
+| **kickoff** <span class="wpos">n.</span> | 开始；开球 |
+| **lagging** <span class="wpos">n.</span> | 绝缘层材料; 落后的 |
+| **looming** <span class="wpos">n.</span> | 上现蜃景；庞视；幽影; 隐隐约约的；正在逼近的; 逼近；隐约可见 |
+| **nascent** <span class="wpos">adj.</span> | 初期的；新生的；萌芽的；未成熟的 |
+| **precede** <span class="wpos">v.</span> | 在…之前发生；先于; 走在…前面; 在…之前 |
+| **regress** <span class="wpos">vi.</span> | 退化, 退步, 倒退 |
+| **slumber** <span class="wpos">n.</span> | 睡眠；麻木状态；静止状态; 睡眠；蛰伏；麻木; 睡眠；睡着度过 |
+| **subside** <span class="wpos">vi.</span> | 平息；沉淀；减弱；坐下 |
+| **sundial** <span class="wpos">n.</span> | 日晷, 日规 |
+| **ticking** <span class="wpos">n.</span> | 坚质条纹棉布或亚麻布；滴答响声 |
+| **commence** <span class="wpos">vt.</span> | 开始；着手; 使……开始；使……得学位 |
+| **cyclical** <span class="wpos">adj.</span> | 周期的，循环的 |
+:::
+:::
+::::
 
 ### The Long Arc of a River Valley
 
+:::: {.columns}
+::: {.column width="57%"}
 **Prior to** the age of maps, people read time through the land itself. In the **forenoon**, when mist still clung to the ridgeline, elders would point to the layered cliffs and speak of **antiquity** — of a world so old that the **Jurassic** strata beneath their feet had once been seabed. Nothing about that deep past felt **ephemeral**; it pressed against the present like stone.
 
 Yet change is never still. Rivers **stagnate** only in drought; the rest of the year they cut and carve, and the valley records each **upheaval** in silt and scar. **Hitherto** the floodplain had held its shape, but the spring thaw brought a **reversal** — channels jumped their banks, old sandbars **perished**, and **emerging** islands rearranged the whole lower reach. Farmers watched the **climactic** surge and then the slow **cessation** of the waters, knowing the **aftermath** would demand new seed-lines, new fences. Progress is rarely steady; it comes **fitfully**, **alternate** seasons of loss and **flourish**.
@@ -109,165 +119,179 @@ Yet change is never still. Rivers **stagnate** only in drought; the rest of the 
 By midsummer the valley had reached a kind of **maturity**. The river ran clear, grasses achieved an **enduring** green, and children played on banks that had looked **imminent**ly dangerous only weeks before. But the calendar pressed on regardless. A **countdown** had already begun in the thinning light — the **temporal** window before first frost was shorter than it felt. Elders sensed the **exigency** and moved to **expedite** the harvest, unwilling to let abundance **intermit** into waste. They scheduled no **downtime** until the grain was in.
 
 What the valley taught was the **emergence** of pattern from apparent chaos: a **fleeting** flood becomes the foundation of next year's soil; a **cessation** of growth precedes the deepest root-work; even the **obituary** of a season is a prologue. Resting in that knowledge, the people accepted the rhythm — not as surrender to **eternity**, but as literacy in time itself.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| downtime | n. | 停工时间，停止运行时间; 停机时间; 停工时间；休息时间 |
-| emerging | adj. | 新兴的；出现的；形成的; 形成；浮现；由…中脱出；显露 |
-| enduring | adj. | 持久的,不朽的 |
-| eternity | n. | 来世，来生；不朽；永世 |
-| exigency | n. | 紧急；紧急事件 |
-| expedite | vt. | 加快进展; 迅速完成 |
-| fitfully | adv. | 断断续续地；发作地 |
-| fleeting | adj. | 飞逝的；转瞬间的; 迅速移动 |
-| flourish | v. | 繁荣；昌盛；兴旺; 茁壮成长；健康幸福; 挥舞; 夸张动作 |
-| forenoon | n. | 上午；午前 |
-| hitherto | adv. | 到目前为止 |
-| imminent | adj. | 迫近的；即将来临的 |
-| intermit | v. | 中断 |
-| Jurassic | adj. | 侏罗纪的；侏罗系的; 侏罗纪 |
-| maturity | n. | 成熟;成熟期;发育完全; 到期 |
-| obituary | adj. | 死亡的；讣告的; 讣告 |
-| perished | adj. | 感觉很冷的；脆裂的; 枯萎；灭亡 |
-| prior to |  | 在...之前 |
-| reversal | n. | 逆转；撤销；反转 |
-| stagnate | vi. | 停滞, 不流动, 不发展 |
-| temporal | adj. | 时间的; 暂存的，短暂的，非永恒的; 世俗的；现世的 |
-| upheaval | n. | 剧变；隆起；举起 |
-| aftermath | n. | 后果 |
-| alternate | adj. | 轮流的, 交替的; 间隔的; 代替的 |
-| antiquity | n. | 古老；年代久远；古代; 古迹，古物 |
-| cessation | n. | 停止,休止,中断 |
-| climactic | adj. | 高潮的;形成高潮的 |
-| countdown | n. | 倒数读秒,倒计时; 大事临近的时期 |
-| emergence | n. | 出来;现出;出现;暴露 |
-| ephemeral | adj. | 短暂的,瞬息的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **downtime** <span class="wpos">n.</span> | 停工时间，停止运行时间; 停机时间; 停工时间；休息时间 |
+| **emerging** <span class="wpos">adj.</span> | 新兴的；出现的；形成的; 形成；浮现；由…中脱出；显露 |
+| **enduring** <span class="wpos">adj.</span> | 持久的,不朽的 |
+| **eternity** <span class="wpos">n.</span> | 来世，来生；不朽；永世 |
+| **exigency** <span class="wpos">n.</span> | 紧急；紧急事件 |
+| **expedite** <span class="wpos">vt.</span> | 加快进展; 迅速完成 |
+| **fitfully** <span class="wpos">adv.</span> | 断断续续地；发作地 |
+| **fleeting** <span class="wpos">adj.</span> | 飞逝的；转瞬间的; 迅速移动 |
+| **flourish** <span class="wpos">v.</span> | 繁荣；昌盛；兴旺; 茁壮成长；健康幸福; 挥舞; 夸张动作; 给人深刻印象的行动；令人难忘的方式; … |
+| **forenoon** <span class="wpos">n.</span> | 上午；午前 |
+| **hitherto** <span class="wpos">adv.</span> | 到目前为止 |
+| **imminent** <span class="wpos">adj.</span> | 迫近的；即将来临的 |
+| **intermit** <span class="wpos">v.</span> | 中断 |
+| **Jurassic** <span class="wpos">adj.</span> | 侏罗纪的；侏罗系的; 侏罗纪 |
+| **maturity** <span class="wpos">n.</span> | 成熟;成熟期;发育完全; 到期 |
+| **obituary** <span class="wpos">adj.</span> | 死亡的；讣告的; 讣告 |
+| **perished** <span class="wpos">adj.</span> | 感觉很冷的；脆裂的; 枯萎；灭亡 |
+| **prior to** | 在...之前 |
+| **reversal** <span class="wpos">n.</span> | 逆转；撤销；反转 |
+| **stagnate** <span class="wpos">vi.</span> | 停滞, 不流动, 不发展 |
+| **temporal** <span class="wpos">adj.</span> | 时间的; 暂存的，短暂的，非永恒的; 世俗的；现世的; 表示时间的， |
+| **upheaval** <span class="wpos">n.</span> | 剧变；隆起；举起 |
+| **aftermath** <span class="wpos">n.</span> | 后果 |
+| **alternate** <span class="wpos">adj.</span> | 轮流的, 交替的; 间隔的; 代替的; &amp; 交替, 轮换 |
+| **antiquity** <span class="wpos">n.</span> | 古老；年代久远；；古代; 古迹，古物; 古代的风俗习惯; 古人们 |
+| **cessation** <span class="wpos">n.</span> | 停止,休止,中断 |
+| **climactic** <span class="wpos">adj.</span> | 高潮的;形成高潮的 |
+| **countdown** <span class="wpos">n.</span> | 倒数读秒,倒计时; 大事临近的时期 |
+| **emergence** <span class="wpos">n.</span> | 出来;现出;出现;暴露 |
+| **ephemeral** <span class="wpos">adj.</span> | 短暂的,瞬息的 |
+:::
+:::
+::::
 
 ### When the Sandglass Runs Low
 
+:::: {.columns}
+::: {.column width="57%"}
 **Antecedent** civilizations understood time not as a line but as a wheel. They watched the **solstices** mark the sky's turning points, and **forthwith** built stone calendars to honour each shift. The **sandglass** was their intimate companion — a quiet, **recurring** witness to how moments slipped away. In those **primaeval** ages, change moved on a vast **timescale**, and yet even the most **eventless** stretches of pastoral life were **indelibly** scored by the seasons. Nothing stayed **suspended** for long; even the stillest valley was **eternally** in motion beneath its surface.
 
 Then came the centuries that **transformed** everything. The **preceding** order — slow, ceremonial, tied to the solstice fire — began to **phase out** as new rhythms took hold. Each **milestone** arrived as a **precursor** to the next upheaval, and historians would later remark, with the benefit of **hindsight**, that every decisive shift had its **opportune** moment, a brief and **transient** window in which the old could be **supersede**d before it calcified again. What **transpired** across each **trimester** of a century might only become legible in the **follow-up** generations who inherited the wreckage and the gifts alike.
 
 The hardest lessons concern **prolonged** waiting. A **lingering** illness, a **sustained** grief, a **premortal** stillness — these stretch a person across time in ways that no calendar can measure. **Hereafter**, wrote one forgotten essayist, the **tardiness** of healing should not be mistaken for failure; slow change is still change. **Whereupon** he closed his journal, set down his pen, and let the **sandglass** run.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| eternally | adv. | 永恒地;常常;不绝地 |
-| eventless | adj. | 平静无事的,平静的,平凡的 |
-| follow-up | adj. | 继续的,作为重复的 |
-| forthwith | adv. | 即刻,毫不拖延地 |
-| hereafter | adv. | 今后,从此以后 |
-| hindsight | n. | 事后的觉悟;事后的聪明 |
-| indelibly | adv. | 不能消灭地 |
-| lingering | adj. | 拖延的;逗留不去的 |
-| milestone | n. | 重要事件;重要阶段;转折点;里程碑 |
-| opportune | adj. | 合适的，恰好的；及时的，适时的 |
-| phase out | | 逐渐停止；使逐步淘汰 |
-| preceding | adj. | 在先的, 在前的, 前面的 |
-| precursor | n. | 先驱；先行者；先兆，前兆; 初期形式 |
-| premortal | adj. | 死前的 |
-| primaeval | adj. | 原始的 |
-| prolonged | adj. | 持续很久的,长时间的 |
-| recurring | | |
-| sandglass | n. | 沙漏 |
-| solstices | | 二至点 |
-| supersede | vt. | 取代, 接替 |
-| suspended | adj. | 暂停的，缓期的；悬浮的 |
-| sustained | adj. | 持久的;持续的 |
-| tardiness | n. | 缓慢 |
-| timescale | | 时间表,时标,时间量程 |
-| transform | vt. | 改变 |
-| transient | adj. | 短暂的，转瞬即逝的；暂时的 |
-| transpire | vi. | 发生；蒸发；泄露 |
-| trimester | n. | 三个月,学期 |
-| whereupon | conj. | 在这以后, 然后, 于是 |
-| antecedent | n. | 发生在前的事，先例; 先行词; 前项; 前件; 经历；学历; 祖先; 前身; 在前的，在先的，先行的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **eternally** <span class="wpos">adv.</span> | 永恒地;常常;不绝地 |
+| **eventless** <span class="wpos">adj.</span> | 平静无事的,平静的,平凡的 |
+| **follow-up** <span class="wpos">adj.</span> | 继续的,作为重复的 |
+| **forthwith** <span class="wpos">adv.</span> | 即刻,毫不拖延地 |
+| **hereafter** <span class="wpos">adv.</span> | 今后,从此以后 |
+| **hindsight** <span class="wpos">n.</span> | 事后的觉悟;事后的聪明 |
+| **indelibly** <span class="wpos">adv.</span> | 不能消灭地 |
+| **lingering** <span class="wpos">adj.</span> | 拖延的;逗留不去的 |
+| **milestone** <span class="wpos">n.</span> | 重要事件;重要阶段;转折点;里程碑 |
+| **opportune** <span class="wpos">adj.</span> | 合适的，恰好的；及时的，适时的; 恰好地，适时地; 恰好，适时，及时 |
+| **phase out** | 逐渐停止；使逐步淘汰 |
+| **preceding** <span class="wpos">adj.</span> | 在先的, 在前的, 前面的 |
+| **precursor** <span class="wpos">n.</span> | 先驱；先行者；先兆，前兆; 初期形式 |
+| **premortal** <span class="wpos">adj.</span> | 死前的 |
+| **primaeval** <span class="wpos">adj.</span> | 原始的 |
+| **prolonged** <span class="wpos">adj.</span> | 持续很久的,长时间的 |
+| **recurring** |  |
+| **sandglass** <span class="wpos">n.</span> | 沙漏 |
+| **solstices** | 二至点 |
+| **supersede** <span class="wpos">vt.</span> | 取代, 接替 |
+| **suspended** <span class="wpos">adj.</span> | 暂停的，缓期的；悬浮的 |
+| **sustained** <span class="wpos">adj.</span> | 持久的;持续的 |
+| **tardiness** <span class="wpos">n.</span> | 缓慢 |
+| **timescale** | 时间表,时标,时间量程 |
+| **transform** <span class="wpos">vt.</span> | &amp; 改变 |
+| **transient** <span class="wpos">adj.</span> | 短暂的，转瞬即逝的；暂时的; 暂住者；流动人口 |
+| **transpire** <span class="wpos">vi.</span> | 发生；蒸发；泄露 使蒸发；使排出 |
+| **trimester** <span class="wpos">n.</span> | 三个月,学期 |
+| **whereupon** <span class="wpos">conj.</span> | 在这以后, 然后, 于是 |
+| **antecedent** <span class="wpos">n.</span> | 发生在前的事，先例; 先行词; 前项; 前件; 经历；学历; 祖先; 前身; 在前的，在先的，先行的 |
+:::
+:::
+::::
 
 ### When a Century Becomes a Breath
 
+:::: {.columns}
+::: {.column width="57%"}
 In **retrospect**, every great civilization appears to have followed the same arc. What begins as a **primordial** stirring — a handful of people trading ideas across a fire — grows into something vast and bewildering. A **burgeoning** settlement becomes a city; a city becomes an empire; and before the **centennial** torch is even lit, the founders are already **posthumous** figures, their names carved in stone rather than spoken aloud. Each **predecessor** believed their own age to be the **culmination** of all that came before, never suspecting they occupied merely the **penultimate** chapter of a far longer story.
 
 Change never **take place** at a single moment — it unfolds across **successive** waves, each **intervening** generation inheriting a world slightly altered from the one before. Some shifts are **transitory**, lasting no longer than a **nanosecond** in historical time; others **perpetuate** themselves across a **millennial** span, reshaping the very vocabulary we use to think. What **chronically** ails a society — the slow **degenerate** erosion of trust, the **alternating** bursts of reform and reaction — rarely announces itself. It accumulates quietly, the way a river carves a canyon: invisible until the canyon is there.
 
 A **provisional** truce is signed, and a **transition** begins. Planners draw up **preliminary** blueprints for a new order. A **centenarian** who lived through the **millennium**'s turn watches from her window as her grandchildren move at speeds she cannot follow, acting **prematurely** on hopes that have not yet ripened. The city throws a festival to **commemorate** its founding — **prime time** broadcast, lights everywhere — promising that the memory will be kept in **perpetuity**. But the **recurrence** of history is its own quiet irony: **millennial** promises, **prehistoric** fears, and the **succession** of dawns that neither confirms nor denies either.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| burgeoning | adj. | 迅速成长的; 迅速发展的 |
-| centennial | n. | 一百周年 |
-| degenerate | vi. | 衰退；堕落；退化 |
-| millennial | adj. | 一千年的，千福年的 |
-| millennium | n. | 一千年，千年期；千禧年 |
-| nanosecond | n. | 十亿分之一秒 |
-| perpetuate | vt. | 使永存；使人记住不忘 |
-| perpetuity | n. | 永久；永恒；永远 |
-| posthumous | adj. | 死后发生的；作者死后出版的 |
-| prime time | n. | 黄金时间 |
-| primordial | adj. | 初生的，原始的 |
-| recurrence | n. | 复发；反复；重现 |
-| retrospect | n. | 回顾，追溯 |
-| succession | n. | 连续；继承，继任 |
-| successive | adj. | 连续的，相继的 |
-| take place | — | 发生；举行 |
-| transition | n. | 过渡；转变；变迁 |
-| transitory | adj. | 短暂的，转瞬即逝的 |
-| alternating | adj. | 交替的，交互的 |
-| centenarian | adj./n. | 百岁或逾百岁以上的；百岁老人 |
-| chronically | adv. | 慢性地，长期地 |
-| commemorate | vt. | 纪念，庆祝 |
-| culmination | n. | 顶点；高潮 |
-| intervening | adj. | 发生于其间的 |
-| penultimate | adj. | 倒数第二的 |
-| predecessor | n. | 前任，前辈；前身 |
-| prehistoric | adj. | 史前的；远古的 |
-| preliminary | adj. | 初步的，预备的 |
-| prematurely | adv. | 过早地；贸然地 |
-| provisional | adj. | 暂时的；临时的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **burgeoning** <span class="wpos">adj.</span> | 迅速成长的; 迅速发展的 |
+| **centennial** <span class="wpos">n.</span> | 一百周年 |
+| **degenerate** <span class="wpos">vi.</span> | 衰退；堕落；退化; 衰退的，堕落的 |
+| **millennial** <span class="wpos">adj.</span> | 一千年的,千福年的 |
+| **millennium** <span class="wpos">n.</span> | 一千年，千年期；千禧年，全人类未来的幸福时代，太平盛世 Millennium白蜜，大白圆粒 |
+| **nanosecond** <span class="wpos">n.</span> | 十亿分之一秒 |
+| **perpetuate** <span class="wpos">vt.</span> | 使永存；使人记住不忘 |
+| **perpetuity** <span class="wpos">n.</span> | 永久;永恒;永远; 永远；永久 |
+| **posthumous** <span class="wpos">adj.</span> | 死后发生的；死后获得的; 作者死后出版的; 死后出生的，遗腹的 |
+| **prime time** <span class="wpos">n.</span> | 黄金时间 |
+| **primordial** <span class="wpos">adj.</span> | 初生的,初发的,原始的 |
+| **recurrence** <span class="wpos">n.</span> | 复发;反复;重现 |
+| **retrospect** <span class="wpos">n.</span> | 回顾，追溯; 回顾，追溯；回想，追忆 |
+| **succession** <span class="wpos">n.</span> | 连续; 连续不断的人; 继承，继任；继承权 |
+| **successive** <span class="wpos">adj.</span> | 连续的, 相继的 |
+| **take place** | 发生；举行 |
+| **transition** <span class="wpos">n.</span> | 过渡; 转变; 变迁 (从某一状态或活动）转变，过度 |
+| **transitory** <span class="wpos">adj.</span> | 不持续的; 短暂的,转瞬即逝的 |
+| **alternating** <span class="wpos">adj.</span> | 交互的; 交替的 |
+| **centenarian** <span class="wpos">adj.</span> | 百岁或逾百岁以上的；百岁老人 |
+| **chronically** <span class="wpos">adv.</span> | 慢性地,习惯性地,长期地 |
+| **commemorate** <span class="wpos">vt.</span> | 纪念, 庆祝 |
+| **culmination** <span class="wpos">n.</span> | 顶点；高潮 |
+| **intervening** <span class="wpos">adj.</span> | 发生于其间的 |
+| **penultimate** <span class="wpos">adj.</span> | 倒数第二的 |
+| **predecessor** <span class="wpos">n.</span> | 前任, 前辈; 原有事物, 前身 |
+| **prehistoric** <span class="wpos">adj.</span> | 史前的；有文字记载以前的；远古的; 古旧不堪的，完全过时的，陈腐的 |
+| **preliminary** <span class="wpos">adj.</span> | 初步的, 预备的, 开端的; 准备工作, 初步行动 |
+| **prematurely** <span class="wpos">adv.</span> | 过早地;贸然地 |
+| **provisional** <span class="wpos">adj.</span> | 暂时的;临时的 |
+:::
+:::
+::::
 
 ### When Time Folds Back on Itself
 
+:::: {.columns}
+::: {.column width="57%"}
 The geologist spread her notes across the table, arranging them in **chronological** order — oldest strata at the left, youngest at the right. Her life's work was the **Mesozoic Era**, that vast corridor of deep time when dinosaurs ruled and the continents still drifted in slow, **successional** waves of collision and rifting. She had spent thirty years tracing the **vicissitudes** of climate locked inside limestone and shale, each layer a frozen moment in a process that **revolutionized** our understanding of how life adapts to change.
 
 Her research, **coincidentally**, had been published the same week as a major **commemoration** at the university — a century since the founding of the geology department. At the ceremony, a colleague delivered a **retrospective** lecture on how plate tectonics had, **simultaneously**, unsettled and unified three separate fields of science. The **synchronization** of those intellectual revolutions, he argued, was no accident; paradigm shifts tend to cluster. The audience laughed when he admitted that he had nearly missed his own talk, having **procrastinated** all week on finishing his slides — **procrastination**, he quipped, being one human habit that no amount of geological time seems to cure.
 
 Outside, rain fell in **intermittent** bursts, drumming the courtyard in fits and starts. A junior researcher lingered by the door, watching it. She was the department's youngest hire, beginning what might become a **cradle-to-grave** devotion to the same ancient rock record her mentor had given her life to. She had already learned to **put something off** when the evidence was incomplete rather than rush to conclusions. And she was learning, too, the quieter lesson the geologist's career embodied: that **in hindsight**, the slowest processes — erosion, drift, the patient turning of epochs — are always the ones that change everything.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| intermittent | adj. | 间歇的; 断断续续的 |
-| mesozoic era | | 中生代 |
-| successional | adj. | 接连的,连续性的 |
-| vicissitudes | n. | 变迁,世事变化 |
-| chronological | adj. | 按时间的前后顺序排列的; 按时间的前后顺序排列地 |
-| commemoration | n. | 纪念;纪念仪式 |
-| procrastinate | vi. | 拖延,耽搁 |
-| retrospective | adj. | 回顾的; 有追溯效力的 |
-| revolutionize | vt. | 使彻底变革 |
-| coincidentally | adv. | 巧合地, 同时发生 |
-| simultaneously | adv. | 同时地 |
-| cradle-to-grave | adj. | 一辈子的,一生的 |
-| procrastination | n. | 延迟,拖延 |
-| synchronization | n. | 同一时刻;同步 |
-| Put something Off. | | |
-| In hindsight thought. | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **intermittent** <span class="wpos">adj.</span> | 间歇的; 断断续续的 |
+| **mesozoic era** | 中生代 |
+| **successional** <span class="wpos">adj.</span> | 接连的,连续性的 |
+| **vicissitudes** <span class="wpos">n.</span> | 变迁,世事变化 |
+| **chronological** <span class="wpos">adj.</span> | 按时间的前后顺序排列的; 按时间的前后顺序排列地 |
+| **commemoration** <span class="wpos">n.</span> | 纪念;纪念仪式 |
+| **procrastinate** <span class="wpos">vi.</span> | 拖延,耽搁 |
+| **retrospective** <span class="wpos">adj.</span> | 回顾的; 有追溯效力的 |
+| **revolutionize** <span class="wpos">vt.</span> | 使彻底变革 |
+| **coincidentally** <span class="wpos">adv.</span> | 巧合地, 同时发生 |
+| **simultaneously** <span class="wpos">adv.</span> | 同时地 |
+| **cradle-to-grave** <span class="wpos">adj.</span> | 一辈子的,一生的 |
+| **procrastination** <span class="wpos">n.</span> | 延迟,拖延 |
+| **synchronization** <span class="wpos">n.</span> | 同一时刻;同步 |
+| **Put something Off.** |  |
+| **In hindsight thought.** |  |
+:::
+:::
+::::

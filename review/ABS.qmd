@@ -2,150 +2,164 @@
 
 
 
-> 本主题共 17 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 17 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### The Architecture of a Mind at Work
 
+:::: {.columns}
+::: {.column width="57%"}
 At the **crux** of every breakthrough lies a quiet kind of unease — the **iffy** suspicion that what you **deem** true may be only half-formed. A philosopher sits at her desk, unwilling to **opt** for the easy answer. She enters a deep **muse**, turning an idea over like a stone, watching it catch new light from every **facet**.
 
 The **lore** of her discipline tells her to begin with first principles — the **arche** of things, the raw **acies** of a concept before habit dulls its edge. She must **adapt**, because every framework she inherited arrived with its own **skew**, its own **aura** of authority that can **cram** out fresher thinking. She is wary, **lest** she mistake the map for the territory, or let the seductive **ploy** of a tidy system substitute for genuine understanding. **Ergo**, she questions even the questions.
 
 Progress is rarely **akin** to what she imagined. A **fault** line runs through every theory — that much she has **heed**ed well. She does not **grok** a new idea through **rote** repetition; she traces it, tests it, watches where it **polt**s against reality and where it goes **skew** of the evidence. In **lieu** of certainty she seeks coherence. **Error** is not failure but data: when a proof **flunk**s, it points. Each step, **aptly** taken, adds to the **avail** of the whole. The **ethic** here is honesty — and honesty, she knows by now, is never quite **done**.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| opt | vi. | 选择 |
-| akin | adj. | 同族的；同类的；类似的 |
-| aura | n. | 气氛；气味；光环；预兆 |
-| cram | vt. | 塞入, 填塞；死记硬背 |
-| crux | n. | 关键；难题 |
-| deem | vt. | 认为，视作；相信 |
-| done | adj. | 做好了的；完成了 |
-| ergo | adv. | 因此，所以 |
-| GMAT | | abbr. 研究生管理专业入学考试 |
-| grok | v. | 〈美俚〉通过神入作用而理解，体验 |
-| heed | vi. | 注意，留心 |
-| iffy | adj. | 不确定的，可疑的，有问题的 |
-| lest | conj. | 唯恐，以免；担心 |
-| lieu | n. | 代替；替代 |
-| lore | n. | 学问和传统；知识 |
-| muse | n. | 沉思；冥想 |
-| ploy | n. | 策略，手法 |
-| polt | n. | 图表，情节；标出位置 |
-| rote | n. | 死记硬背；生搬硬套 |
-| skew | adj. | 偏的，歪斜的；偏态的 |
-| acies | n. | 〈拉〉缘，边缘；棱角 |
-| adapt | vt. | 改编；使适应 |
-| aptly | adv. | 适宜地；适当地 |
-| arche | n. | 建筑工程师；人名阿切 |
-| avail | n. | 效用，利益 |
-| error | n. | 错误；过失，失误 |
-| ethic | n. | 道德规范，伦理 |
-| facet | n. | 面；方面；小平面 |
-| fault | n. | 故障；毛病；缺点；错误 |
-| flunk | vi. | 失败；考试不及格 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **opt** <span class="wpos">vi.</span> | 选择 OPTabbr. VC开发环境自动生成的用来存放WorkSpace中各种选项的文件。 |
+| **akin** <span class="wpos">adj.</span> | 同族的；同类的；类似的 |
+| **aura** <span class="wpos">n.</span> | 气氛；气味；光环；预兆 |
+| **cram** <span class="wpos">vt.</span> | 塞入, 填塞; 塞满; 死记硬背功课, 临时准备应考; 死记硬背 Cram克拉姆 |
+| **crux** <span class="wpos">n.</span> | 关键；难题；十字架形，坩埚 |
+| **deem** <span class="wpos">vt.</span> | 认为，视作；相信; 认为，持某种看法；作某种评价 |
+| **done** <span class="wpos">adj.</span> | 做好了的；完成了；煮熟的；合乎礼仪的; 做 |
+| **ergo** <span class="wpos">adv.</span> | 因此，所以 |
+| **GMAT** | abbr. 格林尼治天文平时；研究生管理专业入学考试 |
+| **grok** <span class="wpos">v.</span> | 〈美俚〉通过神入作用而理解,体验 |
+| **heed** <span class="wpos">vi.</span> | 注意，留心; 注意到；留心到; 注意，留心 HEEDabbr. High Energy Electr… |
+| **iffy** <span class="wpos">adj.</span> | 不确定的,可疑的,有问题的 |
+| **lest** <span class="wpos">conj.</span> | 唯恐，以免；担心 |
+| **lieu** <span class="wpos">n.</span> | 代替; 替代 |
+| **lore** <span class="wpos">n.</span> | 学问和传统;知识 |
+| **muse** <span class="wpos">n.</span> | 沉思；冥想; 沉思；沉思地说; 沉思；凝望 MUSEabbr. Multi-User Simulat… |
+| **ploy** <span class="wpos">n.</span> | 策略,手法 |
+| **polt** <span class="wpos">n.</span> | 图表,情节,阴谋; 标出.的位置,密谋,图谋 |
+| **rote** <span class="wpos">n.</span> | 死记硬背；生搬硬套 |
+| **skew** <span class="wpos">adj.</span> | 偏的，歪斜的；偏态的；异面的; 斜角，倾斜；偏见；偏态 偏离，歪斜；扭转，偏转；歪曲；使偏态；斜视 |
+| **acies** <span class="wpos">n.</span> | 〈拉〉缘，边缘；棱角 |
+| **adapt** <span class="wpos">vt.</span> | 改编；使适应; 适应 |
+| **aptly** <span class="wpos">adv.</span> | 适宜地；适当地 |
+| **arche** <span class="wpos">n.</span> | abbr. 建筑工程师 人名；阿切 |
+| **avail** <span class="wpos">n.</span> | 效用, 利益; &amp; 有用于, 有益于, 有助于 |
+| **error** <span class="wpos">n.</span> | 错误; 过失, 失误 |
+| **ethic** <span class="wpos">n.</span> | 道德规范,伦理 |
+| **facet** <span class="wpos">n.</span> | 面；方面；小平面; 在…上琢面 |
+| **fault** <span class="wpos">n.</span> | 故障；毛病；缺点；错误；断层；发球失误; 弄错；产生断层; 挑剔 |
+| **flunk** <span class="wpos">vi.</span> | 失败；放弃；考试不及格; 使…不及格; 不及格；失败 |
+:::
+:::
+::::
 
 ### The Mind at Work
 
+:::: {.columns}
+::: {.column width="57%"}
 **Amidst** the hush of a library at midnight, a philosopher sat hunched over her desk, determined to push her thinking beyond the **vague** and the **quasi**-scientific toward something genuinely rigorous. Her **telos**, as she saw it, was not merely to publish but to build a **cogent** system — one grounded in **axioms** clear enough that any reasoning **being** could follow the chain.
 
 She had long since chosen to **forgo** the comfort of **ad hoc** explanations. It was **folly**, she **deemed**, to **posit** conclusions before the argument was ready. A **hunch**, however vivid, is not **proof**; intuition must yield to **logic**, or it stays forever **arcane** — privy only to those who already believe. From scattered observations she would **infer** principles, then **devise** a framework whose **causal** structure held under pressure. **Hence** her notebook was dense with arrows and brackets, each claim tested for whether it was **valid** before it advanced to the next line.
 
 The **scope** of her project was **overt**ly ambitious — nothing less than a **summa** on the nature of abstract **beings**: numbers, categories, relations, all the invisible furniture of thought. Critics had labeled the enterprise **absurd**, **albeit** politely. She kept their objections on a separate page under the heading **contra**, not to dismiss them but to **derive** sharper distinctions from the friction. Every discipline, she believed, needed a **niche** of its own — a bounded domain where its **axioms** applied — and hers was the space where language ends and pure structure begins.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| folly | n. | 愚蠢;蠢笨;愚蠢的行为、思想或做法 |
-| forgo | vt. | 没有也行,放弃 |
-| hence | adv. | 因此；今后 |
-| hunch | n. | 预感；大块；肉峰 耸肩；预感到；弯腰驼背 隆起；向前移动 |
-| infer | vt. | 推断, 推知 |
-| logic | n. | 逻辑, 逻辑性; 推理方法; 合理的想法 |
-| niche | n. | 适合的工作;称心的工作; 合宜的小环境; 壁龛; 针对特定小群体的; 把……放在壁龛中 |
-| overt | adj. | 明显的；公然的；蓄意的 |
-| posit | vt. | 假定,设想,假设 |
-| privy | adj. | 私人的；不公开的；秘密参与的; 有利害关系的人；厕所 |
-| proof | n. | 证明；证据；校样；考验；验证；试验 防…的；不能透入的；证明用的；耐…的 试验；校对；使不被穿透 |
-| quasi | adj. | 类似的；准的；外表的; 似是；有如 |
-| scope | n. | 视野；眼界；范围；余地；导弹射程; 审视 |
-| summa | n. | 总结；总结性论文 |
-| telos | n. | 终极,目的 |
-| vague | adj. | 不明确的；含糊的；模糊的；暧昧的 |
-| valid | adj. | 正当的；有效的，有根据的 |
-| absurd | adj. | 荒谬的；可笑的; 荒诞；荒诞作品 |
-| ad hoc | adj. | 临时安排的；特别的；专门的 |
-| albeit | conj. | 即使；虽然 |
-| amidst | prep. | 在…当中 |
-| arcane | adj. | 晦涩难解的；神秘的；秘传的 |
-| axioms | n. | 公设；公理；原理 |
-| beings | n. | 人,生物,存在@ 存在, 处于, 举行, 去或来, 是@ 现在的,目前的 |
-| causal | adj. | 有原因的；因果关系的; 表示原因的连词 |
-| cogent | adj. | 使人信服的；强有力的 |
-| contra | n. | 反对,相反 |
-| deemed | v. | 认为 |
-| derive | vt. | 得到; 源于 |
-| devise | v. | 发明；设计；想出; 遗赠给; 遗赠；遗赠的不动产 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **folly** <span class="wpos">n.</span> | 愚蠢;蠢笨;愚蠢的行为、思想或做法 |
+| **forgo** <span class="wpos">vt.</span> | &amp; 没有也行,放弃 |
+| **hence** <span class="wpos">adv.</span> | 因此；今后 |
+| **hunch** <span class="wpos">n.</span> | 预感；大块；肉峰 耸肩；预感到；弯腰驼背 隆起；向前移动 |
+| **infer** <span class="wpos">vt.</span> | 推断, 推知 |
+| **logic** <span class="wpos">n.</span> | 逻辑, 逻辑性; 推理方法; 合理的想法 |
+| **niche** <span class="wpos">n.</span> | 适合的工作;称心的工作; 合宜的小环境; 壁龛; 针对特定小群体的; 把……放在壁龛中 |
+| **overt** <span class="wpos">adj.</span> | 明显的；公然的；蓄意的 |
+| **posit** <span class="wpos">vt.</span> | 假定,设想,假设 |
+| **privy** <span class="wpos">adj.</span> | 私人的；不公开的；秘密参与的; 有利害关系的人；厕所 |
+| **proof** <span class="wpos">n.</span> | 证明；证据；校样；考验；验证；试验 防…的；不能透入的；证明用的；耐…的 试验；校对；使不被穿透 |
+| **quasi** <span class="wpos">adj.</span> | 类似的；准的；外表的; 似是；有如 |
+| **scope** <span class="wpos">n.</span> | 视野；眼界；范围；余地；导弹射程; 审视 |
+| **summa** <span class="wpos">n.</span> | 总结；总结性论文 |
+| **telos** <span class="wpos">n.</span> | 终极,目的 |
+| **vague** <span class="wpos">adj.</span> | 不明确的；含糊的；模糊的；暧昧的 |
+| **valid** <span class="wpos">adj.</span> | 正当的；有效的，有根据的 |
+| **absurd** <span class="wpos">adj.</span> | 荒谬的；可笑的; 荒诞；荒诞作品 |
+| **ad hoc** <span class="wpos">adj.</span> | 临时安排的；特别的；专门的 |
+| **albeit** <span class="wpos">conj.</span> | 即使；虽然 |
+| **amidst** <span class="wpos">prep.</span> | 在…当中 |
+| **arcane** <span class="wpos">adj.</span> | 晦涩难解的；神秘的；秘传的 |
+| **axioms** <span class="wpos">n.</span> | 公设；公理；原理 |
+| **beings** <span class="wpos">n.</span> | 人,生物,存在@ 存在, 处于, 举行, 去或来, 是@ 现在的,目前的 |
+| **causal** <span class="wpos">adj.</span> | 有原因的；因果关系的; 表示原因的连词 |
+| **cogent** <span class="wpos">adj.</span> | 使人信服的；强有力的 COGENTabbr. Compiler and Generalized Tr… |
+| **contra** <span class="wpos">n.</span> | 反对,相反 |
+| **deemed** <span class="wpos">v.</span> | 认为 |
+| **derive** <span class="wpos">vt.</span> | &amp; 得到; 源于 |
+| **devise** <span class="wpos">v.</span> | 发明；设计；想出; 遗赠给; 遗赠；遗赠的不动产 |
+:::
+:::
+::::
 
 ### The Thinker's Unfinished Map
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher who **schemes** to understand the mind soon discovers that thought is not a single surface but a landscape of **nuance**. Every idea has a **kernel** — a hard core of meaning — yet the borders bleed. She sits at her desk, a blank **tabula** before her, and tries to **ideate**: what, **per se**, is a concept? Is it a **recept** built from countless similar encounters, or something purer, something **noetic**, woven from reason alone?
 
 The question is almost a **riddle**, an **enigma** she cannot **negate** simply by restating it. She reaches for a **schema** — a rough diagram on paper, all **oblong** boxes and arrowed lines — hoping the visual **tactic** will help her **secern** what belongs to perception from what belongs to pure thought. Her **tenets** lean toward **monism**: mind and world are not two things but one. To **equate** a mental image with its referent, she **reckons**, may be the oldest **vagary** in philosophy. Yet she must **retain** this **proper** caution: the map is never the territory. The dove on the crest is an **emblem** of peace, but **verily** the symbol and the thing it **typifies** do not **entail** each other; remove the symbol and the peace remains, or does not.
 
 She steps back and surveys the **upside** of a **plural** vocabulary: more words mean finer cuts. To **induce** a general principle from scattered instances, she must not collapse **trivia** into doctrine. Each term in her diagram has an **upside** and a shadow. She circles the word *concept* and writes beside it a single arrow pointing outward — because a concept, in the end, is not a conclusion but a direction.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| emblem | n. | 象征；符号；徽章 |
-| enigma | n. | 难于理解的问题、人、物、情况等；奥秘 |
-| entail | vt. | 使…成为必要，需要；限定继承 |
-| equate | vt. | 认为某事物相等或相仿；把……等同看待 |
-| ideate | vi. | 形成概念；设想 |
-| induce | vt. | 引诱；感应；诱导；引起 |
-| kernel | n. | 核心，要点；精髓；内核 |
-| monism | n. | 一元论；一元发生说 |
-| negate | vt. | 取消，使无效；否定；否认 |
-| noetic | adj. | 智力的，抽象的；纯粹理性论 |
-| nuance | n. | 细微差别 |
-| oblong | adj. | 长方形的；椭圆形的 |
-| per se | | （拉丁）本身；就其本身而言 |
-| plural | n. | 复数；多元 |
-| proper | adj. | 适当的；严格意义的；本身的 |
-| recept | n. | 对相似物体的连续感觉而形成的感受 |
-| reckon | vt. | 猜想；估计；认为 |
-| retain | vt. | 保持；记住 |
-| riddle | n. | 谜；谜语；无法解释的情况 |
-| schema | n. | 图解；计划；模式；概要 |
-| scheme | vt. | 策划；图谋；计划 |
-| secern | v. | 区别；分开 |
-| tabula | n. | 书板；牌 |
-| tactic | n. | 方法，策略；战术 |
-| tenets | n. | 信条；原理，原则 |
-| trivia | n. | 琐事 |
-| typify | vt. | 作为……的典型；代表；象征 |
-| upside | n. | 上部；上面；有利的一面 |
-| vagary | n. | 奇想；奇特行为 |
-| verily | adv. | 真正地；真实地 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **emblem** <span class="wpos">n.</span> | 象征；符号；徽章; 象征；用符号表示；用纹章装饰 |
+| **enigma** <span class="wpos">n.</span> | 难于理解的问题、人、物、情况等;奥秘 |
+| **entail** <span class="wpos">vt.</span> | 使…成为必要, 需要; 限定继承 |
+| **equate** <span class="wpos">vt.</span> | 认为某事物相等或相仿; 相当于；等于; 把 和等同看待 |
+| **ideate** <span class="wpos">vi.</span> | 形成概念；设想; 对…形成概念；想象 |
+| **induce** <span class="wpos">vt.</span> | 引诱；感应；诱导；引起 |
+| **kernel** <span class="wpos">n.</span> | 核心，要点；精髓；内核；麦粒，谷粒；仁 |
+| **monism** <span class="wpos">n.</span> | 一元论；一元发生说 |
+| **negate** <span class="wpos">vt.</span> | 取消，使无效; 否定；否认 |
+| **noetic** <span class="wpos">adj.</span> | 智力的,抽象的; 知识分子,纯粹理性论 |
+| **nuance** <span class="wpos">n.</span> | 细微差别 |
+| **oblong** <span class="wpos">adj.</span> | 长方形的；椭圆形的; 长方形；椭圆形 |
+| **per se** |  |
+| **plural** <span class="wpos">n.</span> |  |
+| **proper** <span class="wpos">adj.</span> | 适合的; 适当的; 适用的; 恰当的; 遵守规则的; 正确的; 严格意义的; 本身的; 合乎体统的;… |
+| **recept** <span class="wpos">n.</span> | 对相似物体的连续感觉而形成感觉,感受 |
+| **reckon** <span class="wpos">vt.</span> | 猜想；估计; 〈非正〉思忖；设想; 考虑；认为; 〈正〉计算 |
+| **retain** <span class="wpos">vt.</span> | 保持；雇；记住 |
+| **riddle** <span class="wpos">n.</span> | 谜；谜语; 神秘事件；无法解释的情况; 使布满孔洞 |
+| **schema** <span class="wpos">n.</span> | 图解；计划；模式；概要 |
+| **scheme** <span class="wpos">vt.</span> | &amp; 策划；图谋; 阴谋，诡计; 计划，方案 |
+| **secern** <span class="wpos">v.</span> | 区别；分开 |
+| **tabula** <span class="wpos">n.</span> | 书板；牌；横膈 |
+| **tactic** <span class="wpos">n.</span> | 方法, 策略; 战术, 兵法 |
+| **tenets** <span class="wpos">n.</span> | 信条；原理，原则 |
+| **trivia** <span class="wpos">n.</span> | 琐事 |
+| **typify** <span class="wpos">vt.</span> | 作为…的典型；具有…的特征; 代表；象征 |
+| **upside** <span class="wpos">n.</span> | 上部；上面；上边 |
+| **vagary** <span class="wpos">n.</span> | 奇想；奇特行为 |
+| **verily** <span class="wpos">adv.</span> | 真正地；真实地 |
+:::
+:::
+::::
 
 ### The Architecture of Thought
 
+:::: {.columns}
+::: {.column width="57%"}
 Every **analogy** begins somewhere quiet — a desk, a margin, a half-remembered lecture. The **empiric** thinker sits with raw data, trusting observation over doctrine, watching for the **anomaly** that refuses to fit the tidy column. When one surfaces, it supplies the **impetus** to look harder: something in the accepted model must be wrong, or at least incomplete.
 
 The question is never settled by a single mind. **Versus** the rationalist who builds from axioms downward, the experimentalist climbs upward from evidence, and the tension between them is not a flaw in inquiry — it is its engine. **Duality** of this kind does not stall thought; it **conduce**s thought forward. Progress **consist**s precisely in holding both poles without collapsing one into the other.
@@ -153,185 +167,201 @@ The question is never settled by a single mind. **Versus** the rationalist who b
 **Apropos** of the oldest puzzles: Anaximander's **apeiron** — the indefinite, boundless substrate — was **devised** as the **essence** from which all opposites are **derived**. It was his way of crossing the **barrier** between what we see and what must, logically, underlie it. A **visual** thinker might picture it as fog with **eidetic** edges: impossibly sharp and yet never fixed. The model was **generic** enough to survive millennia, an **epitome** of how one fertile abstraction can outlast the civilization that coined it.
 
 Yet abstraction without discipline breeds **fallacy**. It **behoove**s any serious reasoner to **discern** the difference between a **lateral** leap that genuinely illuminates and a **mimetic** move that only imitates the shape of insight — **mimicry** dressed as discovery. The **chaotic** proliferation of half-formed concepts is itself an **anomaly** to be corrected, **insofar** as clear thinking is the goal. One must **iterate**, test, prune. **In case** a premise quietly smuggles in a contradiction, the entire structure built on it becomes suspect, and **destiny** — intellectual or otherwise — belongs to those who check their foundations rather than inherit them.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| versus | prep. | 对；与...相对；对抗 |
-| visual | adj. | 视觉的, 看得见的 |
-| Ad hoc. | — | — |
-| analogy | n. | 类似, 相似; 类推, 类推法 |
-| anomaly | n. | 异常,反常,不规则; 畸形人〔物〕；异常现象; 近点角 |
-| apeiron | — | 阿派朗 |
-| apropos | adj. | 适当的；恰好的; 适当地；恰好地；恰当地 |
-| barrier | n. | 障碍物，屏障；界线; 把…关入栅栏 |
-| behoove | vt. | 理应；对…有此必要; 有必要；理所当然; 适宜 |
-| chaotic | adj. | 混乱的，无秩序的；混沌的 |
-| conduce | vi. | 有益；有贡献于；导致 |
-| consist | vi. | 组成, 构成; 在于, 存在于 |
-| derived | adj. | 导出的；衍生的，派生的; 得到；由…而来；推断 |
-| destiny | n. | 命运; 天命; 天数 |
-| devised | v. | 计划；发明；设计 |
-| discern | vt. | 识别；领悟，认识; 看清楚，辨别 |
-| duality | n. | 二元性；二象性 |
-| eidetic | adj. | 异常清晰的；极为逼真的 |
-| empiric | n. | 经验主义者；江湖医生; 经验主义的 |
-| epitome | n. | 缩影；摘要；象征 |
-| essence | n. | 本质，实质；精华；香精 |
-| fallacy | n. | 谬论，谬误 |
-| generic | adj. | 一般的；属的；类的；非商标的 |
-| impetus | n. | 促进；动力；冲力 |
-| in case | conj. | 如果,万一 |
-| insofar | adv. | 在…的范围；在…情况下 |
-| iterate | vt. | 反复说；重复；重做；迭代 |
-| lateral | adj. | 侧面的，横向的; 侧部；边音; 横向传球 |
-| mimetic | adj. | 模仿的 |
-| mimicry | n. | 模仿;模仿的技巧 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **versus** <span class="wpos">prep.</span> | 对；与...相对；对抗 |
+| **visual** <span class="wpos">adj.</span> | 视觉的, 看得见的 |
+| **Ad hoc.** |  |
+| **analogy** <span class="wpos">n.</span> | 类似, 相似; 类推, 类推法 |
+| **anomaly** <span class="wpos">n.</span> | 异常,反常,不规则; 畸形人〔物〕；异常现象; 近点角 |
+| **apeiron** | 阿派朗 |
+| **apropos** <span class="wpos">adj.</span> | 适当的；恰好的; 适当地；恰好地；恰当地 |
+| **barrier** <span class="wpos">n.</span> | 障碍物，屏障；界线; 把…关入栅栏 |
+| **behoove** <span class="wpos">vt.</span> | 理应；对…有此必要; 有必要；理所当然; 适宜 |
+| **chaotic** <span class="wpos">adj.</span> | 混乱的，无秩序的；混沌的 |
+| **conduce** <span class="wpos">vi.</span> | 有益；有贡献于；导致 |
+| **consist** <span class="wpos">vi.</span> | 组成, 构成; 在于, 存在于 |
+| **derived** <span class="wpos">adj.</span> | 导出的；衍生的，派生的; 得到；由…而来；推断 |
+| **destiny** <span class="wpos">n.</span> | 命运; 天命; 天数 |
+| **devised** <span class="wpos">v.</span> | 计划；发明；设计 |
+| **discern** <span class="wpos">vt.</span> | 识别；领悟，认识; 看清楚，辨别 |
+| **duality** <span class="wpos">n.</span> | 二元性；二象性 |
+| **eidetic** <span class="wpos">adj.</span> | 异常清晰的；极为逼真的 |
+| **empiric** <span class="wpos">n.</span> | 经验主义者；江湖医生; 经验主义的 |
+| **epitome** <span class="wpos">n.</span> | 缩影；摘要；象征 |
+| **essence** <span class="wpos">n.</span> | 本质，实质；精华；香精 |
+| **fallacy** <span class="wpos">n.</span> | 谬论，谬误 |
+| **generic** <span class="wpos">adj.</span> | 一般的；属的；类的；非商标的 |
+| **impetus** <span class="wpos">n.</span> | 促进；动力；冲力 |
+| **in case** <span class="wpos">conj.</span> | 如果,万一 |
+| **insofar** <span class="wpos">adv.</span> | 在…的范围；在…情况下 |
+| **iterate** <span class="wpos">vt.</span> | 反复说；重复；重做；迭代 |
+| **lateral** <span class="wpos">adj.</span> | 侧面的，横向的; 侧部；边音; 横向传球 |
+| **mimetic** <span class="wpos">adj.</span> | 模仿的 |
+| **mimicry** <span class="wpos">n.</span> | 模仿;模仿的技巧 |
+:::
+:::
+::::
 
 ### The Mind's Workshop
 
+:::: {.columns}
+::: {.column width="57%"}
 In the quiet hours before dawn, a philosopher's **musings** often **mingled** with half-remembered dreams — that strange **overlap** where reason and vision share the same room. She had spent weeks **mulling** over a single **paradox**: that the most **radical** ideas, the ones capable of reshaping thought entirely, almost always emerged from the most **mundane** observations. A cracked teacup. A shadow on a wall. The way two **spatial** planes could meet at an angle that seemed, at first glance, impossible to name.
 
 She reached for her **revised** notes, their margins dense with arrows and cross-outs. Her task was to build what the ancients had called an **organon** — a rigorous instrument of reasoning — one **precise** enough to handle arguments that didn't fit neatly into any **tabular** grid of categories. The old **sophist** tradition, she felt, had done philosophy a disservice: through **sleight** of language, it had made **sorites**-style chains of inference look airtight while quietly smuggling in false steps. A truly **seminal** system would have to **rectify** that, stripping away everything **obscure** until the structure stood naked and clear.
 
 Progress in such work required a **toehold** before anything **stellar** could be built. So she chose to begin small: to **segment** the problem, to ask what questions properly **pertain** to logic itself rather than to the **thereof** — the content it processes. She would **presume** nothing she couldn't **resolve** through argument, and she would not let any single framework **prevail** simply because it was fashionable. If a view **possessed** genuine force, it would survive contact with the most **nuanced** objection she could draft. What she found **uncanny**, each time, was how the act of thinking about thinking seemed to **thereby** change the thinking itself — a loop both beautiful and, in its own quiet way, vertiginous.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| mingled | v. | 融合，联合 |
-| mulling | n. | 研碎; 仔细考虑；弄坏 |
-| mundane | adj. | 世俗的，平凡的；世界的，宇宙的 |
-| musings | n. | 沉思；冥思；冥想 |
-| nuanced | n. | 有细微差别的 |
-| obscure | adj. | 无名的；鲜为人知的；默默无闻的; 费解的，晦涩的；模糊的，朦胧的；不清楚的; 遮掩；遮蔽；使不分明 |
-| organon | n. | 推理法；工具论 |
-| overlap | n. | 重叠；重复; 部分重叠；部分的同时发生; 与…重叠；与…同时发生 |
-| paradox | n. | 似非而是的论点；悖论，反论；自相矛盾的人或事 |
-| pertain | vi. | 适合；属于；关于 |
-| possess | vt. | 具有; 占据 |
-| precise | adj. | 精确的；明确的；严格的 |
-| presume | vt. | 假定；推测；擅自；意味着; 相信；擅自行为 |
-| prevail | vi. | 说服，劝说；诱使; 盛行，流行; 获胜；占优势 |
-| radical | adj. | 根本的，基本的；彻底的，完全的; 激进的，激进派的 |
-| rectify | vt. | 改正；整流；精馏 |
-| resolve | vt. | 决定；使…分解；决心要做…；溶解; 决心；解决；分解; 坚决；决定要做的事 |
-| revised | | 改进的 |
-| segment | vi. | 分割; 段；部分; 分割 |
-| seminal | adj. | 种子的,精液的; 对以后发展有巨大影响的 |
-| sleight | n. | 熟练，灵巧；手法，技巧；诡计 |
-| sophist | n. | 诡辩家；学者，哲学家 |
-| sorites | n. | 复合三段论,诡辩法 |
-| spatial | adj. | 空间的；存在于空间的；受空间条件限制的 |
-| stellar | adj. | 星的,星球的; 主要的, 主角的 |
-| tabular | adj. | 表格的，列表的; 按表格计算的; 平坦的；平板的；扁平的 |
-| thereby | adv. | 从而，因此；在那附近；在那方面 |
-| thereof | adv. | 在其中；关于…；由此；将它；它的 |
-| toehold | n. | 克服困难的办法，排除障碍的方法；小立足点 |
-| uncanny | adj. | 可怕的；离奇的；神秘的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **mingled** <span class="wpos">v.</span> | 融合，联合 |
+| **mulling** <span class="wpos">n.</span> | 研碎; 仔细考虑；弄坏 |
+| **mundane** <span class="wpos">adj.</span> | 世俗的，平凡的；世界的，宇宙的 |
+| **musings** <span class="wpos">n.</span> | 沉思；冥思；冥想 |
+| **nuanced** <span class="wpos">n.</span> | 有细微差别的 |
+| **obscure** <span class="wpos">adj.</span> | 无名的；鲜为人知的；默默无闻的; 费解的，晦涩的；模糊的，朦胧的；不清楚的; 遮掩；遮蔽；使不分明;… |
+| **organon** <span class="wpos">n.</span> | 推理法；工具论 |
+| **overlap** <span class="wpos">n.</span> | 重叠；重复; 部分重叠；部分的同时发生; 与…重叠；与…同时发生 |
+| **paradox** <span class="wpos">n.</span> | 似非而是的论点；悖论，反论；自相矛盾的人或事 |
+| **pertain** <span class="wpos">vi.</span> | 适合；属于；关于 |
+| **possess** <span class="wpos">vt.</span> | 具有; 占据 |
+| **precise** <span class="wpos">adj.</span> | 精确的；明确的；严格的 |
+| **presume** <span class="wpos">vt.</span> | 假定；推测；擅自；意味着; 相信；擅自行为 |
+| **prevail** <span class="wpos">vi.</span> | 说服，劝说；诱使; 盛行，流行; 获胜；占优势 |
+| **radical** <span class="wpos">adj.</span> | 根本的，基本的；彻底的，完全的; 激进的，激进派的 |
+| **rectify** <span class="wpos">vt.</span> | 改正；整流；精馏 |
+| **resolve** <span class="wpos">vt.</span> | 决定；使…分解；决心要做…；溶解; 决心；解决；分解; 坚决；决定要做的事 |
+| **revised** | 改进的 |
+| **segment** <span class="wpos">vi.</span> | 分割; 段；部分; 分割 |
+| **seminal** <span class="wpos">adj.</span> | 种子的,精液的; 对以后发展有巨大影响的 |
+| **sleight** <span class="wpos">n.</span> | 熟练，灵巧；手法，技巧；诡计 |
+| **sophist** <span class="wpos">n.</span> | 诡辩家；学者，哲学家 |
+| **sorites** <span class="wpos">n.</span> | 复合三段论,诡辩法 |
+| **spatial** <span class="wpos">adj.</span> | 空间的；存在于空间的；受空间条件限制的 |
+| **stellar** <span class="wpos">adj.</span> | 星的,星球的; 主要的, 主角的 |
+| **tabular** <span class="wpos">adj.</span> | 表格的，列表的; 按表格计算的; 平坦的；平板的；扁平的 |
+| **thereby** <span class="wpos">adv.</span> | 从而，因此；在那附近；在那方面 |
+| **thereof** <span class="wpos">adv.</span> | 在其中；关于…；由此；将它；它的 |
+| **toehold** <span class="wpos">n.</span> | 克服困难的办法，排除障碍的方法；小立足点 |
+| **uncanny** <span class="wpos">adj.</span> | 可怕的；离奇的；神秘的 |
+:::
+:::
+::::
 
 ### The Shape of a Thought
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher once tried to **conceive** of knowledge as a single **unified** field — one grand **coherent** system that could **comprise** every discipline from logic to aesthetics. From his **vantage**, the scattered branches of inquiry were not truly **discrete**; they merely appeared so because thinkers kept **focusing** on **boundary** lines rather than on what lay across them. He was **eclectic** by temperament, **both** drawing from Plato **and** borrowing from the empiricists, refusing to **conflate** resemblance with identity or to give **credence** to arguments that couldn't survive an **elenchus**. His **analyses** were painstaking, his language **definite**, his conclusions **accurate** to the degree that fallible minds allow. When a rival tried to **disprove** his central claim, he welcomed the challenge — **contrary** evidence, he insisted, was not a threat but a gift, the very thing **enabling** clearer thought.
 
 His student was **esoteric** where the master had been **exoteric**: she wrote for initiates, in a register so **ethereal** it barely touched the ground. She **ascribed** the gap between them not to arrogance but to audience — she was **envisioning** a reader who already shared her **criteria** and needed no scaffolding. Yet **whereas** her prose had beauty, it lacked **cohesion**; ideas drifted past one another without locking together. A chapter that should have been the **capstone** of her argument read instead like a mood.
 
 Years later, rereading both of them, a student noticed the real difference: the master had refused **fatalism** — he never believed the shape of a thought was fixed at birth, **ascribed** by fate to permanent obscurity or permanent clarity. Every concept could be redrawn, every **boundary** redrawn with it. The student had surrendered to it. That surrender, quiet and **distinct**, was what separated a living philosophy from a beautiful one.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| unified | adj. | 统一的, 统一标准的, 一元化的 |
-| vantage | n. | 优势,有利地位 |
-| whereas | conj. | 但是, 而 |
-| accurate | adj. | 精确的, 准确的，正确无误的 |
-| analyses | n. | 分析；分解；解析；梗概 |
-| ascribed | adj. | 随意取得的 |
-| both…and | | 既…又… |
-| boundary | n. | 分界线; 界线, 范围 |
-| capstone | n. | 顶石,压顶石,顶点,顶点 |
-| coherent | adj. | 条理清楚的，连贯的；前后一致的 |
-| cohesion | n. | 内聚力；结合；凝聚 |
-| comprise | vt. | 包含；由…组成 |
-| conceive | vt. | 构思；持有；以为；怀孕; 怀孕；设想；考虑 |
-| conflate | vt. | 合并；异文合并 |
-| contrary | adj. | 相反的, 相违的; 相反, 反面, 对立面 |
-| credence | n. | 信任；凭证；祭器台 |
-| criteria | n. | 标准，条件 |
-| definite | adj. | 明确的, 确切的; 一定的, 肯定的 |
-| discrete | adj. | 分离的, 不相关联的 |
-| disprove | vt. | 反驳，证明…是虚假的 |
-| distinct | adj. | 截然不同的, 完全分开的; 清晰的, 明白的, 明显的 |
-| eclectic | adj. | 兼收并蓄的；不拘一格的；折中的，折中主义的 |
-| elenchus | n. | 辩驳；逻辑反驳；驳难；反驳论证 |
-| enabling | adj. | 授权的; 使能够；授权给 |
-| envision | vt. | 展望；想象 |
-| esoteric | adj. | 秘传的；限于圈内人的；难懂的 |
-| ethereal | adj. | 天上的；轻的；象空气的 |
-| exoteric | adj. | 开放的；外界的；通俗的 |
-| fatalism | n. | 宿命论 |
-| focusing | v. | 使聚焦；调焦；集中；注视 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **unified** <span class="wpos">adj.</span> | 统一的, 统一标准的, 一元化的 |
+| **vantage** <span class="wpos">n.</span> | 优势,有利地位 |
+| **whereas** <span class="wpos">conj.</span> | 但是, 而 |
+| **accurate** <span class="wpos">adj.</span> | 精确的, 准确的，正确无误的 |
+| **analyses** <span class="wpos">n.</span> | 分析；分解；解析；梗概 |
+| **ascribed** <span class="wpos">adj.</span> | 随意取得的 |
+| **both…and** | 既…又… |
+| **boundary** <span class="wpos">n.</span> | 分界线; 界线, 范围 |
+| **capstone** <span class="wpos">n.</span> | 顶石,压顶石,顶点,顶点 |
+| **coherent** <span class="wpos">adj.</span> | 条理清楚的，连贯的；前后一致的 |
+| **cohesion** <span class="wpos">n.</span> | 内聚力；结合；凝聚 |
+| **comprise** <span class="wpos">vt.</span> | 包含；由…组成 |
+| **conceive** <span class="wpos">vt.</span> | 构思；持有；以为；怀孕; 怀孕；设想；考虑 |
+| **conflate** <span class="wpos">vt.</span> | 合并；异文合并 |
+| **contrary** <span class="wpos">adj.</span> | 相反的, 相违的; 相反, 反面, 对立面 |
+| **credence** <span class="wpos">n.</span> | 信任；凭证；祭器台 |
+| **criteria** <span class="wpos">n.</span> | 标准，条件 |
+| **definite** <span class="wpos">adj.</span> | 明确的, 确切的; 一定的, 肯定的 |
+| **discrete** <span class="wpos">adj.</span> | 分离的, 不相关联的 |
+| **disprove** <span class="wpos">vt.</span> | 反驳，证明…是虚假的 |
+| **distinct** <span class="wpos">adj.</span> | 截然不同的, 完全分开的; 清晰的, 明白的, 明显的 |
+| **eclectic** <span class="wpos">adj.</span> | 兼收并蓄的；不拘一格的；折中的，折中主义的 兼收并蓄的人；折中派的人，折中主义者 |
+| **elenchus** <span class="wpos">n.</span> | 辩驳；逻辑反驳；驳难；反驳论证 |
+| **enabling** <span class="wpos">adj.</span> | 授权的; 使能够；授权给 |
+| **envision** <span class="wpos">vt.</span> | 展望；想象 |
+| **esoteric** <span class="wpos">adj.</span> | 秘传的；限于圈内人的；难懂的 |
+| **ethereal** <span class="wpos">adj.</span> | 天上的；轻的；象空气的 |
+| **exoteric** <span class="wpos">adj.</span> | 开放的；外界的；通俗的; 局外人；外行 |
+| **fatalism** <span class="wpos">n.</span> | 宿命论 |
+| **focusing** <span class="wpos">v.</span> | 使聚焦；调焦；集中；注视 |
+:::
+:::
+::::
 
 ### The Architecture of a Mind Trying to Understand Itself
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher sat at her desk, drafting an **overview** of contemporary thought. Her project was unapologetically **holistic**: she refused to treat ethics, metaphysics, and epistemology as separate territories, **inasmuch** as each domain bled quietly into the others. Her working **paradigm** held that every major school of thought was, in some sense, an **offshoot** of deeper anxieties about what it means to exist at all.
 
 She began with **ontology**, the branch that asks what kinds of things genuinely *are*. A **monistic** reading, she noted, would **preclude** the untidy pluralism most people **innately** carry around. Yet **nihilism** — the radical **negation** of value and meaning — remained a live temptation, especially when one **perceive**d how thoroughly the comfortable certainties of any reigning **ideology** could become **obscured** by its own assumptions. The **inherent** problem was that every system of ideas contained **implicit** commitments it rarely examined, blind corners **inverted** into the appearance of clarity. A **mnemonic** she had scrawled in the margin years ago came back to her: *belief hides inside method*.
 
 She was **inclined** to think that **hedonism** — for all its bad reputation — had at least been honest about what it valued, and that honesty was itself a kind of philosophical virtue. **Likewise**, **immanent** critiques, those that attacked a system from within its own logic rather than from outside, tended to be more persuasive than wholesale dismissal. Still, every **instance** of such internal critique faced the same **obstacle**: the very tools used to **reassess** a framework were tools the framework had supplied. **Instinct** told her to **mitigate** this circularity by stepping back and asking what any single theory left out — tracking its **omission**s as carefully as its claims. The gaps, after all, were data too. She clicked to a blank page and started over, this time letting the **profound** strangeness of the question breathe, trusting that **polarize**d positions were usually the sign of a concept not yet thought all the way through.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| hedonism | n. | 快乐主义；快乐论 |
-| holistic | adj. | 全部的 |
-| ideology | n. | 意识形态；思想意识；观念学 |
-| immanent | adj. | 内在的；固有的 |
-| implicit | adj. | 暗示的；盲从的；含蓄的 |
-| inasmuch | adv. | 因…的原因 |
-| inclined | adj. | 想; 有…倾向；很可能; 倾向于同意; 有天赋；宁愿; 倾斜的；成某角度的; 使…倾向；有…的趋势 |
-| inherent | adj. | 固有的；内在的；与生俱来的 |
-| innately | adv. | 天赋地；与生俱来的 |
-| instance | n. | 例子, 实例 |
-| instinct | n. | 本能，直觉；天性; 充满着的 |
-| inverted | adj. | 倒转的，反向的; 使…反向；颠倒 |
-| likewise | adv. | 也；同样地 |
-| mitigate | vt. | 使缓和，使减轻; 减轻，缓和下来 |
-| mnemonic | adj. | 记忆的；助记的；记忆术的 |
-| monistic | adj. | ［哲］一元论的 |
-| negation | n. | 否定，否认；拒绝 |
-| nihilism | n. | 虚无主义；无政府主义；恐怖行为 |
-| obscured | adj. | 遮蔽的；湮没的; 掩盖；使含混；变得模糊 |
-| obstacle | n. | 障碍, 妨碍 |
-| offshoot | n. | 分支；支流；衍生物 |
-| omission | n. | 省略，删节；遗漏; 略去或漏掉的事 |
-| ontology | n. | 本体论；实体论；存在论 |
-| overview | n. | 概观；综述 |
-| paradigm | n. | 范例；词形变化表 |
-| perceive | vt. | 察觉，感觉；理解；认知; 感到，感知；认识到 |
-| polarize | vt. | 两极分化；偏振；极化; 极化；偏振；两极分化 |
-| preclude | vt. | 妨碍；排除；阻止 |
-| profound | adj. | 深度的；深切的；深远的; 知识渊博的，见解深刻的，深奥的 |
-| reassess | vt. | 再评价；再课税；再摊派 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **hedonism** <span class="wpos">n.</span> | 快乐主义；快乐论 |
+| **holistic** <span class="wpos">adj.</span> | 全部的 |
+| **ideology** <span class="wpos">n.</span> | 意识形态；思想意识；观念学 |
+| **immanent** <span class="wpos">adj.</span> | 内在的；固有的 |
+| **implicit** <span class="wpos">adj.</span> | 暗示的；盲从的；含蓄的 |
+| **inasmuch** <span class="wpos">adv.</span> | 因…的原因 |
+| **inclined** <span class="wpos">adj.</span> | 想; 有…倾向；很可能; 倾向于同意; 有天赋；宁愿; 倾斜的；成某角度的; 使…倾向；有…的趋势 |
+| **inherent** <span class="wpos">adj.</span> | 固有的；内在的；与生俱来的 |
+| **innately** <span class="wpos">adv.</span> | 天赋地；与生俱来的 |
+| **instance** <span class="wpos">n.</span> | 例子, 实例 |
+| **instinct** <span class="wpos">n.</span> | 本能，直觉；天性; 充满着的 |
+| **inverted** <span class="wpos">adj.</span> | 倒转的，反向的; 使…反向；颠倒 |
+| **likewise** <span class="wpos">adv.</span> | 也；同样地 |
+| **mitigate** <span class="wpos">vt.</span> | 使缓和，使减轻; 减轻，缓和下来 |
+| **mnemonic** <span class="wpos">adj.</span> | 记忆的；助记的；记忆术的 |
+| **monistic** <span class="wpos">adj.</span> | ［哲］一元论的 |
+| **negation** <span class="wpos">n.</span> | 否定，否认；拒绝 |
+| **nihilism** <span class="wpos">n.</span> | 虚无主义；无政府主义；恐怖行为 |
+| **obscured** <span class="wpos">adj.</span> | 遮蔽的；湮没的; 掩盖；使含混；变得模糊 |
+| **obstacle** <span class="wpos">n.</span> | 障碍, 妨碍 |
+| **offshoot** <span class="wpos">n.</span> | 分支；支流；衍生物 |
+| **omission** <span class="wpos">n.</span> | 省略，删节；遗漏; 略去或漏掉的事 |
+| **ontology** <span class="wpos">n.</span> | 本体论；实体论；存在论 |
+| **overview** <span class="wpos">n.</span> | 概观；综述 |
+| **paradigm** <span class="wpos">n.</span> | 范例；词形变化表 |
+| **perceive** <span class="wpos">vt.</span> | 察觉，感觉；理解；认知; 感到，感知；认识到 |
+| **polarize** <span class="wpos">vt.</span> | 两极分化；偏振；极化; 极化；偏振；两极分化 |
+| **preclude** <span class="wpos">vt.</span> | 妨碍；排除；阻止 |
+| **profound** <span class="wpos">adj.</span> | 深度的；深切的；深远的; 知识渊博的，见解深刻的，深奥的 |
+| **reassess** <span class="wpos">vt.</span> | 再评价；再课税；再摊派 |
+:::
+:::
+::::
 
 ### The Seminar That Would Not Sit Still
 
+:::: {.columns}
+::: {.column width="57%"}
 A visiting professor once proposed a deceptively **specious** **scenario** to her graduate seminar: imagine a fully **sentient** machine that could **theorize** about its own **cognition**. The room fell quiet. Every student became suddenly **advertent**, leaning forward as though the idea itself had weight.
 
 She began in the **Socratic** tradition, asking not for answers but for better questions. What **attribute** do we assign to a thought that has no thinker? Is the **causality** between stimulus and belief ever **clear-cut**, or does it dissolve under **scrutiny**? The discussion refused to stay **synoptic**; it kept branching, pulling in every tangentially **relevant** detail anyone could summon.
@@ -339,231 +369,251 @@ She began in the **Socratic** tradition, asking not for answers but for better q
 One student tried to **ascertain** a **thematic** thread that might serve as a **unifying** principle, but the argument resisted. Its internal **asymmetry** was, the professor suggested, precisely the point. True **cognitive** work is rarely **congruent** with the tidy diagrams we draw afterward. We **ruminate**, we revise, and we quietly **relegate** our earlier certainties to footnotes. The **subtlety** of how a mind moves from raw sensation through layered **complexes** of meaning toward something approaching understanding sits on a **continuum**—it does not snap into place.
 
 She then turned to what she called the **absurdity** hiding inside every grand framework: the **ubiquity** of **analogous** errors across disciplines, the way a theory **conducive** to clarity in one domain becomes obstructive in another. Evidence is rarely **withheld** maliciously; it is simply never fully gathered. We are always, she said, only **cognizant** of a slice. The best we can do is keep our models **unifying** without pretending they are complete—and remain **advertent** to the moment they stop being **relevant**.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| relegate | vt. | 把降低到；归入；提交 |
-| relevant | adj. | 有关的, 切题的 |
-| ruminate | vi. | 沉思,反复考虑; 反刍,倒嚼 |
-| scenario | n. | 情节；剧本；方案 |
-| scrutiny | n. | 监视；详细审查；细看；选票复查 |
-| sentient | adj. | 有感觉力的；意识到的；有感情的; 有知觉的人 |
-| Socratic | n. | 苏格拉底的信徒; 苏格拉底的 |
-| specious | adj. | 似是而非的；外表美观的；华而不实的；徒有其表的 |
-| subtlety | n. | 微妙；敏锐；精明 |
-| synoptic | adj. | 提纲的,概要的 |
-| thematic | adj. | 题目的；主题的，主旋律的；语干的 |
-| theorize | vi. | 建立理论或学说；推理; 建立理论 |
-| ubiquity | n. | 到处存在,普遍存在 |
-| unifying | vt. | 使成一体；使统一 |
-| withheld | | withhold |
-| absurdity | n. | 极端无理性,悖理；荒谬; 谬论；荒谬的行为 |
-| advertent | adj. | 注意的,留意的 |
-| analogous | adj. | 相似的,可比拟的; 同功的 |
-| ascertain | vt. | 弄清, 确定, 查明 |
-| asymmetry | n. | 不对称; 不对称的，不对等的 |
-| attribute | v. | 把…归因于；认为…是由于; 认为出自…; 将加于…;认为…为…所有; 特性；特质；属性 |
-| causality | n. | 因果关系; 因果性 |
-| clear-cut | adj. | 轮廓鲜明的,清晰的 |
-| cognition | n. | 〈哲〉认识; 认识力 |
-| cognitive | adj. | 认知的, 认识能力的 |
-| cognizant | adj. | 察知的, 认识的 |
-| complexes | | 复合物 |
-| conducive | adj. | 导致…的, 有助于…的 |
-| congruent | adj. | 叠合的, 全等的; 符合的, 一致的, 和谐的 |
-| continuum | n. | 连续统一体 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **relegate** <span class="wpos">vt.</span> | 把降低到；归入；提交 |
+| **relevant** <span class="wpos">adj.</span> | 有关的, 切题的 |
+| **ruminate** <span class="wpos">vi.</span> | 沉思,反复考虑; 反刍,倒嚼 |
+| **scenario** <span class="wpos">n.</span> | 情节；剧本；方案 |
+| **scrutiny** <span class="wpos">n.</span> | 监视；详细审查；细看；选票复查 |
+| **sentient** <span class="wpos">adj.</span> | 有感觉力的；意识到的；有感情的; 有知觉的人 |
+| **Socratic** <span class="wpos">n.</span> | 苏格拉底的信徒; 苏格拉底的 |
+| **specious** <span class="wpos">adj.</span> | 似是而非的；外表美观的；华而不实的；徒有其表的 |
+| **subtlety** <span class="wpos">n.</span> | 微妙；敏锐；精明 |
+| **synoptic** <span class="wpos">adj.</span> | 提纲的,概要的 |
+| **thematic** <span class="wpos">adj.</span> | 题目的；主题的，主旋律的；语干的 |
+| **theorize** <span class="wpos">vi.</span> | 建立理论或学说；推理; 建立理论 |
+| **ubiquity** <span class="wpos">n.</span> | 到处存在,普遍存在 |
+| **unifying** <span class="wpos">vt.</span> | 使成一体；使统一 |
+| **withheld** | withhold |
+| **absurdity** <span class="wpos">n.</span> | 极端无理性,悖理；荒谬; 谬论；荒谬的行为 |
+| **advertent** <span class="wpos">adj.</span> | 注意的,留意的 |
+| **analogous** <span class="wpos">adj.</span> | 相似的,可比拟的; 同功的 |
+| **ascertain** <span class="wpos">vt.</span> | 弄清, 确定, 查明 |
+| **asymmetry** <span class="wpos">n.</span> | 不对称; 不对称的，不对等的 |
+| **attribute** <span class="wpos">v.</span> | 把…归因于；认为…是由于; 认为出自…; 将加于…;认为…为…所有; 特性；特质；属性 |
+| **causality** <span class="wpos">n.</span> | 因果关系; 因果性 |
+| **clear-cut** <span class="wpos">adj.</span> | 轮廓鲜明的,清晰的 |
+| **cognition** <span class="wpos">n.</span> | 〈哲〉认识; 认识力 |
+| **cognitive** <span class="wpos">adj.</span> | 认知的, 认识能力的 |
+| **cognizant** <span class="wpos">adj.</span> | 察知的, 认识的 |
+| **complexes** | 复合物 |
+| **conducive** <span class="wpos">adj.</span> | 导致…的, 有助于…的 |
+| **congruent** <span class="wpos">adj.</span> | 叠合的, 全等的; 符合的, 一致的, 和谐的 |
+| **continuum** <span class="wpos">n.</span> | 连续统一体 |
+:::
+:::
+::::
 
 ### The Labyrinth of the Thinking Mind
 
+:::: {.columns}
+::: {.column width="57%"}
 Every act of reasoning begins with a **framework** — a scaffolding the mind erects before it dares enter the dark. Yet even the most careful thinker faces the **conundrum** of where to begin: thought is not **foolproof**, and the first premise we choose may already be **defective**, quietly warping every **inference** that follows. When we try to **elaborate** on an idea and **enumerate** its parts, we often discover that what seemed unified is in fact riven by a **dichotomy** — a clean split between what is and what we wished were true. The two halves seldom reconcile; they remain **divergent**, pulling the argument in opposite directions until the whole structure looks **distorted**, a **dystopian** mirror of the clarity we sought.
 
 The deeper trap is **dogmatism** — the refusal to question the ground beneath our feet. A mind locked in **formalism** reaches for the **expedient** formula rather than the honest question. It relies on an **enthymeme**, suppressing the shaky premise it would rather not **formulate** aloud, hoping the listener never notices the gap. This is what makes purely **heuristic** shortcuts dangerous: they work often enough to breed confidence, yet their success is only **estimated**, never guaranteed. An **imprecise** assumption, left unnamed, becomes the hidden **deviation** from truth that unravels an entire chain of thought.
 
 The corrective is **dialectic** thinking — holding the **duplexity** of a problem in both hands at once. We must be willing to say that a belief is **erroneous**, even when it **epitomizes** our dearest convictions — or, as the British would spell it, **epitomise** them. We must confess our **ignorance** rather than paper it over. Some truths remain **ineffable**, impossible to pin into language, **inaudible** to any logic we yet possess; they exist in a **dimension** of experience that propositions cannot reach. Acknowledging this is not defeat — it is the necessary **corollary** of intellectual honesty, the very thing that keeps reason from becoming its own cage.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| conundrum | n. | 谜,猜不透的难题,难答的问题 |
-| corollary | n. | 必然的结果,系,推论 |
-| defective | adj. | 有错误的，有缺陷的；不完美的，有瑕疵的 |
-| deviation | n. | 背离,偏离; 离经叛道的行为 |
-| dialectic | adj. | 辩证的 |
-| dichotomy | n. | 一分成二,对分 |
-| dimension | n. | 维；尺寸; 规模；程度；范围; 方面；侧面 |
-| distorted | adj. | 扭歪的,受到曲解的 |
-| divergent | adj. | 有分歧的；不同的；发散的，扩散的 |
-| dogmatism | n. | 教条主义;独断论;武断 |
-| duplexity | | 二重性 |
-| dystopian | adj. | 反面乌托邦的,反面假想国的 |
-| elaborate | vi. | 详尽说明; 详细制定; 复杂的；精心制作的 |
-| enthymeme | n. | 省略三段论法 |
-| enumerate | vt. | 列举，枚举；数 |
-| epitomise | vt. | 成为的缩影 |
-| epitomize | vt. | 成为的缩影 |
-| erroneous | adj. | 〈正〉错误的, 不正确的 |
-| estimated | | 估计的 |
-| expedient | adj. | 应急有效的;权宜之计的 |
-| foolproof | adj. | 万无一失的,肯定成功的 |
-| formalism | n. | 形式主义; 形式主义的 |
-| formulate | vt. | 构想出, 规划; 确切地阐述 |
-| framework | n. | 构架; 结构 |
-| heuristic | adj. | 启发式的 |
-| ignorance | n. | 无知, 愚昧 |
-| imprecise | adj. | 不精确的；不严密的；不确切的 |
-| inaudible | adj. | 听不见的；不可闻的 |
-| ineffable | adj. | 不可言喻的；不应说出的；难以形容的 |
-| inference | n. | 推论, 推理, 推断; 推断结果, 结论 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **conundrum** <span class="wpos">n.</span> | 谜,猜不透的难题,难答的问题 |
+| **corollary** <span class="wpos">n.</span> | 必然的结果,系,推论 |
+| **defective** <span class="wpos">adj.</span> | 有错误的，有缺陷的；不完美的，有瑕疵的 |
+| **deviation** <span class="wpos">n.</span> | 背离,偏离; 离经叛道的行为 |
+| **dialectic** <span class="wpos">adj.</span> | 辩证的 |
+| **dichotomy** <span class="wpos">n.</span> | 一分成二,对分 |
+| **dimension** <span class="wpos">n.</span> | 维；尺寸; 规模；程度；范围; 方面；侧面; 给…定尺寸；标出…的尺寸 |
+| **distorted** <span class="wpos">adj.</span> | 扭歪的,受到曲解的 |
+| **divergent** <span class="wpos">adj.</span> | 有分歧的；不同的；发散的，扩散的 |
+| **dogmatism** <span class="wpos">n.</span> | 教条主义;独断论;武断 |
+| **duplexity** | 二重性 |
+| **dystopian** <span class="wpos">adj.</span> | 反面乌托邦的,反面假想国的; 反面乌托邦的鼓吹者 |
+| **elaborate** <span class="wpos">vi.</span> | 详尽说明; 详细制定; 复杂的；精心制作的 |
+| **enthymeme** <span class="wpos">n.</span> | 省略三段论法 |
+| **enumerate** <span class="wpos">vt.</span> | 列举，枚举；数 |
+| **epitomise** <span class="wpos">vt.</span> | 成为的缩影 |
+| **epitomize** <span class="wpos">vt.</span> | 成为的缩影 |
+| **erroneous** <span class="wpos">adj.</span> | 〈正〉错误的, 不正确的 |
+| **estimated** | 估计的 |
+| **expedient** <span class="wpos">adj.</span> | 应急有效的;权宜之计的 |
+| **foolproof** <span class="wpos">adj.</span> | 万无一失的,肯定成功的 |
+| **formalism** <span class="wpos">n.</span> | 形式主义; 形式主义的 |
+| **formulate** <span class="wpos">vt.</span> | 构想出, 规划; 确切地阐述 |
+| **framework** <span class="wpos">n.</span> | 构架; 结构 |
+| **heuristic** <span class="wpos">adj.</span> | 启发式的 |
+| **ignorance** <span class="wpos">n.</span> | 无知, 愚昧 |
+| **imprecise** <span class="wpos">adj.</span> | 不精确的；不严密的；不确切的 |
+| **inaudible** <span class="wpos">adj.</span> | 听不见的；不可闻的 |
+| **ineffable** <span class="wpos">adj.</span> | 不可言喻的；不应说出的；难以形容的 |
+| **inference** <span class="wpos">n.</span> | 推论, 推理, 推断; 推断结果, 结论 |
+:::
+:::
+::::
 
 ### When Thinking Tangles Itself
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher once described the **innermost** chamber of the mind as a space where no **normative** rule can reach — only raw **intuition**. Yet even there, ideas do not float freely; they **intersect**, and the **intricacy** of each crossing shapes how we reason. Understanding the **intricate** web of a single argument requires more than logic: it demands that we **speculate** honestly about what we do not yet know, resisting the **sophistry** that dresses guesswork in borrowed authority.
 
 Every rigorous theory begins with **principia** — foundational claims we **postulate** before evidence accumulates. The **rationale** behind each postulate should be transparent, not buried. When a framework is **reductive**, collapsing living complexity into tidy variables, it may still be **plausible**, perhaps even **plausibly** correct, as long as we acknowledge what it has discarded. **Pluralism** reminds us that no single schema owns the truth; multiple valid **scenarios** can coexist, each **specified** to its own domain.
 
 The mind also internalizes the world's patterns — we **introject** the structures we observe until they feel native, part of our **intrinsic** cognitive furniture. This is where **mentalism** meets practice: **retention** of abstract concepts depends less on rote drill and more on **mnemonics** that anchor meaning to vivid images. **Iterative** review — each **iteration** slightly deeper than the last — drives material into long-term memory through a kind of **inversion** of forgetting: what was unknown becomes obvious, and the **necessity** of formal effort quietly dissolves. **On top of** all this sits **sentience** itself, the felt awareness that any **intuitive** grasp of an idea is real — not merely a side effect of computation, but the very medium in which thought lives.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| innermost | adj. | 最深处的; 隐私的, 最隐秘的 |
-| intersect | vt. | 横断, 横切, 横穿; & 相交, 交叉 |
-| intricacy | n. | 错综复杂; 难以理解; 错综复杂的事物 |
-| intricate | adj. | 错综复杂的 |
-| intrinsic | adj. | 固有的, 内在的, 本质的 |
-| introject | v. | 融合,使他人态度或外界事物形成内心形象 |
-| intuition | n. | 直觉; 凭直觉感知的知识 |
-| intuitive | adj. | 有直觉力的;凭直觉获知的 |
-| inversion | n. | 倒置,倒装; 转化; 倒位 |
-| iteration | n. | 反复 |
-| iterative | adj. | 重复的,反复的,迭代的; 反复体 |
-| mentalism | n. | 心灵主义 |
-| mnemonics | n. | 记忆术;记忆法 |
-| necessity | n. | 必要; 需要; 必需品; 自然规律 |
-| normative | adj. | 标准的,规范的; 标准地,规范地; 标准,规范 |
-| on top of | | 在...之上 |
-| plausible | adj. | 似乎是真的; 花言巧语的, 能说会道的 |
-| plausibly | adv. | 似真地 |
-| pluralism | n. | 多元主义；多元论；兼任 |
-| postulate | vt. | 假定，假设; 假定；假设 |
-| principia | n. | 原则,基本原则,基本原理 |
-| rationale | n. | 理由;逻辑依据 |
-| reductive | adj. | 减少的,还原的; 还原剂 |
-| retention | n. | 具有，具备，享有，享用; 记忆力，记性; 挡住，拦阻；保持，保留，容纳 |
-| scenarios | | 脚本 |
-| sentience | n. | 感觉性,感觉能力,感觉,知觉 |
-| sophistry | n. | 诡辩术; 诡辩 |
-| specified | | 精确确定;规定的;额定 |
-| speculate | vt. | & 思索；猜测，推测; 投机 |
-| syllogism | n. | 推论；三段论 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **innermost** <span class="wpos">adj.</span> | 最深处的; 隐私的, 最隐秘的 |
+| **intersect** <span class="wpos">vt.</span> | 横断, 横切, 横穿; &amp; 相交, 交叉 |
+| **intricacy** <span class="wpos">n.</span> | 错综复杂; 难以理解; 错综复杂的事物 |
+| **intricate** <span class="wpos">adj.</span> | 错综复杂的 |
+| **intrinsic** <span class="wpos">adj.</span> | 固有的, 内在的, 本质的 |
+| **introject** <span class="wpos">v.</span> | 融合,使他人态度或外界事物形成内心形象 |
+| **intuition** <span class="wpos">n.</span> | 直觉; 凭直觉感知的知识 |
+| **intuitive** <span class="wpos">adj.</span> | 有直觉力的;凭直觉获知的 |
+| **inversion** <span class="wpos">n.</span> | 倒置,倒装; 转化; 倒位 |
+| **iteration** <span class="wpos">n.</span> | 反复 |
+| **iterative** <span class="wpos">adj.</span> | 重复的,反复的,迭代的; 反复体 |
+| **mentalism** <span class="wpos">n.</span> | 心灵主义 |
+| **mnemonics** <span class="wpos">n.</span> | 记忆术;记忆法 |
+| **necessity** <span class="wpos">n.</span> | 必要; 需要; 必需品; 自然规律 |
+| **normative** <span class="wpos">adj.</span> | 标准的,规范的; 标准地,规范地; 标准,规范 |
+| **on top of** | 在...之上 |
+| **plausible** <span class="wpos">adj.</span> | 似乎是真的; 花言巧语的, 能说会道的 |
+| **plausibly** <span class="wpos">adv.</span> | 似真地 |
+| **pluralism** <span class="wpos">n.</span> | 多元主义；多元论；兼任 |
+| **postulate** <span class="wpos">vt.</span> | 假定，假设; 假定；假设 |
+| **principia** <span class="wpos">n.</span> | 原则,基本原则,基本原理 |
+| **rationale** <span class="wpos">n.</span> | 理由;逻辑依据 |
+| **reductive** <span class="wpos">adj.</span> | 减少的,还原的; 还原剂 |
+| **retention** <span class="wpos">n.</span> | 具有，具备，享有，享用; 记忆力，记性; 挡住，拦阻；保持，保留，容纳 |
+| **scenarios** | 脚本 |
+| **sentience** <span class="wpos">n.</span> | 感觉性,感觉能力,感觉,知觉 |
+| **sophistry** <span class="wpos">n.</span> | 诡辩术; 诡辩 |
+| **specified** | 精确确定;规定的;额定 |
+| **speculate** <span class="wpos">vt.</span> | &amp; 思索；猜测，推测; 投机 |
+| **syllogism** <span class="wpos">n.</span> | 推论；三段论 |
+:::
+:::
+::::
 
 ### The Cartographer of Ideas
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher once said that every great theory begins not as fact but as **conjecture** — a trembling guess cast into the dark. She had spent years trying to **categorize** the slippery territory of human thought, aware that the mind's **complexity** does not yield easily to maps. Her framework **consist of** three axes: clarity, coherence, and **congruence** with observed experience. Yet the deeper she pressed, the more **convoluted** the terrain became, each concept folding back on itself like a **complement** that quietly undermines the thing it supports.
 
 She noticed that language itself was the first obstacle. A definition **run counter to** its own intent the moment it hardened into **tautology** — saying the same thing twice in different clothes, mistaking echo for evidence. She learned to **anticipate** this trap and **delve into** the **derivation** of each term, tracing the word back to its root before trusting it. **Archetypal** abstractions — justice, truth, identity — were the worst offenders: their apparent solidity was **virtually** a fiction, a **borderline** case between meaning and habit.
 
 The real difficulty was holding **antithesis** in mind without collapse. Every concept **constitute** itself partly by what it is not, and its opposite was never simply its **antithesis** but something **contingent**, shifting with context. **Behavioral** evidence could **counteract** a tidy theory; a single **aberration** was enough to **complicate** the whole edifice. Still, she refused to let **constraint** become an excuse for vagueness. A good model must **transcend** the particulars that gave it birth and speak, **as a whole**, to the pattern underneath — while remaining **conversely** humble enough to collapse when the data demanded it. The truly **definitive** statement, she concluded, is the one that knows **wherefore** it might one day be wrong, and says so plainly, **as well as** saying what it believes. A framework **discordant** with reality is not bold — it is simply lost.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| tautology | n. | 同义反复, 赘述 |
-| transcend | vt. | 超出或超越的范围; 优于或胜过… |
-| virtually | adv. | 几乎；差不多；事实上；实际上 |
-| wherefore | adv. | 为什么; 为此, 因此 |
-| aberration | n. | 偏差; 越轨; 差错; 毛病 |
-| anticipate | vt. | 先于…行动; 预感, 期望 |
-| antithesis | n. | 对立；对立面; 对照; 对偶 |
-| archetypal | adj. | 原型的 |
-| as a whole | | 整个来说，总体上 |
-| as well as | | 以及，既…又…，除…之外，此外 |
-| behavioral | adj. | 动作的 |
-| borderline | n. | 分界线; 边界上的；暧昧的；不明确的 |
-| categorize | vt. | 把…归类；把…列作 |
-| complement | n. | 补充, 互为补充的东西; 补足语 |
-| complexity | n. | 复杂性,错综复杂的状态; 复杂的事物 |
-| complicate | v. | 使难以理解；使复杂化；使卷入 |
-| congruence | n. | 适合,一致,叠合,全等,相合性 |
-| conjecture | n. | 推测；猜想 |
-| consist of | | 由...组成 |
-| constitute | vt. | 构成, 组成; 建立, 制定 |
-| constraint | n. | 强制；限制，约束 |
-| contingent | adj. | 偶然的；附带的；依情况而变的 |
-| conversely | adv. | 相反地, 颠倒地 |
-| convoluted | adj. | 盘绕的,卷曲的; 复杂的 |
-| counter to | | （与…相反/相悖） |
-| counteract | vt. | 对抗；抵消 |
-| definitive | adj. | 决定性的, 明确的, 权威性的 |
-| delve into | | （深入探究） |
-| derivation | n. | 发展;起源;派生; 词源 |
-| discordant | adj. | 不和的，不一致的，不调和的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **tautology** <span class="wpos">n.</span> | 同义反复, 赘述 |
+| **transcend** <span class="wpos">vt.</span> | 超出或超越的范围; 优于或胜过… |
+| **virtually** <span class="wpos">adv.</span> | 几乎；差不多；事实上；实际上 |
+| **wherefore** <span class="wpos">adv.</span> | &amp; 为什么; 为此, 因此 |
+| **aberration** <span class="wpos">n.</span> | 偏差; 越轨; 差错; 毛病 |
+| **anticipate** <span class="wpos">vt.</span> | 先于…行动; 预感, 期望 |
+| **antithesis** <span class="wpos">n.</span> | 对立；对立面; 对照; 对偶 |
+| **archetypal** <span class="wpos">adj.</span> | 原型的 |
+| **as a whole** | 整个来说，总体上 |
+| **as well as** | 以及，既…又…，除…之外，此外 |
+| **behavioral** <span class="wpos">adj.</span> | 动作的 |
+| **borderline** <span class="wpos">n.</span> | 分界线,国界线; 边界上的；边界附近的; 暧昧的; 不明确的；含混不清的 |
+| **categorize** <span class="wpos">vt.</span> | 把…归类；把…列作 |
+| **complement** <span class="wpos">n.</span> | 补充, 互为补充的东西; 需要的或允许的数额; 补足语; 补足, 补充 |
+| **complexity** <span class="wpos">n.</span> | 复杂性,错综复杂的状态; 复杂的事物 |
+| **complicate** <span class="wpos">v.</span> | 使难以理解；使复杂化；使卷入，使陷入；牵连; 褶叠的；纵折的；由密切相关的部件组成的 |
+| **congruence** <span class="wpos">n.</span> | 适合,一致,叠合,全等,相合性 |
+| **conjecture** <span class="wpos">n.</span> | 推测；猜想; 推测；揣摩; 推测 |
+| **consist of** | 由...组成 |
+| **constitute** <span class="wpos">vt.</span> | 构成, 组成; 建立, 制定; 选定, 任命 |
+| **constraint** <span class="wpos">n.</span> | 强制；限制，约束; 强制，强迫 |
+| **contingent** <span class="wpos">adj.</span> | 偶然的；附带的；以事实为依据的；依情况而变的 代表团；分遣队 |
+| **conversely** <span class="wpos">adv.</span> | 相反地, 颠倒地 |
+| **convoluted** <span class="wpos">adj.</span> | 盘绕的,卷曲的; 复杂的 |
+| **counter to** |  |
+| **counteract** <span class="wpos">vt.</span> | 对抗；抵消 |
+| **definitive** <span class="wpos">adj.</span> | 决定性的, 明确的, 权威性的, 不能或不必改变的 |
+| **delve into** |  |
+| **derivation** <span class="wpos">n.</span> | 发展;起源;派生; 词源 |
+| **discordant** <span class="wpos">adj.</span> | 不和的，不一致的，不调和的；不谐和的 |
+:::
+:::
+::::
 
 ### When the Mind Steps Back to See the Whole
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher once argued that the most **innovative** act in intellectual history was not the invention of any tool but the moment a mind first learned to step *away* from the concrete and think in the **intangible**. All genuine thought, **in essence**, begins with a gap — a **discrepant** observation that refuses to fit the accepted picture. The **dissonance** between what we expect and what we encounter is not a problem to be silenced; it is the spark.
 
 To reason well is to hold a **hypothesis** cleanly and then test it without sentiment. A thinker who clings to **fictitious** certainties — treating **ostensible** patterns as iron laws — will find reality growing more **irrational** with every step. Better to admit, as good **heuristics** demand, that most of our early models are approximate, that **hypotheses** are scaffolding rather than architecture. **Inevitably**, some of that scaffolding must come down. Any framework that introduces **gratuitous** complexity, that admits **extraneous** variables it cannot explain, or that treats **incidental** correlations as causes, becomes an **impediment** to the very understanding it was built to serve.
 
 Language is where abstraction leaves the sharpest marks. A word used **figuratively** carries freight its literal **equivalent** cannot — yet the two must not drift so far apart that the image causes **distortion** of the underlying idea. **Pragmatics** reminds us that meaning is always contextual: what is **immaterial** in one conversation is **imperative** in another; what sits at the **peripheral** edge of one argument stands at the centre of the next. The **integrated** theorist knows how to hold all of this together — to make the **figurative** and the literal **make sense** as a unified whole, to honour **gradualism** where incremental refinement beats a single leap, yet to seize the **fortuitous** rupture when it arrives. Progress is rarely **ostensibly** tidy; it is almost never in the way we planned. But in the living **embodiment** of a well-formed idea, every apparent contradiction finds its place.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| discrepant | adj. | 差异的 |
-| dissonance | n. | 不一致；不调和；不和谐音 |
-| distortion | n. | 变形；失真；扭曲；曲解 |
-| embodiment | n. | 体现；化身 |
-| equivalent | adj. | 等同的，等效的；对等的人，对应的人 |
-| extraneous | adj. | 外部的，外来的；无关的，不相干的，无联系的 |
-| fictitious | adj. | 假的，虚构的，编造的，假设的，假装的 |
-| figurative | adj. | 形象的，比喻的；形象地，比喻地；比喻 |
-| fortuitous | adj. | 偶然发生的，偶然的 |
-| gradualism | n. | 渐进主义，按步就班主义 |
-| gratuitous | adj. | 不必要的，未要求的；无偿的，免费的 |
-| heuristics | n. | 启发，探索法 |
-| hypotheses | | 臆测，假定 |
-| hypothesis | n. | 假说，假设，前提 |
-| immaterial | adj. | 不重要的，不相干的；非物质的，无形的 |
-| impediment | n. | 妨碍、阻碍某事物进展或活动的人或物；身体上的某类残疾，缺陷 |
-| imperative | adj. | 必要的，紧急的，极重要的；命令的；祈使的；必要的事，必须完成的事；祈使语气 |
-| in essence | | 本质上；其实；大体上 |
-| in the way | | 在路上，挡道的 |
-| incidental | adj. | 附属的；易发生的；偶然发生的；附带事件 |
-| inevitably | adv. | 不可避免地，必然地 |
-| innovative | adj. | 新发明的，新引进的；革新的；有改革精神的；乐于引进新观念的 |
-| intangible | adj. | 难以捉摸的，难以理解的，无法确定的；无形的 |
-| integrated | adj. | 整体的；完全的；综合的；集成的；整合的；结合的；连成一体的；互相协调的 |
-| irrational | adj. | 无理性的；失去理性的；不合理的 |
-| make sense | | 讲得通，有意义；是明智的，是合情合理的；理解，懂得 |
-| ostensible | adj. | 假装的，表面的；表面上地 |
-| ostensibly | adv. | 表面上；明显地 |
-| peripheral | adj. | 非本质的；非主要的，次要的，外围的；周围的，边缘的；外围设备，周边设备 |
-| pragmatics | n. | 语用论 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **discrepant** <span class="wpos">adj.</span> | 差异的 |
+| **dissonance** <span class="wpos">n.</span> | 不一致；不调和；不和谐音 |
+| **distortion** <span class="wpos">n.</span> | 变形； 失真；扭曲；曲解 |
+| **embodiment** <span class="wpos">n.</span> | 体现;化身 |
+| **equivalent** <span class="wpos">adj.</span> | 等同的，等效的; 对等的人，对应的人 |
+| **extraneous** <span class="wpos">adj.</span> | 外部的,外来的; 无关的,不相干的,无联系的 |
+| **fictitious** <span class="wpos">adj.</span> | 假的, 虚构的, 编造的, 假设的, 假装的 |
+| **figurative** <span class="wpos">adj.</span> | 形象的,比喻的; 形象地,比喻地; 比喻 |
+| **fortuitous** <span class="wpos">adj.</span> | 偶然发生的,偶然的 |
+| **gradualism** <span class="wpos">n.</span> | 渐进主义,按步就班主义 |
+| **gratuitous** <span class="wpos">adj.</span> | 不必要的, 未要求的; 无偿的, 免费的 |
+| **heuristics** <span class="wpos">n.</span> | 启发，探索法 |
+| **hypotheses** | 臆测,假定 |
+| **hypothesis** <span class="wpos">n.</span> | 假说, 假设, 前提 |
+| **immaterial** <span class="wpos">adj.</span> | 不重要的, 不相干的; 非物质的, 无形的 |
+| **impediment** <span class="wpos">n.</span> | 妨碍、阻碍某事物进展或活动的人或物; 身体上的某类残疾, 缺陷 |
+| **imperative** <span class="wpos">adj.</span> | 必要的, 紧急的, 极重要的; 命令的; 祈使的; 必要的事, 必须完成的事; 祈使语气 |
+| **in essence** | 本质上；其实；大体上 |
+| **in the way** | 在路上，挡道的 |
+| **incidental** <span class="wpos">adj.</span> | 附属的; 易发生的；偶然发生的; 附带事件 |
+| **inevitably** <span class="wpos">adv.</span> | 不可避免地,必然地 |
+| **innovative** <span class="wpos">adj.</span> | 新发明的，新引进的；革新的；有改革精神的; 乐于引进新观念的 |
+| **intangible** <span class="wpos">adj.</span> | 难以捉摸的, 难以理解的, 无法确定的; 无形的 |
+| **integrated** <span class="wpos">adj.</span> | 整体的；完全的；综合的；集成的；整合的; 结合的；连成一体的; 互相协调的 |
+| **irrational** <span class="wpos">adj.</span> | 无理性的;失去理性的;不合理的 |
+| **make sense** | 讲得通, 有意义; 是明智的, 是合情合理的; 理解, 懂得 |
+| **ostensible** <span class="wpos">adj.</span> | 假装的,表面的; 表面上地 |
+| **ostensibly** <span class="wpos">adv.</span> | 表面上; 明显地 |
+| **peripheral** <span class="wpos">adj.</span> | 非本质的；非主要的，次要的，外围的; 周围的，边缘的; 外围设备，周边设备 |
+| **pragmatics** <span class="wpos">n.</span> | 语用论 |
+:::
+:::
+::::
 
 ### When the Seminar Dissolves Into Pure Thought
 
+:::: {.columns}
+::: {.column width="57%"}
 The aging professor had long abandoned **pragmatism** as a governing philosophy — not because he doubted its uses, but because he had spent decades watching colleagues **pragmatise** every genuinely difficult question into a manageable checklist. Ideas, he believed, deserved more than efficiency. They deserved **scrutiny**.
 
 He would **contemplate** a single problem for weeks, turning it over like a stone. Every argument was **subject to** revision; nothing was safe from his **categorical** refusal to accept loose reasoning. He kept a notebook of **brainteasers** — not puzzles with answers, but knots of thought that resisted **unscrambling**. The **underlying** tension in most philosophical disputes, he told his students, was never the surface claim but the **presuppose**d framework neither side had bothered to name. A **relativist** might seem to win a debate simply because the terms themselves were shifting beneath the conversation.
@@ -571,93 +621,101 @@ He would **contemplate** a single problem for weeks, turning it over like a ston
 That semester the seminar was **tripartite**: three weeks on ontology, three on epistemology, three on the ethics of belief. The structure was **procedural** but not rigid; **procedures** existed so the mind could move within them, not be confined. Students learned to **prioritize** charitable interpretation over quick refutation, to keep **respective** positions distinct before merging them, to ask what was **conceivable** before asking what was probable. A claim too **tangential** to the central question was noted and set aside — not dismissed, only deferred. **Proportion** mattered: minor **contingency** did not deserve the same weight as structural **confounding**. When evidence arrived to **corroborate** a hypothesis, the seminar would pause to **scrutinize** it again — sometimes to **substitute** a weaker premise with a stronger one, sometimes simply to confirm that the **affirmation** held.
 
 One student, a stubborn **commonplace** thinker who had arrived believing philosophy was mostly **brainteaser** entertainment, began to see the point. Challenging the **status quo** of an idea was not rebellion; it was maintenance. **Precedence** belonged to the argument best tested, not the argument longest held. The professor's own views — **deep-seated** but never dogmatic — were themselves **subject to** the same pressure. An **affirmative** answer in seminar meant only that no one had yet broken it. That, the student finally understood, was the whole exercise: not to settle thought, but to keep it **transitive**, always passing through, never done.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| pragmatise | vt. | 〈主英〉使实际化,合理地解释 |
-| pragmatism | n. | 实用主义；独断 |
-| precedence | n. | 领先于…的权利;优先权 |
-| presuppose | vt. | 预先假定, 假设; 以…为先决条件, 意味着 |
-| prioritize | vt. | 把…区分优先次序 |
-| procedural | adj. | 程序上的 |
-| procedures | | 规程 |
-| proportion | n. | 均衡；相称，协调; 一物与他物在数量、大小等方面的关系；比例; 部分；份儿 |
-| relativist | n. | 相对论者,相对主义者 |
-| respective | adj. | 各自的; 各个的 |
-| scrutinize | vt. | 仔细检查,详审 |
-| status quo | n. | 现状 |
-| subject to | | 易受...影响的,屈服于...的,让步于... |
-| substitute | vt. | 代替, 替换, 代用 |
-| tangential | adj. | 间接相关的；次要的；外围的；略为触及题目的; 漫射开去的，表现出分歧的; 切线的；正切的 |
-| transitive | adj. | 及物的; 过渡的；转变的; 可递的，可迁的; 及物动词 |
-| tripartite | adj. | 三重的,分成三部分的 |
-| underlying | adj. | 根本的, 基础的; 含蓄的, 潜在的 |
-| unscramble | vt. | 整理,使回复原状,译出密码 |
-| affirmation | n. | 肯定；确认; 证实；批准; 证词 |
-| affirmative | adj. | 肯定的; 表示赞成的，认可的; 积极的，正面的; 乐观的，抱有希望的; 敢说的；自信的；确信的; 肯… |
-| brainteaser | n. | 难题,谜 |
-| categorical | adj. | 绝对的,无条件的,断言的,确信无疑的,明确的 |
-| commonplace | adj. | 普通的, 平庸的; 陈腔滥调, 老生常谈; 寻常的事物, 平常的东西 |
-| conceivable | adj. | 可想到的, 可相信的, 可想像的 |
-| confounding | | 混淆 |
-| contemplate | vt. | 深思, 细想, 仔细考虑; 注视, 凝视 |
-| contingency | n. | 偶然发生的事故,意外事故 |
-| corroborate | vt. | 证实，支持; 确证者；确证物 |
-| deep-seated | adj. | 根深蒂固的,深层的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **pragmatise** <span class="wpos">vt.</span> | 〈主英〉使实际化,合理地解释 |
+| **pragmatism** <span class="wpos">n.</span> | 实用主义；独断 |
+| **precedence** <span class="wpos">n.</span> | 领先于…的权利;优先权 |
+| **presuppose** <span class="wpos">vt.</span> | 预先假定, 假设; 以…为先决条件, 意味着 |
+| **prioritize** <span class="wpos">vt.</span> | 把…区分优先次序 |
+| **procedural** <span class="wpos">adj.</span> | 程序上的 |
+| **procedures** | 规程 |
+| **proportion** <span class="wpos">n.</span> | 均衡；相称，协调; 一物与他物在数量、大小等方面的关系；比例; 部分；份儿 |
+| **relativist** <span class="wpos">n.</span> | 相对论者,相对主义者 |
+| **respective** <span class="wpos">adj.</span> | 各自的; 各个的 |
+| **scrutinize** <span class="wpos">vt.</span> | 仔细检查,详审 |
+| **status quo** <span class="wpos">n.</span> | 现状 |
+| **subject to** | 易受...影响的,屈服于...的,让步于... |
+| **substitute** <span class="wpos">vt.</span> | &amp; 代替, 替换, 代用 |
+| **tangential** <span class="wpos">adj.</span> | 间接相关的；次要的；外围的；略为触及题目的; 漫射开去的，表现出分歧的; 切线的；正切的 |
+| **transitive** <span class="wpos">adj.</span> | 及物的; 过渡的；转变的; 可递的，可迁的; 及物动词 |
+| **tripartite** <span class="wpos">adj.</span> | 三重的,分成三部分的 |
+| **underlying** <span class="wpos">adj.</span> | 根本的, 基础的; 含蓄的, 潜在的 |
+| **unscramble** <span class="wpos">vt.</span> | 整理,使回复原状,译出密码 |
+| **affirmation** <span class="wpos">n.</span> | 肯定；确认; 证实；批准; 证词 |
+| **affirmative** <span class="wpos">adj.</span> | 肯定的; 表示赞成的，认可的; 积极的，正面的; 乐观的，抱有希望的; 敢说的；自信的；确信的; 肯… |
+| **brainteaser** <span class="wpos">n.</span> | 难题,谜 |
+| **categorical** <span class="wpos">adj.</span> | 绝对的,无条件的,断言的,确信无疑的,明确的 |
+| **commonplace** <span class="wpos">adj.</span> | 普通的, 平庸的; 陈腔滥调, 老生常谈; 寻常的事物, 平常的东西 |
+| **conceivable** <span class="wpos">adj.</span> | 可想到的, 可相信的, 可想像的 |
+| **confounding** | 混淆 |
+| **contemplate** <span class="wpos">vt.</span> | &amp; 深思, 细想, 仔细考虑; 注视, 凝视 |
+| **contingency** <span class="wpos">n.</span> | 偶然发生的事故,意外事故 |
+| **corroborate** <span class="wpos">vt.</span> | 证实，支持; 确证者；确证物 |
+| **deep-seated** <span class="wpos">adj.</span> | 根深蒂固的,深层的 |
+:::
+:::
+::::
 
 ### The Ghost in the Machine
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher once spent years building what she called a **proposition** of absolute thought — a claim that pure reason could exist as a **disembodied** force, untethered from flesh and sensation. Her **supposition** was bold: that mind, **essentially**, needed no body to grasp the world. She approached the problem not **haphazardly** but with careful **elaboration**, laying out each premise the way an architect lays stone. Yet her early drafts remained **fragmentary**, full of gaps she papered over with faith in her own **discernment**.
 
 The deeper she waded into **metaphysics**, the more she noticed a troubling **disjunction** between the tidy structures she drew on paper and the **nonsensical** leaps her arguments sometimes demanded. An **ontological** claim she had assumed was **intrinsical** to the whole edifice turned out to rest on little more than **analogically** borrowed language — ideas carried over from geometry **in place of** genuine proof. That realization would have been an **encumbrance** to a lesser thinker, a dead weight dragging the project under. She, **nonetheless**, pressed on.
 
 She began to question **knowability** itself: not merely what we know, but whether the **omnipresent** structures we use to organize thought are **substantive** features of reality or just the scaffolding of **habituation** — patterns the mind falls into **willy-nilly** after years of **utilitarian** training. A certain **parallelism** existed, she noticed, between the way language carved the world and the way the world seemed to push back — a **resemblance** so close it was almost suspicious. **Unbeknownst** to most readers who later studied her notebooks, she had wrestled with a **rudimentary** version of this problem since adolescence. The question seemed **omnipresent**, **interspersed** through every page she had ever written. **In spite of** all the sophistication her career had added, the same raw puzzle remained. Reality, she concluded, would always **necessitate** that the thinker stand somewhere — that even the most **disembodied** idea is thought by a body, in a moment, in a place.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| discernment | n. | 识别能力；洞察力；敏锐，精明 |
-| disembodied | adj. | 脱离肉体的,脱离实体的; 无身体的,不具形体的 |
-| disjunction | n. | 分离 |
-| elaboration | n. | 精心制作；精致；详尽; 精心完成的东西；苦心经营的成果 |
-| encumbrance | n. | 负担，累赘；妨碍，阻碍 |
-| essentially | adv. | 本质上;根本上; 必需的 |
-| fragmentary | adj. | 碎片的;片断的;不完整的;支离破碎的 |
-| habituation | n. | 适应 |
-| haphazardly | adv. | 偶然地;随意地;杂乱地 |
-| in place of | | 代替，取代 |
-| in spite of | | 不顾,不管 |
-| intersperse | vt. | 散布,散置; 点缀 |
-| intrinsical | adj. | 本质的,固有的 |
-| knowability | n. | 可知性 |
-| metaphysics | n. | 形而上学,玄学 |
-| necessitate | vt. | 使…成为必要, 需要；迫使 |
-| nonetheless | adv. | 虽然如此,但是 |
-| nonsensical | adj. | 无意义的;荒谬的;愚蠢的 |
-| omnipresent | adj. | 无所不在的 |
-| ontological | adj. | 存在论的,本体论的,实体论的 |
-| parallelism | n. | 平行,对应,类似 |
-| proposition | n. | 论点；主张; 建议；提案; 命题 |
-| resemblance | n. | 相似, 形似 |
-| rudimentary | adj. | 基本的, 初步的 |
-| substantive | adj. | 真的，真实的，实在的，实际的; 永久的；非临时的 |
-| supposition | n. | 假定；推测；想像；见解 |
-| unbeknownst | adj. | 〈方〉未知的,不为人知的 |
-| utilitarian | adj. | 有效用的;实用的; 功利的 |
-| willy-nilly | adv. | 不管愿意不愿意地;乱七八糟地; 毫无计划地，随意地 |
-| analogically | adv. | 类推地,相似地 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **discernment** <span class="wpos">n.</span> | 识别能力；洞察力；敏锐，精明 |
+| **disembodied** <span class="wpos">adj.</span> | 脱离肉体的,脱离实体的; 无身体的,不具形体的 |
+| **disjunction** <span class="wpos">n.</span> | 分离 |
+| **elaboration** <span class="wpos">n.</span> | 精心制作；精致；详尽; 精心完成的东西；苦心经营的成果 |
+| **encumbrance** <span class="wpos">n.</span> | 负担，累赘；妨碍，阻碍 |
+| **essentially** <span class="wpos">adv.</span> | 本质上;根本上; 必需的 |
+| **fragmentary** <span class="wpos">adj.</span> | 碎片的;片断的;不完整的;支离破碎的 |
+| **habituation** <span class="wpos">n.</span> | 适应 |
+| **haphazardly** <span class="wpos">adv.</span> | 偶然地;随意地;杂乱地 |
+| **in place of** | 代替，取代 |
+| **in spite of** | 不顾,不管 |
+| **intersperse** <span class="wpos">vt.</span> | 散布,散置; 点缀 |
+| **intrinsical** <span class="wpos">adj.</span> | 本质的,固有的 |
+| **knowability** <span class="wpos">n.</span> | 可知性 |
+| **metaphysics** <span class="wpos">n.</span> | 形而上学,玄学 |
+| **necessitate** <span class="wpos">vt.</span> | 使…成为必要, 需要；迫使 |
+| **nonetheless** <span class="wpos">adv.</span> | 虽然如此,但是 |
+| **nonsensical** <span class="wpos">adj.</span> | 无意义的;荒谬的;愚蠢的 |
+| **omnipresent** <span class="wpos">adj.</span> | 无所不在的 |
+| **ontological** <span class="wpos">adj.</span> | 存在论的,本体论的,实体论的 |
+| **parallelism** <span class="wpos">n.</span> | 平行,对应,类似 |
+| **proposition** <span class="wpos">n.</span> | 论点；主张; 建议；提案; 命题 |
+| **resemblance** <span class="wpos">n.</span> | 相似, 形似 |
+| **rudimentary** <span class="wpos">adj.</span> | 基本的, 初步的 |
+| **substantive** <span class="wpos">adj.</span> | 真的，真实的，实在的，实际的; 永久的；非临时的; 真实地; 真实 |
+| **supposition** <span class="wpos">n.</span> | 假定；推测；想像；见解 |
+| **unbeknownst** <span class="wpos">adj.</span> | 〈方〉未知的,不为人知的 |
+| **utilitarian** <span class="wpos">adj.</span> | 有效用的;实用的; 功利的; 功利主义者;实用主义者 |
+| **willy-nilly** <span class="wpos">adv.</span> | 不管愿意不愿意地;乱七八糟地; 无可奈何地做某事；违背意愿; 毫无计划地，随意地; 不管愿意不愿意的… |
+| **analogically** <span class="wpos">adv.</span> | 类推地,相似地 |
+:::
+:::
+::::
 
 ### When the Framework Refuses to Hold
 
+:::: {.columns}
+::: {.column width="57%"}
 A philosopher working in the tradition of **Schopenhauer** once told me that the hardest part of abstract inquiry is not finding answers but choosing which questions deserve **deliberation** at all. She had spent months on a **hypothetical** model of moral cognition — a **paradigmatic** case in the field — only to discover that the data were **inconclusive**. The findings neither confirmed nor denied; they simply hovered, offering only a faint **confirmative** signal that something was there.
 
 **Nevertheless**, she pressed on. Her revised approach was to **disaggregate** the original dataset, pulling apart the **configuration** of variables she had **contemplated** from the start. Each **ramification** of that decision branched further than **spec by spec** analysis could track. She had to acknowledge that the **traceability** of any single inference back to its premise was, in practice, limited. And yet the work of trying — the sheer act of attempting to **conceptualize** what was happening — felt, as she put it, **inextricably** bound to the task of thinking itself.
@@ -665,47 +723,51 @@ A philosopher working in the tradition of **Schopenhauer** once told me that the
 What complicated everything was the **incompatible** demands of two **complementary** frameworks she had hoped to reconcile. Their **compatibility** was a matter of ongoing dispute; colleagues found the pairing **preposterous**, insisting that the two paradigms talked past each other **respectively** and could not be made to converge without serious **modification**. The **repercussion** of forcing them together, they warned, would undermine the **plausibility** of both. Any **consequential** claim built on such a merger would remain unverified — and to **substantiate** it, she **would rather** begin from the **nitty-gritty** than from borrowed elegance.
 
 She filed the paper anyway. Her **renunciation** of tidiness in favour of honest incompleteness was, her editor noted, only **tangentially** related to the original research question — which was, perhaps, precisely the point. The **Brain Teasers** appended at the back were her way of admitting that the real problems remained open, waiting for someone with the patience to sit inside the difficulty without demanding a way out.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| confirmative | adj. | 确定的,证实的 |
-| contemplated | | 预期的 |
-| deliberation | n. | 深思熟虑,研究; 从容,沉着,缓慢 |
-| disaggregate | v. | 使崩溃,分解,聚集 |
-| hypothetical | adj. | 假设的，假定的；有待证实的 |
-| incompatible | adj. | 合不来的，不能和谐相处的；不协调的，不相配的 |
-| inconclusive | adj. | 非决定性的,无结果的; 非决定性地,无结果地; 非决定性,无结果 |
-| inextricably | adv. | 逃不掉地,解决不了地,解不开地 |
-| modification | n. | 缓和,限制,减轻; 更改,改变,修改 |
-| nevertheless | adv. | 仍然, 然而, 不过; 尽管如此, 然而 |
-| nitty-gritty | n. | 事实真相,本质 |
-| paradigmatic | adj. | 范例的; 词形变化的 |
-| plausibility | n. | 似乎有理,善辩 |
-| preposterous | adj. | 反常的，荒谬的；荒谬可笑的; 反常地，荒谬地；荒谬可笑地 |
-| ramification | n. | 结果，后果；衍生结果；派生影响 |
-| renunciation | n. | 声明放弃,宣布断绝关系; 克己; 放弃,抛弃 |
-| repercussion | n. | 影响，反响；恶果；浮动诊胎法 |
-| respectively | adv. | 各自地, 各个地, 分别地 |
-| Schopenhauer | | 叔本华 |
-| spec by spec | | |
-| substantiate | vt. | 用事实支持；证明，证实 |
-| tangentially | adv. | 无关地 |
-| traceability | n. | 可描绘,可描写,可追溯 |
-| would rather | | 宁可，宁愿 |
-| Brain Teasers | | |
-| compatibility | n. | 适合，一致;互换性； 通用性， 兼容性 |
-| complementary | adj. | 互补的 |
-| conceptualize | v. | 使有概念 |
-| configuration | n. | 构造, 形状, 外貌, 轮廓 |
-| consequential | adj. | 作为结果的,间接的; 重要的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **confirmative** <span class="wpos">adj.</span> | 确定的,证实的 |
+| **contemplated** | 预期的 |
+| **deliberation** <span class="wpos">n.</span> | 深思熟虑,研究; 从容,沉着,缓慢 |
+| **disaggregate** <span class="wpos">v.</span> | 使崩溃,分解,聚集 |
+| **hypothetical** <span class="wpos">adj.</span> | 假设的，假定的；有待证实的 |
+| **incompatible** <span class="wpos">adj.</span> | 合不来的，不能和谐相处的；不协调的，不相配的 |
+| **inconclusive** <span class="wpos">adj.</span> | 非决定性的,无结果的; 非决定性地,无结果地; 非决定性,无结果 |
+| **inextricably** <span class="wpos">adv.</span> | 逃不掉地,解决不了地,解不开地 |
+| **modification** <span class="wpos">n.</span> | 缓和,限制,减轻; 更改,改变,修改 |
+| **nevertheless** <span class="wpos">adv.</span> | 仍然, 然而, 不过; 尽管如此, 然而 |
+| **nitty-gritty** <span class="wpos">n.</span> | 事实真相,本质 |
+| **paradigmatic** <span class="wpos">adj.</span> | 范例的; 词形变化的 |
+| **plausibility** <span class="wpos">n.</span> | 似乎有理,善辩 |
+| **preposterous** <span class="wpos">adj.</span> | 反常的，荒谬的；荒谬可笑的; 反常地，荒谬地；荒谬可笑地 |
+| **ramification** <span class="wpos">n.</span> | 结果，后果；衍生结果；派生影响 |
+| **renunciation** <span class="wpos">n.</span> | 声明放弃,宣布断绝关系; 克己; 放弃,抛弃 |
+| **repercussion** <span class="wpos">n.</span> | 影响，反响；恶果；浮动诊胎法 |
+| **respectively** <span class="wpos">adv.</span> | 各自地, 各个地, 分别地 |
+| **Schopenhauer** | 叔本华 |
+| **spec by spec** |  |
+| **substantiate** <span class="wpos">vt.</span> | 用事实支持；证明，证实 |
+| **tangentially** <span class="wpos">adv.</span> | 无关地 |
+| **traceability** <span class="wpos">n.</span> | 可描绘,可描写,可追溯 |
+| **would rather** | 宁可，宁愿 |
+| **Brain Teasers** |  |
+| **compatibility** <span class="wpos">n.</span> | 适合，一致;互换性； 通用性， 兼容性 |
+| **complementary** <span class="wpos">adj.</span> | 互补的 |
+| **conceptualize** <span class="wpos">v.</span> | 使有概念 |
+| **configuration** <span class="wpos">n.</span> | 构造, 形状, 外貌, 轮廓 |
+| **consequential** <span class="wpos">adj.</span> | 作为结果的,间接的; 重要的 |
+:::
+:::
+::::
 
 ### The Philosopher's Unfinished Argument
 
+:::: {.columns}
+::: {.column width="57%"}
 A graduate seminar on the philosophy of mind had just reached its most **controversial** point: whether consciousness could ever be explained in purely physical terms. The professor's position carried a **corresponding** weight of decades of published work, yet it lacked **corroboration** from the neuroscience literature she had cited the week before. Students were given **discretionary** latitude to challenge any claim—and challenge they did.
 
 One student, known for a kind of intellectual **foreknowledge** that unnerved her peers, immediately spotted the **inconsistency** between the professor's opening thesis and her later axioms. She argued, calmly, that the **infeasibility** of mapping qualia onto neural correlates was precisely what made the problem interesting. The professor welcomed the **interposition**, though she warned that premature critique could lead the seminar down a path that was **irretrievable**—once the group **irretrievably** accepted a flawed premise, every conclusion built on it would collapse.
@@ -715,64 +777,70 @@ The debate turned to the **aforementioned** framework of propositional attitudes
 The difficulty, the professor explained, was that consciousness research **is subject to** the very biases it tries to study. Our models are **anthropomorphic** by default; we read intention and experience into systems because we cannot help it. **Anthropomorphism** is not merely a rhetorical error—it is a structural feature of how minds model other minds. This made the two competing frameworks **incommensurable**: they did not share enough common ground for a clean refutation. **On the contrary**, each generated its own internal logic and its own **counterexample**-resistant shell.
 
 Was there any **transformative** move left? **Hypothetically**, one might dissolve the question rather than answer it—a **rationalization** many philosophers had tried, though it often amounted to renaming the problem. The **unanticipated** move came from a quiet student in the back: what if **voluntariness** itself—the felt sense that thinking is something one *does*—was the datum that any theory must account for, rather than explain away? That thought did not **mean to happen** the way it landed, but it landed hard. Some ideas, the professor observed, carry an **exceptionalism** that resists assimilation into larger frameworks; they insist on being **comparable to** nothing else. Whether that insistence was a clue or an obstacle, she left as an exercise for the following week.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| controversial | adj. | 有争议的, 引起争议的 |
-| corresponding | adj. | 相当的, 对应的; 符合的, 一致的 |
-| corroboration | n. | 进一步的证实；进一步的证据 |
-| discretionary | adj. | 任意的，无条件的 |
-| foreknowledge | n. | 预知，先见之明 |
-| inconsistency | n. | 不一致；前后矛盾；反复无常，易变 |
-| infeasibility | | 不可行性 |
-| interposition | n. | 插入，放入；干涉，介入 |
-| irretrievable | adj. | 不能挽回的，不能复原的 |
-| irretrievably | adv. | 不能挽回地，不能补救地 |
-| is subject to | | |
-| propositional | adj. | 建议的，提议的 |
-| repercussions | | 反响 |
-| spontaneously | adv. | 自然地；自发地；不由自主地 |
-| strategically | adv. | 战略上，战略性地 |
-| unanticipated | adj. | 不曾预料到的 |
-| voluntariness | n. | 任意 |
-| aforementioned | adj. | 前面提到的，上述的 |
-| counterexample | n. | 反例 |
-| deconstruction | n. | 解构，拆析 |
-| exceptionalism | | 例外论 |
-| hypothetically | adv. | 假设地，假想地 |
-| mean to happen | | |
-| transformative | adj. | 有改革能力的，变化的，变形的 |
-| anthropomorphic | adj. | 拟人的；赋予人性的 |
-| incommensurable | adj. | 不能比较的，不配比较的 |
-| on the contrary | | 相反，正相反 |
-| rationalization | n. | 合理化，合于经济原则 |
-| anthropomorphism | n. | 神人同形同性论 |
-| be comparable to | | 比得上… |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **controversial** <span class="wpos">adj.</span> | 有争议的, 引起争议的 |
+| **corresponding** <span class="wpos">adj.</span> | 相当的, 对应的; 符合的, 一致的 |
+| **corroboration** <span class="wpos">n.</span> | 进一步的证实;进一步的证据 |
+| **discretionary** <span class="wpos">adj.</span> | 任意的,无条件的 |
+| **foreknowledge** <span class="wpos">n.</span> | 预知,先见之明 |
+| **inconsistency** <span class="wpos">n.</span> | 不一致；前后矛盾; 反复无常，易变 |
+| **infeasibility** | 不可行性 |
+| **interposition** <span class="wpos">n.</span> | 插入，放入；干涉，介入 |
+| **irretrievable** <span class="wpos">adj.</span> | 不能挽回的,不能复原的 |
+| **irretrievably** <span class="wpos">adv.</span> | 不能挽回地,不能补救地 |
+| **is subject to** |  |
+| **propositional** <span class="wpos">adj.</span> | 建议的,提议的 |
+| **repercussions** | 反响 |
+| **spontaneously** <span class="wpos">adv.</span> | 自然地;自发地;不由自主地 |
+| **strategically** <span class="wpos">adv.</span> | 战略上,战略性地 |
+| **unanticipated** <span class="wpos">adj.</span> | 不曾预料到的 |
+| **voluntariness** <span class="wpos">n.</span> | 任意 |
+| **aforementioned** <span class="wpos">adj.</span> | 前面提到的,上述的 |
+| **counterexample** <span class="wpos">n.</span> | 反例 |
+| **deconstruction** <span class="wpos">n.</span> | 解构,拆析 |
+| **exceptionalism** | 例外论 |
+| **hypothetically** <span class="wpos">adv.</span> | 假设地,假想地 |
+| **mean to happen** |  |
+| **transformative** <span class="wpos">adj.</span> | 有改革能力的,变化的,变形的 |
+| **anthropomorphic** <span class="wpos">adj.</span> | 拟人的; 赋予人性的 |
+| **incommensurable** <span class="wpos">adj.</span> | 不能比较的,不配比较的 |
+| **on the contrary** | 相反, 正相反 |
+| **rationalization** <span class="wpos">n.</span> | 合理化,合于经济原则 |
+| **anthropomorphism** <span class="wpos">n.</span> | 神人同形同性论 |
+| **be comparable to** | 比得上... |
+:::
+:::
+::::
 
 ### The Shape of a Thought
 
+:::: {.columns}
+::: {.column width="57%"}
 In philosophy seminars, ideas rarely arrive fully formed. They begin as something **undifferentiated** — a vague unease, a hunch not yet sharpened into language. It was **Ludwig Wittgenstein** who argued that the limits of one's language are the limits of one's world, a claim so **thought-provoking** that it still unsettles the comfortable boundary between mind and word.
 
 From that unsettled ground, dialectical thinking offers a way forward. **Thesis-antithesis-synthesis** is the engine: you stake a claim, let it collide with its opposite, and watch what survives the impact. When a position collapses under its own assumptions, the collision becomes a **reductio ad absurdum** — not a failure of thought, but thought doing its sharpest work.
 
 Every genuine idea has a **knock on effect**: refine one concept and adjacent ones must be renegotiated. Yet the whole edifice only holds when it is **anchored in authenticity** — when the thinker is willing to follow the argument wherever it leads, rather than steering toward a pre-approved conclusion.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| Knock on effect. | | |
-| thoughtprovoking | | 令人深思的 |
-| undifferentiated | adj. | 无差别的;一致的;未分化的 |
-| Ludwig Wittgenstein | | 路德维希·维特根斯坦 |
-| reductio ad absurdum | n. | 〈拉〉归谬法,间接证明法;反证法 |
-| Thesis-antithesis-synthesis | | |
-| anchored in authenticity." | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **Knock on effect.** |  |
+| **thoughtprovoking** | 令人深思的 |
+| **undifferentiated** <span class="wpos">adj.</span> | 无差别的;一致的;未分化的 |
+| **Ludwig Wittgenstein** | 路德维希·维特根斯坦 |
+| **reductio ad absurdum** <span class="wpos">n.</span> | 〈拉〉归谬法,间接证明法;反证法 |
+| **Thesis-antithesis-synthesis** |  |
+| **anchored in authenticity."** |  |
+:::
+:::
+::::

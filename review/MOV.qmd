@@ -2,104 +2,114 @@
 
 
 
-> 本主题共 14 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 14 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### A Morning of Motion
 
+:::: {.columns}
+::: {.column width="57%"}
 The driver **derailed** his schedule the moment he slammed the **bolt** on the depot door and sprinted for the **van** idling at the kerb. He had meant to leave at six, but a **balk** at the last checkpoint — paperwork tangled in **bind** after **bind** — had eaten forty minutes. Now he **darted** through the yard, **dipping** under a low beam, **rubbing** his shoulder against the corrugated wall as he squeezed past a forklift.
 
 At the loading bay, two workers were still **combing** through crates, **tugging** straps tight and giving each knot a firm **pat** before moving on. One paused to **hew** a wedge of packing timber to size with three clean strokes; another **tapped** a clipboard and called out numbers. A **jet** of steam from the pressure washer **dripped** across the floor, and the foreman had to **curb** his irritation when a crate **bumped** the wall and left a **sag** in the corner padding. He **pried** the panel back, **ripped** the torn foam free, and **buried** the whole mess in a scrap bin.
 
 Outside, a courier on a racing bike let the road **dip** downhill, then **dashed** for the junction and nearly collided with an **auto** pulling a wide turn. He **clapped** the handlebar, **chewed** over the near miss for half a second, then **bolted** left onto the cycle lane. He liked to **gad** between routes whenever traffic allowed — the **bow** of the overpass above him framing a pale morning sky. Near the canal he watched a cormorant **dive**, disappear, and **dunk** beneath the surface before surfacing twenty metres on. He **ripped** open his bag, grabbed a breakfast wrap, and **chewed** through it in three bites without slowing. By the time he reached the **exit** ramp he had almost forgotten the morning's chaos — almost.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| derail | vt. | 使出轨; 出轨; 脱轨；脱轨器 |
-| bow | n. | 弓；鞠躬；船首; 鞠躬；弯腰; 弯曲的 |
-| dip | vt. | 浸，蘸; 洗药水浴; 微降，下沉; 向下再向上; 倾斜，凹陷处 |
-| gad | v. | 闲逛，游荡，找乐子；用铁棒刺 |
-| hew | vt. | 砍倒；劈；砍 |
-| jet | n. | 喷射，喷嘴；黑玉；喷气式飞机; 射出 |
-| pat | vt. | 轻拍; 拍成，拍至; 恰好的；适当的 |
-| pry | vt. | 撬动，撬开; 刺探，探查; 杠杆；窥探 |
-| rip | vt. | 撕；锯; 裂开，被撕裂; 裂口，裂缝 |
-| rub | vt. | 擦；摩擦；惹怒; 摩擦；擦；擦破 |
-| sag | vi. | 向下凹或中间下陷; 松弛或不整齐地悬着 |
-| tap | vt. | 轻敲；轻打；装上嘴子; 水龙头；轻打 |
-| tug | vt. | 用力拉；使劲拉；猛扯 |
-| van | n. | 先锋；厢式货车；增值网 |
-| auto | n. | 〈美〉汽车 |
-| balk | n. | 障碍；错误; 阻止；推诿；突然止步不前 |
-| bind | vt. | 捆绑, 捆扎; 约束; 装订; 结合 |
-| bolt | n. | 闪电；螺栓；门闩；弩箭; 逃跑；冲出 |
-| bump | n. | 肿块，隆起物；撞击; 碰撞，撞击；颠簸而行 |
-| bury | vt. | 埋葬; 掩埋，埋藏; 不公开，隐藏; 沉溺于 |
-| chew | n. | 咀嚼；咀嚼物; 嚼碎，咀嚼; 细想，深思 |
-| clap | vi. | 鼓掌，拍手；啪地关上; 拍手声 |
-| comb | v. | 梳，梳理；认真搜寻，仔细搜查 |
-| curb | n. | 侧石, 边石; 限制, 克制, 抑制 |
-| dart | vt. | 投掷；投射; 向前冲；飞奔; 急驰，飞奔 |
-| dash | n. | 破折号；冲撞; 猛冲；撞击 |
-| dive | vi. | 跳水；潜水；俯冲；急剧下降 |
-| drip | vt. | 滴下; 滴出, 漏下 |
-| dunk | vt. | 将浸入液体; 将在水中浸一下 |
-| exit | n. | 出口，通道，安全门; 退出，退场 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **derail** <span class="wpos">vt.</span> | 使出轨; 出轨; 脱轨；脱轨器 |
+| **bow** <span class="wpos">n.</span> | 弓；鞠躬；船首; 鞠躬；弯腰; 鞠躬；弯腰; 弯曲的 |
+| **dip** <span class="wpos">vt.</span> | 浸，蘸; 洗药水浴; &amp; 微降，下沉; 向下再向上; 洗澡，泡水; 倾斜，凹陷处；下 DIP… |
+| **gad** <span class="wpos">v.</span> | 闲逛，游荡，找乐子；用铁棒刺; 游荡，錾，尖头棒; 表示轻微的咒骂或惊讶，God 的变形 |
+| **hew** <span class="wpos">vt.</span> | 砍倒；劈；砍; 砍；劈；坚持 HEWHealth,Education,and Welfare 〈美〉… |
+| **jet** <span class="wpos">n.</span> | 喷射，喷嘴；黑玉；喷气式飞机; 墨黑的; 射出; 射出；乘喷气式飞机 |
+| **pat** <span class="wpos">vt.</span> | &amp; 轻拍; 拍成，拍至; 轻拍; 轻拍某物发出的声音; 小团，小块; 恰好的；适当的; 过于… |
+| **pry** <span class="wpos">vt.</span> | 撬动，撬开; 刺探，探查; 杠杆；窥探 |
+| **rip** <span class="wpos">vt.</span> | 撕；锯; 裂开，被撕裂; 裂口，裂缝 RIPabbr. rest in peace 愿灵安眠 |
+| **rub** <span class="wpos">vt.</span> | 擦；摩擦；惹怒; 摩擦；擦；擦破; 摩擦；障碍；磨损处 |
+| **sag** <span class="wpos">vi.</span> | 向下凹或中间下陷; 松弛或不整齐地悬着; 下陷或松弛；下陷或松弛的地方；下陷或松弛的程度 SAGab… |
+| **tap** <span class="wpos">vt.</span> | 轻敲；轻打；装上嘴子; 轻拍；轻击；轻叩; 水龙头；轻打 TAPabbr. Technical Ar… |
+| **tug** <span class="wpos">vt.</span> | &amp; 用力拉；使劲拉；猛扯; 猛拉；猛拖；猛扯 |
+| **van** <span class="wpos">n.</span> | 先锋；厢式货车；增值网; 用车搬运 Van范 |
+| **auto** <span class="wpos">n.</span> | 〈美〉汽车 |
+| **balk** <span class="wpos">n.</span> | 障碍；错误; 阻止；推诿；错过; 突然止步不前；犹豫 |
+| **bind** <span class="wpos">vt.</span> | 捆绑, 捆扎; 约束; 装订; &amp; 结合 |
+| **bolt** <span class="wpos">n.</span> | 闪电；螺栓；门闩；弩箭; 囫囵吞下；上门闩; 逃跑；冲出; 直立地；突然地 |
+| **bump** <span class="wpos">n.</span> | 肿块，隆起物；撞击; 碰撞，撞击；颠簸而行; 碰，撞；颠簸; 突然地，猛烈地 |
+| **bury** <span class="wpos">vt.</span> | 埋葬; 掩埋，埋藏; 原谅; 不公开，隐藏; 沉溺于；专心于 |
+| **chew** <span class="wpos">n.</span> | 咀嚼；咀嚼物; 嚼碎，咀嚼; 细想，深思 |
+| **clap** <span class="wpos">vi.</span> | 鼓掌，拍手；啪地关上; 拍手，鼓掌；轻轻拍打某人; 拍手声；鼓掌 |
+| **comb** <span class="wpos">v.</span> | 梳，梳理；认真搜寻，仔细搜查；梳理; 梳子；梳理；发卡；梳状物；鸡冠；蜂巢 |
+| **curb** <span class="wpos">n.</span> | 侧石, 边石; 限制, 克制, 抑制; 限制, 克制, 抑制 |
+| **dart** <span class="wpos">vt.</span> | 投掷；投射; 向前冲；飞奔; 飞镖; 急驰，飞奔 DARTabbr. Daily Automatic… |
+| **dash** <span class="wpos">n.</span> | 破折号；冲撞; 使…破灭；猛撞；泼溅; 猛冲；撞击 DASHabbr. Drone Antisubm… |
+| **dive** <span class="wpos">vi.</span> | 跳水；潜水；俯冲；急剧下降; 潜水；跳水；俯冲；扑 |
+| **drip** <span class="wpos">vt.</span> | &amp; 滴下; 滴出, 漏下 |
+| **dunk** <span class="wpos">vt.</span> | 将浸入液体; 将在水中浸一下 |
+| **exit** <span class="wpos">n.</span> | 出口，通道，安全门; 退出，退场; 离开；退场 |
+:::
+:::
+::::
 
 ### The Long Afternoon at the River
 
+:::: {.columns}
+::: {.column width="57%"}
 The old boatman sat at the **helm** of his flat-bottomed skiff, watching a dog on the bank **gnaw** at a stick with stubborn patience. Nearby, two boys flew a **kite** that swooped and dipped like a restless thought. One of them paused to **gaze** at the string as it pulled taut, slack, taut again — then gave it a sharp **jolt** and **hurl**ed a pebble into the water for good measure. The other boy simply **loaf**ed in the grass, too warm and too **idle** to move, arms folded behind his head, staring **idly** at the clouds. A duck **peck**ed along the mudbank. A heron stood motionless, then let out a short, dry **gasp** and **leap**t into the air.
 
 The boatman picked up the **oars**, **flex**ed his fingers around the handles, and pushed off. A man on shore tried to **fend** off a wasp with his newspaper, **flip**ping it wildly before giving up and retreating into the shade. From behind a willow, someone **peek**ed out — a child trying to **lurk** without being noticed — then **peep**ed around again and darted forward to **prod** the mud with a long stick. She **poke**d at something half-buried, **pore**d over it for a moment, then **fold**ed her fingers around it and dropped it into her pocket.
 
 A **kart** rattled past on the gravel path above the bank; its driver **punt**ed the throttle and skidded to a **halt** at the edge, engine **limp**ing to silence. An older woman on a bench did not look up. She had been **rear**ing geraniums in a small clay pot and continued to do so with calm, deliberate hands. A young man at the café beside her tried to **ogle** her work without being obvious about it, then caught himself and **gulp**ed the rest of his coffee. The afternoon **flex**ed around them all — unhurried, full of small motions going nowhere in particular.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| fend | vt. | 独立生活, 照料自己; 挡开, 避开 |
-| flex | vt. | 折曲；使收缩; 弯曲；收缩; 弹性工作制的 |
-| flip | vt. | 轻击；掷; 用指轻弹；蹦跳; 无礼的；轻率的 |
-| fold | vt. | 折叠；合拢；抱住；笼罩 |
-| gasp | vi. | 喘息；喘气；渴望 |
-| gaze | vi. | 凝视, 注视 |
-| gnaw | vt. | 咬，啃; 苦恼；折磨 |
-| gulp | vt. | 狼吞虎咽地吃, 吞咽; 大口地吸; 一大口 |
-| halt | vi. | 停止；踌躇，犹豫；立定 |
-| helm | n. | 舵；舵柄；领导地位；驾驶盘 |
-| hurl | vt. | 丢下；用力投掷；愤慨地说出 |
-| idle | adj. | 懒惰的；闲置的；停顿的 |
-| idly | adv. | 懒惰地；无所事事地，闲着 |
-| jolt | vt. | 摇动；震惊 |
-| kart | n. | 小型赛车，装有轮子的小车 |
-| kite | n. | 风筝 |
-| leap | vi. | 跳，跳跃; 跳跃；飞跃 |
-| limp | n. | 跛行; 无力的；无生气的 |
-| loaf | n. | 游荡; 虚度光阴；游手好闲 |
-| lurk | vi. | 潜伏；埋伏；潜藏 |
-| oars | n. | 桨；桨手 |
-| ogle | vt. | 向…抛媚眼；注视 |
-| peck | vi. | 啄食；扔石头；吹毛求疵 |
-| peek | n. | 偷看；一瞥，看一眼 |
-| peep | n. | 窥视; 窥视, 偷看 |
-| poke | vi. | 刺，捅；戳；伸出；刺探；闲荡 |
-| pore | vi. | 细想；凝视；熟读 |
-| prod | v. | 刺，捅；戳; 激励，促使，敦促 |
-| punt | n. | 踢悬空球；平底船；下赌注者 |
-| rear | vt. | 培养；树立；栽种 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **fend** <span class="wpos">vt.</span> | &amp; 独立生活, 照料自己; 挡开, 避开 |
+| **flex** <span class="wpos">vt.</span> | 折曲；使收缩; 弯曲；收缩; 电线；屈曲；松紧带; 弹性工作制的 |
+| **flip** <span class="wpos">vt.</span> | 轻击；掷; 用指轻弹；蹦跳; 无礼的；轻率的; 筋斗；弹 FLIPabbr. Floating In… |
+| **fold** <span class="wpos">vt.</span> | 折叠；合拢；抱住；笼罩; 折痕；羊栏；信徒; 彻底失败；折叠起来 |
+| **gasp** <span class="wpos">vi.</span> | 喘息；喘气；渴望; 气喘吁吁地说；喘着气说话; 喘气 |
+| **gaze** <span class="wpos">vi.</span> | 凝视, 注视; 凝视, 端详 |
+| **gnaw** <span class="wpos">vt.</span> | &amp; 咬，啃; 苦恼；折磨; 折磨某人; 危害某事物 |
+| **gulp** <span class="wpos">vt.</span> | 狼吞虎咽地吃, 吞咽; 大口地吸; 哽住; 吞咽; 一大口 |
+| **halt** <span class="wpos">vi.</span> | 停止；踌躇，犹豫；立定; 停止；立定；休息; 使停止；使立定 |
+| **helm** <span class="wpos">n.</span> | 舵；舵柄；领导地位；驾驶盘; 指挥；给...掌舵 |
+| **hurl** <span class="wpos">vt.</span> | 丢下；用力投掷；愤慨地说出; 猛投；猛掷; 用力的投掷 |
+| **idle** <span class="wpos">adj.</span> | 懒惰的；闲置的；停顿的; 空转；无所事事；虚度; 虚度；使空转 |
+| **idly** <span class="wpos">adv.</span> | 懒惰地；无所事事地，闲着; 无益地，徒然地 |
+| **jolt** <span class="wpos">vt.</span> | &amp; 摇动；震惊 Jolt灭克磷 |
+| **kart** <span class="wpos">n.</span> | 〈美〉小型赛车,装有轮子的小车 |
+| **kite** <span class="wpos">n.</span> | 风筝 |
+| **leap** <span class="wpos">vi.</span> | 跳，跳跃; 跳跃；飞跃; 跳跃，跳过；使跃过 |
+| **limp** <span class="wpos">n.</span> | 跛行; 一瘸一拐地走; 困难地航行; 无力的；无生气的；易弯的；松软的 LIMPabbr. Lang… |
+| **loaf** <span class="wpos">n.</span> | 块；条，一条面包；游荡; 虚度光阴；游手好闲；游荡; 游手好闲；虚度光阴；游荡 |
+| **lurk** <span class="wpos">vi.</span> | 潜伏；埋伏；潜藏; 埋伏；潜伏 |
+| **oars** <span class="wpos">n.</span> | 桨；桨手; 划船；把…当作桨使用; 停划；平掠回桨 OARSabbr. Ocean Area Rec… |
+| **ogle** <span class="wpos">vt.</span> | 向…抛媚眼；注视; 做媚眼; 眉目传情；媚眼 |
+| **peck** <span class="wpos">vi.</span> | 啄食；扔石头；吹毛求疵; 啄食；扔; 啄痕；配克；许多 |
+| **peek** <span class="wpos">n.</span> | 偷看；一瞥，看一眼; 窥视，偷看 PEEK聚醚醚酮 |
+| **peep** <span class="wpos">n.</span> | 嘟嘟声; 吱吱声; 窥视; 窥视, 偷看; 隐现, 慢慢露出 PEEP呼气末正压通气 |
+| **poke** <span class="wpos">vi.</span> | 刺，捅；戳；伸出；刺探；闲荡; 刺，捅；戳；拨开; 戳；刺；袋子；懒汉 |
+| **pore** <span class="wpos">vi.</span> | 细想；凝视；熟读; 气孔；小孔; 使注视 |
+| **prod** <span class="wpos">v.</span> | 刺，捅；戳; 激励，促使，敦促; 刺，捅，戳; 激励，鼓励; 尖棒，刺棒; 新教徒 |
+| **punt** <span class="wpos">n.</span> | 踢悬空球；平底船；下赌注者; 踢悬空球；用篙撑；用方头平底船运载; 踢悬空球；撒手不干；乘方头平底船… |
+| **rear** <span class="wpos">vt.</span> | 培养；树立；栽种; 暴跳；高耸; 在后面；向后; 后面的；后方的；背面的; 后面；屁股；后方部队 |
+:::
+:::
+::::
 
 ### A Morning at the Workshop and the Waterfront
 
+:::: {.columns}
+::: {.column width="57%"}
 The old foreman moved at a **trot** across the yard, a heavy canvas bag he had to **tote** on one shoulder. He reached the lathe, checked that the **reel** of wire was properly seated, then gripped the **rein** of the apprentice's impatience with a single raised hand. "Watch first." He began to **spin** the rod — slow, even — while the boy stood still, learning to **abide** the silence.
 
 Outside, rain had started. A loose shutter began to **sway** in the wind, its hinge causing it to **tilt** at an angle that made the foreman wince. He sent the boy to **tuck** a wedge beneath it. The boy moved fast, **budge**-ing the frame just enough, then **aligning** it flush against the wall — **align** every edge, he had been told, or the whole thing will **skid** again. He used a blade to **slit** a strip of rubber for a seal, then took a quick **snip** of cord to lash it down.
@@ -109,47 +119,51 @@ By midday the rain had eased. They walked to the waterfront, where a tall schoon
 The foreman watched a worker on deck **yank** a rope free from a cleat, then **toss** it across to the dock. Another man began to **soak** a length of rope in a bucket of tar. "Old trick," the foreman said, "stops it from rotting." He himself had learned to **shun** shortcuts — or rather, to **avert** the consequences of taking them. A **baulk** at the wrong moment, a failure to **wade** through the hard steps, and the whole job unravels. He had seen it.
 
 The schooner eased forward. On the dock, a small girl watched it go, her coat **cling**-ing to her in the damp, turning slowly to follow the hull as it passed — the slow, **aline**-d rhythm of a vessel finally finding its course.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| reel | n. | 卷轴；卷筒；线轴; 把东西用卷轴卷起来；从卷轴上放出来; 蹒跚地走路；摇晃着移动; 发昏；发热 |
-| rein | n. | 缰绳；驾驭；统治；支配; 勒住；驾驭；控制; 勒住马 |
-| sail | vi. | 航行；启航，开船; 帆，篷；航行; 航行 |
-| shun | vt. | 避开, 回避, 避免 |
-| skid | n. | 刹车；打滑；滑轨，滑动垫木; 滚滑；刹住，使减速; 打滑 |
-| skim | vt. | 撇去…的浮物；从…表面飞掠而过；去除；略读；隐瞒; 掠过；浏览; 撇；撇去的东西；表层物；瞒报所得的… |
-| slit | vt. | 撕裂；使有狭缝; 裂缝；投币口; 纵裂 |
-| snip | n. | 剪；便宜货; 剪断; 剪 |
-| soak | vt. | 吸收，吸入；使……上下湿透；沉浸在; 渗透；浸泡; 浸；湿透；大雨 |
-| soar | vi. | 高飞, 翱翔; 猛增; 高耸, 屹立 |
-| spew | vt. | 呕吐; 喷出, 射出; 喷涌出; 呕吐 |
-| spin | vi. | 旋转；纺纱；吐丝；晕眩; 使旋转；纺纱；编造；结网; 旋转；疾驰 |
-| sway | vt. | 使摇动；统治；影响; 摇摆；影响; 摇摆；统治；影响 |
-| tilt | vi. | 倾斜；翘起；以言词或文字抨击; 使倾斜；使翘起; 倾斜 |
-| toss | n. | 投掷；摇荡；投掷的距离；掷币赌胜负; 投掷；使…不安；突然抬起；使…上下摇动；与…掷币打赌; 被乱扔… |
-| tote | vt. | 携带；背负；手提；合计; 负担；总数；装载；手提；拖 |
-| trot | n. | 马小跑的步态；慢跑；小跑的马蹄声；刚学步的小孩；老太婆；腹泻；译文对照本; 小跑；慢跑；快步走; 使… |
-| tuck | vt. | 卷起；挤进；用某物舒适地裹住；使有褶裥；收拢；大口吃；使隐藏; 船尾突出部；食物；缝摺；抱膝式跳水；… |
-| wade | vt. | 蹚, 走过, 跋 |
-| yank | vi. | 猛地一拉; 猛拉; 突然的猛拉 |
-| abide | vt. | 容忍, 忍受; 等候; 逗留, 居住 |
-| align | vt. | 使结盟；使成一行；匹配; 排列；排成一行 |
-| aline | v. | 排成直线,排列 |
-| amble | vi. | 缓行；从容漫步; 缓行步态；漫步 |
-| avert | vt. | 防止, 避免; 转移 |
-| awing | adj. | 飞翔的; 飞翔地; 使敬畏；使惊叹 |
-| baulk | vi. | 畏缩不前, 犹豫; 阻碍, 妨碍, 使落空; 阻碍; 障碍物, 绊脚石 |
-| budge | vt. | 稍微移动; 改变主意；让步; 羔羊皮; 用羔羊皮装饰的; 浮夸的，自负的；庄严的 |
-| burst | vt. | 爆炸，爆裂; 挤满，充满; 突然打开; 突然发作，突然发生; 爆炸，爆裂；爆发，突发 |
-| cling | vi. | 坚持，墨守；紧贴；附着 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **reel** <span class="wpos">n.</span> | 卷轴；卷筒；线轴; 把东西用卷轴卷起来；从卷轴上放出来; 蹒跚地走路；摇晃着移动; 发昏；发热 |
+| **rein** <span class="wpos">n.</span> | 缰绳；驾驭；统治；支配; 勒住；驾驭；控制; 勒住马 |
+| **sail** <span class="wpos">vi.</span> | 航行；启航，开船; 帆，篷；航行; 航行 |
+| **shun** <span class="wpos">vt.</span> | 避开, 回避, 避免 |
+| **skid** <span class="wpos">n.</span> | 刹车；打滑；滑轨，滑动垫木; 滚滑；刹住，使减速; 打滑 |
+| **skim** <span class="wpos">vt.</span> | 撇去…的浮物；从…表面飞掠而过；去除；略读；隐瞒; 掠过；浏览; 撇；撇去的东西；表层物；瞒报所得的… |
+| **slit** <span class="wpos">vt.</span> | 撕裂；使有狭缝; 裂缝；投币口; 纵裂 |
+| **snip** <span class="wpos">n.</span> | 剪；便宜货; 剪断; 剪 |
+| **soak** <span class="wpos">vt.</span> | 吸收，吸入；使……上下湿透；沉浸在; 渗透；浸泡; 浸；湿透；大雨 |
+| **soar** <span class="wpos">vi.</span> | 高飞, 翱翔; 猛增; 高耸, 屹立 |
+| **spew** <span class="wpos">vt.</span> | &amp; 呕吐; 喷出, 射出; 喷涌出; 呕吐 |
+| **spin** <span class="wpos">vi.</span> | 旋转；纺纱；吐丝；晕眩; 使旋转；纺纱；编造；结网; 旋转；疾驰 |
+| **sway** <span class="wpos">vt.</span> | 使摇动；统治；影响; 摇摆；影响; 摇摆；统治；影响 |
+| **tilt** <span class="wpos">vi.</span> | 倾斜；翘起；以言词或文字抨击; 使倾斜；使翘起; 倾斜 |
+| **toss** <span class="wpos">n.</span> | 投掷；摇荡；投掷的距离；掷币赌胜负; 投掷；使…不安；突然抬起；使…上下摇动；与…掷币打赌; 被乱扔… |
+| **tote** <span class="wpos">vt.</span> | 携带；背负；手提；合计; 负担；总数；装载；手提；拖 |
+| **trot** <span class="wpos">n.</span> | 马小跑的步态；慢跑；小跑的马蹄声；刚学步的小孩；老太婆；腹泻；译文对照本; 小跑；慢跑；快步走; 使… |
+| **tuck** <span class="wpos">vt.</span> | 卷起；挤进；用某物舒适地裹住；使有褶裥；收拢；大口吃；使隐藏; 船尾突出部；食物；缝摺；抱膝式跳水；… |
+| **wade** <span class="wpos">vt.</span> | &amp; 蹚, 走过, 跋 |
+| **yank** <span class="wpos">vi.</span> | 猛地一拉; 猛拉; 突然的猛拉 |
+| **abide** <span class="wpos">vt.</span> | 容忍, 忍受; 等候; 逗留, 居住 |
+| **align** <span class="wpos">vt.</span> | 使结盟；使成一行；匹配; 排列；排成一行 |
+| **aline** <span class="wpos">v.</span> | 排成直线,排列 |
+| **amble** <span class="wpos">vi.</span> | 缓行；从容漫步; 缓行步态；漫步 Amble阿姆勃尔方法 |
+| **avert** <span class="wpos">vt.</span> | 防止, 避免; 转移 |
+| **awing** <span class="wpos">adj.</span> | 飞翔的; 飞翔地; 使敬畏；使惊叹 |
+| **baulk** <span class="wpos">vi.</span> | 畏缩不前, 犹豫; 阻碍, 妨碍, 使落空; 阻碍; 障碍物, 绊脚石 |
+| **budge** <span class="wpos">vt.</span> | &amp; 稍微移动; 改变主意；让步; 羔羊皮; 用羔羊皮装饰的; 浮夸的，自负的；庄严的 |
+| **burst** <span class="wpos">vt.</span> | &amp; 爆炸，爆裂; 挤满，充满; 突然打开; 突然发作，突然发生; 爆炸，爆裂；爆发，突发 |
+| **cling** <span class="wpos">vi.</span> | 坚持，墨守；紧贴；附着 |
+:::
+:::
+::::
 
 ### The Rodeo Ground at Dawn
 
+:::: {.columns}
+::: {.column width="57%"}
 Before the **rodeo** crowd arrived, Jake was already at work. He let the dog off its **leash** and watched it **creep** through the damp grass toward the far fence, nose low, tracking something invisible. With a sharp whistle he called it back, then turned to **fetch** the saddle from the barn.
 
 The morning had a **fleet** quality — light shifting fast, shadows still long. He **hoisted** the saddle onto the roan's back with practiced ease, then took the **reins** and **mounted** in one smooth motion. The horse, a reliable **pacer**, moved at a steady **march** toward the practice ring, **drifting** left only once when a sparrow cut across the path.
@@ -161,47 +175,51 @@ The **scout** from the regional circuit had arrived early too, **posed** — no,
 By midmorning the work had turned gritty. The ring was **mired** after last night's rain — horses and boots alike caked to the ankle. Jake had to **scrub** the tack down twice. He told the boy to **rinse** the bridle properly this time, not just **flick** water at it. He showed him how to **kneel** beside the bucket, work the leather with his thumbs, **pinch** the stitching clean at the corners. The boy **mimicked** the motion carefully.
 
 A diver's gear bag sat near the gate — someone had left a **scuba** kit after a promotional shoot the week before, weirdly out of place among the rope coils and spurs. Jake stepped over it, lit a cigarette, and began the slow work of **purging** the schedule of the afternoon's dead weight: two no-shows, one injured horse. He crossed names off with the calm authority of a man holding full **reins** over his own corner of the world.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| creep | vi. | 爬行；慢慢地移动；起鸡皮疙瘩；蔓延 |
-| dodge | vt. | 闪躲；回避；伎俩，妙计 |
-| drift | n. | 漂流，漂移；趋势；使…漂流 |
-| fetch | vt. | 接来；取来；吸引 |
-| fleet | adj. | 快速的，敏捷的 |
-| flick | vt. | 轻打，轻掸 |
-| hoist | vt. | 把…吊起，升起 |
-| hound | vt. | 追猎；烦扰；激励 |
-| kneel | vi. | 跪 |
-| leash | n. | 拴猎狗的皮带；用皮带系住 |
-| lunge | n. | 刺；跃进；突进 |
-| march | n. | 行走，行军；稳步发展；进行曲 |
-| mimic | vt. | 模仿，摹拟 |
-| mired | v. | 使…陷于泥泞，使…陷入困境 |
-| mount | vt. | 登上；骑上；增加 |
-| nudge | n. | 用肘轻推；推动 |
-| pacer | n. | 步测者；溜蹄的马；定速装置 |
-| pinch | vt. | 捏；掐掉某物；修剪 |
-| pivot | n. | 枢轴；中心点；旋转运动 |
-| posed | v. | 摆姿势；形成；主张 |
-| prick | vt. | 刺，扎，戳；刺痛 |
-| purge | vi. | 净化；清洗 |
-| quest | n. | 追求；寻找；探索 |
-| reins | n. | 缰绳；感情；肺腑 |
-| rinse | vt. | 漂洗，冲洗 |
-| rodeo | n. | 竞技表演；竞技 |
-| scoot | vi. | 溜走；快走；迅速跑开 |
-| scout | n. | 侦察员；人才发掘者；童子军 |
-| scrub | n. | 用力擦洗；使净化 |
-| scuba | n. | 水中呼吸器；水肺 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **creep** <span class="wpos">vi.</span> | 爬行；慢慢地移动；起鸡皮疙瘩；蔓延; 爬行；毛骨悚然的感觉；谄媚者 |
+| **dodge** <span class="wpos">vt.</span> | &amp; 闪躲; 回避; 闪躲, 躲避; 伎俩, 妙计 |
+| **drift** <span class="wpos">n.</span> | 漂流，漂移；漂流物；趋势; 漂流，漂移；漂泊; 使…漂流；使…受风吹积 DRIFTabbr. Div… |
+| **fetch** <span class="wpos">vt.</span> | 接来；到达；取来；吸引; 取物；卖得；拿; 取得；诡计 |
+| **fleet** <span class="wpos">adj.</span> | 快速的，敏捷的; 舰队；小河；港湾; 疾驰；飞逝；掠过; 消磨 |
+| **flick** <span class="wpos">vt.</span> | 轻打, 轻掸; 轻打 |
+| **hoist** <span class="wpos">vt.</span> | 把…吊起，升起; 吊起；举起；提升; 起重器械 |
+| **hound** <span class="wpos">vt.</span> | 追猎；烦扰；激励; 猎犬；卑劣的人 |
+| **kneel** <span class="wpos">vi.</span> | 跪 |
+| **leash** <span class="wpos">n.</span> | 拴猎狗的皮带; 用皮带系住 |
+| **lunge** <span class="wpos">n.</span> | 刺；跃进；刺进；套马索; 刺；戳；使前冲; 刺；突进 |
+| **march** <span class="wpos">n.</span> | 行走，行军，进军；示威游行；稳步发展；进行曲；三月; 齐步走；行进；进发；强迫一起走，押送；游行示威… |
+| **mimic** <span class="wpos">vt.</span> | 模仿，摹拟; 小丑；仿制品；效颦者，模仿者; 模仿的，模拟的；假装的 |
+| **mired** <span class="wpos">v.</span> | 使…陷于泥泞，使…陷入困境 |
+| **mount** <span class="wpos">vt.</span> | &amp; 登上；骑上; 增加；上升; 上演；配有…; 发动攻击；攻击; 山峰; 坐骑 |
+| **nudge** <span class="wpos">n.</span> | 用肘轻推；推动；没完没了抱怨的人; 用肘轻推；推进；向…不停地唠叨; 轻推；推进；唠叨 |
+| **pacer** <span class="wpos">n.</span> | 步测者；溜蹄的马；定速装置 |
+| **pinch** <span class="wpos">vt.</span> | 捏；勒索；使苦恼；掐掉某物，修剪; 匮乏；少量；夹痛; 夹痛；节省 |
+| **pivot** <span class="wpos">n.</span> | 枢轴；中心点；旋转运动; 以…为中心旋转；把…置于枢轴上; 在枢轴上转动；随…转移; 枢轴的；关键的 |
+| **posed** <span class="wpos">v.</span> | 主张；摆姿势；装模作样；形成 |
+| **prick** <span class="wpos">vt.</span> | 刺，扎，戳; &amp; 刺伤，刺痛；使剧痛; 觉得刺痛; 刺痛; 刺孔，刺痕; 植物的刺 |
+| **purge** <span class="wpos">vi.</span> | 净化；通便; 净化；清洗；通便; 泻药；净化 |
+| **quest** <span class="wpos">n.</span> | 追求；寻找; 寻找；追求; 探索 |
+| **reins** <span class="wpos">n.</span> | 肾脏；腰部；感情；肺腑；缰绳 REINSabbr. Radar Equipped Inertial … |
+| **rinse** <span class="wpos">vt.</span> | 漂洗, 冲洗; 用清水漂洗掉; 漂洗, 冲洗; 染发剂 |
+| **rodeo** <span class="wpos">n.</span> | 竞技者；竞技表演; 竞技 |
+| **scoot** <span class="wpos">vi.</span> | 溜走；快走；骑轻便摩托车; 迅速跑开；猛冲; 疾走；轻便摩托车 |
+| **scout** <span class="wpos">n.</span> | 侦察员；侦察机；侦察兵; 人才发掘者，星探; 童子军队员；童子军; 侦察；搜索；寻找; 物色 Sco… |
+| **scrub** <span class="wpos">n.</span> | 矮树；洗擦；擦洗者；矮小的人; 用力擦洗；使净化; 擦洗；进行手臂消毒; 矮小的；临时凑合的；次等的 |
+| **scuba** <span class="wpos">n.</span> | 水中呼吸器；水肺 SCUBA轻便潜水器 |
+:::
+:::
+::::
 
 ### The Morning the Dock Came Alive
 
+:::: {.columns}
+::: {.column width="57%"}
 Before the mist had fully lifted, old Marsh was already down at the river. He **scull**ed out in silence, each stroke measured, the blades barely **swirl**ing the dark water. On the bank behind him, a heron **swoop**ed low, then **squat**ted on a piling to watch.
 
 Further upstream, the race committee was setting up for the sprint trials. A young sculler who had been **shirk**ing morning practice all week finally showed up — late, flustered, jacket **slung** over one shoulder. He **snuck** past the coach, **slink**ing along the boathouse wall, hoping no one would **sniff** out his tardiness. The coach, who had long learned to **snoop** for exactly this kind of evasion, simply **steer**ed him toward the water without a word.
@@ -211,47 +229,51 @@ The trials began. The starting judge told the crews to **seize** the lane marker
 On the bank, a journalist **trace**d the margin with a stopwatch, **tweak**ing the split-time spreadsheet on her tablet. Autumn leaves had been **strew**n across the grass overnight; someone had already **sweep**-ed them into drifts along the path. She sat on a **squat** bollard, **skate**-d her finger across the screen, and filed her notes just as the winner crossed the line — blades **swirl**ing one final circle before going still.
 
 Later, in the **skeet** range beside the club, a member **snuck** in a few practice rounds, the clay discs **slung** high against the pale sky, each shot a **split**-second decision. He **stray**ed from his usual stance, **tread**-ing a step to the left, and **seize**d a cleaner angle. The **spurt** of smoke from the muzzle was the only sign anything had happened before the disc was dust.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| scull | n. | 短桨；小划艇桨的一种; 摇桨; 划船 |
-| seize | vt. | 抓住，捉住; 夺取；占领 |
-| shirk | vt. | 逃避；偷懒 |
-| skate | vt. | 溜冰, 滑冰; 溜冰鞋 |
-| skeet | n. | 双向飞碟；水瓢；斯吉特; 使急行；喷液体; 迅速跑开；泼 |
-| slink | vi. | 潜逃；溜走; 早产；潜逃; 早产的动物；鬼鬼祟祟的人; 早产的 |
-| slung | v. | 投掷，悬挂 |
-| sneak | vi. | 鬼鬼祟祟做事；溜；向老师打小报告; 偷偷地做；偷偷取得; 鬼鬼祟祟的人；偷偷摸摸的行为；告密者 |
-| sniff | vi. | 嗤之以鼻；嗅; 用力吸；发觉；闻；嗅; 以鼻吸气；气味；吸，闻；吸气声；嗤之以鼻 |
-| snoop | vi. | 调查，窥探; 私家侦探，到处窥视；爱管闲事的人; 窥察，窥探 |
-| snuck | | 〈方〉sneak的过去式 |
-| spill | vt. | 使溢出，使流出；使摔下; 溢出，流出；摔下；涌流 |
-| split | vt. | 劈开；分离；使分离；离开 |
-| spoil | vi. | 变质; 损坏；毁掉; 溺爱，宠坏 |
-| spurt | vi. | 喷出；冲刺；迸发; 喷射；冲刺 |
-| squat | vi. | 蹲坐；蹲; 擅自占住; 矮胖的；矮而宽的 |
-| stall | n. | 厩, 畜栏; 摊, 棚; 熄火, 停止转动; 拖延; 搪塞 |
-| steer | v. | 驾驶；掌控方向盘; 行驶，沿行进; 引导，带领 |
-| stray | vi. | 走失，离群；迷路; 走入歧途；犯罪; 走失的动物 |
-| strew | vt. | 散播；撒满 |
-| strip | vt. | 剥去；剥夺；脱去衣服 |
-| stunt | n. | 绝技；噱头，手腕; 阻碍…的正常生长或发展 |
-| sweep | vt. | 扫除；猛拉；掸去; 扫，打扫；席卷；扫视 |
-| swirl | n. | 漩涡；打旋；涡状形; 盘绕；打旋；眩晕 |
-| swoop | vi. | 俯冲，猛冲; 猛扑；突然下降 |
-| trace | vi. | 追溯；沿路走; 追踪，查探；描绘；回溯 |
-| tramp | vi. | 以沉重的步子走; 步行，徒步; 踩，踏，践; 漂泊，流浪 |
-| tread | n. | 步态；踏；鞋底；踏板；胎面；梯级 |
-| tweak | n. | 拧；扭；焦急; 扭；用力拉；开足马力 |
-| twist | vt. | 捻；拧；扭伤；编织；使苦恼 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **scull** <span class="wpos">n.</span> | 短桨；小划艇桨的一种; 摇桨; 划船 |
+| **seize** <span class="wpos">vt.</span> | &amp; 抓住，捉住; 夺取；占领 |
+| **shirk** <span class="wpos">vt.</span> | &amp; 逃避；偷懒 |
+| **skate** <span class="wpos">vt.</span> | &amp; 溜冰, 滑冰; 溜冰鞋 |
+| **skeet** <span class="wpos">n.</span> | 双向飞碟；水瓢；斯吉特; 使急行；喷液体; 迅速跑开；泼 |
+| **slink** <span class="wpos">vi.</span> | 潜逃；溜走; 早产；潜逃; 早产的动物；鬼鬼祟祟的人; 早产的 |
+| **slung** <span class="wpos">v.</span> | 投掷，悬挂 |
+| **sneak** <span class="wpos">vi.</span> | 鬼鬼祟祟做事；溜；向老师打小报告; 偷偷地做；偷偷取得; 鬼鬼祟祟的人；偷偷摸摸的行为；告密者; 暗… |
+| **sniff** <span class="wpos">vi.</span> | 嗤之以鼻；嗅; 用力吸；发觉；闻；嗅; 以鼻吸气；气味；吸，闻；吸气声；嗤之以鼻 |
+| **snoop** <span class="wpos">vi.</span> | 调查，窥探; 私家侦探，到处窥视；爱管闲事的人; 窥察，窥探 |
+| **snuck** | 〈方〉sneak的 |
+| **spill** <span class="wpos">vt.</span> | 使溢出，使流出；使摔下; 溢出，流出；摔下；涌流; 溢出，溅出；溢出量；摔下；小塞子 |
+| **split** <span class="wpos">vt.</span> | 劈开；分离；使分离；离开; 被劈开；断绝关系；离开; 裂缝；劈开; 劈开的 Split斯普利特 |
+| **spoil** <span class="wpos">vi.</span> | 变质; 损坏；毁掉; 溺爱，宠坏 |
+| **spurt** <span class="wpos">vi.</span> | 喷出；冲刺；迸发; 喷射；冲刺; 喷射；喷出 |
+| **squat** <span class="wpos">vi.</span> | 蹲坐；蹲; 擅自占住; 矮胖的；矮而宽的; 蹲坐，蹲姿; 被擅自占用的建筑物 |
+| **stall** <span class="wpos">n.</span> | 厩, 畜栏; 摊, 棚; 熄火, 停止转动; &amp; 熄火, 停止转动; 拖延; 搪塞 |
+| **steer** <span class="wpos">v.</span> | 驾驶；掌控方向盘; 行驶，沿行进; 引导，带领; 阉公牛；肉用公牛 |
+| **stray** <span class="wpos">vi.</span> | 走失，离群；迷路; 走入歧途；犯罪; 走失的动物; 独自的；零散的 |
+| **strew** <span class="wpos">vt.</span> | 散播；撒满 |
+| **strip** <span class="wpos">vt.</span> | 剥去；剥夺；脱去衣服; 带；条状；脱衣舞; 脱去衣服 |
+| **stunt** <span class="wpos">n.</span> | 绝技；噱头，手腕; 阻碍…的正常生长或发展; 表演特技；作惊人表演 |
+| **sweep** <span class="wpos">vt.</span> | 扫除；猛拉；掸去; 扫，打扫；席卷；扫视；袭击; 打扫，扫除；范围；全胜 |
+| **swirl** <span class="wpos">n.</span> | 漩涡；打旋；涡状形; 盘绕；打旋；眩晕；大口喝酒; 使成漩涡 |
+| **swoop** <span class="wpos">vi.</span> | 俯冲，猛冲; 猛扑；突然下降 |
+| **trace** <span class="wpos">vi.</span> | 追溯；沿路走; 追踪，查探；描绘；回溯; 痕迹，踪迹；微量；迹线；缰绳 TRACEabbr. Tas… |
+| **tramp** <span class="wpos">vi.</span> | 以沉重的步子走; 步行，徒步; 踩，踏，践; 漂泊，流浪; 踩，践踏; 走在，走过; 重步声，脚步声… |
+| **tread** <span class="wpos">n.</span> | 步态；踏；鞋底；踏板；胎面；梯级; 踏；踩；践踏；跳；踩出; 踏；行走；踩；交尾 |
+| **tweak** <span class="wpos">n.</span> | 拧；扭；焦急; 扭；用力拉；开足马力 |
+| **twist** <span class="wpos">vt.</span> | 捻；拧；扭伤；编织；使苦恼; 扭曲；扭伤；拧; 扭动；弯曲 |
+:::
+:::
+::::
 
 ### The Morning the Expedition Moved
 
+:::: {.columns}
+::: {.column width="57%"}
 Before dawn, a young **usher** led the expedition members through the base-camp corridor, guiding each one to the gear table with a quiet nod. The team had agreed to **depart** at first light, and no one dared **falter** in that shared resolve. Maps were spread flat; fingers **jabbed** at contour lines. Their objective — to **attain** the northern ridge before the afternoon wind picked up — was written in every face.
 
 Outside, the cold bit hard. Boots crunched on frozen gravel with a satisfying **crunch** as the column moved out. The lead climber paused to **fasten** her harness one final time, tugging each strap until nothing could shift. Behind her, two porters began to **bustle** around the supply sledge, lashing crates and calling out weights. No one wanted the load to slide **astray** on the first steep pitch.
@@ -265,47 +287,51 @@ They stopped to rest on a broad shelf of granite. The younger researcher, who ha
 By noon they were close. The guide pointed to a shallow saddle fifty metres above. A rope had been **anchor**ed to a piton driven there on a previous attempt, and now it hung in a clean line, an invitation. The climbers gripped the **bridle** of the fixed line and began to **embark** on the final push, leaning into the gradient. The slope seemed to **divert** their fatigue into something almost mechanical — step, pull, breathe. Step, pull, breathe.
 
 At the top, no one moved for a long moment. Then, slowly, the exhaustion they had refused to let **engulf** them all morning arrived. They sat in a loose circle, letting the wind **get on** past them, watching the plain far below where their trucks looked like seeds. It had been a day of unbroken effort — no theatrics, no shortcuts — just the clean, deliberate grammar of bodies doing exactly what they had been trained to do.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| usher | n. | 引座员, 招待员, 迎宾员; 门房, 传达员; 助理教员, 助教; 引, 领, 陪同 |
-| wrest | vt. | 用力拧；强夺；歪曲; 扭，拧 |
-| adhere | vi. | 黏附, 附着; 坚持, 支持 |
-| anchor | n. | 锚; 给人安全感的物; 抛锚; 担任主持人; & 系住, 固定 |
-| astray | adv. | 迷途地；迷路；误入歧途地; 离开正道的；不对头的；迷路的 |
-| attain | vt. | 达到，实现；获得；到达; 达到；获得；到达; 成就 |
-| behold | vt. | 看；注视；把...视为; 看; 瞧；看呀 |
-| bridle | n. | 马勒；系带；约束物；缰绳; 控制；给装马勒; 昂首表示轻蔑；生气 |
-| burrow | vt. | & 挖掘；挖洞; 翻寻; 地洞 |
-| bustle | vi. | 喧闹；忙乱；充满; 使忙碌；催促; 喧闹；活跃；裙撑；热闹的活动 |
-| bypass | vt. | 绕过, 避开; 不顾; 旁道 |
-| cleave | vi. | 裂开；披荆斩棘地前进；粘住；坚持; 砍开；使分开；打通 |
-| clench | vt. | 紧握, 抓紧, 咬紧 |
-| clinch | vi. | 互相紧紧抱住; 〈非正〉解决；达成 |
-| crouch | vi. | 屈膝, 蹲伏 |
-| cruise | vi. | 巡航，巡游；漫游; 巡航，巡游；漫游; 巡航，巡游；乘船游览 |
-| crunch | n. | 咬碎，咬碎声；扎扎地踏; 压碎；嘎扎嘎扎的咬嚼；扎扎地踏过; 嘎吱作响地咀嚼；嘎吱嘎吱地踏过 |
-| dabble | vt. | 溅湿；浸入水中; 涉足；涉猎；玩水 |
-| depart | vi. | 离开；出发，起程；违反；去世; 逝世的 |
-| desist | vi. | 停止 |
-| divert | v. | 使转向；使绕道；转移; 改变的用途; 转移的注意力；使分心; 转接; 娱乐；供消遣 |
-| embark | vi. | 上船或飞机；从事，着手; 使上船；使从事 |
-| engulf | vt. | 吞没；吞食，狼吞虎咽 |
-| falter | vi. | 蹒跚地走；支吾; 支吾地说；结巴地讲出; 颤抖；踌躇；支吾 |
-| fasten | vt. | 系紧, 拴牢; & 闩住 |
-| fidget | v. | 烦躁，坐立不安; 拨弄，摆弄; 坐不住的人，烦躁不安的人; 坐立不安 |
-| flinch | vi. | 退缩；畏惧; 退缩；畏惧 |
-| fumble | vt. | 摸索；笨拙地做；漏接; 摸索；笨拙地行动；漏球; 摸索；笨拙的处理；漏球 |
-| get on | | 上车 |
-| glance | n. | 一瞥；一滑；闪光; 扫视，匆匆一看；瞥闪，瞥见；反光; 扫视；瞥见；擦过 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **usher** <span class="wpos">n.</span> | 引座员, 招待员, 迎宾员; 门房, 传达员; 助理教员, 助教; 引, 领, 陪同 |
+| **wrest** <span class="wpos">vt.</span> | 用力拧；强夺；歪曲; 扭，拧 |
+| **adhere** <span class="wpos">vi.</span> | 黏附, 附着; 坚持, 支持 |
+| **anchor** <span class="wpos">n.</span> | 锚; 给人安全感的物; 抛锚; 担任主持人; &amp; 系住, 固定 |
+| **astray** <span class="wpos">adv.</span> | 迷途地；迷路；误入歧途地; 离开正道的；不对头的；迷路的 |
+| **attain** <span class="wpos">vt.</span> | 达到，实现；获得；到达; 达到；获得；到达; 成就 |
+| **behold** <span class="wpos">vt.</span> | 看；注视；把...视为; 看; 瞧；看呀 |
+| **bridle** <span class="wpos">n.</span> | 马勒；系带；约束物；缰绳; 控制；给装马勒; 昂首表示轻蔑；生气 |
+| **burrow** <span class="wpos">vt.</span> | &amp; 挖掘；挖洞; 翻寻; 地洞 |
+| **bustle** <span class="wpos">vi.</span> | 喧闹；忙乱；充满; 使忙碌；催促; 喧闹；活跃；裙撑；热闹的活动 |
+| **bypass** <span class="wpos">vt.</span> | 绕过, 避开; 不顾; 旁道 |
+| **cleave** <span class="wpos">vi.</span> | 裂开；披荆斩棘地前进；粘住；坚持; 砍开；使分开；打通 |
+| **clench** <span class="wpos">vt.</span> | 紧握, 抓紧, 咬紧 |
+| **clinch** <span class="wpos">vi.</span> | 互相紧紧抱住; 〈非正〉解决；达成 |
+| **crouch** <span class="wpos">vi.</span> | 屈膝, 蹲伏 |
+| **cruise** <span class="wpos">vi.</span> | 巡航，巡游；漫游; 巡航，巡游；漫游; 巡航，巡游；乘船游览 |
+| **crunch** <span class="wpos">n.</span> | 咬碎，咬碎声；扎扎地踏; 压碎；嘎扎嘎扎的咬嚼；扎扎地踏过; 嘎吱作响地咀嚼；嘎吱嘎吱地踏过 |
+| **dabble** <span class="wpos">vt.</span> | 溅湿；浸入水中; 涉足；涉猎；玩水 |
+| **depart** <span class="wpos">vi.</span> | 离开；出发，起程；违反；去世; 逝世的 |
+| **desist** <span class="wpos">vi.</span> | 停止 |
+| **divert** <span class="wpos">v.</span> | 使转向；使绕道；转移; 改变的用途; 转移的注意力；使分心; 转接; 娱乐；供消遣 |
+| **embark** <span class="wpos">vi.</span> | 上船或飞机；从事，着手; 使上船；使从事 |
+| **engulf** <span class="wpos">vt.</span> | 吞没；吞食，狼吞虎咽 |
+| **falter** <span class="wpos">vi.</span> | 蹒跚地走；支吾; 支吾地说；结巴地讲出; 颤抖；踌躇；支吾 |
+| **fasten** <span class="wpos">vt.</span> | 系紧, 拴牢; &amp; 闩住 |
+| **fidget** <span class="wpos">v.</span> | 烦躁，坐立不安; 拨弄，摆弄; 坐不住的人，烦躁不安的人; 坐立不安 |
+| **flinch** <span class="wpos">vi.</span> | 退缩；畏惧; 退缩；畏惧 |
+| **fumble** <span class="wpos">vt.</span> | 摸索；笨拙地做；漏接; 摸索；笨拙地行动；漏球; 摸索；笨拙的处理；漏球 |
+| **get on** | 上车 |
+| **glance** <span class="wpos">n.</span> | 一瞥；一滑；闪光; 扫视，匆匆一看；瞥闪，瞥见；反光; 扫视；瞥见；擦过 |
+:::
+:::
+::::
 
 ### The Morning Rush and the Mountain Trail
 
+:::: {.columns}
+::: {.column width="57%"}
 The alarm **goes off** at five-thirty, and before the last echo fades the whole camp stirs. Those who want to **go out** for a dawn run are already lacing their boots, while stragglers **huddle** by the tent flap, reluctant to leave the warmth. A pair of younger hikers **hunker** down over the trail map, tracing the route with a finger. Nobody wants bad weather to **hamper** the climb, yet the forecast is far from clean.
 
 By six the group is moving. The path **spirals** up through pine shadows, and the smell of resin is sharp enough to **pierce** the cold air. Two teammates **sprint** ahead, their footsteps a quick percussion on packed earth. Others **ramble** at a gentler pace, pausing to let views sink in. A stone ledge **nestled** among the roots offers a seat, and an older member **plunges** his walking pole into the gap to test the footing before trusting it. A water bottle tips and **spills** across the rock; someone **spritz**es insect repellent, the fine mist catching the early light. Progress is a little like a **seesaw**—energy **soared** on the open ridge, then **shrinks** again in the thick switchbacks below the summit.
@@ -313,55 +339,51 @@ By six the group is moving. The path **spirals** up through pine shadows, and th
 Near the top the trail narrows, and **mobile** footing becomes critical. A fallen branch **impedes** the line; the leader uses a small axe to **incise** a notch and lever it aside. The group **musters** on a flat shoulder of granite, catching breath. Someone attempts a **nelson** grip on a friend as a joke, both laughing. A hawk above them **squints**—or so it seems—before banking away. The day's first sunlight **inserts** itself between two peaks, and an **influx** of warmth rolls across the stone. Nothing will **hinder** the final push now. They **put up** a small flag, photograph it, and begin the careful descent—no need to **hustle**, no reason to let careless steps turn triumph into **spills** again.
 
 ---
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| go off | vi. | 爆炸,爆发,走开,衰退,进行,发声 |
-| go out | | 出去；熄灭；过时 |
-| hamper | vt. | 妨碍；束缚；使困累; 食盒，食篮；阻碍物 |
-| hinder | vt. | & 阻碍；妨碍 |
-| huddle | v. | 挤成一团，聚集在一起；蜷缩，缩成一团; 开会；碰头; 挤在一起的人; 队员靠拢 |
-| hunker | vi. | 蹲下，盘坐; 守旧者 Hunker保守主义者 |
-| hustle | vt. | 催促；猛推；强夺; 赶紧；硬挤过去；拼命挣钱; 推；奔忙；拥挤喧嚷 |
-| impede | vt. | 阻止；妨碍；阻碍 |
-| incise | vt. | 切割；切；雕刻 |
-| influx | n. | 大量涌入 |
-| insert | vt. | 插入；嵌入; 插入物 |
-| mobile | adj. | 可迅速转动的，易于移动的; 车载的；流动的; 有交通工具的 |
-| muster | n. | 集中；集合，集合的人群; 能通过检阅；可以接受； 还不错; & 集合，召集; 搜集某事物，激… |
-| nelson | n. | 压住对方头部或颈后及一臂或二臂的手法 Nelson纳尔逊 |
-| nestle | vi. | 舒适地坐定；偎依；半隐半现地处于; 抱；安置 |
-| nibble | vt. | & 啃；一点一点地咬; 啃出；一点一点咬出; 显出略有兴趣的样子; 小口咬；一点点地咬; 表… |
-| pierce | vt. | & 刺入；刺穿；穿透 |
-| plunge | n. | 投入；跳进; 投入；跳进；陷入; 使陷入；使投入；使插入 |
-| put up | vt. | 放, 贮备, 推荐, 提供, 建造, 举起 提供食宿, 直接行动 |
-| putter | n. | 推棒；置放者；新进的矿工; 混过; 闲荡；行为懒散 |
-| ramble | n. | 漫步；漫游；随笔; 漫步于…; 漫游；漫步；漫谈；闲逛；蔓延 |
-| seesaw | n. | 跷跷板；上下动; 前后动的；交互的; 使上下摇动; 玩跷跷板；上下摇动 |
-| shrink | vt. | & 收缩；退缩 |
-| soared | v. | 骤然上升；飙升 |
-| spills | n. | 漏损，溢出; 使溅出 |
-| spiral | n. | 螺旋；旋涡；螺旋形之物; 盘旋的；螺旋形的; 使成螺旋形；使作螺旋形上升; 盘旋；成螺旋形；螺旋形上… |
-| splash | n. | 溅泼声; 溅上的斑点; 斑点; 溅泼的量; 使溅起; 溅落 |
-| sprint | vi. | 冲刺，全速跑; 短跑；冲刺; 全速奔跑 |
-| spritz | n. | 喷,细的喷流; 喷 |
-| squint | vi. | 斜视；患斜视；倾向; 看; 使斜视; 斜视的 |
-
 :::
-
----
-
-**注：** 检查漏词情况：`nibble` 和 `putter` 和 `splash` 在上文未出现，补充如下——
-
-修订版正文（第二段末尾补入）：
-
-> A marmot crouched nearby, **nibbling** at a crust someone had dropped. One of the slower walkers was content to **putter** along the flatter stretches, humming softly. When a boot hit a puddle wrong, water **splashed** up in a cold arc across a shin—met with a sharp laugh.
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **go off** <span class="wpos">vi.</span> | 爆炸,爆发,走开,衰退,进行,发声 |
+| **go out** | 出去；熄灭；过时 |
+| **hamper** <span class="wpos">vt.</span> | 妨碍；束缚；使困累; 食盒，食篮；阻碍物 |
+| **hinder** <span class="wpos">vt.</span> | &amp; 阻碍；妨碍 |
+| **huddle** <span class="wpos">v.</span> | 挤成一团，聚集在一起；蜷缩，缩成一团; 开会；碰头; 挤在一起的人; 队员靠拢 |
+| **hunker** <span class="wpos">vi.</span> | 蹲下，盘坐; 守旧者 Hunker保守主义者 |
+| **hustle** <span class="wpos">vt.</span> | 催促；猛推；强夺; 赶紧；硬挤过去；拼命挣钱; 推；奔忙；拥挤喧嚷 |
+| **impede** <span class="wpos">vt.</span> | 阻止；妨碍；阻碍 |
+| **incise** <span class="wpos">vt.</span> | 切割；切；雕刻 |
+| **influx** <span class="wpos">n.</span> | 大量涌入 |
+| **insert** <span class="wpos">vt.</span> | 插入；嵌入; 插入物 |
+| **mobile** <span class="wpos">adj.</span> | 可迅速转动的，易于移动的; 车载的；流动的; 有交通工具的 |
+| **muster** <span class="wpos">n.</span> | 集中；集合，集合的人群; 能通过检阅；可以接受； 还不错; &amp; 集合，召集; 搜集某事物，激… |
+| **nelson** <span class="wpos">n.</span> | 压住对方头部或颈后及一臂或二臂的手法 Nelson纳尔逊 |
+| **nestle** <span class="wpos">vi.</span> | 舒适地坐定；偎依；半隐半现地处于; 抱；安置 |
+| **nibble** <span class="wpos">vt.</span> | &amp; 啃；一点一点地咬; 啃出；一点一点咬出; 显出略有兴趣的样子; 小口咬；一点点地咬; 表… |
+| **pierce** <span class="wpos">vt.</span> | &amp; 刺入；刺穿；穿透 |
+| **plunge** <span class="wpos">n.</span> | 投入；跳进; 投入；跳进；陷入; 使陷入；使投入；使插入 |
+| **put up** <span class="wpos">vt.</span> | 放, 贮备, 推荐, 提供, 建造, 举起 提供食宿, 直接行动 |
+| **putter** <span class="wpos">n.</span> | 推棒；置放者；新进的矿工; 混过; 闲荡；行为懒散 |
+| **ramble** <span class="wpos">n.</span> | 漫步；漫游；随笔; 漫步于…; 漫游；漫步；漫谈；闲逛；蔓延 |
+| **seesaw** <span class="wpos">n.</span> | 跷跷板；上下动; 前后动的；交互的; 使上下摇动; 玩跷跷板；上下摇动 |
+| **shrink** <span class="wpos">vt.</span> | &amp; 收缩；退缩 |
+| **soared** <span class="wpos">v.</span> | 骤然上升；飙升 |
+| **spills** <span class="wpos">n.</span> | 漏损，溢出; 使溅出 |
+| **spiral** <span class="wpos">n.</span> | 螺旋；旋涡；螺旋形之物; 盘旋的；螺旋形的; 使成螺旋形；使作螺旋形上升; 盘旋；成螺旋形；螺旋形上… |
+| **splash** <span class="wpos">n.</span> | 溅泼声; 溅上的斑点; 斑点; 溅泼的量; 使溅起; 溅落 |
+| **sprint** <span class="wpos">vi.</span> | 冲刺，全速跑; 短跑；冲刺; 全速奔跑 SPRINTabbr. Solid Propellant R… |
+| **spritz** <span class="wpos">n.</span> | 喷,细的喷流; 喷 |
+| **squint** <span class="wpos">vi.</span> | 斜视；患斜视；倾向; 看; 使斜视; 斜视的 |
+:::
+:::
+::::
 
 ### A Day All in Motion
 
+:::: {.columns}
+::: {.column width="57%"}
 The morning shift began with the **aviator** climbing into the **cockpit**, scanning instruments with practiced calm. Below on the tarmac, a ground crew worker **squirmed** through a narrow access panel to fix a fuel line, then straightened up and walked with a confident **stride** back to the hangar. An electric tug **deflected** around a stray luggage cart, its rubber wheels **wobbling** on the wet asphalt, before it **swerved** hard right and beeped to a stop.
 
 Out on the highway, a police **cruiser** and a dozen commuters were starting to **back up** behind a stalled truck, horns pulsing with impatience. Two colleagues had agreed to **carpool** to avoid the jam, so they cut onto a side road that **zigzagged** through a quiet industrial district. Their car hit a puddle with a loud **swoosh**, sending a **squirt** of muddy water across the windshield. On the pavement, a pigeon—apparently **supine** and resigned to the chaos—lifted one wing lazily as they passed.
@@ -369,47 +391,51 @@ Out on the highway, a police **cruiser** and a dozen commuters were starting to 
 A young **surfer** who had been **wandering** the beachside path finally **descended** onto the sand, board underarm. He **waddled** across the soft dry stretch, then broke into a brisk jog. A toddler watching him **twitch**ed her fingers in excitement, then **squish**ed her toes into the wet sand at the waterline, giggling as it **tickle**d. Farther up the beach a dog was **wallowing** in a shallow tidal pool, shaking itself with a shudder that sent **tremor**s rippling through its fur. Seconds later a wave **collide**d with the seawall and the spray seemed to **vanish** into thin air.
 
 Back in the city, a cyclist cut through the park, moving **briskly**, legs pumping in a steady rhythm. A skateboarder **strode** up to a ramp, paused, then **thrust** off the edge and **swoosh**ed past. A production robot nearby was **actuate**d by its controller, and its arm extended, **strode** along the rail—or rather rolled, but with a mechanical grace that mirrored the human **strides** around it. The operator, watching from a folding chair, smiled. Everything was moving; everything, in its own way, had found its method.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| squirm | vi. | 蠕动，扭动; 蠕动 |
-| squirt | n. | 注射；喷射; 喷湿; 喷出 |
-| squish | n. | 咯吱声；挤扁; 把...挤扁；压扁; 发出嘎吱声 |
-| stride | n. | 步幅；大步；进展; 跨过；大踏步走过；跨坐在…; 跨；跨过；大步行走 |
-| strode | v. | 跨越；大步走 |
-| supine | adj. | 仰卧的；懒散的；掌心向上的；向后靠的 |
-| surfer | n. | 冲浪运动员 |
-| swerve | vi. | 突然转向；转弯；背离; 使突然转向；使转弯；使背离; 转向；偏离的程度 |
-| swoosh | vi. | 哗哗响；作嗖嗖声; 嗖的一声；哗哗作响的移动; 嗖的一声；嗖地发射 |
-| tackle | vt. | 解决；应付; & 捉住；扭倒; 拦截；擒抱; 器具，器械，用具; 滑车，滑轮组 |
-| thrust | vt. | & 猛推, 猛塞; 刺, 戳 |
-| tickle | vt. | 使发痒；使高兴；使满足; 觉得痒；使人发痒; 胳肢；痒感；使人发痒、高兴的东西 |
-| tremor | n. | 颤动；震颤 |
-| twitch | vt. | & 抽动；颤动；抽搐 |
-| vanish | vi. | 消失；突然不见；成为零; 使不见，使消失; 弱化音 |
-| waddle | vi. | 摇摇摆摆地走; 摇摆的步子；蹒跚; 摇摇摆摆地 |
-| wallow | vi. | 打滚；颠簸；沉迷; 打滚；堕落；泥坑 |
-| wander | vi. | 徘徊；漫步；离题；迷路; 游荡，漫游; 闲逛；溜达；游荡；徘徊 |
-| wobble | vi. | 摇晃；摇摆；游移不定; 摆动；不稳定；摇晃; 使摇摆；使颤动；摇动 |
-| zigzag | adj. | 锯齿形的；曲折的；之字形的; 使成之字形；使曲折行进; 曲折行进；作之字形行进; 之字形；Z字形 |
-| actuate | vt. | 开动；促使，驱使；激励 |
-| aviator | n. | 飞行员 |
-| back up | vi. | 拥堵, 堵塞@ 支持, 援助, 倒退, 备份 |
-| briskly | adv. | 轻快地;活泼地;伶俐地; 迅速地 |
-| carpool | v. | 合伙使用汽车 |
-| cockpit | n. | 驾驶室; 斗鸡场 |
-| collide | vi. | 碰撞；抵触，冲突; 使碰撞；使相撞 |
-| cruiser | n. | 巡洋舰；巡航飞机，警察巡逻车 |
-| deflect | vt. | 使偏斜；使转向；使弯曲; 偏斜；转向 |
-| descend | vi. | 下降；下来；遗传；屈尊；下去; 下去；沿…向下 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **squirm** <span class="wpos">vi.</span> | 蠕动，扭动; 蠕动 |
+| **squirt** <span class="wpos">n.</span> | 注射；喷射; 喷湿; 喷出 |
+| **squish** <span class="wpos">n.</span> | 咯吱声；挤扁; 把...挤扁；压扁; 发出嘎吱声 |
+| **stride** <span class="wpos">n.</span> | 步幅；大步；进展; 跨过；大踏步走过；跨坐在…; 跨；跨过；大步行走 |
+| **strode** <span class="wpos">v.</span> | 跨越；大步走 |
+| **supine** <span class="wpos">adj.</span> | 仰卧的；懒散的；掌心向上的；向后靠的 |
+| **surfer** <span class="wpos">n.</span> | 冲浪运动员 |
+| **swerve** <span class="wpos">vi.</span> | 突然转向；转弯；背离; 使突然转向；使转弯；使背离; 转向；偏离的程度 |
+| **swoosh** <span class="wpos">vi.</span> | 哗哗响；作嗖嗖声; 嗖的一声；哗哗作响的移动; 嗖的一声；嗖地发射 |
+| **tackle** <span class="wpos">vt.</span> | 解决；应付; &amp; 捉住；扭倒; 拦截；擒抱; 器具，器械，用具; 滑车，滑轮组 |
+| **thrust** <span class="wpos">vt.</span> | &amp; 猛推, 猛塞; 刺, 戳 |
+| **tickle** <span class="wpos">vt.</span> | 使发痒；使高兴；使满足; 觉得痒；使人发痒; 胳肢；痒感；使人发痒、高兴的东西 |
+| **tremor** <span class="wpos">n.</span> | 颤动；震颤 |
+| **twitch** <span class="wpos">vt.</span> | &amp; 抽动；颤动；抽搐 |
+| **vanish** <span class="wpos">vi.</span> | 消失；突然不见；成为零; 使不见，使消失; 弱化音 |
+| **waddle** <span class="wpos">vi.</span> | 摇摇摆摆地走; 摇摆的步子；蹒跚; 摇摇摆摆地 |
+| **wallow** <span class="wpos">vi.</span> | 打滚；颠簸；沉迷; 打滚；堕落；泥坑 |
+| **wander** <span class="wpos">vi.</span> | 徘徊；漫步；离题；迷路; 游荡，漫游; 闲逛；溜达；游荡；徘徊 |
+| **wobble** <span class="wpos">vi.</span> | 摇晃；摇摆；游移不定; 摆动；不稳定；摇晃; 使摇摆；使颤动；摇动 |
+| **zigzag** <span class="wpos">adj.</span> | 锯齿形的；曲折的；之字形的; 使成之字形；使曲折行进; 曲折行进；作之字形行进; 之字形；Z字形; … |
+| **actuate** <span class="wpos">vt.</span> | 开动；促使，驱使；激励 |
+| **aviator** <span class="wpos">n.</span> | 飞行员 |
+| **back up** <span class="wpos">vi.</span> | 拥堵, 堵塞@ 支持, 援助, 倒退, 备份 |
+| **briskly** <span class="wpos">adv.</span> | 轻快地;活泼地;伶俐地; 迅速地 |
+| **carpool** <span class="wpos">v.</span> | 合伙使用汽车 |
+| **cockpit** <span class="wpos">n.</span> | 驾驶室; 斗鸡场 |
+| **collide** <span class="wpos">vi.</span> | 碰撞；抵触，冲突; 使碰撞；使相撞 |
+| **cruiser** <span class="wpos">n.</span> | 巡洋舰；巡航飞机，警察巡逻车 |
+| **deflect** <span class="wpos">vt.</span> | 使偏斜；使转向；使弯曲; 偏斜；转向 |
+| **descend** <span class="wpos">vi.</span> | 下降；下来；遗传；屈尊；下去; 下去；沿…向下 |
+:::
+:::
+::::
 
 ### A Long Journey Through Motion and Stillness
 
+:::: {.columns}
+::: {.column width="57%"}
 The route was anything but straight. From the moment the first hikers set out at dawn, the trail seemed to **deviate** at every ridge, curling away from the map's clean lines. Two paths **diverge**d at a mossy fork — one sloping down toward the river, the other climbing steeply into mist. Most of the group chose the lower way, watching the stream **meander** through gravel beds below, its cold current carrying a single leaf that **flapped** and spun before vanishing around a bend.
 
 At the river crossing, everyone moved with quiet purpose. A guide was **girding** the rope to a trunk while the others waited, adjusting **luggage** straps and shifting their **posture** to ease the weight. One by one they **proceed**ed across, **hastily** enough to avoid the mid-current chill but carefully enough not to slip. A raven **flutter**ed overhead, then dropped — almost a **plummet** — toward the far bank and was gone. A child tried to **imitate** it with outstretched arms, wobbling on a wet stone. Her mother reached out to **embrace** her before she could fall.
@@ -417,47 +443,51 @@ At the river crossing, everyone moved with quiet purpose. A guide was **girding*
 By afternoon the pace had changed. A few people looked **panting** and pale; their steps had grown **halting**, the confident stride of morning gone **sagging** into shuffle. The guide called a rest near a **rafting** eddy where the water swirled and foamed. Ivy **entwine**d a fallen oak at the water's edge; a heron stood still as driftwood. The group let the silence **emanate** outward, nobody eager to speak. To sit here was to feel — briefly — that all the **inbound** noise of ordinary life had been left behind.
 
 When they finally rose to **get off** the riverbank and climb back toward the trailhead, the mood had shifted. They would **go over** the day's route at camp, comparing notes, filling gaps. A few **pass by**ed the last viewpoint without stopping, too tired to linger. Others paused to watch a hawk **dipping** below the treeline, then rising again. A small boat was **docking** somewhere downstream, its engine cutting out with a cough. High above, a single aircraft caught the last light — an **inbound** flight beginning its long descent — and those who noticed it felt the strange pull of **reenter**ing the ordinary world. Nobody said so aloud. They would **pass on** through the gate, **retreat** to the warmth of the fire, and **migrate** to sleep before the stars had fully **elevate**d into the dark sky.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| deviate | vi. | 越轨；脱离；使偏离 |
-| dipping | n. | 浸渍；蘸；落下的 |
-| diverge | vi. | 分歧；分叉；偏离；离题 |
-| docking | n. | 入坞；入港 |
-| elevate | vt. | 举起；提升；振奋情绪等 |
-| emanate | vt. | 放射；发散；发出；散发 |
-| embrace | vt. | 拥抱；包括；接受 |
-| entwine | vt. | 缠绕，盘绕 |
-| flapped | v. | 拍打；摆动 |
-| flutter | vi. | 飘动；快速跳动；振翼 |
-| get off | vi. | 从…下来，离开，出发 |
-| girding | v. | 束缚；环绕；做好准备 |
-| go over | vi. | 检查，重做，复习 |
-| halting | adj. | 犹豫的；蹒跚的 |
-| hastily | adv. | 匆忙地；急速地 |
-| imitate | vt. | 模仿；把…作为例子 |
-| inbound | adj. | 归本国的；入境的 |
-| luggage | n. | 行李；皮箱 |
-| meander | n. | 漫步；曲流；蜿蜒缓慢流动 |
-| migrate | vi. | 移动；随季节而移居 |
-| panting | adj. | 喘气的；脉动，振动 |
-| pass by | v. | 经过；走过 |
-| pass on | vt. | 前进 |
-| plummet | n. | 铅锤，坠子；垂直落下 |
-| posture | n. | 姿势；情形；态度 |
-| proceed | vi. | 前进；行进；继续下去 |
-| rafting | n. | 筏运 |
-| reenter | n. | 重新加入；重新入内 |
-| retreat | n. | 撤退；休息寓所；退避 |
-| sagging | n. | 下垂，松垂，垂度 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **deviate** <span class="wpos">vi.</span> | 越轨；脱离; 使偏离 |
+| **dipping** <span class="wpos">n.</span> | 浸渍；蘸; 可调近光的；落下的; 蘸 |
+| **diverge** <span class="wpos">vi.</span> | 分歧；分叉；偏离；离题; 使分叉；使偏离 |
+| **docking** <span class="wpos">n.</span> | 入坞; 入坞的; 入港；为…设置船坞 |
+| **elevate** <span class="wpos">vt.</span> | 举起；提升；振奋情绪等；提升…的职位 |
+| **emanate** <span class="wpos">vt.</span> | 放射；发散; 发源；发出；散发 |
+| **embrace** <span class="wpos">vt.</span> | &amp; 拥抱; 包括；包含; 接受; 信奉，皈依; 拥抱，怀抱 |
+| **entwine** <span class="wpos">vt.</span> | 缠绕,盘绕 |
+| **flapped** <span class="wpos">v.</span> | 拍打；摆动 |
+| **flutter** <span class="wpos">vi.</span> | 飘动; 快速跳动; &amp; 振翼, 拍翅膀; 紧张, 激动不安 |
+| **get off** <span class="wpos">vi.</span> | 从...下来,离开,出发 |
+| **girding** <span class="wpos">v.</span> | 束缚；环绕；做好准备 |
+| **go over** <span class="wpos">vi.</span> | 检查,重做,复习@ 前去,转化的,获得同意 |
+| **halting** <span class="wpos">adj.</span> | 犹豫的；蹒跚的；跛的; 停止；蹒跚；犹豫 |
+| **hastily** <span class="wpos">adv.</span> | 匆忙地；急速地；慌忙地 |
+| **imitate** <span class="wpos">vt.</span> | 模仿; 把…作为例子 |
+| **inbound** <span class="wpos">adj.</span> | 归本国的；回内地的；入境的; 入站 |
+| **luggage** <span class="wpos">n.</span> | 行李；皮箱 |
+| **meander** <span class="wpos">n.</span> | 漫步；曲流; 漫步；蜿蜒缓慢流动; 漫步；漫谈 |
+| **migrate** <span class="wpos">vi.</span> | 移动；随季节而移居；移往; 使移居；使移植 |
+| **panting** <span class="wpos">adj.</span> | 喘气的; 脉动,波动,晃动,振动 |
+| **pass by** <span class="wpos">v.</span> | 经过@ 走过 |
+| **pass on** <span class="wpos">vt.</span> | 前进 |
+| **plummet** <span class="wpos">n.</span> | 铅锤，坠子; 垂直落下 |
+| **posture** <span class="wpos">n.</span> | 姿势；情形；态度; 摆姿势; 作…的姿势 |
+| **proceed** <span class="wpos">vi.</span> | 前进；行进; 进行；继续下去 |
+| **rafting** <span class="wpos">n.</span> | 筏运 |
+| **reenter** <span class="wpos">n.</span> | 重进入，再加入; 重新加入; 重新入内，重返 |
+| **retreat** <span class="wpos">n.</span> | 撤退；休息寓所；撤退; 撤退；退避；向后倾; 使后退；退 |
+| **sagging** <span class="wpos">n.</span> | 下垂,松垂,垂度 |
+:::
+:::
+::::
 
 ### The Body in Motion
 
+:::: {.columns}
+::: {.column width="57%"}
 The morning drill began before sunrise. Cadets would **scatter** across the training ground the moment the whistle blew, each choosing a lane, each carrying the private weight of yesterday's failures. One recruit had a **scratch** along his forearm from the wire obstacle — he wore it like a badge. The sergeant, known for his ability to **seclude** difficult trainees from the group when discipline demanded it, watched from the ridge without a word.
 
 Then the first runner hit the wall — not literally, but in his legs. He **shattered** the rhythm he'd held for two kilometers, his stride breaking apart like glass on concrete. Beside him, a shorter cadet began to **shuffle**, feet barely clearing the dirt, as if the ground had grown magnets. A third moved in a **zig-zag**, weaving between cones with startling control, looking almost **airborne** in the turns. At the far end of the course, a cart piled with gear continued to **trundle** along the gravel path, pushed by two logistics recruits who'd been assigned to **dispense** water at each checkpoint.
@@ -469,47 +499,51 @@ By the end, the group that had arrived as a **clumping** mass began to **dispers
 The day's **dispatch** went out at noon: reassignments, new routes, updated schedules. The **aquatics** team was to report to the pool at 1400. Two junior coaches were told their earlier groupings had been poor — they needed to **unchain** themselves from the habit of clustering athletes by height and instead sort by endurance profile. The head trainer used the word **unleash** when he described what he wanted from the sprinters in the afternoon session. He did not mean it loosely.
 
 Some **driftage** was inevitable — athletes who **slammed** into their limits and simply could not recover in time, who got caught in the current of exhaustion and were carried sideways. The system knew this. It was designed to accommodate it, to let the **dangling** threads find their own footing, to let each body learn, through the grammar of movement itself, what it was actually capable of.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| scatter | vi. | 分散，散开；散射; 使散开，使分散；使散射；使散播，使撒播; 分散；散播，撒播 |
-| scratch | n. | 抓痕；擦伤；刮擦声；乱写; 打草稿用的；凑合的；碰巧的; 抓；刮；挖出；乱涂; 抓；搔；发刮擦声；勉… |
-| seclude | vt. | 使隔开,使隔绝,使隐退 |
-| shatter | vt. | 打碎；破掉；使散开；粉碎；破坏; 粉碎；损坏；落叶; 碎片；乱七八糟的状态 |
-| shuffle | vi. | 拖着脚走；把脚动来动去；坐立不安；洗牌；把……变换位置；调动；搪塞 洗牌；拖着脚走，曳行；曳步舞，曳… |
-| shuttle | n. | 梭子；穿梭；穿梭班机、公共汽车等；航天飞机; 使穿梭般来回移动；短程穿梭般运送; 穿梭往返 |
-| slammed | adj. | 猛砸的；猛烈抨击的; 猛撞；猛烈抨击 |
-| slumped | adj. | 倒下的；下跌的; 掉落 |
-| soaring | adj. | 高飞的,翱翔的 |
-| sprints | n. | 冲刺跑；短跑; 奋力而跑 |
-| squeeze | vt. | 挤, 榨, 捏; 榨取, 挤出; 挤, 榨, 捏; 亲切的拥抱或握手; 拥挤, 积压 |
-| stagger | vt. | 使交错；蹒跚；使犹豫; 蹒跚；犹豫; 蹒跚；交错安排; 交错的；错开的 |
-| stumble | v. | 绊倒；绊脚; 出岔子，出差错，过失; 说，读，演奏; 跌跌撞撞地走；蹒跚而行; 使…困惑; 踉跄，绊… |
-| succumb | vi. | 不再抵抗；屈从; 被压垮；死 |
-| tilting | adj. | 倾斜,倾卸; 倾卸台 |
-| tossing | n. | 洗矿；抖动，摇动；颠簸 |
-| trundle | n. | 小脚轮；滚动; 使滚动；运送; 移动；滚动 |
-| unchain | vt. | 释放；解除 |
-| unleash | vt. | 把释放出来, 发泄 |
-| zig-zag | | 曲折的 |
-| airborne | adj. | 空运的；空气传播的；风媒的 |
-| aquatics | n. | 水上运动 |
-| cast off | | 丢弃；摆脱；解下缆绳 |
-| check in | | 登记签到; 把…留给其他人照看; 归还经登记借出的东西; 死去 |
-| clumping | | 聚丛 |
-| dangling | adj. | 悬挂的；摇摆的; 摇晃 |
-| dispatch | n. | 派遣；急件; 派遣；分派 |
-| dispense | vt. | 分配，分发；施与，试行; 配，发 |
-| disperse | vt. | 散开, 驱散 |
-| driftage | n. | 风落；流落；漂流 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **scatter** <span class="wpos">vi.</span> | 分散，散开；散射; 使散开，使分散；使散射；使散播，使撒播; 分散；散播，撒播 |
+| **scratch** <span class="wpos">n.</span> | 抓痕；擦伤；刮擦声；乱写; 打草稿用的；凑合的；碰巧的; 抓；刮；挖出；乱涂; 抓；搔；发刮擦声；勉… |
+| **seclude** <span class="wpos">vt.</span> | 使隔开,使隔绝,使隐退 |
+| **shatter** <span class="wpos">vt.</span> | 打碎；破掉；使散开；粉碎；破坏; 粉碎；损坏；落叶; 碎片；乱七八糟的状态 |
+| **shuffle** <span class="wpos">vi.</span> | 拖着脚走；把脚动来动去；坐立不安；洗牌；把……变换位置；调动；搪塞 洗牌；拖着脚走，曳行；曳步舞，曳… |
+| **shuttle** <span class="wpos">n.</span> | 梭子；穿梭；穿梭班机、公共汽车等；航天飞机; 使穿梭般来回移动；短程穿梭般运送; 穿梭往返 |
+| **slammed** <span class="wpos">adj.</span> | 猛砸的；猛烈抨击的; 猛撞；猛烈抨击 |
+| **slumped** <span class="wpos">adj.</span> | 倒下的；下跌的; 掉落 |
+| **soaring** <span class="wpos">adj.</span> | 高飞的,翱翔的 |
+| **sprints** <span class="wpos">n.</span> | 冲刺跑；短跑; 奋力而跑 |
+| **squeeze** <span class="wpos">vt.</span> | &amp; 挤, 榨, 捏; 榨取, 挤出; 挤, 榨, 捏; 亲切的拥抱或握手; 拥挤, 积压; … |
+| **stagger** <span class="wpos">vt.</span> | 使交错；蹒跚；使犹豫; 蹒跚；犹豫; 蹒跚；交错安排; 交错的；错开的 |
+| **stumble** <span class="wpos">v.</span> | 绊倒；绊脚; 出岔子，出差错，过失; 说，读，演奏; 跌跌撞撞地走；蹒跚而行; 使…困惑; 踉跄，绊… |
+| **succumb** <span class="wpos">vi.</span> | 不再抵抗；屈从; 被压垮；死 |
+| **tilting** <span class="wpos">adj.</span> | 倾斜,倾卸; 倾卸台 |
+| **tossing** <span class="wpos">n.</span> | 洗矿；抖动，摇动；颠簸 |
+| **trundle** <span class="wpos">n.</span> | 小脚轮；滚动; 使滚动；运送; 移动；滚动 |
+| **unchain** <span class="wpos">vt.</span> | 释放；解除 |
+| **unleash** <span class="wpos">vt.</span> | 把释放出来, 发泄 |
+| **zig-zag** | 曲折的 |
+| **airborne** <span class="wpos">adj.</span> | 空运的；空气传播的；风媒的 |
+| **aquatics** <span class="wpos">n.</span> | 水上运动 |
+| **cast off** | 丢弃；摆脱；解下缆绳 |
+| **check in** | 登记签到; 把…留给其他人照看; 归还经登记借出的东西; 死去 |
+| **clumping** | 聚丛 |
+| **dangling** <span class="wpos">adj.</span> | 悬挂的；摇摆的; 摇晃 |
+| **dispatch** <span class="wpos">n.</span> | 派遣；急件; 派遣；分派 |
+| **dispense** <span class="wpos">vt.</span> | 分配，分发；施与，试行; 配，发 |
+| **disperse** <span class="wpos">vt.</span> | &amp; 散开, 驱散 |
+| **driftage** <span class="wpos">n.</span> | 风落；流落；漂流 |
+:::
+:::
+::::
 
 ### A Morning in Motion
 
+:::: {.columns}
+::: {.column width="57%"}
 The harbor was never still. Boats were **drifting** lazily on the tide, their **flapping** sails catching what little wind the morning offered. A family of pelicans skimmed the surface in tight formation — **skimming** so low their wingtips nearly kissed the water — before one broke away and, with a sudden burst of wings, seemed to **lift off** into the pale sky like a slow-motion launch. A rusted crane nearby was **erecting** a scaffold over the old customs house, its arm **pounding** steel pins into concrete with a rhythm that carried across the whole waterfront.
 
 At the edge of the dock, a customs officer moved with practiced economy. She cast a **sidelong** glance at a man whose behavior struck her as off — he was **sneaking** between containers, **snooping** through stacked crates, occasionally **sniffing** at seams as though he could **make out** contraband by smell alone. She chose to **sidestep** a direct confrontation and instead began to **mobilize** a small team, quietly **stacking** evidence before she moved. Nothing would **obstruct** the operation once the net was ready; she refused to let caution **permeate** into paralysis.
@@ -517,47 +551,51 @@ At the edge of the dock, a customs officer moved with practiced economy. She cas
 The suspect himself was a study in contradictions. His path through the yard was entirely **rambling** — no clear line, no apparent goal — yet every **maneuver** seemed deliberate. When a shout finally went up, he did not **flounder**. He **scrambled** over a low wall, a water bottle **spouting** from his coat pocket as he ran, its arc a brief **ricochet** off the iron railing. A guard's radio made a **slamming** crack against the pavement as he sprinted after him. The runner ducked left in a move that was almost **spanking** in its sharpness, nearly **squashed** himself against a doorframe, then emerged on the far side in full **slashing** stride, arms cutting the air. His companion — who had been **spooning** sugar into coffee at a nearby kiosk, affecting boredom — **put away** the cup in one smooth motion and melted into the alley. They had clearly planned to **emigrate** by the afternoon tide; they had not planned to be caught.
 
 The officer watched the whole scene from the roof, where she could **overlook** three blocks of the port at once. She let the **snooping** and the running play out below her, already knowing how it would end.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| drifting | adj. | 漂流的,飘动的 |
-| emigrate | vt. | 移居国外 |
-| erecting | v. | 竖立；建筑；使…直立 |
-| flapping | n. | 摇摆运动；拍动; 摇摆运动的；挥动的; 拍打，轻拍 |
-| flounder | vi. | 挣扎; 挣扎；漫无目标 |
-| lift off | | 起飞, 发射 |
-| make out | vt. | 起草,说明,结论,辨别,理解@ 进展 |
-| maneuver | n. | 策略；演习；调遣；机动; 调遣；演习；用计谋；机动; 演习；调遣；用计；机动 |
-| mobilize | vt. | 动员，调动；集合，组织；使…流通；使…松动; 动员起来；组织 |
-| obstruct | vt. | 阻塞；堵塞; 阻碍，阻止，妨碍 |
-| overlook | vt. | 忽略；俯瞰；远眺；不计较，宽恕；施魔法于；监督；检查; 忽视；眺望；从高处能看到的景色 |
-| permeate | vt. | 弥漫；渗透，透过; 透入；弥漫；散布 |
-| pounding | n. | 重击;重击声 |
-| put away | vt. | 处理掉 |
-| rambling | adj. | 漫无目的的; 向四处延伸的，规划凌乱的; ; 漫游，漫步，闲逛; 漫谈，闲聊，瞎扯; 蔓生；攀附生长 |
-| ricochet | n. | 弹回；反弹；弹开；弹回的球; 弹开；反弹出去 |
-| scramble | vi. | 快速爬行，匍匐前进；攀登; 争夺，争抢; 紧急起飞; 炒蛋; 扰频或倒频使只可由有特殊接收器的人收听… |
-| sidelong | adv. | 向侧面；横向地; 横的；斜的 |
-| sidestep | vt. | 横跨一步避开; 回避；避免 |
-| skimming | n. | 撇取浮沫,所撇取的浮沫 |
-| slamming | n. | 砰击; 砰地关上；猛烈抨击 |
-| slashing | adj. | 尖锐的,苛刻的,鲜明的,乱砍的 |
-| sneaking | adj. | 鬼鬼祟祟的；私下的；卑鄙的; 潜行 |
-| sniffing | n. | 探查法 |
-| snooping | v. | 探听；窥探 |
-| spanking | adj. | 强烈的；疾行的，疾驰的; 打屁股；拍击; 显著地; 拍打；严厉斥责 |
-| spooning | v. | 搂抱; 侧进式 |
-| spouting | n. | 水落管系统 |
-| squashed | adj. | 压碎的；压扁的; 压扁 |
-| stacking | n. | 堆垛; 堆叠，堆积 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **drifting** <span class="wpos">adj.</span> | 漂流的,飘动的 |
+| **emigrate** <span class="wpos">vt.</span> | 移居国外 |
+| **erecting** <span class="wpos">v.</span> | 竖立；建筑；使…直立 |
+| **flapping** <span class="wpos">n.</span> | 摇摆运动；拍动; 摇摆运动的；挥动的; 拍打，轻拍 |
+| **flounder** <span class="wpos">vi.</span> | 挣扎; 挣扎；漫无目标 |
+| **lift off** | 起飞, 发射 |
+| **make out** <span class="wpos">vt.</span> | 起草,说明,结论,辨别,理解@ 进展 |
+| **maneuver** <span class="wpos">n.</span> | 策略；演习；调遣；机动; 调遣；演习；用计谋；机动; 演习；调遣；用计；机动 |
+| **mobilize** <span class="wpos">vt.</span> | 动员，调动；集合，组织；使…流通；使…松动; 动员起来；组织 |
+| **obstruct** <span class="wpos">vt.</span> | 阻塞；堵塞; 阻碍，阻止，妨碍 |
+| **overlook** <span class="wpos">vt.</span> | 忽略；俯瞰；远眺；不计较，宽恕；施魔法于；监督；检查; 忽视；眺望；从高处能看到的景色 |
+| **permeate** <span class="wpos">vt.</span> | 弥漫；渗透，透过; 透入；弥漫；散布 |
+| **pounding** <span class="wpos">n.</span> | 重击;重击声 |
+| **put away** <span class="wpos">vt.</span> | 处理掉 |
+| **rambling** <span class="wpos">adj.</span> | 漫无目的的; 向四处延伸的，规划凌乱的; ; 漫游，漫步，闲逛; 漫谈，闲聊，瞎扯; 蔓生；攀附生长 |
+| **ricochet** <span class="wpos">n.</span> | 弹回；反弹；弹开；弹回的球; 弹开；反弹出去 |
+| **scramble** <span class="wpos">vi.</span> | 快速爬行，匍匐前进；攀登; 争夺，争抢; 紧急起飞; 炒蛋; 扰频或倒频使只可由有特殊接收器的人收听… |
+| **sidelong** <span class="wpos">adv.</span> | 向侧面；横向地; 横的；斜的 |
+| **sidestep** <span class="wpos">vt.</span> | &amp; 横跨一步避开; 回避；避免 |
+| **skimming** <span class="wpos">n.</span> | 撇取浮沫,所撇取的浮沫 |
+| **slamming** <span class="wpos">n.</span> | 砰击; 砰地关上；猛烈抨击 |
+| **slashing** <span class="wpos">adj.</span> | 尖锐的,苛刻的,鲜明的,乱砍的 |
+| **sneaking** <span class="wpos">adj.</span> | 鬼鬼祟祟的；私下的；卑鄙的; 潜行 |
+| **sniffing** <span class="wpos">n.</span> | 探查法 |
+| **snooping** <span class="wpos">v.</span> | 探听；窥探 |
+| **spanking** <span class="wpos">adj.</span> | 强烈的；疾行的，疾驰的; 打屁股；拍击; 显著地; 拍打；严厉斥责 |
+| **spooning** <span class="wpos">v.</span> | 搂抱; 侧进式 |
+| **spouting** <span class="wpos">n.</span> | 水落管系统 |
+| **squashed** <span class="wpos">adj.</span> | 压碎的；压扁的; 压扁 |
+| **stacking** <span class="wpos">n.</span> | 堆垛; 堆叠，堆积 |
+:::
+:::
+::::
 
 ### When the River Runs and the Climber Does Not Stand Still
 
+:::: {.columns}
+::: {.column width="57%"}
 The expedition set off before dawn. Meltwater came **cascading** down the gully in sheets, and the lead guide warned that any **straggle** from the group would be dangerous — the trail was narrow, and a slip could send someone **trailing** helplessly into the gorge below. She was **steering** with quiet authority, always a few steps ahead, her ice axe **whirling** in her grip as she tested footholds. Where the path narrowed to a ledge, she would **straddle** the gap between rock and air without hesitation, coaxing the rest of them across one by one.
 
 By mid-morning the team had begun **ascending** a ridgeline. The **ascension** was gradual at first, then punishing. One climber kept losing his footing — his **stumbles** drew no laughter, only steadying hands. Another, whose pack was **entangled** in a low-hanging branch, had to **break off** from the group to free herself. The guide did not **stand by** while this happened; she doubled back and used her knife to cut the cord, careful not to **discharge** any tension in a way that would unbalance them both. A brief rest let them **alleviate** the burn in their legs before the final push.
@@ -565,47 +603,51 @@ By mid-morning the team had begun **ascending** a ridgeline. The **ascension** w
 The summit approach required them to **traverse** a snowfield in a long Z-line, **backtrack**ing once when a cornice proved unstable. Ice crystals were **commingle**d with loose gravel underfoot, making every step uncertain. The youngest climber, who had **curled up** small against the cold during the last break, now moved with surprising sureness. Nothing could **constrain** her once she found her rhythm. The glacier below seemed to **fluctuate** in the haze — solid one moment, liquid the next. Wind tried to **dissipate** their voices across the col, yet they kept calling to each other. At last they would **carry out** what they had planned: **arrive at** the top, sign the log, and **disembark** from the heights the same way they had come — carefully, deliberately, together.
 
 There had been close calls. The rope had shown a **flip-flop** of tension during one traverse, tightening and releasing in a rhythm that worried the guide. The whole system seemed to **stalling**, suspended between safe and dangerous, for one long breath. A **cleansing** wind broke the moment, sweeping the anxiety away like water through a sluice. They pressed on. The guide's plan had always been to **encompass** every risk within a margin of caution — to let nothing **backtrack** the group, to let nothing be left behind. The **expulsion** of doubt happened step by step, until the last scramble delivered them onto flat rock and they could finally **check out** the full panorama spreading below.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| stalling | | 失速;停转 |
-| stand by | | 袖手旁观 |
-| steering | n. | 掌舵；操纵；指导; 驾驶；掌舵 |
-| straddle | vi. | 跨坐；两腿叉开坐; 跨坐；把两腿叉开; 跨坐 |
-| straggle | vi. | 蔓延；散漫; 落伍；落后 |
-| stumbles | n. | 错误; 蹒跚；结巴 |
-| trailing | n. | 泥浆彩饰; 拖尾的,曳尾的,被拖动的,蔓延的 |
-| traverse | n. | Z形攀登; 横越, 穿越, 横贯; 作Z形攀登 |
-| whirling | v. | 旋转；眩晕；卷走；疾走; 涡流；旋转；回转; 涡流的；旋转的 |
-| alleviate | vt. | 减轻, 缓解, 缓和 |
-| arrive at | | 到达某地；达到，达成 |
-| ascending | adj. | 上升的,向上的 |
-| ascension | n. | 上升; 升高 |
-| backtrack | vi. | 走原路, 由原路返回; 改变主意, 取消诺言, 变卦, 出尔反尔 |
-| break off | | 折断；突然停止，暂停 |
-| carry out | | 抬出去; 拿出去; 执行; 贯彻; 进行; 完成, 实现 |
-| cascading | | 喷泻;梯流;级联效应 |
-| check out | | 检验；结账离开；通过考核；盖章 |
-| cleansing | n. | 清洁,使清洁的人或物; 有去污作用的 |
-| commingle | vt. | 混合,掺和,合并 |
-| constrain | vt. | 强迫，强使；限制，约束 |
-| curled up | | 卷着的；蜷缩 |
-| discharge | vt. | 卸船; 偿还; 执行；履行; 放出；流出; 开枪；发射; 获准离开，释放; 排放出的物体 |
-| disembark | vt. | 登陆〔上岸〕 |
-| dissipate | vt. | 驱散；消失; 浪费 |
-| encompass | vt. | 围绕；包围 |
-| entangled | adj. | 卷入的;陷入的; 被缠住的；缠在一起的 |
-| expulsion | n. | 喷出, 排出; 开除, 驱逐 |
-| flip-flop | n. | 触发器；啪嗒啪嗒的响声；向后翻的筋斗; 使翻转；使突然转变; 作后手翻；突然改变；啪嗒啪嗒地动 |
-| fluctuate | vi. | 波动, 涨落, 起伏 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **stalling** | 失速;停转 |
+| **stand by** | 袖手旁观 |
+| **steering** <span class="wpos">n.</span> | 掌舵；操纵；指导; 驾驶；掌舵 |
+| **straddle** <span class="wpos">vi.</span> | 跨坐；两腿叉开坐; 跨坐；把两腿叉开; 跨坐 |
+| **straggle** <span class="wpos">vi.</span> | 蔓延；散漫; 落伍；落后 |
+| **stumbles** <span class="wpos">n.</span> | 错误; 蹒跚；结巴 |
+| **trailing** <span class="wpos">n.</span> | 泥浆彩饰; 拖尾的,曳尾的,被拖动的,蔓延的 |
+| **traverse** <span class="wpos">n.</span> | Z形攀登; 横越, 穿越, 横贯; 作Z形攀登 |
+| **whirling** <span class="wpos">v.</span> | 旋转；眩晕；卷走；疾走; 涡流；旋转；回转; 涡流的；旋转的 |
+| **alleviate** <span class="wpos">vt.</span> | 减轻, 缓解, 缓和 |
+| **arrive at** | 到达某地；达到，达成 |
+| **ascending** <span class="wpos">adj.</span> | 上升的,向上的 |
+| **ascension** <span class="wpos">n.</span> | 上升; 升高 |
+| **backtrack** <span class="wpos">vi.</span> | 走原路, 由原路返回; 改变主意, 取消诺言, 变卦, 出尔反尔 |
+| **break off** | 折断；突然停止，暂停 |
+| **carry out** | 抬出去; 拿出去; 执行; 贯彻; 进行; 完成, 实现 |
+| **cascading** | 喷泻;梯流;级联效应 |
+| **check out** | 检验；结账离开；通过考核；盖章 |
+| **cleansing** <span class="wpos">n.</span> | 清洁,使清洁的人或物; 有去污作用的 |
+| **commingle** <span class="wpos">vt.</span> | &amp; 混合,掺和,合并 |
+| **constrain** <span class="wpos">vt.</span> | 强迫，强使；限制，约束 |
+| **curled up** | 卷着的；蜷缩 |
+| **discharge** <span class="wpos">vt.</span> | 卸船; 偿还; 执行；履行; &amp; 放出；流出; 开枪；发射; 获准离开，释放; 排放出的物体 |
+| **disembark** <span class="wpos">vt.</span> | &amp; 登陆〔上岸〕 |
+| **dissipate** <span class="wpos">vt.</span> | &amp; 驱散；消失; 浪费 |
+| **encompass** <span class="wpos">vt.</span> | 围绕；包围 |
+| **entangled** <span class="wpos">adj.</span> | 卷入的;陷入的; 被缠住的；缠在一起的 |
+| **expulsion** <span class="wpos">n.</span> | 喷出, 排出; 开除, 驱逐 |
+| **flip-flop** <span class="wpos">n.</span> | 触发器；啪嗒啪嗒的响声；向后翻的筋斗; 使翻转；使突然转变; 作后手翻；突然改变；啪嗒啪嗒地动; 后… |
+| **fluctuate** <span class="wpos">vi.</span> | 波动, 涨落, 起伏 |
+:::
+:::
+::::
 
 ### The Stunt Crew's Morning
 
+:::: {.columns}
+::: {.column width="57%"}
 Before the shoot began, the production team had to **hand over** the equipment manifest to the stunt coordinator — a **strenuous** process that nobody wanted to tackle **piecemeal**, yet **congestion** at the loading dock made a **piecemeal** approach unavoidable. A crew member **scrubbing** grease off the rigging platform noticed a **punctured** air bladder on the crash mat and quietly flagged it; no one wanted to **hold back** that kind of information on a shoot day. The coordinator did not **resort to** guesswork — she moved swiftly to **reinforce** the mat with a backup layer and ordered the stagehands to **distribute** the weight-bearing panels evenly across the floor.
 
 Out on the wire rig, the lead stuntman walked the **tightrope** strung between two scaffold towers while the camera arm swung on its **revolving** mount below him. The arm was attached to a **rotatable** bracket that let the operator **transpose** the angle in seconds without repositioning the dolly — a modification designed to **facilitate** every shot change. High above, a **spelunker** who moonlighted as a rigger checked the overhead anchor; the role suited him, since he never **held back** from a confined or vertiginous space. Meanwhile a **parachute** pack was being fitted to the **equestrian** performer scheduled for the horse-and-freefall sequence in the afternoon.
@@ -613,79 +655,85 @@ Out on the wire rig, the lead stuntman walked the **tightrope** strung between t
 The **launching** of the aerial drone was the most choreographed moment of the morning. Its rotors began to **oscillate** during the pre-flight check — a vibration the technician traced to a loose **partition** in the battery housing. She fixed it in minutes, and the drone lifted cleanly, its shadow **zigzagged** across the tarmac as the pilot banked through the rehearsal path. A **passenger** van idled at the perimeter; inside, two performers were **unwinding** with headphones on, conserving energy before their takes. One of them, a teenager who had mastered a **handstand** at age seven, was due on set the moment the drone sequence wrapped. The director had considered letting her **sneak out** early to warm up, but the schedule held.
 
 By midday the crew had managed to **circumvent** two permit delays and **extinguish** a small electrical fire near the generator — routine enough that barely anyone looked up. The **fluttering** of a loose tarp above the monitor village was the only thing still unsettled, and someone would **penetrate** the knot of guide-wires eventually to tie it down properly.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| hand over | | 移交；交出 |
-| handstand | n. | 倒立 |
-| hold back | | 退缩；隐瞒；抑制；阻止 |
-| launching | n. | 发射; 下水; 发动;发行;创设 |
-| oscillate | vt. | 摆动 |
-| parachute | n. | 降落伞; 用降落伞降落 |
-| partition | n. | 分开, 分割; 分割物, 隔墙; 分开, 隔开 |
-| passenger | n. | 乘客, 旅客 |
-| penetrate | vt. | 穿过, 刺入, 渗入; 了解; 看穿 |
-| piecemeal | adv. | 一块一块地;一件一件地;零碎地; 一块一块的;一件一件的;零碎的 |
-| punctured | | 具刻点的 |
-| reinforce | v. | 加强；充实；使更强烈; 加固；使更结实; 为增加力量；向增兵；增援; 给予…更多支持 |
-| resort to | | 诉诸, 求助于，凭借 |
-| revolving | adj. | 旋转的;轮转式的; 循环的 |
-| rotatable | adj. | 可旋转的,可转动的 |
-| scrubbing | v. | 用力擦洗；刷净；擦掉 |
-| sneak out | | 渐隐；偷偷溜走 |
-| spelunker | n. | 洞穴探察者 |
-| strenuous | adj. | 费力的; 须用力应付的 |
-| tightrope | n. | 绷索, 钢丝 |
-| transpose | vt. | 使变位; 变换顺序; 移项; 使变调 |
-| unwinding | | 解退 |
-| zigzagged | adj. | 呈之字形移动的 |
-| circumvent | vt. | 设法克服或避免；回避 |
-| congestion | n. | 拥挤;堵车; 充血;阻塞 |
-| distribute | vt. | 分配，分给; 散发；散播；分布 |
-| equestrian | adj. | 骑马的,马的,在马背上的; 骑手 |
-| extinguish | vt. | 使熄灭, 扑灭; 使…不复存在 |
-| facilitate | vt. | 使便利, 减轻…的困难 |
-| fluttering | | 振抖 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **hand over** | 移交；交出 |
+| **handstand** <span class="wpos">n.</span> | 倒立 |
+| **hold back** | 退缩；隐瞒；抑制；阻止 |
+| **launching** <span class="wpos">n.</span> | 发射; 下水; 发动;发行;创设 |
+| **oscillate** <span class="wpos">vt.</span> | &amp; 摆动 |
+| **parachute** <span class="wpos">n.</span> | 降落伞; &amp; 用降落伞降落 |
+| **partition** <span class="wpos">n.</span> | 分开, 分割; 分割物, 隔墙; 分开, 隔开 |
+| **passenger** <span class="wpos">n.</span> | 乘客, 旅客 |
+| **penetrate** <span class="wpos">vt.</span> | &amp; 穿过, 刺入, 渗入; 了解; 看穿 |
+| **piecemeal** <span class="wpos">adv.</span> | 一块一块地;一件一件地;零碎地; 一块一块的;一件一件的;零碎的 |
+| **punctured** | 具刻点的 |
+| **reinforce** <span class="wpos">v.</span> | 加强；充实；使更强烈; 加固；使更结实; 为 增加力量；向增兵；增援; 给予…更多支持；为…提供更多… |
+| **resort to** | 诉诸, 求助于，凭借 |
+| **revolving** <span class="wpos">adj.</span> | 旋转的;轮转式的; 循环的 |
+| **rotatable** <span class="wpos">adj.</span> | 可旋转的,可转动的 |
+| **scrubbing** <span class="wpos">v.</span> | 用力擦洗；刷净；擦掉 |
+| **sneak out** | 渐隐；偷偷溜走 |
+| **spelunker** <span class="wpos">n.</span> | 洞穴探察者 |
+| **strenuous** <span class="wpos">adj.</span> | 费力的; 须用力应付的 |
+| **tightrope** <span class="wpos">n.</span> | 绷索, 钢丝 |
+| **transpose** <span class="wpos">vt.</span> | 使变位; 变换顺序; 移项; 使变调 |
+| **unwinding** | 解退 |
+| **zigzagged** <span class="wpos">adj.</span> | 呈之字形移动的 |
+| **circumvent** <span class="wpos">vt.</span> | 设法克服或避免；回避 |
+| **congestion** <span class="wpos">n.</span> | 拥挤;堵车; 充血;阻塞 |
+| **distribute** <span class="wpos">vt.</span> | 分配，分给; 散发；散播；分布 |
+| **equestrian** <span class="wpos">adj.</span> | 骑马的,马的,在马背上的,市民特权阶层成员的,骑士阶层的; 骑手 |
+| **extinguish** <span class="wpos">vt.</span> | 使熄灭, 扑灭; 使…不复存在 |
+| **facilitate** <span class="wpos">vt.</span> | 使便利, 减轻…的困难 |
+| **fluttering** | 振抖 |
+:::
+:::
+::::
 
 ### When Motion Takes Over
 
+:::: {.columns}
+::: {.column width="57%"}
 At the gym's open floor, Maya began her warm-up with a set of **calisthenic** drills — lunges, arm circles, controlled twists — moving with a fluid ease that made each rep look effortless. Then she crossed to the **trampoline** bay, bounced twice to find her rhythm, and launched into a clean **somersault**, tucking tight before landing with both feet square. The coach watched from the **bench press** rack, nodding. "**Let's bounce** to the pool," he called, and the group filed out.
 
 In the water, she switched between freestyle and **breaststroke**, feeling the quiet **propulsion** each pull gave her through the cool resistance. She had trained herself not to move **mechanically** — every stroke was supposed to carry intention, not just repetition. After laps she sat poolside, watching the afternoon session: a boy on the **skateboarding** ramp trying to **kick-start** his confidence after a fall; two kids **horse around**-ing near the **merry-go-round** until a counselor redirected them to the climbing wall.
 
 The outdoor section was wilder. A **rock climbing** instructor coaxed beginners off the first hold, reminding them that **horsemanship** and climbing shared the same principle — trust the body's balance before you **relinquish** control to the equipment. A street performer nearby was attempting **wire-walking** above the plaza, arms out, each step a negotiation with gravity. A child in the crowd tried to **manipulate** a yo-yo into the same composure, with mixed results. The real crowd-stopper, though, was the juggler by the fountain: his **sleight of hand** made three balls disappear mid-arc while a **hitchhiker** on a nearby bench filmed the whole thing, half-watching a **roller coaster** scream past on the park's far ridge. Everything here moved — some things with grace, some with noise, all with purpose. And somewhere in that chain of motion, **piggybacking** on the juggler's momentum, a small boy finally decided to **take the plunge** and jump from the low diving board for the first time all summer.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| hitchhiker | n. | 搭便车的旅行者,顺便插入的广告,短篇广告 |
-| kick-start | vt. | 用脚启动 |
-| manipulate | vt. | 熟练控制 |
-| propulsion | n. | 推进 |
-| relinquish | vt. | 交出, 让给; 放弃 |
-| somersault | n. | 翻筋斗 |
-| trampoline | n. | 蹦床；蹦床，弹床 |
-| bench press | | 台式压床,台式压机 |
-| calisthenic | adj. | 柔软体操的,美容体操的 |
-| breaststroke | n. | 蛙泳 |
-| horse around | | 胡闹；哄闹；鬼混 |
-| horsemanship | n. | 骑术;马术 |
-| let's bounce | | |
-| mechanically | adv. | 机械方面地;机械地;物理上地; 机械地;盲目地；呆板地 |
-| piggybacking | n. | 借道 |
-| wire-walking | n. | 走钢丝 |
-| rock climbing | | 岩石作业；攀岩运动 |
-| skateboarding | n. | 滑板@动词skateboard的 |
-| merry-go-round | n. | 旋转木马 |
-| roller coaster | | 过山车 |
-| sleight of hand | | 花招；熟练手法 |
-| take the plunge | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **hitchhiker** <span class="wpos">n.</span> | 搭便车的旅行者,顺便插入的广告,短篇广告 |
+| **kick-start** <span class="wpos">vt.</span> | 用脚启动 |
+| **manipulate** <span class="wpos">vt.</span> | 熟练控制 |
+| **propulsion** <span class="wpos">n.</span> | 推进 |
+| **relinquish** <span class="wpos">vt.</span> | 交出, 让给; 放弃 |
+| **somersault** <span class="wpos">n.</span> | 翻筋斗 |
+| **trampoline** <span class="wpos">n.</span> | 蹦床；蹦床，弹床 |
+| **bench press** | 台式压床,台式压机 |
+| **calisthenic** <span class="wpos">adj.</span> | 柔软体操的,美容体操的 |
+| **breaststroke** <span class="wpos">n.</span> | 蛙泳 |
+| **horse around** | 胡闹；哄闹；鬼混 |
+| **horsemanship** <span class="wpos">n.</span> | 骑术;马术 |
+| **let's bounce** |  |
+| **mechanically** <span class="wpos">adv.</span> | 机械方面地;机械地;物理上地; 机械地;盲目地；呆板地 |
+| **piggybacking** <span class="wpos">n.</span> | 借道 |
+| **wire-walking** <span class="wpos">n.</span> | 走钢丝 |
+| **rock climbing** | 岩石作业；攀岩运动 |
+| **skateboarding** <span class="wpos">n.</span> | 滑板@动词skateboard的 |
+| **merry-go-round** <span class="wpos">n.</span> | 旋转木马 |
+| **roller coaster** | 过山车 |
+| **sleight of hand** | 花招；熟练手法 |
+| **take the plunge** |  |
+:::
+:::
+::::

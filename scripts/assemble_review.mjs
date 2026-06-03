@@ -31,6 +31,38 @@ try { fs.rmSync('\\\\?\\' + path.resolve('review', 'CON.qmd'), { force: true }) 
 fs.rmSync('review', { recursive: true, force: true })
 fs.mkdirSync('review', { recursive: true })
 
+// 把一篇短文渲染成两栏：左=短文，右=生词释义（常驻）
+function renderPassage(p) {
+  const md = p.md || ''
+  const cIdx = md.indexOf('::: {.callout-note')
+  const head = (cIdx >= 0 ? md.slice(0, cIdx) : md).trim()
+  const lines = head.split('\n')
+  const ti = lines.findIndex(l => l.startsWith('### '))
+  const title = ti >= 0 ? lines[ti].trim() : '### 语境短文'
+  const bodyText = (ti >= 0 ? lines.slice(ti + 1) : lines).join('\n').trim()
+  let words = []
+  try { words = JSON.parse(fs.readFileSync(`data/chunks/${p.id}.json`, 'utf8')) } catch {}
+  const rows = words.map(w =>
+    `| **${w.word}**${w.pos ? ' <span class="wpos">' + w.pos + '</span>' : ''} | ${(w.gloss || '').replace(/\|/g, '/')} |`
+  ).join('\n')
+  return `${title}
+
+:::: {.columns}
+::: {.column width="57%"}
+${bodyText}
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+${rows}
+:::
+:::
+::::`
+}
+
 const pages = []
 let totalPassages = 0
 for (const code of ORDER) {
@@ -38,8 +70,8 @@ for (const code of ORDER) {
   if (!list || !list.length) continue
   totalPassages += list.length
   const body = [`# ${LABELS[code]} {.unnumbered}`, '',
-    `> 本主题共 ${list.length} 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。`, '',
-    ...list.map(p => p.md)]
+    `> 本主题共 ${list.length} 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。`, '',
+    ...list.map(p => renderPassage(p))]
   const fname = `review/${safeName(code)}.qmd`
   fs.writeFileSync(fname, body.join('\n\n') + '\n')
   pages.push({ code, fname, label: LABELS[code], passages: list.length })

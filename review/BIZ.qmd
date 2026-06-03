@@ -2,12 +2,14 @@
 
 
 
-> 本主题共 9 篇语境短文。每篇把一批旧词织进一个场景；目标词**加粗**，展开"本篇生词"可遮释义自测。
+> 本主题共 9 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
 
 
 
 ### A Deal Struck in the Trading Room
 
+:::: {.columns}
+::: {.column width="57%"}
 The startup had secured its first round of funding, and the founding team gathered around a **chart** pinned to the whiteboard to review where the money stood. Their **assets** — mostly equipment and a modest cash reserve — were carefully catalogued, and the CFO had already begun to map out how interest would **accrue** over the next quarter. The company was structured as an **LLC**, which capped personal exposure; still, every co-founder held a **stake** in the outcome, and nobody wanted to **incur** unnecessary losses this early.
 
 Negotiations with the overseas supplier had dragged on for weeks. Their **BATNA** was a smaller regional vendor, but the team held out. The supplier's opening figure was well above **MSRP**, so the procurement lead pushed back, cross-referencing every line item against the original **spec**. In markets where hard currency was scarce, some counterparties still preferred **barter** — trading raw **cargo** for finished goods — yet the deal eventually settled in cash. The agreed price left just enough room for the bonuses and **perks** that kept the engineering staff from walking.
@@ -15,47 +17,51 @@ Negotiations with the overseas supplier had dragged on for weeks. Their **BATNA*
 On the treasury side, the picture was mixed. The **ruble** exposure from a Russian partnership had been hedged, and a small position in Vietnamese **dong** was tracking sideways. The fund manager noted that the high-**yield** tranche was beginning to look shaky: a broad **slump** in consumer demand had dragged the sector index down, and the **wager** that inflation would ease by Q3 now looked like a long shot. A quick **tally** of open positions confirmed the portfolio was overweight; it was time to **remit** funds to the custodian and rebalance.
 
 Back on the operational side, the **co-op** warehouse had agreed to **allot** two additional bays for inventory through the peak season. It was a small win — worth little more than a handful of **dimes** in the grand scheme — but the logistics director kept a careful **tally** of every saving. There was no room for loose **dibs** on budget lines; every **penny** counted. Even the **booty** of office furniture reclaimed from a bankrupt neighbor had been itemized and valued. The older hands joked that the only honest **lucre** was earned slowly, coin by coin — whether in **plack**, **lat**, or any other currency the world had once decided to trust.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| lat | n. | 1940年前拉脱维亚的货币单位 |
-| LLC | abbr. | 液面控制；有限责任企业 |
-| SME | abbr. | Society of Manufacturing Engineers 制造工程师学会 |
-| dibs | n. | 权利；零钱；骨制的筹码 |
-| dime | n. | 一角硬币 |
-| dong | n. | 盾 |
-| MSRP | abbr. | 制造商建议零售价 |
-| spec | n. | 投机；细则；说明书 |
-| allot | vt. | 分配, 拨给, 摊派 |
-| BATNA | abbr. | 达成谈判协议的最佳选择方案 |
-| booty | n. | 赃物；掠夺物；战利品；贵重物品 |
-| cargo | n. | 货物，船货 |
-| chart | n. | 图表；航海图；唱片的每周流行榜 |
-| co-op | n. | 消费合作社 |
-| incur | vt. | 招致，引发；蒙受 |
-| lucre | n. | 收益；钱财；利润 |
-| penny | n. | 便士；分 |
-| perks | n. | 特别待遇；特权；额外津贴 |
-| plack | n. | 从前的一种价值很小的钱币 |
-| purse | n. | 钱包，小钱袋；金钱，财源 |
-| remit | vt. | 宽恕；免除；减轻；传送；汇款 |
-| ruble | n. | 卢布 |
-| slump | vi. | 大幅度下降，暴跌；萧条期 |
-| stake | n. | 桩，棍子；火刑；赌注；奖金；资助 |
-| tally | n. | 标签；记账；计数器；记录 |
-| wager | n. | 赌博；赌注；打赌 |
-| yield | vt. | 出产；屈服；放弃；收益；产量 |
-| accrue | vi. | 自然增长或利益增加；积累；获得 |
-| assets | n. | 资产 |
-| barter | vi. | 进行易货贸易；物物交换 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **lat** <span class="wpos">n.</span> | 1940年前拉脱维亚的货币单位 |
+| **LLC** | abbr. 液面控制；有限责任企业 |
+| **SME** | abbr. Society of Manufacturing Engineers 制造工程师学会 |
+| **dibs** <span class="wpos">n.</span> | 权利；零钱；骨制的筹码 |
+| **dime** <span class="wpos">n.</span> | 一角硬币 |
+| **dong** <span class="wpos">n.</span> | 盾 |
+| **MSRP** | abbr. 制造商建议零售价 |
+| **spec** <span class="wpos">n.</span> | 投机；细则；说明书 SPECabbr. Stored Program Educational Com… |
+| **allot** <span class="wpos">vt.</span> | 分配, 拨给, 摊派 |
+| **BATNA** | abbr. 达成谈判协议的最佳选择方案 |
+| **booty** <span class="wpos">n.</span> | 赃物；掠夺物；战利品; 贵重物品; 屁股 |
+| **cargo** <span class="wpos">n.</span> | 货物，船货 |
+| **chart** <span class="wpos">n.</span> | 图表; 航海图; 唱片的每周流行榜; 绘制地图，在图上标出; 跟踪；记述 |
+| **co-op** <span class="wpos">n.</span> | 〈俚〉消费合作社 |
+| **incur** <span class="wpos">vt.</span> | 招致，引发；蒙受 |
+| **lucre** <span class="wpos">n.</span> | 收益；钱财；利润 |
+| **penny** <span class="wpos">n.</span> | 便士；分 Penny彭妮 |
+| **perks** <span class="wpos">n.</span> | 特别待遇；特权；额外津贴; 打扮；使振作；昂首挺胸 |
+| **plack** <span class="wpos">n.</span> | 从前的一种价值很小的钱币 |
+| **purse** <span class="wpos">n.</span> | 钱包，小钱袋；金钱，财源; 皱起，缩拢 |
+| **remit** <span class="wpos">vt.</span> | 宽恕；免除；减轻；传送；使恢复原状; 汇款；缓和; 移交的事物 |
+| **ruble** <span class="wpos">n.</span> | 卢布 |
+| **slump** <span class="wpos">vi.</span> | 大幅度下降, 暴跌; 沉重或突然地落下; 萧条期; 〈美〉低潮状态 |
+| **stake** <span class="wpos">n.</span> | 桩，棍子；火刑；赌注；奖金; 资助，支持；系…于桩上；把…押下打赌; 打赌 |
+| **tally** <span class="wpos">n.</span> | 标签；记账；计数器; 计算；记录；使符合; 一致；记分 |
+| **wager** <span class="wpos">n.</span> | 赌博；赌注；赌物; 打赌; 下赌注 |
+| **yield** <span class="wpos">vt.</span> | 出产；屈服；放弃; 屈服，投降; 收益；产量 |
+| **accrue** <span class="wpos">vi.</span> | 自然增长或利益增加；产生; 积累；获得 |
+| **assets** <span class="wpos">n.</span> | 资产 |
+| **barter** <span class="wpos">vi.</span> | 进行易货贸易；作物物交换；讨价还价; 以…作为交换；拿…进行易货贸易; 实物交易；物物交换；易货贸易 |
+:::
+:::
+::::
 
 ### The Deal That Closed at Midnight
 
+:::: {.columns}
+::: {.column width="57%"}
 The **bursar** at Helix Capital arrived early, her **ledger** already open on the conference table. Today's agenda was dense: a cross-border **cartel** investigation had surfaced, **tariff** exposure on three product lines needed repricing, and the CEO wanted a full **fiscal** review before the board call.
 
 She began with the numbers. **Accrued** interest on the offshore bonds had ballooned beyond the **accrual** estimate from Q3, which meant the firm would need to **expend** reserves it had hoped to preserve. The **outlay** on the new Shanghai hub could not be **offset** by domestic revenue alone — not this quarter. Management had tried to **garner** fresh capital through a secondary offering, but the market **outbid** their floor price and the round collapsed. One banker quietly suggested they **sublet** two floors of the Munich office to **recoup** some fixed costs, while a leaner team pushed **kaizen** reviews across every department, hunting for anything that could be cut **gratis** from overhead.
@@ -65,139 +71,151 @@ By afternoon, the tone shifted. A procurement officer arrived to **haggle** over
 Late in the evening a separate drama unfolded downstairs. A junior trader had been running a **raffle** among clients — not illegal, but embarrassing — offering **Pfizer** equity at a discount to drum up goodwill. The compliance officer noted that spreading stock gossip made him a rumour **monger** of the worst kind, and that any future **outbid** strategy had to clear legal first. The firm's rivals, meanwhile, distributed glossy brochures **gratis** at a fintech summit, promising **thrift**-friendly savings products and pitching their **retail** banking arm as the antidote to high fees. One slide quoted the **Keynes** multiplier; another boasted of **accrual** accounting so conservative it would make a **bursar** blush.
 
 The deal closed just past midnight. Everyone agreed: the real **trophy** was surviving the day with the **ledger** still balanced.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| bursar | n. | 财务主管; 奖学金获得者 |
-| cartel | n. | 卡特尔,企业联合 |
-| cheque | n. | 支票 |
-| coupon | n. | 息票；赠券；联票；配给券 |
-| excise | vt. | 切除；收税; 货物税；消费税 |
-| expend | vt. | 花费，使用做某事; 用光；耗尽 |
-| fiscal | adj. | 国库的；会计的，财政的 |
-| garner | vt. | 储存；获得；把…储入谷仓; 谷仓 |
-| gratis | adv. | 免费地; 免费的 |
-| haggle | n. | 讨价还价；争论 |
-| kaizen | n. | 〈日〉改善，不断改进提高 |
-| Keynes | n. | 凯恩斯 |
-| kiting | n. | 挪用补空；开空头支票；冒空；补空 |
-| ledger | n. | 分类账 |
-| monger | vt. | 传播，贩卖; 商人，贩子 |
-| offset | vt. | 抵消, 补偿 |
-| outbid | vt. | 出价高于 |
-| outlay | vt. | 花费; 费用；经费；支出 |
-| Pfizer | n. | 辉瑞 |
-| quotas | n. | 定额，限额；配额; 分配 |
-| raffle | n. | 抽彩售物 |
-| recoup | vt. | 重获; 补偿, 偿还 |
-| refund | n. | 归还, 偿还额, 退款 |
-| retail | vt. | 零售；转述; 零售 |
-| sublet | vt. | 转租 |
-| tariff | n. | 关税, 关税表, 货物课税表 |
-| thrift | n. | 节俭, 节约 |
-| trophy | n. | 奖品，奖杯; 纪念品，战利品 |
-| accrual | n. | 自然增长；自然增长额 |
-| accrued | adj. | 应计的；增值的；权责已发生的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **bursar** <span class="wpos">n.</span> | 财务主管; 奖学金获得者 |
+| **cartel** <span class="wpos">n.</span> | 卡特尔,企业联合 |
+| **cheque** <span class="wpos">n.</span> | 支票 |
+| **coupon** <span class="wpos">n.</span> | 息票；赠券；联票；配给券 |
+| **excise** <span class="wpos">vt.</span> | 切除；收税; 货物税；消费税 |
+| **expend** <span class="wpos">vt.</span> | 花费，使用做某事; 用光；耗尽 |
+| **fiscal** <span class="wpos">adj.</span> | 国库的；会计的，财政的 |
+| **garner** <span class="wpos">vt.</span> | 储存；获得；把…储入谷仓; 谷仓 Garner加纳 |
+| **gratis** <span class="wpos">adv.</span> | 免费地; 免费的 |
+| **haggle** <span class="wpos">n.</span> | 讨价还价；争论; 乱劈；乱砍; 争论；乱劈 |
+| **kaizen** <span class="wpos">n.</span> | 〈日〉改善，不断改进提高 |
+| **Keynes** <span class="wpos">n.</span> | 凯恩斯 |
+| **kiting** <span class="wpos">n.</span> | 挪用补空；开空头支票；冒空；补空 |
+| **ledger** <span class="wpos">n.</span> | 分类账 |
+| **monger** <span class="wpos">vt.</span> | 传播，贩卖; 商人，贩子 |
+| **offset** <span class="wpos">vt.</span> | 抵消, 补偿 |
+| **outbid** <span class="wpos">vt.</span> | 出价高于 |
+| **outlay** <span class="wpos">vt.</span> | 花费; 费用；经费；支出 |
+| **Pfizer** <span class="wpos">n.</span> | 辉瑞 |
+| **quotas** <span class="wpos">n.</span> | 定额，限额；配额; 分配 |
+| **raffle** <span class="wpos">n.</span> | 抽彩售物; 以抽彩方式售 |
+| **recoup** <span class="wpos">vt.</span> | 重获; 补偿, 偿还 |
+| **refund** <span class="wpos">n.</span> | 归还, 偿还额, 退款; 归还, 退还 |
+| **retail** <span class="wpos">vt.</span> | 零售；转述; 零售; 零售; 以零售方式; 零售的 |
+| **sublet** <span class="wpos">vt.</span> | 转租 |
+| **tariff** <span class="wpos">n.</span> | 关税, 关税表, 货物课税表; 收费表, 价目表 |
+| **thrift** <span class="wpos">n.</span> | 节俭, 节约 |
+| **trophy** <span class="wpos">n.</span> | 奖品，奖杯; 纪念品，战利品 |
+| **accrual** <span class="wpos">n.</span> | 自然增长；自然增长额 |
+| **accrued** <span class="wpos">adj.</span> | 应计的；增值的；权责已发生的; 形成；积累 |
+:::
+:::
+::::
 
 ### A Deal Struck in a Volatile Market
 
+:::: {.columns}
+::: {.column width="57%"}
 The **magnate** arrived at the **counter** early, briefing the **actuary** on a new portfolio he planned to **acquire** before the **bidding** began. The assets—once a **bonanza** for their previous owner—had turned **bearish** after the firm's largest **auditee** flagged discrepancies in every **invoice** and **deposit** on record. Now the holding company was preparing to **auction** off its **outlets** across three continents, and the floor was crowded with buyers ready to **compete**.
 
 The **cashier** handed over a printout of **imputed** rental values and **freight** costs that the analysts had used to **prorate** across each **ratable** division. A **bursary** established by the founder years ago had quietly absorbed some of the **expense**, but it was not enough. After a brief **bargain** over the reserve price, the lead counsel warned that if the highest bidder failed to place a proper **deposit**, the firm reserved the right to treat the transaction as a **default** and **consign** the remaining stock to a secondary market. The deal would only **pay off** if the buyer could clear the **coinage**-era debt load—obligations tied to a fixed **premium** under a contract whose **odd lot** provisions Hyundai's lawyers had flagged three years ago.
 
 By afternoon, the **bailout** package from the sovereign fund was confirmed, and the **jackpot** scenario the board had barely dared to model was suddenly real.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| acquire | vt. | 获得, 得到, 养成 |
-| actuary | n. | 保险精算师,保险计算员 |
-| auction | vt. | 拍卖；竞卖; 拍卖 |
-| auditee |  | 被审单位 |
-| bailout | n. | 紧急财政援助 |
-| bargain | n. | 交易；契约；特价商品; 讨价还价；成交; 讨价还价；拿…做交易 |
-| bearish | adj. | 粗暴的；如熊的；股票看跌的 |
-| bidding | n. | 投标；出价；命令 |
-| bonanza | n. | 富矿带；带来好运之事；幸运 |
-| bursary | n. | 财务办公室；大学奖学金 |
-| cashier | n. | 出纳员; 革除职务 |
-| coinage | n. | 货币制度 |
-| compete | vi. | 竞赛；竞争; 比得上，媲美 |
-| consign | vt. | 把…托人代售; 把…托付给, 把…交付给; 丟弃，拋弃；把…搁置一旁; 把…置于；打发；发落 |
-| counter | n. | 柜台, 柜台式长桌; 计数器; & 对抗, 反驳; 反方向地, 对立地 |
-| default | v. | 拖欠，不履行债务；违约；默认，预设；弃权，未到场; 拖欠，不履行债务；违约；默认结果，既定结果；预置… |
-| deposit | n. | 存款；保证金；沉淀物; 存放；使沉积; 沉淀 |
-| expense | n. | 开支；消费；损失，代价; 向…收取费用; 被花掉 |
-| freight | n. | 货运；货物; 运输，装货于 |
-| Hyundai | n. | 现代 |
-| imputed |  | 估算 |
-| invoice | n. | 发票；发货单；货物; 开发票；记清单 |
-| jackpot | n. | 累积赌注；头奖；十分成功; 累积赌注的；头奖的；大笔收入的 |
-| magnate | n. | 富豪,权贵,巨头 |
-| odd lot |  |  |
-| outlets | n. | 出路；排水口；销售点；批发商点 |
-| pay off |  | 偿清,贿赂 |
-| premium | n. | 奖金，津贴；加价；附加费；保险费；额外费用; 高级的；优质的，顶级的 |
-| prorate | vt. | 按比例分配; 按比例分配 |
-| ratable | adj. | 可估价的,按比例的,应课税的 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **acquire** <span class="wpos">vt.</span> | 获得, 得到, 养成 |
+| **actuary** <span class="wpos">n.</span> | 保险精算师,保险计算员 |
+| **auction** <span class="wpos">vt.</span> | 拍卖；竞卖; 拍卖 |
+| **auditee** | 被审单位 |
+| **bailout** <span class="wpos">n.</span> | 紧急财政援助 |
+| **bargain** <span class="wpos">n.</span> | 交易；契约；特价商品; 讨价还价；成交; 讨价还价；拿…做交易 |
+| **bearish** <span class="wpos">adj.</span> | 粗暴的；如熊的；股票看跌的 |
+| **bidding** <span class="wpos">n.</span> | 投标；出价；命令 |
+| **bonanza** <span class="wpos">n.</span> | 富矿带；带来好运之事；幸运 |
+| **bursary** <span class="wpos">n.</span> | 财务办公室；大学奖学金 |
+| **cashier** <span class="wpos">n.</span> | 出纳员; 革除职务 |
+| **coinage** <span class="wpos">n.</span> | 货币制度 |
+| **compete** <span class="wpos">vi.</span> | 竞赛；竞争; 比得上，媲美 |
+| **consign** <span class="wpos">vt.</span> | 把…托人代售; 把…托付给, 把…交付给; 丟弃，拋弃；把…搁置一旁; 把…置于；打发；发落 |
+| **counter** <span class="wpos">n.</span> | 柜台, 柜台式长桌; 计数器; &amp; 对抗, 反驳; 反方向地, 对立地 |
+| **default** <span class="wpos">v.</span> | 拖欠，不履行债务；违约；默认，预设；弃权，未到场; 拖欠，不履行债务；违约；默认结果，既定结果；预置… |
+| **deposit** <span class="wpos">n.</span> | 存款；保证金；沉淀物; 存放；使沉积; 沉淀 |
+| **expense** <span class="wpos">n.</span> | 开支；消费；损失，代价; 向…收取费用; 被花掉 |
+| **freight** <span class="wpos">n.</span> | 货运；货物; 运输，装货于 |
+| **Hyundai** <span class="wpos">n.</span> | 现代 |
+| **imputed** | 估算 |
+| **invoice** <span class="wpos">n.</span> | 发票；发货单；货物; 开发票；记清单 |
+| **jackpot** <span class="wpos">n.</span> | 累积赌注；头奖；十分成功; 累积赌注的；头奖的；大笔收入的 |
+| **magnate** <span class="wpos">n.</span> | 富豪,权贵,巨头 |
+| **odd lot** |  |
+| **outlets** <span class="wpos">n.</span> | 出路；排水口；销售点；批发商点 |
+| **pay off** | 偿清,贿赂 |
+| **premium** <span class="wpos">n.</span> | 奖金，津贴；加价；附加费；保险费；额外费用; 高级的；优质的，顶级的 |
+| **prorate** <span class="wpos">vt.</span> | 按比例分配; 按比例分配 |
+| **ratable** <span class="wpos">adj.</span> | 可估价的,按比例的,应课税的 |
+:::
+:::
+::::
 
 ### The Deal That Almost Wasn't
 
+:::: {.columns}
+::: {.column width="57%"}
 The investment committee had gathered to review a **brokered** arrangement between two mid-market rivals — a merger that analysts had spent months **touting** as a textbook case of **synergy**. On paper, the combined entity looked compelling: the acquiring firm carried substantial **goodwill** on its books, its balance sheet was clean, and every **dividend** had been paid on schedule. The target, by contrast, was quietly **indebted** to three lenders and had **incurred** significant legal costs in a trademark dispute. Still, the deal team was confident. The GDP **deflator** had just been revised downward, **monetary** policy was loosening, and **affluent** institutional buyers were hungry for yield.
 
 The lead banker arrived with a thick deck and a simple pitch: the target's retail arm — a chain of **boutique** stores in high-foot-traffic corridors — was essentially a hidden **spinoff** waiting to happen. Separate it, she argued, and the parent would shed its **downside** exposure while keeping the profitable wholesale unit. She proposed an **open-end** credit facility to fund the transition, with capital **allocated** across three tranches. The first tranche was **upfront**, payable at signing; the rest would be drawn as milestones were hit. The **investee** would receive a government **subsidy** and a renewable-energy **voucher** worth eight figures, dramatically reducing the cash the acquirer needed to **expend** — the lawyer's note confirmed that once **procured**, these credits transferred with the entity.
 
 Not everyone in the room was persuaded. A skeptical partner slid a single page across the table: a schedule of **bad debt** the target had quietly written off over three years, a **kickback** arrangement with a regional distributor that was still under audit, and a **mortgage** on the flagship warehouse that the data room had buried in a footnote. The acquirer, he pointed out, was in danger of trading a **monopoly** position in its core market for a distressed asset dressed up in optimistic projections. Any **gratuity** or retention **stipend** offered to keep the target's management team would merely delay the reckoning. The **commerce** generated by those boutique stores, once you ran it through a proper **deflator**, was shrinking — not growing. The deal might still make sense, he conceded, but only if the price was revised and the **downside** scenarios were stress-tested honestly. He set his pen down and looked at the banker. "**Appraise** it again. At the number that's actually true."
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| spinoff | n. | 续集；副产品；附带的利益 |
-| stipend | n. | 薪俸 |
-| subsidy | n. | 津贴；补助金；补贴 |
-| synergy | n. | 协同作用；协同；增效 |
-| touting | v. | 兜售；招徕顾客 |
-| upfront | adj. | 预付的；在前面的；提前支付 |
-| voucher | n. | 证人；保证人；证明者；收据 |
-| affluent | adj. | 富裕的；丰富的；流畅的；富人 |
-| allocate | vt. | 分配；拨出；使坐落于；指定 |
-| appraise | vt. | 评价，鉴定；估价 |
-| bad debt | | 坏帐；呆帐 |
-| boutique | n. | 精品店；专卖流行衣服的小商店；小规模专售精品的 |
-| brokered | adj. | 由权力经纪人安排的 |
-| commerce | n. | 商业，贸易 |
-| deflator | n. | 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数 |
-| dividend | n. | 股息；被除数；奖金 |
-| downside | adj. | 下降趋势的 |
-| downturn | n. | 开始下降 |
-| expended | adj. | 花费的；支出的；开支的；花费；耗尽 |
-| goodwill | n. | 友好，亲善，善意；信誉，声誉 |
-| gratuity | n. | 赏钱，小费；赠物；退职金 |
-| incurred | v. | 遭受；招致 |
-| indebted | adj. | 负债的；感激的；受惠的 |
-| investee | n. | 接受投资者 |
-| kickback | n. | 回扣，佣金；强烈反应；退回赃物 |
-| monetary | adj. | 财政的；货币的 |
-| monopoly | n. | 垄断；垄断者；专卖权 |
-| mortgage | n. | 抵押借款；抵押债款的利息；抵押 |
-| open-end | adj. | 在期限上或数量上无限制的；开放式的 |
-| procured | adj. | 获得的；采购了的；获得；促成 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **spinoff** <span class="wpos">n.</span> | 续集；副产品；附带的利益 |
+| **stipend** <span class="wpos">n.</span> | 薪俸 |
+| **subsidy** <span class="wpos">n.</span> | 津贴；补助金；补贴 |
+| **synergy** <span class="wpos">n.</span> | 协同作用；协同；增效 |
+| **touting** <span class="wpos">v.</span> | 兜售；招徕顾客 |
+| **upfront** <span class="wpos">adj.</span> | 预付的；在前面的; 在前面；提前支付 |
+| **voucher** <span class="wpos">n.</span> | 证人；保证人；证明者；收据 |
+| **affluent** <span class="wpos">adj.</span> | 富裕的；丰富的；流畅的; 支流；富人 |
+| **allocate** <span class="wpos">vt.</span> | 分配；拨出；使坐落于; 分配；指定 |
+| **appraise** <span class="wpos">vt.</span> | 评价，鉴定；估价 |
+| **bad debt** | 坏帐；呆帐 |
+| **boutique** <span class="wpos">n.</span> | 精品店；专卖流行衣服的小商店; 精品屋的；小规模专售精品的 |
+| **brokered** <span class="wpos">adj.</span> | 由权力经纪人安排的 |
+| **commerce** <span class="wpos">n.</span> | 商业, 贸易 |
+| **deflator** <span class="wpos">n.</span> | 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数 |
+| **dividend** <span class="wpos">n.</span> | 股息；被除数；奖金 |
+| **downside** <span class="wpos">adj.</span> | 下降趋势的 |
+| **downturn** <span class="wpos">n.</span> | 开始下降 |
+| **expended** <span class="wpos">adj.</span> | 花费的；支出的；开支的; 花费；耗尽 |
+| **goodwill** <span class="wpos">n.</span> | 友好, 亲善, 善意; 信誉, 声誉 |
+| **gratuity** <span class="wpos">n.</span> | 赏钱，小费；赠物；退职金 |
+| **incurred** <span class="wpos">v.</span> | 遭受；招致 |
+| **indebted** <span class="wpos">adj.</span> | 负债的；感激的；受惠的; 使负债；使受恩惠 |
+| **investee** <span class="wpos">n.</span> | 接受投资者 |
+| **kickback** <span class="wpos">n.</span> | 回扣，佣金；强烈反应；退回赃物 |
+| **monetary** <span class="wpos">adj.</span> | 财政的；货币的 |
+| **monopoly** <span class="wpos">n.</span> | 垄断；垄断者；专卖权 |
+| **mortgage** <span class="wpos">n.</span> | 抵押借款; 抵押债款的利息; 抵押 |
+| **open-end** <span class="wpos">adj.</span> | 在期限上或数量上无限制的;开放式的; 得议定借款的 |
+| **procured** <span class="wpos">adj.</span> | 获得的；采购了的; 获得；促成 |
+:::
+:::
+::::
 
 ### A Deal Closed at Midnight
 
+:::: {.columns}
+::: {.column width="57%"}
 The **takeover** had been in the works for months. By the time the board convened past eleven o'clock, every **guarantee** was in place and the lead **guarantor** — a sovereign wealth fund — had already wired its **allotment** to the escrow account. The target was a mid-sized **commodity** trading house whose **clientele** spanned three continents, and the acquirer intended to **affiliate** it as a wholly owned subsidiary within the quarter.
 
 Earlier that week, the due-diligence team had spent two days **vouching** for every line item, cross-checking **vouchers** against the ledger and confirming that year-to-date **receipts** comfortably exceeded projections. An **actuarial** model stress-tested the pension liabilities; a **fiduciary** review confirmed that no **endowment** fund on the cap table faced a lock-up conflict. The **solvency** ratios held even under the bear-case scenario, so the **benchmark** was set and the **flotation** price for the new combined entity was finalised.
@@ -205,200 +223,218 @@ Earlier that week, the due-diligence team had spent two days **vouching** for ev
 Not everyone was pleased. A dissident shareholder had tried to force a **delisting** of the legacy unit and **squander** the goodwill built over decades by rushing a **spin-off** before the ink was dry. The **debenture** holders, meanwhile, fretted about the **carryover** of off-balance-sheet exposure. But the treasury team — backed by the full faith of the **treasury** — published a terse statement: the **incentive** structure rewarded long-term holders, and the firm's **affluence** was not a **showcase** for short-term speculators who triggered a **sell-off** every time a headline crossed the wire.
 
 By midnight the documents were signed. The **purveyor** of settlement services logged the final **factoring** entry, the **consignee** acknowledged receipt of the share certificates, and the new parent quietly **treasure**d what it had just won.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| purveyor | n. | 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司 |
-| receipts | n. | 进款；收入 |
-| sell-off | n. | 证券的跌价 |
-| showcase | n. | 玻璃柜台，玻璃陈列柜; 展示的场合; 展示 |
-| solvency | n. | 偿付能力；溶解力 |
-| spin-off | n. | 副产品;让产易股,抽资脱离 |
-| squander | vt. | 浪费, 乱花 |
-| takeover | n. | 收购；接收；接管; 强行接管，控制 |
-| treasure | n. | 金银财宝；宝藏; 珍宝，贵重物品; 不可多得的人才; 重视；珍惜 |
-| treasury | n. | 财政部；国库，金库；宝库 |
-| vouchers | n. | 付款凭单；证明人；抵用券 |
-| vouching | n. | 核单 |
-| actuarial | adj. | 保险精算师的,保险精算的 |
-| affiliate | v. | 附属，隶属；加入，加盟，并入；接纳；紧密联系 分支机构；子公司；分社；联号 |
-| affluence | n. | 富裕; 丰富，充裕，大量; 流入，注入，涌进，汇聚 |
-| allotment | n. | 分配，分派，拨款; 份额；份儿；分配物; 养家费 |
-| benchmark | — | 基准 |
-| carryover | — | 移后扣减;移行 |
-| clientele | n. | 委托人; 顾客，客户 |
-| commodity | n. | 商品, 货物; 有用的东西 |
-| consignee | n. | 受托者,收件人,代销人 |
-| debenture | n. | 公司债券 |
-| delisting | n. | 将股票名称从交易所上市股票名单中除去;从表上删除 |
-| endowment | n. | 资助，捐助；捐助的财物等; 天赋，天资，才能; 养老保险 |
-| factoring | n. | 因子分解,因式分解 |
-| fiduciary | adj. | 基于信用的,信托的,受信托的; 被信托者,受托人 |
-| flotation | n. | 开办新公司 |
-| guarantee | vt. | 保证；担保; 使可能发生; 保证，保障；保证书；保用期; 担保，担保人; 担保品，抵押品 |
-| guarantor | n. | 保证人 |
-| incentive | n. | 激励某人做某事的事物；刺激；诱因，动机 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **purveyor** <span class="wpos">n.</span> | 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司 |
+| **receipts** <span class="wpos">n.</span> | 进款；收入 |
+| **sell-off** <span class="wpos">n.</span> | 证券的跌价 |
+| **showcase** <span class="wpos">n.</span> | 玻璃柜台，玻璃陈列柜; 展示的场合; 展示 |
+| **solvency** <span class="wpos">n.</span> | 偿付能力；溶解力 |
+| **spin-off** <span class="wpos">n.</span> | 副产品;让产易股,抽资脱离 |
+| **squander** <span class="wpos">vt.</span> | 浪费, 乱花 |
+| **takeover** <span class="wpos">n.</span> | 收购；接收；接管; 强行接管，控制 |
+| **treasure** <span class="wpos">n.</span> | 金银财宝；宝藏; 珍宝，贵重物品; 不可多得的人才; 重视；珍惜 |
+| **treasury** <span class="wpos">n.</span> | 财政部；国库，金库；宝库 |
+| **vouchers** <span class="wpos">n.</span> | 付款凭单；证明人；抵用券 |
+| **vouching** <span class="wpos">n.</span> | 核单 |
+| **actuarial** <span class="wpos">adj.</span> | 保险精算师的,保险精算的 |
+| **affiliate** <span class="wpos">v.</span> | 附属，隶属；加入，加盟，并入；接纳；紧密联系 分支机构；子公司；分社；联号 |
+| **affluence** <span class="wpos">n.</span> | 富裕; 丰富，充裕，大量; 流入，注入，涌进，汇聚 |
+| **allotment** <span class="wpos">n.</span> | 分配，分派，拨款; 份额；份儿；分配物; 养家费 |
+| **benchmark** | 基准 |
+| **carryover** | 移后扣减;移行 |
+| **clientele** <span class="wpos">n.</span> | 委托人; 顾客，客户 |
+| **commodity** <span class="wpos">n.</span> | 商品, 货物; 有用的东西 |
+| **consignee** <span class="wpos">n.</span> | 受托者,收件人,代销人 |
+| **debenture** <span class="wpos">n.</span> | 公司债券 |
+| **delisting** <span class="wpos">n.</span> | 将股票名称从交易所上市股票名单中除去;从表上删除 |
+| **endowment** <span class="wpos">n.</span> | 资助，捐助；捐助的财物等; 天赋，天资，才能; 养老保险 |
+| **factoring** <span class="wpos">n.</span> | 因子分解,因式分解 |
+| **fiduciary** <span class="wpos">adj.</span> | 基于信用的,信托的,受信托的; 被信托者,受托人 |
+| **flotation** <span class="wpos">n.</span> | 开办新公司 |
+| **guarantee** <span class="wpos">vt.</span> | 保证；担保; 使可能发生; 保证，保障；保证书；保用期; 担保，担保人; 担保品，抵押品 |
+| **guarantor** <span class="wpos">n.</span> | 保证人 |
+| **incentive** <span class="wpos">n.</span> | 激励某人做某事的事物；刺激；诱因，动机 |
+:::
+:::
+::::
 
 ### A Firm on the Edge
 
+:::: {.columns}
+::: {.column width="57%"}
 The founding partner had always lived off an **inherited** fortune, but three years of aggressive expansion had left the firm effectively **insolvent**. The board met at dawn to decide whether to **liquidate** the Asian division outright or attempt a managed wind-down. **Liquidity** had evaporated almost overnight: every line of credit was frozen, and the **warehouse** outside Shenzhen — stacked floor to ceiling with back-ordered components — could not be sold fast enough to cover payroll. Suppliers began to **back-order** fresh shipments, unwilling to extend terms to a counterparty that could no longer post **collateral**. A **consortium** of regional banks circulated a **pro forma** restructuring memo, projecting **annualized** losses that made even the most optimistic analyst wince.
 
 The **headhunter** the firm had retained to recruit a turnaround CEO delivered a blunt assessment: the core business was sound but had been **impoverished** by poor capital allocation. The **portfolio** of side ventures — a **logistics** arm, a **consulting** boutique, and a small stake in a **multiples**-heavy retail chain — was dragging down the parent. Each unit was burning cash; none had the **efficiency** needed to survive a prolonged **recession**. The board voted to **write off** the retail stake entirely, then authorized management to **subsidize** the logistics arm for one more quarter while buyers were found. Meanwhile, fixed assets would **depreciate** on an accelerated schedule, and any staff relocated at company expense would be fully **reimbursed**.
 
 By the time a buyer emerged — a quietly **lucrative** holding company that had spent a decade building an **oligopoly** in industrial supply chains — the deal structure looked almost routine. The acquirer, whose **commission**-heavy sales force had helped companies like **PANASONIC** and subsidiaries of **Microsoft** streamline procurement, agreed to **capitalize** the distressed entity afresh. The surviving division would be folded into the buyer's distribution network; remaining creditors, whose claims had **skyrocketed** during the standoff, would receive partial settlement. A **liquidated** damages clause ensured that if integration milestones were missed, the seller could claw back a portion of the purchase price — a final, hard-won protection for a firm that had learned, too late, how quickly paper wealth can vanish.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| inherited | adj. | 通过继承得到的,遗传的; 继承权的 |
-| insolvent | adj. | 无力偿付债务的，破产的; 无力偿还债务的人；破产者 |
-| liquidate | vt. | 清偿, 结算; 清算; 清除, 消灭 |
-| liquidity | n. | 〈财〉资产折现力, 资产流动性; 流动性 |
-| logistics | n. | 后勤；物流 |
-| lucrative | adj. | 获利多的, 赚钱的 |
-| Microsoft | n. | 美国微软公司 |
-| multiples | n. | 跨国公司 |
-| oligopoly | n. | 求过于供的市场情况 |
-| PANASONIC | n. | 日本松下公司 |
-| portfolio | n. | 公事包, 文件夹; 投资组合; 大臣或部长的职位或职责 |
-| pro forma | adj. | 形式上的,预计的 |
-| recession | n. | 经济衰退; 不景气; 后退; 撤退; 撤回 |
-| reimburse | vt. | 偿还；付还 |
-| skyrocket | vi. | 突升, 猛涨 |
-| subsidize | vt. | 给…津贴或补贴；资助或补助… |
-| warehouse | n. | 仓库, 货栈 |
-| write off | | 勾销；取消；很快地写好 |
-| annualized | adj. | 按年计算的 |
-| back-order | v. | 订 |
-| capitalize | vt. | 用大写字母写或印刷; 将转作资本、用作资本或资本化; 充分利用某事物,从某事物中获利; 资本化 |
-| collateral | n. | 附属担保品; 相关的 |
-| commission | n. | 授权, 委托; 委员会; 佣金, 回扣; 委任, 委托 |
-| consortium | n. | 财团, 联营企业 |
-| consulting | adj. | 商议的,顾问资格的,咨询的 |
-| depreciate | vi. | 贬值，跌价；减价; 贬低，蔑视，轻视 |
-| efficiency | n. | 效率, 效能 |
-| headhunter | n. | 猎头者；物色人才的人；猎取人头的蛮人 |
-| impoverish | vt. | 使贫穷; 使贫瘠或恶化 |
-| liquidated | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **inherited** <span class="wpos">adj.</span> | 通过继承得到的,遗传的; 继承权的 |
+| **insolvent** <span class="wpos">adj.</span> | 无力偿付债务的，破产的; 无力偿还债务的人；破产者 |
+| **liquidate** <span class="wpos">vt.</span> | 清偿, 结算; 清算; 清除, 消灭 |
+| **liquidity** <span class="wpos">n.</span> | 〈财〉资产折现力, 资产流动性; 流动性 |
+| **logistics** <span class="wpos">n.</span> | 后勤；物流 |
+| **lucrative** <span class="wpos">adj.</span> | 获利多的, 赚钱的 |
+| **Microsoft** <span class="wpos">n.</span> | 美国微软公司 |
+| **multiples** <span class="wpos">n.</span> | 跨国公司 |
+| **oligopoly** <span class="wpos">n.</span> | 求过于供的市场情况 |
+| **PANASONIC** <span class="wpos">n.</span> | 日本松下公司 |
+| **portfolio** <span class="wpos">n.</span> | 公事包, 文件夹; 投资组合; 大臣或部长的职位或职责 |
+| **pro forma** <span class="wpos">adj.</span> | 形式上的,预计的 |
+| **recession** <span class="wpos">n.</span> | 经济衰退; 不景气; 后退; 撤退; 撤回 |
+| **reimburse** <span class="wpos">vt.</span> | 偿还；付还 |
+| **skyrocket** <span class="wpos">vi.</span> | 突升, 猛涨 |
+| **subsidize** <span class="wpos">vt.</span> | 给…津贴或补贴；资助或补助… |
+| **warehouse** <span class="wpos">n.</span> | 仓库, 货栈 |
+| **write off** | 勾销；取消；很快地写好 |
+| **annualized** <span class="wpos">adj.</span> | 按年计算的 |
+| **back-order** <span class="wpos">v.</span> | 订 |
+| **capitalize** <span class="wpos">vt.</span> | 用大写字母写或印刷; 将转作资本、用作资本或资本化; 充分利用某事物,从某事物中获利; 资本化 |
+| **collateral** <span class="wpos">n.</span> | 附属担保品; 相关的 |
+| **commission** <span class="wpos">n.</span> | 授权, 委托; 委员会; 佣金, 回扣; 委任, 委托 |
+| **consortium** <span class="wpos">n.</span> | 财团, 联营企业 |
+| **consulting** <span class="wpos">adj.</span> | 商议的,顾问资格的,咨询的 |
+| **depreciate** <span class="wpos">vi.</span> | 贬值，跌价；减价; 贬低，蔑视，轻视 |
+| **efficiency** <span class="wpos">n.</span> | 效率, 效能 |
+| **headhunter** <span class="wpos">n.</span> | 猎头者；物色人才的人；猎取人头的蛮人 |
+| **impoverish** <span class="wpos">vt.</span> | 使贫穷; 使贫瘠或恶化 |
+| **liquidated** |  |
+:::
+:::
+::::
 
 ### The Weight of a Deal
 
+:::: {.columns}
+::: {.column width="57%"}
 In a **mercantile** world where fortunes can shift overnight, the boardroom of Halcyon Capital was rarely quiet. That morning, the partners debated whether to **underwrite** a new bond issue for a **debt-ridden** retailer struggling to pay its **liabilities**. The **volatility** in credit markets had made every **speculation** feel like a gamble, and the latest **econometric** models offered little comfort — their error bands were wide enough to swallow a small country. Yet the **acquisition** of the retailer's logistics arm looked attractive: a **diversified** asset base, solid **throughput** across seven distribution centers, and a **proprietary** routing algorithm that consistently helped the fleet **outperform** rivals on delivery time.
 
 The lead analyst spread a **consignment** note across the table as evidence of the retailer's real operational strength. "Their **procurement** team renegotiated supplier terms last quarter," she said, "and one **subsidiary** in Vietnam is genuinely **prosperous** — shipping **merchandise** to forty countries." Management had already moved to **streamline** the back office, cutting headcount and **incentivize**-ing the remaining staff with equity. A planned **divestiture** of the real-estate portfolio would generate a lump-sum **remittance** to the parent, **offsetting** a chunk of the debt. If the deal closed cleanly, the **turnaround** could reach break-even within eighteen months.
 
 Still, the risks were real. A wave of **foreclosure** proceedings on the retailer's mortgaged warehouses could **monopolize** management's attention for years. The board had to **incorporate** a stress scenario in which **fluctuation** in commodity prices erased the margin gains. "We need to **recompense** investors fairly if things go south," the CFO said, "or our own credibility is gone." After three hours, the partners voted to proceed — carefully, with covenants — and the **mercantile** machine rolled on.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| mercantile | adj. | 贸易的，商业的；商人的；经商的; 商船; 商船人员; 商业票据 |
-| monopolize | vt. | 垄断，独占；专卖，专营 |
-| offsetting | n. | 偏置法 |
-| outperform | vt. | 做得比…更好；胜过 |
-| proprietor | n. | 所有人,业主 |
-| prosperous | adj. | 成功的, 繁荣的, 兴旺的 |
-| recompense | vt. | 赔偿；酬谢; 赔偿; 赔偿；报酬 |
-| remittance | n. | 汇寄; 汇款;汇款额 |
-| streamline | vt. | 把…做成流线型; 简化使效率更高 |
-| subsidiary | adj. | 附带的, 附属的, 次要的; 附属事物, 附属机构, 子公司 |
-| throughput | n. | 生产量,生产能力,吞吐量 |
-| turnaround | n. | 车辆回转场; 周转时间 |
-| underwrite | v. | 承担经济责任; 承担保险责任；承保; 包销，承销 |
-| volatility | n. | 不稳定性，暂时性；挥发性 |
-| acquisition | n. | 获得物，获得；收购 |
-| consignment | n. | 托付货物;托卖货物; 寄售;托运;托付;交付; 以寄售方式 |
-| debt-ridden | n. | 负债累累 |
-| diversified | adj. | 多样化的；多种经营的 |
-| divestiture | n. | 脱去; 剥夺财产或权利;夺去称号 |
-| econometric | adj. | 计量经济学的 |
-| fluctuation | n. | 波动,涨落,起伏 |
-| foreclosure | n. | 丧失抵押品赎回权,排斥 |
-| incentivize | vt. | 以物质刺激鼓励 |
-| incorporate | vt. | 包含, 加上, 吸收; 把…合并, 使并入; 组成公司 |
-| liabilities | | 债务,负债 |
-| liquidation | n. | 清偿，结算；清算，清除 |
-| merchandise | n. | 商品, 货物; 买卖, 经营 |
-| procurement | n. | 获得;采购 |
-| Proprietary | adj. | 专卖的；专营的；专利的; 所有的；所有权的；业主的 Proprietary控股公司 |
-| speculation | n. | 思考，思索; 推断，推测；猜测; 投机活动; 投机买卖，投机生意 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **mercantile** <span class="wpos">adj.</span> | 贸易的，商业的；商人的；经商的; 商船; 商船人员; 商业票据 |
+| **monopolize** <span class="wpos">vt.</span> | 垄断，独占；专卖，专营 |
+| **offsetting** <span class="wpos">n.</span> | 偏置法 |
+| **outperform** <span class="wpos">vt.</span> | 做得比…更好；胜过 |
+| **proprietor** <span class="wpos">n.</span> | 所有人,业主 |
+| **prosperous** <span class="wpos">adj.</span> | 成功的, 繁荣的, 兴旺的 |
+| **recompense** <span class="wpos">vt.</span> | 赔偿；酬谢; 赔偿; 赔偿；报酬 |
+| **remittance** <span class="wpos">n.</span> | 汇寄; 汇款;汇款额 |
+| **streamline** <span class="wpos">vt.</span> | 把…做成流线型; 简化使效率更高 |
+| **subsidiary** <span class="wpos">adj.</span> | 附带的, 附属的, 次要的; 附属事物, 附属机构, 子公司 |
+| **throughput** <span class="wpos">n.</span> | 生产量,生产能力,吞吐量 |
+| **turnaround** <span class="wpos">n.</span> | 车辆回转场; 周转时间 |
+| **underwrite** <span class="wpos">v.</span> | 承担经济责任; 承担保险责任；承保; 包销，承销 |
+| **volatility** <span class="wpos">n.</span> | 不稳定性，暂时性；挥发性 |
+| **acquisition** <span class="wpos">n.</span> | 获得物，获得；收购 |
+| **consignment** <span class="wpos">n.</span> | 托付货物;托卖货物; 寄售;托运;托付;交付; 以寄售方式 |
+| **debt-ridden** <span class="wpos">n.</span> | 负债累累 |
+| **diversified** <span class="wpos">adj.</span> | 多样化的；多种经营的 |
+| **divestiture** <span class="wpos">n.</span> | 脱去; 剥夺财产或权利;夺去称号 |
+| **econometric** <span class="wpos">adj.</span> | 计量经济学的 |
+| **fluctuation** <span class="wpos">n.</span> | 波动,涨落,起伏 |
+| **foreclosure** <span class="wpos">n.</span> | 丧失抵押品赎回权,排斥 |
+| **incentivize** <span class="wpos">vt.</span> | 以物质刺激鼓励 |
+| **incorporate** <span class="wpos">vt.</span> | 包含, 加上, 吸收; 把…合并, 使并入; 组成公司 |
+| **liabilities** | 债务,负债 |
+| **liquidation** <span class="wpos">n.</span> | 清偿，结算；清算，清除 |
+| **merchandise** <span class="wpos">n.</span> | 商品, 货物; 买卖, 经营 |
+| **procurement** <span class="wpos">n.</span> | 获得;采购 |
+| **Proprietary** <span class="wpos">adj.</span> | 专卖的；专营的；专利的; 所有的；所有权的；业主的 Proprietary控股公司 |
+| **speculation** <span class="wpos">n.</span> | 思考，思索; 推断，推测；猜测; 投机活动; 投机买卖，投机生意 |
+:::
+:::
+::::
 
 ### The Anatomy of a Deal
 
+:::: {.columns}
+::: {.column width="57%"}
 A seasoned **entrepreneur** rarely enters a **speculative** venture without first running the numbers. Before any **transaction** clears, her **consolidated** balance sheet must show the **wherewithal** — the actual cash on hand — to cover every **disbursement**, from payroll to supplier invoices. The **bean counter** at the back of the room, half-hidden behind spreadsheets, tracks **depreciation** on the warehouse equipment and maps out a careful **amortization** schedule for the building loan, ensuring that debt shrinks at a pace the business can sustain.
 
 What the firm owes is a matter of **indebtedness**, and every **contingencies** line in the budget exists precisely because reality rarely follows the plan. When a rival **incorporated** conglomerate tables a low-ball bid, the board issues a **counter offer**, coached by an **intermediary** who specialises in **intermediation** between parties who would rather not speak directly. The whole negotiation is a textbook study in **monopolistic** pressure — the **front-runner** in the industry flexing market muscle, while the smaller **multinational** scrambles to stay relevant.
 
 The economics are just as layered. An **econometrics** model built by a junior analyst maps out the **countervailing** forces: rising raw-material costs on one side, a **cost effective** logistics overhaul on the other. **Fixed-income** instruments cushion the **conglomeration** of risks, and any **reimbursement** owed to vendors flows through a tightly audited **proprietorship** account. A **mercantilist** reading of the deal would focus purely on the trade surplus it might generate; a modern reading adds a **disincentive** clause — penalties steep enough to discourage either side from walking away. The **residual claim** on whatever value remains after creditors are paid belongs, in the end, to the shareholders who believed in the idea from the start — even when, browsing the numbers over coffee at a **grocery store** deli counter, none of it looked remotely certain.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| speculative | adj. | 思考的,思索的,推测出的; 投机的,投机生意的; 带着疑问的；好奇的 |
-| transaction | n. | 处理，办理，执行; 交易；事务 |
-| wherewithal | n. | 为做某事而需要的钱 |
-| amortization | n. | 分期偿还，摊提; 折旧；缓冲；减震; 分期注销 |
-| bean counter | | 善于计算的人 |
-| consolidated | adj. | 加固的;整理过的;统一的 |
-| depreciation | n. | 折旧; 货币贬值; 跌价，减值 |
-| disbursement | n. | 支付,支出; 支付款 |
-| disincentive | adj. | 妨碍活动的; 使受挫折的事物 |
-| econometrics | n. | 计量经济学 |
-| entrepreneur | n. | 企业家; 主办人 |
-| fixed-income | | 固定收益（类金融工具） |
-| front-runner | n. | 赛跑中跑在前头的人,竞争中的领先者 |
-| incorporated | adj. | 股份有限的,组成公司的 |
-| indebtedness | n. | 受恩惠,亏欠,债务 |
-| intermediary | n. | 中间人;调解人 |
-| mercantilist | n. | 重商主义者 |
-| monopolistic | adj. | 独占的,垄断的,专利的 |
-| transactions | | 会报 |
-| contingencies | | 不可预见费 |
-| counter offer | n. | 还盘,还价 |
-| grocery store | | 杂货店 |
-| multinational | adj. | 多国的; 跨国公司 |
-| reimbursement | n. | 偿还;退款; 补偿;赔偿 |
-| conglomeration | n. | 团块,聚集,混合物 |
-| cost effective | | 有成本效益的；划算的 |
-| countervailing | adj. | 补偿的; 弥补的; 抵消的 |
-| intermediation | n. | 调停,仲裁,调解 |
-| proprietorship | n. | 所有 |
-| residual claim | | 剩余索取权 |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **speculative** <span class="wpos">adj.</span> | 思考的,思索的,推测出的; 投机的,投机生意的; 带着疑问的；好奇的; 思考地,思索地; 投机地; … |
+| **transaction** <span class="wpos">n.</span> | 处理，办理，执行; 交易；事务 |
+| **wherewithal** <span class="wpos">n.</span> | 为做某事而需要的钱 |
+| **amortization** <span class="wpos">n.</span> | 不动产的捐赠; 分期偿还，摊提; 折旧；缓冲；减震; 分期注销; 偿还金; 熄灭 |
+| **bean counter** | 善于计算的人 |
+| **consolidated** <span class="wpos">adj.</span> | 加固的;整理过的;统一的 |
+| **depreciation** <span class="wpos">n.</span> | 折旧; 货币贬值; 跌价，减值; 贬低；轻视，小看; 蹂躏 |
+| **disbursement** <span class="wpos">n.</span> | 支付,支出; 支付款 |
+| **disincentive** <span class="wpos">adj.</span> | 妨碍活动的; 使受挫折的事物 |
+| **econometrics** <span class="wpos">n.</span> | 计量经济学 |
+| **entrepreneur** <span class="wpos">n.</span> | 〈法〉企业家; 主办人 |
+| **fixed-income** |  |
+| **front-runner** <span class="wpos">n.</span> | 赛跑中跑在前头的人,竞争中的领先者 |
+| **incorporated** <span class="wpos">adj.</span> | 股份有限的,组成公司的 |
+| **indebtedness** <span class="wpos">n.</span> | 受恩惠,亏欠,债务 |
+| **intermediary** <span class="wpos">n.</span> | 中间人;调解人 |
+| **mercantilist** <span class="wpos">n.</span> | 重商主义者 |
+| **monopolistic** <span class="wpos">adj.</span> | 独占的,垄断的,专利的 |
+| **transactions** | 会报 |
+| **contingencies** | 不可预见费 |
+| **counter offer** <span class="wpos">n.</span> | 还盘,还价 |
+| **grocery store** | 杂货店 |
+| **multinational** <span class="wpos">adj.</span> | 多国的; 跨国公司 |
+| **reimbursement** <span class="wpos">n.</span> | 偿还;退款; 补偿;赔偿 |
+| **conglomeration** <span class="wpos">n.</span> | 团块,聚集,混合物 |
+| **cost effective** | 有成本效益的；划算的；成本效率 |
+| **countervailing** <span class="wpos">adj.</span> | 补偿的; 弥补的; 抵消的 |
+| **intermediation** <span class="wpos">n.</span> | 调停,仲裁,调解 |
+| **proprietorship** <span class="wpos">n.</span> | 所有 |
+| **residual claim** |  |
+:::
+:::
+::::
 
 ### The Deal That Almost Wasn't
 
+:::: {.columns}
+::: {.column width="57%"}
 The consulting team had spent weeks mapping the **socio-economic** landscape before the board would sign off on anything. Their central worry was **cannibalization** — would the new retail bond product simply steal customers from the firm's existing fund offerings rather than grow the overall book? The answer hinged on the founder's track record: decades of **entrepreneurship** had taught her that cannibalizing yourself beat letting a rival do it for you.
 
 The bonds themselves were structured as **over-the-counter** instruments, sold directly to institutional buyers without touching an exchange. Alongside them, the team bundled a **consumer application** — a clean mobile dashboard where retail clients could track yield in real time. To attract top talent for the launch, HR assembled competitive **compensation packages** that mixed base salary with carried interest. The trickiest line item on the term sheet, however, remained the **limited partnership exposures** inherited from the previous fund: until those positions were wound down, every new investor would be taking on someone else's legacy risk.
-
-::: {.callout-note collapse="true"}
-## 本篇生词
-
-| 词 | 词性 | 释义 |
-|---|---|---|
-| socio-economic | | 社会经济学的 |
-| cannibalization | | 同型装配 |
-| entrepreneurship | | 企业家能力/职能 |
-| over-the-counter | adj. | 不通过交易所直接售给顾客的 |
-| consumer application | | |
-| compensation packages | | |
-| limited partnership exposures, | | |
-
 :::
+::: {.column width="3%"}
+:::
+::: {.column width="40%"}
+::: {.wordbox}
+| 词 | 释义 |
+|:--|:--|
+| **socio-economic** | 社会经济学的 |
+| **cannibalization** | 同型装配 |
+| **entrepreneurship** | 企业家能力/职能 |
+| **over-the-counter** <span class="wpos">adj.</span> | 不通过交易所直接售给顾客的 |
+| **consumer application** |  |
+| **compensation packages** |  |
+| **limited partnership exposures,** |  |
+:::
+:::
+::::

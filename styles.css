@@ -112,3 +112,21 @@ table code, .breakdown {
 
 /* 阅读区行宽与留白 */
 main p, main li { max-width: 70ch; }
+
+/* 旧词复习：右栏常驻生词框 */
+.wordbox {
+  font-size: 0.84rem;
+  background: var(--accent-soft);
+  border: 1px solid var(--rule);
+  border-radius: 0.5rem;
+  padding: 0.3rem 0.7rem 0.5rem;
+  position: sticky;
+  top: 1rem;
+}
+.wordbox table { font-size: 0.84rem; margin: 0; width: 100%; }
+.wordbox td { padding: 0.18rem 0.35rem; vertical-align: top; line-height: 1.35; }
+.wordbox thead { display: none; }
+.wordbox strong { color: var(--accent); font-weight: 700; }
+.wpos { color: var(--text-soft); font-size: 0.72rem; }
+/* 两栏内短文不受 70ch 限制，铺满左栏 */
+.columns .column p, .columns .column li { max-width: none; }
