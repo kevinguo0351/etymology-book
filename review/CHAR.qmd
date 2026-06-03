@@ -2,873 +2,184 @@
 
 
 
-> 本主题共 17 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 17 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### The Dinner Party That Revealed Everything
 
-:::: {.columns}
-::: {.column width="57%"}
-Margaret was **notoriously** difficult to please. As the host, she was **apt** to find fault with the smallest details — a glass placed an inch off-center, a sauce that struck her as **lame** and underseasoned. Her guests knew better than to **err** in her presence. Yet no one could deny the woman had **wit**: her one-liners could silence a room, and she deployed them with the **tact** of a surgeon — cutting, but never quite killing.
+Margaret was [notoriously]{.vocab tabindex="0" data-def="notoriously · adv. 恶名昭彰地,声名狼藉地; 著名地,众所周知地"} difficult to please. As the host, she was [apt]{.vocab tabindex="0" data-def="apt · adj. 易于…的, 有…倾向的; 恰当的, 适宜的; 聪明的, 灵巧的 APTabbr. Advanced …"} to find fault with the smallest details — a glass placed an inch off-center, a sauce that struck her as [lame]{.vocab tabindex="0" data-def="lame · adj. 瘸的; 站不住脚的, 差劲的, 蹩脚的"} and underseasoned. Her guests knew better than to [err]{.vocab tabindex="0" data-def="err · vi. 犯错误；做错事"} in her presence. Yet no one could deny the woman had [wit]{.vocab tabindex="0" data-def="wit · n. 能力，智力；明智; 理解力；颖悟力；头脑; 才思敏捷说话诙谐的人；机智幽默的人; 措辞巧妙的能力；风…"}: her one-liners could silence a room, and she deployed them with the [tact]{.vocab tabindex="0" data-def="tact · n. 老练，圆通，得体，乖巧 TACTabbr. Transistor and Component Tes…"} of a surgeon — cutting, but never quite killing.
 
-Across the table sat Roland, a self-made financier whose **grit** had carried him from a cramped flat in Leeds to a penthouse with a view. He was not a man of **ruly** habits — his desk was chaos, his schedule a fiction — but he possessed the **sane**, grounded judgment that made investors trust him without fully knowing why. He was **adept** at reading a room, and tonight he read trouble. His companion, a **bold** young columnist named Cleo, was already two glasses deep and growing **nosy**, peppering the table with questions no one had agreed to answer. She was not a **sage**, but she had a journalist's instinct: push until something gives.
+Across the table sat Roland, a self-made financier whose [grit]{.vocab tabindex="0" data-def="grit · n. 砂砾；勇气，决心；粗砂岩 在……上铺砂砾；咬紧牙关；吱嘎吱嘎地移动"} had carried him from a cramped flat in Leeds to a penthouse with a view. He was not a man of [ruly]{.vocab tabindex="0" data-def="ruly · adj. 有秩序的；有条不紊的"} habits — his desk was chaos, his schedule a fiction — but he possessed the [sane]{.vocab tabindex="0" data-def="sane · adj. 心智健全的；神志正常的; 明智的，稳健的，理智的"}, grounded judgment that made investors trust him without fully knowing why. He was [adept]{.vocab tabindex="0" data-def="adept · adj. 熟练的；擅长…的; 内行；能手"} at reading a room, and tonight he read trouble. His companion, a [bold]{.vocab tabindex="0" data-def="bold · adj. 勇敢的, 无畏的; 冒失的, 鲁莽的; 明显的, 醒目的; 粗体的, 黑体的"} young columnist named Cleo, was already two glasses deep and growing [nosy]{.vocab tabindex="0" data-def="nosy · adj. 好管闲事的；爱追问的; 大鼻子的; 有香味的; 包打听；好管闲事的人"}, peppering the table with questions no one had agreed to answer. She was not a [sage]{.vocab tabindex="0" data-def="sage · n. 圣人, 智者; 贤明的, 貌似聪明的 Sage塞奇"}, but she had a journalist's instinct: push until something gives.
 
-Beside Cleo slouched her younger brother Dev — a certified **putz** in the eyes of their mother, a source of endless **vice** and questionable decisions. He'd arrived with **rizz** that impressed no one over thirty, and a history of **lewd** remarks that had earned him a **curt** reprimand at every family gathering for the past five years. He was **vain** about his hair, **glib** about his failures, and **tame** enough in public only when he sensed he was outnumbered. A seasoned **whiz** at getting people to dismiss him, he was, in truth, the most **wary** person in the room — watching every exit, every expression, every shift in mood.
+Beside Cleo slouched her younger brother Dev — a certified [putz]{.vocab tabindex="0" data-def="putz · n. 〈美〉〈非正〉①笨蛋，傻瓜②阴茎"} in the eyes of their mother, a source of endless [vice]{.vocab tabindex="0" data-def="vice · n. 堕落，邪恶；不良习气，恶习; 罪行，道德败坏行为; 老虎钳；台钳; pref. 副职的；副的"} and questionable decisions. He'd arrived with [rizz]{.vocab tabindex="0" data-def="rizz · n. 魅力"} that impressed no one over thirty, and a history of [lewd]{.vocab tabindex="0" data-def="lewd · adj. 淫荡的；猥亵的；下流的"} remarks that had earned him a [curt]{.vocab tabindex="0" data-def="curt · adj. 简略的；简要的；草率的；简单粗暴的"} reprimand at every family gathering for the past five years. He was [vain]{.vocab tabindex="0" data-def="vain · adj. 徒劳的；虚荣的；空虚的"} about his hair, [glib]{.vocab tabindex="0" data-def="glib · adj. 油腔滑调的；不诚恳的；未经思考的；肤浅的"} about his failures, and [tame]{.vocab tabindex="0" data-def="tame · adj. 驯服的；乏味的；顺从的；平淡的; 驯养；使变得平淡；制服; 变得驯服"} enough in public only when he sensed he was outnumbered. A seasoned [whiz]{.vocab tabindex="0" data-def="whiz · n. 飕飕声; 能手，专家，优秀的学生；有吸引力的东西; 发出飕飕声; 高速移动"} at getting people to dismiss him, he was, in truth, the most [wary]{.vocab tabindex="0" data-def="wary · adj. 机警的；谨慎的；惟恐的；考虑周到的"} person in the room — watching every exit, every expression, every shift in mood.
 
-It was Margaret's old friend Dr. Patel who finally broke the tension. She was **aloof** enough to stand apart from the evening's social theatre, and **sane** enough not to perform in it. She had dealt with **evil** in its clinical forms — **foul** minds, **vile** impulses, the full catalogue of human darkness — and had emerged not hardened but careful. She spoke when it mattered. Tonight, it mattered. A single, measured observation — the kind that only a person of real **tact** and accumulated **wit** can land — and the table exhaled. Even the **brat** went quiet. Even the **dumb** silence that had been building for an hour dissolved.
+It was Margaret's old friend Dr. Patel who finally broke the tension. She was [aloof]{.vocab tabindex="0" data-def="aloof · adj. 冷淡的，疏远的，淡漠的; 远离的；孤零零的; 分开地；避开地; 冷淡地；冷漠地; 脱离，离开"} enough to stand apart from the evening's social theatre, and [sane]{.vocab tabindex="0" data-def="sane · adj. 心智健全的；神志正常的; 明智的，稳健的，理智的"} enough not to perform in it. She had dealt with [evil]{.vocab tabindex="0" data-def="evil · adj. 邪恶的；有害的；不幸的；讨厌的; 罪恶，邪恶；不幸"} in its clinical forms — [foul]{.vocab tabindex="0" data-def="foul · adj. 邪恶的；污秽的；犯规的；淤塞的; 弄脏；犯规；淤塞；缠住，妨害; 犯规；缠结；腐烂; 犯规；缠绕; …"} minds, [vile]{.vocab tabindex="0" data-def="vile · adj. 卑鄙的；低廉的；肮脏的；邪恶的"} impulses, the full catalogue of human darkness — and had emerged not hardened but careful. She spoke when it mattered. Tonight, it mattered. A single, measured observation — the kind that only a person of real [tact]{.vocab tabindex="0" data-def="tact · n. 老练，圆通，得体，乖巧 TACTabbr. Transistor and Component Tes…"} and accumulated [wit]{.vocab tabindex="0" data-def="wit · n. 能力，智力；明智; 理解力；颖悟力；头脑; 才思敏捷说话诙谐的人；机智幽默的人; 措辞巧妙的能力；风…"} can land — and the table exhaled. Even the [brat]{.vocab tabindex="0" data-def="brat · n. 乳臭未干的小孩；顽童"} went quiet. Even the [dumb]{.vocab tabindex="0" data-def="dumb · adj. 哑的; 说不出话的; 愚蠢的"} silence that had been building for an hour dissolved.
 
-Margaret refilled the wine. No small **feat**.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **notoriously** <span class="wpos">adv.</span> | 恶名昭彰地,声名狼藉地; 著名地,众所周知地 |
-| **apt** <span class="wpos">adj.</span> | 易于…的, 有…倾向的; 恰当的, 适宜的; 聪明的, 灵巧的 APTabbr. Advanced … |
-| **err** <span class="wpos">vi.</span> | 犯错误；做错事 |
-| **wit** <span class="wpos">n.</span> | 能力，智力；明智; 理解力；颖悟力；头脑; 才思敏捷说话诙谐的人；机智幽默的人; 措辞巧妙的能力；风… |
-| **bold** <span class="wpos">adj.</span> | 勇敢的, 无畏的; 冒失的, 鲁莽的; 明显的, 醒目的; 粗体的, 黑体的 |
-| **brat** <span class="wpos">n.</span> | 乳臭未干的小孩；顽童 |
-| **curt** <span class="wpos">adj.</span> | 简略的；简要的；草率的；简单粗暴的 |
-| **dumb** <span class="wpos">adj.</span> | 哑的; 说不出话的; 愚蠢的 |
-| **evil** <span class="wpos">adj.</span> | 邪恶的；有害的；不幸的；讨厌的; 罪恶，邪恶；不幸 |
-| **feat** <span class="wpos">n.</span> | 技艺表演；功绩，壮举; 合适的；灵巧的 |
-| **foul** <span class="wpos">adj.</span> | 邪恶的；污秽的；犯规的；淤塞的; 弄脏；犯规；淤塞；缠住，妨害; 犯规；缠结；腐烂; 犯规；缠绕; … |
-| **glib** <span class="wpos">adj.</span> | 油腔滑调的；不诚恳的；未经思考的；肤浅的 |
-| **grit** <span class="wpos">n.</span> | 砂砾；勇气，决心；粗砂岩 在……上铺砂砾；咬紧牙关；吱嘎吱嘎地移动 |
-| **lame** <span class="wpos">adj.</span> | 瘸的; 站不住脚的, 差劲的, 蹩脚的 |
-| **lewd** <span class="wpos">adj.</span> | 淫荡的；猥亵的；下流的 |
-| **nosy** <span class="wpos">adj.</span> | 好管闲事的；爱追问的; 大鼻子的; 有香味的; 包打听；好管闲事的人 |
-| **putz** <span class="wpos">n.</span> | 〈美〉〈非正〉①笨蛋，傻瓜②阴茎 |
-| **rizz** <span class="wpos">n.</span> | 魅力 |
-| **ruly** <span class="wpos">adj.</span> | 有秩序的；有条不紊的 |
-| **sage** <span class="wpos">n.</span> | 圣人, 智者; 贤明的, 貌似聪明的 Sage塞奇 |
-| **sane** <span class="wpos">adj.</span> | 心智健全的；神志正常的; 明智的，稳健的，理智的 |
-| **tact** <span class="wpos">n.</span> | 老练，圆通，得体，乖巧 TACTabbr. Transistor and Component Tes… |
-| **tame** <span class="wpos">adj.</span> | 驯服的；乏味的；顺从的；平淡的; 驯养；使变得平淡；制服; 变得驯服 |
-| **vain** <span class="wpos">adj.</span> | 徒劳的；虚荣的；空虚的 |
-| **vice** <span class="wpos">n.</span> | 堕落，邪恶；不良习气，恶习; 罪行，道德败坏行为; 老虎钳；台钳; pref. 副职的；副的 |
-| **vile** <span class="wpos">adj.</span> | 卑鄙的；低廉的；肮脏的；邪恶的 |
-| **wary** <span class="wpos">adj.</span> | 机警的；谨慎的；惟恐的；考虑周到的 |
-| **whiz** <span class="wpos">n.</span> | 飕飕声; 能手，专家，优秀的学生；有吸引力的东西; 发出飕飕声; 高速移动 |
-| **adept** <span class="wpos">adj.</span> | 熟练的；擅长…的; 内行；能手 |
-| **aloof** <span class="wpos">adj.</span> | 冷淡的，疏远的，淡漠的; 远离的；孤零零的; 分开地；避开地; 冷淡地；冷漠地; 脱离，离开 |
-:::
-:::
-::::
+Margaret refilled the wine. No small [feat]{.vocab tabindex="0" data-def="feat · n. 技艺表演；功绩，壮举; 合适的；灵巧的"}.
 
 ### The Talk of the Town
 
-:::: {.columns}
-::: {.column width="57%"}
-The village had always been full of **characters**. Old Reeves was the sort of **bigot** who refused to rent his cottage to anyone from the next county, and his manner was just as **blunt** as his rusted plough blade. His references were almost certainly **bogus** — people whispered he had never actually served on any parish council — yet he held himself with such **brash** certainty that newcomers rarely questioned him. His assistant, a **brisk** young man called Dodd, moved through every task with mechanical efficiency and showed about as much warmth as a **brute** pulling a cart. Dodd was, however, undeniably **canny**; he always knew which grain merchant would give the best price before anyone else had thought to ask.
+The village had always been full of **characters**. Old Reeves was the sort of [bigot]{.vocab tabindex="0" data-def="bigot · n. 抱偏见的人；执拗的人；心胸狭窄的人"} who refused to rent his cottage to anyone from the next county, and his manner was just as [blunt]{.vocab tabindex="0" data-def="blunt · adj. 钝的，不锋利的；生硬的；直率的; 使迟钝"} as his rusted plough blade. His references were almost certainly [bogus]{.vocab tabindex="0" data-def="bogus · adj. 假的,假冒的,伪造的"} — people whispered he had never actually served on any parish council — yet he held himself with such [brash]{.vocab tabindex="0" data-def="brash · adj. 仓促的，性急的；无礼的，傲慢的; 骤雨；碎片；胃灼热"} certainty that newcomers rarely questioned him. His assistant, a [brisk]{.vocab tabindex="0" data-def="brisk · adj. 敏锐的，活泼的，轻快的；凛冽的; 活跃起来；变得轻快; 使……活泼；使……轻快；使……兴旺"} young man called Dodd, moved through every task with mechanical efficiency and showed about as much warmth as a [brute]{.vocab tabindex="0" data-def="brute · adj. 无理性的；残忍的; 畜生；残暴的人"} pulling a cart. Dodd was, however, undeniably [canny]{.vocab tabindex="0" data-def="canny · adj. 精明的，狡猾的; 精明地; 精明"}; he always knew which grain merchant would give the best price before anyone else had thought to ask.
 
-Then there was Clara, who had a natural **charm** that made even a bad harvest feel manageable. She had no patience for **cocky** posturing or **corny** speeches at the harvest supper, and she said so with cheerful frankness. Her methods were occasionally **crude** — she once mended a fence post with baling twine and a prayer — but they held. Life in the village could be **cruel** in small, grinding ways: the work was hard, the winters long, the good posts **cushy** only in the imagination. The local **cynic**, a retired schoolmaster named Fogg, was **famed** for his ability to deflate any optimism within earshot. He would **feign** polite interest and then, just when you thought he was listening, puncture the whole conversation with a single flat remark.
+Then there was Clara, who had a natural [charm]{.vocab tabindex="0" data-def="charm · n. 魅力，吸引力; 魔力，魔法，咒语; 使高兴，使着迷；吸引; 使中魔法，控制"} that made even a bad harvest feel manageable. She had no patience for [cocky]{.vocab tabindex="0" data-def="cocky · adj. 狂妄自信的"} posturing or [corny]{.vocab tabindex="0" data-def="corny · adj. 平淡的；过时的，陈旧的"} speeches at the harvest supper, and she said so with cheerful frankness. Her methods were occasionally [crude]{.vocab tabindex="0" data-def="crude · adj. 粗糙的；粗鲁的；天然的，未加工的；粗略的; 天然的物质；原油"} — she once mended a fence post with baling twine and a prayer — but they held. Life in the village could be [cruel]{.vocab tabindex="0" data-def="cruel · adj. 残酷的, 残忍的; 使人痛苦的, 让人受难的"} in small, grinding ways: the work was hard, the winters long, the good posts [cushy]{.vocab tabindex="0" data-def="cushy · adj. 容易的, 轻松的"} only in the imagination. The local [cynic]{.vocab tabindex="0" data-def="cynic · n. 愤世嫉俗者,讽世者"}, a retired schoolmaster named Fogg, was [famed]{.vocab tabindex="0" data-def="famed · adj. 著名的"} for his ability to deflate any optimism within earshot. He would [feign]{.vocab tabindex="0" data-def="feign · vt. 假装；装作；捏造；想象; 假装；装作；作假；佯作"} polite interest and then, just when you thought he was listening, puncture the whole conversation with a single flat remark.
 
-Clara, though, had a **flair** for people. She spotted Fogg for what he was — not a **freak** of nature, just a lonely man who had confused sharpness with depth. She also spotted young Pip, who everyone else dismissed as **goofy** and slow. He was, in truth, neither **handy** with abstract problems nor quick with words, but he had a patience the others lacked. Life, she thought, had been **harsh** to Pip precisely because people were too **hasty** in their judgements. He was considered **inept** at school, but give him a broken clock and he would find its fault inside an hour. He had a genuine **knack** for mechanical things, an instinct no lesson had put there.
+Clara, though, had a [flair]{.vocab tabindex="0" data-def="flair · n. 天资;天分；眼光;才华"} for people. She spotted Fogg for what he was — not a [freak]{.vocab tabindex="0" data-def="freak · n. 畸形生物；怪物; 反常的事，怪事; 有怪癖的人，奇形怪状的人; 对某一事爱好入迷者; 反常的，稀罕的…"} of nature, just a lonely man who had confused sharpness with depth. She also spotted young Pip, who everyone else dismissed as [goofy]{.vocab tabindex="0" data-def="goofy · adj. 愚笨的,傻瓜的"} and slow. He was, in truth, neither [handy]{.vocab tabindex="0" data-def="handy · adj. 手边的，就近的；便利的；容易取得的；敏捷的"} with abstract problems nor quick with words, but he had a patience the others lacked. Life, she thought, had been [harsh]{.vocab tabindex="0" data-def="harsh · adj. 粗糙的；刺耳的；严厉的；严酷的；刺目的"} to Pip precisely because people were too [hasty]{.vocab tabindex="0" data-def="hasty · adj. 仓促完成的, 急忙的, 急速的; 草率的, 轻率的"} in their judgements. He was considered [inept]{.vocab tabindex="0" data-def="inept · adj. 不适当的；笨拙的 INEPT不灵敏核极化转移增益法"} at school, but give him a broken clock and he would find its fault inside an hour. He had a genuine [knack]{.vocab tabindex="0" data-def="knack · n. 诀窍；本领；熟练技术；巧妙手法"} for mechanical things, an instinct no lesson had put there.
 
-The men who swaggered into the market with their **macho** performances impressed no one who actually had **merit** to show. The village had seen enough **moron** bravado to last several lifetimes. Clara preferred the **naive** honesty of someone who simply did not know yet over the **nasty** sarcasm of someone who thought they knew everything. And Pip, for all his reputation as the **nutty** one who talked to machinery, turned out to be the person everyone came to when something broke.
+The men who swaggered into the market with their [macho]{.vocab tabindex="0" data-def="macho · adj. 大男子气概的"} performances impressed no one who actually had [merit]{.vocab tabindex="0" data-def="merit · n. 功勋，功劳；价值; 长处，优点; 值得；应获得"} to show. The village had seen enough [moron]{.vocab tabindex="0" data-def="moron · n. 痴愚者；笨人；傻瓜"} bravado to last several lifetimes. Clara preferred the [naive]{.vocab tabindex="0" data-def="naive · adj. 幼稚的; 无经验的; 单纯的; 天真的; 轻信的"} honesty of someone who simply did not know yet over the [nasty]{.vocab tabindex="0" data-def="nasty · adj. 下流的；肮脏的；脾气不好的；险恶的; 令人不快的事物; 性的吸引力"} sarcasm of someone who thought they knew everything. And Pip, for all his reputation as the [nutty]{.vocab tabindex="0" data-def="nutty · adj. 多坚果的,产坚果的,坚果般的,〈口〉狂热的"} one who talked to machinery, turned out to be the person everyone came to when something broke.
 
 Which, in a village, was almost constantly.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **bigot** <span class="wpos">n.</span> | 抱偏见的人；执拗的人；心胸狭窄的人 |
-| **blunt** <span class="wpos">adj.</span> | 钝的，不锋利的；生硬的；直率的; 使迟钝 |
-| **bogus** <span class="wpos">adj.</span> | 假的,假冒的,伪造的 |
-| **brash** <span class="wpos">adj.</span> | 仓促的，性急的；无礼的，傲慢的; 骤雨；碎片；胃灼热 |
-| **brisk** <span class="wpos">adj.</span> | 敏锐的，活泼的，轻快的；凛冽的; 活跃起来；变得轻快; 使……活泼；使……轻快；使……兴旺 |
-| **brute** <span class="wpos">adj.</span> | 无理性的；残忍的; 畜生；残暴的人 |
-| **canny** <span class="wpos">adj.</span> | 精明的，狡猾的; 精明地; 精明 |
-| **charm** <span class="wpos">n.</span> | 魅力，吸引力; 魔力，魔法，咒语; 使高兴，使着迷；吸引; 使中魔法，控制 |
-| **cocky** <span class="wpos">adj.</span> | 狂妄自信的 |
-| **corny** <span class="wpos">adj.</span> | 平淡的；过时的，陈旧的 |
-| **crude** <span class="wpos">adj.</span> | 粗糙的；粗鲁的；天然的，未加工的；粗略的; 天然的物质；原油 |
-| **cruel** <span class="wpos">adj.</span> | 残酷的, 残忍的; 使人痛苦的, 让人受难的 |
-| **cushy** <span class="wpos">adj.</span> | 容易的, 轻松的 |
-| **cynic** <span class="wpos">n.</span> | 愤世嫉俗者,讽世者 |
-| **famed** <span class="wpos">adj.</span> | 著名的 |
-| **feign** <span class="wpos">vt.</span> | 假装；装作；捏造；想象; 假装；装作；作假；佯作 |
-| **flair** <span class="wpos">n.</span> | 天资;天分；眼光;才华 |
-| **freak** <span class="wpos">n.</span> | 畸形生物；怪物; 反常的事，怪事; 有怪癖的人，奇形怪状的人; 对某一事爱好入迷者; 反常的，稀罕的… |
-| **goofy** <span class="wpos">adj.</span> | 愚笨的,傻瓜的 |
-| **handy** <span class="wpos">adj.</span> | 手边的，就近的；便利的；容易取得的；敏捷的 |
-| **harsh** <span class="wpos">adj.</span> | 粗糙的；刺耳的；严厉的；严酷的；刺目的 |
-| **hasty** <span class="wpos">adj.</span> | 仓促完成的, 急忙的, 急速的; 草率的, 轻率的 |
-| **inept** <span class="wpos">adj.</span> | 不适当的；笨拙的 INEPT不灵敏核极化转移增益法 |
-| **knack** <span class="wpos">n.</span> | 诀窍；本领；熟练技术；巧妙手法 |
-| **macho** <span class="wpos">adj.</span> | 大男子气概的 |
-| **merit** <span class="wpos">n.</span> | 功勋，功劳；价值; 长处，优点; 值得；应获得 |
-| **moron** <span class="wpos">n.</span> | 痴愚者；笨人；傻瓜 |
-| **naive** <span class="wpos">adj.</span> | 幼稚的; 无经验的; 单纯的; 天真的; 轻信的 |
-| **nasty** <span class="wpos">adj.</span> | 下流的；肮脏的；脾气不好的；险恶的; 令人不快的事物; 性的吸引力 |
-| **nutty** <span class="wpos">adj.</span> | 多坚果的,产坚果的,坚果般的,〈口〉狂热的 |
-:::
-:::
-::::
 
 ### The Many Faces of One Office
 
-:::: {.columns}
-::: {.column width="57%"}
-Marcus had a reputation for being **petty** about the tiniest procedural details — he once filed a complaint because someone used blue ink on a form that clearly required black. His colleague Dana was no less exhausting in her own way: a **phony** cheerfulness coated every interaction, her smile calibrated to audience rather than feeling. Between the two of them, the open-plan office had developed a kind of low-grade dread.
+Marcus had a reputation for being [petty]{.vocab tabindex="0" data-def="petty · adj. 小规模的；小气的；琐碎的 Petty佩蒂"} about the tiniest procedural details — he once filed a complaint because someone used blue ink on a form that clearly required black. His colleague Dana was no less exhausting in her own way: a [phony]{.vocab tabindex="0" data-def="phony · adj. 假的；欺骗的; 赝品；骗人的东西; 骗子"} cheerfulness coated every interaction, her smile calibrated to audience rather than feeling. Between the two of them, the open-plan office had developed a kind of low-grade dread.
 
-Then there was Yusuf, who sat in the corner and rarely said a word. He was **prone** to silence, processing everything internally before speaking, which made the **rowdy** cluster near the printer — led by a self-styled **Rambo** named Brett who body-slammed filing cabinets for laughs — deeply alien to him. Yusuf had his own **quirk**, though: he kept a small stuffed sloth on his desk, a private joke against his own legendary **sloth** on Monday mornings. His supervisor once called him a **stoic**, and he accepted it as a compliment. **Sober** in manner, **stiff** in posture, he wore his composure like a second skin.
+Then there was Yusuf, who sat in the corner and rarely said a word. He was [prone]{.vocab tabindex="0" data-def="prone · adj. 易于…的; 很可能…的; 俯卧的"} to silence, processing everything internally before speaking, which made the [rowdy]{.vocab tabindex="0" data-def="rowdy · adj. 吵闹的；粗暴的; 粗暴的人；好吵闹的人"} cluster near the printer — led by a self-styled [Rambo]{.vocab tabindex="0" data-def="Rambo · n. 蓝博"} named Brett who body-slammed filing cabinets for laughs — deeply alien to him. Yusuf had his own [quirk]{.vocab tabindex="0" data-def="quirk · n. 怪癖；急转；借口"}, though: he kept a small stuffed sloth on his desk, a private joke against his own legendary [sloth]{.vocab tabindex="0" data-def="sloth · n. 懒散;懒惰; 树懒"} on Monday mornings. His supervisor once called him a [stoic]{.vocab tabindex="0" data-def="stoic · n. 坚忍克己者，坦然面对困难的人 坚忍的；禁欲的 斯多葛派学者；禁欲主义者 斯多葛派的；禁欲主义的"}, and he accepted it as a compliment. [Sober]{.vocab tabindex="0" data-def="sober · adj. 冷静的，清醒的；未醉的; 使醒酒，使清醒；使严肃"} in manner, [stiff]{.vocab tabindex="0" data-def="stiff · adj. 严厉的；呆板的；坚硬的；拘谨的；艰难的; 彻底地；僵硬地; 死尸；令人讨厌者；流通票据；劳动者; 亏…"} in posture, he wore his composure like a second skin.
 
-Opposite in almost every register was Priya. **Witty** without cruelty, **sassy** in the best sense, she had the rare gift of making a **saucy** remark land as warmth rather than offence. She possessed real **savvy** — a street-level **acumen** that no MBA programme could manufacture — and she used it **boldly**, calling out the **brutal** absurdity of quarterly targets in the all-hands without once raising her voice. Her **candid** assessments made the **rigid** compliance team nervous, but even they quietly respected her **rigor**. She was **astute** enough to know when to push and when to let a thing breathe.
+Opposite in almost every register was Priya. [Witty]{.vocab tabindex="0" data-def="witty · adj. 诙谐的；富于机智的"} without cruelty, [sassy]{.vocab tabindex="0" data-def="sassy · adj. ①粗鲁的；无礼的; 时髦的；漂亮的 SASSYabbr. small aperture separa…"} in the best sense, she had the rare gift of making a [saucy]{.vocab tabindex="0" data-def="saucy · adj. 多酱汁的；俏皮的；无礼的，放肆的；火辣的；粗鲁的，粗俗的，不雅的"} remark land as warmth rather than offence. She possessed real [savvy]{.vocab tabindex="0" data-def="savvy · n. 悟性；理解能力; 理解；懂; 理解；知道"} — a street-level [acumen]{.vocab tabindex="0" data-def="acumen · n. 聪明，敏锐"} that no MBA programme could manufacture — and she used it [boldly]{.vocab tabindex="0" data-def="boldly · adv. 大胆地,显眼地"}, calling out the [brutal]{.vocab tabindex="0" data-def="brutal · adj. 残忍的；野蛮的，不讲理的"} absurdity of quarterly targets in the all-hands without once raising her voice. Her [candid]{.vocab tabindex="0" data-def="candid · adj. 耿直的，坦率的，直率的; 自然的，非故意摆出姿势的; 公正的，不偏不倚的; 乘人不备时拍的，偷拍的;…"} assessments made the [rigid]{.vocab tabindex="0" data-def="rigid · adj. 严格的；僵硬的，死板的；坚硬的；精确的"} compliance team nervous, but even they quietly respected her [rigor]{.vocab tabindex="0" data-def="rigor · n. 严格，严厉；严谨，严密; 严酷；艰苦; 寒战; 僵直，强直"}. She was [astute]{.vocab tabindex="0" data-def="astute · adj. 机敏的,精明的,狡猾的; 敏锐地,精明地; 敏锐,精明"} enough to know when to push and when to let a thing breathe.
 
-The office **tamer**, officially titled Head of People, was a **stout**, **stern** woman named Georgina who had spent twenty years handling every variety of human difficulty. She had no patience for the **wimpy** hedging that passed for conflict resolution elsewhere, nor for **phony** apologies that changed nothing. She dealt with the **badass** troublemakers and the quiet sufferers with the same unhurried **spunk**, bringing a **benign** authority to rooms that had been full of noise a moment before. She was not **queer** about her methods — transparency was her only tool — and her **sissy**-shaming refusal to let people shrink from hard conversations had, over time, made the floor genuinely better.
+The office [tamer]{.vocab tabindex="0" data-def="tamer · n. 驯服手"}, officially titled Head of People, was a [stout]{.vocab tabindex="0" data-def="stout · adj. 结实的；矮胖的；勇敢的；激烈的; 矮胖子；烈性啤酒"}, [stern]{.vocab tabindex="0" data-def="stern · n. 船尾；末端; 严厉的；坚定的 Stern斯特恩"} woman named Georgina who had spent twenty years handling every variety of human difficulty. She had no patience for the [wimpy]{.vocab tabindex="0" data-def="wimpy · adj. 〈俚〉懦弱的,无用的,哭哭啼啼的"} hedging that passed for conflict resolution elsewhere, nor for [phony]{.vocab tabindex="0" data-def="phony · adj. 假的；欺骗的; 赝品；骗人的东西; 骗子"} apologies that changed nothing. She dealt with the [badass]{.vocab tabindex="0" data-def="badass · n. 寻衅闹事的人，不合作的人，找麻烦的人; 惯犯; 劣性牲口; 无法无天的，寻衅闹事的人; 坏的；不值钱…"} troublemakers and the quiet sufferers with the same unhurried [spunk]{.vocab tabindex="0" data-def="spunk · n. 勇气；精神；引火柴；怒意; 鼓起勇气; 发怒"}, bringing a [benign]{.vocab tabindex="0" data-def="benign · adj. 良性的；吉利的；和蔼的，亲切的"} authority to rooms that had been full of noise a moment before. She was not [queer]{.vocab tabindex="0" data-def="queer · n. 酷儿; 奇怪的；奇特的; 把…搞得一塌糊涂；破坏…的计划"} about her methods — transparency was her only tool — and her [sissy]{.vocab tabindex="0" data-def="sissy · n. 胆小鬼,女人气的男人,胆小无用的男子; 女人气的,柔弱的"}-shaming refusal to let people shrink from hard conversations had, over time, made the floor genuinely better.
 
 By year's end, even Marcus had quietly stopped counting ink colours.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **petty** <span class="wpos">adj.</span> | 小规模的；小气的；琐碎的 Petty佩蒂 |
-| **phony** <span class="wpos">adj.</span> | 假的；欺骗的; 赝品；骗人的东西; 骗子 |
-| **prone** <span class="wpos">adj.</span> | 易于…的; 很可能…的; 俯卧的 |
-| **queer** <span class="wpos">n.</span> | 酷儿; 奇怪的；奇特的; 把…搞得一塌糊涂；破坏…的计划 |
-| **quirk** <span class="wpos">n.</span> | 怪癖；急转；借口 |
-| **Rambo** <span class="wpos">n.</span> | 蓝博 |
-| **rigid** <span class="wpos">adj.</span> | 严格的；僵硬的，死板的；坚硬的；精确的 |
-| **rigor** <span class="wpos">n.</span> | 严格，严厉；严谨，严密; 严酷；艰苦; 寒战; 僵直，强直 |
-| **rowdy** <span class="wpos">adj.</span> | 吵闹的；粗暴的; 粗暴的人；好吵闹的人 |
-| **sassy** <span class="wpos">adj.</span> | ①粗鲁的；无礼的; 时髦的；漂亮的 SASSYabbr. small aperture separa… |
-| **saucy** <span class="wpos">adj.</span> | 多酱汁的；俏皮的；无礼的，放肆的；火辣的；粗鲁的，粗俗的，不雅的 |
-| **savvy** <span class="wpos">n.</span> | 悟性；理解能力; 理解；懂; 理解；知道 |
-| **sissy** <span class="wpos">n.</span> | 胆小鬼,女人气的男人,胆小无用的男子; 女人气的,柔弱的 |
-| **sloth** <span class="wpos">n.</span> | 懒散;懒惰; 树懒 |
-| **sober** <span class="wpos">adj.</span> | 冷静的，清醒的；未醉的; 使醒酒，使清醒；使严肃 |
-| **spunk** <span class="wpos">n.</span> | 勇气；精神；引火柴；怒意; 鼓起勇气; 发怒 |
-| **stern** <span class="wpos">n.</span> | 船尾；末端; 严厉的；坚定的 Stern斯特恩 |
-| **stiff** <span class="wpos">adj.</span> | 严厉的；呆板的；坚硬的；拘谨的；艰难的; 彻底地；僵硬地; 死尸；令人讨厌者；流通票据；劳动者; 亏… |
-| **stoic** <span class="wpos">n.</span> | 坚忍克己者，坦然面对困难的人 坚忍的；禁欲的 斯多葛派学者；禁欲主义者 斯多葛派的；禁欲主义的 |
-| **stout** <span class="wpos">adj.</span> | 结实的；矮胖的；勇敢的；激烈的; 矮胖子；烈性啤酒 |
-| **tamer** <span class="wpos">n.</span> | 驯服手 |
-| **wimpy** <span class="wpos">adj.</span> | 〈俚〉懦弱的,无用的,哭哭啼啼的 |
-| **witty** <span class="wpos">adj.</span> | 诙谐的；富于机智的 |
-| **acumen** <span class="wpos">n.</span> | 聪明，敏锐 |
-| **astute** <span class="wpos">adj.</span> | 机敏的,精明的,狡猾的; 敏锐地,精明地; 敏锐,精明 |
-| **badass** <span class="wpos">n.</span> | 寻衅闹事的人，不合作的人，找麻烦的人; 惯犯; 劣性牲口; 无法无天的，寻衅闹事的人; 坏的；不值钱… |
-| **benign** <span class="wpos">adj.</span> | 良性的；吉利的；和蔼的，亲切的 |
-| **boldly** <span class="wpos">adv.</span> | 大胆地,显眼地 |
-| **brutal** <span class="wpos">adj.</span> | 残忍的；野蛮的，不讲理的 |
-| **candid** <span class="wpos">adj.</span> | 耿直的，坦率的，直率的; 自然的，非故意摆出姿势的; 公正的，不偏不倚的; 乘人不备时拍的，偷拍的;… |
-:::
-:::
-::::
 
 ### The Gathering at Hartwell Manor
 
-:::: {.columns}
-::: {.column width="57%"}
-Old Hartwell Manor had seen every manner of guest, but the reunion dinner that autumn proved unusually vivid. The host, Professor Crane, was a man of undeniable **genius** and considerable **renown**, yet he wore his reputation with **modest** ease — a quality his admirers found disarming. Beside him stood his longtime colleague Dr. Fenn, whose **candor** was almost surgical: she would tell you exactly what she thought of your argument, your tie, or your soufflé, in that order.
+Old Hartwell Manor had seen every manner of guest, but the reunion dinner that autumn proved unusually vivid. The host, Professor Crane, was a man of undeniable [genius]{.vocab tabindex="0" data-def="genius · n. 天才，天赋；精神"} and considerable [renown]{.vocab tabindex="0" data-def="renown · n. 名望; 声誉"}, yet he wore his reputation with [modest]{.vocab tabindex="0" data-def="modest · adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的"} ease — a quality his admirers found disarming. Beside him stood his longtime colleague Dr. Fenn, whose [candor]{.vocab tabindex="0" data-def="candor · n. 坦白；直率"} was almost surgical: she would tell you exactly what she thought of your argument, your tie, or your soufflé, in that order.
 
-The younger crowd clustered near the hearth. There was Olu, a **mensch** if ever one existed — the sort of person who quietly refills your glass and finds your coat before the rain starts. Next to him, **nerved** up and practically vibrating, stood Petra, whose **feisty** refusal to concede a single point in any debate had already exhausted two **pundits** from the philosophy department. She had little patience for **pseudo**-intellectuals, even less for the **odious** habit of dropping names without earning them, and none whatsoever for **hubris** — ironic, her rivals noted, given how rarely she doubted herself. Across the room, young Callum executed a **clumsy** bow that sent a glass skittering across the sideboard; he caught it, flushed, and laughed at his own **idiocy** with the ease of someone who genuinely did not mind looking foolish. The **quirky** guest in the corner — nobody had caught her name — watched everything with sharp, amused eyes, sketching **pranks** in a pocket notebook she showed no one.
+The younger crowd clustered near the hearth. There was Olu, a [mensch]{.vocab tabindex="0" data-def="mensch · n. 受尊敬的人,高洁的人,公正的人"} if ever one existed — the sort of person who quietly refills your glass and finds your coat before the rain starts. Next to him, [nerved]{.vocab tabindex="0" data-def="nerved · adj. 有勇气的,有精力的,有叶脉的,有翅膀的"} up and practically vibrating, stood Petra, whose [feisty]{.vocab tabindex="0" data-def="feisty · adj. 活跃的；好争吵的；烦躁不安的；坚决而据理力争的"} refusal to concede a single point in any debate had already exhausted two [pundits]{.vocab tabindex="0" data-def="pundit · n. 某一学科的权威;专家 PUNDITabbr. Portable Ultrasonic Non-des…"} from the philosophy department. She had little patience for [pseudo]{.vocab tabindex="0" data-def="pseudo · n. 伪君子；假冒的人; 冒充的，假的"}-intellectuals, even less for the [odious]{.vocab tabindex="0" data-def="odious · adj. 讨厌的；可憎的"} habit of dropping names without earning them, and none whatsoever for [hubris]{.vocab tabindex="0" data-def="hubris · n. 骄傲自大,自恃"} — ironic, her rivals noted, given how rarely she doubted herself. Across the room, young Callum executed a [clumsy]{.vocab tabindex="0" data-def="clumsy · adj. 笨拙的, 笨重的"} bow that sent a glass skittering across the sideboard; he caught it, flushed, and laughed at his own [idiocy]{.vocab tabindex="0" data-def="idiocy · n. 白痴；白痴的行为"} with the ease of someone who genuinely did not mind looking foolish. The [quirky]{.vocab tabindex="0" data-def="quirky · adj. 诡诈的,离奇的"} guest in the corner — nobody had caught her name — watched everything with sharp, amused eyes, sketching [pranks]{.vocab tabindex="0" data-def="pranks · n. 恶作剧; 盛装；打扮"} in a pocket notebook she showed no one.
 
-**Docile** the evening was not. Lady Ashworth, **crusty** and magnificent at eighty-three, interrogated the caterers with the focused intensity of a **maniac** auditing a spreadsheet. Her grandson, a **cheeky** boy of twelve, had already persuaded three adults to swap seats by claiming the fire marshal required it. His mother — famously **frugal**, a woman who reused wrapping paper and considered it a virtue — shot him a look that would have stopped a less **crafty** child cold. Meanwhile, the evening's one true **coward** — a junior editor who had promised the professor a manuscript review, then quietly decided to **renege** — was attempting the **casual** invisibility of someone who hopes not to be noticed. He was, of course, noticed. Professor Crane's gaze, **prompt** and precise, found him across the room. No words were necessary.
+[Docile]{.vocab tabindex="0" data-def="docile · adj. 容易教的;易驾驶的;驯服的; 容易教地;易驾驶地;驯服地; 容易教;易驾驶;驯服"} the evening was not. Lady Ashworth, [crusty]{.vocab tabindex="0" data-def="crusty · n. 皮脆的; 爱发脾气的, 暴躁的"} and magnificent at eighty-three, interrogated the caterers with the focused intensity of a [maniac]{.vocab tabindex="0" data-def="maniac · n. 疯子，躁狂者; 发狂的；狂热的；癫狂的"} auditing a spreadsheet. Her grandson, a [cheeky]{.vocab tabindex="0" data-def="cheeky · adj. 无耻的；厚脸皮的"} boy of twelve, had already persuaded three adults to swap seats by claiming the fire marshal required it. His mother — famously [frugal]{.vocab tabindex="0" data-def="frugal · adj. 节俭的；朴素的；花钱少的"}, a woman who reused wrapping paper and considered it a virtue — shot him a look that would have stopped a less [crafty]{.vocab tabindex="0" data-def="crafty · adj. 灵巧的；狡猾的"} child cold. Meanwhile, the evening's one true [coward]{.vocab tabindex="0" data-def="coward · n. 懦夫，懦弱的人; 胆小的，懦怯的 Coward考沃德"} — a junior editor who had promised the professor a manuscript review, then quietly decided to [renege]{.vocab tabindex="0" data-def="renege · vi. 违约,食言"} — was attempting the [casual]{.vocab tabindex="0" data-def="casual · adj. 不在意的；不放在心上的；漫不经心的; 不固定的；不定期的；临时的; 不经意的，随意的；碰巧的; 休闲…"} invisibility of someone who hopes not to be noticed. He was, of course, noticed. Professor Crane's gaze, [prompt]{.vocab tabindex="0" data-def="prompt · adj. 敏捷的，迅速的；立刻的; 促进；激起；提示；提白; 提示；付款期限；DOS命令：改变DOS系统提示符…"} and precise, found him across the room. No words were necessary.
 
-Only the **lavish** table seemed indifferent to all of it: candles guttering, wine breathing, the silver laid out with a **chaste** simplicity that made the whole spectacle feel, for a moment, like it **merited** preservation — every flaw, every **deceit**, every small act of grace included.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **candor** <span class="wpos">n.</span> | 坦白；直率 |
-| **casual** <span class="wpos">adj.</span> | 不在意的；不放在心上的；漫不经心的; 不固定的；不定期的；临时的; 不经意的，随意的；碰巧的; 休闲… |
-| **chaste** <span class="wpos">adj.</span> | 贞洁的；有道德的；纯洁的；朴素的 |
-| **cheeky** <span class="wpos">adj.</span> | 无耻的；厚脸皮的 |
-| **clumsy** <span class="wpos">adj.</span> | 笨拙的, 笨重的 |
-| **coward** <span class="wpos">n.</span> | 懦夫，懦弱的人; 胆小的，懦怯的 Coward考沃德 |
-| **crafty** <span class="wpos">adj.</span> | 灵巧的；狡猾的 |
-| **crusty** <span class="wpos">n.</span> | 皮脆的; 爱发脾气的, 暴躁的 |
-| **deceit** <span class="wpos">n.</span> | 欺骗；谎言；欺诈手段 |
-| **docile** <span class="wpos">adj.</span> | 容易教的;易驾驶的;驯服的; 容易教地;易驾驶地;驯服地; 容易教;易驾驶;驯服 |
-| **feisty** <span class="wpos">adj.</span> | 活跃的；好争吵的；烦躁不安的；坚决而据理力争的 |
-| **frugal** <span class="wpos">adj.</span> | 节俭的；朴素的；花钱少的 |
-| **genius** <span class="wpos">n.</span> | 天才，天赋；精神 |
-| **hubris** <span class="wpos">n.</span> | 骄傲自大,自恃 |
-| **idiocy** <span class="wpos">n.</span> | 白痴；白痴的行为 |
-| **lavish** <span class="wpos">adj.</span> | 浪费的；丰富的；大方的; 浪费；慷慨给予；滥用 |
-| **maniac** <span class="wpos">n.</span> | 疯子，躁狂者; 发狂的；狂热的；癫狂的 |
-| **mensch** <span class="wpos">n.</span> | 受尊敬的人,高洁的人,公正的人 |
-| **merits** <span class="wpos">n.</span> | 功绩；是非曲直；优点 |
-| **modest** <span class="wpos">adj.</span> | 谦虚的，谦逊的；适度的；端庄的；羞怯的 |
-| **nagger** <span class="wpos">n.</span> | 爱唠叨的人；尽找岔的人 |
-| **nerved** <span class="wpos">adj.</span> | 有勇气的,有精力的,有叶脉的,有翅膀的 |
-| **odious** <span class="wpos">adj.</span> | 讨厌的；可憎的 |
-| **pranks** <span class="wpos">n.</span> | 恶作剧; 盛装；打扮 |
-| **prompt** <span class="wpos">adj.</span> | 敏捷的，迅速的；立刻的; 促进；激起；提示；提白; 提示；付款期限；DOS命令：改变DOS系统提示符… |
-| **pseudo** <span class="wpos">n.</span> | 伪君子；假冒的人; 冒充的，假的 |
-| **pundit** <span class="wpos">n.</span> | 某一学科的权威;专家 PUNDITabbr. Portable Ultrasonic Non-des… |
-| **quirky** <span class="wpos">adj.</span> | 诡诈的,离奇的 |
-| **renege** <span class="wpos">vi.</span> | 违约,食言 |
-| **renown** <span class="wpos">n.</span> | 名望; 声誉 |
-:::
-:::
-::::
+Only the [lavish]{.vocab tabindex="0" data-def="lavish · adj. 浪费的；丰富的；大方的; 浪费；慷慨给予；滥用"} table seemed indifferent to all of it: candles guttering, wine breathing, the silver laid out with a [chaste]{.vocab tabindex="0" data-def="chaste · adj. 贞洁的；有道德的；纯洁的；朴素的"} simplicity that made the whole spectacle feel, for a moment, like it [merited]{.vocab tabindex="0" data-def="merits · n. 功绩；是非曲直；优点"} preservation — every flaw, every [deceit]{.vocab tabindex="0" data-def="deceit · n. 欺骗；谎言；欺诈手段"}, every small act of grace included.
 
 ### The Portrait Gallery
 
-:::: {.columns}
-::: {.column width="57%"}
-In the quiet wing of the museum, two old colleagues stood before a row of painted faces. Dr. Lena, whose **abiding** love for portraiture had never faded, spoke first — always **sagely**, never in haste. She pointed to a canvas near the window: a merchant rendered in murky browns, his eyes heavy with **sordid** calculation. "The painter captured every **trait** — the **callous** set of the jaw, the **subtle** curl of a lip that promises nothing honest."
+In the quiet wing of the museum, two old colleagues stood before a row of painted faces. Dr. Lena, whose [abiding]{.vocab tabindex="0" data-def="abiding · adj. 持久的，永久的；不变的; 遵守；容忍；继续存在"} love for portraiture had never faded, spoke first — always [sagely]{.vocab tabindex="0" data-def="sagely · adv. 贤能地；贤明地"}, never in haste. She pointed to a canvas near the window: a merchant rendered in murky browns, his eyes heavy with [sordid]{.vocab tabindex="0" data-def="sordid · adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的"} calculation. "The painter captured every [trait]{.vocab tabindex="0" data-def="traits · n. 特性，特质，性格"} — the [callous]{.vocab tabindex="0" data-def="callous · adj. 起老茧的；无情的；硬结的；麻木的; 使硬结；使生茧；使冷酷无情; 变得冷酷无情；结茧；变硬; 硬皮；…"} set of the jaw, the [subtle]{.vocab tabindex="0" data-def="subtle · adj. 微妙的；难以捉摸的；细微的; 狡猾的，狡诈的; 敏感的，敏锐的，有辨别力的"} curl of a lip that promises nothing honest."
 
-Her companion, Marcus, was the **urbane** sort — well-dressed, unhurried, the kind of man who could dismantle an argument without raising his voice. He **subtly** steered her toward the next panel, a councilman of evident **vanity**, his doublet embroidered with more gold than taste allowed. The pose was **blatant** self-advertisement; even the frame seemed embarrassed. "**Bizarre**, isn't it," Marcus murmured, "how **vulgar** ambition looks once the century turns." He was not being **snarky** — merely observing. He had learned long ago to **abstain** from mockery inside these halls; the acoustics carried everything.
+Her companion, Marcus, was the [urbane]{.vocab tabindex="0" data-def="urbane · adj. 都市化的; 彬彬有礼的；温文尔雅的; 都市化地；彬彬有礼地；温文尔雅地"} sort — well-dressed, unhurried, the kind of man who could dismantle an argument without raising his voice. He [subtly]{.vocab tabindex="0" data-def="subtly · adv. 敏锐地；精细地；巧妙地"} steered her toward the next panel, a councilman of evident [vanity]{.vocab tabindex="0" data-def="vanity · n. 虚荣心；浮华；空虚；无价值的东西"}, his doublet embroidered with more gold than taste allowed. The pose was [blatant]{.vocab tabindex="0" data-def="blatant · adj. 炫耀的；喧嚣的；俗丽的；公然的"} self-advertisement; even the frame seemed embarrassed. "[Bizarre]{.vocab tabindex="0" data-def="bizarre · adj. 奇异的"}, isn't it," Marcus murmured, "how [vulgar]{.vocab tabindex="0" data-def="vulgar · adj. 粗俗的；通俗的；本土的; 平民，百姓"} ambition looks once the century turns." He was not being [snarky]{.vocab tabindex="0" data-def="snarky · adj. 恶声恶气的，咬人的"} — merely observing. He had learned long ago to [abstain]{.vocab tabindex="0" data-def="abstain · vi. 放弃；自制；避免"} from mockery inside these halls; the acoustics carried everything.
 
-The third portrait stopped them both. A young woman, clearly an **amateur** painter's subject rather than a court commission, sat with a **solemn** dignity that needed no gilding. Her gaze held **virtue** of the uncommon kind — not the prim sort worn like a badge, but something earned. Lena said she had read that the sitter had spent her later years fighting a **bigoted** magistrate who had tried to **smirch** her family's name with **scummy** insinuations and a **risqué** letter he claimed she had written. The woman's response had been **solemn** and precise: no **bravado**, no posturing — she simply **strove** to outlast him in principle, and did. The magistrate, for his part, had **seduced** several allies with flattery before his **sneaky** dealings finally surfaced. He was **unruly** in the way powerful cowards are: all noise until cornered. His **bigotry** toward her family had been the **risqué** open secret of the province for years — everybody knew, nobody said. "She looks **touchy** about nothing," Marcus noted, meaning it as praise. "She had nothing to be **touchy** about. She was right."
+The third portrait stopped them both. A young woman, clearly an [amateur]{.vocab tabindex="0" data-def="amateur · adj. 业余的, 非职业的; 外行的; 业余爱好者; 外行, 生手"} painter's subject rather than a court commission, sat with a [solemn]{.vocab tabindex="0" data-def="solemn · adj. 严肃的; 庄重的，郑重的; 庄严的；隆重的"} dignity that needed no gilding. Her gaze held [virtue]{.vocab tabindex="0" data-def="virtue · n. 美德, 德行; 优点, 长处"} of the uncommon kind — not the prim sort worn like a badge, but something earned. Lena said she had read that the sitter had spent her later years fighting a [bigoted]{.vocab tabindex="0" data-def="bigoted · adj. 顽固的；心地狭窄的；盲从的"} magistrate who had tried to [smirch]{.vocab tabindex="0" data-def="smirch · vt. 弄脏；玷污，污辱"} her family's name with [scummy]{.vocab tabindex="0" data-def="scummy · adj. 满是浮渣的,浮渣般的,下流的"} insinuations and a [risqué]{.vocab tabindex="0" data-def="risqué · adj. 颇为下流的, 有伤风化的"} letter he claimed she had written. The woman's response had been [solemn]{.vocab tabindex="0" data-def="solemn · adj. 严肃的; 庄重的，郑重的; 庄严的；隆重的"} and precise: no [bravado]{.vocab tabindex="0" data-def="bravado · n. 虚张声势；冒险"}, no posturing — she simply **strove** to outlast him in principle, and did. The magistrate, for his part, had [seduced]{.vocab tabindex="0" data-def="seduce · vt. 引诱；诱惑；诱奸；怂恿"} several allies with flattery before his [sneaky]{.vocab tabindex="0" data-def="sneaky · adj. 鬼祟的,卑鄙的"} dealings finally surfaced. He was [unruly]{.vocab tabindex="0" data-def="unruly · adj. 蛮横的；任性的；难驾驭的；难控制的；不守规矩的; 难固定的, 难以保持平整的"} in the way powerful cowards are: all noise until cornered. His [bigotry]{.vocab tabindex="0" data-def="bigotry · n. 顽固；偏执；盲从"} toward her family had been the [risqué]{.vocab tabindex="0" data-def="risqué · adj. 颇为下流的, 有伤风化的"} open secret of the province for years — everybody knew, nobody said. "She looks [touchy]{.vocab tabindex="0" data-def="touchy · adj. 过敏的；易生气的；难以取悦的"} about nothing," Marcus noted, meaning it as praise. "She had nothing to be [touchy]{.vocab tabindex="0" data-def="touchy · adj. 过敏的；易生气的；难以取悦的"} about. She was right."
 
-They moved on. Outside, a school group spilled through the entrance, **unruly** and loud and entirely alive — not yet **bigoted**, not yet **callous**, their **traits** still fluid as wet paint. Dr. Lena watched them and smiled in a way that needed no gloss.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **risque** <span class="wpos">adj.</span> | 近乎淫猥的;有伤风化的 |
-| **risqué** <span class="wpos">adj.</span> | 颇为下流的, 有伤风化的 |
-| **sagely** <span class="wpos">adv.</span> | 贤能地；贤明地 |
-| **scummy** <span class="wpos">adj.</span> | 满是浮渣的,浮渣般的,下流的 |
-| **seduce** <span class="wpos">vt.</span> | 引诱；诱惑；诱奸；怂恿 |
-| **smirch** <span class="wpos">vt.</span> | 弄脏；玷污，污辱 |
-| **snarky** <span class="wpos">adj.</span> | 恶声恶气的，咬人的 |
-| **sneaky** <span class="wpos">adj.</span> | 鬼祟的,卑鄙的 |
-| **solemn** <span class="wpos">adj.</span> | 严肃的; 庄重的，郑重的; 庄严的；隆重的 |
-| **sordid** <span class="wpos">adj.</span> | 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的 |
-| **strive** <span class="wpos">vi.</span> | 努力；奋斗；抗争 |
-| **subtle** <span class="wpos">adj.</span> | 微妙的；难以捉摸的；细微的; 狡猾的，狡诈的; 敏感的，敏锐的，有辨别力的 |
-| **subtly** <span class="wpos">adv.</span> | 敏锐地；精细地；巧妙地 |
-| **touchy** <span class="wpos">adj.</span> | 过敏的；易生气的；难以取悦的 |
-| **traits** <span class="wpos">n.</span> | 特性，特质，性格 |
-| **unruly** <span class="wpos">adj.</span> | 蛮横的；任性的；难驾驭的；难控制的；不守规矩的; 难固定的, 难以保持平整的 |
-| **urbane** <span class="wpos">adj.</span> | 都市化的; 彬彬有礼的；温文尔雅的; 都市化地；彬彬有礼地；温文尔雅地 |
-| **vanity** <span class="wpos">n.</span> | 虚荣心；浮华；空虚；无价值的东西 |
-| **virtue** <span class="wpos">n.</span> | 美德, 德行; 优点, 长处 |
-| **vulgar** <span class="wpos">adj.</span> | 粗俗的；通俗的；本土的; 平民，百姓 |
-| **abiding** <span class="wpos">adj.</span> | 持久的，永久的；不变的; 遵守；容忍；继续存在 |
-| **abstain** <span class="wpos">vi.</span> | 放弃；自制；避免 |
-| **amateur** <span class="wpos">adj.</span> | 业余的, 非职业的; 外行的; 业余爱好者; 外行, 生手 |
-| **bigoted** <span class="wpos">adj.</span> | 顽固的；心地狭窄的；盲从的 |
-| **bigotry** <span class="wpos">n.</span> | 顽固；偏执；盲从 |
-| **bizarre** <span class="wpos">adj.</span> | 奇异的 |
-| **blatant** <span class="wpos">adj.</span> | 炫耀的；喧嚣的；俗丽的；公然的 |
-| **boorish** <span class="wpos">adj.</span> | 粗野的，粗鲁的；笨拙的; 乡巴佬的，土里土气的 |
-| **bravado** <span class="wpos">n.</span> | 虚张声势；冒险 |
-| **callous** <span class="wpos">adj.</span> | 起老茧的；无情的；硬结的；麻木的; 使硬结；使生茧；使冷酷无情; 变得冷酷无情；结茧；变硬; 硬皮；… |
-:::
-:::
-::::
+They moved on. Outside, a school group spilled through the entrance, [unruly]{.vocab tabindex="0" data-def="unruly · adj. 蛮横的；任性的；难驾驭的；难控制的；不守规矩的; 难固定的, 难以保持平整的"} and loud and entirely alive — not yet [bigoted]{.vocab tabindex="0" data-def="bigoted · adj. 顽固的；心地狭窄的；盲从的"}, not yet [callous]{.vocab tabindex="0" data-def="callous · adj. 起老茧的；无情的；硬结的；麻木的; 使硬结；使生茧；使冷酷无情; 变得冷酷无情；结茧；变硬; 硬皮；…"}, their [traits]{.vocab tabindex="0" data-def="traits · n. 特性，特质，性格"} still fluid as wet paint. Dr. Lena watched them and smiled in a way that needed no gloss.
 
 ### The Duality of a Room
 
-:::: {.columns}
-::: {.column width="57%"}
-In the small hours of a diplomatic reception, Mira **cannily** steered the conversation away from the budget scandal — she was nothing if not **capable** under pressure. Across the room stood Harlan, her longtime rival, whose **caustic** wit had a way of stripping the paint off a man's dignity. His **conceit** was legendary: he once told a Nobel laureate that the prize had lowered his own standards. Mira found his manner quietly repellent, and the feeling was mutual. Harlan moved through the crowd with a **crooked** smile and **cunning** eyes, offering **fulsome** praise to everyone he needed and **caustic** dismissals to everyone he didn't — sometimes in the same breath.
+In the small hours of a diplomatic reception, Mira [cannily]{.vocab tabindex="0" data-def="cannily · adv. 机灵地；用心地；狡诈地"} steered the conversation away from the budget scandal — she was nothing if not [capable]{.vocab tabindex="0" data-def="capable · adj. 能干的，能胜任的；有才华的"} under pressure. Across the room stood Harlan, her longtime rival, whose [caustic]{.vocab tabindex="0" data-def="caustic · adj. 苛性的；腐蚀性的; 尖刻的，刻薄的，挖苦的; 刻薄地，挖苦地"} wit had a way of stripping the paint off a man's dignity. His [conceit]{.vocab tabindex="0" data-def="conceit · n. 自负；狂妄；幻想; 幻想"} was legendary: he once told a Nobel laureate that the prize had lowered his own standards. Mira found his manner quietly repellent, and the feeling was mutual. Harlan moved through the crowd with a [crooked]{.vocab tabindex="0" data-def="crooked · adj. 畸形的; 弯曲的, 歪的; 不正当的, 不诚实的"} smile and [cunning]{.vocab tabindex="0" data-def="cunning · adj. 狡猾的；可爱的；巧妙的; 狡猾"} eyes, offering [fulsome]{.vocab tabindex="0" data-def="fulsome · adj. 过分恭维的"} praise to everyone he needed and [caustic]{.vocab tabindex="0" data-def="caustic · adj. 苛性的；腐蚀性的; 尖刻的，刻薄的，挖苦的; 刻薄地，挖苦地"} dismissals to everyone he didn't — sometimes in the same breath.
 
-Their host, Ambassador Voss, was a different creature entirely. He possessed the kind of **finesse** that made every guest feel **exalted** — not flattered in a **faddish** or hollow way, but genuinely elevated. He was richly **endowed** with patience, and somehow managed to remain **lenient** without appearing weak. He kept a **low-key** manner that **dignified** every room he entered, never raising his voice, never stooping to the **devious** angles the other guests seemed to trade in. Those who had seen him operate over the decades knew he was not simply **devoted** to the work — he had arranged his entire life around it.
+Their host, Ambassador Voss, was a different creature entirely. He possessed the kind of [finesse]{.vocab tabindex="0" data-def="finesse · n. 纤细；灵巧；策略; 巧妙处理；以偷牌方式先出; 偷牌；施展巧计"} that made every guest feel [exalted]{.vocab tabindex="0" data-def="exalted · adj. 尊贵的；高尚的；兴奋的; 高举；赞扬；使激动"} — not flattered in a [faddish]{.vocab tabindex="0" data-def="faddish · adj. 好赶时髦的; 一时流行的"} or hollow way, but genuinely elevated. He was richly [endowed]{.vocab tabindex="0" data-def="endowed · v. 赋予，捐赠"} with patience, and somehow managed to remain [lenient]{.vocab tabindex="0" data-def="lenient · adj. 仁慈的；宽大的"} without appearing weak. He kept a [low-key]{.vocab tabindex="0" data-def="low-key · adj. 抑制的,软调的"} manner that **dignified** every room he entered, never raising his voice, never stooping to the [devious]{.vocab tabindex="0" data-def="devious · adj. 迂回的, 曲折的; 不光明正大的, 不坦诚的, 狡猾的"} angles the other guests seemed to trade in. Those who had seen him operate over the decades knew he was not simply [devoted]{.vocab tabindex="0" data-def="devoted · adj. 专心的,恩爱的; 献身的,非常用心的; 专心地,恩爱地"} to the work — he had arranged his entire life around it.
 
-Then there were the **dodgers**: people of **dubious** loyalty who gave only **cursory** attention to principle. One could spot them by the **elusive** quality of their answers, the way their gaze slid sideways when pressed. The **cynical** observer — and Mira had become one — knew that principle had long since been **depraved** by comfort. She had watched decent men grow **corrupt** and **immoral** under the slow pressure of convenience, watched **decency** curdle into performance and **lechery** dressed up as charm. She had been **deceived** before, more than once. The **defiant** posture she wore now was not arrogance; it was armour. Underneath it, she remained, she hoped, **fragile** in the right places — open enough to still be moved.
+Then there were the [dodgers]{.vocab tabindex="0" data-def="dodgers · n. 躲闪者， 欺瞒者；传单广告用纸"}: people of [dubious]{.vocab tabindex="0" data-def="dubious · adj. 半信半疑的, 可疑的; 不可靠的, 冒风险的"} loyalty who gave only [cursory]{.vocab tabindex="0" data-def="cursory · adj. 粗略的；草率的；匆忙的"} attention to principle. One could spot them by the [elusive]{.vocab tabindex="0" data-def="elusive · adj. 难以捉摸的;难以找到的;不易记住的"} quality of their answers, the way their gaze slid sideways when pressed. The [cynical]{.vocab tabindex="0" data-def="cynical · adj. 愤世嫉俗的；冷嘲的"} observer — and Mira had become one — knew that principle had long since been [depraved]{.vocab tabindex="0" data-def="deprave · v. 堕落"} by comfort. She had watched decent men grow [corrupt]{.vocab tabindex="0" data-def="corrupt · adj. 腐败的，贪污的；堕落的; 使堕落，使恶化；使腐烂; 腐烂；堕落，腐化"} and [immoral]{.vocab tabindex="0" data-def="immoral · adj. 不道德的；邪恶的；淫荡的"} under the slow pressure of convenience, watched [decency]{.vocab tabindex="0" data-def="decency · n. 正派；体面；庄重；合乎礼仪；礼貌"} curdle into performance and [lechery]{.vocab tabindex="0" data-def="lechery · n. 好色；淫荡"} dressed up as charm. She had been [deceived]{.vocab tabindex="0" data-def="deceive · v. 欺骗；行骗"} before, more than once. The [defiant]{.vocab tabindex="0" data-def="defiant · adj. 挑衅的；目中无人的，蔑视的；挑战的"} posture she wore now was not arrogance; it was armour. Underneath it, she remained, she hoped, [fragile]{.vocab tabindex="0" data-def="fragile · adj. 易碎的，脆的; 虚弱的，脆弱的；经不起折腾的"} in the right places — open enough to still be moved.
 
-She was not, she told herself, **haughty**. She was simply careful.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **cannily** <span class="wpos">adv.</span> | 机灵地；用心地；狡诈地 |
-| **capable** <span class="wpos">adj.</span> | 能干的，能胜任的；有才华的 |
-| **caustic** <span class="wpos">adj.</span> | 苛性的；腐蚀性的; 尖刻的，刻薄的，挖苦的; 刻薄地，挖苦地 |
-| **conceit** <span class="wpos">n.</span> | 自负；狂妄；幻想; 幻想 |
-| **corrupt** <span class="wpos">adj.</span> | 腐败的，贪污的；堕落的; 使堕落，使恶化；使腐烂; 腐烂；堕落，腐化 |
-| **crooked** <span class="wpos">adj.</span> | 畸形的; 弯曲的, 歪的; 不正当的, 不诚实的 |
-| **cunning** <span class="wpos">adj.</span> | 狡猾的；可爱的；巧妙的; 狡猾 |
-| **cursory** <span class="wpos">adj.</span> | 粗略的；草率的；匆忙的 |
-| **cynical** <span class="wpos">adj.</span> | 愤世嫉俗的；冷嘲的 |
-| **deceive** <span class="wpos">v.</span> | 欺骗；行骗 |
-| **decency** <span class="wpos">n.</span> | 正派；体面；庄重；合乎礼仪；礼貌 |
-| **defiant** <span class="wpos">adj.</span> | 挑衅的；目中无人的，蔑视的；挑战的 |
-| **deprave** <span class="wpos">v.</span> | 堕落 |
-| **devious** <span class="wpos">adj.</span> | 迂回的, 曲折的; 不光明正大的, 不坦诚的, 狡猾的 |
-| **devoted** <span class="wpos">adj.</span> | 专心的,恩爱的; 献身的,非常用心的; 专心地,恩爱地 |
-| **dignify** <span class="wpos">vt.</span> | 使显得威严, 使高贵, 使显赫; 夸大 |
-| **dodgers** <span class="wpos">n.</span> | 躲闪者， 欺瞒者；传单广告用纸 |
-| **dubious** <span class="wpos">adj.</span> | 半信半疑的, 可疑的; 不可靠的, 冒风险的 |
-| **elusive** <span class="wpos">adj.</span> | 难以捉摸的;难以找到的;不易记住的 |
-| **endowed** <span class="wpos">v.</span> | 赋予，捐赠 |
-| **exalted** <span class="wpos">adj.</span> | 尊贵的；高尚的；兴奋的; 高举；赞扬；使激动 |
-| **faddish** <span class="wpos">adj.</span> | 好赶时髦的; 一时流行的 |
-| **finesse** <span class="wpos">n.</span> | 纤细；灵巧；策略; 巧妙处理；以偷牌方式先出; 偷牌；施展巧计 |
-| **fragile** <span class="wpos">adj.</span> | 易碎的，脆的; 虚弱的，脆弱的；经不起折腾的 |
-| **fulsome** <span class="wpos">adj.</span> | 过分恭维的 |
-| **haughty** <span class="wpos">adj.</span> | 傲慢的, 目中无人的 |
-| **immoral** <span class="wpos">adj.</span> | 不道德的；邪恶的；淫荡的 |
-| **lechery** <span class="wpos">n.</span> | 好色；淫荡 |
-| **lenient** <span class="wpos">adj.</span> | 仁慈的；宽大的 |
-| **low-key** <span class="wpos">adj.</span> | 抑制的,软调的 |
-:::
-:::
-::::
+She was not, she told herself, [haughty]{.vocab tabindex="0" data-def="haughty · adj. 傲慢的, 目中无人的"}. She was simply careful.
 
 ### The Company We Keep
 
-:::: {.columns}
-::: {.column width="57%"}
-Among the new hires, Daniel was quickly **reputed** as an **ambivert** — at ease whether working alone or holding the floor in a meeting. His colleagues were drawn to his **winsome** smile and **adorable** habit of leaving handwritten thank-you notes on desks. He was not flashy; a quiet **modesty** kept him from claiming credit he had earned.
+Among the new hires, Daniel was quickly [reputed]{.vocab tabindex="0" data-def="reputed · adj. 名誉好的；被普遍认为…的; 认为"} as an [ambivert]{.vocab tabindex="0" data-def="ambivert · n. 既外向又内向的人；中间性格者"} — at ease whether working alone or holding the floor in a meeting. His colleagues were drawn to his [winsome]{.vocab tabindex="0" data-def="winsome · adj. 迷人的；可爱的；引人注目的"} smile and [adorable]{.vocab tabindex="0" data-def="adorable · adj. 值得崇拜的; 可爱的,讨人喜欢的"} habit of leaving handwritten thank-you notes on desks. He was not flashy; a quiet [modesty]{.vocab tabindex="0" data-def="modesty · n. 谦虚, 谦逊"} kept him from claiming credit he had earned.
 
-Elena, the team lead, was the group's moral **paragon**. **Zealous** about fairness and **staunch** in her principles, she never had to **pretend** to care — the care was simply there. She was **amenable** to feedback, asked the right questions, and **prudent** enough never to act before thinking twice. Her only visible fault was that she could be **restive** when a project stalled; she would tap her pen and **persist** until someone moved.
+Elena, the team lead, was the group's moral [paragon]{.vocab tabindex="0" data-def="paragon · n. 模范；完美之物；优秀之人; 完美的"}. [Zealous]{.vocab tabindex="0" data-def="zealous · adj. 热心的，热情的，积极的"} about fairness and [staunch]{.vocab tabindex="0" data-def="staunch · adj. 坚固的；坚定的；忠诚的; 止住；止血"} in her principles, she never had to [pretend]{.vocab tabindex="0" data-def="pretend · vt. &amp; 假装, 伪装"} to care — the care was simply there. She was [amenable]{.vocab tabindex="0" data-def="amenable · adj. 有责任的，应服从的；有义务的；经得起检验的"} to feedback, asked the right questions, and [prudent]{.vocab tabindex="0" data-def="prudent · adj. 谨慎的；节俭的；精明的"} enough never to act before thinking twice. Her only visible fault was that she could be [restive]{.vocab tabindex="0" data-def="restive · adj. 倔强的；难驾御的；不安宁的"} when a project stalled; she would tap her pen and [persist]{.vocab tabindex="0" data-def="persist · vi. 持续，固执；存留，坚持; 坚持说，反复说"} until someone moved.
 
-Not everyone wore their character so cleanly. Marcus arrived with a polished **persona** — charming on the surface, **amicable** in small talk. But his behaviour soon revealed something darker. He was **vicious** in private conversation, **wayward** in commitments, and operated with the **stealth** of someone who had learned that candour cost him. He had no **scruple** about taking shortcuts, and rumour named him a flat-out **scumbag** after he leaked a colleague's salary. **Peccant** as his conduct was, the legal team declined to act — a failure of institutional nerve that left many **unfazed** in public but quietly furious at home.
+Not everyone wore their character so cleanly. Marcus arrived with a polished [persona]{.vocab tabindex="0" data-def="persona · n. 人物角色；伪装的外表"} — charming on the surface, [amicable]{.vocab tabindex="0" data-def="amicable · adj. 友善的；友好的"} in small talk. But his behaviour soon revealed something darker. He was [vicious]{.vocab tabindex="0" data-def="vicious · adj. 恶的, 邪恶的; 残酷的, 狠毒的"} in private conversation, [wayward]{.vocab tabindex="0" data-def="wayward · adj. 任性的；不规则的；刚愎的"} in commitments, and operated with the [stealth]{.vocab tabindex="0" data-def="stealth · n. 秘密行动；鬼祟；秘密"} of someone who had learned that candour cost him. He had no [scruple]{.vocab tabindex="0" data-def="scruple · n. 微量；顾虑；踌躇; 有顾忌；踌躇; 对…有顾虑"} about taking shortcuts, and rumour named him a flat-out [scumbag]{.vocab tabindex="0" data-def="scumbag · n. 〈俚〉避孕套;卑鄙的家伙"} after he leaked a colleague's salary. [Peccant]{.vocab tabindex="0" data-def="peccant · adj. 犯罪的；有过失的"} as his conduct was, the legal team declined to act — a failure of institutional nerve that left many [unfazed]{.vocab tabindex="0" data-def="unfazed · adj. 不担忧的; 不苦恼的"} in public but quietly furious at home.
 
-The sharpest contrast to Marcus was Nora, the resident **altruist**. Pure **altruism** drove her: she mentored juniors for free, covered shifts without complaint, and **refrained** from gossip even when invited. She had the **stamina** to absorb every crisis without collapsing, and a **scrappy** refusal to quit that the senior staff quietly envied. She was never **slouchy**, never wilting under pressure.
+The sharpest contrast to Marcus was Nora, the resident [altruist]{.vocab tabindex="0" data-def="altruist · n. 爱他主义者；利他主义者"}. Pure [altruism]{.vocab tabindex="0" data-def="altruism · n. 利他；利他主义"} drove her: she mentored juniors for free, covered shifts without complaint, and [refrained]{.vocab tabindex="0" data-def="refrain · vi. 制止；避免；节制，克制; 叠句，副歌；重复"} from gossip even when invited. She had the [stamina]{.vocab tabindex="0" data-def="stamina · n. 耐力，持久力，毅力；雄蕊"} to absorb every crisis without collapsing, and a [scrappy]{.vocab tabindex="0" data-def="scrappy · adj. 爱打架的；杂凑的；不连贯的；生气勃勃的"} refusal to quit that the senior staff quietly envied. She was never [slouchy]{.vocab tabindex="0" data-def="slouchy · adj. 懒散的；没精打采的"}, never wilting under pressure.
 
-Against all this stood the team's one open **villain**, a **lustful**-for-power middle manager who was **amenable** only to authority above him and contemptuous of everyone else. His **wayward** moods and **restive** energy made every review cycle miserable, yet somehow he remained **unfazed** by every complaint lodged against him. The decent members of the team took his **peccant** example as a lesson — a reminder of why character is not decoration but architecture.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **lustful** <span class="wpos">adj.</span> | 好色的；贪欲的；渴望的 |
-| **modesty** <span class="wpos">n.</span> | 谦虚, 谦逊 |
-| **paragon** <span class="wpos">n.</span> | 模范；完美之物；优秀之人; 完美的 |
-| **peccant** <span class="wpos">adj.</span> | 犯罪的；有过失的 |
-| **persist** <span class="wpos">vi.</span> | 持续，固执；存留，坚持; 坚持说，反复说 |
-| **persona** <span class="wpos">n.</span> | 人物角色；伪装的外表 |
-| **pretend** <span class="wpos">vt.</span> | &amp; 假装, 伪装 |
-| **prudent** <span class="wpos">adj.</span> | 谨慎的；节俭的；精明的 |
-| **refrain** <span class="wpos">vi.</span> | 制止；避免；节制，克制; 叠句，副歌；重复 |
-| **reputed** <span class="wpos">adj.</span> | 名誉好的；被普遍认为…的; 认为 |
-| **restive** <span class="wpos">adj.</span> | 倔强的；难驾御的；不安宁的 |
-| **scrappy** <span class="wpos">adj.</span> | 爱打架的；杂凑的；不连贯的；生气勃勃的 |
-| **scruple** <span class="wpos">n.</span> | 微量；顾虑；踌躇; 有顾忌；踌躇; 对…有顾虑 |
-| **scumbag** <span class="wpos">n.</span> | 〈俚〉避孕套;卑鄙的家伙 |
-| **slouchy** <span class="wpos">adj.</span> | 懒散的；没精打采的 |
-| **stamina** <span class="wpos">n.</span> | 耐力，持久力，毅力；雄蕊 |
-| **staunch** <span class="wpos">adj.</span> | 坚固的；坚定的；忠诚的; 止住；止血 |
-| **stealth** <span class="wpos">n.</span> | 秘密行动；鬼祟；秘密 |
-| **unfazed** <span class="wpos">adj.</span> | 不担忧的; 不苦恼的 |
-| **vicious** <span class="wpos">adj.</span> | 恶的, 邪恶的; 残酷的, 狠毒的 |
-| **villain** <span class="wpos">n.</span> | 坏人，恶棍；戏剧、小说中的反派角色；顽童；罪犯 |
-| **wayward** <span class="wpos">adj.</span> | 任性的；不规则的；刚愎的 |
-| **winsome** <span class="wpos">adj.</span> | 迷人的；可爱的；引人注目的 |
-| **zealous** <span class="wpos">adj.</span> | 热心的，热情的，积极的 |
-| **adorable** <span class="wpos">adj.</span> | 值得崇拜的; 可爱的,讨人喜欢的 |
-| **altruism** <span class="wpos">n.</span> | 利他；利他主义 |
-| **altruist** <span class="wpos">n.</span> | 爱他主义者；利他主义者 |
-| **ambivert** <span class="wpos">n.</span> | 既外向又内向的人；中间性格者 |
-| **amenable** <span class="wpos">adj.</span> | 有责任的，应服从的；有义务的；经得起检验的 |
-| **amicable** <span class="wpos">adj.</span> | 友善的；友好的 |
-:::
-:::
-::::
+Against all this stood the team's one open [villain]{.vocab tabindex="0" data-def="villain · n. 坏人，恶棍；戏剧、小说中的反派角色；顽童；罪犯"}, a [lustful]{.vocab tabindex="0" data-def="lustful · adj. 好色的；贪欲的；渴望的"}-for-power middle manager who was [amenable]{.vocab tabindex="0" data-def="amenable · adj. 有责任的，应服从的；有义务的；经得起检验的"} only to authority above him and contemptuous of everyone else. His [wayward]{.vocab tabindex="0" data-def="wayward · adj. 任性的；不规则的；刚愎的"} moods and [restive]{.vocab tabindex="0" data-def="restive · adj. 倔强的；难驾御的；不安宁的"} energy made every review cycle miserable, yet somehow he remained [unfazed]{.vocab tabindex="0" data-def="unfazed · adj. 不担忧的; 不苦恼的"} by every complaint lodged against him. The decent members of the team took his [peccant]{.vocab tabindex="0" data-def="peccant · adj. 犯罪的；有过失的"} example as a lesson — a reminder of why character is not decoration but architecture.
 
 ### The Rise and Fall of a Portrait Painter
 
-:::: {.columns}
-::: {.column width="57%"}
-Marcus had the **aptitude** for portraiture that most artists spend a lifetime chasing. Even as an **aspiring** young painter in the guild, his **boldness** with light and shadow drew patrons from across the province. His natural **bonhomie** made every subject relax in the chair; his **civility** and **courtesy** never wavered, whether the sitter was a merchant's wife or a minor duke. There was a **chivalry** to him — not the **cavalier** posturing of a man performing manners, but something genuine. He moved through the world with quiet **eminence**, **dedicated** entirely to his craft.
+Marcus had the [aptitude]{.vocab tabindex="0" data-def="aptitude · n. 天资；天生的才能；天赋"} for portraiture that most artists spend a lifetime chasing. Even as an [aspiring]{.vocab tabindex="0" data-def="aspiring · adj. 有抱负的；追求…的；高耸的; 立志"} young painter in the guild, his [boldness]{.vocab tabindex="0" data-def="boldness · n. 大胆,冒失,勇敢"} with light and shadow drew patrons from across the province. His natural [bonhomie]{.vocab tabindex="0" data-def="bonhomie · n. 温和, 友好"} made every subject relax in the chair; his [civility]{.vocab tabindex="0" data-def="civility · n. 礼貌；端庄；礼仪"} and [courtesy]{.vocab tabindex="0" data-def="courtesy · n. 礼貌；好意；恩惠; 殷勤的；被承认的；出于礼节的"} never wavered, whether the sitter was a merchant's wife or a minor duke. There was a [chivalry]{.vocab tabindex="0" data-def="chivalry · n. 骑士制度; 骑士气概,骑士品质"} to him — not the [cavalier]{.vocab tabindex="0" data-def="cavalier · n. 对女人彬彬有礼的绅士,对女人献殷勤的男子; 骑士,骑手; 英内战时查理一世的支持者,保皇党成员; 随…"} posturing of a man performing manners, but something genuine. He moved through the world with quiet [eminence]{.vocab tabindex="0" data-def="eminence · n. 显赫；卓越；高处"}, [dedicated]{.vocab tabindex="0" data-def="dedicate · vt. 致力；献身；题献"} entirely to his craft.
 
-Yet success altered him in ways his early friends could not have predicted. A **decisive** streak curdled into something **dogmatic**; he dismissed younger painters with **cynicism** and grew **boastful** at banquets, recounting his commissions to anyone who would listen. The **audacity** that had once served him — the willingness to attempt the impossible angle, the radical palette — became recklessness. He began arriving at sittings red-faced and erratic, a **drunkard** who still somehow held the brush steady. His **demeanor** in the guild hall turned cold, then cruel. Old colleagues whispered that the Marcus they had admired was gone, replaced by something **devilish**, almost **diabolic** in its contempt for sentiment.
+Yet success altered him in ways his early friends could not have predicted. A [decisive]{.vocab tabindex="0" data-def="decisive · adj. 决定性的；果断的，坚定的"} streak curdled into something [dogmatic]{.vocab tabindex="0" data-def="dogmatic · adj. 教条的；武断的"}; he dismissed younger painters with [cynicism]{.vocab tabindex="0" data-def="cynicism · n. 讥笑;讥讽的言词; 愤世嫉俗；玩世不恭; 犬儒主义"} and grew [boastful]{.vocab tabindex="0" data-def="boastful · adj. 自夸的；喜夸耀的；自负的"} at banquets, recounting his commissions to anyone who would listen. The [audacity]{.vocab tabindex="0" data-def="audacity · n. 大胆，无畏; 鲁莽；胆大妄为，厚颜无耻; 鲁莽行为；放肆的话"} that had once served him — the willingness to attempt the impossible angle, the radical palette — became recklessness. He began arriving at sittings red-faced and erratic, a [drunkard]{.vocab tabindex="0" data-def="drunkard · n. 酒鬼，醉汉"} who still somehow held the brush steady. His [demeanor]{.vocab tabindex="0" data-def="demeanor · n. 行为；举止；风度"} in the guild hall turned cold, then cruel. Old colleagues whispered that the Marcus they had admired was gone, replaced by something [devilish]{.vocab tabindex="0" data-def="devilish · adj. 如恶魔般的,精力旺盛的"}, almost [diabolic]{.vocab tabindex="0" data-def="diabolic · adj. 残忍的；魔鬼似的；恶魔的"} in its contempt for sentiment.
 
-The collapse arrived through a rival, a smooth-tongued **fabulist** named Dorian, whose reputation rested on gossip rather than canvas. Dorian spread word that Marcus had slept with a patron's fiancée — part truth, part invention — casting him as a common **Casanova** who preyed on wealthy households. The accusation was enough to **besmirch** the **chastity** of reputation Marcus had cultivated for decades. Those who had once praised his **feminine** sensitivity in the rendering of fabric now called him **depraved**. A **betrayer** of trust, they said. A **crackpot** chasing indulgence. Only a single **champion** — his oldest teacher, a woman of stubborn **discreet**ness — refused to join the chorus, though even she could not reverse the tide.
+The collapse arrived through a rival, a smooth-tongued [fabulist]{.vocab tabindex="0" data-def="fabulist · n. 寓言家,说谎者"} named Dorian, whose reputation rested on gossip rather than canvas. Dorian spread word that Marcus had slept with a patron's fiancée — part truth, part invention — casting him as a common [Casanova]{.vocab tabindex="0" data-def="Casanova · n. 卡萨诺瓦,风流浪子,好色之徒"} who preyed on wealthy households. The accusation was enough to [besmirch]{.vocab tabindex="0" data-def="besmirch · vt. 弄脏,玷污；丑化, 糟蹋"} the [chastity]{.vocab tabindex="0" data-def="chastity · n. 纯洁；贞洁；简洁"} of reputation Marcus had cultivated for decades. Those who had once praised his [feminine]{.vocab tabindex="0" data-def="feminine · adj. 有女性气质的, 女子气的, 适于女子的; 〈语〉阴性的"} sensitivity in the rendering of fabric now called him [depraved]{.vocab tabindex="0" data-def="depraved · adj. 堕落的；腐化的；卑鄙的; 使腐化"}. A [betrayer]{.vocab tabindex="0" data-def="betrayer · n. 叛徒；背信者；告密者"} of trust, they said. A [crackpot]{.vocab tabindex="0" data-def="crackpot · n. 怪人, 狂人"} chasing indulgence. Only a single [champion]{.vocab tabindex="0" data-def="champion · n. 冠军; 捍卫者, 拥护者"} — his oldest teacher, a woman of stubborn [discreet]{.vocab tabindex="0" data-def="discreet · adj. 小心的；谨慎的"}ness — refused to join the chorus, though even she could not reverse the tide.
 
-What the story leaves behind is not a lesson about talent. It is a lesson about which qualities survive success: the **cautious** ones, the quiet ones, the ones mistaken for weakness until they are gone.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **aptitude** <span class="wpos">n.</span> | 天资；天生的才能；天赋 |
-| **aspiring** <span class="wpos">adj.</span> | 有抱负的；追求…的；高耸的; 立志 |
-| **audacity** <span class="wpos">n.</span> | 大胆，无畏; 鲁莽；胆大妄为，厚颜无耻; 鲁莽行为；放肆的话 |
-| **besmirch** <span class="wpos">vt.</span> | 弄脏,玷污；丑化, 糟蹋 |
-| **betrayer** <span class="wpos">n.</span> | 叛徒；背信者；告密者 |
-| **boastful** <span class="wpos">adj.</span> | 自夸的；喜夸耀的；自负的 |
-| **boldness** <span class="wpos">n.</span> | 大胆,冒失,勇敢 |
-| **bonhomie** <span class="wpos">n.</span> | 温和, 友好 |
-| **Casanova** <span class="wpos">n.</span> | 卡萨诺瓦,风流浪子,好色之徒 |
-| **cautious** <span class="wpos">adj.</span> | 小心的, 谨慎的 |
-| **cavalier** <span class="wpos">n.</span> | 对女人彬彬有礼的绅士,对女人献殷勤的男子; 骑士,骑手; 英内战时查理一世的支持者,保皇党成员; 随… |
-| **champion** <span class="wpos">n.</span> | 冠军; 捍卫者, 拥护者 |
-| **chastity** <span class="wpos">n.</span> | 纯洁；贞洁；简洁 |
-| **chivalry** <span class="wpos">n.</span> | 骑士制度; 骑士气概,骑士品质 |
-| **civility** <span class="wpos">n.</span> | 礼貌；端庄；礼仪 |
-| **courtesy** <span class="wpos">n.</span> | 礼貌；好意；恩惠; 殷勤的；被承认的；出于礼节的 |
-| **crackpot** <span class="wpos">n.</span> | 怪人, 狂人 |
-| **cynicism** <span class="wpos">n.</span> | 讥笑;讥讽的言词; 愤世嫉俗；玩世不恭; 犬儒主义 |
-| **decisive** <span class="wpos">adj.</span> | 决定性的；果断的，坚定的 |
-| **dedicate** <span class="wpos">vt.</span> | 致力；献身；题献 |
-| **demeanor** <span class="wpos">n.</span> | 行为；举止；风度 |
-| **depraved** <span class="wpos">adj.</span> | 堕落的；腐化的；卑鄙的; 使腐化 |
-| **devilish** <span class="wpos">adj.</span> | 如恶魔般的,精力旺盛的 |
-| **diabolic** <span class="wpos">adj.</span> | 残忍的；魔鬼似的；恶魔的 |
-| **discreet** <span class="wpos">adj.</span> | 小心的；谨慎的 |
-| **dogmatic** <span class="wpos">adj.</span> | 教条的；武断的 |
-| **drunkard** <span class="wpos">n.</span> | 酒鬼，醉汉 |
-| **eminence** <span class="wpos">n.</span> | 显赫；卓越；高处 |
-| **fabulist** <span class="wpos">n.</span> | 寓言家,说谎者 |
-| **feminine** <span class="wpos">adj.</span> | 有女性气质的, 女子气的, 适于女子的; 〈语〉阴性的 |
-:::
-:::
-::::
+What the story leaves behind is not a lesson about talent. It is a lesson about which qualities survive success: the [cautious]{.vocab tabindex="0" data-def="cautious · adj. 小心的, 谨慎的"} ones, the quiet ones, the ones mistaken for weakness until they are gone.
 
 ### The Resident Polymath and the Crowd Around Him
 
-:::: {.columns}
-::: {.column width="57%"}
-Marcus had long been the **polymath** of the village council — historian, engineer, amateur physician all at once — and his **incisive** observations cut through confusion the way a blade cuts cloth. His **fidelity** to the truth was his most celebrated **hallmark**: he never dressed a fact in **pretense**, never softened a verdict to spare someone's feelings. Yet he remained **gracious** in delivery, **punctual** to every meeting, and **flexible** enough to revise a conclusion the moment better evidence appeared. Where others grew **hesitant** before hard choices, Marcus was **resolute**, and where they stumbled into **reckless** action, he measured twice.
+Marcus had long been the [polymath]{.vocab tabindex="0" data-def="polymath · n. 博学者,博识者"} of the village council — historian, engineer, amateur physician all at once — and his [incisive]{.vocab tabindex="0" data-def="incisive · adj. 敏锐的；深刻的；锋利的"} observations cut through confusion the way a blade cuts cloth. His [fidelity]{.vocab tabindex="0" data-def="fidelity · n. 保真度；忠诚；尽责；精确"} to the truth was his most celebrated [hallmark]{.vocab tabindex="0" data-def="hallmark · n. 品质证明；特点; 给…盖上品质证明印记；使具有…标志"}: he never dressed a fact in [pretense]{.vocab tabindex="0" data-def="pretense · n. 假装；矫饰；虚伪；做作; 借口，托词; 自称，自吹; 炫耀; 要求，虚假的理由"}, never softened a verdict to spare someone's feelings. Yet he remained [gracious]{.vocab tabindex="0" data-def="gracious · adj. 亲切的；和蔼的；高尚的；雅致的; 天哪；哎呀"} in delivery, [punctual]{.vocab tabindex="0" data-def="punctual · adj. 准时的，守时的；精确的"} to every meeting, and [flexible]{.vocab tabindex="0" data-def="flexible · adj. 灵活的；柔韧的；易弯曲的"} enough to revise a conclusion the moment better evidence appeared. Where others grew [hesitant]{.vocab tabindex="0" data-def="hesitant · adj. 踌躇的；迟疑的；犹豫不定的"} before hard choices, Marcus was [resolute]{.vocab tabindex="0" data-def="resolute · adj. 坚决的；果断的"}, and where they stumbled into [reckless]{.vocab tabindex="0" data-def="reckless · adj. 轻率的; 鲁莽的; 不顾危险的"} action, he measured twice.
 
-Seated across the table was Dorian, a man whose **ferocity** in argument bordered on the **ghoulish** — he seemed to feed on other people's discomfort. A known **renegade** within the guild, he carried a **penchant** for **machismo** that manifested as theatrical contempt for anyone who disagreed. He was **insolent** to subordinates, **petulant** when overruled, and **grasping** in every negotiation, squeezing advantage from the smallest concession. His reputation was **infamous**; newcomers were warned in whispers. Still, **peculiar** as it seemed, the council kept him — his ruthlessness was occasionally useful.
+Seated across the table was Dorian, a man whose [ferocity]{.vocab tabindex="0" data-def="ferocity · n. 凶猛；残忍；暴行"} in argument bordered on the [ghoulish]{.vocab tabindex="0" data-def="ghoulish · adj. 食尸鬼似的；令人毛骨悚然的"} — he seemed to feed on other people's discomfort. A known [renegade]{.vocab tabindex="0" data-def="renegade · n. 叛徒, 变节者"} within the guild, he carried a [penchant]{.vocab tabindex="0" data-def="penchant · n. 爱好,嗜好"} for [machismo]{.vocab tabindex="0" data-def="machismo · n. 男子气概"} that manifested as theatrical contempt for anyone who disagreed. He was [insolent]{.vocab tabindex="0" data-def="insolent · adj. 无礼的；粗野的；傲慢的；无耻的"} to subordinates, [petulant]{.vocab tabindex="0" data-def="petulant · adj. 易怒的,使性子的,脾气坏的"} when overruled, and [grasping]{.vocab tabindex="0" data-def="grasping · adj. 贪婪的；紧紧抓住的; 抓紧，抓牢；理解，领会"} in every negotiation, squeezing advantage from the smallest concession. His reputation was [infamous]{.vocab tabindex="0" data-def="infamous · adj. 无耻的；声名狼藉的；邪恶的；不名誉的"}; newcomers were warned in whispers. Still, [peculiar]{.vocab tabindex="0" data-def="peculiar · adj. 奇怪的, 异常的; 特有的, 独具的; 〈非正〉不舒服, 有病的"} as it seemed, the council kept him — his ruthlessness was occasionally useful.
 
-Between these two sat Ellie, wide-eyed and entirely **gullible**, an **innocent** fresh from the provinces who had not yet learned to read a room. She was **habitual**ly trusting, almost **peccable** in her eagerness to believe the best of people, and it showed. An **impostor** had once walked straight past her desk by simply smiling. Marcus watched her with quiet concern; Dorian watched her as an opportunity. When Dorian tried his usual sleight of hand with the quarterly figures, however, it was Ellie — not Marcus — who managed to **outsmart** him, her instinct sharper than her manner suggested. The **meanness** of his defeat registered on Dorian's face like a slap. She gave him a bright, unbothered smile — the purest **mischief** — and Marcus, for once, let himself laugh.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **ferocity** <span class="wpos">n.</span> | 凶猛；残忍；暴行 |
-| **fidelity** <span class="wpos">n.</span> | 保真度；忠诚；尽责；精确 |
-| **flexible** <span class="wpos">adj.</span> | 灵活的；柔韧的；易弯曲的 |
-| **ghoulish** <span class="wpos">adj.</span> | 食尸鬼似的；令人毛骨悚然的 |
-| **gracious** <span class="wpos">adj.</span> | 亲切的；和蔼的；高尚的；雅致的; 天哪；哎呀 |
-| **grasping** <span class="wpos">adj.</span> | 贪婪的；紧紧抓住的; 抓紧，抓牢；理解，领会 |
-| **gullible** <span class="wpos">adj.</span> | 易受骗的；轻信的 |
-| **habitual** <span class="wpos">adj.</span> | 习惯的, 惯常的 |
-| **half-wit** <span class="wpos">n.</span> | 愚蠢低能的人,笨蛋,傻瓜 |
-| **hallmark** <span class="wpos">n.</span> | 品质证明；特点; 给…盖上品质证明印记；使具有…标志 |
-| **hesitant** <span class="wpos">adj.</span> | 踌躇的；迟疑的；犹豫不定的 |
-| **impostor** <span class="wpos">n.</span> | 冒名顶替者;骗子 |
-| **incisive** <span class="wpos">adj.</span> | 敏锐的；深刻的；锋利的 |
-| **infamous** <span class="wpos">adj.</span> | 无耻的；声名狼藉的；邪恶的；不名誉的 |
-| **innocent** <span class="wpos">adj.</span> | 无罪的；无辜的；无知的; 天真的人；笨蛋 |
-| **insolent** <span class="wpos">adj.</span> | 无礼的；粗野的；傲慢的；无耻的 |
-| **machismo** <span class="wpos">n.</span> | 男子气概 |
-| **meanness** <span class="wpos">n.</span> | 吝啬；卑鄙；劣等 |
-| **mischief** <span class="wpos">n.</span> | 损害, 危害, 伤害; 胡闹, 调皮捣蛋, 恶作剧; 调皮捣蛋的人, 淘气鬼 |
-| **outsmart** <span class="wpos">vt.</span> | 比…更聪明；用计谋打败 |
-| **peccable** <span class="wpos">adj.</span> | 易犯罪的,易犯过失的 |
-| **peculiar** <span class="wpos">adj.</span> | 奇怪的, 异常的; 特有的, 独具的; 〈非正〉不舒服, 有病的 |
-| **penchant** <span class="wpos">n.</span> | 爱好,嗜好 |
-| **petulant** <span class="wpos">adj.</span> | 易怒的,使性子的,脾气坏的 |
-| **polymath** <span class="wpos">n.</span> | 博学者,博识者 |
-| **pretense** <span class="wpos">n.</span> | 假装；矫饰；虚伪；做作; 借口，托词; 自称，自吹; 炫耀; 要求，虚假的理由 |
-| **punctual** <span class="wpos">adj.</span> | 准时的，守时的；精确的 |
-| **reckless** <span class="wpos">adj.</span> | 轻率的; 鲁莽的; 不顾危险的 |
-| **renegade** <span class="wpos">n.</span> | 叛徒, 变节者 |
-| **resolute** <span class="wpos">adj.</span> | 坚决的；果断的 |
-:::
-:::
-::::
+Between these two sat Ellie, wide-eyed and entirely [gullible]{.vocab tabindex="0" data-def="gullible · adj. 易受骗的；轻信的"}, an [innocent]{.vocab tabindex="0" data-def="innocent · adj. 无罪的；无辜的；无知的; 天真的人；笨蛋"} fresh from the provinces who had not yet learned to read a room. She was [habitual]{.vocab tabindex="0" data-def="habitual · adj. 习惯的, 惯常的"}ly trusting, almost [peccable]{.vocab tabindex="0" data-def="peccable · adj. 易犯罪的,易犯过失的"} in her eagerness to believe the best of people, and it showed. An [impostor]{.vocab tabindex="0" data-def="impostor · n. 冒名顶替者;骗子"} had once walked straight past her desk by simply smiling. Marcus watched her with quiet concern; Dorian watched her as an opportunity. When Dorian tried his usual sleight of hand with the quarterly figures, however, it was Ellie — not Marcus — who managed to [outsmart]{.vocab tabindex="0" data-def="outsmart · vt. 比…更聪明；用计谋打败"} him, her instinct sharper than her manner suggested. The [meanness]{.vocab tabindex="0" data-def="meanness · n. 吝啬；卑鄙；劣等"} of his defeat registered on Dorian's face like a slap. She gave him a bright, unbothered smile — the purest [mischief]{.vocab tabindex="0" data-def="mischief · n. 损害, 危害, 伤害; 胡闹, 调皮捣蛋, 恶作剧; 调皮捣蛋的人, 淘气鬼"} — and Marcus, for once, let himself laugh.
 
 ### The Weight of Character
 
-:::: {.columns}
-::: {.column width="57%"}
-The old judge was known for his **rigorous** examination of evidence — not a single claim escaped his **thorough** scrutiny. He moved through the courtroom with the quiet **sobriety** of a man who had long since burned away every illusion, and when he spoke, he did so **solemnly**, each word chosen with care. People who knew him called him **virtuous** and **bona fide** in every dealing; those who crossed him learned quickly that his **tenacity** was not a performance. He was, in the truest sense, **allegiant** to the law rather than to any person.
+The old judge was known for his [rigorous]{.vocab tabindex="0" data-def="rigorous · adj. 严密的；缜密的; 严格的，严厉的"} examination of evidence — not a single claim escaped his [thorough]{.vocab tabindex="0" data-def="thorough · adj. 彻底的；十分的；周密的"} scrutiny. He moved through the courtroom with the quiet [sobriety]{.vocab tabindex="0" data-def="sobriety · n. 节制；清醒，冷静；严肃"} of a man who had long since burned away every illusion, and when he spoke, he did so [solemnly]{.vocab tabindex="0" data-def="solemnly · adv. 庄严地；严肃地"}, each word chosen with care. People who knew him called him [virtuous]{.vocab tabindex="0" data-def="virtuous · adj. 有道德的；贞洁的；善良的；有效力的；正直的"} and [bona fide]{.vocab tabindex="0" data-def="bona fide · adj. 真诚的；善意的；真实的; 真实地；真诚地；善意地"} in every dealing; those who crossed him learned quickly that his [tenacity]{.vocab tabindex="0" data-def="tenacity · n. 固执；韧性；不屈不挠；黏性"} was not a performance. He was, in the truest sense, [allegiant]{.vocab tabindex="0" data-def="allegiant · adj. 忠心的,忠实的"} to the law rather than to any person.
 
-His young clerk was a different creature — **sanguine** by nature, **assertive** in argument, and genuinely **attentive** to the needs of whoever stood before the bench. She was **competent** far beyond her years. Yet she harbored a **stubborn** streak that occasionally shaded into **bossiness**, and colleagues sometimes found her manner **blatantly** blunt. She practiced a private **stoicism**, rarely letting frustration show, and guarded her own **veracity** as though honesty were a physical thing that could be stolen. She was **vigilant** against **spurious** claims and had a particular contempt for **chicanery** — the backroom whispers, the doctored receipts, the **arbitrary** rulings dressed up as principle.
+His young clerk was a different creature — [sanguine]{.vocab tabindex="0" data-def="sanguine · adj. 充满希望的;乐观的; 面色红润的"} by nature, [assertive]{.vocab tabindex="0" data-def="assertive · adj. 断言的，肯定的; 表现出刚毅与自信性格的；坚定而自信的; 武断的，独断的; 有浓郁香味的"} in argument, and genuinely [attentive]{.vocab tabindex="0" data-def="attentive · adj. 对某人〔物〕 注意的;留心的;警惕的; 殷勤的;体贴的; 彬彬有礼的"} to the needs of whoever stood before the bench. She was [competent]{.vocab tabindex="0" data-def="competent · adj. 有能力的, 能胜任的"} far beyond her years. Yet she harbored a [stubborn]{.vocab tabindex="0" data-def="stubborn · adj. 顽固的；固执的; 难以移动、去除、医治等"} streak that occasionally shaded into [bossiness]{.vocab tabindex="0" data-def="bossiness · n. 跋扈 作威作福"}, and colleagues sometimes found her manner [blatantly]{.vocab tabindex="0" data-def="blatantly · adv. 喧闹地; 公然地"} blunt. She practiced a private [stoicism]{.vocab tabindex="0" data-def="stoicism · n. 斯多葛哲学，斯多葛学派；恬淡寡欲 Stoicismn. 斯多葛派哲学; 坚忍; 恬淡寡欲"}, rarely letting frustration show, and guarded her own [veracity]{.vocab tabindex="0" data-def="veracity · n. 诚实;真实"} as though honesty were a physical thing that could be stolen. She was [vigilant]{.vocab tabindex="0" data-def="vigilant · adj. 警惕的；警戒的；警醒的；注意的"} against [spurious]{.vocab tabindex="0" data-def="spurious · adj. 假的；伪造的；欺骗的"} claims and had a particular contempt for [chicanery]{.vocab tabindex="0" data-def="chicanery · n. 耍花招哄骗别人;不诚实的行为; 哄骗;欺骗"} — the backroom whispers, the doctored receipts, the [arbitrary]{.vocab tabindex="0" data-def="arbitrary · adj. 随意的, 主观的; 专横的, 独断专行的"} rulings dressed up as principle.
 
-It was the new prosecutor who unsettled the room. Something in his bearing was **unseemly**, an edge that hinted at pleasure where there should have been only duty. Colleagues whispered that he was **sadistic** in the way he prolonged cross-examination, **ruthless** in the way he buried evidence that weakened his case. His **arrogance** filled the corridor before he arrived; a wiseacre in the gallery once said he had mistaken the courtroom for a theatre. When challenged, he would **unbridle** his contempt openly, letting it run. He was, in short, the **barbarian** the profession sometimes produces — outwardly **solitary** and self-sufficient, inwardly nothing but appetite. Beside him, even the most **compliant** witness stiffened, sensing that whatever **wiseacre** confidence they had rehearsed at home would be turned against them. He trafficked in **arrogance** as currency, and the **bossiness** he wore like a coat was not authority but its empty imitation.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **rigorous** <span class="wpos">adj.</span> | 严密的；缜密的; 严格的，严厉的 |
-| **ruthless** <span class="wpos">adj.</span> | 无情的，残忍的 |
-| **sadistic** <span class="wpos">adj.</span> | 有虐待狂的 |
-| **sanguine** <span class="wpos">adj.</span> | 充满希望的;乐观的; 面色红润的 |
-| **sobriety** <span class="wpos">n.</span> | 节制；清醒，冷静；严肃 |
-| **solemnly** <span class="wpos">adv.</span> | 庄严地；严肃地 |
-| **solitary** <span class="wpos">adj.</span> | 单独的; 独居的; 无伴的; 惟一的; 人迹罕至的; 幽静的 |
-| **spurious** <span class="wpos">adj.</span> | 假的；伪造的；欺骗的 |
-| **stoicism** <span class="wpos">n.</span> | 斯多葛哲学，斯多葛学派；恬淡寡欲 Stoicismn. 斯多葛派哲学; 坚忍; 恬淡寡欲 |
-| **stubborn** <span class="wpos">adj.</span> | 顽固的；固执的; 难以移动、去除、医治等 |
-| **tenacity** <span class="wpos">n.</span> | 固执；韧性；不屈不挠；黏性 |
-| **thorough** <span class="wpos">adj.</span> | 彻底的；十分的；周密的 |
-| **unbridle** <span class="wpos">vt.</span> | 卸下马的辔头；放纵 |
-| **unseemly** <span class="wpos">adj.</span> | 不适宜的；不得体的; 不得体地；不适宜地 |
-| **veracity** <span class="wpos">n.</span> | 诚实;真实 |
-| **vigilant** <span class="wpos">adj.</span> | 警惕的；警戒的；警醒的；注意的 |
-| **virtuous** <span class="wpos">adj.</span> | 有道德的；贞洁的；善良的；有效力的；正直的 |
-| **wiseacre** <span class="wpos">n.</span> | 自以为聪明者 |
-| **allegiant** <span class="wpos">adj.</span> | 忠心的,忠实的 |
-| **arbitrary** <span class="wpos">adj.</span> | 随意的, 主观的; 专横的, 独断专行的 |
-| **arrogance** <span class="wpos">n.</span> | 傲慢;自大;自负 |
-| **assertive** <span class="wpos">adj.</span> | 断言的，肯定的; 表现出刚毅与自信性格的；坚定而自信的; 武断的，独断的; 有浓郁香味的 |
-| **attentive** <span class="wpos">adj.</span> | 对某人〔物〕 注意的;留心的;警惕的; 殷勤的;体贴的; 彬彬有礼的 |
-| **barbarian** <span class="wpos">n.</span> | 野蛮人，未开化的人; 粗野的人；残暴的人; 无教养的人; 外国人，异族人; 外国人，异族人; 野蛮人… |
-| **blatantly** <span class="wpos">adv.</span> | 喧闹地; 公然地 |
-| **bona fide** <span class="wpos">adj.</span> | 真诚的；善意的；真实的; 真实地；真诚地；善意地 |
-| **bossiness** <span class="wpos">n.</span> | 跋扈 作威作福 |
-| **chicanery** <span class="wpos">n.</span> | 耍花招哄骗别人;不诚实的行为; 哄骗;欺骗 |
-| **competent** <span class="wpos">adj.</span> | 有能力的, 能胜任的 |
-| **compliant** <span class="wpos">adj.</span> | 遵从的,依从的,顺从的,屈从的 |
-:::
-:::
-::::
+It was the new prosecutor who unsettled the room. Something in his bearing was [unseemly]{.vocab tabindex="0" data-def="unseemly · adj. 不适宜的；不得体的; 不得体地；不适宜地"}, an edge that hinted at pleasure where there should have been only duty. Colleagues whispered that he was [sadistic]{.vocab tabindex="0" data-def="sadistic · adj. 有虐待狂的"} in the way he prolonged cross-examination, [ruthless]{.vocab tabindex="0" data-def="ruthless · adj. 无情的，残忍的"} in the way he buried evidence that weakened his case. His [arrogance]{.vocab tabindex="0" data-def="arrogance · n. 傲慢;自大;自负"} filled the corridor before he arrived; a wiseacre in the gallery once said he had mistaken the courtroom for a theatre. When challenged, he would [unbridle]{.vocab tabindex="0" data-def="unbridle · vt. 卸下马的辔头；放纵"} his contempt openly, letting it run. He was, in short, the [barbarian]{.vocab tabindex="0" data-def="barbarian · n. 野蛮人，未开化的人; 粗野的人；残暴的人; 无教养的人; 外国人，异族人; 外国人，异族人; 野蛮人…"} the profession sometimes produces — outwardly [solitary]{.vocab tabindex="0" data-def="solitary · adj. 单独的; 独居的; 无伴的; 惟一的; 人迹罕至的; 幽静的"} and self-sufficient, inwardly nothing but appetite. Beside him, even the most [compliant]{.vocab tabindex="0" data-def="compliant · adj. 遵从的,依从的,顺从的,屈从的"} witness stiffened, sensing that whatever [wiseacre]{.vocab tabindex="0" data-def="wiseacre · n. 自以为聪明者"} confidence they had rehearsed at home would be turned against them. He trafficked in [arrogance]{.vocab tabindex="0" data-def="arrogance · n. 傲慢;自大;自负"} as currency, and the [bossiness]{.vocab tabindex="0" data-def="bossiness · n. 跋扈 作威作福"} he wore like a coat was not authority but its empty imitation.
 
 ### The Gilded Mask and the Quiet Core
 
-:::: {.columns}
-::: {.column width="57%"}
-At first glance, Dorian seemed **courteous** and effortlessly charming — the kind of man who made every stranger feel welcome. Yet those who knew him longer sensed something **deceptive** beneath the polished surface. His **enigmatic** silences hinted at depths he never willingly revealed, and his **loftiness** — that cool elevation in his gaze — kept even close friends at arm's length.
+At first glance, Dorian seemed [courteous]{.vocab tabindex="0" data-def="courteous · adj. 彬彬有礼的; 客气的"} and effortlessly charming — the kind of man who made every stranger feel welcome. Yet those who knew him longer sensed something [deceptive]{.vocab tabindex="0" data-def="deceptive · adj. 可能欺骗的, 导致误解的"} beneath the polished surface. His [enigmatic]{.vocab tabindex="0" data-def="enigmatic · adj. 难以理解的,神秘的; 莫名其妙地,难以理解地"} silences hinted at depths he never willingly revealed, and his [loftiness]{.vocab tabindex="0" data-def="loftiness · n. 高傲,高深,崇高"} — that cool elevation in his gaze — kept even close friends at arm's length.
 
-His childhood friend Marcus was his opposite: an **introvert** who preferred a single candle and a notebook to any crowded room. Where Dorian was **impulsive**, Marcus was deliberate; where Dorian grew **conceited** after each small success, Marcus met praise with quiet **deference**. Marcus possessed a rare **integrity** — not the performance of virtue, but the bone-deep kind that holds even when no one is watching. His **diligence** was legendary in their circle: **effortful**, unglamorous, and utterly consistent.
+His childhood friend Marcus was his opposite: an [introvert]{.vocab tabindex="0" data-def="introvert · n. 性格内向的人 使内向；使内倾；使内弯 成为内弯；成为性格内向的人"} who preferred a single candle and a notebook to any crowded room. Where Dorian was [impulsive]{.vocab tabindex="0" data-def="impulsive · adj. 冲动的,易冲动的; 易冲动地; 易冲动"}, Marcus was deliberate; where Dorian grew [conceited]{.vocab tabindex="0" data-def="conceited · adj. 自负的, 自高自大的, 骄傲自满的"} after each small success, Marcus met praise with quiet [deference]{.vocab tabindex="0" data-def="deference · n. 顺从"}. Marcus possessed a rare [integrity]{.vocab tabindex="0" data-def="integrity · n. 正直；诚实，诚恳; 完整，完全，完善"} — not the performance of virtue, but the bone-deep kind that holds even when no one is watching. His [diligence]{.vocab tabindex="0" data-def="diligence · n. 勤奋，勤勉；注意的程度"} was legendary in their circle: [effortful]{.vocab tabindex="0" data-def="effortful · adj. 显示努力的,充满努力的,需要努力的"}, unglamorous, and utterly consistent.
 
-Between them stood Vera, a **dedicated** investigator whose job was, ironically, to study **deception** itself. She was **impartial** to a fault, never letting affection cloud her judgment, which made her **ingenious** methods all the more unsettling to those with something to hide. It was Vera who first named what Dorian had become: a **hypocrite** whose **hypocrisy** ran so deep he had forgotten his own original face. His charm was now **insidious** — it spread like a slow dye, **corrupted** every room it entered, and left people feeling vaguely smaller. His **duplicity** was not the brash kind; it was the quiet, **malicious** sort that wore a smile. Some called him merely **eccentric** or **crotchety**, forgiving his cruelties as quirks, but Vera saw the **malignant** pattern underneath.
+Between them stood Vera, a [dedicated]{.vocab tabindex="0" data-def="dedicated · adj. 专注的;献身的; 专用的"} investigator whose job was, ironically, to study [deception]{.vocab tabindex="0" data-def="deception · n. 欺骗; 骗术, 诡计"} itself. She was [impartial]{.vocab tabindex="0" data-def="impartial · adj. 不偏不倚的；公平的，公正的"} to a fault, never letting affection cloud her judgment, which made her [ingenious]{.vocab tabindex="0" data-def="ingenious · adj. 灵巧的, 善于创造发明的; 设计独特的, 制作精巧的"} methods all the more unsettling to those with something to hide. It was Vera who first named what Dorian had become: a [hypocrite]{.vocab tabindex="0" data-def="hypocrite · n. 伪君子, 伪善者"} whose [hypocrisy]{.vocab tabindex="0" data-def="hypocrisy · n. 伪善, 虚伪"} ran so deep he had forgotten his own original face. His charm was now [insidious]{.vocab tabindex="0" data-def="insidious · adj. 隐伏的,潜在的,暗中为害的; 潜在地,隐伏地,阴险地; 潜伏,阴险"} — it spread like a slow dye, [corrupted]{.vocab tabindex="0" data-def="corrupted · adj. 毁坏的@动词corrupt的"} every room it entered, and left people feeling vaguely smaller. His [duplicity]{.vocab tabindex="0" data-def="duplicity · n. 口是心非；表里不一；不诚实"} was not the brash kind; it was the quiet, [malicious]{.vocab tabindex="0" data-def="malicious · adj. 恶意的, 恶毒的"} sort that wore a smile. Some called him merely [eccentric]{.vocab tabindex="0" data-def="eccentric · adj. 古怪的，怪癖的；异乎寻常的"} or [crotchety]{.vocab tabindex="0" data-def="crotchety · adj. 有怪想的,反复无常的,想入非非的"}, forgiving his cruelties as quirks, but Vera saw the [malignant]{.vocab tabindex="0" data-def="malignant · adj. 恶毒的，极想伤害他人的; 恶性的；极危险的；致命的"} pattern underneath.
 
-The tragedy was not Dorian's vanity alone. It was that he had once been a genuine **daredevil** — someone whose recklessness came from courage rather than contempt. Somewhere along the way, bravery curdled into **egregious** self-regard. He became **lecherous** toward admiration, **indulgent** in every weakness, and **frivolous** with the feelings of those who still cared for him. To be near him was **degrading** in a way that was hard to name — not a single insult, but a thousand small erasures.
+The tragedy was not Dorian's vanity alone. It was that he had once been a genuine [daredevil]{.vocab tabindex="0" data-def="daredevil · n. 蛮勇的人,冒失鬼; 胆大妄为,蛮干; 胆大妄为,蛮干"} — someone whose recklessness came from courage rather than contempt. Somewhere along the way, bravery curdled into [egregious]{.vocab tabindex="0" data-def="egregious · adj. 极坏的;异乎寻常的"} self-regard. He became [lecherous]{.vocab tabindex="0" data-def="lecherous · adj. 好色的;淫荡的"} toward admiration, [indulgent]{.vocab tabindex="0" data-def="indulgent · adj. 放纵的,纵容的; 放纵地,纵容地"} in every weakness, and [frivolous]{.vocab tabindex="0" data-def="frivolous · adj. 不重要的，不必要的；轻浮愚蠢的; 不重要，不必要"} with the feelings of those who still cared for him. To be near him was [degrading]{.vocab tabindex="0" data-def="degrading · adj. 丢脸的;有辱人格的"} in a way that was hard to name — not a single insult, but a thousand small erasures.
 
-Marcus never confronted him. He simply kept his candle lit and his notebook open, trusting, in his **introvert**'s way, that quiet **integrity** outlasts every gilded mask.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **conceited** <span class="wpos">adj.</span> | 自负的, 自高自大的, 骄傲自满的 |
-| **corrupted** <span class="wpos">adj.</span> | 毁坏的@动词corrupt的 |
-| **courteous** <span class="wpos">adj.</span> | 彬彬有礼的; 客气的 |
-| **crotchety** <span class="wpos">adj.</span> | 有怪想的,反复无常的,想入非非的 |
-| **daredevil** <span class="wpos">n.</span> | 蛮勇的人,冒失鬼; 胆大妄为,蛮干; 胆大妄为,蛮干 |
-| **deception** <span class="wpos">n.</span> | 欺骗; 骗术, 诡计 |
-| **deceptive** <span class="wpos">adj.</span> | 可能欺骗的, 导致误解的 |
-| **dedicated** <span class="wpos">adj.</span> | 专注的;献身的; 专用的 |
-| **deference** <span class="wpos">n.</span> | 顺从 |
-| **degrading** <span class="wpos">adj.</span> | 丢脸的;有辱人格的 |
-| **diligence** <span class="wpos">n.</span> | 勤奋，勤勉；注意的程度 |
-| **duplicity** <span class="wpos">n.</span> | 口是心非；表里不一；不诚实 |
-| **eccentric** <span class="wpos">adj.</span> | 古怪的，怪癖的；异乎寻常的 |
-| **effortful** <span class="wpos">adj.</span> | 显示努力的,充满努力的,需要努力的 |
-| **egregious** <span class="wpos">adj.</span> | 极坏的;异乎寻常的 |
-| **enigmatic** <span class="wpos">adj.</span> | 难以理解的,神秘的; 莫名其妙地,难以理解地 |
-| **frivolous** <span class="wpos">adj.</span> | 不重要的，不必要的；轻浮愚蠢的; 不重要，不必要 |
-| **hypocrisy** <span class="wpos">n.</span> | 伪善, 虚伪 |
-| **hypocrite** <span class="wpos">n.</span> | 伪君子, 伪善者 |
-| **impartial** <span class="wpos">adj.</span> | 不偏不倚的；公平的，公正的 |
-| **impulsive** <span class="wpos">adj.</span> | 冲动的,易冲动的; 易冲动地; 易冲动 |
-| **indulgent** <span class="wpos">adj.</span> | 放纵的,纵容的; 放纵地,纵容地 |
-| **ingenious** <span class="wpos">adj.</span> | 灵巧的, 善于创造发明的; 设计独特的, 制作精巧的 |
-| **insidious** <span class="wpos">adj.</span> | 隐伏的,潜在的,暗中为害的; 潜在地,隐伏地,阴险地; 潜伏,阴险 |
-| **integrity** <span class="wpos">n.</span> | 正直；诚实，诚恳; 完整，完全，完善 |
-| **introvert** <span class="wpos">n.</span> | 性格内向的人 使内向；使内倾；使内弯 成为内弯；成为性格内向的人 |
-| **lecherous** <span class="wpos">adj.</span> | 好色的;淫荡的 |
-| **loftiness** <span class="wpos">n.</span> | 高傲,高深,崇高 |
-| **malicious** <span class="wpos">adj.</span> | 恶意的, 恶毒的 |
-| **malignant** <span class="wpos">adj.</span> | 恶毒的，极想伤害他人的; 恶性的；极危险的；致命的 |
-:::
-:::
-::::
+Marcus never confronted him. He simply kept his candle lit and his notebook open, trusting, in his [introvert]{.vocab tabindex="0" data-def="introvert · n. 性格内向的人 使内向；使内倾；使内弯 成为内弯；成为性格内向的人"}'s way, that quiet [integrity]{.vocab tabindex="0" data-def="integrity · n. 正直；诚实，诚恳; 完整，完全，完善"} outlasts every gilded mask.
 
 ### A Town of Souls, Dark and Bright
 
-:::: {.columns}
-::: {.column width="57%"}
-Marcus had always been **prescient** about character. He could read a room the way a cartographer reads terrain — noting every **tentative** smile, every **withdrawn** glance, every tell. That gift made him useful to the town, and he used it **prudently**, never speaking a judgment until he was sure.
+Marcus had always been [prescient]{.vocab tabindex="0" data-def="prescient · adj. 有预知能力的,有先见之明的"} about character. He could read a room the way a cartographer reads terrain — noting every [tentative]{.vocab tabindex="0" data-def="tentative · adj. 试探性的; 试验的; 尝试性的"} smile, every [withdrawn]{.vocab tabindex="0" data-def="withdrawn · adj. 沉默寡言的；怕羞的；内向的; 撤离；撤销；取款；收回；退出"} glance, every tell. That gift made him useful to the town, and he used it [prudently]{.vocab tabindex="0" data-def="prudently · adv. 智虑地; 谨慎地;慎重地; 精明地"}, never speaking a judgment until he was sure.
 
-Across the square lived Vincent, a man of **monstrous** reputation, whose **notoriety** had spread to three counties. He was **notorious** for **nefarious** schemes — land grabs dressed up in paperwork, **predatory** loans extended to families already drowning. His appetites were **unbridled**: gossip of a **salacious** private life only deepened the disgust people felt. Around children he was **obnoxious**, loud and dismissive; behind closed doors, **perverted** in his hunger for dominance. The town's historian had once called him a **sociopath**, and nobody had objected. His **treachery** was the dark watermark running through every deal he touched.
+Across the square lived Vincent, a man of [monstrous]{.vocab tabindex="0" data-def="monstrous · adj. 极可恶的；令人震惊的; 尺寸大得不顺眼的，大得古怪的"} reputation, whose [notoriety]{.vocab tabindex="0" data-def="notoriety · n. 臭名, 声名狼藉"} had spread to three counties. He was [notorious]{.vocab tabindex="0" data-def="notorious · adj. 臭名昭著的, 声名狼藉的"} for [nefarious]{.vocab tabindex="0" data-def="nefarious · adj. 极坏的;恶毒的"} schemes — land grabs dressed up in paperwork, [predatory]{.vocab tabindex="0" data-def="predatory · adj. 食肉的; 掠夺的，以掠夺为目的的；企图奴役他人的"} loans extended to families already drowning. His appetites were [unbridled]{.vocab tabindex="0" data-def="unbridled · adj. 无辔头的; 不受约束的;不受控制的;放纵的"}: gossip of a [salacious]{.vocab tabindex="0" data-def="salacious · adj. 色情的；淫荡的"} private life only deepened the disgust people felt. Around children he was [obnoxious]{.vocab tabindex="0" data-def="obnoxious · adj. 极不愉快的;讨厌的;可憎的; 令人非常不快地;引起反感地; 讨厌;可恶"}, loud and dismissive; behind closed doors, [perverted]{.vocab tabindex="0" data-def="perverted · adj. 不正当的"} in his hunger for dominance. The town's historian had once called him a [sociopath]{.vocab tabindex="0" data-def="sociopath · n. 反社会的人,不爱社交的人"}, and nobody had objected. His [treachery]{.vocab tabindex="0" data-def="treachery · n. 背信弃义，不忠，背叛；欺诈; 背叛行为；欺诈行为"} was the dark watermark running through every deal he touched.
 
-Against that shadow stood Elena. **Versatile** in her skills — healer, teacher, occasional surveyor — she was **reputable** from one end of the valley to the other. She was **veracious** to a fault, sometimes painfully so, but the town trusted her for it. Her **soundness** of judgment and instinctive **vigilance** had saved the cooperative from two bad harvests. She ran the grain store with a **pragmatic** hand, spending **voluntary** nights there during flood season, never billing an extra hour. Some called her **retentive** — she remembered every loan figure, every planted acre, every broken promise — but she wore that memory like armour. **Undaunted** by Vincent's legal threats, she **persevered** through two years of litigation without losing a step of her quiet composure. Where he was all spectacle, she was all **propriety**, her conduct so consistently clean it embarrassed the council into matching it. Her **proactive** proposals for a public granary were at first **whimsical** to them — too ambitious, they said — yet she **patriotic**ally framed every argument around what the valley could become rather than what it had lost.
+Against that shadow stood Elena. [Versatile]{.vocab tabindex="0" data-def="versatile · adj. 有多种学问、技能或职业的；多才多艺的; 多用途的，多功能的"} in her skills — healer, teacher, occasional surveyor — she was [reputable]{.vocab tabindex="0" data-def="reputable · adj. 值得尊敬的;声誉好的; 声誉好地"} from one end of the valley to the other. She was [veracious]{.vocab tabindex="0" data-def="veracious · adj. 诚实的; 诚实地; 诚实"} to a fault, sometimes painfully so, but the town trusted her for it. Her [soundness]{.vocab tabindex="0" data-def="soundness · n. 完全坚固,公正,稳固"} of judgment and instinctive [vigilance]{.vocab tabindex="0" data-def="vigilance · n. 警觉;警惕;警戒; 失眠症;惊醒症"} had saved the cooperative from two bad harvests. She ran the grain store with a [pragmatic]{.vocab tabindex="0" data-def="pragmatic · adj. 务实的；实事求是的；注重实效的; 实用主义的，实用主义观点的"} hand, spending [voluntary]{.vocab tabindex="0" data-def="voluntary · adj. 自愿的, 志愿的; 义务的, 无偿的"} nights there during flood season, never billing an extra hour. Some called her [retentive]{.vocab tabindex="0" data-def="retentive · adj. 有记性的,记性强的; 能保持或容纳液体等的; 有记性地,记性强地; 有记性,记性强; 保持力; 顽磁…"} — she remembered every loan figure, every planted acre, every broken promise — but she wore that memory like armour. [Undaunted]{.vocab tabindex="0" data-def="undaunted · adj. 顽强的;不惧怕的;无畏的"} by Vincent's legal threats, she [persevered]{.vocab tabindex="0" data-def="persevere · vi. 坚忍, 坚持"} through two years of litigation without losing a step of her quiet composure. Where he was all spectacle, she was all [propriety]{.vocab tabindex="0" data-def="propriety · n. ①礼貌，规矩; 正当，妥当；合适，适当，适宜"}, her conduct so consistently clean it embarrassed the council into matching it. Her [proactive]{.vocab tabindex="0" data-def="proactive · adj. 主动的，积极的；先发制人的"} proposals for a public granary were at first [whimsical]{.vocab tabindex="0" data-def="whimsical · adj. 异想天开的，闹着玩的；反复无常的"} to them — too ambitious, they said — yet she [patriotic]{.vocab tabindex="0" data-def="patriotic · adj. 爱国的, 有爱国心的"}ally framed every argument around what the valley could become rather than what it had lost.
 
-Vincent's one acknowledged virtue was a cruel **parsimony**: he wasted nothing, not even enemies. He studied Elena the way a hawk studies an open field.
+Vincent's one acknowledged virtue was a cruel [parsimony]{.vocab tabindex="0" data-def="parsimony · n. 异常俭省,极度节俭; 吝啬,小气"}: he wasted nothing, not even enemies. He studied Elena the way a hawk studies an open field.
 
 Elena studied him too. The difference was she already knew how the story ended.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **monstrous** <span class="wpos">adj.</span> | 极可恶的；令人震惊的; 尺寸大得不顺眼的，大得古怪的 |
-| **nefarious** <span class="wpos">adj.</span> | 极坏的;恶毒的 |
-| **notoriety** <span class="wpos">n.</span> | 臭名, 声名狼藉 |
-| **notorious** <span class="wpos">adj.</span> | 臭名昭著的, 声名狼藉的 |
-| **obnoxious** <span class="wpos">adj.</span> | 极不愉快的;讨厌的;可憎的; 令人非常不快地;引起反感地; 讨厌;可恶 |
-| **parsimony** <span class="wpos">n.</span> | 异常俭省,极度节俭; 吝啬,小气 |
-| **patriotic** <span class="wpos">adj.</span> | 爱国的, 有爱国心的 |
-| **persevere** <span class="wpos">vi.</span> | 坚忍, 坚持 |
-| **perverted** <span class="wpos">adj.</span> | 不正当的 |
-| **pragmatic** <span class="wpos">adj.</span> | 务实的；实事求是的；注重实效的; 实用主义的，实用主义观点的 |
-| **predatory** <span class="wpos">adj.</span> | 食肉的; 掠夺的，以掠夺为目的的；企图奴役他人的 |
-| **prescient** <span class="wpos">adj.</span> | 有预知能力的,有先见之明的 |
-| **proactive** <span class="wpos">adj.</span> | 主动的，积极的；先发制人的 |
-| **propriety** <span class="wpos">n.</span> | ①礼貌，规矩; 正当，妥当；合适，适当，适宜 |
-| **prudently** <span class="wpos">adv.</span> | 智虑地; 谨慎地;慎重地; 精明地 |
-| **reputable** <span class="wpos">adj.</span> | 值得尊敬的;声誉好的; 声誉好地 |
-| **retentive** <span class="wpos">adj.</span> | 有记性的,记性强的; 能保持或容纳液体等的; 有记性地,记性强地; 有记性,记性强; 保持力; 顽磁… |
-| **salacious** <span class="wpos">adj.</span> | 色情的；淫荡的 |
-| **sociopath** <span class="wpos">n.</span> | 反社会的人,不爱社交的人 |
-| **soundness** <span class="wpos">n.</span> | 完全坚固,公正,稳固 |
-| **tentative** <span class="wpos">adj.</span> | 试探性的; 试验的; 尝试性的 |
-| **treachery** <span class="wpos">n.</span> | 背信弃义，不忠，背叛；欺诈; 背叛行为；欺诈行为 |
-| **unbridled** <span class="wpos">adj.</span> | 无辔头的; 不受约束的;不受控制的;放纵的 |
-| **undaunted** <span class="wpos">adj.</span> | 顽强的;不惧怕的;无畏的 |
-| **veracious** <span class="wpos">adj.</span> | 诚实的; 诚实地; 诚实 |
-| **versatile** <span class="wpos">adj.</span> | 有多种学问、技能或职业的；多才多艺的; 多用途的，多功能的 |
-| **vigilance** <span class="wpos">n.</span> | 警觉;警惕;警戒; 失眠症;惊醒症 |
-| **voluntary** <span class="wpos">adj.</span> | 自愿的, 志愿的; 义务的, 无偿的 |
-| **whimsical** <span class="wpos">adj.</span> | 异想天开的，闹着玩的；反复无常的 |
-| **withdrawn** <span class="wpos">adj.</span> | 沉默寡言的；怕羞的；内向的; 撤离；撤销；取款；收回；退出 |
-:::
-:::
-::::
 
 ### The Portrait Gallery
 
-:::: {.columns}
-::: {.column width="57%"}
-Malcolm had always been the kind of man people studied from across the room. His **brilliance** was undeniable — a **consummate** negotiator who could dismantle any argument with a single, well-timed sentence. Yet he wore his gifts **arrogantly**, treating lesser minds as furniture. His manner was **impersonal**, almost clinical, and his schedule ran on **deliberate** precision: every meeting timed, every word pre-weighed. Those who were not **accustomed** to him found the experience unsettling.
+Malcolm had always been the kind of man people studied from across the room. His [brilliance]{.vocab tabindex="0" data-def="brilliance · n. 才华，才智; 光亮；光辉；光彩; 宏伟，壮丽"} was undeniable — a [consummate]{.vocab tabindex="0" data-def="consummate · adj. 技艺高超的；完美无缺的；圆满的；炉火纯青的; 同房；通过性交使圆满; 使完整；使完美"} negotiator who could dismantle any argument with a single, well-timed sentence. Yet he wore his gifts [arrogantly]{.vocab tabindex="0" data-def="arrogantly · adv. 自大地,傲慢地"}, treating lesser minds as furniture. His manner was [impersonal]{.vocab tabindex="0" data-def="impersonal · adj. 不受个人情感影响的，冷淡的; 客观的; 与个人无关; 冷淡地；客观地"}, almost clinical, and his schedule ran on [deliberate]{.vocab tabindex="0" data-def="deliberate · adj. 故意的, 蓄意的; 慎重的, 深思熟虑的; 不慌不忙的, 从容不迫的; &amp; 仔细考虑; 研讨…"} precision: every meeting timed, every word pre-weighed. Those who were not [accustomed]{.vocab tabindex="0" data-def="accustomed · adj. 惯常的; 习惯于…的"} to him found the experience unsettling.
 
-Beside him stood Vera, his professional opposite and, quietly, his conscience. She was **altruistic** to a fault — **hospitable** to strangers, patient with rivals, and possessed of an **impeccable** sense of when to speak and when to hold back. Her **discretion** was legendary in the firm; confidences evaporated into her like water into sand. She practised a private **abstinence** from gossip, and a deeper **continence** of judgment that kept her trusted on every floor. Where Malcolm acted from **expediency**, Vera acted from **conscience**. Her **dedication** to fairness was not performance — it was architecture.
+Beside him stood Vera, his professional opposite and, quietly, his conscience. She was [altruistic]{.vocab tabindex="0" data-def="altruistic · adj. 利他的,无私心的"} to a fault — [hospitable]{.vocab tabindex="0" data-def="hospitable · adj. 好客的, 殷勤的, 热情友好的"} to strangers, patient with rivals, and possessed of an [impeccable]{.vocab tabindex="0" data-def="impeccable · adj. 无瑕疵的；没有缺点的"} sense of when to speak and when to hold back. Her [discretion]{.vocab tabindex="0" data-def="discretion · n. 慎重, 谨慎; 随意; 由某人斟酌决定；随某人支配; 随…的意见; 谨慎即大勇；不作无谓的冒险"} was legendary in the firm; confidences evaporated into her like water into sand. She practised a private [abstinence]{.vocab tabindex="0" data-def="abstinence · n. 节制，禁绝，禁欲; 戒酒; 禁食; 旨在积累资本的)进项储存，节流，节支"} from gossip, and a deeper [continence]{.vocab tabindex="0" data-def="continence · n. 节欲；自制，克制"} of judgment that kept her trusted on every floor. Where Malcolm acted from [expediency]{.vocab tabindex="0" data-def="expediency · n. 适宜;方便;合算; 利己；权术；权宜之计"}, Vera acted from [conscience]{.vocab tabindex="0" data-def="conscience · n. 良心"}. Her [dedication]{.vocab tabindex="0" data-def="dedication · n. 奉献,献身; 献身精神; 题词,献词"} to fairness was not performance — it was architecture.
 
-Then there was Dorian, the firm's resident **contrarian**, whose **capricious** moods made every Monday unpredictable. He was **boisterous** in the break room and **illiterate** in the politics that kept everyone else safe, which made him both entertaining and dangerous. His appetites were **insatiable** — for credit, for attention, for the next idea nobody else had dared yet. Critics called his methods **diabolical**; admirers called him **invincible**. The truth was somewhere in between: a man of real **initiative** and **liberality** with praise, but equally capable of something **despicable** when cornered. His ethics had a known weakness for **immorality** whenever the stakes rose high enough, and the **licentious** ease with which he bent rules made Vera wince and Malcolm quietly take notes.
+Then there was Dorian, the firm's resident [contrarian]{.vocab tabindex="0" data-def="contrarian · n. 采取相反态度者，背道而驰者；多数人抛售时反而吃进者"}, whose [capricious]{.vocab tabindex="0" data-def="capricious · adj. 无定见的,变幻莫测的"} moods made every Monday unpredictable. He was [boisterous]{.vocab tabindex="0" data-def="boisterous · adj. 热闹的；喧闹的；爱闹的；狂欢的; 凶猛的，粗鲁的; 粗糙的；巨大的"} in the break room and [illiterate]{.vocab tabindex="0" data-def="illiterate · adj. 目不识丁的,文盲的; 目不识丁者,文盲; 文盲,无知"} in the politics that kept everyone else safe, which made him both entertaining and dangerous. His appetites were [insatiable]{.vocab tabindex="0" data-def="insatiable · adj. 不知足的；贪得无厌的"} — for credit, for attention, for the next idea nobody else had dared yet. Critics called his methods [diabolical]{.vocab tabindex="0" data-def="diabolical · adj. 恶魔的;残忍的"}; admirers called him [invincible]{.vocab tabindex="0" data-def="invincible · adj. 不可战胜的;不能征服的"}. The truth was somewhere in between: a man of real [initiative]{.vocab tabindex="0" data-def="initiative · n. 主动性, 首创精神; 主动的行动, 倡议; 主动权"} and [liberality]{.vocab tabindex="0" data-def="liberality · n. 慷慨,大方; 宽容,开朗"} with praise, but equally capable of something [despicable]{.vocab tabindex="0" data-def="despicable · adj. 可鄙的,卑鄙的"} when cornered. His ethics had a known weakness for [immorality]{.vocab tabindex="0" data-def="immorality · n. 不道德,无道义"} whenever the stakes rose high enough, and the [licentious]{.vocab tabindex="0" data-def="licentious · adj. 放荡的,淫乱的"} ease with which he bent rules made Vera wince and Malcolm quietly take notes.
 
-What the gallery held, in the end, was not heroes and villains but a spectrum — from the openly **abominable** to the quietly **aboveboard**, and all the complicated humanity in between.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **abominable** <span class="wpos">adj.</span> | 讨厌的, 可恶的; 糟糕的, 极坏的; 令人极为不快的,令人作呕的; 讨厌, 可恶; 恶劣地；令人厌… |
-| **aboveboard** <span class="wpos">adv.</span> | &amp; 正大光明的 |
-| **abstinence** <span class="wpos">n.</span> | 节制，禁绝，禁欲; 戒酒; 禁食; 旨在积累资本的)进项储存，节流，节支 |
-| **accustomed** <span class="wpos">adj.</span> | 惯常的; 习惯于…的 |
-| **altruistic** <span class="wpos">adj.</span> | 利他的,无私心的 |
-| **arrogantly** <span class="wpos">adv.</span> | 自大地,傲慢地 |
-| **benevolent** <span class="wpos">adj.</span> | 好心肠的；与人为善的; 行善的，慈善的 |
-| **boisterous** <span class="wpos">adj.</span> | 热闹的；喧闹的；爱闹的；狂欢的; 凶猛的，粗鲁的; 粗糙的；巨大的 |
-| **brilliance** <span class="wpos">n.</span> | 才华，才智; 光亮；光辉；光彩; 宏伟，壮丽 |
-| **capricious** <span class="wpos">adj.</span> | 无定见的,变幻莫测的 |
-| **conscience** <span class="wpos">n.</span> | 良心 |
-| **consummate** <span class="wpos">adj.</span> | 技艺高超的；完美无缺的；圆满的；炉火纯青的; 同房；通过性交使圆满; 使完整；使完美 |
-| **continence** <span class="wpos">n.</span> | 节欲；自制，克制 |
-| **contrarian** <span class="wpos">n.</span> | 采取相反态度者，背道而驰者；多数人抛售时反而吃进者 |
-| **dedication** <span class="wpos">n.</span> | 奉献,献身; 献身精神; 题词,献词 |
-| **deliberate** <span class="wpos">adj.</span> | 故意的, 蓄意的; 慎重的, 深思熟虑的; 不慌不忙的, 从容不迫的; &amp; 仔细考虑; 研讨… |
-| **despicable** <span class="wpos">adj.</span> | 可鄙的,卑鄙的 |
-| **diabolical** <span class="wpos">adj.</span> | 恶魔的;残忍的 |
-| **discretion** <span class="wpos">n.</span> | 慎重, 谨慎; 随意; 由某人斟酌决定；随某人支配; 随…的意见; 谨慎即大勇；不作无谓的冒险 |
-| **expediency** <span class="wpos">n.</span> | 适宜;方便;合算; 利己；权术；权宜之计 |
-| **hospitable** <span class="wpos">adj.</span> | 好客的, 殷勤的, 热情友好的 |
-| **illiterate** <span class="wpos">adj.</span> | 目不识丁的,文盲的; 目不识丁者,文盲; 文盲,无知 |
-| **immorality** <span class="wpos">n.</span> | 不道德,无道义 |
-| **impeccable** <span class="wpos">adj.</span> | 无瑕疵的；没有缺点的 |
-| **impersonal** <span class="wpos">adj.</span> | 不受个人情感影响的，冷淡的; 客观的; 与个人无关; 冷淡地；客观地 |
-| **initiative** <span class="wpos">n.</span> | 主动性, 首创精神; 主动的行动, 倡议; 主动权 |
-| **insatiable** <span class="wpos">adj.</span> | 不知足的；贪得无厌的 |
-| **invincible** <span class="wpos">adj.</span> | 不可战胜的;不能征服的 |
-| **liberality** <span class="wpos">n.</span> | 慷慨,大方; 宽容,开朗 |
-| **licentious** <span class="wpos">adj.</span> | 放荡的,淫乱的 |
-:::
-:::
-::::
+What the gallery held, in the end, was not heroes and villains but a spectrum — from the openly [abominable]{.vocab tabindex="0" data-def="abominable · adj. 讨厌的, 可恶的; 糟糕的, 极坏的; 令人极为不快的,令人作呕的; 讨厌, 可恶; 恶劣地；令人厌…"} to the quietly [aboveboard]{.vocab tabindex="0" data-def="aboveboard · adv. &amp; 正大光明的"}, and all the complicated humanity in between.
 
 ### The Writer, the Director, and the Rest of the Room
 
-:::: {.columns}
-::: {.column width="57%"}
-At forty-two, **Miriam** had built her **prominence** as a playwright not by luck but by a **relentless** refusal to settle. She was a **workaholic** in the truest sense — lights on past midnight, every comma weighed, every pause on the page earned. Friends called her **meticulous**; rivals called her obsessive. She called it **moderation** only in the driest irony: she knew no such thing.
+At forty-two, **Miriam** had built her [prominence]{.vocab tabindex="0" data-def="prominence · n. 声望，杰出; 突出；重要；要事"} as a playwright not by luck but by a [relentless]{.vocab tabindex="0" data-def="relentless · adj. 不停的；持续强烈的；不减弱的; 不放弃的；严格的；苛刻的；无情的"} refusal to settle. She was a [workaholic]{.vocab tabindex="0" data-def="workaholic · n. 工作狂"} in the truest sense — lights on past midnight, every comma weighed, every pause on the page earned. Friends called her [meticulous]{.vocab tabindex="0" data-def="meticulous · adj. 极仔细的; 一丝不苟的"}; rivals called her obsessive. She called it [moderation]{.vocab tabindex="0" data-def="moderation · n. 自我节制；自我控制; 缓和，减轻"} only in the driest irony: she knew no such thing.
 
-Directing her latest production was **Callum**, a man of genuine **benevolence** who carried his authority lightly. A **connoisseur** of human weakness, he was also **percipient** enough to see what others missed — who in the rehearsal room was frightened, who was faking confidence, who needed a quiet word at intermission. Where Miriam's instinct was to cut and sharpen, Callum's was to coax. Neither approach was wholly right; together they were **preeminent**. He had long since conquered any **propensity** toward vanity, though the younger cast members — **peculiarly** intimidated by his calm — assumed the opposite.
+Directing her latest production was **Callum**, a man of genuine [benevolence]{.vocab tabindex="0" data-def="benevolence · n. 仁慈，善心，善意; 善举，恩惠；捐赠; 恩税"} who carried his authority lightly. A [connoisseur]{.vocab tabindex="0" data-def="connoisseur · n. 鉴赏家，鉴定家；行家"} of human weakness, he was also [percipient]{.vocab tabindex="0" data-def="percipient · adj. 感觉的，知觉的，知觉敏锐的；自觉的，理解的，洞察的"} enough to see what others missed — who in the rehearsal room was frightened, who was faking confidence, who needed a quiet word at intermission. Where Miriam's instinct was to cut and sharpen, Callum's was to coax. Neither approach was wholly right; together they were [preeminent]{.vocab tabindex="0" data-def="preeminent · adj. 卓越的；超群的"}. He had long since conquered any [propensity]{.vocab tabindex="0" data-def="propensity · n. 倾向;习性"} toward vanity, though the younger cast members — [peculiarly]{.vocab tabindex="0" data-def="peculiarly · adv. 异常地;尤其地; 古怪地; 单独地;独特地"} intimidated by his calm — assumed the opposite.
 
-Then there was the money. The producer, a man named Hargrove, was **charismatic** in the way of television evangelists: his warmth arrived first and his intentions second. He had the **pretension** of an auteur without the craft to back it. He spoke of the show with **portentous** weight, as though financing a regional theatre revival were an act of civilization. In private he was **acrimonious** at the slightest critique, **vindictive** toward anyone who crossed him, and **submissive** only to people richer than himself. The **negligence** he showed toward the technical crew — late payments, broken promises — was, to those who'd watched long enough, frankly **scandalous**. A **narcissist** of the first order, he seemed to believe he was **omnipotent** in any room he entered and **omniscient** in any conversation he joined.
+Then there was the money. The producer, a man named Hargrove, was [charismatic]{.vocab tabindex="0" data-def="charismatic · adj. 有魅力的;有感召力的; 认为有神赐超凡能力的"} in the way of television evangelists: his warmth arrived first and his intentions second. He had the [pretension]{.vocab tabindex="0" data-def="pretension · n. 自称，自命; 自命不凡，自负; 要求，主张；权力，资格"} of an auteur without the craft to back it. He spoke of the show with [portentous]{.vocab tabindex="0" data-def="portentous · adj. 预兆的,凶兆的; 自命不凡的,装腔作势的"} weight, as though financing a regional theatre revival were an act of civilization. In private he was [acrimonious]{.vocab tabindex="0" data-def="acrimonious · adj. 尖酸刻薄的，讥讽的，激烈的"} at the slightest critique, [vindictive]{.vocab tabindex="0" data-def="vindictive · adj. 怀有或显示报复心的; 恶意的,怀恨的"} toward anyone who crossed him, and [submissive]{.vocab tabindex="0" data-def="submissive · adj. 顺从的, 唯命是从的"} only to people richer than himself. The [negligence]{.vocab tabindex="0" data-def="negligence · n. 疏忽, 玩忽; 不修边幅"} he showed toward the technical crew — late payments, broken promises — was, to those who'd watched long enough, frankly [scandalous]{.vocab tabindex="0" data-def="scandalous · adj. 令人反感的;令人愤慨的"}. A [narcissist]{.vocab tabindex="0" data-def="narcissist · n. 自我陶醉者"} of the first order, he seemed to believe he was [omnipotent]{.vocab tabindex="0" data-def="omnipotent · adj. 全能的；无所不能的；有无限权力的"} in any room he entered and [omniscient]{.vocab tabindex="0" data-def="omniscient · adj. 无所不知的"} in any conversation he joined.
 
-The younger actors navigated all of this with varying **resilience**. One, a restless twenty-three-year-old named Dom, behaved **recklessly** — missing calls, shrugging off notes — as if **mediocrity** were a pose worth trying. Another, a quiet woman named Soo, was so **scrupulous** about her preparation that she arrived with every scene annotated. She had been warned, early in her training, against the **traitorous** instinct to please directors at the cost of honesty. She'd taken it to heart. She was also, Callum noted with quiet admiration, the only one in the building who handled the **outlandish** demands of Hargrove's ego without becoming **proficient** at flattery — she simply waited, **submissive** in posture and entirely unmoved inside, until the noise passed.
+The younger actors navigated all of this with varying [resilience]{.vocab tabindex="0" data-def="resilience · n. 弹回;弹性; 恢复力；适应力"}. One, a restless twenty-three-year-old named Dom, behaved [recklessly]{.vocab tabindex="0" data-def="recklessly · adv. 不在乎地；鲁莽地；不顾一切地"} — missing calls, shrugging off notes — as if [mediocrity]{.vocab tabindex="0" data-def="mediocrity · n. 平庸，第二流；平庸人"} were a pose worth trying. Another, a quiet woman named Soo, was so [scrupulous]{.vocab tabindex="0" data-def="scrupulous · adj. 严格认真的，一丝不苟的; 按良心和道德原则办事的;绝对正直的; 有顾忌的，有顾虑的; 一丝不苟地; …"} about her preparation that she arrived with every scene annotated. She had been warned, early in her training, against the [traitorous]{.vocab tabindex="0" data-def="traitorous · adj. 叛逆的; 背信弃义的"} instinct to please directors at the cost of honesty. She'd taken it to heart. She was also, Callum noted with quiet admiration, the only one in the building who handled the [outlandish]{.vocab tabindex="0" data-def="outlandish · adj. 古怪的, 奇异的"} demands of Hargrove's ego without becoming [proficient]{.vocab tabindex="0" data-def="proficient · adj. 精通的, 熟练的"} at flattery — she simply waited, [submissive]{.vocab tabindex="0" data-def="submissive · adj. 顺从的, 唯命是从的"} in posture and entirely unmoved inside, until the noise passed.
 
-By closing night, the production had survived its own cast. Miriam stood at the back of the house and watched the curtain fall. She would **rededicate** herself to the next draft in the morning — she always did. It was, she supposed, the only kind of person she knew how to be.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **mediocrity** <span class="wpos">n.</span> | 平庸，第二流；平庸人 |
-| **meticulous** <span class="wpos">adj.</span> | 极仔细的; 一丝不苟的 |
-| **moderation** <span class="wpos">n.</span> | 自我节制；自我控制; 缓和，减轻 |
-| **narcissist** <span class="wpos">n.</span> | 自我陶醉者 |
-| **negligence** <span class="wpos">n.</span> | 疏忽, 玩忽; 不修边幅 |
-| **omnipotent** <span class="wpos">adj.</span> | 全能的；无所不能的；有无限权力的 |
-| **omniscient** <span class="wpos">adj.</span> | 无所不知的 |
-| **outlandish** <span class="wpos">adj.</span> | 古怪的, 奇异的 |
-| **peculiarly** <span class="wpos">adv.</span> | 异常地;尤其地; 古怪地; 单独地;独特地 |
-| **percipient** <span class="wpos">adj.</span> | 感觉的，知觉的，知觉敏锐的；自觉的，理解的，洞察的 |
-| **portentous** <span class="wpos">adj.</span> | 预兆的,凶兆的; 自命不凡的,装腔作势的 |
-| **preeminent** <span class="wpos">adj.</span> | 卓越的；超群的 |
-| **pretension** <span class="wpos">n.</span> | 自称，自命; 自命不凡，自负; 要求，主张；权力，资格 |
-| **proficient** <span class="wpos">adj.</span> | 精通的, 熟练的 |
-| **prominence** <span class="wpos">n.</span> | 声望，杰出; 突出；重要；要事 |
-| **propensity** <span class="wpos">n.</span> | 倾向;习性 |
-| **recklessly** <span class="wpos">adv.</span> | 不在乎地；鲁莽地；不顾一切地 |
-| **rededicate** |  |
-| **relentless** <span class="wpos">adj.</span> | 不停的；持续强烈的；不减弱的; 不放弃的；严格的；苛刻的；无情的 |
-| **resilience** <span class="wpos">n.</span> | 弹回;弹性; 恢复力；适应力 |
-| **scandalous** <span class="wpos">adj.</span> | 令人反感的;令人愤慨的 |
-| **scrupulous** <span class="wpos">adj.</span> | 严格认真的，一丝不苟的; 按良心和道德原则办事的;绝对正直的; 有顾忌的，有顾虑的; 一丝不苟地; … |
-| **submissive** <span class="wpos">adj.</span> | 顺从的, 唯命是从的 |
-| **traitorous** <span class="wpos">adj.</span> | 叛逆的; 背信弃义的 |
-| **vindictive** <span class="wpos">adj.</span> | 怀有或显示报复心的; 恶意的,怀恨的 |
-| **workaholic** <span class="wpos">n.</span> | 工作狂 |
-| **acrimonious** <span class="wpos">adj.</span> | 尖酸刻薄的，讥讽的，激烈的 |
-| **benevolence** <span class="wpos">n.</span> | 仁慈，善心，善意; 善举，恩惠；捐赠; 恩税 |
-| **charismatic** <span class="wpos">adj.</span> | 有魅力的;有感召力的; 认为有神赐超凡能力的 |
-| **connoisseur** <span class="wpos">n.</span> | 鉴赏家，鉴定家；行家 |
-:::
-:::
-::::
+By closing night, the production had survived its own cast. Miriam stood at the back of the house and watched the curtain fall. She would [rededicate]{.vocab tabindex="0" data-def="rededicate"} herself to the next draft in the morning — she always did. It was, she supposed, the only kind of person she knew how to be.
 
 ### The Old Professor's Circle
 
-:::: {.columns}
-::: {.column width="57%"}
-Professor Aldridge was an **illustrious** scholar of human nature — **industrious** by habit and **inquisitive** by soul. He spent his mornings writing and his afternoons observing the people who gathered in the small park behind the university. He was **considerate** enough to remember each face, and **good-natured** enough to greet them all without judgment.
+Professor Aldridge was an [illustrious]{.vocab tabindex="0" data-def="illustrious · adj. 著名的, 杰出的, 卓越的"} scholar of human nature — [industrious]{.vocab tabindex="0" data-def="industrious · adj. 勤劳的, 勤奋的"} by habit and [inquisitive]{.vocab tabindex="0" data-def="inquisitive · adj. 好问的;好奇的;爱打听别人隐私的"} by soul. He spent his mornings writing and his afternoons observing the people who gathered in the small park behind the university. He was [considerate]{.vocab tabindex="0" data-def="considerate · adj. 体贴的, 体谅的"} enough to remember each face, and [good-natured]{.vocab tabindex="0" data-def="good-natured · adj. 和蔼的,和善的"} enough to greet them all without judgment.
 
-Among his regulars was Vera, a retired civil servant whose **disposition** leaned toward the argumentative. She was **contentious** by temperament — no topic was too trivial to contest — yet, curiously, she was also **persuadable**, even **convincible**, the moment evidence was laid plainly before her. Across from her sat old Renard, who was everything Vera was not: **indifferent** to debate, **superficial** in his interests, and wholly **susceptible** to flattery. He was, his friends said privately, a **knucklehead** with charm. Then there was Marcus, a younger man bristling with **masculinity** and a quiet **pertinacity** that tipped, on bad days, into the stubbornness of a true **crotcheteer**, fixed in his grievances and impossible to shift.
+Among his regulars was Vera, a retired civil servant whose [disposition]{.vocab tabindex="0" data-def="disposition · n. 气质, 天性, 性格; 安排, 布置"} leaned toward the argumentative. She was [contentious]{.vocab tabindex="0" data-def="contentious · adj. 容易引起争论的,好争论的"} by temperament — no topic was too trivial to contest — yet, curiously, she was also [persuadable]{.vocab tabindex="0" data-def="persuadable · adj. 可以说服的,容易说服的"}, even [convincible]{.vocab tabindex="0" data-def="convincible · adj. 可说服的,可使信服的"}, the moment evidence was laid plainly before her. Across from her sat old Renard, who was everything Vera was not: [indifferent]{.vocab tabindex="0" data-def="indifferent · adj. 不关心的，冷淡的；中立的; 较差的，平庸的"} to debate, [superficial]{.vocab tabindex="0" data-def="superficial · adj. 表面的；表皮的; 肤浅的，浅薄的；缺乏深度的"} in his interests, and wholly [susceptible]{.vocab tabindex="0" data-def="susceptible · adj. 易受影响的; 易动感情的; 过敏的; 易受…感染的; 能经受的"} to flattery. He was, his friends said privately, a [knucklehead]{.vocab tabindex="0" data-def="knucklehead · n. 〈美〉蠢人,傻瓜"} with charm. Then there was Marcus, a younger man bristling with [masculinity]{.vocab tabindex="0" data-def="masculinity · n. 男性；男子气"} and a quiet [pertinacity]{.vocab tabindex="0" data-def="pertinacity · n. 顽固"} that tipped, on bad days, into the stubbornness of a true [crotcheteer]{.vocab tabindex="0" data-def="crotcheteer · n. 耽于幼想的人,固守偏执的人"}, fixed in his grievances and impossible to shift.
 
-Professor Aldridge watched them all with patient affection. He noted how **mischievous** little provocations rippled through the group, how **importunity** — persistent, grinding demands — frayed even the calmest nerves. He watched **egomaniacal** performances, witnessed **extravagant** claims delivered without a trace of irony, and cringed at moments of **ostentation** that left the others rolling their eyes. He saw people act **impertinent** and later apologize **unwittingly**, not quite grasping what they had done wrong. He saw others **inadvertent**ly wound the ones they loved, and a few who chose to hurt quite **deliberately**. He even recognized in himself a streak of **self-deceit** — the comfortable fiction that he was merely observing and never judging.
+Professor Aldridge watched them all with patient affection. He noted how [mischievous]{.vocab tabindex="0" data-def="mischievous · adj. 淘气的, 顽皮的; 造成伤害的"} little provocations rippled through the group, how [importunity]{.vocab tabindex="0" data-def="importunity · n. 硬要,强求"} — persistent, grinding demands — frayed even the calmest nerves. He watched [egomaniacal]{.vocab tabindex="0" data-def="egomaniacal · adj. 极端利己的"} performances, witnessed [extravagant]{.vocab tabindex="0" data-def="extravagant · adj. 奢侈的, 铺张的; 过度的, 过分的, 放肆的"} claims delivered without a trace of irony, and cringed at moments of [ostentation]{.vocab tabindex="0" data-def="ostentation · n. 摆阔,讲排场; 炫耀,卖弄"} that left the others rolling their eyes. He saw people act [impertinent]{.vocab tabindex="0" data-def="impertinent · adj. 粗鲁的；不恰当的；不相干的；无礼的"} and later apologize [unwittingly]{.vocab tabindex="0" data-def="unwittingly · adv. 不知情地; 无意地;不经意地;不知不觉地"}, not quite grasping what they had done wrong. He saw others [inadvertent]{.vocab tabindex="0" data-def="inadvertent · adj. 粗心大意的, 因疏忽造成的, 非故意的"}ly wound the ones they loved, and a few who chose to hurt quite [deliberately]{.vocab tabindex="0" data-def="deliberately · adv. 慎重地；谨慎地; 故意地，蓄意地; 从容不迫地，不慌不忙地"}. He even recognized in himself a streak of [self-deceit]{.vocab tabindex="0" data-def="self-deceit · n. 自欺"} — the comfortable fiction that he was merely observing and never judging.
 
-Two figures stood apart. The first was a **misanthrope** who sat alone on the far bench, nursing a thermos and scowling at anyone who approached. The second was a young woman who had **overachieve**d her way through school and into a senior post before thirty — brilliant but so polished, so **saponaceous** in every social encounter, that no one was quite sure who she really was beneath the agreeable surface. The professor noted her **gullibility** too: she trusted systems and titles absolutely, and the world had not yet taught her otherwise.
+Two figures stood apart. The first was a [misanthrope]{.vocab tabindex="0" data-def="misanthrope · n. 不愿与人来往者；厌恶人类的人"} who sat alone on the far bench, nursing a thermos and scowling at anyone who approached. The second was a young woman who had [overachieve]{.vocab tabindex="0" data-def="overachieve · vi. ①成绩超出智力测验预示水平②完成得比预期要好；超过预期目的; 超过"}d her way through school and into a senior post before thirty — brilliant but so polished, so [saponaceous]{.vocab tabindex="0" data-def="saponaceous · adj. 圆滑的"} in every social encounter, that no one was quite sure who she really was beneath the agreeable surface. The professor noted her [gullibility]{.vocab tabindex="0" data-def="gullibility · n. 易受骗,易上当,轻信"} too: she trusted systems and titles absolutely, and the world had not yet taught her otherwise.
 
 He closed his notebook. Thirty faces, thirty characters. No two alike, and every one worth understanding.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **considerate** <span class="wpos">adj.</span> | 体贴的, 体谅的 |
-| **contentious** <span class="wpos">adj.</span> | 容易引起争论的,好争论的 |
-| **convincible** <span class="wpos">adj.</span> | 可说服的,可使信服的 |
-| **crotcheteer** <span class="wpos">n.</span> | 耽于幼想的人,固守偏执的人 |
-| **disposition** <span class="wpos">n.</span> | 气质, 天性, 性格; 安排, 布置 |
-| **egomaniacal** <span class="wpos">adj.</span> | 极端利己的 |
-| **extravagant** <span class="wpos">adj.</span> | 奢侈的, 铺张的; 过度的, 过分的, 放肆的 |
-| **gullibility** <span class="wpos">n.</span> | 易受骗,易上当,轻信 |
-| **illustrious** <span class="wpos">adj.</span> | 著名的, 杰出的, 卓越的 |
-| **impertinent** <span class="wpos">adj.</span> | 粗鲁的；不恰当的；不相干的；无礼的 |
-| **importunity** <span class="wpos">n.</span> | 硬要,强求 |
-| **inadvertent** <span class="wpos">adj.</span> | 粗心大意的, 因疏忽造成的, 非故意的 |
-| **indifferent** <span class="wpos">adj.</span> | 不关心的，冷淡的；中立的; 较差的，平庸的 |
-| **industrious** <span class="wpos">adj.</span> | 勤劳的, 勤奋的 |
-| **inquisitive** <span class="wpos">adj.</span> | 好问的;好奇的;爱打听别人隐私的 |
-| **knucklehead** <span class="wpos">n.</span> | 〈美〉蠢人,傻瓜 |
-| **masculinity** <span class="wpos">n.</span> | 男性；男子气 |
-| **misanthrope** <span class="wpos">n.</span> | 不愿与人来往者；厌恶人类的人 |
-| **mischievous** <span class="wpos">adj.</span> | 淘气的, 顽皮的; 造成伤害的 |
-| **ostentation** <span class="wpos">n.</span> | 摆阔,讲排场; 炫耀,卖弄 |
-| **overachieve** <span class="wpos">vi.</span> | ①成绩超出智力测验预示水平②完成得比预期要好；超过预期目的; 超过 |
-| **persuadable** <span class="wpos">adj.</span> | 可以说服的,容易说服的 |
-| **pertinacity** <span class="wpos">n.</span> | 顽固 |
-| **saponaceous** <span class="wpos">adj.</span> | 圆滑的 |
-| **self-deceit** <span class="wpos">n.</span> | 自欺 |
-| **superficial** <span class="wpos">adj.</span> | 表面的；表皮的; 肤浅的，浅薄的；缺乏深度的 |
-| **susceptible** <span class="wpos">adj.</span> | 易受影响的; 易动感情的; 过敏的; 易受…感染的; 能经受的 |
-| **unwittingly** <span class="wpos">adv.</span> | 不知情地; 无意地;不经意地;不知不觉地 |
-| **deliberately** <span class="wpos">adv.</span> | 慎重地；谨慎地; 故意地，蓄意地; 从容不迫地，不慌不忙地 |
-| **good-natured** <span class="wpos">adj.</span> | 和蔼的,和善的 |
-:::
-:::
-::::
 
 ### The Ones Who Leave a Mark
 
-:::: {.columns}
-::: {.column width="57%"}
-Every office has its cast. There is the **sophisticated** senior partner who speaks with an **authoritative** calm that ends arguments before they begin — **conscientious** in every detail, her drafts land without a comma out of place. Beside her sits a young analyst whose work is **intellectual** at its core: he reads widely, reasons clearly, and carries himself with quiet **self-assurance** that never tips into arrogance. He is **be committed to** the firm's standards unflinchingly — and when a difficult case lands on his desk, he **persevere at** it with the kind of **perseverance** that makes colleagues stop and take notice. His approach is **dispassionate** and **idiosyncratic** all at once: he strips emotion from the numbers, yet attacks each problem through angles no one else would try.
+Every office has its cast. There is the [sophisticated]{.vocab tabindex="0" data-def="sophisticated · adj. 老练的；老于世故的; 精密的，尖端的; 高雅的，有教养的"} senior partner who speaks with an [authoritative]{.vocab tabindex="0" data-def="authoritative · adj. 有权力的；有权威的；可相信的；可靠的; 权威的，官方的，当局的; 显示权力的；好像显示权威的"} calm that ends arguments before they begin — [conscientious]{.vocab tabindex="0" data-def="conscientious · adj. 认真的, 勤奋的"} in every detail, her drafts land without a comma out of place. Beside her sits a young analyst whose work is [intellectual]{.vocab tabindex="0" data-def="intellectual · adj. 智力的；理智的，善于思维的; 知识分子"} at its core: he reads widely, reasons clearly, and carries himself with quiet [self-assurance]{.vocab tabindex="0" data-def="self-assurance · n. 自信"} that never tips into arrogance. He is [be committed to]{.vocab tabindex="0" data-def="be committed to 忠于某一立场, 坚定的"} the firm's standards unflinchingly — and when a difficult case lands on his desk, he [persevere at]{.vocab tabindex="0" data-def="persevere at persevere in/with坚持, 不屈不挠"} it with the kind of [perseverance]{.vocab tabindex="0" data-def="perseverance · n. 坚持不懈；不屈不挠"} that makes colleagues stop and take notice. His approach is [dispassionate]{.vocab tabindex="0" data-def="dispassionate · adj. 不动情感的,平心静气的; 公正的,不带偏见的"} and [idiosyncratic]{.vocab tabindex="0" data-def="idiosyncratic · adj. 特殊物质的,特殊的,异质的"} all at once: he strips emotion from the numbers, yet attacks each problem through angles no one else would try.
 
-Not everyone, of course, is a pleasure to work with. Down the hall is the director whose **narcissistic** need for credit poisons every meeting. He is openly **manipulative** — flattering upward, dismissing downward — and **unapologetic** about it. He is **parsimonious** with praise but extravagant with blame, and his behavior grows more **obstreperous** whenever a project threatens to overshadow him. The junior staff have learned to document everything, because his **indiscretion** — dropping confidences over lunch, rewriting history in retrospect — is not occasional but **characteristic**. His ethical record, viewed **conservatively**, is **reprehensible**; viewed plainly, it is **unscrupulous**. He is, in a word, **hypocritical**: he lectures the team on integrity while cutting every corner he can find.
+Not everyone, of course, is a pleasure to work with. Down the hall is the director whose [narcissistic]{.vocab tabindex="0" data-def="narcissistic · adj. 自我陶醉的;自恋的;自我崇拜的"} need for credit poisons every meeting. He is openly [manipulative]{.vocab tabindex="0" data-def="manipulative · adj. 控制的,操纵的"} — flattering upward, dismissing downward — and [unapologetic]{.vocab tabindex="0" data-def="unapologetic · adj. ①不道歉的，不认错的②不辩解的"} about it. He is [parsimonious]{.vocab tabindex="0" data-def="parsimonious · adj. 过分节俭的;吝啬的;小气的"} with praise but extravagant with blame, and his behavior grows more [obstreperous]{.vocab tabindex="0" data-def="obstreperous · adj. 喧嚣的,喧闹的; 不服约束的"} whenever a project threatens to overshadow him. The junior staff have learned to document everything, because his [indiscretion]{.vocab tabindex="0" data-def="indiscretion · n. 不慎重的举止,轻率的言行"} — dropping confidences over lunch, rewriting history in retrospect — is not occasional but [characteristic]{.vocab tabindex="0" data-def="characteristic · adj. 典型的；特有的；表示特性的 特征；特性；特色"}. His ethical record, viewed [conservatively]{.vocab tabindex="0" data-def="conservatively · adv. 保存地; 保守地; 谨慎地"}, is [reprehensible]{.vocab tabindex="0" data-def="reprehensible · adj. 应斥责的；应该谴责的"}; viewed plainly, it is [unscrupulous]{.vocab tabindex="0" data-def="unscrupulous · adj. 肆无忌惮的, 不择手段的, 无道德原则的"}. He is, in a word, [hypocritical]{.vocab tabindex="0" data-def="hypocritical · adj. 伪善的，虚伪的；伪善者的，伪君子的"}: he lectures the team on integrity while cutting every corner he can find.
 
-Then there is the intern the team quietly adores. She is **off-the-wall** in the best sense — pitching ideas that make people laugh before they realize she is right. She engages **impertinently** when the room grows too formal, puncturing pretension without malice. Yet for all her irreverence she is never **indiscriminate**; she reads the moment, chooses her words, and never lets charm slide into carelessness. She admits, cheerfully, that she is a natural **procrastinator**, prone to **lackadaisical** afternoons when the task feels abstract. But the moment a real deadline bites, she responds **unflinchingly**, and she has never yet **inadvertently** let a teammate down. **Pertinacious** in her own quiet way, she holds her ground even when the partner pushes back — and she does so with a **compassionate** steadiness that makes disagreement feel like a gift rather than a fight.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **hypocritical** <span class="wpos">adj.</span> | 伪善的，虚伪的；伪善者的，伪君子的 |
-| **indiscretion** <span class="wpos">n.</span> | 不慎重的举止,轻率的言行 |
-| **intellectual** <span class="wpos">adj.</span> | 智力的；理智的，善于思维的; 知识分子 |
-| **manipulative** <span class="wpos">adj.</span> | 控制的,操纵的 |
-| **narcissistic** <span class="wpos">adj.</span> | 自我陶醉的;自恋的;自我崇拜的 |
-| **obstreperous** <span class="wpos">adj.</span> | 喧嚣的,喧闹的; 不服约束的 |
-| **off-the-wall** <span class="wpos">adj.</span> | 异乎寻常的,古怪的,疯狂的,疯疯癫癫的 |
-| **parsimonious** <span class="wpos">adj.</span> | 过分节俭的;吝啬的;小气的 |
-| **perseverance** <span class="wpos">n.</span> | 坚持不懈；不屈不挠 |
-| **persevere at** | persevere in/with坚持, 不屈不挠 |
-| **pertinacious** <span class="wpos">adj.</span> | 坚持的;固执的;坚决的; 坚持地;固执地;坚决地; 执拗;顽固 |
-| **unapologetic** <span class="wpos">adj.</span> | ①不道歉的，不认错的②不辩解的 |
-| **unscrupulous** <span class="wpos">adj.</span> | 肆无忌惮的, 不择手段的, 无道德原则的 |
-| **authoritative** <span class="wpos">adj.</span> | 有权力的；有权威的；可相信的；可靠的; 权威的，官方的，当局的; 显示权力的；好像显示权威的 |
-| **compassionate** <span class="wpos">adj.</span> | 表示怜悯的,有同情心的 同情,怜悯 |
-| **conscientious** <span class="wpos">adj.</span> | 认真的, 勤奋的 |
-| **dispassionate** <span class="wpos">adj.</span> | 不动情感的,平心静气的; 公正的,不带偏见的 |
-| **idiosyncratic** <span class="wpos">adj.</span> | 特殊物质的,特殊的,异质的 |
-| **impertinently** <span class="wpos">adv.</span> | 不切题地,不恰当地,不礼貌地 |
-| **inadvertently** <span class="wpos">adv.</span> | 漫不经心地；疏忽地; 非故意地 |
-| **lackadaisical** <span class="wpos">adj.</span> | 无精打采的;不决断的;不热心的; 无精打采地;不决断地;不热心地 |
-| **reprehensible** <span class="wpos">adj.</span> | 应斥责的；应该谴责的 |
-| **sophisticated** <span class="wpos">adj.</span> | 老练的；老于世故的; 精密的，尖端的; 高雅的，有教养的 |
-| **unflinchingly** <span class="wpos">adv.</span> | 不畏缩地,不妥协地 |
-| **characteristic** <span class="wpos">adj.</span> | 典型的；特有的；表示特性的 特征；特性；特色 |
-| **conservatively** <span class="wpos">adv.</span> | 保存地; 保守地; 谨慎地 |
-| **indiscriminate** <span class="wpos">adj.</span> | 不加区别的, 不加选择的, 不加鉴别的, 不分好坏的 |
-| **procrastinator** <span class="wpos">n.</span> | 拖延者,拖拉者,因循者 |
-| **self-assurance** <span class="wpos">n.</span> | 自信 |
-| **be committed to** | 忠于某一立场, 坚定的 |
-:::
-:::
-::::
+Then there is the intern the team quietly adores. She is [off-the-wall]{.vocab tabindex="0" data-def="off-the-wall · adj. 异乎寻常的,古怪的,疯狂的,疯疯癫癫的"} in the best sense — pitching ideas that make people laugh before they realize she is right. She engages [impertinently]{.vocab tabindex="0" data-def="impertinently · adv. 不切题地,不恰当地,不礼貌地"} when the room grows too formal, puncturing pretension without malice. Yet for all her irreverence she is never [indiscriminate]{.vocab tabindex="0" data-def="indiscriminate · adj. 不加区别的, 不加选择的, 不加鉴别的, 不分好坏的"}; she reads the moment, chooses her words, and never lets charm slide into carelessness. She admits, cheerfully, that she is a natural [procrastinator]{.vocab tabindex="0" data-def="procrastinator · n. 拖延者,拖拉者,因循者"}, prone to [lackadaisical]{.vocab tabindex="0" data-def="lackadaisical · adj. 无精打采的;不决断的;不热心的; 无精打采地;不决断地;不热心地"} afternoons when the task feels abstract. But the moment a real deadline bites, she responds [unflinchingly]{.vocab tabindex="0" data-def="unflinchingly · adv. 不畏缩地,不妥协地"}, and she has never yet [inadvertently]{.vocab tabindex="0" data-def="inadvertently · adv. 漫不经心地；疏忽地; 非故意地"} let a teammate down. [Pertinacious]{.vocab tabindex="0" data-def="pertinacious · adj. 坚持的;固执的;坚决的; 坚持地;固执地;坚决地; 执拗;顽固"} in her own quiet way, she holds her ground even when the partner pushes back — and she does so with a [compassionate]{.vocab tabindex="0" data-def="compassionate · adj. 表示怜悯的,有同情心的 同情,怜悯"} steadiness that makes disagreement feel like a gift rather than a fight.
 
 ### The Two Faces of a Gifted Mind
 
-:::: {.columns}
-::: {.column width="57%"}
-Marina had always struck people as a **flibbertigibbet** — she would chatter through a board meeting, switch topics mid-sentence, and forget her own deadlines before the ink was dry. Yet those who stayed close enough discovered something unsettling beneath the noise: she was, in fact, a **Jekyll and Hyde**, capable of retreating into absolute silence and engineering solutions that left her colleagues speechless.
+Marina had always struck people as a [flibbertigibbet]{.vocab tabindex="0" data-def="flibbertigibbet · n. 饶舌的人,轻浮,不负责任"} — she would chatter through a board meeting, switch topics mid-sentence, and forget her own deadlines before the ink was dry. Yet those who stayed close enough discovered something unsettling beneath the noise: she was, in fact, a [Jekyll and Hyde]{.vocab tabindex="0" data-def="Jekyll and Hyde · n. 双重人格者"}, capable of retreating into absolute silence and engineering solutions that left her colleagues speechless.
 
-What no one could deny was her **resourcefulness**. Stranded in a city she didn't know, with a dead phone and a canceled flight, she had once renegotiated a client contract from a hotel lobby using borrowed stationery and sheer nerve. Her **self-sufficiency** bordered on pride — she rarely asked for help, and on the few occasions she did, she made certain the request sounded like a favour she was granting, not receiving.
+What no one could deny was her [resourcefulness]{.vocab tabindex="0" data-def="resourcefulness · n. 足智多谋"}. Stranded in a city she didn't know, with a dead phone and a canceled flight, she had once renegotiated a client contract from a hotel lobby using borrowed stationery and sheer nerve. Her [self-sufficiency]{.vocab tabindex="0" data-def="self-sufficiency · n. 自足,自负"} bordered on pride — she rarely asked for help, and on the few occasions she did, she made certain the request sounded like a favour she was granting, not receiving.
 
-And when Marina committed to something — a belief, a grudge, a half-formed ambition — she would **cling tenaciously** to it long after reason suggested letting go. It was this quality, more than any other, that made her both formidable and, at times, impossible to reach.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **flibbertigibbet** <span class="wpos">n.</span> | 饶舌的人,轻浮,不负责任 |
-| **Jekyll and Hyde** <span class="wpos">n.</span> | 双重人格者 |
-| **resourcefulness** <span class="wpos">n.</span> | 足智多谋 |
-| **self-sufficiency** <span class="wpos">n.</span> | 自足,自负 |
-| **cling tenaciously** |  |
-:::
-:::
-::::
+And when Marina committed to something — a belief, a grudge, a half-formed ambition — she would [cling tenaciously]{.vocab tabindex="0" data-def="cling tenaciously"} to it long after reason suggested letting go. It was this quality, more than any other, that made her both formidable and, at times, impossible to reach.

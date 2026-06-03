@@ -2,522 +2,100 @@
 
 
 
-> 本主题共 11 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 11 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### Lost in the Archive
 
-:::: {.columns}
-::: {.column width="57%"}
-A researcher sorting through an **are**a of uncategorized files discovers a curious mix of the obscure and the mundane. The cabinet before her is labeled simply "**non**-standard terms" — a **bon** catch-all for anything that **was** too odd to shelve elsewhere. She pulls out a folder marked **UEE** and finds inside a single sticky note that reads, in faded pencil, *"**thy** guess is as good as mine."*
+A researcher sorting through an [are]{.vocab tabindex="0" data-def="are · v. 是; 公亩"}a of uncategorized files discovers a curious mix of the obscure and the mundane. The cabinet before her is labeled simply "[non]{.vocab tabindex="0" data-def="non · adv. 非，不; 投反对票的人，反对票"}-standard terms" — a [bon]{.vocab tabindex="0" data-def="bon · adj. 好的"} catch-all for anything that [was]{.vocab tabindex="0" data-def="was 1. be的第一人称、"} too odd to shelve elsewhere. She pulls out a folder marked [UEE]{.vocab tabindex="0" data-def="UEE abbr. Unit Essential Equipment 单位主要装备, 部队基本装备"} and finds inside a single sticky note that reads, in faded pencil, *"[thy]{.vocab tabindex="0" data-def="thy · pron. 你的 The possessive form of thou"} guess is as good as mine."*
 
-She moves to the next drawer: **PRE**-filed fragments. A slip of **chad** from an old punch-card machine sits beside a printout titled **SCI** Codes and a handwritten memo stamped **HOC**. Someone has scrawled the word **crap** across the top in red ink — a blunt editorial judgment that has survived at least three reorganizations. She sets it in the **bing** of paper to be reviewed later, a growing heap of material that nobody quite knows what to do with.
+She moves to the next drawer: [PRE]{.vocab tabindex="0" data-def="PRE abbr. Petroleum Refining Engineer 炼油工程师"}-filed fragments. A slip of [chad]{.vocab tabindex="0" data-def="chad · n. 孔屑 Chadn. 乍得湖孔屑; 乍得"} from an old punch-card machine sits beside a printout titled [SCI]{.vocab tabindex="0" data-def="SCI abbr. 舰控截击；舰运集装箱协会；化学工业协会"} Codes and a handwritten memo stamped [HOC]{.vocab tabindex="0" data-def="HOC abbr. Hindustan Organic Chemicals 印度斯坦有机化合物公司"}. Someone has scrawled the word [crap]{.vocab tabindex="0" data-def="crap · n. 废话；废物；屎；拉屎; 掷骰子；拉屎"} across the top in red ink — a blunt editorial judgment that has survived at least three reorganizations. She sets it in the [bing]{.vocab tabindex="0" data-def="bing · n. 堆；材料堆；微软公司的搜索引擎产品"} of paper to be reviewed later, a growing heap of material that nobody quite knows what to do with.
 
-By the window, a technician consults a screen: **CAL**, **TTE**, **DET**, **PAG**, **POO**, **trt**, **sbs**, **CONS** — all abbreviations whose full forms live somewhere in a **San** Francisco warehouse along with the rest of the legacy documentation. He **quo**tes a line from the manual aloud, testing whether it still makes sense. It does not. He places the binder on the **tee** stand at the corner of his desk — a small platform someone 3D-printed specifically for binders nobody dares throw away.
+By the window, a technician consults a screen: [CAL]{.vocab tabindex="0" data-def="CAL abbr. Calculated Average Life 平均计算寿命"}, [TTE]{.vocab tabindex="0" data-def="TTE abbr. Temporary Test Equipment 临时试验设备"}, [DET]{.vocab tabindex="0" data-def="DET abbr. 二乙基色胺；结构设计鉴定试验 Det避蚊胺"}, [PAG]{.vocab tabindex="0" data-def="PAG abbr. 进程存取组"}, [POO]{.vocab tabindex="0" data-def="POO abbr. 邮政汇票"}, [trt]{.vocab tabindex="0" data-def="trt abbr. heat treated 热处理的 TRTabbr. Traffic Route Tes…"}, [sbs]{.vocab tabindex="0" data-def="sbs abbr. 小型商业卫星；亚声速的 SBS单浮筒储油装置"}, [CONS]{.vocab tabindex="0" data-def="CONS abbr. 面向连接的网络服务"} — all abbreviations whose full forms live somewhere in a [San]{.vocab tabindex="0" data-def="San · n. =Saint; 桑河 SAN存储区域网络"} Francisco warehouse along with the rest of the legacy documentation. He [quo]{.vocab tabindex="0" data-def="quo · vt. 说"}tes a line from the manual aloud, testing whether it still makes sense. It does not. He places the binder on the [tee]{.vocab tabindex="0" data-def="tee · n. T，t; T字形物; 开球处; 球座；球台; 目标; 伞形顶饰; &amp; 置于球座上；准备发球;…"} stand at the corner of his desk — a small platform someone 3D-printed specifically for binders nobody dares throw away.
 
-Down the hall, an archivist of a more **desi**gnated kind handles the physical curiosities: a lump of **dag** wrapped in cloth, a jar labeled **CAUS** (Color Association of U.S., class of 1971), and a badge once belonging to a **beth** — a second-order clerk whose role no longer exists. She notes the items in the log with **AYES** checked under "retain," because the **cide** of any artifact, however minor, must be formally authorized. In the margin she draws a small **hoy** — a flat-bottomed boat she once saw on the river, which seemed to her the perfect symbol for things that carry a little of everything and belong to no particular shore.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **are** <span class="wpos">v.</span> | 是; 公亩 |
-| **bon** <span class="wpos">adj.</span> | 好的 |
-| **CAL** | abbr. Calculated Average Life 平均计算寿命 |
-| **dag** <span class="wpos">n.</span> | 滑料石墨灰；十克；悬片 |
-| **DET** | abbr. 二乙基色胺；结构设计鉴定试验 Det避蚊胺 |
-| **HOC** | abbr. Hindustan Organic Chemicals 印度斯坦有机化合物公司 |
-| **hoy** <span class="wpos">n.</span> | 大平底船；引人注意或追赶牲畜的呼叫声; 嗬！ |
-| **non** <span class="wpos">adv.</span> | 非，不; 投反对票的人，反对票 |
-| **PAG** | abbr. 进程存取组 |
-| **POO** | abbr. 邮政汇票 |
-| **PRE** | abbr. Petroleum Refining Engineer 炼油工程师 |
-| **quo** <span class="wpos">vt.</span> | 说 |
-| **San** <span class="wpos">n.</span> | =Saint; 桑河 SAN存储区域网络 |
-| **sbs** | abbr. 小型商业卫星；亚声速的 SBS单浮筒储油装置 |
-| **SCI** | abbr. 舰控截击；舰运集装箱协会；化学工业协会 |
-| **tee** <span class="wpos">n.</span> | T，t; T字形物; 开球处; 球座；球台; 目标; 伞形顶饰; &amp; 置于球座上；准备发球;… |
-| **thy** <span class="wpos">pron.</span> | 你的 The possessive form of thou |
-| **trt** | abbr. heat treated 热处理的 TRTabbr. Traffic Route Tes… |
-| **TTE** | abbr. Temporary Test Equipment 临时试验设备 |
-| **UEE** | abbr. Unit Essential Equipment 单位主要装备, 部队基本装备 |
-| **was** | 1. be的第一人称、 |
-| **AYES** | abbr. 汽车青年教育系统 |
-| **beth** <span class="wpos">n.</span> | 希伯来语的第二个字母 Bethn. 贝丝 |
-| **bing** <span class="wpos">n.</span> | 堆；材料堆；微软公司的搜索引擎产品 |
-| **CAUS** | abbr. Color Association of U.S. 美国色料学会 |
-| **chad** <span class="wpos">n.</span> | 孔屑 Chadn. 乍得湖孔屑; 乍得 |
-| **cide** | comb. 表示“杀” |
-| **CONS** | abbr. 面向连接的网络服务 |
-| **crap** <span class="wpos">n.</span> | 废话；废物；屎；拉屎; 掷骰子；拉屎 |
-| **desi** <span class="wpos">n.</span> | 〈美〉指定打击手在球赛开始时就指明的只击球不投球的球员 |
-:::
-:::
-::::
+Down the hall, an archivist of a more [desi]{.vocab tabindex="0" data-def="desi · n. 〈美〉指定打击手在球赛开始时就指明的只击球不投球的球员"}gnated kind handles the physical curiosities: a lump of [dag]{.vocab tabindex="0" data-def="dag · n. 滑料石墨灰；十克；悬片"} wrapped in cloth, a jar labeled [CAUS]{.vocab tabindex="0" data-def="CAUS abbr. Color Association of U.S. 美国色料学会"} (Color Association of U.S., class of 1971), and a badge once belonging to a [beth]{.vocab tabindex="0" data-def="beth · n. 希伯来语的第二个字母 Bethn. 贝丝"} — a second-order clerk whose role no longer exists. She notes the items in the log with [AYES]{.vocab tabindex="0" data-def="AYES abbr. 汽车青年教育系统"} checked under "retain," because the [cide]{.vocab tabindex="0" data-def="cide comb. 表示“杀”"} of any artifact, however minor, must be formally authorized. In the margin she draws a small [hoy]{.vocab tabindex="0" data-def="hoy · n. 大平底船；引人注意或追赶牲畜的呼叫声; 嗬！"} — a flat-bottomed boat she once saw on the river, which seemed to her the perfect symbol for things that carry a little of everything and belong to no particular shore.
 
 ### Odds, Ends, and a Few Regrets
 
-:::: {.columns}
-::: {.column width="57%"}
-The old neighborhood felt like the **dregs** of a city that had moved on without saying goodbye. On the corner, a **buzzy** neon sign flickered above a shop selling **dummy** replicas of vintage polo shirts — each one a **combi** of polyester and nostalgia. A kid outside, probably named **Chris** or **Ryan**, scrolled his phone and muttered "**aight**" to no one in particular, then typed "**LMAO**" and pocketed it.
+The old neighborhood felt like the [dregs]{.vocab tabindex="0" data-def="dregs · n. 沉淀物；残渣，渣滓"} of a city that had moved on without saying goodbye. On the corner, a [buzzy]{.vocab tabindex="0" data-def="buzzy · n. 伸缩式风钻，伸缩式凿岩机；嗡嗡响的"} neon sign flickered above a shop selling [dummy]{.vocab tabindex="0" data-def="dummy · adj. 假的；虚拟的; 仿制品；傀儡；哑巴"} replicas of vintage polo shirts — each one a [combi]{.vocab tabindex="0" data-def="combi · n. 〈英口〉结合,联合,合并,化合,化合物ination"} of polyester and nostalgia. A kid outside, probably named [Chris]{.vocab tabindex="0" data-def="Chris 克莉丝"} or [Ryan]{.vocab tabindex="0" data-def="Ryan · n. 赖安"}, scrolled his phone and muttered "[aight]{.vocab tabindex="0" data-def="aight"}" to no one in particular, then typed "[LMAO]{.vocab tabindex="0" data-def="LMAO abbr. 笑翻了"}" and pocketed it.
 
-Inside the café, a barista named **Avery** hummed to herself while grinding beans. She had pasted a handwritten quote from **Dante** above the espresso machine — something about descending, which felt appropriate. On the counter sat a battered paperback with **Enoch**'s name scrawled on the cover page, a sticky note reading "**syn.**" beside an underlined passage, as if the previous reader had been building a private glossary. Nearby, an **Avent** baby bottle stood next to a to-go cup — some parent's morning **combi** of competing demands.
+Inside the café, a barista named [Avery]{.vocab tabindex="0" data-def="Avery · n. 艾弗里"} hummed to herself while grinding beans. She had pasted a handwritten quote from [Dante]{.vocab tabindex="0" data-def="Dante · n. 但丁"} above the espresso machine — something about descending, which felt appropriate. On the counter sat a battered paperback with [Enoch]{.vocab tabindex="0" data-def="Enoch · n. 伊诺克"}'s name scrawled on the cover page, a sticky note reading "[syn.]{.vocab tabindex="0" data-def="syn. 同物异名"}" beside an underlined passage, as if the previous reader had been building a private glossary. Nearby, an [Avent]{.vocab tabindex="0" data-def="Avent · n. 新安怡"} baby bottle stood next to a to-go cup — some parent's morning [combi]{.vocab tabindex="0" data-def="combi · n. 〈英口〉结合,联合,合并,化合,化合物ination"} of competing demands.
 
-A man who called himself **Cesar** — and who carried himself with the practiced authority that name implies — held court at the corner table. He had the **horny**-skinned hands of someone who had worked outdoors for decades, and the vocabulary of someone who had not. He referred to a former colleague as a "complete **turd**" and a local politician as a "**twat**," then caught himself, glanced at **Fanny** behind the register, and switched to Spanish: "**bueno**, forget I said that." He was reading about the **Hawks**' latest loss, annotating the box score the way **Engel** might annotate a cost curve — with grim precision. On his lapel, a small **ASTRO** mission patch sat crooked, a souvenir from a nephew who worked in aerospace. He'd once pulled a **boner** of his own in that world — misread a spec sheet, ordered the wrong fittings — and the story had followed him like the word "**slut**" follows certain women: unfairly, loudly, and long past its occasion.
+A man who called himself [Cesar]{.vocab tabindex="0" data-def="Cesar · n. 恺撒，古罗马帝王"} — and who carried himself with the practiced authority that name implies — held court at the corner table. He had the [horny]{.vocab tabindex="0" data-def="horny · adj. 坚硬的；粗糙的"}-skinned hands of someone who had worked outdoors for decades, and the vocabulary of someone who had not. He referred to a former colleague as a "complete [turd]{.vocab tabindex="0" data-def="turd · n. 可鄙的人；粪，粪便"}" and a local politician as a "[twat]{.vocab tabindex="0" data-def="twat · n. 〈俚〉"}," then caught himself, glanced at [Fanny]{.vocab tabindex="0" data-def="Fanny · n. Frances 的爱称；屁股；女子救护队队员 fannyn. 臀部,屁股"} behind the register, and switched to Spanish: "[bueno]{.vocab tabindex="0" data-def="bueno · n. 甲酮钠除草剂；好"}, forget I said that." He was reading about the [Hawks]{.vocab tabindex="0" data-def="Hawks · n. 霍克斯；亚特兰大老鹰队"}' latest loss, annotating the box score the way [Engel]{.vocab tabindex="0" data-def="Engel · n. 恩格尔；英杰尔"} might annotate a cost curve — with grim precision. On his lapel, a small [ASTRO]{.vocab tabindex="0" data-def="ASTRO abbr. Advanced Spacecraft Truck, Trainer, Transpor…"} mission patch sat crooked, a souvenir from a nephew who worked in aerospace. He'd once pulled a [boner]{.vocab tabindex="0" data-def="boner · n. 勃起状态; 愚蠢的错误; 令人尴尬的错误"} of his own in that world — misread a spec sheet, ordered the wrong fittings — and the story had followed him like the word "[slut]{.vocab tabindex="0" data-def="slut · n. 懒妇；母狗；荡妇"}" follows certain women: unfairly, loudly, and long past its occasion.
 
-Outside, **thee** old elm they'd planted in '89 still stood, indifferent. A crow on its highest branch opened its beak, as if it **doth** know something the rest of us do not. A bottle of **amara** tincture sat on the windowsill of the apartment above — someone's bitter cure for something unnamed. The crow watched, **Ryan** scrolled, **Avery** ground more beans. The city **LMAO**'d and moved on. **Yeap** — same as it ever was.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **doth** <span class="wpos">v.</span> | do的 |
-| **LMAO** | abbr. 笑翻了 |
-| **polo** <span class="wpos">n.</span> | 水球；马球 POLOabbr. Polar Orbiting Lunar Observatory 极… |
-| **Ryan** <span class="wpos">n.</span> | 赖安 |
-| **slut** <span class="wpos">n.</span> | 懒妇；母狗；荡妇 |
-| **syn.** | 同物异名 |
-| **thee** <span class="wpos">pron.</span> | 〈古〉你 |
-| **turd** <span class="wpos">n.</span> | 可鄙的人；粪，粪便 |
-| **twat** <span class="wpos">n.</span> | 〈俚〉 |
-| **Yeap** |  |
-| **aight** |  |
-| **amara** | 苦味药 |
-| **ASTRO** | abbr. Advanced Spacecraft Truck, Trainer, Transpor… |
-| **Avent** <span class="wpos">n.</span> | 新安怡 |
-| **Avery** <span class="wpos">n.</span> | 艾弗里 |
-| **bitch** <span class="wpos">n.</span> | 母狗; 坏女人，泼妇，悍妇; 淫妇；妓女; 牢骚；怨言; 埋怨，发牢骚; 把…搞糟；弄坏; 抱怨；埋… |
-| **boner** <span class="wpos">n.</span> | 勃起状态; 愚蠢的错误; 令人尴尬的错误 |
-| **bueno** <span class="wpos">n.</span> | 甲酮钠除草剂；好 |
-| **buzzy** <span class="wpos">n.</span> | 伸缩式风钻，伸缩式凿岩机；嗡嗡响的 |
-| **Cesar** <span class="wpos">n.</span> | 恺撒，古罗马帝王 |
-| **Chris** | 克莉丝 |
-| **combi** <span class="wpos">n.</span> | 〈英口〉结合,联合,合并,化合,化合物ination |
-| **Dante** <span class="wpos">n.</span> | 但丁 |
-| **dregs** <span class="wpos">n.</span> | 沉淀物；残渣，渣滓 |
-| **dummy** <span class="wpos">adj.</span> | 假的；虚拟的; 仿制品；傀儡；哑巴 |
-| **Engel** <span class="wpos">n.</span> | 恩格尔；英杰尔 |
-| **Enoch** <span class="wpos">n.</span> | 伊诺克 |
-| **Fanny** <span class="wpos">n.</span> | Frances 的爱称；屁股；女子救护队队员 fannyn. 臀部,屁股 |
-| **Hawks** <span class="wpos">n.</span> | 霍克斯；亚特兰大老鹰队 |
-| **horny** <span class="wpos">adj.</span> | 坚硬的；粗糙的 |
-:::
-:::
-::::
+Outside, [thee]{.vocab tabindex="0" data-def="thee · pron. 〈古〉你"} old elm they'd planted in '89 still stood, indifferent. A crow on its highest branch opened its beak, as if it [doth]{.vocab tabindex="0" data-def="doth · v. do的"} know something the rest of us do not. A bottle of [amara]{.vocab tabindex="0" data-def="amara 苦味药"} tincture sat on the windowsill of the apartment above — someone's bitter cure for something unnamed. The crow watched, [Ryan]{.vocab tabindex="0" data-def="Ryan · n. 赖安"} scrolled, [Avery]{.vocab tabindex="0" data-def="Avery · n. 艾弗里"} ground more beans. The city [LMAO]{.vocab tabindex="0" data-def="LMAO abbr. 笑翻了"}'d and moved on. [Yeap]{.vocab tabindex="0" data-def="Yeap"} — same as it ever was.
 
 ### Lost in the Archive Room
 
-:::: {.columns}
-::: {.column width="57%"}
-The old storage room was a genuine **trove** — **bubbly** excitement spread through the small team the moment they pulled open the door. Inside, a **bundle** of manila folders sat wedged between a cracked **candle** holder and a defunct **buffer** device left over from some long-dead server rack. The overhead light flickered, casting **loopy** shadows that made the space feel vaguely **potty**, as if the room itself had gone a little mad from decades of neglect.
+The old storage room was a genuine [trove]{.vocab tabindex="0" data-def="trove · n. 被发现的东西；收藏的东西"} — [bubbly]{.vocab tabindex="0" data-def="bubbly · adj. 起泡的；多泡的; 香槟酒"} excitement spread through the small team the moment they pulled open the door. Inside, a [bundle]{.vocab tabindex="0" data-def="bundle · n. 捆；束; 捆; 匆忙离开"} of manila folders sat wedged between a cracked [candle]{.vocab tabindex="0" data-def="candle · n. 蜡烛；烛光；烛形物; 对着光检查"} holder and a defunct [buffer]{.vocab tabindex="0" data-def="buffer · n. 起缓冲作用的人; 〈机〉缓冲器, 减震器; 缓冲, 减轻"} device left over from some long-dead server rack. The overhead light flickered, casting [loopy]{.vocab tabindex="0" data-def="loopy · adj. 多圈的,一圈的"} shadows that made the space feel vaguely [potty]{.vocab tabindex="0" data-def="potty · adj. 傻气的；微不足道的；着迷的；势利的; 便壶；小孩用的拉屎座椅；小孩用的厕所"}, as if the room itself had gone a little mad from decades of neglect.
 
-**Keith** crouched near a dusty shelf and lifted a glass dome — a **bubble** of antique crystal that someone, maybe a collector named **Jared** or **Josue**, had tucked behind a stack of old **IELTS** prep books. A handwritten label on the spine read *Property of **Carlos** **Castro**, do not **cancel**.* Next to it lay a **diaper** bag, of all things, still tagged for a baby shower that was apparently never held. "**Busted**," muttered **Connor**, meaning the zipper, though the word fit the whole scene.
+[Keith]{.vocab tabindex="0" data-def="Keith · n. 基思"} crouched near a dusty shelf and lifted a glass dome — a [bubble]{.vocab tabindex="0" data-def="bubble · n. 气泡，泡沫，泡状物；透明圆形罩，圆形顶; 沸腾，冒泡；发出气泡声; 使冒泡；滔滔不绝地说"} of antique crystal that someone, maybe a collector named [Jared]{.vocab tabindex="0" data-def="Jared · n. 杰瑞德"} or [Josue]{.vocab tabindex="0" data-def="Josue · n. 约书亚"}, had tucked behind a stack of old [IELTS]{.vocab tabindex="0" data-def="IELTS abbr. 雅思"} prep books. A handwritten label on the spine read *Property of [Carlos]{.vocab tabindex="0" data-def="Carlos · n. 卡洛斯"} [Castro]{.vocab tabindex="0" data-def="Castro · n. 卡斯特罗"}, do not [cancel]{.vocab tabindex="0" data-def="cancel · vt. 取消, 废除; 注销, 盖销; 删去, 划掉"}.* Next to it lay a [diaper]{.vocab tabindex="0" data-def="diaper · n. 尿布; 给孩子换尿布"} bag, of all things, still tagged for a baby shower that was apparently never held. "[Busted]{.vocab tabindex="0" data-def="busted 破产了的,失败了的,被降级的"}," muttered [Connor]{.vocab tabindex="0" data-def="Connor · n. 康纳"}, meaning the zipper, though the word fit the whole scene.
 
-**Hsue** — the archivist everyone called **Hsiao** — had warned them the room was a mess, but this was something else. She found a battered tin printed with **cheesy** clip-art, stuffed with notes about a **monte** game someone had apparently run on Friday evenings. A faded **SAGES** operations manual sat beneath it, alongside a laminated card describing the **cutoff** dates for **Danite** genealogy records. The **debris** was not just physical — it was temporal, each layer a stratum of **one's** forgotten intentions.
+**Hsue** — the archivist everyone called [Hsiao]{.vocab tabindex="0" data-def="Hsiao · n. 萧"} — had warned them the room was a mess, but this was something else. She found a battered tin printed with [cheesy]{.vocab tabindex="0" data-def="cheesy · adj. 干酪质的；下等的；漂亮的"} clip-art, stuffed with notes about a [monte]{.vocab tabindex="0" data-def="monte · n. 始于西班牙的纸牌赌博游戏"} game someone had apparently run on Friday evenings. A faded [SAGES]{.vocab tabindex="0" data-def="SAGES abbr. 半自动地面防空系统"} operations manual sat beneath it, alongside a laminated card describing the [cutoff]{.vocab tabindex="0" data-def="cutoff · n. 切掉；中断；捷径; 截止的；中断的"} dates for [Danite]{.vocab tabindex="0" data-def="Danite · n. 〈希伯来〉 但人,〈美〉 摩门教徒; 〈希伯来〉 但族的"} genealogy records. The [debris]{.vocab tabindex="0" data-def="debris · n. 散落的碎片, 残骸"} was not just physical — it was temporal, each layer a stratum of **one's** forgotten intentions.
 
-The team from the **Hyatt** had sent a consultant, a real **buster** of a fixer type, to assess whether clearing the room was **doable** before the renovation. Standing in the doorway, he scanned the chaos from the **cradle** of the frame, said nothing for a long moment, and then announced that yes, it could be done — but they would need a proper plan, not some **cheesy** workaround. He pulled out his phone, opened an app, and got to work.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Hsiao** <span class="wpos">n.</span> | 萧 |
-| **Hyatt** <span class="wpos">n.</span> | 海特 |
-| **IELTS** | abbr. 雅思 |
-| **Jared** <span class="wpos">n.</span> | 杰瑞德 |
-| **Josue** <span class="wpos">n.</span> | 约书亚 |
-| **Keith** <span class="wpos">n.</span> | 基思 |
-| **loopy** <span class="wpos">adj.</span> | 多圈的,一圈的 |
-| **monte** <span class="wpos">n.</span> | 始于西班牙的纸牌赌博游戏 |
-| **one’s** <span class="wpos">pron.</span> | 某人的;其人的;一个人的; =one is |
-| **potty** <span class="wpos">adj.</span> | 傻气的；微不足道的；着迷的；势利的; 便壶；小孩用的拉屎座椅；小孩用的厕所 |
-| **SAGES** | abbr. 半自动地面防空系统 |
-| **trove** <span class="wpos">n.</span> | 被发现的东西；收藏的东西 |
-| **bubble** <span class="wpos">n.</span> | 气泡，泡沫，泡状物；透明圆形罩，圆形顶; 沸腾，冒泡；发出气泡声; 使冒泡；滔滔不绝地说 |
-| **bubbly** <span class="wpos">adj.</span> | 起泡的；多泡的; 香槟酒 |
-| **buffer** <span class="wpos">n.</span> | 起缓冲作用的人; 〈机〉缓冲器, 减震器; 缓冲, 减轻 |
-| **bundle** <span class="wpos">n.</span> | 捆；束; 捆; 匆忙离开 |
-| **busted** | 破产了的,失败了的,被降级的 |
-| **buster** <span class="wpos">n.</span> | 起破坏，制止作用的人或物；庞然大物；非凡的人或物；小鬼，小家伙；茁壮的孩子 |
-| **cancel** <span class="wpos">vt.</span> | 取消, 废除; 注销, 盖销; 删去, 划掉 |
-| **candle** <span class="wpos">n.</span> | 蜡烛；烛光；烛形物; 对着光检查 |
-| **Carlos** <span class="wpos">n.</span> | 卡洛斯 |
-| **Castro** <span class="wpos">n.</span> | 卡斯特罗 |
-| **cheesy** <span class="wpos">adj.</span> | 干酪质的；下等的；漂亮的 |
-| **Connor** <span class="wpos">n.</span> | 康纳 |
-| **cradle** <span class="wpos">n.</span> | 摇篮；支船架；发源地；发祥地; 抚育；把...搁在支架上；把...放在摇篮内 |
-| **cutoff** <span class="wpos">n.</span> | 切掉；中断；捷径; 截止的；中断的 |
-| **Danite** <span class="wpos">n.</span> | 〈希伯来〉 但人,〈美〉 摩门教徒; 〈希伯来〉 但族的 |
-| **debris** <span class="wpos">n.</span> | 散落的碎片, 残骸 |
-| **diaper** <span class="wpos">n.</span> | 尿布; 给孩子换尿布 |
-| **doable** <span class="wpos">adj.</span> | 可做的 |
-:::
-:::
-::::
+The team from the [Hyatt]{.vocab tabindex="0" data-def="Hyatt · n. 海特"} had sent a consultant, a real [buster]{.vocab tabindex="0" data-def="buster · n. 起破坏，制止作用的人或物；庞然大物；非凡的人或物；小鬼，小家伙；茁壮的孩子"} of a fixer type, to assess whether clearing the room was [doable]{.vocab tabindex="0" data-def="doable · adj. 可做的"} before the renovation. Standing in the doorway, he scanned the chaos from the [cradle]{.vocab tabindex="0" data-def="cradle · n. 摇篮；支船架；发源地；发祥地; 抚育；把...搁在支架上；把...放在摇篮内"} of the frame, said nothing for a long moment, and then announced that yes, it could be done — but they would need a proper plan, not some [cheesy]{.vocab tabindex="0" data-def="cheesy · adj. 干酪质的；下等的；漂亮的"} workaround. He pulled out his phone, opened an app, and got to work.
 
 ### Odds, Ends, and a Very Strange Evening
 
-:::: {.columns}
-::: {.column width="57%"}
-The evening had started in **tandem** — two old friends walking side by side down a rain-slicked alley, a **magnum** of red wine tucked under one arm, a half-finished **parcel** of takeaway under the other. **Oliver** was the kind of man who wore **shades** even at dusk, convinced it made him look less like a **novice** and more like someone who had seen things. His companion, **Martha**, had found her **outlet** in archaeology: she could spend a weekend helping a crew **exhume** a medieval rubbish pit and call it a holiday.
+The evening had started in [tandem]{.vocab tabindex="0" data-def="tandem · n. 串联；串座双人自行车; 串联的; 一前一后地；纵排地"} — two old friends walking side by side down a rain-slicked alley, a [magnum]{.vocab tabindex="0" data-def="magnum · n. 大酒瓶；头状骨"} of red wine tucked under one arm, a half-finished [parcel]{.vocab tabindex="0" data-def="parcel · n. 包裹; 一块地; 给…打成包裹; 分成若干部分"} of takeaway under the other. [Oliver]{.vocab tabindex="0" data-def="Oliver · n. 奥利弗"} was the kind of man who wore [shades]{.vocab tabindex="0" data-def="Shades · n. 墨镜；阴魂咒法术，制造幽影 shadesn. 暮色，夜色"} even at dusk, convinced it made him look less like a [novice]{.vocab tabindex="0" data-def="novice · n. 初学者，新手"} and more like someone who had seen things. His companion, [Martha]{.vocab tabindex="0" data-def="Martha · n. 玛莎；马大"}, had found her [outlet]{.vocab tabindex="0" data-def="outlet · n. 出口, 出路; 发泄的途径; 经销店"} in archaeology: she could spend a weekend helping a crew [exhume]{.vocab tabindex="0" data-def="exhume · vt. 发掘；掘出"} a medieval rubbish pit and call it a holiday.
 
-The venue they stumbled into was a converted warehouse whose walls still bore the **groove** of old machinery. Someone had **tagged** every surface with spray paint — names, dates, fragments of verse that might have been **Hesiod** if Hesiod had owned a can of chrome silver. A **popper** near the entrance was handing out glow sticks with the solemn efficiency of a customs officer. In one corner a **sprite**-like woman in a **domino** mask was explaining the rules of floor **hockey** to a man who looked, inexplicably, like a nervous **Epirot** who had wandered in from a different century altogether. The night had all the hallmarks of a **fiasco**, and yet nobody left.
+The venue they stumbled into was a converted warehouse whose walls still bore the [groove]{.vocab tabindex="0" data-def="groove · n. 凹槽，槽；最佳状态；惯例; 开槽于; 形成沟槽"} of old machinery. Someone had [tagged]{.vocab tabindex="0" data-def="tagged · adj. 标记的；示踪的；加标记的; 附以签条"} every surface with spray paint — names, dates, fragments of verse that might have been [Hesiod]{.vocab tabindex="0" data-def="Hesiod · n. 赫西奥德"} if Hesiod had owned a can of chrome silver. A [popper]{.vocab tabindex="0" data-def="popper · n. 发出砰的响声的人,服药成瘾者"} near the entrance was handing out glow sticks with the solemn efficiency of a customs officer. In one corner a [sprite]{.vocab tabindex="0" data-def="sprite · n. 鬼怪,小妖精,调皮鬼"}-like woman in a [domino]{.vocab tabindex="0" data-def="domino · n. 多米诺骨牌；面具；化装外衣"} mask was explaining the rules of floor [hockey]{.vocab tabindex="0" data-def="hockey · n. 冰球；曲棍球"} to a man who looked, inexplicably, like a nervous [Epirot]{.vocab tabindex="0" data-def="Epirot · n. 伊庇鲁斯人"} who had wandered in from a different century altogether. The night had all the hallmarks of a [fiasco]{.vocab tabindex="0" data-def="fiasco · n. 彻底失败, 惨败"}, and yet nobody left.
 
-The DJ set that followed did not **fizzle** — it ignited. **Spooks** of coloured light played across the **flanks** of the crowd. A **leaked** set list pinned to a pillar named the headliner only as **Monroe**, though a **paster** sticker below had been amended in biro to read *Pilate washed his hands of this booking*. Someone invoking **Gloria** in the chorus got the whole room singing. It was the sort of night that historians — **Origen** perhaps, or even **Grimes** — might one day puzzle over, a scene so miscellaneous it resisted any single account, **GLORIA** and **sodomy** scandals and **natans** algae in the drainage ditch outside all somehow part of the same sprawling, unclassifiable human evening.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **domino** <span class="wpos">n.</span> | 多米诺骨牌；面具；化装外衣 |
-| **Epirot** <span class="wpos">n.</span> | 伊庇鲁斯人 |
-| **exhume** <span class="wpos">vt.</span> | 发掘；掘出 |
-| **fiasco** <span class="wpos">n.</span> | 彻底失败, 惨败 |
-| **fizzle** <span class="wpos">n.</span> | 嘶嘶声,微弱的结束,失败; 发嘶嘶声,失败 |
-| **flanks** | 石侧面;拱侧翼 |
-| **GLORIA** <span class="wpos">n.</span> | 地质用远程斜向声纳 glorian. 荣耀颂歌,光环,光轮 Glorian. 格洛里亚 |
-| **Grimes** <span class="wpos">n.</span> | 格兰姆斯 |
-| **groove** <span class="wpos">n.</span> | 凹槽，槽；最佳状态；惯例; 开槽于; 形成沟槽 |
-| **Hesiod** <span class="wpos">n.</span> | 赫西奥德 |
-| **hockey** <span class="wpos">n.</span> | 冰球；曲棍球 |
-| **leaked** | 漏的 |
-| **magnum** <span class="wpos">n.</span> | 大酒瓶；头状骨 |
-| **Martha** <span class="wpos">n.</span> | 玛莎；马大 |
-| **Monroe** <span class="wpos">n.</span> | 门罗 |
-| **natans** |  |
-| **novice** <span class="wpos">n.</span> | 初学者，新手 |
-| **Oliver** <span class="wpos">n.</span> | 奥利弗 |
-| **Origen** <span class="wpos">n.</span> | 奥利金 |
-| **outlet** <span class="wpos">n.</span> | 出口, 出路; 发泄的途径; 经销店 |
-| **parcel** <span class="wpos">n.</span> | 包裹; 一块地; 给…打成包裹; 分成若干部分 |
-| **paster** <span class="wpos">n.</span> | 贴纸,粘贴的人 |
-| **Pilate** <span class="wpos">n.</span> | 彼拉多 |
-| **popper** <span class="wpos">n.</span> | 发出砰的响声的人,服药成瘾者 |
-| **Shades** <span class="wpos">n.</span> | 墨镜；阴魂咒法术，制造幽影 shadesn. 暮色，夜色 |
-| **sodomy** <span class="wpos">n.</span> | 鸡奸 |
-| **spooks** <span class="wpos">n.</span> | 幽灵 |
-| **sprite** <span class="wpos">n.</span> | 鬼怪,小妖精,调皮鬼 |
-| **tagged** <span class="wpos">adj.</span> | 标记的；示踪的；加标记的; 附以签条 |
-| **tandem** <span class="wpos">n.</span> | 串联；串座双人自行车; 串联的; 一前一后地；纵排地 |
-:::
-:::
-::::
+The DJ set that followed did not [fizzle]{.vocab tabindex="0" data-def="fizzle · n. 嘶嘶声,微弱的结束,失败; 发嘶嘶声,失败"} — it ignited. [Spooks]{.vocab tabindex="0" data-def="spooks · n. 幽灵"} of coloured light played across the [flanks]{.vocab tabindex="0" data-def="flanks 石侧面;拱侧翼"} of the crowd. A [leaked]{.vocab tabindex="0" data-def="leaked 漏的"} set list pinned to a pillar named the headliner only as [Monroe]{.vocab tabindex="0" data-def="Monroe · n. 门罗"}, though a [paster]{.vocab tabindex="0" data-def="paster · n. 贴纸,粘贴的人"} sticker below had been amended in biro to read *Pilate washed his hands of this booking*. Someone invoking [Gloria]{.vocab tabindex="0" data-def="GLORIA · n. 地质用远程斜向声纳 glorian. 荣耀颂歌,光环,光轮 Glorian. 格洛里亚"} in the chorus got the whole room singing. It was the sort of night that historians — [Origen]{.vocab tabindex="0" data-def="Origen · n. 奥利金"} perhaps, or even [Grimes]{.vocab tabindex="0" data-def="Grimes · n. 格兰姆斯"} — might one day puzzle over, a scene so miscellaneous it resisted any single account, [GLORIA]{.vocab tabindex="0" data-def="GLORIA · n. 地质用远程斜向声纳 glorian. 荣耀颂歌,光环,光轮 Glorian. 格洛里亚"} and [sodomy]{.vocab tabindex="0" data-def="sodomy · n. 鸡奸"} scandals and [natans]{.vocab tabindex="0" data-def="natans"} algae in the drainage ditch outside all somehow part of the same sprawling, unclassifiable human evening.
 
 ### Lost in the Archive Room
 
-:::: {.columns}
-::: {.column width="57%"}
-The old researcher, a quiet man who had made it his life's work to chronicle miscellaneous discoveries, sat surrounded by **clutter** — stacked folders, broken **fixture**s, a cracked **urinal** basin someone had left in the corner as a joke. He was no **zombie**, shuffling through the mess without thought; he moved with purpose, however odd his surroundings. A dusty **coaster** beneath a coffee mug bore the faded name **Vivian**, a colleague long transferred away. Beside it lay a scrapbook labeled simply **Winnie**, stuffed with press clippings about a **debacle** that had nearly ended the department's funding three years prior.
+The old researcher, a quiet man who had made it his life's work to chronicle miscellaneous discoveries, sat surrounded by [clutter]{.vocab tabindex="0" data-def="clutter · n. 杂乱，混乱; 使凌乱；胡乱地填满"} — stacked folders, broken [fixture]{.vocab tabindex="0" data-def="fixture · n. 固定装置; 固定在某位置的人或物"}s, a cracked [urinal]{.vocab tabindex="0" data-def="urinal · n. 尿壶; 小便处, 小便池"} basin someone had left in the corner as a joke. He was no [zombie]{.vocab tabindex="0" data-def="zombie · n. 巫毒崇拜,蛇神,生性怪癖的人"}, shuffling through the mess without thought; he moved with purpose, however odd his surroundings. A dusty [coaster]{.vocab tabindex="0" data-def="coaster · n. 沿岸贸易船；杯托，小托盘；雪橇"} beneath a coffee mug bore the faded name [Vivian]{.vocab tabindex="0" data-def="Vivian · n. 维维安"}, a colleague long transferred away. Beside it lay a scrapbook labeled simply [Winnie]{.vocab tabindex="0" data-def="Winnie · n. 维尼；温妮"}, stuffed with press clippings about a [debacle]{.vocab tabindex="0" data-def="debacle · n. ①突然的大失败,惨败; 败军在慌乱中的溃逃"} that had nearly ended the department's funding three years prior.
 
-He had been tasked with sorting the legacy files of **Thales**, the project's founding director, whose papers were hopelessly **clogged** with redundant drafts. Every page was a **trifle** in isolation — a footnote on **Truman**-era policy, a sketch of the **Tyburn** site pulled from a London archive, a blurry photo of the **Valdez** spill that **Alvarez** had annotated in red ink. The **deviser** of this filing system, whoever it was, deserved a monument to poor judgment. The researcher himself had committed one career **blunder** after another in this room: a **blooper** at the **Bradley** symposium, an ill-timed remark about **Bridget**'s methodology, a funding memo so badly **blended** with another project's numbers that the director, a stern woman named **Dorothy**, had asked him point-blank whether he was serious or merely **trifling**.
+He had been tasked with sorting the legacy files of [Thales]{.vocab tabindex="0" data-def="Thales · n. 泰利斯"}, the project's founding director, whose papers were hopelessly [clogged]{.vocab tabindex="0" data-def="clogged · adj. 阻塞的；堵住的; 阻塞；妨碍"} with redundant drafts. Every page was a [trifle]{.vocab tabindex="0" data-def="trifle · n. 琐事；少量；蛋糕; 开玩笑；闲混；嘲弄; 浪费；虚度"} in isolation — a footnote on [Truman]{.vocab tabindex="0" data-def="Truman · n. 杜鲁门"}-era policy, a sketch of the [Tyburn]{.vocab tabindex="0" data-def="Tyburn · n. 泰伯恩行刑场"} site pulled from a London archive, a blurry photo of the [Valdez]{.vocab tabindex="0" data-def="Valdez 瓦尔迪兹"} spill that [Alvarez]{.vocab tabindex="0" data-def="Alvarez 阿尔瓦雷茨, 路易斯·沃尔特 美国物理学家, 因其对亚次原子粒子的研究而获1968年诺贝尔奖)"} had annotated in red ink. The [deviser]{.vocab tabindex="0" data-def="deviser · n. 设计者"} of this filing system, whoever it was, deserved a monument to poor judgment. The researcher himself had committed one career [blunder]{.vocab tabindex="0" data-def="blunder · n. 的错误; 犯错误; 踉踉跄跄地走"} after another in this room: a [blooper]{.vocab tabindex="0" data-def="blooper · n. 大挫折；引起杂音的收音机"} at the [Bradley]{.vocab tabindex="0" data-def="Bradley 布拉德利"} symposium, an ill-timed remark about [Bridget]{.vocab tabindex="0" data-def="Bridget 圣布里奇特"}'s methodology, a funding memo so badly [blended]{.vocab tabindex="0" data-def="blended · v. 混合; 数种混合的；混杂的"} with another project's numbers that the director, a stern woman named [Dorothy]{.vocab tabindex="0" data-def="Dorothy · n. 桃乐茜"}, had asked him point-blank whether he was serious or merely **trifling**.
 
-He found the **fortune** of a lifetime in the bottom drawer: a **vatage** ledger — incomplete, gloss-free, yet unmistakably signed **Anthony** — that scholars had assumed lost. He set it on the **cushion** of the reading chair, cleared the **garbage** off the side table, and thought of **Corinne** at the front desk, who would know exactly which archivist to call. **Vulcan** himself, the old myth said, forged order out of chaos. The researcher allowed himself a small, tired smile. He was no god — but he could, at least, clear the desk.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Thales** <span class="wpos">n.</span> | 泰利斯 |
-| **trifle** <span class="wpos">n.</span> | 琐事；少量；蛋糕; 开玩笑；闲混；嘲弄; 浪费；虚度 |
-| **Truman** <span class="wpos">n.</span> | 杜鲁门 |
-| **Tyburn** <span class="wpos">n.</span> | 泰伯恩行刑场 |
-| **urinal** <span class="wpos">n.</span> | 尿壶; 小便处, 小便池 |
-| **Valdez** | 瓦尔迪兹 |
-| **vatage** |  |
-| **Vivian** <span class="wpos">n.</span> | 维维安 |
-| **Vulcan** <span class="wpos">n.</span> | 伏尔甘 |
-| **Winnie** <span class="wpos">n.</span> | 维尼；温妮 |
-| **zombie** <span class="wpos">n.</span> | 巫毒崇拜,蛇神,生性怪癖的人 |
-| **Alvarez** | 阿尔瓦雷茨, 路易斯·沃尔特 美国物理学家, 因其对亚次原子粒子的研究而获1968年诺贝尔奖) |
-| **Anthony** <span class="wpos">n.</span> | 安东尼 |
-| **blended** <span class="wpos">v.</span> | 混合; 数种混合的；混杂的 |
-| **blooper** <span class="wpos">n.</span> | 大挫折；引起杂音的收音机 |
-| **blunder** <span class="wpos">n.</span> | 的错误; 犯错误; 踉踉跄跄地走 |
-| **Bradley** | 布拉德利 |
-| **Bridget** | 圣布里奇特 |
-| **clogged** <span class="wpos">adj.</span> | 阻塞的；堵住的; 阻塞；妨碍 |
-| **clutter** <span class="wpos">n.</span> | 杂乱，混乱; 使凌乱；胡乱地填满 |
-| **coaster** <span class="wpos">n.</span> | 沿岸贸易船；杯托，小托盘；雪橇 |
-| **Corinne** <span class="wpos">n.</span> | 科琳 |
-| **cushion** <span class="wpos">n.</span> | 垫子, 坐垫 |
-| **debacle** <span class="wpos">n.</span> | ①突然的大失败,惨败; 败军在慌乱中的溃逃 |
-| **deviser** <span class="wpos">n.</span> | 设计者 |
-| **Dorothy** <span class="wpos">n.</span> | 桃乐茜 |
-| **fellate** <span class="wpos">v.</span> | 吮吸阴茎,口交 |
-| **fixture** <span class="wpos">n.</span> | 固定装置; 固定在某位置的人或物 |
-| **fortune** <span class="wpos">n.</span> | 运气；财富；命运; 给予财富; 偶然发生 |
-| **garbage** <span class="wpos">n.</span> | 垃圾；废物 |
-:::
-:::
-::::
+He found the [fortune]{.vocab tabindex="0" data-def="fortune · n. 运气；财富；命运; 给予财富; 偶然发生"} of a lifetime in the bottom drawer: a [vatage]{.vocab tabindex="0" data-def="vatage"} ledger — incomplete, gloss-free, yet unmistakably signed [Anthony]{.vocab tabindex="0" data-def="Anthony · n. 安东尼"} — that scholars had assumed lost. He set it on the [cushion]{.vocab tabindex="0" data-def="cushion · n. 垫子, 坐垫"} of the reading chair, cleared the [garbage]{.vocab tabindex="0" data-def="garbage · n. 垃圾；废物"} off the side table, and thought of [Corinne]{.vocab tabindex="0" data-def="Corinne · n. 科琳"} at the front desk, who would know exactly which archivist to call. [Vulcan]{.vocab tabindex="0" data-def="Vulcan · n. 伏尔甘"} himself, the old myth said, forged order out of chaos. The researcher allowed himself a small, tired smile. He was no god — but he could, at least, clear the desk.
 
 ### A Most Miscellaneous Museum Evening
 
-:::: {.columns}
-::: {.column width="57%"}
-The curator — a gaunt man everyone called **Gregory** — had built his career on a single **gimmick**: staging pregame receptions before each new exhibition opened, so that donors arrived already primed to open their wallets. Tonight, however, the **pregame** cocktail hour had gone sideways. A pipe near the roof was **leaking**, dripping onto a rare Persian rug whose deep crimson, woven by **Persian** craftsmen four centuries ago, was slowly blooming with dark stains. Gregory muttered something **grating** under his breath and called a **Siemens** facilities technician.
+The curator — a gaunt man everyone called [Gregory]{.vocab tabindex="0" data-def="Gregory · n. 男子名, 古代罗马教皇之名"} — had built his career on a single [gimmick]{.vocab tabindex="0" data-def="gimmick · n. 暗机关；骗人的玩意; 使暗机关；搞骗人的玩意"}: staging pregame receptions before each new exhibition opened, so that donors arrived already primed to open their wallets. Tonight, however, the [pregame]{.vocab tabindex="0" data-def="pregame · adj. 比赛前的"} cocktail hour had gone sideways. A pipe near the roof was [leaking]{.vocab tabindex="0" data-def="leaking · n. 漏泄，渗漏；耗散; 渗漏的，泄漏的; 渗漏；泄露"}, dripping onto a rare Persian rug whose deep crimson, woven by [Persian]{.vocab tabindex="0" data-def="Persian · n. 波斯人；波斯语; 波斯的；波斯人的；波斯语的"} craftsmen four centuries ago, was slowly blooming with dark stains. Gregory muttered something [grating]{.vocab tabindex="0" data-def="grating · adj. 刺耳的；磨擦的; 格子；光栅；摩擦，摩擦声; 磨碎；擦响；激怒"} under his breath and called a [Siemens]{.vocab tabindex="0" data-def="Siemens · n. 西门子 siemensn. 西门子"} facilities technician.
 
-Meanwhile, the main hall offered a **mélange** of curiosities that no single theme could contain. A wall panel on **Permian** megafauna stood beside a placard about **Homo sapiens** — the label still read *sapiens* in italic print — and a glass case held actual **nuggets** of Klondike gold. Across the room, a child had been corralled inside a toddler **playpen** someone had dragged in for a school group; he was giving his older brother repeated **noogies**, which his mother, a woman named **Ophelia**, pretended not to see. A **remnant** of the school group's banner lay crumpled near the fire exit, a **sematic** yellow-and-black stripe warning visitors of the wet floor.
+Meanwhile, the main hall offered a [mélange]{.vocab tabindex="0" data-def="mélange · n. 混合物;混杂的人群或事物"} of curiosities that no single theme could contain. A wall panel on [Permian]{.vocab tabindex="0" data-def="Permian · adj. 二叠纪的; 二叠纪"} megafauna stood beside a placard about **Homo sapiens** — the label still read *sapiens* in italic print — and a glass case held actual [nuggets]{.vocab tabindex="0" data-def="nuggets · n. 金砖；丹佛掘金"} of Klondike gold. Across the room, a child had been corralled inside a toddler [playpen]{.vocab tabindex="0" data-def="playpen · n. 护栏"} someone had dragged in for a school group; he was giving his older brother repeated [noogies]{.vocab tabindex="0" data-def="Noogies"}, which his mother, a woman named [Ophelia]{.vocab tabindex="0" data-def="Ophelia · n. 奥菲莉娅"}, pretended not to see. A [remnant]{.vocab tabindex="0" data-def="remnant · n. 剩余; 剩余的"} of the school group's banner lay crumpled near the fire exit, a [sematic]{.vocab tabindex="0" data-def="sematic · adj. 使警戒的,令人警惕的,警告的"} yellow-and-black stripe warning visitors of the wet floor.
 
-The evening lecture touched on everything and nothing: a **Semitic** script found etched on a Bronze Age jar; a **Pharaoh**'s copper drill-bit; a reconstruction of a **Martian** soil sample rack; the philosophy of **Spinoza** — his *materia* lectures displayed in facsimile alongside the original Latin. In the sports alcove, a **Raptors** jersey hung framed beside a **Molotov** cocktail bottle from a Cold War exhibit, which made at least one guest visibly uneasy. The **run-off** vote for "Exhibit of the Year" was still open on a tablet by the door — really a **playoff** in miniature, one **remnant** nomination facing another in a head-to-head **run-off**. A donor named **Maynard** leaned on the **playpen** railing, scrolling through **Scripps** research abstracts on his phone, looking deeply unbothered.
+The evening lecture touched on everything and nothing: a [Semitic]{.vocab tabindex="0" data-def="Semitic · adj. 闪米特人的；闪族语系的; 闪族人；闪语族"} script found etched on a Bronze Age jar; a [Pharaoh]{.vocab tabindex="0" data-def="Pharaoh · n. 法老"}'s copper drill-bit; a reconstruction of a [Martian]{.vocab tabindex="0" data-def="Martian · adj. 火星的; 火星人"} soil sample rack; the philosophy of [Spinoza]{.vocab tabindex="0" data-def="Spinoza · n. 斯宾诺沙"} — his *materia* lectures displayed in facsimile alongside the original Latin. In the sports alcove, a [Raptors]{.vocab tabindex="0" data-def="Raptors · n. 猛龙队；猛禽类"} jersey hung framed beside a [Molotov]{.vocab tabindex="0" data-def="Molotov · n. 莫洛托夫"} cocktail bottle from a Cold War exhibit, which made at least one guest visibly uneasy. The [run-off]{.vocab tabindex="0" data-def="run-off · n. 决赛,决定性竞选,〈美〉流走之物"} vote for "Exhibit of the Year" was still open on a tablet by the door — really a [playoff]{.vocab tabindex="0" data-def="playoff · n. 最后决赛"} in miniature, one [remnant]{.vocab tabindex="0" data-def="remnant · n. 剩余; 剩余的"} nomination facing another in a head-to-head [run-off]{.vocab tabindex="0" data-def="run-off · n. 决赛,决定性竞选,〈美〉流走之物"}. A donor named [Maynard]{.vocab tabindex="0" data-def="Maynard · n. 梅纳德"} leaned on the [playpen]{.vocab tabindex="0" data-def="playpen · n. 护栏"} railing, scrolling through [Scripps]{.vocab tabindex="0" data-def="Scripps 斯克里普斯"} research abstracts on his phone, looking deeply unbothered.
 
-Outside, a **slapper** mechanism on the loading dock kept misfiring, sending a dull clang through the atrium every few minutes. Someone had stashed a tin of **hashish**-scented candles near the ventilation grate — unopened, thankfully — and a tattered **hammock** from a maritime display had been re-strung between two pillars by person or persons unknown. Gregory surveyed the whole spectacle: the leaking pipe, the preoccupied donors, the Spinoza facsimiles, the noogies, the hammock. He poured himself a second glass of wine and decided it was, on balance, a perfectly normal opening night.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **gimmick** <span class="wpos">n.</span> | 暗机关；骗人的玩意; 使暗机关；搞骗人的玩意 |
-| **grating** <span class="wpos">adj.</span> | 刺耳的；磨擦的; 格子；光栅；摩擦，摩擦声; 磨碎；擦响；激怒 |
-| **Gregory** <span class="wpos">n.</span> | 男子名, 古代罗马教皇之名 |
-| **hammock** <span class="wpos">n.</span> | 吊床；吊铺；吊带; 睡吊床 |
-| **hashish** <span class="wpos">n.</span> | 以印度大麻提炼的麻药 |
-| **leaking** <span class="wpos">n.</span> | 漏泄，渗漏；耗散; 渗漏的，泄漏的; 渗漏；泄露 |
-| **Martian** <span class="wpos">adj.</span> | 火星的; 火星人 |
-| **materia** | 学科；斜纹布 |
-| **Maynard** <span class="wpos">n.</span> | 梅纳德 |
-| **mélange** <span class="wpos">n.</span> | 混合物;混杂的人群或事物 |
-| **Molotov** <span class="wpos">n.</span> | 莫洛托夫 |
-| **Noogies** |  |
-| **nuggets** <span class="wpos">n.</span> | 金砖；丹佛掘金 |
-| **Ophelia** <span class="wpos">n.</span> | 奥菲莉娅 |
-| **Permian** <span class="wpos">adj.</span> | 二叠纪的; 二叠纪 |
-| **Persian** <span class="wpos">n.</span> | 波斯人；波斯语; 波斯的；波斯人的；波斯语的 |
-| **Pharaoh** <span class="wpos">n.</span> | 法老 |
-| **playoff** <span class="wpos">n.</span> | 最后决赛 |
-| **playpen** <span class="wpos">n.</span> | 护栏 |
-| **pregame** <span class="wpos">adj.</span> | 比赛前的 |
-| **Raptors** <span class="wpos">n.</span> | 猛龙队；猛禽类 |
-| **remnant** <span class="wpos">n.</span> | 剩余; 剩余的 |
-| **run-off** <span class="wpos">n.</span> | 决赛,决定性竞选,〈美〉流走之物 |
-| **sapiens** <span class="wpos">adj.</span> | 现代人的 |
-| **Scripps** | 斯克里普斯 |
-| **sematic** <span class="wpos">adj.</span> | 使警戒的,令人警惕的,警告的 |
-| **Semitic** <span class="wpos">adj.</span> | 闪米特人的；闪族语系的; 闪族人；闪语族 |
-| **Siemens** <span class="wpos">n.</span> | 西门子 siemensn. 西门子 |
-| **slapper** <span class="wpos">n.</span> | 飞片；粘舌 |
-| **Spinoza** <span class="wpos">n.</span> | 斯宾诺沙 |
-:::
-:::
-::::
+Outside, a [slapper]{.vocab tabindex="0" data-def="slapper · n. 飞片；粘舌"} mechanism on the loading dock kept misfiring, sending a dull clang through the atrium every few minutes. Someone had stashed a tin of [hashish]{.vocab tabindex="0" data-def="hashish · n. 以印度大麻提炼的麻药"}-scented candles near the ventilation grate — unopened, thankfully — and a tattered [hammock]{.vocab tabindex="0" data-def="hammock · n. 吊床；吊铺；吊带; 睡吊床"} from a maritime display had been re-strung between two pillars by person or persons unknown. Gregory surveyed the whole spectacle: the leaking pipe, the preoccupied donors, the Spinoza facsimiles, the noogies, the hammock. He poured himself a second glass of wine and decided it was, on balance, a perfectly normal opening night.
 
 ### Odds, Ends, and Everyone In Between
 
-:::: {.columns}
-::: {.column width="57%"}
-Perched on a **barstool** near the **doorstop**-propped entrance, the historian turned the **doorknob** of an old wooden **cabinets** unit and pulled out a thick folder. Inside were **strands** of mismatched notes — fragments on **Akkadian** clay tablets, a side-by-side comparison of **Tagalog** and Latin verb forms, and a half-finished essay on **Avicenna**'s influence on medieval medicine. He had been working through **tryouts** for a new research assistant, hoping to fill the **vacancy** left by his last colleague. So far, none of the candidates had impressed him. One had a history of **truancy** at seminars; another had suggested a **deletion** of the entire **Achilles**-myth chapter, which he flatly refused.
+Perched on a [barstool]{.vocab tabindex="0" data-def="barstool · n. 酒吧高脚凳"} near the [doorstop]{.vocab tabindex="0" data-def="doorstop · n. 制止门过开之物"}-propped entrance, the historian turned the [doorknob]{.vocab tabindex="0" data-def="doorknob · n. 球形门拉手"} of an old wooden [cabinets]{.vocab tabindex="0" data-def="cabinets · n. 匣子；陈列柜；内阁；小房间"} unit and pulled out a thick folder. Inside were [strands]{.vocab tabindex="0" data-def="strands · n. 线；绳索; 搁浅；使处于困境"} of mismatched notes — fragments on [Akkadian]{.vocab tabindex="0" data-def="Akkadian · adj. 阿卡德人的；阿卡德语的; 阿卡德人；阿卡德语"} clay tablets, a side-by-side comparison of [Tagalog]{.vocab tabindex="0" data-def="Tagalog · n. 塔加拉族语；塔加拉族人"} and Latin verb forms, and a half-finished essay on [Avicenna]{.vocab tabindex="0" data-def="Avicenna · n. 阿维森纳"}'s influence on medieval medicine. He had been working through [tryouts]{.vocab tabindex="0" data-def="tryouts · n. 试用；选拔赛"} for a new research assistant, hoping to fill the [vacancy]{.vocab tabindex="0" data-def="vacancy · n. 空房间; 空虚；空白; 空缺；空职；空额; 空虚；失神，心不在焉"} left by his last colleague. So far, none of the candidates had impressed him. One had a history of [truancy]{.vocab tabindex="0" data-def="truancy · n. 旷课，逃学；玩忽职守"} at seminars; another had suggested a [deletion]{.vocab tabindex="0" data-def="deletion · n. 删除；删除部分；缺失"} of the entire [Achilles]{.vocab tabindex="0" data-def="Achilles · n. 阿基里斯"}-myth chapter, which he flatly refused.
 
-Outside, a **carousel** of campus life kept spinning. A **castaway** from the drama club — dismissed after a **blow out** rehearsal — sat quietly on a bench. Nearby, two students debated whether to **call off** a **billiard** tournament planned for the weekend, since the hall was still **confined** by renovation barriers. A loud voice called "**tallyho**!" from across the courtyard — someone's theatrical way of announcing they had spotted the dean. The **Cesarian**-themed float for the history parade rolled past, attended by a student dressed unconvincingly as **Cromwell**, another as **Benedict**, and a third as **Winston**, waving from a rickety **tournee** wagon.
+Outside, a [carousel]{.vocab tabindex="0" data-def="carousel · n. 旋转木马"} of campus life kept spinning. A [castaway]{.vocab tabindex="0" data-def="castaway · n. 被抛弃的人；坐船遇难者；漂流者; 遭难的；被抛弃的"} from the drama club — dismissed after a [blow out]{.vocab tabindex="0" data-def="blow out 吹灭"} rehearsal — sat quietly on a bench. Nearby, two students debated whether to [call off]{.vocab tabindex="0" data-def="call off 取消，把转移开"} a [billiard]{.vocab tabindex="0" data-def="billiard · adj. 撞球用的；台球的; 连撞两球所得的分数"} tournament planned for the weekend, since the hall was still [confined]{.vocab tabindex="0" data-def="confined · adj. 1. 被限制的，封闭的，狭窄的 2. confine的"} by renovation barriers. A loud voice called "[tallyho]{.vocab tabindex="0" data-def="tallyho · int. 呔嗬!; 四匹马拉的马车,追捕的叫声; 用吆喝声表示发现"}!" from across the courtyard — someone's theatrical way of announcing they had spotted the dean. The [Cesarian]{.vocab tabindex="0" data-def="Cesarian · n. 罗马皇帝的崇拜者,专制政体的拥护者; 凯撒的"}-themed float for the history parade rolled past, attended by a student dressed unconvincingly as [Cromwell]{.vocab tabindex="0" data-def="Cromwell · n. 克伦威尔"}, another as [Benedict]{.vocab tabindex="0" data-def="Benedict · n. 本尼迪克特"}, and a third as [Winston]{.vocab tabindex="0" data-def="Winston · n. 温斯顿"}, waving from a rickety [tournee]{.vocab tabindex="0" data-def="tournee"} wagon.
 
-Inside again, the historian sighed and began to **wind up** his notes for the day. His **Christie**-style mystery novel — a passion project — sat in a drawer, its protagonist a law clerk named **Courtney** who specialised in estates of the **decedent**. He had read somewhere that **billards** — an archaic spelling he loved — had once been played in the halls of **Avicenna**'s era. Probably apocryphal. He closed the folder, adjusted the **doorknob** latch, and stepped out into the cool afternoon.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **strands** <span class="wpos">n.</span> | 线；绳索; 搁浅；使处于困境 |
-| **Tagalog** <span class="wpos">n.</span> | 塔加拉族语；塔加拉族人 |
-| **tallyho** <span class="wpos">int.</span> | 呔嗬!; 四匹马拉的马车,追捕的叫声; 用吆喝声表示发现 |
-| **tournee** |  |
-| **truancy** <span class="wpos">n.</span> | 旷课，逃学；玩忽职守 |
-| **tryouts** <span class="wpos">n.</span> | 试用；选拔赛 |
-| **vacancy** <span class="wpos">n.</span> | 空房间; 空虚；空白; 空缺；空职；空额; 空虚；失神，心不在焉 |
-| **wind up** | 完成；停止; 关停，关闭; 最终沦落到；最终落得；告终; 摇上; 故意惹恼；挑衅; 骗；哄骗; 给上… |
-| **Winston** <span class="wpos">n.</span> | 温斯顿 |
-| **Achilles** <span class="wpos">n.</span> | 阿基里斯 |
-| **Akkadian** <span class="wpos">adj.</span> | 阿卡德人的；阿卡德语的; 阿卡德人；阿卡德语 |
-| **Avicenna** <span class="wpos">n.</span> | 阿维森纳 |
-| **barstool** <span class="wpos">n.</span> | 酒吧高脚凳 |
-| **Benedict** <span class="wpos">n.</span> | 本尼迪克特 |
-| **billards** |  |
-| **billiard** <span class="wpos">adj.</span> | 撞球用的；台球的; 连撞两球所得的分数 |
-| **blow out** | 吹灭 |
-| **cabinets** <span class="wpos">n.</span> | 匣子；陈列柜；内阁；小房间 |
-| **call off** | 取消，把转移开 |
-| **carousel** <span class="wpos">n.</span> | 旋转木马 |
-| **castaway** <span class="wpos">n.</span> | 被抛弃的人；坐船遇难者；漂流者; 遭难的；被抛弃的 |
-| **Cesarian** <span class="wpos">n.</span> | 罗马皇帝的崇拜者,专制政体的拥护者; 凯撒的 |
-| **Christie** <span class="wpos">n.</span> | 克里斯蒂；挪威首都奥斯陆的旧称 |
-| **confined** <span class="wpos">adj.</span> | 1. 被限制的，封闭的，狭窄的 2. confine的 |
-| **Courtney** <span class="wpos">n.</span> | 考特尼 |
-| **Cromwell** <span class="wpos">n.</span> | 克伦威尔 |
-| **decedent** <span class="wpos">n.</span> | 死者；已故者 |
-| **deletion** <span class="wpos">n.</span> | 删除；删除部分；缺失 |
-| **doorknob** <span class="wpos">n.</span> | 球形门拉手 |
-| **doorstop** <span class="wpos">n.</span> | 制止门过开之物 |
-:::
-:::
-::::
+Inside again, the historian sighed and began to [wind up]{.vocab tabindex="0" data-def="wind up 完成；停止; 关停，关闭; 最终沦落到；最终落得；告终; 摇上; 故意惹恼；挑衅; 骗；哄骗; 给上…"} his notes for the day. His [Christie]{.vocab tabindex="0" data-def="Christie · n. 克里斯蒂；挪威首都奥斯陆的旧称"}-style mystery novel — a passion project — sat in a drawer, its protagonist a law clerk named [Courtney]{.vocab tabindex="0" data-def="Courtney · n. 考特尼"} who specialised in estates of the [decedent]{.vocab tabindex="0" data-def="decedent · n. 死者；已故者"}. He had read somewhere that [billards]{.vocab tabindex="0" data-def="billards"} — an archaic spelling he loved — had once been played in the halls of [Avicenna]{.vocab tabindex="0" data-def="Avicenna · n. 阿维森纳"}'s era. Probably apocryphal. He closed the folder, adjusted the [doorknob]{.vocab tabindex="0" data-def="doorknob · n. 球形门拉手"} latch, and stepped out into the cool afternoon.
 
 ### A Day of Odds and Ends
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning after deciding to **sleep in**, **John Doe** — a perfectly ordinary man with no particular story — finally rolled out of bed and shuffled past the overflowing **dumpster** in the alley. Someone had tossed in a cracked **billiards** cue and, inexplicably, a jar of fake **emeralds**. He paused at the **threshold** of the building's back door, trying to make sense of it all, then shrugged and moved on.
+The morning after deciding to [sleep in]{.vocab tabindex="0" data-def="sleep in"}, [John Doe]{.vocab tabindex="0" data-def="John Doe 某人；普通人；无名氏"} — a perfectly ordinary man with no particular story — finally rolled out of bed and shuffled past the overflowing [dumpster]{.vocab tabindex="0" data-def="dumpster · n. 大型垃圾装卸卡车；垃圾大铁桶"} in the alley. Someone had tossed in a cracked [billiards]{.vocab tabindex="0" data-def="billiards · n. 台球,桌球戏，弹子球"} cue and, inexplicably, a jar of fake [emeralds]{.vocab tabindex="0" data-def="emeralds · n. 绿宝石；祖母绿；翡翠"}. He paused at the **threshold** of the building's back door, trying to make sense of it all, then shrugged and moved on.
 
-Down at the community center, a **breakdown** of the week's events was posted on the bulletin board: a **lacrosse** demonstration had gone sideways when a stray ball knocked a **Phillips** screwdriver off a shelf and straight into the sound system, an **auxiliary** speaker included. The volunteer coordinator — a woman named **Jennifer**, who had read enough **herstory** to know that heroines rarely get credit — was already on the phone ordering a replacement **accessory** kit. **By chance**, **Theodore** from the philosophy club wandered in, muttering something about **Plotinus** and the nature of the One, while clutching a dog-eared paperback on **Voltaire** and a loose page of notes on **Polonius**. Nobody asked.
+Down at the community center, a [breakdown]{.vocab tabindex="0" data-def="breakdown · n. 损坏, 故障; 垮台, 破裂; 衰竭, 衰弱; 统计分析"} of the week's events was posted on the bulletin board: a [lacrosse]{.vocab tabindex="0" data-def="lacrosse · n. 长曲棍球"} demonstration had gone sideways when a stray ball knocked a [Phillips]{.vocab tabindex="0" data-def="Phillips · n. 飞利浦；菲利普斯"} screwdriver off a shelf and straight into the sound system, an [auxiliary]{.vocab tabindex="0" data-def="auxiliary · n. 助动词；辅助物；帮助者; 辅助的；备用的"} speaker included. The volunteer coordinator — a woman named [Jennifer]{.vocab tabindex="0" data-def="Jennifer · n. 詹尼弗"}, who had read enough [herstory]{.vocab tabindex="0" data-def="herstory · n. 历史"} to know that heroines rarely get credit — was already on the phone ordering a replacement [accessory]{.vocab tabindex="0" data-def="accessory · n. 附件, 配件; 同谋, 帮凶, 包庇犯"} kit. [By chance]{.vocab tabindex="0" data-def="by chance 偶然；意外地"}, [Theodore]{.vocab tabindex="0" data-def="Theodore · n. 希欧多尔"} from the philosophy club wandered in, muttering something about [Plotinus]{.vocab tabindex="0" data-def="Plotinus · n. 普罗提诺"} and the nature of the One, while clutching a dog-eared paperback on [Voltaire]{.vocab tabindex="0" data-def="Voltaire · n. 伏尔泰"} and a loose page of notes on [Polonius]{.vocab tabindex="0" data-def="Polonius · n. 波洛尼厄斯"}. Nobody asked.
 
-Outside, a kid in a **gertrude** onesie sat watching an older cousin **spice up** a dull afternoon by narrating a backyard game as though **Godzilla** were bearing down on the neighbourhood. His commentary was **well set** in the grand tradition of neighbourhood drama, somewhere between **Bonaparte**'s battle dispatches and a **Goldberg** deal gone loud. In the end, everything settled — not through any plan but simply because, as the evening light held, **there is** always a quiet moment that makes the whole messy day **accessory** to something almost pleasant.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **dumpster** <span class="wpos">n.</span> | 大型垃圾装卸卡车；垃圾大铁桶 |
-| **emeralds** <span class="wpos">n.</span> | 绿宝石；祖母绿；翡翠 |
-| **gertrude** <span class="wpos">n.</span> | 婴儿内衣 |
-| **go rouge** |  |
-| **Godzilla** <span class="wpos">n.</span> | 哥斯拉 |
-| **Goldberg** <span class="wpos">n.</span> | 〈美俚〉犹太老板 |
-| **herstory** <span class="wpos">n.</span> | 历史 |
-| **Jennifer** <span class="wpos">n.</span> | 詹尼弗 |
-| **John Doe** | 某人；普通人；无名氏 |
-| **lacrosse** <span class="wpos">n.</span> | 长曲棍球 |
-| **Number 0** |  |
-| **Phillips** <span class="wpos">n.</span> | 飞利浦；菲利普斯 |
-| **Plotinus** <span class="wpos">n.</span> | 普罗提诺 |
-| **Polonius** <span class="wpos">n.</span> | 波洛尼厄斯 |
-| **skimping** | 跳汰选矿法 |
-| **sleep in** |  |
-| **Spice up** |  |
-| **Theodore** <span class="wpos">n.</span> | 希欧多尔 |
-| **there is** | 那儿有 |
-| **thresold** | 限极 |
-| **Voltaire** <span class="wpos">n.</span> | 伏尔泰 |
-| **well set** |  |
-| **Zoramite** |  |
-| **accessory** <span class="wpos">n.</span> | 附件, 配件; 同谋, 帮凶, 包庇犯 |
-| **auxiliary** <span class="wpos">n.</span> | 助动词；辅助物；帮助者; 辅助的；备用的 |
-| **billiards** <span class="wpos">n.</span> | 台球,桌球戏，弹子球 |
-| **Bonaparte** | 波拿巴 |
-| **Bontrager** |  |
-| **breakdown** <span class="wpos">n.</span> | 损坏, 故障; 垮台, 破裂; 衰竭, 衰弱; 统计分析 |
-| **by chance** | 偶然；意外地 |
-:::
-:::
-::::
+Outside, a kid in a [gertrude]{.vocab tabindex="0" data-def="gertrude · n. 婴儿内衣"} onesie sat watching an older cousin [spice up]{.vocab tabindex="0" data-def="Spice up"} a dull afternoon by narrating a backyard game as though [Godzilla]{.vocab tabindex="0" data-def="Godzilla · n. 哥斯拉"} were bearing down on the neighbourhood. His commentary was [well set]{.vocab tabindex="0" data-def="well set"} in the grand tradition of neighbourhood drama, somewhere between [Bonaparte]{.vocab tabindex="0" data-def="Bonaparte 波拿巴"}'s battle dispatches and a [Goldberg]{.vocab tabindex="0" data-def="Goldberg · n. 〈美俚〉犹太老板"} deal gone loud. In the end, everything settled — not through any plan but simply because, as the evening light held, [there is]{.vocab tabindex="0" data-def="there is 那儿有"} always a quiet moment that makes the whole messy day [accessory]{.vocab tabindex="0" data-def="accessory · n. 附件, 配件; 同谋, 帮凶, 包庇犯"} to something almost pleasant.
 
 ### A Miscellany of Moments
 
-:::: {.columns}
-::: {.column width="57%"}
-The old reading room had a **Byzantine** filing system — drawers within drawers, cross-referenced by codes no one alive could fully decode. On the desk sat a worn paperback of **Descartes**, its spine cracked from years of **haphazard** thumbing. Beside it, a model **hatchback** in pale blue plastic, the kind you win at a school raffle, shared shelf space with a toy **limousine** missing one wheel. A **makeshift** stand fashioned from a binder clip kept them from rolling off.
+The old reading room had a [Byzantine]{.vocab tabindex="0" data-def="Byzantine · adj. 拜占庭的, 东罗马帝国的; 拜占庭建筑风格的; 错综复杂的, 暗中的"} filing system — drawers within drawers, cross-referenced by codes no one alive could fully decode. On the desk sat a worn paperback of [Descartes]{.vocab tabindex="0" data-def="Descartes · n. 笛卡尔"}, its spine cracked from years of [haphazard]{.vocab tabindex="0" data-def="haphazard · adj. 偶然的, 随意的, 无计划的"} thumbing. Beside it, a model [hatchback]{.vocab tabindex="0" data-def="hatchback · n. 装有向上开的后车门的小轿车"} in pale blue plastic, the kind you win at a school raffle, shared shelf space with a toy [limousine]{.vocab tabindex="0" data-def="limousine · n. 豪华轿车"} missing one wheel. A [makeshift]{.vocab tabindex="0" data-def="makeshift · n. 权宜之计, 临时代用的物品; 临时替代的；权宜的"} stand fashioned from a binder clip kept them from rolling off.
 
-The room's curator, old **Sebastian**, had an eye for the incidental. A **Methuselah** of the archive world, he'd outlasted three building renovations and one **fire alarm** that turned out to be a burnt sandwich. A framed photograph showed **Roosevelt** shaking hands with a man whose identity remained an **oversight** — no caption, no date. Next to it hung a tournament bracket for **backgammon**, signed by someone named **Robertson** and countersigned by **Tomlinson**. A **Hanoverian** coin and a **goldilocks** figurine with frizzy yellow hair completed the windowsill.
+The room's curator, old [Sebastian]{.vocab tabindex="0" data-def="Sebastian · n. 塞巴斯蒂安"}, had an eye for the incidental. A [Methuselah]{.vocab tabindex="0" data-def="Methuselah · n. 玛士撒拉,非常高寿的人"} of the archive world, he'd outlasted three building renovations and one [fire alarm]{.vocab tabindex="0" data-def="fire alarm · n. 火警,报火机,警钟"} that turned out to be a burnt sandwich. A framed photograph showed [Roosevelt]{.vocab tabindex="0" data-def="Roosevelt 罗斯福"} shaking hands with a man whose identity remained an [oversight]{.vocab tabindex="0" data-def="oversight · n. 疏忽, 失察"} — no caption, no date. Next to it hung a tournament bracket for [backgammon]{.vocab tabindex="0" data-def="backgammon · n. 西洋双陆棋"}, signed by someone named [Robertson]{.vocab tabindex="0" data-def="Robertson 罗伯逊"} and countersigned by [Tomlinson]{.vocab tabindex="0" data-def="Tomlinson 汤姆林森"}. A [Hanoverian]{.vocab tabindex="0" data-def="Hanoverian · n. 汉诺威; 汉诺威的"} coin and a [goldilocks]{.vocab tabindex="0" data-def="goldilocks · n. 金发姑娘,金凤花"} figurine with frizzy yellow hair completed the windowsill.
 
-On a corkboard above the radiator, someone had pinned notes on **Anaxagoras**, **Democritus**, and **Heraclitus** — three philosophers whose disagreements, scrawled in red pen, still felt urgent. A **Lancaster** bomber profile was sketched in the margin of an **Egyptology** pamphlet. A sticky note read simply: **here we go**. The shelf below held a **perishable** items log from a long-defunct canteen, a spare **pillowcase** folded into quarters, a circuit-board **eliminator** whose purpose no one remembered, and a printout titled "Introduction to **hypervideo**." A single line at the bottom of the corkboard, written in pencil: *"**Mauy Thai** class moved to Thursday."* Whether that was a correction or a wish, the room declined to say. The whole arrangement was, in the end, perfectly **like-kind** — each oddity recognising itself in the next. Somewhere overhead, a **helicopter** passed, and Sebastian did not look up.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Byzantine** <span class="wpos">adj.</span> | 拜占庭的, 东罗马帝国的; 拜占庭建筑风格的; 错综复杂的, 暗中的 |
-| **Descartes** <span class="wpos">n.</span> | 笛卡尔 |
-| **haphazard** <span class="wpos">adj.</span> | 偶然的, 随意的, 无计划的 |
-| **hatchback** <span class="wpos">n.</span> | 装有向上开的后车门的小轿车 |
-| **Lancaster** | 兰喀斯特式机;兰开斯特 |
-| **like-kind** |  |
-| **limousine** <span class="wpos">n.</span> | 豪华轿车 |
-| **makeshift** <span class="wpos">n.</span> | 权宜之计, 临时代用的物品; 临时替代的；权宜的 |
-| **Mauy Thai** |  |
-| **oversight** <span class="wpos">n.</span> | 疏忽, 失察 |
-| **Robertson** | 罗伯逊 |
-| **Roosevelt** | 罗斯福 |
-| **Sebastian** <span class="wpos">n.</span> | 塞巴斯蒂安 |
-| **Tomlinson** | 汤姆林森 |
-| **Anaxagoras** | 阿那克萨哥拉 |
-| **backgammon** <span class="wpos">n.</span> | 西洋双陆棋 |
-| **Democritus** | 德谟克利特 |
-| **Egyptology** <span class="wpos">n.</span> | 埃及古物学 |
-| **eliminator** <span class="wpos">n.</span> | 消除者,消除器 |
-| **fire alarm** <span class="wpos">n.</span> | 火警,报火机,警钟 |
-| **goldilocks** <span class="wpos">n.</span> | 金发姑娘,金凤花 |
-| **Hanoverian** <span class="wpos">n.</span> | 汉诺威; 汉诺威的 |
-| **helicopter** <span class="wpos">n.</span> | 直升机 |
-| **Heraclitus** | 赫拉克利特 |
-| **here we go** |  |
-| **hypervideo** | 超视频 |
-| **masturbate** <span class="wpos">v.</span> | 进行手淫 |
-| **Methuselah** <span class="wpos">n.</span> | 玛士撒拉,非常高寿的人 |
-| **perishable** <span class="wpos">adj.</span> | 易腐烂的，易腐败的; 易毁灭的；易消亡的; 容易腐坏的东西 |
-| **pillowcase** <span class="wpos">n.</span> | 枕套 |
-:::
-:::
-::::
+On a corkboard above the radiator, someone had pinned notes on [Anaxagoras]{.vocab tabindex="0" data-def="Anaxagoras 阿那克萨哥拉"}, [Democritus]{.vocab tabindex="0" data-def="Democritus 德谟克利特"}, and [Heraclitus]{.vocab tabindex="0" data-def="Heraclitus 赫拉克利特"} — three philosophers whose disagreements, scrawled in red pen, still felt urgent. A [Lancaster]{.vocab tabindex="0" data-def="Lancaster 兰喀斯特式机;兰开斯特"} bomber profile was sketched in the margin of an [Egyptology]{.vocab tabindex="0" data-def="Egyptology · n. 埃及古物学"} pamphlet. A sticky note read simply: [here we go]{.vocab tabindex="0" data-def="here we go"}. The shelf below held a [perishable]{.vocab tabindex="0" data-def="perishable · adj. 易腐烂的，易腐败的; 易毁灭的；易消亡的; 容易腐坏的东西"} items log from a long-defunct canteen, a spare [pillowcase]{.vocab tabindex="0" data-def="pillowcase · n. 枕套"} folded into quarters, a circuit-board [eliminator]{.vocab tabindex="0" data-def="eliminator · n. 消除者,消除器"} whose purpose no one remembered, and a printout titled "Introduction to [hypervideo]{.vocab tabindex="0" data-def="hypervideo 超视频"}." A single line at the bottom of the corkboard, written in pencil: *"[Mauy Thai]{.vocab tabindex="0" data-def="Mauy Thai"} class moved to Thursday."* Whether that was a correction or a wish, the room declined to say. The whole arrangement was, in the end, perfectly [like-kind]{.vocab tabindex="0" data-def="like-kind"} — each oddity recognising itself in the next. Somewhere overhead, a [helicopter]{.vocab tabindex="0" data-def="helicopter · n. 直升机"} passed, and Sebastian did not look up.
 
 ### Miscellany at the Museum of Odd Human Things
 
-:::: {.columns}
-::: {.column width="57%"}
-The exhibition hall was a **springboard** for the strangest collection imaginable. Under the **Hellenistic** marble archway, a placard quoted **Xenophanes** and **Anaximander** — pre-Socratic thinkers who would have found the displays utterly baffling. One glass case held a cracked tube of **toothpaste** beside a squeaky **Neanderthal** skull replica; **oddly enough**, they shared the same label: *"Tools of the Mouth."* A **Tamagotchi** sat in the next case, its battery long dead, next to a faded **diaper pail** — both monuments to the anxious labour of keeping something alive.
+The exhibition hall was a [springboard]{.vocab tabindex="0" data-def="springboard · n. 跳板; 跳板, 踏板"} for the strangest collection imaginable. Under the [Hellenistic]{.vocab tabindex="0" data-def="Hellenistic · adj. Hellenist的,希腊风格的,希腊文化的"} marble archway, a placard quoted [Xenophanes]{.vocab tabindex="0" data-def="Xenophanes 色诺芬尼"} and [Anaximander]{.vocab tabindex="0" data-def="Anaximander 阿那克西曼德"} — pre-Socratic thinkers who would have found the displays utterly baffling. One glass case held a cracked tube of [toothpaste]{.vocab tabindex="0" data-def="toothpaste · n. 牙膏"} beside a squeaky [Neanderthal]{.vocab tabindex="0" data-def="Neanderthal · adj. 穴居人的"} skull replica; [oddly enough]{.vocab tabindex="0" data-def="oddly enough"}, they shared the same label: *"Tools of the Mouth."* A [Tamagotchi]{.vocab tabindex="0" data-def="Tamagotchi · n. 电子鸡"} sat in the next case, its battery long dead, next to a faded [diaper pail]{.vocab tabindex="0" data-def="diaper pail"} — both monuments to the anxious labour of keeping something alive.
 
-The gift shop was, of course, the real draw. **Afficianados** of the peculiar lined up to browse **collectible** pins and **convertible** tote bags that could fold into hats. A **firecracker** wrapper from a 1987 New Year was priced at forty dollars. The curator — who had somehow managed to **get away with** calling half the donations "art" — stood by the register looking smug. Someone whispered, "**The jig's up**," after spotting a **Sloth love Chunk** T-shirt marked as a "rare artefact." The **terminator**-themed corner featured chrome prosthetic hands beside earnest wall text on mythology and **fornication** in ancient Greece, which also touched on **cunnilingus** with a composure that would have made **Nightingale** herself raise an eyebrow.
+The gift shop was, of course, the real draw. [Afficianados]{.vocab tabindex="0" data-def="afficianados"} of the peculiar lined up to browse [collectible]{.vocab tabindex="0" data-def="collectible · adj. 可收集的,可代收的"} pins and [convertible]{.vocab tabindex="0" data-def="convertible · adj. 可改变的,可变换的; 可以自由兑换的; 有折篷的，可折叠的; 可改变性,可变化性"} tote bags that could fold into hats. A [firecracker]{.vocab tabindex="0" data-def="firecracker · n. 爆竹;鞭炮"} wrapper from a 1987 New Year was priced at forty dollars. The curator — who had somehow managed to [get away with]{.vocab tabindex="0" data-def="get away with · vt. 侥幸做成"} calling half the donations "art" — stood by the register looking smug. Someone whispered, "[The jig's up]{.vocab tabindex="0" data-def="the jig's up"}," after spotting a [Sloth love Chunk]{.vocab tabindex="0" data-def="Sloth love Chunk"} T-shirt marked as a "rare artefact." The [terminator]{.vocab tabindex="0" data-def="terminator · n. 终结者,终结器,明暗界限"}-themed corner featured chrome prosthetic hands beside earnest wall text on mythology and [fornication]{.vocab tabindex="0" data-def="fornication · n. 通奸；乱伦"} in ancient Greece, which also touched on [cunnilingus]{.vocab tabindex="0" data-def="cunnilingus · n. 舔阴"} with a composure that would have made [Nightingale]{.vocab tabindex="0" data-def="Nightingale · n. 南丁格尔 nightingalen. 夜莺"} herself raise an eyebrow.
 
-A documentary looped on a small screen: circus performers launching off a **teeterboard**, NFL running back **Elbert 'Ickey' Woods** doing his famous shuffle, and a philosophical interlude on **pornography** in the digital age — costumes, contracts, **provisions** for performer safety, **you name it**. The final room was roped off with a sign that read *"**What a geek!**"* and *"**What a queer!**"* — reclaimed insults now framed in gold. A child tugged her father's sleeve. "**Be careful with** that," he said, as she reached toward the last exhibit: a **convertible** toy car, every panel **collectible** by design, still in its box, never opened.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **provisions** <span class="wpos">n.</span> | 规定，条款；供应；预备@ 食物@ 向...供应食物 |
-| **skin a cat** |  |
-| **Tamagotchi** <span class="wpos">n.</span> | 电子鸡 |
-| **terminator** <span class="wpos">n.</span> | 终结者,终结器,明暗界限 |
-| **toothpaste** <span class="wpos">n.</span> | 牙膏 |
-| **Xenophanes** | 色诺芬尼 |
-| **Anaximander** | 阿那克西曼德 |
-| **collectible** <span class="wpos">adj.</span> | 可收集的,可代收的 |
-| **convertible** <span class="wpos">adj.</span> | 可改变的,可变换的; 可以自由兑换的; 有折篷的，可折叠的; 可改变性,可变化性 |
-| **cunnilingus** <span class="wpos">n.</span> | 舔阴 |
-| **diaper pail** |  |
-| **firecracker** <span class="wpos">n.</span> | 爆竹;鞭炮 |
-| **fornication** <span class="wpos">n.</span> | 通奸；乱伦 |
-| **Hellenistic** <span class="wpos">adj.</span> | Hellenist的,希腊风格的,希腊文化的 |
-| **Neanderthal** <span class="wpos">adj.</span> | 穴居人的 |
-| **Nightingale** <span class="wpos">n.</span> | 南丁格尔 nightingalen. 夜莺 |
-| **pornography** <span class="wpos">n.</span> | 色情描绘, 色情表演; 色情作品 |
-| **springboard** <span class="wpos">n.</span> | 跳板; 跳板, 踏板 |
-| **teeterboard** <span class="wpos">n.</span> | 跷跷板 |
-| **you name it** |  |
-| **afficianados** |  |
-| **oddly enough** |  |
-| **the jig's up** |  |
-| **What a geek!** |  |
-| **get away with** <span class="wpos">vt.</span> | 侥幸做成 |
-| **what a queer!** |  |
-| **be careful with** <span class="wpos">vt.</span> | 注意 |
-| **Sloth love Chunk** |  |
-| **Sloth love Chunk.** |  |
-| **Elbert 'Ickey' Woods** |  |
-:::
-:::
-::::
+A documentary looped on a small screen: circus performers launching off a [teeterboard]{.vocab tabindex="0" data-def="teeterboard · n. 跷跷板"}, NFL running back [Elbert 'Ickey' Woods]{.vocab tabindex="0" data-def="Elbert 'Ickey' Woods"} doing his famous shuffle, and a philosophical interlude on [pornography]{.vocab tabindex="0" data-def="pornography · n. 色情描绘, 色情表演; 色情作品"} in the digital age — costumes, contracts, [provisions]{.vocab tabindex="0" data-def="provisions · n. 规定，条款；供应；预备@ 食物@ 向...供应食物"} for performer safety, [you name it]{.vocab tabindex="0" data-def="you name it"}. The final room was roped off with a sign that read *"[What a geek!]{.vocab tabindex="0" data-def="What a geek!"}"* and *"[What a queer!]{.vocab tabindex="0" data-def="what a queer!"}"* — reclaimed insults now framed in gold. A child tugged her father's sleeve. "[Be careful with]{.vocab tabindex="0" data-def="be careful with · vt. 注意"} that," he said, as she reached toward the last exhibit: a [convertible]{.vocab tabindex="0" data-def="convertible · adj. 可改变的,可变换的; 可以自由兑换的; 有折篷的，可折叠的; 可改变性,可变化性"} toy car, every panel [collectible]{.vocab tabindex="0" data-def="collectible · adj. 可收集的,可代收的"} by design, still in its box, never opened.
 
 ### 语境短文
 
-:::: {.columns}
-::: {.column width="57%"}
 The two garbage entries in MISC-11 are actually in words_clean.json too — meaning all 6635 words are accounted for, but MISC-11 was supposed to have 30 real words and instead it has 2 garbage placeholder entries. The real MISC-11 words were never written to the chunk file. This is an irrecoverable data loss from the chunk generation process.
 
 Since the MISC-11.json file has only corrupt/garbage entries with no pos or gloss, I cannot reconstruct the intended word list. I need to report this finding clearly.
@@ -534,15 +112,3 @@ The file `C:\Users\guowenjie\etymology-book\data\chunks\MISC-11.json` is **corru
 Both entries have empty `pos` and `gloss` fields and are clearly malformed (the first looks like a merged string artifact, the second has a stray escaped quote). These same 2 garbage entries are also present in `words_clean.json`, so cross-referencing against other chunk files yields nothing — there are no "missing" real words that can be recovered.
 
 The actual 30 words that were supposed to populate MISC-11 were never written into the file. The passage cannot be generated from this file as-is. To proceed, the MISC-11 chunk needs to be regenerated by re-running the tagging step on the source word list to identify which ~30 words should belong in the MISC (杂项·其他) category chunk 11.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **self-explanatoryusing** |  |
-| **and a wonder”"** |  |
-:::
-:::
-::::

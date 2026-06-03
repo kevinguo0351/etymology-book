@@ -2,604 +2,114 @@
 
 
 
-> 本主题共 12 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 12 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### When the Room Decides to Speak
 
-:::: {.columns}
-::: {.column width="57%"}
-The committee had gathered to debate a **compendium** of new communication guidelines. The chair called for a vote — the **aye**s won, narrowly beating the **nay**s — so someone **jot**ted the result on a whiteboard before the **nag**ging minority could reopen the argument. One dissenter muttered "**nah**," crossed her arms, and stared at the ceiling. A colleague leaned over: "The **gist** is simple — we need clearer language. **Viz**, no more **cant**, no more **guff**." She gave a reluctant **beck** of the head, conceding the point.
+The committee had gathered to debate a [compendium]{.vocab tabindex="0" data-def="compendium · n. 摘要,纲要"} of new communication guidelines. The chair called for a vote — the [aye]{.vocab tabindex="0" data-def="aye · n. 赞成票；投赞成票者; 赞成"}s won, narrowly beating the [nay]{.vocab tabindex="0" data-def="nay · adv. 不但如此，而且; 否，不; 反对票；投反对票者"}s — so someone [jot]{.vocab tabindex="0" data-def="jot · vt. 匆忙记下; 草草记下； 匆匆记下; 一点, 少量 JOTabbr. junction optimiz…"}ted the result on a whiteboard before the [nag]{.vocab tabindex="0" data-def="nag · n. 老马；竞赛马；唠叨; 使烦恼；不断地唠叨; 不断地唠叨"}ging minority could reopen the argument. One dissenter muttered "[nah]{.vocab tabindex="0" data-def="nah · adj. 没有；很少， 很小"}," crossed her arms, and stared at the ceiling. A colleague leaned over: "The [gist]{.vocab tabindex="0" data-def="gist · n. 要点, 主旨"} is simple — we need clearer language. [Viz]{.vocab tabindex="0" data-def="viz · adv. 即；就是"}, no more [cant]{.vocab tabindex="0" data-def="cant · n. 斜面；伪善之言；黑话；角落; 倾斜；讲黑话; 把…棱角去掉；使…倾斜；甩掉; 行话的；哀诉声的；假仁…"}, no more [guff]{.vocab tabindex="0" data-def="guff · n. 〈美俚〉胡说,瞎扯,废话"}." She gave a reluctant [beck]{.vocab tabindex="0" data-def="beck · n. 点头；招手；小河 Beck贝克"} of the head, conceding the point.
 
-Across the hall, the communications team was rehearsing a product launch. The draft script was full of **hype** — breathless adjectives, every sentence a **rave** — so the editor began to **carp**, circling the worst lines in red. "This reads like a **brag**," she said. "Cut the **slur** against the rival brand. Don't **mock** the competition. Just **laud** what we actually built." The copywriter, who had been half-listening while scrolling through a **meme** feed, finally looked up. A junior writer dropped a quiet **hint** that the whole opening was recycled **adage**s dressed up as insight — true enough that no one laughed.
+Across the hall, the communications team was rehearsing a product launch. The draft script was full of [hype]{.vocab tabindex="0" data-def="hype · n. 天花乱坠的广告宣传; 大肆宣传; 夸张地宣传; 人为地刺激,助长; 十分兴奋的；很激动的；十分担忧的…"} — breathless adjectives, every sentence a [rave]{.vocab tabindex="0" data-def="rave · n. 咆哮；胡言乱语；热烈赞美; 咆哮；胡言乱语；狂骂; 咆哮；语无伦次地说; 赞扬的"} — so the editor began to [carp]{.vocab tabindex="0" data-def="carp · n. 鲤鱼; 挑剔；吹毛求疵；找茬儿; 很挑剔的人; 挑剔的"}, circling the worst lines in red. "This reads like a [brag]{.vocab tabindex="0" data-def="brag · vt. &amp; 自夸, 吹嘘"}," she said. "Cut the [slur]{.vocab tabindex="0" data-def="slur · vt. 忽视；草率地看过；含糊地念；诋毁; 含糊地发音；潦草地写字；拖着脚走; 污点；诽谤；连音符"} against the rival brand. Don't [mock]{.vocab tabindex="0" data-def="mock · vt. &amp; 愚弄；嘲弄; 使受挫折; 仿制的；模拟的"} the competition. Just [laud]{.vocab tabindex="0" data-def="laud · vt. 赞美；称赞; 赞美；称赞；颂歌"} what we actually built." The copywriter, who had been half-listening while scrolling through a [meme]{.vocab tabindex="0" data-def="meme · n. 文化基因"} feed, finally looked up. A junior writer dropped a quiet [hint]{.vocab tabindex="0" data-def="hint · n. 暗示；线索; 暗示；示意; 示意"} that the whole opening was recycled [adage]{.vocab tabindex="0" data-def="adage · n. 谚语,格言"}s dressed up as insight — true enough that no one laughed.
 
-Later, over coffee, the mood loosened into ordinary **chat**. Someone spun a long **yarn** about a conference call that devolved into a **rant** when the presenter's audio began to **hiss** mid-sentence and the **honk** of street traffic swallowed his punchline. He had switched to **Urdu** out of frustration — a language none of the other callers shared — before finally hanging up. The story got funnier with each retelling. A linguist at the table noted that "**Urdu**" contains a rich tradition of courtly rhetoric, then pivoted to explaining how a **conj** — a **noun** of logical relation — could single-handedly change the meaning of an entire clause. She picked up her phone to **dial** a colleague who would appreciate the point. Nobody minded the tangent. That's how good conversation works: one word pulls the next, and meaning arrives before anyone planned it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **compendium** <span class="wpos">n.</span> | 摘要,纲要 |
-| **aye** <span class="wpos">n.</span> | 赞成票；投赞成票者; 赞成 |
-| **jot** <span class="wpos">vt.</span> | 匆忙记下; 草草记下； 匆匆记下; 一点, 少量 JOTabbr. junction optimiz… |
-| **nag** <span class="wpos">n.</span> | 老马；竞赛马；唠叨; 使烦恼；不断地唠叨; 不断地唠叨 |
-| **nah** <span class="wpos">adj.</span> | 没有；很少， 很小 |
-| **nay** <span class="wpos">adv.</span> | 不但如此，而且; 否，不; 反对票；投反对票者 |
-| **viz** <span class="wpos">adv.</span> | 即；就是 |
-| **beck** <span class="wpos">n.</span> | 点头；招手；小河 Beck贝克 |
-| **brag** <span class="wpos">vt.</span> | &amp; 自夸, 吹嘘 |
-| **cant** <span class="wpos">n.</span> | 斜面；伪善之言；黑话；角落; 倾斜；讲黑话; 把…棱角去掉；使…倾斜；甩掉; 行话的；哀诉声的；假仁… |
-| **carp** <span class="wpos">n.</span> | 鲤鱼; 挑剔；吹毛求疵；找茬儿; 很挑剔的人; 挑剔的 |
-| **chat** <span class="wpos">vi.</span> | 聊天；闲谈; 与…搭讪；与…攀谈; 聊天；闲谈 |
-| **conj** <span class="wpos">n.</span> | 连接词,连词 |
-| **dial** <span class="wpos">n.</span> | 钟面；标度盘；拨号盘; &amp; 打电话，拨电话号码 |
-| **gist** <span class="wpos">n.</span> | 要点, 主旨 |
-| **guff** <span class="wpos">n.</span> | 〈美俚〉胡说,瞎扯,废话 |
-| **hint** <span class="wpos">n.</span> | 暗示；线索; 暗示；示意; 示意 |
-| **hiss** <span class="wpos">vi.</span> | 发出嘘声；发嘘声; 嘘声；嘶嘶声 |
-| **honk** <span class="wpos">n.</span> | 雁叫声；汽车喇叭声; 发雁鸣或汽车喇叭声; 按汽车喇叭 |
-| **hype** <span class="wpos">n.</span> | 天花乱坠的广告宣传; 大肆宣传; 夸张地宣传; 人为地刺激,助长; 十分兴奋的；很激动的；十分担忧的… |
-| **laud** <span class="wpos">vt.</span> | 赞美；称赞; 赞美；称赞；颂歌 |
-| **meme** <span class="wpos">n.</span> | 文化基因 |
-| **mock** <span class="wpos">vt.</span> | &amp; 愚弄；嘲弄; 使受挫折; 仿制的；模拟的 |
-| **noun** <span class="wpos">n.</span> | 名词 |
-| **rant** <span class="wpos">vt.</span> | &amp; 夸夸其谈，大叫大嚷地以…说教; 气愤地)大叫大嚷；不停地大声抱怨 |
-| **rave** <span class="wpos">n.</span> | 咆哮；胡言乱语；热烈赞美; 咆哮；胡言乱语；狂骂; 咆哮；语无伦次地说; 赞扬的 |
-| **slur** <span class="wpos">vt.</span> | 忽视；草率地看过；含糊地念；诋毁; 含糊地发音；潦草地写字；拖着脚走; 污点；诽谤；连音符 |
-| **Urdu** <span class="wpos">n.</span> | 乌尔都语 |
-| **yarn** <span class="wpos">n.</span> | 纱线；奇谈，故事; 用纱线缠; 讲故事 |
-| **adage** <span class="wpos">n.</span> | 谚语,格言 |
-:::
-:::
-::::
+Later, over coffee, the mood loosened into ordinary [chat]{.vocab tabindex="0" data-def="chat · vi. 聊天；闲谈; 与…搭讪；与…攀谈; 聊天；闲谈"}. Someone spun a long [yarn]{.vocab tabindex="0" data-def="yarn · n. 纱线；奇谈，故事; 用纱线缠; 讲故事"} about a conference call that devolved into a [rant]{.vocab tabindex="0" data-def="rant · vt. &amp; 夸夸其谈，大叫大嚷地以…说教; 气愤地)大叫大嚷；不停地大声抱怨"} when the presenter's audio began to [hiss]{.vocab tabindex="0" data-def="hiss · vi. 发出嘘声；发嘘声; 嘘声；嘶嘶声"} mid-sentence and the [honk]{.vocab tabindex="0" data-def="honk · n. 雁叫声；汽车喇叭声; 发雁鸣或汽车喇叭声; 按汽车喇叭"} of street traffic swallowed his punchline. He had switched to [Urdu]{.vocab tabindex="0" data-def="Urdu · n. 乌尔都语"} out of frustration — a language none of the other callers shared — before finally hanging up. The story got funnier with each retelling. A linguist at the table noted that "[Urdu]{.vocab tabindex="0" data-def="Urdu · n. 乌尔都语"}" contains a rich tradition of courtly rhetoric, then pivoted to explaining how a [conj]{.vocab tabindex="0" data-def="conj · n. 连接词,连词"} — a [noun]{.vocab tabindex="0" data-def="noun · n. 名词"} of logical relation — could single-handedly change the meaning of an entire clause. She picked up her phone to [dial]{.vocab tabindex="0" data-def="dial · n. 钟面；标度盘；拨号盘; &amp; 打电话，拨电话号码"} a colleague who would appreciate the point. Nobody minded the tangent. That's how good conversation works: one word pulls the next, and meaning arrives before anyone planned it.
 
 ### The Morning Scoop
 
-:::: {.columns}
-::: {.column width="57%"}
-Before the editorial meeting, Dana sat down with her **diary** to **draft** a quick **recap** of the week's stories. The big **scoop** — a whistleblower account she'd been nursing for days — was finally ready to go to **print**. She had planned to write a measured **op-ed**, but her editor wanted a front-page splash instead. A **rumor** was already circulating online, and if they waited, a rival outlet would **blurt** it out first.
+Before the editorial meeting, Dana sat down with her [diary]{.vocab tabindex="0" data-def="diary · n. 日记, 日记簿"} to [draft]{.vocab tabindex="0" data-def="draft · n. 汇票；草稿；选派；气流 起草；制定；征募 拟稿；绘样；作草图 初步画出或的；正在起草中的，草拟的；以…"} a quick [recap]{.vocab tabindex="0" data-def="recap · n. 翻新的轮胎; 翻新胎面；扼要重述"} of the week's stories. The big [scoop]{.vocab tabindex="0" data-def="scoop · n. 小铲；小勺; 一勺之量; 独家新闻; 用铲等挖; 抢先报道; 抢先获得，胜过"} — a whistleblower account she'd been nursing for days — was finally ready to go to [print]{.vocab tabindex="0" data-def="print · n. 印刷字体; 印成的图画, 图案, 版画; 照片; 印刷, 出版; &amp; 用印刷体写; 冲洗 P…"}. She had planned to write a measured [op-ed]{.vocab tabindex="0" data-def="op-ed abbr.专栏版，特写稿版"}, but her editor wanted a front-page splash instead. A [rumor]{.vocab tabindex="0" data-def="rumor · n. 谣言；传闻; 谣传；传说"} was already circulating online, and if they waited, a rival outlet would [blurt]{.vocab tabindex="0" data-def="blurt · vt. 突然说出, 脱口而出"} it out first.
 
-She read her notes aloud, and the **irony** wasn't lost on her: a story about silence, told in the loudest possible voice. She used a **caret** to mark a missing clause, swapped a **comma** for a dash, and paused to **parse** every sentence with the same care a linguist brings to an unfamiliar **lingo**. One paragraph felt too self-congratulatory — she had wanted to **extol** the whistleblower's courage without sounding like a **bravo**-hungry cheerleader. She cut the lines where she'd tried to **exalt** her own reporting and tightened the **quote** she'd pulled from the source.
+She read her notes aloud, and the [irony]{.vocab tabindex="0" data-def="irony · n. 反语；反话; 具有讽刺意味的情况；出乎意料的情况；令人啼笑皆非的事情"} wasn't lost on her: a story about silence, told in the loudest possible voice. She used a [caret]{.vocab tabindex="0" data-def="caret · n. 脱字符号；插入符号"} to mark a missing clause, swapped a [comma]{.vocab tabindex="0" data-def="comma · n. 逗号；停顿"} for a dash, and paused to [parse]{.vocab tabindex="0" data-def="parse · v. 作语法分析；作句法分析; 对…进行语法分析; 语法分析，语法分析结果"} every sentence with the same care a linguist brings to an unfamiliar [lingo]{.vocab tabindex="0" data-def="lingo · n. 听不懂的话; 隐语;外语"}. One paragraph felt too self-congratulatory — she had wanted to [extol]{.vocab tabindex="0" data-def="extol · vt. 颂扬；赞美；赞颂"} the whistleblower's courage without sounding like a [bravo]{.vocab tabindex="0" data-def="bravo · n. 喝彩；亡命徒; 喝彩; 好极了 Bravo格兰德河, 布拉沃河, 大致向南流经新墨西哥州中部至得克萨…"}-hungry cheerleader. She cut the lines where she'd tried to [exalt]{.vocab tabindex="0" data-def="exalt · vt. 赞扬；歌颂; 提升，提拔"} her own reporting and tightened the [quote]{.vocab tabindex="0" data-def="quote · vt. 引述；举证；报价; 引用；引证；报价; 引用"} she'd pulled from the source.
 
-Down the hall, the night editor was already **growl**ing at the layout team; someone had let a **smear** of ink ruin the proof. A junior reporter began to **bleat** about deadlines. The **noise** of the newsroom — keyboards, arguments, a **siren** somewhere outside — pressed in from all sides. Dana's colleague Marcus, who covered South Asia and often slipped into **Hindi** when excited, let out a low **grunt** of approval when he saw her lede. "**Howdy**," he said, which was his ironic all-purpose greeting regardless of the hour. "**Hoots**," she shot back — her own borrowed interjection for *I couldn't care less about the hour either.*
+Down the hall, the night editor was already [growl]{.vocab tabindex="0" data-def="growl · vi. 发狺狺声, 作隆隆声; 低声咆哮着说; 咆哮, 狺狺声"}ing at the layout team; someone had let a [smear]{.vocab tabindex="0" data-def="smear · vt. 弄脏；涂上；诽谤；把…擦模糊; 涂片；污点；诽谤; 被弄脏"} of ink ruin the proof. A junior reporter began to [bleat]{.vocab tabindex="0" data-def="bleat · vi. 叫, 咩咩的叫; 发出羊叫似的声音; 哭诉,抱怨; 胡扯; 轻声诉说; 咩咩地发出; 以颤抖可怜的声…"} about deadlines. The [noise]{.vocab tabindex="0" data-def="noise · n. 噪声，喧哗声; 声音；响声"} of the newsroom — keyboards, arguments, a [siren]{.vocab tabindex="0" data-def="siren · n. 汽笛, 警报器; 迷人的女人, 妖妇"} somewhere outside — pressed in from all sides. Dana's colleague Marcus, who covered South Asia and often slipped into [Hindi]{.vocab tabindex="0" data-def="Hindi · n. 印地语; 印度官方语言之一,印度斯坦人的文学语言"} when excited, let out a low [grunt]{.vocab tabindex="0" data-def="grunt · vi. 作呼噜声; 发出类似的哼声; 咕哝着说; 呼噜声, 嘟哝声, 哼哼声"} of approval when he saw her lede. "[Howdy]{.vocab tabindex="0" data-def="howdy · int. 你好"}," he said, which was his ironic all-purpose greeting regardless of the hour. "[Hoots]{.vocab tabindex="0" data-def="hoots · int. 咄,啐"}," she shot back — her own borrowed interjection for *I couldn't care less about the hour either.*
 
-She **liken**ed the final edit to tuning an instrument: you **ditto** nothing, carry nothing forward unchanged. Every **query** gets answered, every rumor verified, every **smear** either proved or cut. A good story, she believed, could **edify** a reader the way a good teacher does — not by shouting, but by showing. She filed the piece at 4 a.m., silenced her phone, and let the presses do the rest.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **bleat** <span class="wpos">vi.</span> | 叫, 咩咩的叫; 发出羊叫似的声音; 哭诉,抱怨; 胡扯; 轻声诉说; 咩咩地发出; 以颤抖可怜的声… |
-| **blurt** <span class="wpos">vt.</span> | 突然说出, 脱口而出 |
-| **bravo** <span class="wpos">n.</span> | 喝彩；亡命徒; 喝彩; 好极了 Bravo格兰德河, 布拉沃河, 大致向南流经新墨西哥州中部至得克萨… |
-| **caret** <span class="wpos">n.</span> | 脱字符号；插入符号 |
-| **comma** <span class="wpos">n.</span> | 逗号；停顿 |
-| **diary** <span class="wpos">n.</span> | 日记, 日记簿 |
-| **ditto** <span class="wpos">n.</span> | 同上；同上符号；很相似的人或物; 重复；照抄; 同上地; 相似的 |
-| **draft** <span class="wpos">n.</span> | 汇票；草稿；选派；气流 起草；制定；征募 拟稿；绘样；作草图 初步画出或的；正在起草中的，草拟的；以… |
-| **edify** <span class="wpos">vt.</span> | 启发；熏陶；教诲 |
-| **exalt** <span class="wpos">vt.</span> | 赞扬；歌颂; 提升，提拔 |
-| **extol** <span class="wpos">vt.</span> | 颂扬；赞美；赞颂 |
-| **growl** <span class="wpos">vi.</span> | 发狺狺声, 作隆隆声; 低声咆哮着说; 咆哮, 狺狺声 |
-| **grunt** <span class="wpos">vi.</span> | 作呼噜声; 发出类似的哼声; 咕哝着说; 呼噜声, 嘟哝声, 哼哼声 |
-| **Hindi** <span class="wpos">n.</span> | 印地语; 印度官方语言之一,印度斯坦人的文学语言 |
-| **hoots** <span class="wpos">int.</span> | 咄,啐 |
-| **howdy** <span class="wpos">int.</span> | 你好 |
-| **irony** <span class="wpos">n.</span> | 反语；反话; 具有讽刺意味的情况；出乎意料的情况；令人啼笑皆非的事情 |
-| **liken** <span class="wpos">vt.</span> | 把…比作；比拟 |
-| **lingo** <span class="wpos">n.</span> | 听不懂的话; 隐语;外语 |
-| **noise** <span class="wpos">n.</span> | 噪声，喧哗声; 声音；响声 |
-| **op-ed** | abbr.专栏版，特写稿版 |
-| **parse** <span class="wpos">v.</span> | 作语法分析；作句法分析; 对…进行语法分析; 语法分析，语法分析结果 |
-| **print** <span class="wpos">n.</span> | 印刷字体; 印成的图画, 图案, 版画; 照片; 印刷, 出版; &amp; 用印刷体写; 冲洗 P… |
-| **query** <span class="wpos">n.</span> | 问题, 疑问; 质疑, 对…表示疑问 |
-| **quote** <span class="wpos">vt.</span> | 引述；举证；报价; 引用；引证；报价; 引用 |
-| **recap** <span class="wpos">n.</span> | 翻新的轮胎; 翻新胎面；扼要重述 |
-| **rumor** <span class="wpos">n.</span> | 谣言；传闻; 谣传；传说 |
-| **scoop** <span class="wpos">n.</span> | 小铲；小勺; 一勺之量; 独家新闻; 用铲等挖; 抢先报道; 抢先获得，胜过 |
-| **siren** <span class="wpos">n.</span> | 汽笛, 警报器; 迷人的女人, 妖妇 |
-| **smear** <span class="wpos">vt.</span> | 弄脏；涂上；诽谤；把…擦模糊; 涂片；污点；诽谤; 被弄脏 |
-:::
-:::
-::::
+She [liken]{.vocab tabindex="0" data-def="liken · vt. 把…比作；比拟"}ed the final edit to tuning an instrument: you [ditto]{.vocab tabindex="0" data-def="ditto · n. 同上；同上符号；很相似的人或物; 重复；照抄; 同上地; 相似的"} nothing, carry nothing forward unchanged. Every [query]{.vocab tabindex="0" data-def="query · n. 问题, 疑问; 质疑, 对…表示疑问"} gets answered, every rumor verified, every [smear]{.vocab tabindex="0" data-def="smear · vt. 弄脏；涂上；诽谤；把…擦模糊; 涂片；污点；诽谤; 被弄脏"} either proved or cut. A good story, she believed, could [edify]{.vocab tabindex="0" data-def="edify · vt. 启发；熏陶；教诲"} a reader the way a good teacher does — not by shouting, but by showing. She filed the piece at 4 a.m., silenced her phone, and let the presses do the rest.
 
 ### The Art of Getting Through to Someone
 
-:::: {.columns}
-::: {.column width="57%"}
-In the greenroom before a live panel, Mara and her co-host exchanged **banter** that kept the nerves at bay — teasing each other about last week's **typos** in the show notes, laughing at every **cackle** that slipped out when a joke landed wrong. She'd once written a **spoof** of the network's style guide, and the crew still quoted it. Such was the **byword** of their partnership: if you can't laugh at the craft, you've already lost the audience.
+In the greenroom before a live panel, Mara and her co-host exchanged [banter]{.vocab tabindex="0" data-def="banter · n. 玩笑；逗乐; 开玩笑；说笑；逗乐; 取笑，逗弄"} that kept the nerves at bay — teasing each other about last week's [typos]{.vocab tabindex="0" data-def="typos · n. 打字稿"} in the show notes, laughing at every [cackle]{.vocab tabindex="0" data-def="cackle · n. 饶舌；咯咯声；闲谈; 咯咯叫；喋喋不休；饶舌; 格格笑著表示；喋喋不休地说"} that slipped out when a joke landed wrong. She'd once written a [spoof]{.vocab tabindex="0" data-def="spoof · n. 滑稽模仿; 玩笑，讽刺性文章; 滑稽地模仿; 发送电邮；发送仿真电邮；电邮欺骗; 哄骗；捉弄"} of the network's style guide, and the crew still quoted it. Such was the [byword]{.vocab tabindex="0" data-def="byword · n. 谚语，俗语；格言；笑柄"} of their partnership: if you can't laugh at the craft, you've already lost the audience.
 
-The moment the red light blinked on, the tone shifted. Mara would **assert** her thesis with quiet conviction, never resorting to the **clamor** of talking heads who mistake volume for authority. When her guest **alluded** to a controversial study, she did not let the **cliche** "the research is clear" slide past unchallenged; she chose to **debunk** the misreading point by point, drawing on a broad **corpus** of peer-reviewed work to support her case. Her producer could **vouch** for every citation — they had spent a morning combing sources together. "I can **attest** to every figure we use," Mara would **utter** before each taping, a small ritual that kept both of them honest.
+The moment the red light blinked on, the tone shifted. Mara would [assert]{.vocab tabindex="0" data-def="assert · vt. 断言；主张；声称；维护，坚持"} her thesis with quiet conviction, never resorting to the [clamor]{.vocab tabindex="0" data-def="clamor · n. 喧哗声，喧闹; 大声的要求或抗议; 喧哗；吵闹; 大声地要求或抗议"} of talking heads who mistake volume for authority. When her guest [alluded]{.vocab tabindex="0" data-def="allude · vi. 提及, 暗指"} to a controversial study, she did not let the [cliche]{.vocab tabindex="0" data-def="cliche · n. 陈词滥调；铅版；陈腐思想; 陈腐的"} "the research is clear" slide past unchallenged; she chose to [debunk]{.vocab tabindex="0" data-def="debunk · vt. 揭穿真相, 暴露"} the misreading point by point, drawing on a broad [corpus]{.vocab tabindex="0" data-def="corpus · n. 文集；本金；语料库"} of peer-reviewed work to support her case. Her producer could [vouch]{.vocab tabindex="0" data-def="vouch · vt. 担保；证明；传出庭作证; 保证；证明；确定"} for every citation — they had spent a morning combing sources together. "I can [attest]{.vocab tabindex="0" data-def="attest · vt. 证明；证实；为…作证; 证明；作证"} to every figure we use," Mara would [utter]{.vocab tabindex="0" data-def="utter · vt. 以口发出声音; 说，讲; 彻底的；完全的；绝对的"} before each taping, a small ritual that kept both of them honest.
 
-Midway through the episode, a viewer question arrived via live chat, riddled with what looked like a **cipher** no one had asked to decode. The guest leaned forward to **beckon** the camera closer, as though proximity might clarify meaning. He began to **babble** — not from nerves but from genuine excitement — layering clause upon clause before Mara gently raised a hand. She needed him to **affirm** the single core point before the audience lost the thread. He **assented** without bruising, and the two **concurred** on a formulation that was honest and plain. To **assure** listeners that no nuance had been lost, Mara **alluded** briefly to the fuller argument and promised a link in the show notes — a quiet **tacit** agreement between host and guest that the detail mattered even if air-time did not allow it.
+Midway through the episode, a viewer question arrived via live chat, riddled with what looked like a [cipher]{.vocab tabindex="0" data-def="cipher · n. 密码；暗号；零; 做算术；计算；使用密码; 做算术；计算；将…译成密码"} no one had asked to decode. The guest leaned forward to [beckon]{.vocab tabindex="0" data-def="beckon · vt. &amp; 示意, 召唤"} the camera closer, as though proximity might clarify meaning. He began to [babble]{.vocab tabindex="0" data-def="babble · vi. 喋喋不休；呀呀学语；作潺潺声; 含糊不清地说；泄露; 含糊不清的话；胡言乱语；潺潺声"} — not from nerves but from genuine excitement — layering clause upon clause before Mara gently raised a hand. She needed him to [affirm]{.vocab tabindex="0" data-def="affirm · vt. 断言；肯定; 断言；确认"} the single core point before the audience lost the thread. He [assented]{.vocab tabindex="0" data-def="assent · vi. 赞成；同意; 赞成；同意"} without bruising, and the two [concurred]{.vocab tabindex="0" data-def="concur · vi. 一致；同意；互助"} on a formulation that was honest and plain. To [assure]{.vocab tabindex="0" data-def="assure · vt. 保证；担保；使确信；弄清楚"} listeners that no nuance had been lost, Mara [alluded]{.vocab tabindex="0" data-def="allude · vi. 提及, 暗指"} briefly to the fuller argument and promised a link in the show notes — a quiet [tacit]{.vocab tabindex="0" data-def="tacit · adj. 缄默的,不说话的; 暗示的,不言而喻的; 不明言的,默许的; 由法律的效力而产生的,法定的"} agreement between host and guest that the detail mattered even if air-time did not allow it.
 
-After the taping, the sound editor flagged a segment where a troll in the live chat had sent a **spoof** account comment — little more than a malicious **tilde** decorating a fake handle — attempting to **accost** the guest with a distorted quote. The editor had already blocked the account. A researcher drafted a short thread to **deride** the misquote publicly, but the guest shook his head: better to **confer** with the legal team before publishing anything, and better still to let the **beacon** of an accurate transcript speak for itself rather than **bicker** with bad-faith actors. He had been **berated** once, years ago, by an editor who said arguing with trolls was the fastest way to make a **cliche** of yourself. He'd never forgotten it. The show would **troll** no one back; it would simply keep doing the work.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **spoof** <span class="wpos">n.</span> | 滑稽模仿; 玩笑，讽刺性文章; 滑稽地模仿; 发送电邮；发送仿真电邮；电邮欺骗; 哄骗；捉弄 |
-| **tacit** <span class="wpos">adj.</span> | 缄默的,不说话的; 暗示的,不言而喻的; 不明言的,默许的; 由法律的效力而产生的,法定的 |
-| **tilde** <span class="wpos">n.</span> | 波浪字符；加在西班牙语n字上的发音符号 |
-| **troll** <span class="wpos">vt.</span> | 轮唱，使转动；放声高唱；拖饵钓鱼; 参加轮唱；宏亮地唱；拖饵钓鱼; 轮唱；钓鱼 |
-| **typos** <span class="wpos">n.</span> | 打字稿 |
-| **utter** <span class="wpos">vt.</span> | 以口发出声音; 说，讲; 彻底的；完全的；绝对的 |
-| **vouch** <span class="wpos">vt.</span> | 担保；证明；传出庭作证; 保证；证明；确定 |
-| **accost** <span class="wpos">vt.</span> | 勾引；引诱；对…说话；搭讪 |
-| **affirm** <span class="wpos">vt.</span> | 断言；肯定; 断言；确认 |
-| **allude** <span class="wpos">vi.</span> | 提及, 暗指 |
-| **assent** <span class="wpos">vi.</span> | 赞成；同意; 赞成；同意 |
-| **assert** <span class="wpos">vt.</span> | 断言；主张；声称；维护，坚持 |
-| **assure** <span class="wpos">vt.</span> | 保证；担保；使确信；弄清楚 |
-| **attest** <span class="wpos">vt.</span> | 证明；证实；为…作证; 证明；作证 |
-| **babble** <span class="wpos">vi.</span> | 喋喋不休；呀呀学语；作潺潺声; 含糊不清地说；泄露; 含糊不清的话；胡言乱语；潺潺声 |
-| **banter** <span class="wpos">n.</span> | 玩笑；逗乐; 开玩笑；说笑；逗乐; 取笑，逗弄 |
-| **beacon** <span class="wpos">n.</span> | 灯塔，信号浮标；烽火；指路明灯; 照亮，指引; 像灯塔般照耀 |
-| **beckon** <span class="wpos">vt.</span> | &amp; 示意, 召唤 |
-| **berate** <span class="wpos">vt.</span> | 严责；申斥 |
-| **bicker** <span class="wpos">vi.</span> | 闪动；斗嘴；潺潺而流; 吵嘴；口角；潺潺声 |
-| **byword** <span class="wpos">n.</span> | 谚语，俗语；格言；笑柄 |
-| **cackle** <span class="wpos">n.</span> | 饶舌；咯咯声；闲谈; 咯咯叫；喋喋不休；饶舌; 格格笑著表示；喋喋不休地说 |
-| **cipher** <span class="wpos">n.</span> | 密码；暗号；零; 做算术；计算；使用密码; 做算术；计算；将…译成密码 |
-| **clamor** <span class="wpos">n.</span> | 喧哗声，喧闹; 大声的要求或抗议; 喧哗；吵闹; 大声地要求或抗议 |
-| **cliche** <span class="wpos">n.</span> | 陈词滥调；铅版；陈腐思想; 陈腐的 |
-| **concur** <span class="wpos">vi.</span> | 一致；同意；互助 |
-| **confer** <span class="wpos">vt.</span> | 授予；给予; 协商 |
-| **corpus** <span class="wpos">n.</span> | 文集；本金；语料库 |
-| **debunk** <span class="wpos">vt.</span> | 揭穿真相, 暴露 |
-| **deride** <span class="wpos">vt.</span> | 嘲笑；嘲弄 |
-:::
-:::
-::::
+After the taping, the sound editor flagged a segment where a troll in the live chat had sent a [spoof]{.vocab tabindex="0" data-def="spoof · n. 滑稽模仿; 玩笑，讽刺性文章; 滑稽地模仿; 发送电邮；发送仿真电邮；电邮欺骗; 哄骗；捉弄"} account comment — little more than a malicious [tilde]{.vocab tabindex="0" data-def="tilde · n. 波浪字符；加在西班牙语n字上的发音符号"} decorating a fake handle — attempting to [accost]{.vocab tabindex="0" data-def="accost · vt. 勾引；引诱；对…说话；搭讪"} the guest with a distorted quote. The editor had already blocked the account. A researcher drafted a short thread to [deride]{.vocab tabindex="0" data-def="deride · vt. 嘲笑；嘲弄"} the misquote publicly, but the guest shook his head: better to [confer]{.vocab tabindex="0" data-def="confer · vt. 授予；给予; 协商"} with the legal team before publishing anything, and better still to let the [beacon]{.vocab tabindex="0" data-def="beacon · n. 灯塔，信号浮标；烽火；指路明灯; 照亮，指引; 像灯塔般照耀"} of an accurate transcript speak for itself rather than [bicker]{.vocab tabindex="0" data-def="bicker · vi. 闪动；斗嘴；潺潺而流; 吵嘴；口角；潺潺声"} with bad-faith actors. He had been [berated]{.vocab tabindex="0" data-def="berate · vt. 严责；申斥"} once, years ago, by an editor who said arguing with trolls was the fastest way to make a [cliche]{.vocab tabindex="0" data-def="cliche · n. 陈词滥调；铅版；陈腐思想; 陈腐的"} of yourself. He'd never forgotten it. The show would [troll]{.vocab tabindex="0" data-def="troll · vt. 轮唱，使转动；放声高唱；拖饵钓鱼; 参加轮唱；宏亮地唱；拖饵钓鱼; 轮唱；钓鱼"} no one back; it would simply keep doing the work.
 
 ### When Words Refuse to Stay Still
 
-:::: {.columns}
-::: {.column width="57%"}
-A retired diplomat once sat down to **peruse** the **scroll** of handwritten dispatches she had kept since her first posting abroad. Fifty years of foreign service, and yet the act of reading her own sentences still felt like meeting a stranger. She had spent decades trying to **impart** something true across every border — not merely facts, but feeling. In her early years she had relied on a **primer** of polite formulas, the kind every junior attaché was handed, full of **jargon** that was meant to smooth negotiations but mostly produced a kind of **pidgin** diplomacy: fluent on the surface, hollow underneath.
+A retired diplomat once sat down to [peruse]{.vocab tabindex="0" data-def="peruse · vt. 详细考察；精读"} the [scroll]{.vocab tabindex="0" data-def="scroll · n. 纸卷, 卷轴; 涡卷形, 卷形花纹; 从上到下移动, 卷页; 卷起; 将文字显示于屏幕"} of handwritten dispatches she had kept since her first posting abroad. Fifty years of foreign service, and yet the act of reading her own sentences still felt like meeting a stranger. She had spent decades trying to [impart]{.vocab tabindex="0" data-def="impart · vt. 给予, 传授; 告知, 透露"} something true across every border — not merely facts, but feeling. In her early years she had relied on a [primer]{.vocab tabindex="0" data-def="primer · n. 初级读本；识字课本；原始物"} of polite formulas, the kind every junior attaché was handed, full of [jargon]{.vocab tabindex="0" data-def="jargon · n. 行话，术语；黄锆石"} that was meant to smooth negotiations but mostly produced a kind of [pidgin]{.vocab tabindex="0" data-def="pidgin · n. 洋泾滨语；混杂语言；事务"} diplomacy: fluent on the surface, hollow underneath.
 
-She remembered the interpreter who could **elicit** a confession from a stone — a quiet man whose every **remark** seemed to **evince** both patience and precision. He never needed to **holler** or **shriek** to be heard. He never let **rumors** rattle his composure, even when the room filled with the **hoopla** of competing delegations. When a junior colleague tried to **palter** over the wording of a joint statement, the interpreter simply waited, then offered one clean sentence that made all the **ironic** hedging unnecessary. Colleagues who tried to **retort** or **refute** his readings usually found themselves outflanked by their own words.
+She remembered the interpreter who could [elicit]{.vocab tabindex="0" data-def="elicit · vt. 引出, 探出"} a confession from a stone — a quiet man whose every [remark]{.vocab tabindex="0" data-def="remark · n. 话语，评论; 注意；看；观察; &amp; 谈论，评论; 注意到…"} seemed to [evince]{.vocab tabindex="0" data-def="evince · vt. 表明，表示；引起"} both patience and precision. He never needed to [holler]{.vocab tabindex="0" data-def="holler · vi. 发牢骚；叫喊；抱怨; 大声叫喊; 叫喊"} or [shriek]{.vocab tabindex="0" data-def="shriek · vt. &amp; 尖叫; 尖叫声"} to be heard. He never let [rumors]{.vocab tabindex="0" data-def="rumors · n. 谣传，流言; 谣传"} rattle his composure, even when the room filled with the [hoopla]{.vocab tabindex="0" data-def="hoopla · n. 投环套物游戏；喧闹"} of competing delegations. When a junior colleague tried to [palter]{.vocab tabindex="0" data-def="palter · vi. 含糊其词；马虎处理；敷衍了事；讨价还价"} over the wording of a joint statement, the interpreter simply waited, then offered one clean sentence that made all the [ironic]{.vocab tabindex="0" data-def="ironic · adj. 讽刺的；反话的"} hedging unnecessary. Colleagues who tried to [retort]{.vocab tabindex="0" data-def="retort · vt. 反驳; 反驳, 回嘴; 反驳的回答"} or [refute]{.vocab tabindex="0" data-def="refute · vt. 驳斥, 驳倒"} his readings usually found themselves outflanked by their own words.
 
-The ambassador herself had been less measured. She recalled **exhort**ing a young **scribe** not to **rattle** off minutes without listening first. She had once **recite**d a draft treaty clause aloud in the council chamber, only to hear a deputy **jangle** his pen against the table and mutter that the phrasing was a **herald** of trouble. He was right. The **outcry** from the opposition press was swift, and even the sympathetic coverage carried an edge of **gossip** that no official statement could fully **rebuff**. She had learned, slowly, that **praise** was a currency easier spent than earned, and that a single badly **indent**ed paragraph — a clause buried where no one would look — could unravel months of goodwill.
+The ambassador herself had been less measured. She recalled [exhort]{.vocab tabindex="0" data-def="exhort · vt. &amp; 劝告,劝说; 劝勉者,告诫者,提倡者"}ing a young [scribe]{.vocab tabindex="0" data-def="scribe · n. 抄写员, 抄书吏"} not to [rattle]{.vocab tabindex="0" data-def="rattle · vt. 使发出咯咯声；喋喋不休；使慌乱，使惊慌; 喋喋不休地讲话；发出卡嗒卡嗒声; 喋喋不休的人；咯吱声，格…"} off minutes without listening first. She had once [recite]{.vocab tabindex="0" data-def="recite · vt. 背诵；叙述；列举; 背诵；叙述"}d a draft treaty clause aloud in the council chamber, only to hear a deputy [jangle]{.vocab tabindex="0" data-def="jangle · vt. &amp; 铁器相碰发出刺耳的声音; 烦扰；刺激神经; 丁零当啷声"} his pen against the table and mutter that the phrasing was a [herald]{.vocab tabindex="0" data-def="herald · n. 使者, 预报者; 预示"} of trouble. He was right. The [outcry]{.vocab tabindex="0" data-def="outcry · n. 高声叫喊，尖叫；公开反对"} from the opposition press was swift, and even the sympathetic coverage carried an edge of [gossip]{.vocab tabindex="0" data-def="gossip · n. 小道传闻；随笔；爱说长道短的人; 闲聊；传播流言蜚语"} that no official statement could fully [rebuff]{.vocab tabindex="0" data-def="rebuff · n. 断然拒绝；回绝；漠不关心; 断然拒绝"}. She had learned, slowly, that [praise]{.vocab tabindex="0" data-def="praise · n. 称赞；赞扬；崇拜；荣耀; 赞美，歌颂；表扬; 赞美；赞扬"} was a currency easier spent than earned, and that a single badly [indent]{.vocab tabindex="0" data-def="indent · vt. 缩排；定货；印凹痕; 切割成锯齿状; 凹痕；订货单；契约；缩进"}ed paragraph — a clause buried where no one would look — could unravel months of goodwill.
 
-Now she was writing her **memoir**. She did not want it to **squeak** through history as a footnote. She wrote without the **scroll** of social media prompting her, without an audience ready to **rebuff** or applaud. The first sentence had taken her three weeks. She crossed out every word that felt borrowed, every phrase that seemed lifted from the official **jargon** she had spent a career navigating. What remained, she hoped, was something a reader could hold: honest, a little **ironic**, and entirely her own.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **elicit** <span class="wpos">vt.</span> | 引出, 探出 |
-| **evince** <span class="wpos">vt.</span> | 表明，表示；引起 |
-| **exhort** <span class="wpos">vt.</span> | &amp; 劝告,劝说; 劝勉者,告诫者,提倡者 |
-| **gossip** <span class="wpos">n.</span> | 小道传闻；随笔；爱说长道短的人; 闲聊；传播流言蜚语 |
-| **herald** <span class="wpos">n.</span> | 使者, 预报者; 预示 |
-| **holler** <span class="wpos">vi.</span> | 发牢骚；叫喊；抱怨; 大声叫喊; 叫喊 |
-| **hoopla** <span class="wpos">n.</span> | 投环套物游戏；喧闹 |
-| **impart** <span class="wpos">vt.</span> | 给予, 传授; 告知, 透露 |
-| **indent** <span class="wpos">vt.</span> | 缩排；定货；印凹痕; 切割成锯齿状; 凹痕；订货单；契约；缩进 |
-| **ironic** <span class="wpos">adj.</span> | 讽刺的；反话的 |
-| **jangle** <span class="wpos">vt.</span> | &amp; 铁器相碰发出刺耳的声音; 烦扰；刺激神经; 丁零当啷声 |
-| **jargon** <span class="wpos">n.</span> | 行话，术语；黄锆石 |
-| **memoir** <span class="wpos">n.</span> | 自传；实录；回忆录；研究报告 |
-| **outcry** <span class="wpos">n.</span> | 高声叫喊，尖叫；公开反对 |
-| **palter** <span class="wpos">vi.</span> | 含糊其词；马虎处理；敷衍了事；讨价还价 |
-| **peruse** <span class="wpos">vt.</span> | 详细考察；精读 |
-| **pidgin** <span class="wpos">n.</span> | 洋泾滨语；混杂语言；事务 |
-| **praise** <span class="wpos">n.</span> | 称赞；赞扬；崇拜；荣耀; 赞美，歌颂；表扬; 赞美；赞扬 |
-| **primer** <span class="wpos">n.</span> | 初级读本；识字课本；原始物 |
-| **rattle** <span class="wpos">vt.</span> | 使发出咯咯声；喋喋不休；使慌乱，使惊慌; 喋喋不休地讲话；发出卡嗒卡嗒声; 喋喋不休的人；咯吱声，格… |
-| **rebuff** <span class="wpos">n.</span> | 断然拒绝；回绝；漠不关心; 断然拒绝 |
-| **recite** <span class="wpos">vt.</span> | 背诵；叙述；列举; 背诵；叙述 |
-| **refute** <span class="wpos">vt.</span> | 驳斥, 驳倒 |
-| **remark** <span class="wpos">n.</span> | 话语，评论; 注意；看；观察; &amp; 谈论，评论; 注意到… |
-| **retort** <span class="wpos">vt.</span> | 反驳; 反驳, 回嘴; 反驳的回答 |
-| **rumors** <span class="wpos">n.</span> | 谣传，流言; 谣传 |
-| **scribe** <span class="wpos">n.</span> | 抄写员, 抄书吏 |
-| **scroll** <span class="wpos">n.</span> | 纸卷, 卷轴; 涡卷形, 卷形花纹; 从上到下移动, 卷页; 卷起; 将文字显示于屏幕 |
-| **shriek** <span class="wpos">vt.</span> | &amp; 尖叫; 尖叫声 |
-| **squeak** <span class="wpos">vi.</span> | 告密；吱吱叫；侥幸成功; 吱吱声；机会; 以短促尖声发出 |
-:::
-:::
-::::
+Now she was writing her [memoir]{.vocab tabindex="0" data-def="memoir · n. 自传；实录；回忆录；研究报告"}. She did not want it to [squeak]{.vocab tabindex="0" data-def="squeak · vi. 告密；吱吱叫；侥幸成功; 吱吱声；机会; 以短促尖声发出"} through history as a footnote. She wrote without the [scroll]{.vocab tabindex="0" data-def="scroll · n. 纸卷, 卷轴; 涡卷形, 卷形花纹; 从上到下移动, 卷页; 卷起; 将文字显示于屏幕"} of social media prompting her, without an audience ready to [rebuff]{.vocab tabindex="0" data-def="rebuff · n. 断然拒绝；回绝；漠不关心; 断然拒绝"} or applaud. The first sentence had taken her three weeks. She crossed out every word that felt borrowed, every phrase that seemed lifted from the official [jargon]{.vocab tabindex="0" data-def="jargon · n. 行话，术语；黄锆石"} she had spent a career navigating. What remained, she hoped, was something a reader could hold: honest, a little [ironic]{.vocab tabindex="0" data-def="ironic · adj. 讽刺的；反话的"}, and entirely her own.
 
 ### The Story That Leaks Out
 
-:::: {.columns}
-::: {.column width="57%"}
-The debrief was supposed to be **concise**. Colonel Marsh had **briefed** his team in plain terms: say nothing beyond the mission summary, add the usual **caveats** about sources, and do not **digress** into personal opinion. Yet the moment the junior analyst opened her mouth, everyone sensed she was about to **unveil** something the room had not expected.
+The debrief was supposed to be [concise]{.vocab tabindex="0" data-def="concise · adj. 简明的"}. Colonel Marsh had [briefed]{.vocab tabindex="0" data-def="briefed · v. 简要；摘要"} his team in plain terms: say nothing beyond the mission summary, add the usual [caveats]{.vocab tabindex="0" data-def="caveats · n. 警告；说明"} about sources, and do not [digress]{.vocab tabindex="0" data-def="digress · vi. 离题；走向岔道"} into personal opinion. Yet the moment the junior analyst opened her mouth, everyone sensed she was about to [unveil]{.vocab tabindex="0" data-def="unveil · vt. 揭去…的面罩，除去…的遮盖物; 使公之于众；揭露; 除去面纱；揭幕; 揭露出来"} something the room had not expected.
 
-She did not **conceal** the numbers. She did not **distort** the timeline. She simply read aloud, in the flat cadence of someone who had rehearsed honesty, how the **courier** had failed to arrive, how the signal **beacons** had gone dark before dawn, and how a single mistranslated **acronym** had cascaded into the wrong order being issued. The colonel tried to **dismiss** the finding; she met his look and refused to let him. He was forced to **concede**.
+She did not [conceal]{.vocab tabindex="0" data-def="conceal · vt. 隐藏；隐瞒"} the numbers. She did not [distort]{.vocab tabindex="0" data-def="distort · vt. 扭曲；曲解；使失真; 扭曲；变形"} the timeline. She simply read aloud, in the flat cadence of someone who had rehearsed honesty, how the [courier]{.vocab tabindex="0" data-def="courier · n. 送快信的人；导游；情报员，通讯员"} had failed to arrive, how the signal [beacons]{.vocab tabindex="0" data-def="beacons · n. 指向标；信号灯; 照亮，指引"} had gone dark before dawn, and how a single mistranslated [acronym]{.vocab tabindex="0" data-def="acronym · n. 首字母缩略词"} had cascaded into the wrong order being issued. The colonel tried to [dismiss]{.vocab tabindex="0" data-def="dismiss · vt. 让...离开；开除；解散；解雇; 解散"} the finding; she met his look and refused to let him. He was forced to [concede]{.vocab tabindex="0" data-def="concede · vt. &amp; 承认; 出让, 容许"}.
 
-Outside the briefing room, the story began its second life. One aide, known for **tattle** more than discretion, had already begun to **divulge** fragments to a journalist. Another would eventually **squeal** to an oversight committee. By evening, a blogger had clipped the video and added a sarcastic **caption**: "Watch an empire **dictate** its own collapse." A retired general delivered a **tirade** on cable news, insisting the entire account was fabricated to **conceal** institutional failure. The network ran the segment without a corrections **caption**, which only deepened the **dissent** online.
+Outside the briefing room, the story began its second life. One aide, known for [tattle]{.vocab tabindex="0" data-def="tattle · n. 闲谈；闲聊; 闲谈，闲聊; 由闲谈而泄露；在闲谈中说出"} more than discretion, had already begun to [divulge]{.vocab tabindex="0" data-def="divulge · vt. 泄露；暴露"} fragments to a journalist. Another would eventually [squeal]{.vocab tabindex="0" data-def="squeal · vt. 告密；长声尖叫; 告密；尖声地说; 尖叫声"} to an oversight committee. By evening, a blogger had clipped the video and added a sarcastic [caption]{.vocab tabindex="0" data-def="caption · n. 字幕；标题；说明；逮捕; 加上说明；加上标题"}: "Watch an empire [dictate]{.vocab tabindex="0" data-def="dictate · vt. &amp; 大声讲或读；口授; 指示；指定；指令; 命令，规定，要求"} its own collapse." A retired general delivered a [tirade]{.vocab tabindex="0" data-def="tirade · n. 激烈的长篇演说"} on cable news, insisting the entire account was fabricated to [conceal]{.vocab tabindex="0" data-def="conceal · vt. 隐藏；隐瞒"} institutional failure. The network ran the segment without a corrections [caption]{.vocab tabindex="0" data-def="caption · n. 字幕；标题；说明；逮捕; 加上说明；加上标题"}, which only deepened the [dissent]{.vocab tabindex="0" data-def="dissent · n. 不同意见，异议; 异议，不同意见; 不同意，持异议"} online.
 
-Meanwhile, the analyst tried to **clarify** her findings on the record. She had been trained in careful language — to **confide** only what evidence supported, never to **belabor** a point beyond what the audience needed. She knew the difference between a **dialect** of bureaucratic hedging and actual transparency. Her written statement cited an **Aramaic** inscription that had inspired the mission's code name, a detail she included to show how far back the **dispute** over the region went. Critics called the reference a distraction — a way to **disavow** present responsibility by burying it in ancient history.
+Meanwhile, the analyst tried to [clarify]{.vocab tabindex="0" data-def="clarify · vt. 澄清；阐明; 得到澄清；变得明晰；得到净化"} her findings on the record. She had been trained in careful language — to [confide]{.vocab tabindex="0" data-def="confide · vt. 吐露；委托 信赖；吐露秘密"} only what evidence supported, never to [belabor]{.vocab tabindex="0" data-def="belabor · vt. 毒打一顿；责骂; 就…作过度的说明；向…唠叨; 反复研究"} a point beyond what the audience needed. She knew the difference between a [dialect]{.vocab tabindex="0" data-def="dialect · n. 方言，土话；同源语；行话；个人用语特征; 方言的"} of bureaucratic hedging and actual transparency. Her written statement cited an [Aramaic]{.vocab tabindex="0" data-def="Aramaic · n. 阿拉姆语; 阿拉姆语的"} inscription that had inspired the mission's code name, a detail she included to show how far back the [dispute]{.vocab tabindex="0" data-def="dispute · vt. 辩论；阻止；抗拒；怀疑; 争论; 辩论；争吵"} over the region went. Critics called the reference a distraction — a way to [disavow]{.vocab tabindex="0" data-def="disavow · vt. 否认，否定；抵赖；拒绝对…的责任"} present responsibility by burying it in ancient history.
 
-She had consulted a linguist, used sources rendered in **Braille** format for an accessibility review, and still watched the **tirade**s mount. In the end she understood: language is a tool for precision, but **tattle** turns it into a weapon, and no matter how carefully you **consult** your own conscience, someone will always find a way to **distort** what you said into what you never meant.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **squeal** <span class="wpos">vt.</span> | 告密；长声尖叫; 告密；尖声地说; 尖叫声 |
-| **tattle** <span class="wpos">n.</span> | 闲谈；闲聊; 闲谈，闲聊; 由闲谈而泄露；在闲谈中说出 |
-| **tirade** <span class="wpos">n.</span> | 激烈的长篇演说 |
-| **unveil** <span class="wpos">vt.</span> | 揭去…的面罩，除去…的遮盖物; 使公之于众；揭露; 除去面纱；揭幕; 揭露出来 |
-| **acclaim** <span class="wpos">vt.</span> | 向…欢呼，向…喝彩; 称赞…; 欢呼或拥戴为…; 热烈欢迎或赞同；称赞 |
-| **acronym** <span class="wpos">n.</span> | 首字母缩略词 |
-| **Aramaic** <span class="wpos">n.</span> | 阿拉姆语; 阿拉姆语的 |
-| **beacons** <span class="wpos">n.</span> | 指向标；信号灯; 照亮，指引 |
-| **belabor** <span class="wpos">vt.</span> | 毒打一顿；责骂; 就…作过度的说明；向…唠叨; 反复研究 |
-| **Braille** <span class="wpos">n.</span> | 盲人用点字法; 用盲字印 |
-| **briefed** <span class="wpos">v.</span> | 简要；摘要 |
-| **caption** <span class="wpos">n.</span> | 字幕；标题；说明；逮捕; 加上说明；加上标题 |
-| **caveats** <span class="wpos">n.</span> | 警告；说明 |
-| **clarify** <span class="wpos">vt.</span> | 澄清；阐明; 得到澄清；变得明晰；得到净化 |
-| **conceal** <span class="wpos">vt.</span> | 隐藏；隐瞒 |
-| **concede** <span class="wpos">vt.</span> | &amp; 承认; 出让, 容许 |
-| **concise** <span class="wpos">adj.</span> | 简明的 |
-| **confide** <span class="wpos">vt.</span> | 吐露；委托 信赖；吐露秘密 |
-| **consult** <span class="wpos">vt.</span> | 商量；查阅；向…请教; 请教；商议；当顾问 |
-| **courier** <span class="wpos">n.</span> | 送快信的人；导游；情报员，通讯员 |
-| **debrief** <span class="wpos">vt.</span> | 向询问执行任务的情况 |
-| **dialect** <span class="wpos">n.</span> | 方言，土话；同源语；行话；个人用语特征; 方言的 |
-| **dictate** <span class="wpos">vt.</span> | &amp; 大声讲或读；口授; 指示；指定；指令; 命令，规定，要求 |
-| **digress** <span class="wpos">vi.</span> | 离题；走向岔道 |
-| **disavow** <span class="wpos">vt.</span> | 否认，否定；抵赖；拒绝对…的责任 |
-| **dismiss** <span class="wpos">vt.</span> | 让...离开；开除；解散；解雇; 解散 |
-| **dispute** <span class="wpos">vt.</span> | 辩论；阻止；抗拒；怀疑; 争论; 辩论；争吵 |
-| **dissent** <span class="wpos">n.</span> | 不同意见，异议; 异议，不同意见; 不同意，持异议 |
-| **distort** <span class="wpos">vt.</span> | 扭曲；曲解；使失真; 扭曲；变形 |
-| **divulge** <span class="wpos">vt.</span> | 泄露；暴露 |
-:::
-:::
-::::
+She had consulted a linguist, used sources rendered in [Braille]{.vocab tabindex="0" data-def="Braille · n. 盲人用点字法; 用盲字印"} format for an accessibility review, and still watched the [tirade]{.vocab tabindex="0" data-def="tirade · n. 激烈的长篇演说"}s mount. In the end she understood: language is a tool for precision, but [tattle]{.vocab tabindex="0" data-def="tattle · n. 闲谈；闲聊; 闲谈，闲聊; 由闲谈而泄露；在闲谈中说出"} turns it into a weapon, and no matter how carefully you [consult]{.vocab tabindex="0" data-def="consult · vt. 商量；查阅；向…请教; 请教；商议；当顾问"} your own conscience, someone will always find a way to [distort]{.vocab tabindex="0" data-def="distort · vt. 扭曲；曲解；使失真; 扭曲；变形"} what you said into what you never meant.
 
 ### The Art of Making Oneself Understood
 
-:::: {.columns}
-::: {.column width="57%"}
-Not everything is **effable** — yet the best communicators spend their lives hunting for words that come close. At the journalism **seminar** last spring, a veteran editor from **Reuters** opened with a provocation: in the age of the **tabloid** and viral **tidbits**, are we losing our ability to say what we actually mean? He had scribbled a single **jotting** on his notepad the night before: *precision matters*. He went on to **expound** on how **lexical** choices shape public perception, how a single word in a **leaflet** or a broadcast script can shift the entire **purport** of a message. The crowd, a mix of young **orators** and seasoned reporters, leaned in.
+Not everything is [effable]{.vocab tabindex="0" data-def="effable · adj. 可表达的"} — yet the best communicators spend their lives hunting for words that come close. At the journalism [seminar]{.vocab tabindex="0" data-def="seminar · n. 讨论会，研讨班"} last spring, a veteran editor from [Reuters]{.vocab tabindex="0" data-def="Reuters · n. 路透社"} opened with a provocation: in the age of the [tabloid]{.vocab tabindex="0" data-def="tabloid · n. 小报；药片；文摘；小型画报; 小报式的；缩略的；轰动性的；扼要的"} and viral [tidbits]{.vocab tabindex="0" data-def="tidbits · n. 花边新闻"}, are we losing our ability to say what we actually mean? He had scribbled a single [jotting]{.vocab tabindex="0" data-def="jotting · n. 简短的笔记,略记"} on his notepad the night before: *precision matters*. He went on to [expound]{.vocab tabindex="0" data-def="expound · vt. 解释；详细说明; 解释；详细说明"} on how [lexical]{.vocab tabindex="0" data-def="lexical · adj. 词汇的; 具词典性质的,词典的"} choices shape public perception, how a single word in a [leaflet]{.vocab tabindex="0" data-def="leaflet · n. 传单, 散页印刷品"} or a broadcast script can shift the entire [purport]{.vocab tabindex="0" data-def="purport · vt. 声称；意指；意图；打算; 意义，主旨；意图"} of a message. The crowd, a mix of young [orators]{.vocab tabindex="0" data-def="orators · n. 演说家；演讲者"} and seasoned reporters, leaned in.
 
-He didn't **espouse** any single style. Instead he drew on the full **lexicon** of rhetorical tradition — from the **literal** and plain to the ironic and **implied**. He used hand gestures, almost **emblems** in themselves, to show how much meaning travels outside words. At one point he **narrate**d a story about a colleague who was **scolded** by a senior producer for relying too heavily on **sarcasm** in a live segment — the audience had **hear of** the clip only through secondhand accounts and misread the tone entirely. "Sarcasm," he warned, "is the riskiest register." Someone in the back **mumbled** agreement; another **stammer**ed out a counterpoint before finding her footing.
+He didn't [espouse]{.vocab tabindex="0" data-def="espouse · vt. 支持,拥护; 支持,拥护"} any single style. Instead he drew on the full [lexicon]{.vocab tabindex="0" data-def="lexicon · n. 词典; 专门词汇"} of rhetorical tradition — from the [literal]{.vocab tabindex="0" data-def="literal · adj. 逐字的；无夸张的；文字的"} and plain to the ironic and [implied]{.vocab tabindex="0" data-def="implied · adj. 暗指的,含蓄的"}. He used hand gestures, almost [emblems]{.vocab tabindex="0" data-def="emblems · n. 象征动作；符号；徽章; 用徽章表示；象征"} in themselves, to show how much meaning travels outside words. At one point he [narrate]{.vocab tabindex="0" data-def="narrate · v. 讲，叙述；给作解说"}d a story about a colleague who was [scolded]{.vocab tabindex="0" data-def="scolded · v. 批评；责骂，训斥"} by a senior producer for relying too heavily on [sarcasm]{.vocab tabindex="0" data-def="sarcasm · n. 讽刺；挖苦；嘲笑"} in a live segment — the audience had [hear of]{.vocab tabindex="0" data-def="hear of 听说"} the clip only through secondhand accounts and misread the tone entirely. "Sarcasm," he warned, "is the riskiest register." Someone in the back [mumbled]{.vocab tabindex="0" data-def="mumbled · vi. 含糊的说话"} agreement; another [stammer]{.vocab tabindex="0" data-def="stammer · vi. 口吃；结结巴巴地说; 口吃；结巴着说出; 口吃；结巴"}ed out a counterpoint before finding her footing.
 
-The **preface** to his closing remarks addressed the darker side of public language. Editors must guard against **slander** and the slow rot of **traduce**-ment that bad-faith commentary can **instill** in audiences over time. The **rubrics** we use to evaluate good reporting — accuracy, fairness, clarity — exist precisely to block that drift. A journalist who **solicit**s quotes without context, or who lets **grumble**s about rivals color coverage, has already broken the contract with the reader. He ended with a quiet image: a correspondent standing in the rain, **hailing** a source who almost didn't show up, holding nothing but a notebook — and the belief that some things, however hard, remain **effable** enough to be worth saying.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **effable** <span class="wpos">adj.</span> | 可表达的 |
-| **emblems** <span class="wpos">n.</span> | 象征动作；符号；徽章; 用徽章表示；象征 |
-| **espouse** <span class="wpos">vt.</span> | 支持,拥护; 支持,拥护 |
-| **expound** <span class="wpos">vt.</span> | 解释；详细说明; 解释；详细说明 |
-| **grumble** <span class="wpos">vi.</span> | 抱怨；嘟囔; 怨言; 喃喃地说出; 抱怨地表示；嘟囔地说 |
-| **hailing** <span class="wpos">n.</span> | 下冰雹; 向…欢呼；致敬 |
-| **hear of** | 听说 |
-| **implied** <span class="wpos">adj.</span> | 暗指的,含蓄的 |
-| **instill** <span class="wpos">vt.</span> | 徐徐滴入；逐渐灌输 |
-| **jotting** <span class="wpos">n.</span> | 简短的笔记,略记 |
-| **leaflet** <span class="wpos">n.</span> | 传单, 散页印刷品 |
-| **lexical** <span class="wpos">adj.</span> | 词汇的; 具词典性质的,词典的 |
-| **lexicon** <span class="wpos">n.</span> | 词典; 专门词汇 |
-| **literal** <span class="wpos">adj.</span> | 逐字的；无夸张的；文字的 |
-| **mumbled** <span class="wpos">vi.</span> | 含糊的说话 |
-| **narrate** <span class="wpos">v.</span> | 讲，叙述；给作解说 |
-| **orators** <span class="wpos">n.</span> | 演说家；演讲者 |
-| **preface** <span class="wpos">n.</span> | 序言, 前言; 开端, 前奏; 作为…的序言, 作为…的开端 |
-| **purport** <span class="wpos">vt.</span> | 声称；意指；意图；打算; 意义，主旨；意图 |
-| **Reuters** <span class="wpos">n.</span> | 路透社 |
-| **rubrics** <span class="wpos">n.</span> | 评估准则；题目 |
-| **sarcasm** <span class="wpos">n.</span> | 讽刺；挖苦；嘲笑 |
-| **scolded** <span class="wpos">v.</span> | 批评；责骂，训斥 |
-| **seminar** <span class="wpos">n.</span> | 讨论会，研讨班 |
-| **slander** <span class="wpos">n.</span> | 诽谤, 诋毁; 造谣中伤 |
-| **solicit** <span class="wpos">vt.</span> | &amp; 恳求, 请求, 乞求; 拉客 |
-| **stammer** <span class="wpos">vi.</span> | 口吃；结结巴巴地说; 口吃；结巴着说出; 口吃；结巴 |
-| **tabloid** <span class="wpos">n.</span> | 小报；药片；文摘；小型画报; 小报式的；缩略的；轰动性的；扼要的 |
-| **tidbits** <span class="wpos">n.</span> | 花边新闻 |
-| **traduce** <span class="wpos">vt.</span> | 中伤；诽谤；背叛 |
-:::
-:::
-::::
+The [preface]{.vocab tabindex="0" data-def="preface · n. 序言, 前言; 开端, 前奏; 作为…的序言, 作为…的开端"} to his closing remarks addressed the darker side of public language. Editors must guard against [slander]{.vocab tabindex="0" data-def="slander · n. 诽谤, 诋毁; 造谣中伤"} and the slow rot of [traduce]{.vocab tabindex="0" data-def="traduce · vt. 中伤；诽谤；背叛"}-ment that bad-faith commentary can [instill]{.vocab tabindex="0" data-def="instill · vt. 徐徐滴入；逐渐灌输"} in audiences over time. The [rubrics]{.vocab tabindex="0" data-def="rubrics · n. 评估准则；题目"} we use to evaluate good reporting — accuracy, fairness, clarity — exist precisely to block that drift. A journalist who [solicit]{.vocab tabindex="0" data-def="solicit · vt. &amp; 恳求, 请求, 乞求; 拉客"}s quotes without context, or who lets [grumble]{.vocab tabindex="0" data-def="grumble · vi. 抱怨；嘟囔; 怨言; 喃喃地说出; 抱怨地表示；嘟囔地说"}s about rivals color coverage, has already broken the contract with the reader. He ended with a quiet image: a correspondent standing in the rain, [hailing]{.vocab tabindex="0" data-def="hailing · n. 下冰雹; 向…欢呼；致敬"} a source who almost didn't show up, holding nothing but a notebook — and the belief that some things, however hard, remain [effable]{.vocab tabindex="0" data-def="effable · adj. 可表达的"} enough to be worth saying.
 
 ### When Words Fill the Room
 
-:::: {.columns}
-::: {.column width="57%"}
-The seminar had barely started when Professor Lin received a **wigging** from the department head for distributing an **abridged** edition of the course **analects** — an **anecdote** about administrative friction that quickly became legend among students. Her handout had paired **antonyms** in opposing columns, each row topped with an **aphorism** drawn from classical rhetoric. A small **asterisk** beside the title quietly pointed to a footnote: *adapted for classroom use*.
+The seminar had barely started when Professor Lin received a [wigging]{.vocab tabindex="0" data-def="wigging · n. 责备,骂,叱责"} from the department head for distributing an [abridged]{.vocab tabindex="0" data-def="abridged · adj. 削减的,删节的"} edition of the course [analects]{.vocab tabindex="0" data-def="analects · n. 文选；论集"} — an [anecdote]{.vocab tabindex="0" data-def="anecdote · n. 掌故, 趣闻, 轶事"} about administrative friction that quickly became legend among students. Her handout had paired [antonyms]{.vocab tabindex="0" data-def="antonyms · n. 反义字；反义词"} in opposing columns, each row topped with an [aphorism]{.vocab tabindex="0" data-def="aphorism · n. 格言；警句"} drawn from classical rhetoric. A small [asterisk]{.vocab tabindex="0" data-def="asterisk · n. 星号; 注上星号；用星号标出"} beside the title quietly pointed to a footnote: *adapted for classroom use*.
 
-The graduate students, still **babbling** among themselves, settled when she began. One invited speaker that afternoon liked to **bloviate**, filling thirty minutes with what others said in five — pure **bollocks**, whispered the student in the back row. But the **bulletin** posted outside the room had promised a session on persuasion, and most had come in good faith. Lin spoke **candidly**, listing **cautions** against language that flatters rather than illuminates, against the **claptrap** politicians deploy when they want applause without commitment. "The way you **construe** a sentence," she said, "is the way you **convince** an audience — or lose them."
+The graduate students, still [babbling]{.vocab tabindex="0" data-def="babbling · n. 胡说；婴儿发出的咿哑声; 胡说的; 呀呀学语，喋喋不休"} among themselves, settled when she began. One invited speaker that afternoon liked to [bloviate]{.vocab tabindex="0" data-def="bloviate · v. 发表冗长演说"}, filling thirty minutes with what others said in five — pure [bollocks]{.vocab tabindex="0" data-def="bollocks · n. 胡说"}, whispered the student in the back row. But the [bulletin]{.vocab tabindex="0" data-def="bulletin · n. 公告，公报; 公布，公告"} posted outside the room had promised a session on persuasion, and most had come in good faith. Lin spoke [candidly]{.vocab tabindex="0" data-def="candidly · adv. 率直地；坦白地；直率而诚恳地"}, listing [cautions]{.vocab tabindex="0" data-def="cautions · n. 注意事项；警告；警语; 告诫；使小心"} against language that flatters rather than illuminates, against the [claptrap]{.vocab tabindex="0" data-def="claptrap · n. 讨好的言语或行为；哗众取宠的话; 讨好的"} politicians deploy when they want applause without commitment. "The way you [construe]{.vocab tabindex="0" data-def="construe · vt. 解释；分析；翻译; 作文法性的分析"} a sentence," she said, "is the way you [convince]{.vocab tabindex="0" data-def="convince · vt. 使确信，使信服；说服"} an audience — or lose them."
 
-She reminded them never to **downplay** ambiguity with a careless **ellipsis**; an **eloquent** pause is not the same as evasion. An **enquirer** deserves a direct reply, not an **envelope** of vague qualifications. Be **explicit**, she urged — especially in **farewell** remarks, where every word lands heavier than expected. If danger looms, **forewarn**; do not wait until you are forced into a **harangue**. She paused, gave a dry **harrumph**, and added that every speaker carries an **idiolect** — a private fingerprint of syntax and rhythm — and that **innuendo** is merely the shadow cast when that fingerprint tries to hide something. "My job," she concluded, "is to **instruct** you not just in grammar, but in honesty."
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **wigging** <span class="wpos">n.</span> | 责备,骂,叱责 |
-| **abridged** <span class="wpos">adj.</span> | 削减的,删节的 |
-| **analects** <span class="wpos">n.</span> | 文选；论集 |
-| **anecdote** <span class="wpos">n.</span> | 掌故, 趣闻, 轶事 |
-| **antonyms** <span class="wpos">n.</span> | 反义字；反义词 |
-| **aphorism** <span class="wpos">n.</span> | 格言；警句 |
-| **apologia** <span class="wpos">n.</span> | 辩解书；辩解文；辩解 |
-| **asterisk** <span class="wpos">n.</span> | 星号; 注上星号；用星号标出 |
-| **babbling** <span class="wpos">n.</span> | 胡说；婴儿发出的咿哑声; 胡说的; 呀呀学语，喋喋不休 |
-| **bloviate** <span class="wpos">v.</span> | 发表冗长演说 |
-| **bollocks** <span class="wpos">n.</span> | 胡说 |
-| **bulletin** <span class="wpos">n.</span> | 公告，公报; 公布，公告 |
-| **candidly** <span class="wpos">adv.</span> | 率直地；坦白地；直率而诚恳地 |
-| **cautions** <span class="wpos">n.</span> | 注意事项；警告；警语; 告诫；使小心 |
-| **claptrap** <span class="wpos">n.</span> | 讨好的言语或行为；哗众取宠的话; 讨好的 |
-| **construe** <span class="wpos">vt.</span> | 解释；分析；翻译; 作文法性的分析 |
-| **convince** <span class="wpos">vt.</span> | 使确信，使信服；说服 |
-| **downplay** <span class="wpos">vt.</span> | 不予重视；将...轻描淡写 |
-| **ellipsis** <span class="wpos">n.</span> | 省略；省略符号；脱漏 |
-| **eloquent** <span class="wpos">adj.</span> | 雄辩的，有口才的；有说服力的；意味深长的；动人的 |
-| **enquirer** <span class="wpos">n.</span> | 寻问者,追究者 |
-| **envelope** <span class="wpos">n.</span> | 信封，封皮；包膜；包层；包迹 |
-| **explicit** <span class="wpos">adj.</span> | 详述的, 明确的, 明晰的; 直言的, 毫不隐瞒的, 露骨的 |
-| **farewell** <span class="wpos">n.</span> | 告别, 欢送 |
-| **forewarn** <span class="wpos">vt.</span> | 预先警告 |
-| **harangue** <span class="wpos">n.</span> | 长篇大论；高谈阔论；热烈的演说; 向…滔滔不绝地演讲；大声训斥; 高谈阔论；慷慨陈词 |
-| **harrumph** <span class="wpos">vi.</span> | 发哼声; 哼著说; 哼声；鼻息 |
-| **idiolect** <span class="wpos">n.</span> | 个人语型; 个人言语方式 |
-| **innuendo** <span class="wpos">n.</span> | 影射的话,讽刺的话; 含沙射影,暗讽 |
-| **instruct** <span class="wpos">vt.</span> | 命令；教授；指导；通知 |
-:::
-:::
-::::
+She reminded them never to [downplay]{.vocab tabindex="0" data-def="downplay · vt. 不予重视；将...轻描淡写"} ambiguity with a careless [ellipsis]{.vocab tabindex="0" data-def="ellipsis · n. 省略；省略符号；脱漏"}; an [eloquent]{.vocab tabindex="0" data-def="eloquent · adj. 雄辩的，有口才的；有说服力的；意味深长的；动人的"} pause is not the same as evasion. An [enquirer]{.vocab tabindex="0" data-def="enquirer · n. 寻问者,追究者"} deserves a direct reply, not an [envelope]{.vocab tabindex="0" data-def="envelope · n. 信封，封皮；包膜；包层；包迹"} of vague qualifications. Be [explicit]{.vocab tabindex="0" data-def="explicit · adj. 详述的, 明确的, 明晰的; 直言的, 毫不隐瞒的, 露骨的"}, she urged — especially in [farewell]{.vocab tabindex="0" data-def="farewell · n. 告别, 欢送"} remarks, where every word lands heavier than expected. If danger looms, [forewarn]{.vocab tabindex="0" data-def="forewarn · vt. 预先警告"}; do not wait until you are forced into a [harangue]{.vocab tabindex="0" data-def="harangue · n. 长篇大论；高谈阔论；热烈的演说; 向…滔滔不绝地演讲；大声训斥; 高谈阔论；慷慨陈词"}. She paused, gave a dry [harrumph]{.vocab tabindex="0" data-def="harrumph · vi. 发哼声; 哼著说; 哼声；鼻息"}, and added that every speaker carries an [idiolect]{.vocab tabindex="0" data-def="idiolect · n. 个人语型; 个人言语方式"} — a private fingerprint of syntax and rhythm — and that [innuendo]{.vocab tabindex="0" data-def="innuendo · n. 影射的话,讽刺的话; 含沙射影,暗讽"} is merely the shadow cast when that fingerprint tries to hide something. "My job," she concluded, "is to [instruct]{.vocab tabindex="0" data-def="instruct · vt. 命令；教授；指导；通知"} you not just in grammar, but in honesty."
 
 ### The Conference That Wouldn't End
 
-:::: {.columns}
-::: {.column width="57%"}
-The **intercom** crackled to life at 7 a.m., jolting everyone in the press room awake. Dr. Reyes, a seasoned **linguist** and self-described **polyglot** fluent in six languages including **Sanskrit**, was already at the whiteboard. She had spent the night drafting a **synopsis** of the keynote and was quick to **jot down** last-minute notes in the margins, her handwriting teetering between neat cursive and outright **scribble**. The morning's theme was **literacy** — not merely the ability to read, but the deeper **semantic** command of language that separates a capable writer from a truly eloquent one.
+The [intercom]{.vocab tabindex="0" data-def="intercom · n. 对讲机；内部通话装置 INTERCOMabbr. Intercommunication System…"} crackled to life at 7 a.m., jolting everyone in the press room awake. Dr. Reyes, a seasoned [linguist]{.vocab tabindex="0" data-def="linguist · n. 语言学家"} and self-described [polyglot]{.vocab tabindex="0" data-def="polyglot · n. 通晓数种语言的人；用通晓数种语言记载的书; 通数国语言，数国语言的"} fluent in six languages including [Sanskrit]{.vocab tabindex="0" data-def="Sanskrit · n. 梵文;梵语"}, was already at the whiteboard. She had spent the night drafting a [synopsis]{.vocab tabindex="0" data-def="synopsis · n. 摘要,梗概; 大纲"} of the keynote and was quick to [jot down]{.vocab tabindex="0" data-def="jot down 草草记下，匆匆写下"} last-minute notes in the margins, her handwriting teetering between neat cursive and outright [scribble]{.vocab tabindex="0" data-def="scribble · n. 潦草写成的东西；潦草的写法；杂文; 乱写；滥写；潦草地书写; 乱写；乱涂"}. The morning's theme was [literacy]{.vocab tabindex="0" data-def="literacy · n. 读写能力，识字，有文化；知识，能力"} — not merely the ability to read, but the deeper [semantic]{.vocab tabindex="0" data-def="semantic · adj. 语义的；语义学的"} command of language that separates a capable writer from a truly eloquent one.
 
-When the first speaker took the stage, his **rhetoric** was polished but hollow, every second sentence edging into the **sermonic**. An audience member near the back groaned and muttered something — someone sitting beside her **overheard** it as *"pure **nonsense**."* The **narrator** of the opening film had used the word "groundbreaking" seventeen times, a **misnomer** if there ever was one for a panel rehashing ideas from a decade-old **treatise**. Still, the organizers had printed a slick **pamphlet** and a two-page **preamble** that tried, with mixed success, to **manifest** the conference's ambitions in concrete terms. A **metaphor** about rivers and language appeared in no fewer than three slides.
+When the first speaker took the stage, his [rhetoric]{.vocab tabindex="0" data-def="rhetoric · n. 修辞，修辞学；华丽的词藻; 花言巧语的"} was polished but hollow, every second sentence edging into the [sermonic]{.vocab tabindex="0" data-def="sermonic · adj. 说教性的"}. An audience member near the back groaned and muttered something — someone sitting beside her [overheard]{.vocab tabindex="0" data-def="overhear · vt. 无意中听到；偷听; 无意中听到；偷听到"} it as *"pure [nonsense]{.vocab tabindex="0" data-def="nonsense · n. 谬论；胡扯；胡言乱语；愚蠢的行为；冒失；不可接受的行为；毫无意义的话；没有意义的文章; 荒唐"}."* The [narrator]{.vocab tabindex="0" data-def="narrator · n. 叙述者；解说员"} of the opening film had used the word "groundbreaking" seventeen times, a [misnomer]{.vocab tabindex="0" data-def="misnomer · n. 用词不当；写错姓名；误称"} if there ever was one for a panel rehashing ideas from a decade-old [treatise]{.vocab tabindex="0" data-def="treatise · n. 论文；论述；专著"}. Still, the organizers had printed a slick [pamphlet]{.vocab tabindex="0" data-def="pamphlet · n. 小册子"} and a two-page [preamble]{.vocab tabindex="0" data-def="preamble · n. 序文；电报报头；先兆; 作序文"} that tried, with mixed success, to [manifest]{.vocab tabindex="0" data-def="manifest · vt. 证明，表明；显示; 显示，出现; 旅客名单；载货单，货单; 明白的；显然的，明显的"} the conference's ambitions in concrete terms. A [metaphor]{.vocab tabindex="0" data-def="metaphor · n. 隐喻"} about rivers and language appeared in no fewer than three slides.
 
-The real action was in the hallway. Over coffee, delegates began to **schmooze** — the polished kind, where every exchange is a rehearsed pitch. One junior researcher tried to **persuade** a journal editor to fast-track her **revision** of a disputed paper. The editor offered a quiet **rebuttal**, and when the researcher responded with thinly veiled **reproach**, a small crowd formed. Someone had even printed a rival **pamphlet** — a stapled, black-and-white affair — listing **synonyms** for "innovative" to mock the day's jargon. On the **landline** in the lobby, a harried publicist read from the official **synopsis** word for word, her tone flat. Outside, a dedicated **squealer** of a radiator pipe punctuated every pause. By afternoon the online chat had devolved into **trolling**, and the session chair, exhausted, called for **succinct** closing remarks — two minutes each, no extensions.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **intercom** <span class="wpos">n.</span> | 对讲机；内部通话装置 INTERCOMabbr. Intercommunication System… |
-| **jot down** | 草草记下，匆匆写下 |
-| **landline** <span class="wpos">n.</span> | 陆上运输 |
-| **linguist** <span class="wpos">n.</span> | 语言学家 |
-| **literacy** <span class="wpos">n.</span> | 读写能力，识字，有文化；知识，能力 |
-| **manifest** <span class="wpos">vt.</span> | 证明，表明；显示; 显示，出现; 旅客名单；载货单，货单; 明白的；显然的，明显的 |
-| **metaphor** <span class="wpos">n.</span> | 隐喻 |
-| **misnomer** <span class="wpos">n.</span> | 用词不当；写错姓名；误称 |
-| **narrator** <span class="wpos">n.</span> | 叙述者；解说员 |
-| **nonsense** <span class="wpos">n.</span> | 谬论；胡扯；胡言乱语；愚蠢的行为；冒失；不可接受的行为；毫无意义的话；没有意义的文章; 荒唐 |
-| **overhear** <span class="wpos">vt.</span> | 无意中听到；偷听; 无意中听到；偷听到 |
-| **pamphlet** <span class="wpos">n.</span> | 小册子 |
-| **persuade** <span class="wpos">vt.</span> | &amp; 说服, 劝告 |
-| **polyglot** <span class="wpos">n.</span> | 通晓数种语言的人；用通晓数种语言记载的书; 通数国语言，数国语言的 |
-| **preamble** <span class="wpos">n.</span> | 序文；电报报头；先兆; 作序文 |
-| **rebuttal** <span class="wpos">n.</span> | 举反例;反驳;抗辩 |
-| **reproach** <span class="wpos">n.</span> | 责备；耻辱; 责备；申斥 |
-| **revision** <span class="wpos">n.</span> | 修正；修订本；复习 |
-| **rhetoric** <span class="wpos">n.</span> | 修辞，修辞学；华丽的词藻; 花言巧语的 |
-| **Sanskrit** <span class="wpos">n.</span> | 梵文;梵语 |
-| **schmooze** <span class="wpos">n.</span> | 闲谈 |
-| **scribble** <span class="wpos">n.</span> | 潦草写成的东西；潦草的写法；杂文; 乱写；滥写；潦草地书写; 乱写；乱涂 |
-| **semantic** <span class="wpos">adj.</span> | 语义的；语义学的 |
-| **sermonic** <span class="wpos">adj.</span> | 说教性的 |
-| **squealer** | 发出尖叫声的人 |
-| **succinct** <span class="wpos">adj.</span> | 简洁的；简明的；紧身的 |
-| **synonyms** <span class="wpos">n.</span> | 同义词，同义字；同一性 |
-| **synopsis** <span class="wpos">n.</span> | 摘要,梗概; 大纲 |
-| **treatise** <span class="wpos">n.</span> | 论文；论述；专著 |
-| **trolling** <span class="wpos">n.</span> | 拖捕的行为; 高声地唱；旋转；拖钓 |
-:::
-:::
-::::
+The real action was in the hallway. Over coffee, delegates began to [schmooze]{.vocab tabindex="0" data-def="schmooze · n. 闲谈"} — the polished kind, where every exchange is a rehearsed pitch. One junior researcher tried to [persuade]{.vocab tabindex="0" data-def="persuade · vt. &amp; 说服, 劝告"} a journal editor to fast-track her [revision]{.vocab tabindex="0" data-def="revision · n. 修正；修订本；复习"} of a disputed paper. The editor offered a quiet [rebuttal]{.vocab tabindex="0" data-def="rebuttal · n. 举反例;反驳;抗辩"}, and when the researcher responded with thinly veiled [reproach]{.vocab tabindex="0" data-def="reproach · n. 责备；耻辱; 责备；申斥"}, a small crowd formed. Someone had even printed a rival [pamphlet]{.vocab tabindex="0" data-def="pamphlet · n. 小册子"} — a stapled, black-and-white affair — listing [synonyms]{.vocab tabindex="0" data-def="synonyms · n. 同义词，同义字；同一性"} for "innovative" to mock the day's jargon. On the [landline]{.vocab tabindex="0" data-def="landline · n. 陆上运输"} in the lobby, a harried publicist read from the official [synopsis]{.vocab tabindex="0" data-def="synopsis · n. 摘要,梗概; 大纲"} word for word, her tone flat. Outside, a dedicated [squealer]{.vocab tabindex="0" data-def="squealer 发出尖叫声的人"} of a radiator pipe punctuated every pause. By afternoon the online chat had devolved into [trolling]{.vocab tabindex="0" data-def="trolling · n. 拖捕的行为; 高声地唱；旋转；拖钓"}, and the session chair, exhausted, called for [succinct]{.vocab tabindex="0" data-def="succinct · adj. 简洁的；简明的；紧身的"} closing remarks — two minutes each, no extensions.
 
 ### The Making of a Message
 
-:::: {.columns}
-::: {.column width="57%"}
-A young **columnist** sat at her desk, staring at a **facsimile** of an ancient **cuneiform** tablet her professor had once sent her — a reminder that humanity's impulse to communicate stretches back to the first scratched symbols. She was drafting a long **discourse** on how language shapes thought, and she wanted to open with something vivid rather than **anecdotal** evidence alone. Her argument's **predicate** was simple: every act of speech is also an act of power.
+A young [columnist]{.vocab tabindex="0" data-def="columnist · n. 专栏作家"} sat at her desk, staring at a [facsimile]{.vocab tabindex="0" data-def="facsimile · n. 副本;传真"} of an ancient [cuneiform]{.vocab tabindex="0" data-def="cuneiform · adj. 楔形的,楔状骨的,楔形文字的; 楔形文字,楔状骨"} tablet her professor had once sent her — a reminder that humanity's impulse to communicate stretches back to the first scratched symbols. She was drafting a long [discourse]{.vocab tabindex="0" data-def="discourse · n. 论文；演说；讲道; 讲述，著述"} on how language shapes thought, and she wanted to open with something vivid rather than [anecdotal]{.vocab tabindex="0" data-def="anecdotal · adj. 轶事的，趣闻的; 多轶事的；含轶事的"} evidence alone. Her argument's [predicate]{.vocab tabindex="0" data-def="predicate · n. 谓语; 使基于；使以…为依据; 表明；阐明；断言"} was simple: every act of speech is also an act of power.
 
-She had interviewed a veteran **publicist** that morning, a man famous for his skill at generating **publicity** for clients teetering on the edge of scandal. He answered her questions **brusquely**, barely pausing between **assertion** and counter-claim. At one point he lapsed into an extended **monologue** about reputation management — **or rather**, a polished performance of it — deploying **hyperbole** so fluently she had to **italicize** several of his quotes just to signal the rhetorical temperature to readers. When she asked whether he thought of himself as a mere **apologist** for bad behaviour, he cut her off: he was a **proponent** of narrative, he said, not a spin doctor. His publicist's instinct was to **propagate** a preferred story before a rival version could take root, to **inculcate** that story in every outlet willing to run it, and to **importune** every editor who hesitated.
+She had interviewed a veteran [publicist]{.vocab tabindex="0" data-def="publicist · n. 宣传人员;宣传代理人; 政论家;时事评论员"} that morning, a man famous for his skill at generating [publicity]{.vocab tabindex="0" data-def="publicity · n. 公众的注意, 众所周知; 宣传, 宣扬"} for clients teetering on the edge of scandal. He answered her questions [brusquely]{.vocab tabindex="0" data-def="brusquely · adv. 唐突地,粗率地"}, barely pausing between [assertion]{.vocab tabindex="0" data-def="assertion · n. 主张，维护；坚持; 强硬陈词；断言"} and counter-claim. At one point he lapsed into an extended [monologue]{.vocab tabindex="0" data-def="monologue · n. 独白"} about reputation management — [or rather]{.vocab tabindex="0" data-def="or rather 确切地说，说得更准确些"}, a polished performance of it — deploying [hyperbole]{.vocab tabindex="0" data-def="hyperbole · n. 夸张法"} so fluently she had to [italicize]{.vocab tabindex="0" data-def="italicize · vt. 用斜体字排字,在字下划横线"} several of his quotes just to signal the rhetorical temperature to readers. When she asked whether he thought of himself as a mere [apologist]{.vocab tabindex="0" data-def="apologist · n. 辩解者；辩护士; 护教论者"} for bad behaviour, he cut her off: he was a [proponent]{.vocab tabindex="0" data-def="proponent · n. 支持者,拥护者"} of narrative, he said, not a spin doctor. His publicist's instinct was to [propagate]{.vocab tabindex="0" data-def="propagate · vt. &amp; 繁衍，增殖; 传播；宣传，普及"} a preferred story before a rival version could take root, to [inculcate]{.vocab tabindex="0" data-def="inculcate · vt. 极力主张, 反复灌输"} that story in every outlet willing to run it, and to [importune]{.vocab tabindex="0" data-def="importune · vt. 纠缠,向不断要求; 拉"} every editor who hesitated.
 
-Back at her desk she reached for a grammar handbook and looked up how an **adjective** could quietly tilt a sentence — the way a single modifier could carry more freight than a paragraph of plain statement. She noticed how she herself had started to **enunciate** her own views more carefully lately, aware that words, once on record, get **hand down** to audiences she would never meet. The piece would carry her **eponymous** byline, though she had once written under a **pseudonym** to protect a source. She used an **ampersand** to join two clauses in the headline — a small typographic choice — and watched the character count tick up. Outside, a pack of **Paparazzi** clustered below a hotel entrance, cameras ready; their subjects existed, **literally**, only as long as the lens agreed to find them. The **purported** star never emerged, but the photographers stayed, because the possibility of a picture is itself a kind of **adulation**, a silent insistence that someone is worth watching. She typed the final sentence, **designate**d the file for her editor, and closed the laptop.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **adjective** <span class="wpos">n.</span> |  |
-| **adulation** <span class="wpos">n.</span> | 谄媚；奉承 |
-| **ampersand** <span class="wpos">n.</span> | &amp;的记号名称 |
-| **anecdotal** <span class="wpos">adj.</span> | 轶事的，趣闻的; 多轶事的；含轶事的 |
-| **apologist** <span class="wpos">n.</span> | 辩解者；辩护士; 护教论者 |
-| **assertion** <span class="wpos">n.</span> | 主张，维护；坚持; 强硬陈词；断言 |
-| **brusquely** <span class="wpos">adv.</span> | 唐突地,粗率地 |
-| **columnist** <span class="wpos">n.</span> | 专栏作家 |
-| **cuneiform** <span class="wpos">adj.</span> | 楔形的,楔状骨的,楔形文字的; 楔形文字,楔状骨 |
-| **designate** <span class="wpos">vt.</span> | 指派, 委任; 标明, 指明, 命名 |
-| **discourse** <span class="wpos">n.</span> | 论文；演说；讲道; 讲述，著述 |
-| **enunciate** <span class="wpos">vt.</span> | 发音; 确切地说明 |
-| **eponymous** <span class="wpos">adj.</span> | 同名的，与作品同名的 |
-| **facsimile** <span class="wpos">n.</span> | 副本;传真 |
-| **hand down** | 宣布；把…传下去 |
-| **hyperbole** <span class="wpos">n.</span> | 夸张法 |
-| **importune** <span class="wpos">vt.</span> | 纠缠,向不断要求; 拉 |
-| **inculcate** <span class="wpos">vt.</span> | 极力主张, 反复灌输 |
-| **italicize** <span class="wpos">vt.</span> | 用斜体字排字,在字下划横线 |
-| **literally** <span class="wpos">adv.</span> | 逐字地；照字面地; 确实地，真正地 |
-| **monologue** <span class="wpos">n.</span> | 独白 |
-| **or rather** | 确切地说，说得更准确些 |
-| **Paparazzi** | )〈意〉无固定职业的摄影师 |
-| **predicate** <span class="wpos">n.</span> | 谓语; 使基于；使以…为依据; 表明；阐明；断言 |
-| **propagate** <span class="wpos">vt.</span> | &amp; 繁衍，增殖; 传播；宣传，普及 |
-| **proponent** <span class="wpos">n.</span> | 支持者,拥护者 |
-| **pseudonym** <span class="wpos">n.</span> | 假名；笔名 |
-| **publicist** <span class="wpos">n.</span> | 宣传人员;宣传代理人; 政论家;时事评论员 |
-| **publicity** <span class="wpos">n.</span> | 公众的注意, 众所周知; 宣传, 宣扬 |
-| **purported** <span class="wpos">adj.</span> | 传说的,谣传的 |
-:::
-:::
-::::
+Back at her desk she reached for a grammar handbook and looked up how an [adjective]{.vocab tabindex="0" data-def="adjective · n."} could quietly tilt a sentence — the way a single modifier could carry more freight than a paragraph of plain statement. She noticed how she herself had started to [enunciate]{.vocab tabindex="0" data-def="enunciate · vt. 发音; 确切地说明"} her own views more carefully lately, aware that words, once on record, get [hand down]{.vocab tabindex="0" data-def="hand down 宣布；把…传下去"} to audiences she would never meet. The piece would carry her [eponymous]{.vocab tabindex="0" data-def="eponymous · adj. 同名的，与作品同名的"} byline, though she had once written under a [pseudonym]{.vocab tabindex="0" data-def="pseudonym · n. 假名；笔名"} to protect a source. She used an [ampersand]{.vocab tabindex="0" data-def="ampersand · n. &amp;的记号名称"} to join two clauses in the headline — a small typographic choice — and watched the character count tick up. Outside, a pack of [Paparazzi]{.vocab tabindex="0" data-def="Paparazzi )〈意〉无固定职业的摄影师"} clustered below a hotel entrance, cameras ready; their subjects existed, [literally]{.vocab tabindex="0" data-def="literally · adv. 逐字地；照字面地; 确实地，真正地"}, only as long as the lens agreed to find them. The [purported]{.vocab tabindex="0" data-def="purported · adj. 传说的,谣传的"} star never emerged, but the photographers stayed, because the possibility of a picture is itself a kind of [adulation]{.vocab tabindex="0" data-def="adulation · n. 谄媚；奉承"}, a silent insistence that someone is worth watching. She typed the final sentence, [designate]{.vocab tabindex="0" data-def="designate · vt. 指派, 委任; 标明, 指明, 命名"}d the file for her editor, and closed the laptop.
 
 ### The Language of a Long Day
 
-:::: {.columns}
-::: {.column width="57%"}
-At the editorial board's year-end **symposium**, a junior editor rose to **reiterate** the team's standing rule: every **manuscript** submitted must include proper **annotation** and any supporting **appendices** before it enters review. She spoke **explicitly**, determined not to let ambiguity breed another round of corrections.
+At the editorial board's year-end [symposium]{.vocab tabindex="0" data-def="symposium · n. 讨论会, 专题报告"}, a junior editor rose to [reiterate]{.vocab tabindex="0" data-def="reiterate · vt. 反复地说,重申; 反复地说,重申; 反复说的,重申的"} the team's standing rule: every [manuscript]{.vocab tabindex="0" data-def="manuscript · n. 手稿, 原稿, 底稿; 手写本"} submitted must include proper [annotation]{.vocab tabindex="0" data-def="annotation · n. 注解,注释"} and any supporting [appendices]{.vocab tabindex="0" data-def="appendices 附录,附属品,阑尾"} before it enters review. She spoke [explicitly]{.vocab tabindex="0" data-def="explicitly · adv. 明白地,明确地"}, determined not to let ambiguity breed another round of corrections.
 
-**By the way**, she added, the style guide had been updated — writers should no longer rely on **colloquial** phrasing when precision mattered, nor should they **exaggerate** a finding simply to **accentuate** its impact. Her tone was firm but never **accusatory**; she had no wish to seem **derogatory** toward the freelancers who had missed the mark. Still, she did not **repudiate** the criticism either. She read aloud a **memorandum** a senior editor had drafted — a **cautionary** note about a recent piece whose **discursive** structure had buried its argument under **ironically** verbose paragraphs.
+[By the way]{.vocab tabindex="0" data-def="by the way 在途中；顺便说说，顺便问一下"}, she added, the style guide had been updated — writers should no longer rely on [colloquial]{.vocab tabindex="0" data-def="colloquial · adj. 口语的, 会话的"} phrasing when precision mattered, nor should they [exaggerate]{.vocab tabindex="0" data-def="exaggerate · vt. &amp; 扩大, 增加; 夸大, 夸张"} a finding simply to [accentuate]{.vocab tabindex="0" data-def="accentuate · vt. 使突出；强调; 重读，以重音读出; 加重音符号于; 使恶化，使严重"} its impact. Her tone was firm but never [accusatory]{.vocab tabindex="0" data-def="accusatory · adj. 非难的,控诉的,指责的"}; she had no wish to seem [derogatory]{.vocab tabindex="0" data-def="derogatory · adj. 不敬的"} toward the freelancers who had missed the mark. Still, she did not [repudiate]{.vocab tabindex="0" data-def="repudiate · vt. 拒绝接受, 否认, 否定; 拒绝偿付"} the criticism either. She read aloud a [memorandum]{.vocab tabindex="0" data-def="memorandum · n. 记录; 非正式商业书信,便函"} a senior editor had drafted — a [cautionary]{.vocab tabindex="0" data-def="cautionary · adj. 提醒注意的, 告诫的"} note about a recent piece whose [discursive]{.vocab tabindex="0" data-def="discursive · adj. 散漫的；离题的；东拉西扯的；无层次的"} structure had buried its argument under [ironically]{.vocab tabindex="0" data-def="ironically · adv. 嘲讽地, 挖苦地; 具有讽刺意味地"} verbose paragraphs.
 
-A **dissenting** voice came from the back: a veteran writer who served as the magazine's unofficial **mouthpiece** for contributors. He argued, without trying to **contradict** the rule itself, that the new guidelines punished voice. One editor issued what amounted to a quiet **reprimand**, noting that a **compliment** for strong prose did not excuse weak sourcing. Someone consulting a **thesaurus** for every **vocabular** choice, another quipped, was not the same as thinking clearly. The **persuasion** that finally settled the room came from the editor-in-chief, who held up a draft page where a single **participle** had been misused across four **inscribing** passes without anyone catching it. The **revelator** of that small failure, she said, was not any one writer — it was the process. She handed out a revised one-pager, an **abridgment** of the full style manual, and suggested that **imputation** of blame helped no one. What mattered was that from this meeting forward, every editorial decision be made — and recorded — without **accusatory** hedging, without vague **imputation**, and without the kind of language that a reader could only parse as a coded **reprimand** buried in **compliment**.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **reiterate** <span class="wpos">vt.</span> | 反复地说,重申; 反复地说,重申; 反复说的,重申的 |
-| **reprimand** <span class="wpos">n.</span> | 训斥, 惩戒; 申斥, 惩戒, 谴责 |
-| **repudiate** <span class="wpos">vt.</span> | 拒绝接受, 否认, 否定; 拒绝偿付 |
-| **revelator** <span class="wpos">n.</span> | 启示者,揭发者 |
-| **symposium** <span class="wpos">n.</span> | 讨论会, 专题报告 |
-| **thesaurus** <span class="wpos">n.</span> | 同义词词典，类属词典; 百科全书；汇编，文选; 宝库，仓库 |
-| **vocabular** <span class="wpos">adj.</span> | 词汇的 |
-| **abridgment** <span class="wpos">n.</span> | 节本; 节略,缩短; 缩减，缩短；精简；减少; 剥夺，限制 |
-| **accentuate** <span class="wpos">vt.</span> | 使突出；强调; 重读，以重音读出; 加重音符号于; 使恶化，使严重 |
-| **accusatory** <span class="wpos">adj.</span> | 非难的,控诉的,指责的 |
-| **annotation** <span class="wpos">n.</span> | 注解,注释 |
-| **appendices** | 附录,附属品,阑尾 |
-| **by the way** | 在途中；顺便说说，顺便问一下 |
-| **cautionary** <span class="wpos">adj.</span> | 提醒注意的, 告诫的 |
-| **colloquial** <span class="wpos">adj.</span> | 口语的, 会话的 |
-| **compliment** <span class="wpos">n.</span> | 赞美，恭维; 向…送礼以表示敬意; 表扬；恭维 |
-| **contradict** <span class="wpos">vt.</span> | &amp; 反驳, 否认…的真实性; 与…发生矛盾, 与…抵触 |
-| **derogatory** <span class="wpos">adj.</span> | 不敬的 |
-| **discursive** <span class="wpos">adj.</span> | 散漫的；离题的；东拉西扯的；无层次的 |
-| **dissenting** <span class="wpos">adj.</span> | 不同意的 |
-| **exaggerate** <span class="wpos">vt.</span> | &amp; 扩大, 增加; 夸大, 夸张 |
-| **explicitly** <span class="wpos">adv.</span> | 明白地,明确地 |
-| **imputation** <span class="wpos">n.</span> | 归罪;负责; 诋毁；非难;污名 |
-| **inscribing** <span class="wpos">n.</span> | 登记, 买或卖股票, 注册 |
-| **ironically** <span class="wpos">adv.</span> | 嘲讽地, 挖苦地; 具有讽刺意味地 |
-| **manuscript** <span class="wpos">n.</span> | 手稿, 原稿, 底稿; 手写本 |
-| **memorandum** <span class="wpos">n.</span> | 记录; 非正式商业书信,便函 |
-| **mouthpiece** <span class="wpos">n.</span> | 烟斗的嘴,乐器的吹口; 话筒; 喉舌,代言人,传声筒 |
-| **participle** <span class="wpos">n.</span> | 分词 |
-| **persuasion** <span class="wpos">n.</span> | 劝说; 说服; 信仰 |
-:::
-:::
-::::
+A [dissenting]{.vocab tabindex="0" data-def="dissenting · adj. 不同意的"} voice came from the back: a veteran writer who served as the magazine's unofficial [mouthpiece]{.vocab tabindex="0" data-def="mouthpiece · n. 烟斗的嘴,乐器的吹口; 话筒; 喉舌,代言人,传声筒"} for contributors. He argued, without trying to [contradict]{.vocab tabindex="0" data-def="contradict · vt. &amp; 反驳, 否认…的真实性; 与…发生矛盾, 与…抵触"} the rule itself, that the new guidelines punished voice. One editor issued what amounted to a quiet [reprimand]{.vocab tabindex="0" data-def="reprimand · n. 训斥, 惩戒; 申斥, 惩戒, 谴责"}, noting that a [compliment]{.vocab tabindex="0" data-def="compliment · n. 赞美，恭维; 向…送礼以表示敬意; 表扬；恭维"} for strong prose did not excuse weak sourcing. Someone consulting a [thesaurus]{.vocab tabindex="0" data-def="thesaurus · n. 同义词词典，类属词典; 百科全书；汇编，文选; 宝库，仓库"} for every [vocabular]{.vocab tabindex="0" data-def="vocabular · adj. 词汇的"} choice, another quipped, was not the same as thinking clearly. The [persuasion]{.vocab tabindex="0" data-def="persuasion · n. 劝说; 说服; 信仰"} that finally settled the room came from the editor-in-chief, who held up a draft page where a single [participle]{.vocab tabindex="0" data-def="participle · n. 分词"} had been misused across four [inscribing]{.vocab tabindex="0" data-def="inscribing · n. 登记, 买或卖股票, 注册"} passes without anyone catching it. The [revelator]{.vocab tabindex="0" data-def="revelator · n. 启示者,揭发者"} of that small failure, she said, was not any one writer — it was the process. She handed out a revised one-pager, an [abridgment]{.vocab tabindex="0" data-def="abridgment · n. 节本; 节略,缩短; 缩减，缩短；精简；减少; 剥夺，限制"} of the full style manual, and suggested that [imputation]{.vocab tabindex="0" data-def="imputation · n. 归罪;负责; 诋毁；非难;污名"} of blame helped no one. What mattered was that from this meeting forward, every editorial decision be made — and recorded — without [accusatory]{.vocab tabindex="0" data-def="accusatory · adj. 非难的,控诉的,指责的"} hedging, without vague [imputation]{.vocab tabindex="0" data-def="imputation · n. 归罪;负责; 诋毁；非难;污名"}, and without the kind of language that a reader could only parse as a coded [reprimand]{.vocab tabindex="0" data-def="reprimand · n. 训斥, 惩戒; 申斥, 惩戒, 谴责"} buried in [compliment]{.vocab tabindex="0" data-def="compliment · n. 赞美，恭维; 向…送礼以表示敬意; 表扬；恭维"}.
 
 ### When Words Fail — and When They Don't
 
-:::: {.columns}
-::: {.column width="57%"}
-A doctoral candidate sat in the archive, rifling through footnotes for her **dissertation**. She had spent months building her **bibliography**, cross-checking every source against the **encyclopedia** of linguistics her advisor kept on the shared shelf. The topic was deceptively narrow: how speakers **communicate** not just meaning but mood — how the same sentence, read **figuratively**, carries connotations no **sentential** analysis alone can capture.
+A doctoral candidate sat in the archive, rifling through footnotes for her [dissertation]{.vocab tabindex="0" data-def="dissertation · n. 专题论文, 学位论文"}. She had spent months building her [bibliography]{.vocab tabindex="0" data-def="bibliography · n. 书目; 书志学, 文献学"}, cross-checking every source against the [encyclopedia]{.vocab tabindex="0" data-def="encyclopedia · n. 百科全书; 专科全书"} of linguistics her advisor kept on the shared shelf. The topic was deceptively narrow: how speakers [communicate]{.vocab tabindex="0" data-def="communicate · vt. &amp; 传达；表达; 通讯；交际，交流; 相连；相通"} not just meaning but mood — how the same sentence, read [figuratively]{.vocab tabindex="0" data-def="figuratively · adv. 比喻地;象征性地"}, carries connotations no [sentential]{.vocab tabindex="0" data-def="sentential · adj. 句子的,判决的,判决上的"} analysis alone can capture.
 
-Her argument was **persuasive** on the surface, but her committee had flagged a problem. One paragraph leaned so heavily on a famous theorist's phrasing that it edged toward **plagiarism**; she had, in effect, begun to **plagiarize** without realizing it, lifting the structure while swapping synonyms. She rewrote the section, this time letting the **vernacular** of her own field carry the weight — the informal, living **descriptive** language that practitioners actually use, not the polished register of translated theory. She worked to make every claim **unequivocal**, stripping out the **exaggerated** hedges that had crept in during tired late-night drafts. Where she had inserted a long **parenthesis** about historical context, she cut it to a single clause so the logic stayed tight and the **conjunction** between evidence and conclusion was clear.
+Her argument was [persuasive]{.vocab tabindex="0" data-def="persuasive · adj. 能说服的;善于游说的"} on the surface, but her committee had flagged a problem. One paragraph leaned so heavily on a famous theorist's phrasing that it edged toward [plagiarism]{.vocab tabindex="0" data-def="plagiarism · n. 剽窃,抄袭; 剽窃物,抄袭物"}; she had, in effect, begun to [plagiarize]{.vocab tabindex="0" data-def="plagiarize · vt. 剽窃,抄袭"} without realizing it, lifting the structure while swapping synonyms. She rewrote the section, this time letting the [vernacular]{.vocab tabindex="0" data-def="vernacular · n. 本国语，本地话，方言; 行话; 白话；白话文; 动植物的俗名; 本国语的；白话的；方言的; 本国的；…"} of her own field carry the weight — the informal, living [descriptive]{.vocab tabindex="0" data-def="descriptive · adj. 说明的;解释的; 描写的"} language that practitioners actually use, not the polished register of translated theory. She worked to make every claim [unequivocal]{.vocab tabindex="0" data-def="unequivocal · adj. 只有一种含意的;清楚明白的; 只有一种含意地;清楚明白地"}, stripping out the [exaggerated]{.vocab tabindex="0" data-def="exaggerated · adj. 夸大的,言过其实的,夸张的"} hedges that had crept in during tired late-night drafts. Where she had inserted a long [parenthesis]{.vocab tabindex="0" data-def="parenthesis · n. 插入语,插入成分; 圆括号; 间歇,插曲"} about historical context, she cut it to a single clause so the logic stayed tight and the [conjunction]{.vocab tabindex="0" data-def="conjunction · n. 连词; 结合; 联合"} between evidence and conclusion was clear.
 
-The real trouble came during the defense. The **prolocutor** — a senior professor who chaired proceedings — pressed her on a slide. Had she used a **red herring** to sidestep a methodological flaw? She paused. The question carried **rhetorical** force designed to unsettle her. She recognized the **propaganda** move: frame the weakness as disqualifying before she could explain it. She refused to be distracted. Instead, she chose to **underscore** the one finding that mattered, **disseminate** its implications clearly across three fields, and **promulgate** a **proverbial** caution the committee itself had ignored: extraordinary claims need extraordinary evidence. Her phrasing was careful — no **misstatement**, no **misinterpret**-able slide, no **incoherence** between data and conclusion. The **connotation** of every term had been weighed. When one examiner muttered that a rival paper was **full of crap**, the prolocutor said simply: **knock it off**. The room settled. She passed.
+The real trouble came during the defense. The [prolocutor]{.vocab tabindex="0" data-def="prolocutor · n. 主席; 发言人"} — a senior professor who chaired proceedings — pressed her on a slide. Had she used a [red herring]{.vocab tabindex="0" data-def="red herring 熏青鱼；转移注意力的话题；与事实不相干的论点"} to sidestep a methodological flaw? She paused. The question carried [rhetorical]{.vocab tabindex="0" data-def="rhetorical · adj. 修辞的, 用来产生修辞效果的; 言辞的，口头的"} force designed to unsettle her. She recognized the [propaganda]{.vocab tabindex="0" data-def="propaganda · n. 宣传, 宣传运动"} move: frame the weakness as disqualifying before she could explain it. She refused to be distracted. Instead, she chose to [underscore]{.vocab tabindex="0" data-def="underscore · vt. 划线于…下,强调; 底线"} the one finding that mattered, [disseminate]{.vocab tabindex="0" data-def="disseminate · vt. 散布, 传播"} its implications clearly across three fields, and [promulgate]{.vocab tabindex="0" data-def="promulgate · vt. 宣扬；传播; 公布，颁布; 颁布者，公布者"} a [proverbial]{.vocab tabindex="0" data-def="proverbial · adj. 谚语的；谚语式的；众所周知的"} caution the committee itself had ignored: extraordinary claims need extraordinary evidence. Her phrasing was careful — no [misstatement]{.vocab tabindex="0" data-def="misstatement · n. 误述,虚伪陈述"}, no [misinterpret]{.vocab tabindex="0" data-def="misinterpret · vt. 误解；曲解; 误解；曲解"}-able slide, no [incoherence]{.vocab tabindex="0" data-def="incoherence · n. 不连贯，无条理"} between data and conclusion. The [connotation]{.vocab tabindex="0" data-def="connotation · n. 内涵；含蓄；暗示，隐含意义；储蓄的东西"} of every term had been weighed. When one examiner muttered that a rival paper was [full of crap]{.vocab tabindex="0" data-def="full of crap"}, the prolocutor said simply: [knock it off]{.vocab tabindex="0" data-def="knock it off"}. The room settled. She passed.
 
-Later, reading the **transcript** of the session, she noticed how much of academic discourse depended on knowing when precision served truth and when it merely performed it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **persuasive** <span class="wpos">adj.</span> | 能说服的;善于游说的 |
-| **plagiarism** <span class="wpos">n.</span> | 剽窃,抄袭; 剽窃物,抄袭物 |
-| **plagiarize** <span class="wpos">vt.</span> | 剽窃,抄袭 |
-| **prolocutor** <span class="wpos">n.</span> | 主席; 发言人 |
-| **promulgate** <span class="wpos">vt.</span> | 宣扬；传播; 公布，颁布; 颁布者，公布者 |
-| **propaganda** <span class="wpos">n.</span> | 宣传, 宣传运动 |
-| **proverbial** <span class="wpos">adj.</span> | 谚语的；谚语式的；众所周知的 |
-| **rhetorical** <span class="wpos">adj.</span> | 修辞的, 用来产生修辞效果的; 言辞的，口头的 |
-| **sentential** <span class="wpos">adj.</span> | 句子的,判决的,判决上的 |
-| **transcript** <span class="wpos">n.</span> | 抄本; 誊本; 打字本; 副本; 学生成绩报告单 |
-| **underscore** <span class="wpos">vt.</span> | 划线于…下,强调; 底线 |
-| **vernacular** <span class="wpos">n.</span> | 本国语，本地话，方言; 行话; 白话；白话文; 动植物的俗名; 本国语的；白话的；方言的; 本国的；… |
-| **communicate** <span class="wpos">vt.</span> | &amp; 传达；表达; 通讯；交际，交流; 相连；相通 |
-| **conjunction** <span class="wpos">n.</span> | 连词; 结合; 联合 |
-| **connotation** <span class="wpos">n.</span> | 内涵；含蓄；暗示，隐含意义；储蓄的东西 |
-| **descriptive** <span class="wpos">adj.</span> | 说明的;解释的; 描写的 |
-| **disseminate** <span class="wpos">vt.</span> | 散布, 传播 |
-| **exaggerated** <span class="wpos">adj.</span> | 夸大的,言过其实的,夸张的 |
-| **incoherence** <span class="wpos">n.</span> | 不连贯，无条理 |
-| **parenthesis** <span class="wpos">n.</span> | 插入语,插入成分; 圆括号; 间歇,插曲 |
-| **red herring** | 熏青鱼；转移注意力的话题；与事实不相干的论点 |
-| **unequivocal** <span class="wpos">adj.</span> | 只有一种含意的;清楚明白的; 只有一种含意地;清楚明白地 |
-| **bibliography** <span class="wpos">n.</span> | 书目; 书志学, 文献学 |
-| **dissertation** <span class="wpos">n.</span> | 专题论文, 学位论文 |
-| **encyclopedia** <span class="wpos">n.</span> | 百科全书; 专科全书 |
-| **figuratively** <span class="wpos">adv.</span> | 比喻地;象征性地 |
-| **full of crap** |  |
-| **knock it off** |  |
-| **misinterpret** <span class="wpos">vt.</span> | 误解；曲解; 误解；曲解 |
-| **misstatement** <span class="wpos">n.</span> | 误述,虚伪陈述 |
-:::
-:::
-::::
+Later, reading the [transcript]{.vocab tabindex="0" data-def="transcript · n. 抄本; 誊本; 打字本; 副本; 学生成绩报告单"} of the session, she noticed how much of academic discourse depended on knowing when precision served truth and when it merely performed it.
 
 ### When the Microphone Is Hot
 
-:::: {.columns}
-::: {.column width="57%"}
-The **valedictorian** stepped up to the podium, her notes loaded into the **teleprompter**, and cleared her throat. She had spent weeks polishing every line, swapping out **polysyllabic** tangents for plain, punchy sentences, because — as her coach liked to say — it goes **without further ado** that clarity beats cleverness in a packed auditorium. A foreign **correspondent** seated in the front row scribbled away, already framing her **complimentary** lead paragraph.
+The [valedictorian]{.vocab tabindex="0" data-def="valedictorian · n. 致告别辞者,告别演说者"} stepped up to the podium, her notes loaded into the [teleprompter]{.vocab tabindex="0" data-def="teleprompter · n. 讲词提示机"}, and cleared her throat. She had spent weeks polishing every line, swapping out [polysyllabic]{.vocab tabindex="0" data-def="polysyllabic · adj. 多音节的"} tangents for plain, punchy sentences, because — as her coach liked to say — it goes [without further ado]{.vocab tabindex="0" data-def="Without further ado."} that clarity beats cleverness in a packed auditorium. A foreign [correspondent]{.vocab tabindex="0" data-def="correspondent · n. 通讯员, 记者; 通信者"} seated in the front row scribbled away, already framing her [complimentary]{.vocab tabindex="0" data-def="complimentary · adj. 表示敬意的，赞美的，恭维的; 赠送的; 崇敬地,赞美地,赞许地"} lead paragraph.
 
-Backstage, the student emcee was practicing a **tongue twister** to warm up, pausing every few lines to let his **witty wordplay** land before moving on. The event program itself had required careful **disambiguation** — "address" meaning speech, not location — because the original draft had been nearly **unintelligible** to the volunteer translators working in three languages. English served as the de-facto **lingua franca** of the conference, bridging delegates who, **metaphorically** speaking, were sailing in very different waters. The simultaneous **interpretation** booth hummed quietly above them all.
+Backstage, the student emcee was practicing a [tongue twister]{.vocab tabindex="0" data-def="tongue twister 绕口令"} to warm up, pausing every few lines to let his [witty wordplay]{.vocab tabindex="0" data-def="witty wordplay"} land before moving on. The event program itself had required careful [disambiguation]{.vocab tabindex="0" data-def="disambiguation · n. 解疑,消除模棱两可情况"} — "address" meaning speech, not location — because the original draft had been nearly [unintelligible]{.vocab tabindex="0" data-def="unintelligible · adj. 不可能理解的; 难懂的"} to the volunteer translators working in three languages. English served as the de-facto [lingua franca]{.vocab tabindex="0" data-def="lingua franca 通用语；共通语；混合语"} of the conference, bridging delegates who, [metaphorically]{.vocab tabindex="0" data-def="metaphorically · adv. 比喻地,隐喻地"} speaking, were sailing in very different waters. The simultaneous [interpretation]{.vocab tabindex="0" data-def="interpretation · n. 解释，说明；诠释; 表演；演奏"} booth hummed quietly above them all.
 
-When the ceremony finally began, the emcee warned the audience not to **blurt stuff out** during the citation readings. Applause, he reminded them, was the proper **acknowledgement** — a small but meaningful signal in a room where every word was being weighed. It goes **without further ado**, he added with a grin, and the crowd laughed, understanding him completely.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **polysyllabic** <span class="wpos">adj.</span> | 多音节的 |
-| **teleprompter** <span class="wpos">n.</span> | 讲词提示机 |
-| **complimentary** <span class="wpos">adj.</span> | 表示敬意的，赞美的，恭维的; 赠送的; 崇敬地,赞美地,赞许地 |
-| **correspondent** <span class="wpos">n.</span> | 通讯员, 记者; 通信者 |
-| **lingua franca** | 通用语；共通语；混合语 |
-| **valedictorian** <span class="wpos">n.</span> | 致告别辞者,告别演说者 |
-| **disambiguation** <span class="wpos">n.</span> | 解疑,消除模棱两可情况 |
-| **interpretation** <span class="wpos">n.</span> | 解释，说明；诠释; 表演；演奏 |
-| **metaphorically** <span class="wpos">adv.</span> | 比喻地,隐喻地 |
-| **tongue twister** | 绕口令 |
-| **unintelligible** <span class="wpos">adj.</span> | 不可能理解的; 难懂的 |
-| **witty wordplay** |  |
-| **acknowledgement** <span class="wpos">n.</span> | 答谢的表示; 确认收到的信等; 致谢, 鸣谢 |
-| **blurt stuff out** |  |
-| **go without saying** <span class="wpos">vi.</span> | 不言而喻 |
-| **Without further ado.** |  |
-:::
-:::
-::::
+When the ceremony finally began, the emcee warned the audience not to [blurt stuff out]{.vocab tabindex="0" data-def="blurt stuff out"} during the citation readings. Applause, he reminded them, was the proper [acknowledgement]{.vocab tabindex="0" data-def="acknowledgement · n. 答谢的表示; 确认收到的信等; 致谢, 鸣谢"} — a small but meaningful signal in a room where every word was being weighed. It goes [without further ado]{.vocab tabindex="0" data-def="Without further ado."}, he added with a grin, and the crowd laughed, understanding him completely.

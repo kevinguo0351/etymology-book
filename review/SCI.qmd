@@ -2,727 +2,126 @@
 
 
 
-> 本主题共 15 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 15 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Single Step in the Sequence
 
-:::: {.columns}
-::: {.column width="57%"}
-Every engineer who has worked through the mathematics of signal sampling eventually meets the **arithmetic progression** — that clean, relentless march of values separated by a fixed step. It shows up in analog-to-digital converters, where sample timestamps advance in exactly equal intervals, and in the staircase approximations we use to model a continuous waveform before the solver takes over. The elegance is deceptive: one constant difference, repeated without mercy, underlies radar pulse trains, memory address layouts, and the evenly spaced frequency bins of a discrete Fourier transform. Master the arithmetic progression and you hold the skeleton key to a surprising fraction of engineering mathematics.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **arithmetic progression** | 等差级数，等差数列；算术级数，算术数列 |
-:::
-:::
-::::
+Every engineer who has worked through the mathematics of signal sampling eventually meets the [arithmetic progression]{.vocab tabindex="0" data-def="arithmetic progression 等差级数，等差数列；算术级数，算术数列"} — that clean, relentless march of values separated by a fixed step. It shows up in analog-to-digital converters, where sample timestamps advance in exactly equal intervals, and in the staircase approximations we use to model a continuous waveform before the solver takes over. The elegance is deceptive: one constant difference, repeated without mercy, underlies radar pulse trains, memory address layouts, and the evenly spaced frequency bins of a discrete Fourier transform. Master the arithmetic progression and you hold the skeleton key to a surprising fraction of engineering mathematics.
 
 ### Signals, Circuits, and Cells: A Survey of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-Modern science and engineering draw on an extraordinarily diverse vocabulary. In computer networks, the **FTP** protocol allows machines to transfer files reliably across distances, while background services such as **BITS** quietly move data without interrupting the user. Every operating system—collectively referred to as **OSes**—manages memory through commands like **mem**, which reports how random-access storage is allocated among running processes. High-speed processors depend on the **SRAM** chip, a form of static memory whose transistors hold state without constant refreshing. The **chip** itself—an intricate slice of silicon carrying millions of transistors—is the foundational unit of modern computing. When developers release software for public evaluation before its final version, they call that release a **beta**, collecting feedback before the product leaves testing. A **coded** instruction set tells a processor exactly which operations to perform, and the **goto** statement in older languages directs execution to jump to a named point in a program.
+Modern science and engineering draw on an extraordinarily diverse vocabulary. In computer networks, the [FTP]{.vocab tabindex="0" data-def="FTP abbr. 文件传输协议"} protocol allows machines to transfer files reliably across distances, while background services such as [BITS]{.vocab tabindex="0" data-def="BITS abbr. 后台智能传输服务；建设集成时序供应；二进制数字 bits齿片"} quietly move data without interrupting the user. Every operating system—collectively referred to as [OSes]{.vocab tabindex="0" data-def="OSes abbr. 操作系统"}—manages memory through commands like [mem]{.vocab tabindex="0" data-def="mem · n. DOS命令：显示随机存取存贮器的分配信息"}, which reports how random-access storage is allocated among running processes. High-speed processors depend on the [SRAM]{.vocab tabindex="0" data-def="SRAM abbr. 近程攻击飞弹；静态随机存储器"} chip, a form of static memory whose transistors hold state without constant refreshing. The [chip]{.vocab tabindex="0" data-def="chip · n. 芯片；集成电路片 ; 缺口，缺损处；碎屑，碎片，碎渣; 油炸土豆条；炸薯条; 筹码; 打破；弄缺；被…"} itself—an intricate slice of silicon carrying millions of transistors—is the foundational unit of modern computing. When developers release software for public evaluation before its final version, they call that release a [beta]{.vocab tabindex="0" data-def="beta · n. 贝塔，希腊字母表的第2个字母; 产品测试版"}, collecting feedback before the product leaves testing. A [coded]{.vocab tabindex="0" data-def="coded · adj. 电码的;编码的"} instruction set tells a processor exactly which operations to perform, and the [goto]{.vocab tabindex="0" data-def="goto · vt. 转到; 转到"} statement in older languages directs execution to jump to a named point in a program.
 
-Beyond digital systems, the physical sciences rely on a different set of measures and materials. The **rad** is a legacy unit of absorbed radiation dose, now largely replaced by the gray in formal contexts. An **ion** is an atom or molecule that carries a net electric charge, and **ionic** bonds—formed between oppositely charged ions—hold many crystalline solids together. **HCN**, or hydrogen cyanide, is a small molecule studied in atmospheric chemistry and astrochemistry for its role in the formation of organic compounds. A **gauge** instrument measures physical quantities such as pressure or wire diameter, giving engineers a precise numerical value. **Fiber** optics transmit data as pulses of light through thin strands of glass or polymer, exploiting **optic** principles to carry signals over long distances with minimal loss. A **prism** refracts white light into its component wavelengths, demonstrating that color is a property of frequency rather than of the light source itself. A **focal** point is where parallel rays converge after passing through a lens or reflecting off a curved mirror—the concept underpins everything from telescopes to microscopes.
+Beyond digital systems, the physical sciences rely on a different set of measures and materials. The [rad]{.vocab tabindex="0" data-def="rad · n. 拉德"} is a legacy unit of absorbed radiation dose, now largely replaced by the gray in formal contexts. An [ion]{.vocab tabindex="0" data-def="ion · n. 离子"} is an atom or molecule that carries a net electric charge, and [ionic]{.vocab tabindex="0" data-def="ionic · adj. 离子的；电价的；爱奥尼亚柱式的 爱奥尼亚语；一种粗字面铅字"} bonds—formed between oppositely charged ions—hold many crystalline solids together. [HCN]{.vocab tabindex="0" data-def="HCN abbr. 氰化氢；多机种计算机网络；同机种计算机网络"}, or hydrogen cyanide, is a small molecule studied in atmospheric chemistry and astrochemistry for its role in the formation of organic compounds. A [gauge]{.vocab tabindex="0" data-def="gauge · n. 厚度, 直径; 测量仪表; 规格, 尺度; 计量, 度量; 估计, 判断"} instrument measures physical quantities such as pressure or wire diameter, giving engineers a precise numerical value. [Fiber]{.vocab tabindex="0" data-def="fiber · n. 纤维；光纤"} optics transmit data as pulses of light through thin strands of glass or polymer, exploiting [optic]{.vocab tabindex="0" data-def="optic · adj. 视觉的；光学的；眼睛的; 镜片；眼睛"} principles to carry signals over long distances with minimal loss. A [prism]{.vocab tabindex="0" data-def="prism · n. 棱柱；棱镜"} refracts white light into its component wavelengths, demonstrating that color is a property of frequency rather than of the light source itself. A [focal]{.vocab tabindex="0" data-def="focal · adj. 焦点的，在焦点上的；灶的，病灶的"} point is where parallel rays converge after passing through a lens or reflecting off a curved mirror—the concept underpins everything from telescopes to microscopes.
 
-In the life sciences and earth sciences, classification and material structure matter equally. **Taxa** are the formal groupings of organisms in biological classification, while a **clade** represents a lineage that shares a single common ancestor, a concept central to evolutionary biology. **Cocci** are spherical bacteria, one of the three basic morphological types recognised in microbiology. An **assay** is a quantitative test—chemical, biological, or biochemical—used to determine the presence or concentration of a substance in a sample. **Drusy** surfaces, studded with tiny interlocking crystals, form inside rock cavities when mineral-rich **fluid** slowly precipitates solid material; the geometry of a **bulb**-shaped cavity or a hollow geode controls how these crystals grow. **Pagon** organisms live within the interior of glacial ice, adapted to extreme cold and low nutrient availability. A satellite placed in **orbit** around Earth follows a precise elliptical path governed by gravitational balance, and **UAV** platforms—unmanned aerial vehicles—now carry scientific instruments into environments too hazardous for crewed flight. The **ANTS** system, an airborne night-television array, demonstrates how **optic** sensors mounted on UAVs extend observation into darkness. Finally, **ATES** technology stores thermal energy in underground aquifers, offering a sustainable way to buffer seasonal heat loads in buildings.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **FTP** | abbr. 文件传输协议 |
-| **HCN** | abbr. 氰化氢；多机种计算机网络；同机种计算机网络 |
-| **ion** <span class="wpos">n.</span> | 离子 |
-| **mem** <span class="wpos">n.</span> | DOS命令：显示随机存取存贮器的分配信息 |
-| **rad** <span class="wpos">n.</span> | 拉德 |
-| **UAV** | abbr. 无人机 |
-| **ANTS** | abbr. Airborne Night Television System 机载夜间电视系统 |
-| **ATES** | abbr. 含水层储能系统 |
-| **beta** <span class="wpos">n.</span> | 贝塔，希腊字母表的第2个字母; 产品测试版 |
-| **BITS** | abbr. 后台智能传输服务；建设集成时序供应；二进制数字 bits齿片 |
-| **bulb** <span class="wpos">n.</span> | 电灯泡；球状物；鳞茎; 生球茎；膨胀成球状 |
-| **chip** <span class="wpos">n.</span> | 芯片；集成电路片 ; 缺口，缺损处；碎屑，碎片，碎渣; 油炸土豆条；炸薯条; 筹码; 打破；弄缺；被… |
-| **goto** <span class="wpos">vt.</span> | 转到; 转到 |
-| **OSes** | abbr. 操作系统 |
-| **SRAM** | abbr. 近程攻击飞弹；静态随机存储器 |
-| **taxa** <span class="wpos">n.</span> | 分类 |
-| **assay** <span class="wpos">n.</span> | 化验; 试金；分析试验; 化验报告，分析报告; 试样，试料; 试验；分析评价; 尝试; 化验; 试验… |
-| **clade** <span class="wpos">n.</span> | 分化枝；进化枝 |
-| **cocci** <span class="wpos">n.</span> | 球菌 |
-| **coded** <span class="wpos">adj.</span> | 电码的;编码的 |
-| **drusy** <span class="wpos">n.</span> | 晶簇状；晶簇，晶洞；空洞 |
-| **fiber** <span class="wpos">n.</span> | 纤维；光纤 |
-| **fluid** <span class="wpos">adj.</span> | 流动的；不固定的；流畅的; 流体；液体 |
-| **focal** <span class="wpos">adj.</span> | 焦点的，在焦点上的；灶的，病灶的 |
-| **gauge** <span class="wpos">n.</span> | 厚度, 直径; 测量仪表; 规格, 尺度; 计量, 度量; 估计, 判断 |
-| **ionic** <span class="wpos">adj.</span> | 离子的；电价的；爱奥尼亚柱式的 爱奥尼亚语；一种粗字面铅字 |
-| **optic** <span class="wpos">adj.</span> | 视觉的；光学的；眼睛的; 镜片；眼睛 |
-| **orbit** <span class="wpos">n.</span> | 轨道；眼眶；势力范围；生活常规; 盘旋；绕轨道运行; 绕…轨道而行 |
-| **pagon** <span class="wpos">n.</span> | 冰内生物 |
-| **prism** <span class="wpos">n.</span> | 棱柱；棱镜 |
-:::
-:::
-::::
+In the life sciences and earth sciences, classification and material structure matter equally. [Taxa]{.vocab tabindex="0" data-def="taxa · n. 分类"} are the formal groupings of organisms in biological classification, while a [clade]{.vocab tabindex="0" data-def="clade · n. 分化枝；进化枝"} represents a lineage that shares a single common ancestor, a concept central to evolutionary biology. [Cocci]{.vocab tabindex="0" data-def="cocci · n. 球菌"} are spherical bacteria, one of the three basic morphological types recognised in microbiology. An [assay]{.vocab tabindex="0" data-def="assay · n. 化验; 试金；分析试验; 化验报告，分析报告; 试样，试料; 试验；分析评价; 尝试; 化验; 试验…"} is a quantitative test—chemical, biological, or biochemical—used to determine the presence or concentration of a substance in a sample. [Drusy]{.vocab tabindex="0" data-def="drusy · n. 晶簇状；晶簇，晶洞；空洞"} surfaces, studded with tiny interlocking crystals, form inside rock cavities when mineral-rich [fluid]{.vocab tabindex="0" data-def="fluid · adj. 流动的；不固定的；流畅的; 流体；液体"} slowly precipitates solid material; the geometry of a [bulb]{.vocab tabindex="0" data-def="bulb · n. 电灯泡；球状物；鳞茎; 生球茎；膨胀成球状"}-shaped cavity or a hollow geode controls how these crystals grow. [Pagon]{.vocab tabindex="0" data-def="pagon · n. 冰内生物"} organisms live within the interior of glacial ice, adapted to extreme cold and low nutrient availability. A satellite placed in [orbit]{.vocab tabindex="0" data-def="orbit · n. 轨道；眼眶；势力范围；生活常规; 盘旋；绕轨道运行; 绕…轨道而行"} around Earth follows a precise elliptical path governed by gravitational balance, and [UAV]{.vocab tabindex="0" data-def="UAV abbr. 无人机"} platforms—unmanned aerial vehicles—now carry scientific instruments into environments too hazardous for crewed flight. The [ANTS]{.vocab tabindex="0" data-def="ANTS abbr. Airborne Night Television System 机载夜间电视系统"} system, an airborne night-television array, demonstrates how [optic]{.vocab tabindex="0" data-def="optic · adj. 视觉的；光学的；眼睛的; 镜片；眼睛"} sensors mounted on UAVs extend observation into darkness. Finally, [ATES]{.vocab tabindex="0" data-def="ATES abbr. 含水层储能系统"} technology stores thermal energy in underground aquifers, offering a sustainable way to buffer seasonal heat loads in buildings.
 
 ### From Electrons to Enzymes: A Tour of Modern Science and Engineering
 
-:::: {.columns}
-::: {.column width="57%"}
-In classical geometry, **Euclid** established that a circle's **radius** is the distance from its center to any point on its **convex** boundary — a concept that reappears wherever scientists model curved surfaces, including the **torus**, a doughnut-shaped form whose outer surface curves outward in every cross-section. Such geometric ideas underpin the **matrix** calculations that engineers use daily, especially in **binary** and **unary** logic circuits where a **cursor** moves across a display driven by **analog** or digital signals. A **servo** mechanism, controlled by feedback loops, translates those signals into precise physical motion; a **valve** regulates the flow of gases or liquids within the same system, and when engineers need to **aerate** a fluid chamber they may route compressed air through a **porous** membrane.
+In classical geometry, [Euclid]{.vocab tabindex="0" data-def="Euclid · n. 欧几里得；欧几里德几何学"} established that a circle's [radius]{.vocab tabindex="0" data-def="radius · n. 半径，半径范围；辐射光线；有效航程；桡骨"} is the distance from its center to any point on its [convex]{.vocab tabindex="0" data-def="convex · adj. 凸的, 凸面的"} boundary — a concept that reappears wherever scientists model curved surfaces, including the [torus]{.vocab tabindex="0" data-def="torus · n. 花托；隆凸；圆环面"}, a doughnut-shaped form whose outer surface curves outward in every cross-section. Such geometric ideas underpin the [matrix]{.vocab tabindex="0" data-def="matrix · n. 铸模,模型; 发源地；母体,基质; 岩石,矿脉; 矩阵"} calculations that engineers use daily, especially in [binary]{.vocab tabindex="0" data-def="binary · adj. 二元的，二态的；二进制的"} and [unary]{.vocab tabindex="0" data-def="unary · adj. 一元的"} logic circuits where a [cursor]{.vocab tabindex="0" data-def="cursor · n. 光标"} moves across a display driven by [analog]{.vocab tabindex="0" data-def="analog · n. 类似物;同源语; 模拟; 有长短针的; 模拟的"} or digital signals. A [servo]{.vocab tabindex="0" data-def="servo · n. 伺服；伺服系统；随动系统"} mechanism, controlled by feedback loops, translates those signals into precise physical motion; a [valve]{.vocab tabindex="0" data-def="valve · n. 阀；活门；真空管；瓣膜; 装阀于；以活门调节"} regulates the flow of gases or liquids within the same system, and when engineers need to [aerate]{.vocab tabindex="0" data-def="aerate · vt. 充气；让空气进入；使暴露于空气中"} a fluid chamber they may route compressed air through a [porous]{.vocab tabindex="0" data-def="porous · adj. 能渗透的；有气孔的；多孔渗水的"} membrane.
 
-At the atomic scale, a **cation** carries a positive charge and is drawn toward a **magnet**-like negative electrode in electrolytic cells. Chemists working with **plasma** — an ionized gas — study how **photon** emission and absorption reveal elemental composition. **Butane**, a simple hydrocarbon, releases energy through combustion and can be mixed with **citric** acid solutions in certain industrial processes; to lower reactant concentration, a technician will **dilute** the mixture with distilled water. **Litmus** paper offers a quick colorimetric check of acidity, changing hue in response to **cation** concentration, while a **ligase** **enzyme** performs the opposite role in the cell — joining broken strands of DNA rather than breaking bonds.
+At the atomic scale, a [cation]{.vocab tabindex="0" data-def="cation · n. 阳离子；正离子"} carries a positive charge and is drawn toward a [magnet]{.vocab tabindex="0" data-def="magnet · n. 磁铁；磁石；磁体"}-like negative electrode in electrolytic cells. Chemists working with [plasma]{.vocab tabindex="0" data-def="plasma · n. 等离子体；血浆；深绿玉髓"} — an ionized gas — study how [photon]{.vocab tabindex="0" data-def="photon · n. 光子；辐射量子；见光度"} emission and absorption reveal elemental composition. [Butane]{.vocab tabindex="0" data-def="butane · n. 丁烷"}, a simple hydrocarbon, releases energy through combustion and can be mixed with [citric]{.vocab tabindex="0" data-def="citric · adj. 柠檬的,采自柠檬的"} acid solutions in certain industrial processes; to lower reactant concentration, a technician will [dilute]{.vocab tabindex="0" data-def="dilute · vt. 稀释, 冲淡; 稀释的, 冲淡的"} the mixture with distilled water. [Litmus]{.vocab tabindex="0" data-def="litmus · n. 石蕊"} paper offers a quick colorimetric check of acidity, changing hue in response to [cation]{.vocab tabindex="0" data-def="cation · n. 阳离子；正离子"} concentration, while a [ligase]{.vocab tabindex="0" data-def="ligase · n. 连接酶"} [enzyme]{.vocab tabindex="0" data-def="enzyme · n. 酶"} performs the opposite role in the cell — joining broken strands of DNA rather than breaking bonds.
 
-In molecular biology, a **gamete** carries half of an organism's **genome**, and each chromosome position may harbor one or more forms of an **allele**. Researchers in **botany** classify every plant species into a **taxon** within a formal hierarchy, then cross-reference its biochemical profile with known genetic databases. A **module** in a software pipeline can process these records using **fusion** of heterogeneous datasets, integrating sequence reads stored in flat files. The **analog** of this process in hardware is signal **fusion** inside a sensor array, where raw voltages are merged before being passed to downstream processing — a workflow that depends on robust **servo** control and precisely calibrated **valve** timing to keep every reaction chamber within tolerance.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **servo** <span class="wpos">n.</span> | 伺服；伺服系统；随动系统 |
-| **taxon** <span class="wpos">n.</span> | 分类单元；分类学; 分类的；分类学的 |
-| **torus** <span class="wpos">n.</span> | 花托；隆凸；圆环面 |
-| **unary** <span class="wpos">adj.</span> | 一元的 |
-| **valve** <span class="wpos">n.</span> | 阀；活门；真空管；瓣膜; 装阀于；以活门调节 |
-| **aerate** <span class="wpos">vt.</span> | 充气；让空气进入；使暴露于空气中 |
-| **allele** <span class="wpos">n.</span> | 等位基因 |
-| **analog** <span class="wpos">n.</span> | 类似物;同源语; 模拟; 有长短针的; 模拟的 |
-| **binary** <span class="wpos">adj.</span> | 二元的，二态的；二进制的 |
-| **botany** <span class="wpos">n.</span> | 植物学；地区植物总称 Botany澳洲细羊毛 |
-| **butane** <span class="wpos">n.</span> | 丁烷 |
-| **cation** <span class="wpos">n.</span> | 阳离子；正离子 |
-| **citric** <span class="wpos">adj.</span> | 柠檬的,采自柠檬的 |
-| **convex** <span class="wpos">adj.</span> | 凸的, 凸面的 |
-| **cursor** <span class="wpos">n.</span> | 光标 |
-| **dilute** <span class="wpos">vt.</span> | 稀释, 冲淡; 稀释的, 冲淡的 |
-| **enzyme** <span class="wpos">n.</span> | 酶 |
-| **Euclid** <span class="wpos">n.</span> | 欧几里得；欧几里德几何学 |
-| **fusion** <span class="wpos">n.</span> | 融合物；熔化；融合；熔接 |
-| **gamete** <span class="wpos">n.</span> | 配子，配偶子 |
-| **genome** <span class="wpos">n.</span> | 基因组；染色体组 |
-| **ligase** <span class="wpos">n.</span> | 连接酶 |
-| **litmus** <span class="wpos">n.</span> | 石蕊 |
-| **magnet** <span class="wpos">n.</span> | 磁铁；磁石；磁体 |
-| **matrix** <span class="wpos">n.</span> | 铸模,模型; 发源地；母体,基质; 岩石,矿脉; 矩阵 |
-| **module** <span class="wpos">n.</span> | 单元, 单位; 舱 |
-| **photon** <span class="wpos">n.</span> | 光子；辐射量子；见光度 |
-| **plasma** <span class="wpos">n.</span> | 等离子体；血浆；深绿玉髓 |
-| **porous** <span class="wpos">adj.</span> | 能渗透的；有气孔的；多孔渗水的 |
-| **radius** <span class="wpos">n.</span> | 半径，半径范围；辐射光线；有效航程；桡骨 |
-:::
-:::
-::::
+In molecular biology, a [gamete]{.vocab tabindex="0" data-def="gamete · n. 配子，配偶子"} carries half of an organism's [genome]{.vocab tabindex="0" data-def="genome · n. 基因组；染色体组"}, and each chromosome position may harbor one or more forms of an [allele]{.vocab tabindex="0" data-def="allele · n. 等位基因"}. Researchers in [botany]{.vocab tabindex="0" data-def="botany · n. 植物学；地区植物总称 Botany澳洲细羊毛"} classify every plant species into a [taxon]{.vocab tabindex="0" data-def="taxon · n. 分类单元；分类学; 分类的；分类学的"} within a formal hierarchy, then cross-reference its biochemical profile with known genetic databases. A [module]{.vocab tabindex="0" data-def="module · n. 单元, 单位; 舱"} in a software pipeline can process these records using [fusion]{.vocab tabindex="0" data-def="fusion · n. 融合物；熔化；融合；熔接"} of heterogeneous datasets, integrating sequence reads stored in flat files. The [analog]{.vocab tabindex="0" data-def="analog · n. 类似物;同源语; 模拟; 有长短针的; 模拟的"} of this process in hardware is signal [fusion]{.vocab tabindex="0" data-def="fusion · n. 融合物；熔化；融合；熔接"} inside a sensor array, where raw voltages are merged before being passed to downstream processing — a workflow that depends on robust [servo]{.vocab tabindex="0" data-def="servo · n. 伺服；伺服系统；随动系统"} control and precisely calibrated [valve]{.vocab tabindex="0" data-def="valve · n. 阀；活门；真空管；瓣膜; 装阀于；以活门调节"} timing to keep every reaction chamber within tolerance.
 
 ### From Zygotes to Networks: A Tour of Science and Engineering Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-In living cells, life begins when two gametes fuse to form a **zygote**, a diploid cell carrying paired **alleles** from each parent. Should certain ancestral traits resurface unexpectedly in a descendant, biologists describe the event as **atavism**. Researchers studying cell division often map the **chiasma** — the X-shaped crossover point where homologous chromosomes exchange segments — on **diploid** organisms. To investigate molecular structures, scientists may **dissect** chromosomes biochemically, separating **ribose**-containing RNA strands from their protein partners. In aqueous systems, a **solute** dissolved in water can gradually **acidify** the solution if it releases hydrogen ions; if that concentration becomes too high, **bacilli** and other microbes struggle to survive. Geneticists routinely purify DNA using **agarose** gel electrophoresis, casting the gel from powders derived from seaweed. Meanwhile, ecologists track **biomass** across ecosystems to assess how energy flows through food webs.
+In living cells, life begins when two gametes fuse to form a [zygote]{.vocab tabindex="0" data-def="zygote · n. 受精卵；接合子"}, a diploid cell carrying paired [alleles]{.vocab tabindex="0" data-def="alleles · n. 对立形质；等位基因；对偶基因"} from each parent. Should certain ancestral traits resurface unexpectedly in a descendant, biologists describe the event as [atavism]{.vocab tabindex="0" data-def="atavism · n. 返祖现象；隔代遗传"}. Researchers studying cell division often map the [chiasma]{.vocab tabindex="0" data-def="chiasma · n. 交叉；视神经交叉"} — the X-shaped crossover point where homologous chromosomes exchange segments — on [diploid]{.vocab tabindex="0" data-def="diploid · adj. 倍数的；双倍的；双重的; 二倍体；倍数染色体"} organisms. To investigate molecular structures, scientists may [dissect]{.vocab tabindex="0" data-def="dissect · vt. 解剖; 仔细分析或研究"} chromosomes biochemically, separating [ribose]{.vocab tabindex="0" data-def="ribose · n. 核糖；核酸糖"}-containing RNA strands from their protein partners. In aqueous systems, a [solute]{.vocab tabindex="0" data-def="solute · n. 溶解物,溶质"} dissolved in water can gradually [acidify]{.vocab tabindex="0" data-def="acidify · vi. 酸化；变酸; 使……成酸；使……酸化"} the solution if it releases hydrogen ions; if that concentration becomes too high, [bacilli]{.vocab tabindex="0" data-def="bacilli · n. 细菌,杆菌"} and other microbes struggle to survive. Geneticists routinely purify DNA using [agarose]{.vocab tabindex="0" data-def="agarose · n. 琼脂糖"} gel electrophoresis, casting the gel from powders derived from seaweed. Meanwhile, ecologists track [biomass]{.vocab tabindex="0" data-def="biomass · n. 生物的数量"} across ecosystems to assess how energy flows through food webs.
 
-Chemistry and materials science occupy an equally rich territory. **Camphor**, a waxy compound extracted from camphor laurel, was historically one of the first natural materials replaced by synthetic alternatives. **Acrylic** polymers and synthetic **resins** now serve as structural and optical materials in everything from safety glass to medical implants. When carbon combines with two oxygen atoms, it forms **dioxide** compounds such as carbon dioxide — a molecule central to both respiration and atmospheric science. The **valent** electrons at the outer shell of an atom determine how it bonds; understanding valence is foundational to predicting molecular geometry. In physics laboratories, a **vacuum** chamber removes air to eliminate friction and interference, allowing scientists to observe phenomena in near-perfect isolation. Certain quantities in physics, such as temperature or mass, are described as **scalar** — they carry magnitude alone, with no directional component.
+Chemistry and materials science occupy an equally rich territory. [Camphor]{.vocab tabindex="0" data-def="camphor · n. 莰酮，樟脑"}, a waxy compound extracted from camphor laurel, was historically one of the first natural materials replaced by synthetic alternatives. [Acrylic]{.vocab tabindex="0" data-def="acrylic · adj. 丙烯酸的"} polymers and synthetic [resins]{.vocab tabindex="0" data-def="resins · n. 树脂；松香酯; 用树脂处理"} now serve as structural and optical materials in everything from safety glass to medical implants. When carbon combines with two oxygen atoms, it forms [dioxide]{.vocab tabindex="0" data-def="dioxide · n. 二氧化物"} compounds such as carbon dioxide — a molecule central to both respiration and atmospheric science. The [valent]{.vocab tabindex="0" data-def="valent · adj. 价的"} electrons at the outer shell of an atom determine how it bonds; understanding valence is foundational to predicting molecular geometry. In physics laboratories, a [vacuum]{.vocab tabindex="0" data-def="vacuum · n. 真空; 〈口〉真空吸尘器; 空间; 空虚; 空白; 用真空吸尘器清扫"} chamber removes air to eliminate friction and interference, allowing scientists to observe phenomena in near-perfect isolation. Certain quantities in physics, such as temperature or mass, are described as [scalar]{.vocab tabindex="0" data-def="scalar · adj. 数量的；标量的；梯状的，分等级的; 数量；标量"} — they carry magnitude alone, with no directional component.
 
-Engineering and computing connect these physical principles to practical infrastructure. A **router** in a computer network directs data packets between nodes, often relying on **coaxial** cables whose inner and outer conductors share a common axis to minimise signal loss. Engineers **compile** source code into machine-readable binaries before deployment; background **daemons** then run silently on servers to handle scheduled tasks without user interaction. When a team decides to **rebase** a version-control branch, they replay its commits on top of a new starting point to keep history clean. A **webcam** mounted above a laboratory bench can stream live footage for remote collaboration, its signal transmitted via **antenna** arrays to wireless receivers. A **conduit** — whether a physical pipe or a metaphorical channel — routes power or data safely from source to destination. In materials processing, **diluted** reagents reduce reaction intensity to controllable levels, and **static** charge build-up on surfaces must be managed to protect sensitive electronic components. Finally, **anthrop**-ology-informed design principles remind engineers that technology ultimately serves human needs — a perspective as important in circuit boards as it is in city planning.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **rebase** <span class="wpos">v.</span> | 重定的基准 |
-| **resins** <span class="wpos">n.</span> | 树脂；松香酯; 用树脂处理 |
-| **ribose** <span class="wpos">n.</span> | 核糖；核酸糖 |
-| **router** <span class="wpos">n.</span> | 路由器；刨路机；刳刨机 |
-| **scalar** <span class="wpos">adj.</span> | 数量的；标量的；梯状的，分等级的; 数量；标量 |
-| **solute** <span class="wpos">n.</span> | 溶解物,溶质 |
-| **static** <span class="wpos">adj.</span> | 静态的；静力的；静电的; 静电；静电干扰 |
-| **vacuum** <span class="wpos">n.</span> | 真空; 〈口〉真空吸尘器; 空间; 空虚; 空白; 用真空吸尘器清扫 |
-| **valent** <span class="wpos">adj.</span> | 价的 |
-| **webcam** | 网络摄影，画面可以通过互联网同步播出 |
-| **zygote** <span class="wpos">n.</span> | 受精卵；接合子 |
-| **acidify** <span class="wpos">vi.</span> | 酸化；变酸; 使……成酸；使……酸化 |
-| **acrylic** <span class="wpos">adj.</span> | 丙烯酸的 |
-| **agarose** <span class="wpos">n.</span> | 琼脂糖 |
-| **alleles** <span class="wpos">n.</span> | 对立形质；等位基因；对偶基因 |
-| **antenna** <span class="wpos">n.</span> | 天线；触角，触须 Antennan. antenae 触角 |
-| **anthrop** <span class="wpos">n.</span> | 人类学 |
-| **atavism** <span class="wpos">n.</span> | 返祖现象；隔代遗传 |
-| **bacilli** <span class="wpos">n.</span> | 细菌,杆菌 |
-| **biomass** <span class="wpos">n.</span> | 生物的数量 |
-| **camphor** <span class="wpos">n.</span> | 莰酮，樟脑 |
-| **chiasma** <span class="wpos">n.</span> | 交叉；视神经交叉 |
-| **coaxial** <span class="wpos">adj.</span> | 同轴的,共轴的 |
-| **compile** <span class="wpos">vt.</span> | 收集；编辑，编制 |
-| **conduit** <span class="wpos">n.</span> | 导管；导水管；沟渠 |
-| **daemons** <span class="wpos">n.</span> | 守护进程 |
-| **diluted** <span class="wpos">adj.</span> | 稀释的；无力的; 使减低；稀释 |
-| **dioxide** <span class="wpos">n.</span> | 二氧化物 |
-| **diploid** <span class="wpos">adj.</span> | 倍数的；双倍的；双重的; 二倍体；倍数染色体 |
-| **dissect** <span class="wpos">vt.</span> | 解剖; 仔细分析或研究 |
-:::
-:::
-::::
+Engineering and computing connect these physical principles to practical infrastructure. A [router]{.vocab tabindex="0" data-def="router · n. 路由器；刨路机；刳刨机"} in a computer network directs data packets between nodes, often relying on [coaxial]{.vocab tabindex="0" data-def="coaxial · adj. 同轴的,共轴的"} cables whose inner and outer conductors share a common axis to minimise signal loss. Engineers [compile]{.vocab tabindex="0" data-def="compile · vt. 收集；编辑，编制"} source code into machine-readable binaries before deployment; background [daemons]{.vocab tabindex="0" data-def="daemons · n. 守护进程"} then run silently on servers to handle scheduled tasks without user interaction. When a team decides to [rebase]{.vocab tabindex="0" data-def="rebase · v. 重定的基准"} a version-control branch, they replay its commits on top of a new starting point to keep history clean. A [webcam]{.vocab tabindex="0" data-def="webcam 网络摄影，画面可以通过互联网同步播出"} mounted above a laboratory bench can stream live footage for remote collaboration, its signal transmitted via [antenna]{.vocab tabindex="0" data-def="antenna · n. 天线；触角，触须 Antennan. antenae 触角"} arrays to wireless receivers. A [conduit]{.vocab tabindex="0" data-def="conduit · n. 导管；导水管；沟渠"} — whether a physical pipe or a metaphorical channel — routes power or data safely from source to destination. In materials processing, [diluted]{.vocab tabindex="0" data-def="diluted · adj. 稀释的；无力的; 使减低；稀释"} reagents reduce reaction intensity to controllable levels, and [static]{.vocab tabindex="0" data-def="static · adj. 静态的；静力的；静电的; 静电；静电干扰"} charge build-up on surfaces must be managed to protect sensitive electronic components. Finally, [anthrop]{.vocab tabindex="0" data-def="anthrop · n. 人类学"}-ology-informed design principles remind engineers that technology ultimately serves human needs — a perspective as important in circuit boards as it is in city planning.
 
 ### From Atoms to Algorithms: A Scientific Vocabulary Tour
 
-:::: {.columns}
-::: {.column width="57%"}
-Modern science draws on a vast lexicon that spans biology, chemistry, physics, and computing. In cell biology, reproduction at the cellular level proceeds through two distinct pathways. **Mitosis** produces two genetically identical daughter cells, while **meiosis** halves the chromosome count to yield **gametes** — the reproductive cells that fuse during fertilization. Early in development, the resulting **embryos** carry pluripotent cells whose fates have not yet been determined. Meanwhile, at the molecular level, DNA replication depends on **primase**, an enzyme that lays down the RNA primer required before the main polymerase can act. The broader class of **enzymes** — biological catalysts — drives nearly every metabolic reaction, including the conversion of **glucose** into usable energy. Some of those reactions involve **purines**, nitrogen-containing bases that form part of the DNA and RNA backbone. When cells need to move molecules across a membrane along a concentration gradient, they exploit **osmosis**, the passive diffusion of solvent through a selectively permeable barrier. Genetic engineers often introduce foreign DNA via a **plasmid**, a small circular DNA molecule that replicates independently inside a bacterial host. The mechanism of **ferment**ation, in which microorganisms break down sugars without oxygen, has been exploited industrially for centuries.
+Modern science draws on a vast lexicon that spans biology, chemistry, physics, and computing. In cell biology, reproduction at the cellular level proceeds through two distinct pathways. [Mitosis]{.vocab tabindex="0" data-def="mitosis · n. 有丝分裂,间接核分裂"} produces two genetically identical daughter cells, while [meiosis]{.vocab tabindex="0" data-def="meiosis · n. 减数分裂,成熟分裂"} halves the chromosome count to yield [gametes]{.vocab tabindex="0" data-def="gametes · n. 配子"} — the reproductive cells that fuse during fertilization. Early in development, the resulting [embryos]{.vocab tabindex="0" data-def="embryos · n. 晶胚"} carry pluripotent cells whose fates have not yet been determined. Meanwhile, at the molecular level, DNA replication depends on [primase]{.vocab tabindex="0" data-def="primase 引发酶"}, an enzyme that lays down the RNA primer required before the main polymerase can act. The broader class of [enzymes]{.vocab tabindex="0" data-def="enzymes 酶类"} — biological catalysts — drives nearly every metabolic reaction, including the conversion of [glucose]{.vocab tabindex="0" data-def="glucose · n. 葡萄糖；葡糖"} into usable energy. Some of those reactions involve [purines]{.vocab tabindex="0" data-def="purines · n. 嘌呤"}, nitrogen-containing bases that form part of the DNA and RNA backbone. When cells need to move molecules across a membrane along a concentration gradient, they exploit [osmosis]{.vocab tabindex="0" data-def="osmosis · n. 渗透；渗透性；渗透作用"}, the passive diffusion of solvent through a selectively permeable barrier. Genetic engineers often introduce foreign DNA via a [plasmid]{.vocab tabindex="0" data-def="plasmid · n. 质体；质粒"}, a small circular DNA molecule that replicates independently inside a bacterial host. The mechanism of [ferment]{.vocab tabindex="0" data-def="ferment · n. 酵素；发酵；动乱; 发酵；动乱; 使发酵；使动乱；酝酿"}ation, in which microorganisms break down sugars without oxygen, has been exploited industrially for centuries.
 
-Chemistry and materials science contribute equally rich vocabulary. A chemist may **distill** a mixture to separate components by boiling point, relying on a precise **formula** to control the process. **Gelatin** — derived from collagen — exemplifies how a biological **protein** can be processed into a commercially useful hydrocolloid. Metals such as copper and gold are **ductile**, meaning they can be drawn into wires without fracturing; this **elastic** deformation is governed by the material's modulus. The rare transition metal **iridium** is prized for its corrosion resistance, and **propane**, a three-carbon alkane, serves as a portable fuel in both industrial and domestic settings. Physicists working at the nuclear scale study the **neutron**, the uncharged particle in an atomic nucleus, and characterize elements through their **isotope**s — atoms sharing the same proton number but differing in neutron count. **Kinetic** energy — the energy of motion — is central to thermodynamics, while **inertia** describes a body's resistance to any change in that motion.
+Chemistry and materials science contribute equally rich vocabulary. A chemist may [distill]{.vocab tabindex="0" data-def="distill · v. 蒸馏，提取；滴下"} a mixture to separate components by boiling point, relying on a precise [formula]{.vocab tabindex="0" data-def="formula · n. 公式，准则；配方；婴儿食品"} to control the process. [Gelatin]{.vocab tabindex="0" data-def="gelatin · n. 明胶；动物胶；胶制品"} — derived from collagen — exemplifies how a biological [protein]{.vocab tabindex="0" data-def="protein · n. 蛋白质；朊; 蛋白质的"} can be processed into a commercially useful hydrocolloid. Metals such as copper and gold are [ductile]{.vocab tabindex="0" data-def="ductile · adj. 易教导的；易延展的；柔软的"}, meaning they can be drawn into wires without fracturing; this [elastic]{.vocab tabindex="0" data-def="elastic · adj. 有弹性的；易伸缩的；灵活的; 松紧带；橡皮圈"} deformation is governed by the material's modulus. The rare transition metal [iridium]{.vocab tabindex="0" data-def="iridium · n. 铱"} is prized for its corrosion resistance, and [propane]{.vocab tabindex="0" data-def="propane · n. 丙烷"}, a three-carbon alkane, serves as a portable fuel in both industrial and domestic settings. Physicists working at the nuclear scale study the [neutron]{.vocab tabindex="0" data-def="neutron · n. 中子; 不透中子的"}, the uncharged particle in an atomic nucleus, and characterize elements through their [isotope]{.vocab tabindex="0" data-def="isotope · n. 同位素"}s — atoms sharing the same proton number but differing in neutron count. [Kinetic]{.vocab tabindex="0" data-def="kinetic · adj. 运动的；活跃的"} energy — the energy of motion — is central to thermodynamics, while [inertia]{.vocab tabindex="0" data-def="inertia · n. 不活动, 惰性; 〈物〉惯性"} describes a body's resistance to any change in that motion.
 
-Engineering and computing round out the picture. Precision manufacturing relies on **gauging** — systematic measurement of dimensions against a reference standard. A flat cross-section or mold cavity is sometimes called a **matrice**, the shaping surface from which a part is formed. In computational geometry, a **polygon** defines a closed figure bounded by straight edges, and algorithms operating on large data sets frequently use **hashing** — mapping inputs to fixed-size indices — to achieve near-constant lookup times. **Ecology** informs green engineering, reminding designers that every material choice carries consequences for the surrounding environment. Regulators and safety systems often **inhibit** runaway reactions, applying control logic derived from the same mathematical **quartic** expressions that describe certain high-order dynamic systems. Together these concepts — from **isotope**s to **primase**, from **osmosis** to **polygon** — illustrate how scientific language crystallises centuries of discovery into precise, reusable terms.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **distill** <span class="wpos">v.</span> | 蒸馏，提取；滴下 |
-| **ductile** <span class="wpos">adj.</span> | 易教导的；易延展的；柔软的 |
-| **ecology** <span class="wpos">n.</span> | 生态学；社会生态学 |
-| **elastic** <span class="wpos">adj.</span> | 有弹性的；易伸缩的；灵活的; 松紧带；橡皮圈 |
-| **embryos** <span class="wpos">n.</span> | 晶胚 |
-| **enzymes** | 酶类 |
-| **ferment** <span class="wpos">n.</span> | 酵素；发酵；动乱; 发酵；动乱; 使发酵；使动乱；酝酿 |
-| **formula** <span class="wpos">n.</span> | 公式，准则；配方；婴儿食品 |
-| **gametes** <span class="wpos">n.</span> | 配子 |
-| **gauging** <span class="wpos">n.</span> | 计量；测定，测量 |
-| **gelatin** <span class="wpos">n.</span> | 明胶；动物胶；胶制品 |
-| **glucose** <span class="wpos">n.</span> | 葡萄糖；葡糖 |
-| **hashing** <span class="wpos">n.</span> | 散列法 |
-| **inertia** <span class="wpos">n.</span> | 不活动, 惰性; 〈物〉惯性 |
-| **inhibit** <span class="wpos">vt.</span> | 抑制；禁止 |
-| **iridium** <span class="wpos">n.</span> | 铱 |
-| **isotope** <span class="wpos">n.</span> | 同位素 |
-| **kinetic** <span class="wpos">adj.</span> | 运动的；活跃的 |
-| **matrice** <span class="wpos">n.</span> | 矩阵；真值表；母式 |
-| **meiosis** <span class="wpos">n.</span> | 减数分裂,成熟分裂 |
-| **mitosis** <span class="wpos">n.</span> | 有丝分裂,间接核分裂 |
-| **neutron** <span class="wpos">n.</span> | 中子; 不透中子的 |
-| **osmosis** <span class="wpos">n.</span> | 渗透；渗透性；渗透作用 |
-| **plasmid** <span class="wpos">n.</span> | 质体；质粒 |
-| **polygon** <span class="wpos">n.</span> | 多边形,多角形 |
-| **primase** | 引发酶 |
-| **propane** <span class="wpos">n.</span> | 丙烷 |
-| **protein** <span class="wpos">n.</span> | 蛋白质；朊; 蛋白质的 |
-| **purines** <span class="wpos">n.</span> | 嘌呤 |
-| **quartic** <span class="wpos">n.</span> | 四次式; 四次的 |
-:::
-:::
-::::
+Engineering and computing round out the picture. Precision manufacturing relies on [gauging]{.vocab tabindex="0" data-def="gauging · n. 计量；测定，测量"} — systematic measurement of dimensions against a reference standard. A flat cross-section or mold cavity is sometimes called a [matrice]{.vocab tabindex="0" data-def="matrice · n. 矩阵；真值表；母式"}, the shaping surface from which a part is formed. In computational geometry, a [polygon]{.vocab tabindex="0" data-def="polygon · n. 多边形,多角形"} defines a closed figure bounded by straight edges, and algorithms operating on large data sets frequently use [hashing]{.vocab tabindex="0" data-def="hashing · n. 散列法"} — mapping inputs to fixed-size indices — to achieve near-constant lookup times. [Ecology]{.vocab tabindex="0" data-def="ecology · n. 生态学；社会生态学"} informs green engineering, reminding designers that every material choice carries consequences for the surrounding environment. Regulators and safety systems often [inhibit]{.vocab tabindex="0" data-def="inhibit · vt. 抑制；禁止"} runaway reactions, applying control logic derived from the same mathematical [quartic]{.vocab tabindex="0" data-def="quartic · n. 四次式; 四次的"} expressions that describe certain high-order dynamic systems. Together these concepts — from [isotope]{.vocab tabindex="0" data-def="isotope · n. 同位素"}s to [primase]{.vocab tabindex="0" data-def="primase 引发酶"}, from [osmosis]{.vocab tabindex="0" data-def="osmosis · n. 渗透；渗透性；渗透作用"} to [polygon]{.vocab tabindex="0" data-def="polygon · n. 多边形,多角形"} — illustrate how scientific language crystallises centuries of discovery into precise, reusable terms.
 
 ### From Atoms to Algorithms: A Survey of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-In the study of chemistry and molecular biology, researchers frequently examine how **solutes** behave when dissolved in solution, often adjusting **dilution** ratios to reach precise concentrations for experiments. Within living cells, **cellular** processes depend on **covalent** bonds that hold molecules together, while enzymes such as **catalase** break down harmful peroxides. The nucleotide base **thymine** pairs with adenine in DNA, and the field of **genomics** has revealed how an organism's **genotype** — its full set of inherited instructions — shapes observable traits. **Heredity** itself is governed by the faithful copying of these molecular blueprints from generation to generation.
+In the study of chemistry and molecular biology, researchers frequently examine how [solutes]{.vocab tabindex="0" data-def="solutes · n. 溶解物；溶质"} behave when dissolved in solution, often adjusting [dilution]{.vocab tabindex="0" data-def="dilution · n. 稀释，冲淡；稀释法；冲淡物"} ratios to reach precise concentrations for experiments. Within living cells, [cellular]{.vocab tabindex="0" data-def="cellular · adj. 细胞的；多孔的；由细胞组成的; 移动电话；单元"} processes depend on [covalent]{.vocab tabindex="0" data-def="covalent · adj. 共价的；共有原子价的"} bonds that hold molecules together, while enzymes such as [catalase]{.vocab tabindex="0" data-def="catalase · n. 接触酵素,过氧化氢酶"} break down harmful peroxides. The nucleotide base [thymine]{.vocab tabindex="0" data-def="thymine · n. 胸腺嘧啶"} pairs with adenine in DNA, and the field of [genomics]{.vocab tabindex="0" data-def="genomics 基因组学"} has revealed how an organism's [genotype]{.vocab tabindex="0" data-def="genotype · n. 基因型；遗传型"} — its full set of inherited instructions — shapes observable traits. [Heredity]{.vocab tabindex="0" data-def="heredity · n. 遗传"} itself is governed by the faithful copying of these molecular blueprints from generation to generation.
 
-Physics and engineering supply an equally rich vocabulary. **Buoyancy**, described by Archimedes' principle, explains why objects float or sink in a fluid, while **suction** — the pressure differential that draws fluid upward — underlies everything from pumps to medical devices. A rotating **cylinder** appears in engines and hydraulic systems alike, and the **theorem** of energy conservation underpins the design of every such machine. In nuclear science, **tritium**, a radioactive hydrogen isotope, is studied as a fuel candidate for fusion reactors. Meanwhile, astronomers track each newly discovered **asteroid** to assess orbital risk, applying equations of motion that **condense** centuries of celestial mechanics into compact form. The central **equation** governing a physical system often contains **elements** drawn from geometry, including **diagonal** components of a matrix or tensor.
+Physics and engineering supply an equally rich vocabulary. [Buoyancy]{.vocab tabindex="0" data-def="buoyancy · n. 浮性; 浮力; 恢复正常的能力,恢复乐观; 维持力,恢复力,上涨行情,增长趋势"}, described by Archimedes' principle, explains why objects float or sink in a fluid, while [suction]{.vocab tabindex="0" data-def="suction · n. 抽吸；吸力；吸"} — the pressure differential that draws fluid upward — underlies everything from pumps to medical devices. A rotating [cylinder]{.vocab tabindex="0" data-def="cylinder · n. 圆筒, 圆柱体; 汽缸, 泵体"} appears in engines and hydraulic systems alike, and the [theorem]{.vocab tabindex="0" data-def="theorem · n. 定理；命题; 原理,原则"} of energy conservation underpins the design of every such machine. In nuclear science, [tritium]{.vocab tabindex="0" data-def="tritium · n. 氚；超重氢"}, a radioactive hydrogen isotope, is studied as a fuel candidate for fusion reactors. Meanwhile, astronomers track each newly discovered [asteroid]{.vocab tabindex="0" data-def="asteroid · n. 小行星；海盘车；小游星; 星状的"} to assess orbital risk, applying equations of motion that [condense]{.vocab tabindex="0" data-def="condense · vi. 浓缩；凝结; 使浓缩；使压缩"} centuries of celestial mechanics into compact form. The central [equation]{.vocab tabindex="0" data-def="equation · n. 方程式，等式；相等；反应式"} governing a physical system often contains [elements]{.vocab tabindex="0" data-def="elements · n. 基础；原理"} drawn from geometry, including [diagonal]{.vocab tabindex="0" data-def="diagonal · n. 对角线; 斜线; 对角线的; 斜线的; 对角线地,斜线地"} components of a matrix or tensor.
 
-Digital technology brings its own set of terms. **WYSIWYG** editors let authors see formatted output as they type, eliminating the gap between source markup and final appearance. **Aliasing** distortions arise when a signal is sampled below the Nyquist rate, producing misleading artifacts; software **emulator** platforms reproduce legacy hardware behavior so that older programs run on modern systems despite their **glitches**. **Synchro** transmission protocols ensure that sender and receiver stay aligned in time, while **binaural** audio recordings — capturing sound separately for each ear — create immersive spatial experiences in headphones. The neurotransmitter **dopamine** is increasingly studied in the context of reward-based user-interface design, with researchers observing how notification patterns influence behavior at the **cellular** level of neural circuitry. Tiny **granules** of semiconductor material form the basis of quantum-dot displays, and the **diffused** scattering of light through such materials governs screen color accuracy. Finally, **cryonics** research investigates ultra-low-temperature preservation, a field that intersects materials science, biology, and engineering ethics in equal measure. A **catalyst** for interdisciplinary collaboration, it illustrates how the **elements** of multiple disciplines must combine before any genuinely new frontier can open.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **solutes** <span class="wpos">n.</span> | 溶解物；溶质 |
-| **suction** <span class="wpos">n.</span> | 抽吸；吸力；吸 |
-| **synchro** <span class="wpos">adj.</span> | 同步的 |
-| **theorem** <span class="wpos">n.</span> | 定理；命题; 原理,原则 |
-| **thymine** <span class="wpos">n.</span> | 胸腺嘧啶 |
-| **tritium** <span class="wpos">n.</span> | 氚；超重氢 |
-| **WYSIWYG** | abbr. What You See Is What You Get 所见即所得 |
-| **aliasing** <span class="wpos">n.</span> | 别名使用；混淆现象 |
-| **asteroid** <span class="wpos">n.</span> | 小行星；海盘车；小游星; 星状的 |
-| **binaural** <span class="wpos">adj.</span> | 有两耳的；两耳用的；双声道的 |
-| **buoyancy** <span class="wpos">n.</span> | 浮性; 浮力; 恢复正常的能力,恢复乐观; 维持力,恢复力,上涨行情,增长趋势 |
-| **catalase** <span class="wpos">n.</span> | 接触酵素,过氧化氢酶 |
-| **catalyst** <span class="wpos">n.</span> | 催化剂，触媒; 促进因素；有感染力的人，能激发对方的人 |
-| **cellular** <span class="wpos">adj.</span> | 细胞的；多孔的；由细胞组成的; 移动电话；单元 |
-| **condense** <span class="wpos">vi.</span> | 浓缩；凝结; 使浓缩；使压缩 |
-| **covalent** <span class="wpos">adj.</span> | 共价的；共有原子价的 |
-| **cryonics** <span class="wpos">n.</span> | 人体冷冻法 |
-| **cylinder** <span class="wpos">n.</span> | 圆筒, 圆柱体; 汽缸, 泵体 |
-| **diagonal** <span class="wpos">n.</span> | 对角线; 斜线; 对角线的; 斜线的; 对角线地,斜线地 |
-| **diffused** <span class="wpos">adj.</span> | 散布的，扩散的；普及的; 使分散；散布，传播 |
-| **dilution** <span class="wpos">n.</span> | 稀释，冲淡；稀释法；冲淡物 |
-| **dopamine** <span class="wpos">n.</span> | 多巴胺 |
-| **elements** <span class="wpos">n.</span> | 基础；原理 |
-| **emulator** <span class="wpos">n.</span> | 竞争者 |
-| **equation** <span class="wpos">n.</span> | 方程式，等式；相等；反应式 |
-| **genomics** | 基因组学 |
-| **genotype** <span class="wpos">n.</span> | 基因型；遗传型 |
-| **glitches** <span class="wpos">n.</span> | 小毛病；小故障 |
-| **granules** | 粒料 |
-| **heredity** <span class="wpos">n.</span> | 遗传 |
-:::
-:::
-::::
+Digital technology brings its own set of terms. [WYSIWYG]{.vocab tabindex="0" data-def="WYSIWYG abbr. What You See Is What You Get 所见即所得"} editors let authors see formatted output as they type, eliminating the gap between source markup and final appearance. [Aliasing]{.vocab tabindex="0" data-def="aliasing · n. 别名使用；混淆现象"} distortions arise when a signal is sampled below the Nyquist rate, producing misleading artifacts; software [emulator]{.vocab tabindex="0" data-def="emulator · n. 竞争者"} platforms reproduce legacy hardware behavior so that older programs run on modern systems despite their [glitches]{.vocab tabindex="0" data-def="glitches · n. 小毛病；小故障"}. [Synchro]{.vocab tabindex="0" data-def="synchro · adj. 同步的"} transmission protocols ensure that sender and receiver stay aligned in time, while [binaural]{.vocab tabindex="0" data-def="binaural · adj. 有两耳的；两耳用的；双声道的"} audio recordings — capturing sound separately for each ear — create immersive spatial experiences in headphones. The neurotransmitter [dopamine]{.vocab tabindex="0" data-def="dopamine · n. 多巴胺"} is increasingly studied in the context of reward-based user-interface design, with researchers observing how notification patterns influence behavior at the [cellular]{.vocab tabindex="0" data-def="cellular · adj. 细胞的；多孔的；由细胞组成的; 移动电话；单元"} level of neural circuitry. Tiny [granules]{.vocab tabindex="0" data-def="granules 粒料"} of semiconductor material form the basis of quantum-dot displays, and the [diffused]{.vocab tabindex="0" data-def="diffused · adj. 散布的，扩散的；普及的; 使分散；散布，传播"} scattering of light through such materials governs screen color accuracy. Finally, [cryonics]{.vocab tabindex="0" data-def="cryonics · n. 人体冷冻法"} research investigates ultra-low-temperature preservation, a field that intersects materials science, biology, and engineering ethics in equal measure. A [catalyst]{.vocab tabindex="0" data-def="catalyst · n. 催化剂，触媒; 促进因素；有感染力的人，能激发对方的人"} for interdisciplinary collaboration, it illustrates how the [elements]{.vocab tabindex="0" data-def="elements · n. 基础；原理"} of multiple disciplines must combine before any genuinely new frontier can open.
 
 ### From Molecules to Networks: A Survey of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-In the study of evolutionary biology, researchers classify **hominids** — the family that includes modern humans and their closest ancestors — by examining skeletal **homology**, the structural correspondence between bones across species. When a specimen appears **humanoid** but predates *Homo sapiens* by millions of years, scientists use isotopic analysis to establish its age: different **isotopes** of carbon and nitrogen decay at known rates, giving reliable chronological markers. **Nitrogen**, along with **hydrogen**, is also central to organic chemistry, where both elements form the backbone of the **molecule** — the smallest unit of a substance that retains its chemical identity.
+In the study of evolutionary biology, researchers classify [hominids]{.vocab tabindex="0" data-def="hominids · n. 人种；人科"} — the family that includes modern humans and their closest ancestors — by examining skeletal [homology]{.vocab tabindex="0" data-def="homology · n. 相同,同族关系,异体同形"}, the structural correspondence between bones across species. When a specimen appears [humanoid]{.vocab tabindex="0" data-def="humanoid · adj. 像人的; 类人动物"} but predates *Homo sapiens* by millions of years, scientists use isotopic analysis to establish its age: different [isotopes]{.vocab tabindex="0" data-def="isotopes · n. 同位素"} of carbon and nitrogen decay at known rates, giving reliable chronological markers. [Nitrogen]{.vocab tabindex="0" data-def="nitrogen · n. 氮"}, along with [hydrogen]{.vocab tabindex="0" data-def="hydrogen · n. 氢"}, is also central to organic chemistry, where both elements form the backbone of the [molecule]{.vocab tabindex="0" data-def="molecule · n. 分子"} — the smallest unit of a substance that retains its chemical identity.
 
-In the laboratory, many biological experiments are conducted **in vitro**, meaning reactions occur outside a living organism, typically in controlled glassware. A common target of such work is the **ribosome**, the cellular machine that translates genetic code into protein. Researchers may introduce engineered **plasmids** — small circular DNA strands — into cells to observe how a deliberate **mutation** alters protein production. The related practice of **pharming** refers to using genetically modified organisms to produce pharmaceutical compounds at scale. Cells can also be analysed through a **polaroid**-filtered microscope to study how light interacts with biological structures, exploiting **magnetic** fields or polarised optics to enhance contrast.
+In the laboratory, many biological experiments are conducted [in vitro]{.vocab tabindex="0" data-def="in vitro 在试管内"}, meaning reactions occur outside a living organism, typically in controlled glassware. A common target of such work is the [ribosome]{.vocab tabindex="0" data-def="ribosome · n. 核糖体"}, the cellular machine that translates genetic code into protein. Researchers may introduce engineered [plasmids]{.vocab tabindex="0" data-def="plasmids 质体"} — small circular DNA strands — into cells to observe how a deliberate [mutation]{.vocab tabindex="0" data-def="mutation · n. 突变；变化；元音变化"} alters protein production. The related practice of [pharming]{.vocab tabindex="0" data-def="pharming · n. 嫁接；网域嫁接"} refers to using genetically modified organisms to produce pharmaceutical compounds at scale. Cells can also be analysed through a [polaroid]{.vocab tabindex="0" data-def="polaroid · n. 偏振片, 偏光薄膜 Polaroidn. 人造偏光板; 宝丽来一次成像照相机"}-filtered microscope to study how light interacts with biological structures, exploiting [magnetic]{.vocab tabindex="0" data-def="magnetic · adj. 有磁性的, 有吸引力的; 磁性的"} fields or polarised optics to enhance contrast.
 
-On the engineering and data side, a crystal or atomic arrangement is often described as a set of **lattices**, and the physical properties of materials depend heavily on how atoms **multiply** within these regular grids. When designing thermal systems, engineers **saturate** insulating layers with inert gas and **insulate** components to prevent heat transfer. Within a corporate environment, sensitive experimental data travels over a protected **intranet** rather than the public internet. Quantitative results are recorded using a consistent mathematical **notation**: each data point is plotted on a coordinate plane where the **ordinate** (vertical axis) and one of four **quadrant** regions uniquely locate it. Statistical summaries include the **quartile** boundaries that divide a distribution into four equal parts, as well as **kurtosis**, which describes how sharply peaked the distribution is relative to a normal curve. When plotted, the relationship between two continuous variables often scales **linearly**, meaning a straight line adequately models the trend. More advanced array operations rely on **matrices** — rectangular grids of numbers — and the conservation of **momentum** in physical systems is expressed through these same matrix equations. A **pentagon** or other regular polygon may appear in geometric proofs that underpin crystallographic symmetry, and the rare statistical concept of an **octuplet** distribution (eight simultaneous equal-probability outcomes) illustrates extremes of combinatorial analysis. Finally, particle separation in certain laboratory workflows employs a **lavoflux** device to sort material by density through hydraulic elutriation.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **hominids** <span class="wpos">n.</span> | 人种；人科 |
-| **homology** <span class="wpos">n.</span> | 相同,同族关系,异体同形 |
-| **humanoid** <span class="wpos">adj.</span> | 像人的; 类人动物 |
-| **hydrogen** <span class="wpos">n.</span> | 氢 |
-| **in vitro** | 在试管内 |
-| **insulate** <span class="wpos">vt.</span> | 隔离，使孤立；使绝缘，使隔热 |
-| **intranet** <span class="wpos">n.</span> | 内联网；企业内部网 Intranet企业内部互联网 |
-| **isotopes** <span class="wpos">n.</span> | 同位素 |
-| **kurtosis** <span class="wpos">n.</span> | 峰态 |
-| **lattices** <span class="wpos">n.</span> | 格子；车削；格栅式门窗；点阵；控制格线 |
-| **lavoflux** | 水力淘析器 |
-| **linearly** <span class="wpos">adv.</span> | 直线地,线性地 |
-| **magnetic** <span class="wpos">adj.</span> | 有磁性的, 有吸引力的; 磁性的 |
-| **matrices** <span class="wpos">n.</span> | 母体,子宫 |
-| **molecule** <span class="wpos">n.</span> | 分子 |
-| **momentum** <span class="wpos">n.</span> | 动力；动量；冲力；势头 |
-| **multiply** <span class="wpos">vt.</span> | &amp; 乘, 相乘; 增加; 繁殖 |
-| **mutation** <span class="wpos">n.</span> | 突变；变化；元音变化 |
-| **nitrogen** <span class="wpos">n.</span> | 氮 |
-| **notation** <span class="wpos">n.</span> | 记号, 标记法 |
-| **octuplet** <span class="wpos">n.</span> | 八连音 |
-| **ordinate** <span class="wpos">n.</span> | 纵座标；纵线 |
-| **pentagon** <span class="wpos">n.</span> | 五角形 |
-| **pharming** <span class="wpos">n.</span> | 嫁接；网域嫁接 |
-| **plasmids** | 质体 |
-| **polaroid** <span class="wpos">n.</span> | 偏振片, 偏光薄膜 Polaroidn. 人造偏光板; 宝丽来一次成像照相机 |
-| **quadrant** <span class="wpos">n.</span> | 象限；象限仪；四分之一圆 |
-| **quartile** <span class="wpos">n.</span> | 四分位数 |
-| **ribosome** <span class="wpos">n.</span> | 核糖体 |
-| **saturate** <span class="wpos">vt.</span> | 浸湿, 浸透; 使…大量吸收或充满某物 |
-:::
-:::
-::::
+On the engineering and data side, a crystal or atomic arrangement is often described as a set of [lattices]{.vocab tabindex="0" data-def="lattices · n. 格子；车削；格栅式门窗；点阵；控制格线"}, and the physical properties of materials depend heavily on how atoms [multiply]{.vocab tabindex="0" data-def="multiply · vt. &amp; 乘, 相乘; 增加; 繁殖"} within these regular grids. When designing thermal systems, engineers [saturate]{.vocab tabindex="0" data-def="saturate · vt. 浸湿, 浸透; 使…大量吸收或充满某物"} insulating layers with inert gas and [insulate]{.vocab tabindex="0" data-def="insulate · vt. 隔离，使孤立；使绝缘，使隔热"} components to prevent heat transfer. Within a corporate environment, sensitive experimental data travels over a protected [intranet]{.vocab tabindex="0" data-def="intranet · n. 内联网；企业内部网 Intranet企业内部互联网"} rather than the public internet. Quantitative results are recorded using a consistent mathematical [notation]{.vocab tabindex="0" data-def="notation · n. 记号, 标记法"}: each data point is plotted on a coordinate plane where the [ordinate]{.vocab tabindex="0" data-def="ordinate · n. 纵座标；纵线"} (vertical axis) and one of four [quadrant]{.vocab tabindex="0" data-def="quadrant · n. 象限；象限仪；四分之一圆"} regions uniquely locate it. Statistical summaries include the [quartile]{.vocab tabindex="0" data-def="quartile · n. 四分位数"} boundaries that divide a distribution into four equal parts, as well as [kurtosis]{.vocab tabindex="0" data-def="kurtosis · n. 峰态"}, which describes how sharply peaked the distribution is relative to a normal curve. When plotted, the relationship between two continuous variables often scales [linearly]{.vocab tabindex="0" data-def="linearly · adv. 直线地,线性地"}, meaning a straight line adequately models the trend. More advanced array operations rely on [matrices]{.vocab tabindex="0" data-def="matrices · n. 母体,子宫"} — rectangular grids of numbers — and the conservation of [momentum]{.vocab tabindex="0" data-def="momentum · n. 动力；动量；冲力；势头"} in physical systems is expressed through these same matrix equations. A [pentagon]{.vocab tabindex="0" data-def="pentagon · n. 五角形"} or other regular polygon may appear in geometric proofs that underpin crystallographic symmetry, and the rare statistical concept of an [octuplet]{.vocab tabindex="0" data-def="octuplet · n. 八连音"} distribution (eight simultaneous equal-probability outcomes) illustrates extremes of combinatorial analysis. Finally, particle separation in certain laboratory workflows employs a [lavoflux]{.vocab tabindex="0" data-def="lavoflux 水力淘析器"} device to sort material by density through hydraulic elutriation.
 
 ### From Amino Acids to Algorithms: A Tour of Modern Science and Engineering
 
-:::: {.columns}
-::: {.column width="57%"}
-Modern **astronomy** offers a striking example of how computation transforms observation. When a space telescope captures a **snapshot** of a distant galaxy, scientists do not simply stare at raw pixels. A chain of **automated** processing steps takes over: an **algorithm** filters noise, an **amplifier** boosts faint signals, and a **calibrate**d detector array ensures measurements remain accurate. Researchers can then **simulate** how **accretion** disks form around black holes, tracking the **velocity** at which gas spirals inward. Because no single instrument covers the full picture, **binocular** interferometry arrays combine feeds from multiple dishes to **transmit** coherent data to a central **terminal**, where software **tabulate**s results and flags any **truncate**d dataset that lost frames mid-observation. The **aerospace** industry applies the same logic: onboard computers that **transmit** telemetry must be **calibrate**d before launch, and network **sniffers** monitor data buses for anomalies that could compromise flight safety.
+Modern [astronomy]{.vocab tabindex="0" data-def="astronomy · n. 天文学"} offers a striking example of how computation transforms observation. When a space telescope captures a [snapshot]{.vocab tabindex="0" data-def="snapshot · n. 快照"} of a distant galaxy, scientists do not simply stare at raw pixels. A chain of [automated]{.vocab tabindex="0" data-def="automated 自动化的"} processing steps takes over: an [algorithm]{.vocab tabindex="0" data-def="algorithm · n. 运算法则"} filters noise, an [amplifier]{.vocab tabindex="0" data-def="amplifier · n. 扩音器, 放大器; 扩大的人；详述者"} boosts faint signals, and a [calibrate]{.vocab tabindex="0" data-def="calibrate · vt. 校准; 使标准化,使合标准; 测量口径"}d detector array ensures measurements remain accurate. Researchers can then [simulate]{.vocab tabindex="0" data-def="simulate · vt. 模仿；假装；冒充; 模仿的；假装的"} how [accretion]{.vocab tabindex="0" data-def="accretion · n. 堆积,积累; 添加生长，自然增长; 增加部分；附加; 增加的结果，积成的整体; 连生；合生；共生; …"} disks form around black holes, tracking the [velocity]{.vocab tabindex="0" data-def="velocity · n. 速率；迅速；周转率"} at which gas spirals inward. Because no single instrument covers the full picture, [binocular]{.vocab tabindex="0" data-def="binocular · adj. 双目并用的"} interferometry arrays combine feeds from multiple dishes to [transmit]{.vocab tabindex="0" data-def="transmit · vt. &amp; 发射, 播送, 广播; 传播, 传染; 传导"} coherent data to a central [terminal]{.vocab tabindex="0" data-def="terminal · n. 终端机；终点；末端；极限; 末端的；终点的；晚期的 Terminal终端，终端设备，端子；终结符"}, where software [tabulate]{.vocab tabindex="0" data-def="tabulate · adj. 平板状的；有平面的; 使成平面；把…制成表格; 制成表格"}s results and flags any [truncate]{.vocab tabindex="0" data-def="truncate · adj. 截短的；被删节的; 把…截短；缩短；使成平面"}d dataset that lost frames mid-observation. The [aerospace]{.vocab tabindex="0" data-def="aerospace · n. 航空与航天空间,,宇宙空间; 航空航天学; 航空航天工业; 宇宙空间的,宇宙航行的"} industry applies the same logic: onboard computers that [transmit]{.vocab tabindex="0" data-def="transmit · vt. &amp; 发射, 播送, 广播; 传播, 传染; 传导"} telemetry must be [calibrate]{.vocab tabindex="0" data-def="calibrate · vt. 校准; 使标准化,使合标准; 测量口径"}d before launch, and network [sniffers]{.vocab tabindex="0" data-def="sniffers · n. 嗅探器，封包探嗅器；封包监听"} monitor data buses for anomalies that could compromise flight safety.
 
-At the molecular scale, biochemists work within a different but equally rigorous **taxonomy**. Enzymes such as ATP **synthase** rely on precise geometry: the active site is essentially a **Cartesian** coordinate frame in which each atom occupies a defined position. **Anaerobic** organisms, lacking access to oxygen, drive these reactions through alternative pathways that still obey **catalytic** kinetics. Researchers studying neurotransmitter precursors pay close attention to **tyrosine**, an amino acid whose hydroxyl group is the starting point for dopamine synthesis, while the amino acid **theanine**, found in tea leaves, modulates neuronal **stimulus** response without overwhelming excitation. Whether a trait is inherited through an **autosomal** chromosome or follows a different pattern matters enormously when mapping disease risk; geneticists record every **base pair** variant and sort them by genomic position. Proteins that are **capsulate**d inside vesicles travel along cytoskeletal tracks, and the **traction** forces generated by motor proteins determine transport **velocity**.
+At the molecular scale, biochemists work within a different but equally rigorous [taxonomy]{.vocab tabindex="0" data-def="taxonomy · n. 分类学,分类系统"}. Enzymes such as ATP [synthase]{.vocab tabindex="0" data-def="synthase · n. 合酶"} rely on precise geometry: the active site is essentially a [Cartesian]{.vocab tabindex="0" data-def="Cartesian · adj. 笛卡尔的,笛卡尔哲学的; 笛卡尔信徒"} coordinate frame in which each atom occupies a defined position. [Anaerobic]{.vocab tabindex="0" data-def="anaerobic · adj. 厌氧菌的；厌氧菌产生的; 能在无空气情况下生活的"} organisms, lacking access to oxygen, drive these reactions through alternative pathways that still obey [catalytic]{.vocab tabindex="0" data-def="catalytic · adj. 接触反应的"} kinetics. Researchers studying neurotransmitter precursors pay close attention to [tyrosine]{.vocab tabindex="0" data-def="tyrosine · n. 酪氨酸"}, an amino acid whose hydroxyl group is the starting point for dopamine synthesis, while the amino acid [theanine]{.vocab tabindex="0" data-def="theanine · n. 茶氨酸"}, found in tea leaves, modulates neuronal [stimulus]{.vocab tabindex="0" data-def="stimulus · n. 刺激；激励；刺激物"} response without overwhelming excitation. Whether a trait is inherited through an [autosomal]{.vocab tabindex="0" data-def="autosomal · adj. 正染色体的,常染色体的"} chromosome or follows a different pattern matters enormously when mapping disease risk; geneticists record every [base pair]{.vocab tabindex="0" data-def="base pair 碱基对"} variant and sort them by genomic position. Proteins that are [capsulate]{.vocab tabindex="0" data-def="capsulate · adj. 有蒴的,包于胶囊内的"}d inside vesicles travel along cytoskeletal tracks, and the [traction]{.vocab tabindex="0" data-def="traction · n. 牵引；牵引力"} forces generated by motor proteins determine transport [velocity]{.vocab tabindex="0" data-def="velocity · n. 速率；迅速；周转率"}.
 
-In systems engineering, teams track **actuation** events — the moment a solenoid or servo responds to a command — and log a **subtotal** of successful cycles before running end-of-line diagnostics. A signal chain might pass through a low-noise **amplifier**, get sampled at a **terminal** node, and finally feed into a dashboard that displays a real-time **snapshot** of system health. The discipline of building reliable machines therefore draws on **astronomy**'s precision culture, biochemistry's **taxonomy** of components, and computer science's love of clean **algorithm**s — a reminder that the boundaries between fields are themselves somewhat **truncate**d abstractions.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **simulate** <span class="wpos">vt.</span> | 模仿；假装；冒充; 模仿的；假装的 |
-| **snapshot** <span class="wpos">n.</span> | 快照 |
-| **sniffers** <span class="wpos">n.</span> | 嗅探器，封包探嗅器；封包监听 |
-| **stimulus** <span class="wpos">n.</span> | 刺激；激励；刺激物 |
-| **subtotal** <span class="wpos">adj.</span> | 几乎全部的；不完全的; 小计；部分合计数; 求…的部分和；小计; 求部分和 |
-| **synthase** <span class="wpos">n.</span> | 合酶 |
-| **tabulate** <span class="wpos">adj.</span> | 平板状的；有平面的; 使成平面；把…制成表格; 制成表格 |
-| **taxonomy** <span class="wpos">n.</span> | 分类学,分类系统 |
-| **terminal** <span class="wpos">n.</span> | 终端机；终点；末端；极限; 末端的；终点的；晚期的 Terminal终端，终端设备，端子；终结符 |
-| **theanine** <span class="wpos">n.</span> | 茶氨酸 |
-| **traction** <span class="wpos">n.</span> | 牵引；牵引力 |
-| **transmit** <span class="wpos">vt.</span> | &amp; 发射, 播送, 广播; 传播, 传染; 传导 |
-| **truncate** <span class="wpos">adj.</span> | 截短的；被删节的; 把…截短；缩短；使成平面 |
-| **tyrosine** <span class="wpos">n.</span> | 酪氨酸 |
-| **velocity** <span class="wpos">n.</span> | 速率；迅速；周转率 |
-| **accretion** <span class="wpos">n.</span> | 堆积,积累; 添加生长，自然增长; 增加部分；附加; 增加的结果，积成的整体; 连生；合生；共生; … |
-| **actuation** <span class="wpos">n.</span> | 刺激,冲动 |
-| **aerospace** <span class="wpos">n.</span> | 航空与航天空间,,宇宙空间; 航空航天学; 航空航天工业; 宇宙空间的,宇宙航行的 |
-| **algorithm** <span class="wpos">n.</span> | 运算法则 |
-| **amplifier** <span class="wpos">n.</span> | 扩音器, 放大器; 扩大的人；详述者 |
-| **anaerobic** <span class="wpos">adj.</span> | 厌氧菌的；厌氧菌产生的; 能在无空气情况下生活的 |
-| **astronomy** <span class="wpos">n.</span> | 天文学 |
-| **automated** | 自动化的 |
-| **autosomal** <span class="wpos">adj.</span> | 正染色体的,常染色体的 |
-| **base pair** | 碱基对 |
-| **binocular** <span class="wpos">adj.</span> | 双目并用的 |
-| **calibrate** <span class="wpos">vt.</span> | 校准; 使标准化,使合标准; 测量口径 |
-| **capsulate** <span class="wpos">adj.</span> | 有蒴的,包于胶囊内的 |
-| **Cartesian** <span class="wpos">adj.</span> | 笛卡尔的,笛卡尔哲学的; 笛卡尔信徒 |
-| **catalytic** <span class="wpos">adj.</span> | 接触反应的 |
-:::
-:::
-::::
+In systems engineering, teams track [actuation]{.vocab tabindex="0" data-def="actuation · n. 刺激,冲动"} events — the moment a solenoid or servo responds to a command — and log a [subtotal]{.vocab tabindex="0" data-def="subtotal · adj. 几乎全部的；不完全的; 小计；部分合计数; 求…的部分和；小计; 求部分和"} of successful cycles before running end-of-line diagnostics. A signal chain might pass through a low-noise [amplifier]{.vocab tabindex="0" data-def="amplifier · n. 扩音器, 放大器; 扩大的人；详述者"}, get sampled at a [terminal]{.vocab tabindex="0" data-def="terminal · n. 终端机；终点；末端；极限; 末端的；终点的；晚期的 Terminal终端，终端设备，端子；终结符"} node, and finally feed into a dashboard that displays a real-time [snapshot]{.vocab tabindex="0" data-def="snapshot · n. 快照"} of system health. The discipline of building reliable machines therefore draws on [astronomy]{.vocab tabindex="0" data-def="astronomy · n. 天文学"}'s precision culture, biochemistry's [taxonomy]{.vocab tabindex="0" data-def="taxonomy · n. 分类学,分类系统"} of components, and computer science's love of clean [algorithm]{.vocab tabindex="0" data-def="algorithm · n. 运算法则"}s — a reminder that the boundaries between fields are themselves somewhat [truncate]{.vocab tabindex="0" data-def="truncate · adj. 截短的；被删节的; 把…截短；缩短；使成平面"}d abstractions.
 
 ### From Incubator to Phylogeny: A Tour of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-Modern science draws on a vast vocabulary that spans **chemistry**, computation, and life itself. In a research laboratory, instruments are carefully **configure**d — each **parameter** adjusted so that measurements remain reproducible. A **magnifier** or electron microscope may be used to examine specimens whose tissue has been **desiccate**d or **dehydrate**d to prevent decay, while a climate-controlled **incubator** maintains living cultures at precise temperatures. Reagents such as **magnesium** salts and **phosphate** buffers keep cellular reactions stable; many of these reactions are **exergonic**, releasing free energy that drives downstream processes.
+Modern science draws on a vast vocabulary that spans [chemistry]{.vocab tabindex="0" data-def="chemistry · n. 化学"}, computation, and life itself. In a research laboratory, instruments are carefully [configure]{.vocab tabindex="0" data-def="configure · v. 配置,设定,使成形,使具一定形式"}d — each [parameter]{.vocab tabindex="0" data-def="parameter · n. 因素, 特性, 界限; 〈物〉〈数〉参量, 参数"} adjusted so that measurements remain reproducible. A [magnifier]{.vocab tabindex="0" data-def="magnifier · n. 放大镜；放大器"} or electron microscope may be used to examine specimens whose tissue has been [desiccate]{.vocab tabindex="0" data-def="desiccate · vt. 弄干,使脱水"}d or [dehydrate]{.vocab tabindex="0" data-def="dehydrate · vt. 使脱水, 使干燥; 脱水, 失水"}d to prevent decay, while a climate-controlled [incubator]{.vocab tabindex="0" data-def="incubator · n. 孵化器; 恒温箱"} maintains living cultures at precise temperatures. Reagents such as [magnesium]{.vocab tabindex="0" data-def="magnesium · n. 镁"} salts and [phosphate]{.vocab tabindex="0" data-def="phosphate · n. 磷酸盐"} buffers keep cellular reactions stable; many of these reactions are [exergonic]{.vocab tabindex="0" data-def="exergonic · adj. 放出能的"}, releasing free energy that drives downstream processes.
 
-Data collected from such experiments rarely follow a simple straight line. Researchers plot results on a **histogram** to visualise distributions, noting whether growth curves are **nonlinear** and whether **geometric** progression fits the observed values. A fraction's **numerator** may represent the count of successful trials, and the **perimeter** of a confidence region on a scatter plot conveys uncertainty. In software used to process the data, a **delimiter** separates fields in a text file, and a single misplaced **keystroke** can corrupt an entire dataset. Engineers who **configure** analysis pipelines know that even one poorly set **parameter** can make a **nonlinear** model diverge.
+Data collected from such experiments rarely follow a simple straight line. Researchers plot results on a [histogram]{.vocab tabindex="0" data-def="histogram · n. 柱状图"} to visualise distributions, noting whether growth curves are [nonlinear]{.vocab tabindex="0" data-def="nonlinear · adj. 非线性的"} and whether [geometric]{.vocab tabindex="0" data-def="geometric · adj. 几何的; 几何图案的; 成几何级数增加的"} progression fits the observed values. A fraction's [numerator]{.vocab tabindex="0" data-def="numerator · n. 分子"} may represent the count of successful trials, and the [perimeter]{.vocab tabindex="0" data-def="perimeter · n. 周边;周围;边缘"} of a confidence region on a scatter plot conveys uncertainty. In software used to process the data, a [delimiter]{.vocab tabindex="0" data-def="delimiter · n. 定界符,分隔符"} separates fields in a text file, and a single misplaced [keystroke]{.vocab tabindex="0" data-def="keystroke · n. 键击,按键"} can corrupt an entire dataset. Engineers who [configure]{.vocab tabindex="0" data-def="configure · v. 配置,设定,使成形,使具一定形式"} analysis pipelines know that even one poorly set [parameter]{.vocab tabindex="0" data-def="parameter · n. 因素, 特性, 界限; 〈物〉〈数〉参量, 参数"} can make a [nonlinear]{.vocab tabindex="0" data-def="nonlinear · adj. 非线性的"} model diverge.
 
-At the biological scale, **empirical** evidence from genetics reveals how **Mendelian** inheritance rules govern the transmission of traits. A cell's **karyotype** — its full chromosomal portrait — can be inspected during **metaphase**, when chromosomes are most condensed and **dissected** images are easiest to interpret. The expressed characteristics of an organism constitute its **phenotype**, shaped by both intrinsic (**isometric** growth constraints, for instance) and **exogenous** environmental signals. Pathogens such as **entamoeba** are studied through their **mechanism** of invasion, while the **emanation** of chemical signals from infected tissue guides the immune response. **Diffusion** carries those signals across membranes, and **phylogeny** traces the evolutionary lineage that produced every organism involved — reminding us that all of science is, at its core, one connected story.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **chemistry** <span class="wpos">n.</span> | 化学 |
-| **configure** <span class="wpos">v.</span> | 配置,设定,使成形,使具一定形式 |
-| **dehydrate** <span class="wpos">vt.</span> | 使脱水, 使干燥; 脱水, 失水 |
-| **delimiter** <span class="wpos">n.</span> | 定界符,分隔符 |
-| **desiccate** <span class="wpos">vt.</span> | 弄干,使脱水 |
-| **diffusion** <span class="wpos">n.</span> | 扩散，传播；漫射 |
-| **dissected** <span class="wpos">adj.</span> | 切开的,分割的,多裂的 |
-| **emanation** <span class="wpos">n.</span> | 发射, 散发; 发射物, 散发物, 显示出的气质; 射气 |
-| **empirical** <span class="wpos">adj.</span> | 以观察或实验为依据的 |
-| **entamoeba** <span class="wpos">n.</span> | 内阿米巴属 |
-| **exergonic** <span class="wpos">adj.</span> | 放出能的 |
-| **exogenous** <span class="wpos">adj.</span> | 外生的,外成的,外因的 |
-| **geometric** <span class="wpos">adj.</span> | 几何的; 几何图案的; 成几何级数增加的 |
-| **histogram** <span class="wpos">n.</span> | 柱状图 |
-| **incubator** <span class="wpos">n.</span> | 孵化器; 恒温箱 |
-| **isometric** <span class="wpos">adj.</span> | 等大的,等容积的 |
-| **karyotype** <span class="wpos">n.</span> | 染色体组型 |
-| **keystroke** <span class="wpos">n.</span> | 键击,按键 |
-| **magnesium** <span class="wpos">n.</span> | 镁 |
-| **magnifier** <span class="wpos">n.</span> | 放大镜；放大器 |
-| **mechanism** <span class="wpos">n.</span> | 机械装置; 构造, 机制; 办法, 技巧, 途径 |
-| **Mendelian** <span class="wpos">adj.</span> | 孟德尔的,孟德尔法则的; 孟德尔学派的人 |
-| **metaphase** <span class="wpos">adj.</span> | 中期,转位期 |
-| **nonlinear** <span class="wpos">adj.</span> | 非线性的 |
-| **numerator** <span class="wpos">n.</span> | 分子 |
-| **parameter** <span class="wpos">n.</span> | 因素, 特性, 界限; 〈物〉〈数〉参量, 参数 |
-| **perimeter** <span class="wpos">n.</span> | 周边;周围;边缘 |
-| **phenotype** <span class="wpos">n.</span> | 显型 |
-| **phosphate** <span class="wpos">n.</span> | 磷酸盐 |
-| **phylogeny** <span class="wpos">n.</span> | 语系发生,发展史 |
-:::
-:::
-::::
+At the biological scale, [empirical]{.vocab tabindex="0" data-def="empirical · adj. 以观察或实验为依据的"} evidence from genetics reveals how [Mendelian]{.vocab tabindex="0" data-def="Mendelian · adj. 孟德尔的,孟德尔法则的; 孟德尔学派的人"} inheritance rules govern the transmission of traits. A cell's [karyotype]{.vocab tabindex="0" data-def="karyotype · n. 染色体组型"} — its full chromosomal portrait — can be inspected during [metaphase]{.vocab tabindex="0" data-def="metaphase · adj. 中期,转位期"}, when chromosomes are most condensed and [dissected]{.vocab tabindex="0" data-def="dissected · adj. 切开的,分割的,多裂的"} images are easiest to interpret. The expressed characteristics of an organism constitute its [phenotype]{.vocab tabindex="0" data-def="phenotype · n. 显型"}, shaped by both intrinsic ([isometric]{.vocab tabindex="0" data-def="isometric · adj. 等大的,等容积的"} growth constraints, for instance) and [exogenous]{.vocab tabindex="0" data-def="exogenous · adj. 外生的,外成的,外因的"} environmental signals. Pathogens such as [entamoeba]{.vocab tabindex="0" data-def="entamoeba · n. 内阿米巴属"} are studied through their [mechanism]{.vocab tabindex="0" data-def="mechanism · n. 机械装置; 构造, 机制; 办法, 技巧, 途径"} of invasion, while the [emanation]{.vocab tabindex="0" data-def="emanation · n. 发射, 散发; 发射物, 散发物, 显示出的气质; 射气"} of chemical signals from infected tissue guides the immune response. [Diffusion]{.vocab tabindex="0" data-def="diffusion · n. 扩散，传播；漫射"} carries those signals across membranes, and [phylogeny]{.vocab tabindex="0" data-def="phylogeny · n. 语系发生,发展史"} traces the evolutionary lineage that produced every organism involved — reminding us that all of science is, at its core, one connected story.
 
 ### From Physicism to Field-Tested Engineering
 
-:::: {.columns}
-::: {.column width="57%"}
-**Physicism** — the tradition of grounding all inquiry in natural-science principles — shapes how a **physicist** approaches a new device. Before any mass production begins, a team builds a **prototype**, often using **synthetic** materials whose chemical properties are precisely controlled. Where a natural compound might work, a **synthetic** substitute is chosen for its **additivity**: its measurable properties combine in a predictable, linear way, satisfying the **arithmetic** of the design specification.
+[Physicism]{.vocab tabindex="0" data-def="physicism · n. 自然科学研究"} — the tradition of grounding all inquiry in natural-science principles — shapes how a [physicist]{.vocab tabindex="0" data-def="physicist · n. 物理学家"} approaches a new device. Before any mass production begins, a team builds a [prototype]{.vocab tabindex="0" data-def="prototype · n. 原型, 雏形, 蓝本"}, often using [synthetic]{.vocab tabindex="0" data-def="synthetic · adj. 合成的，人造的; 〈口〉假的，非天然的；虚伪的; 合成物，合成纤维"} materials whose chemical properties are precisely controlled. Where a natural compound might work, a [synthetic]{.vocab tabindex="0" data-def="synthetic · adj. 合成的，人造的; 〈口〉假的，非天然的；虚伪的; 合成物，合成纤维"} substitute is chosen for its [additivity]{.vocab tabindex="0" data-def="additivity · n. 添加,添加性"}: its measurable properties combine in a predictable, linear way, satisfying the [arithmetic]{.vocab tabindex="0" data-def="arithmetic · n. 算术; 计算"} of the design specification.
 
-Modern fabrication leans heavily on **synthesis** — the chemical assembly of complex molecules from simpler precursors. A **substrate**, for instance, is prepared in a **centrifuge** to separate layers by density, and its surface is then treated with a **salicylic** acid derivative to improve bonding. A **schematic** drawn at this stage shows **concentric** rings of material, each deposited in a **compaction** process that drives out air pockets. Engineers confirm that the geometry is not a perfect square or circle but a **trapezoid** or another **asymmetric** polygon, and they use **asymptotic** curves to model how stress approaches — but never quite reaches — a theoretical limit. A tiny **concretion** of mineral deposits can disrupt **concentric** alignment, so samples are screened by a **cytochrome**-linked assay that flags oxidative contamination.
+Modern fabrication leans heavily on [synthesis]{.vocab tabindex="0" data-def="synthesis · n. 综合, 综合法; 〈化〉合成"} — the chemical assembly of complex molecules from simpler precursors. A [substrate]{.vocab tabindex="0" data-def="substrate · n. 底面，基底；基片; 酶作用物; 培养基"}, for instance, is prepared in a [centrifuge]{.vocab tabindex="0" data-def="centrifuge · n. 离心机"} to separate layers by density, and its surface is then treated with a [salicylic]{.vocab tabindex="0" data-def="salicylic · adj. 得自水杨酸的,水杨酸的"} acid derivative to improve bonding. A [schematic]{.vocab tabindex="0" data-def="schematic · adj. 纲要的，图表的；示意的，概略的; 图表，电路原理图"} drawn at this stage shows [concentric]{.vocab tabindex="0" data-def="concentric · adj. 同一中心的,同轴的; 同一中心地,同轴地"} rings of material, each deposited in a [compaction]{.vocab tabindex="0" data-def="compaction · n. 压紧,紧束的状态"} process that drives out air pockets. Engineers confirm that the geometry is not a perfect square or circle but a [trapezoid]{.vocab tabindex="0" data-def="trapezoid · n. 梯形; 不规则四边形"} or another [asymmetric]{.vocab tabindex="0" data-def="asymmetric · adj. 不对称的,不匀称的; 非对称的"} polygon, and they use [asymptotic]{.vocab tabindex="0" data-def="asymptotic · adj. 渐近线的,渐近的"} curves to model how stress approaches — but never quite reaches — a theoretical limit. A tiny [concretion]{.vocab tabindex="0" data-def="concretion · n. 结石；凝固；凝固物"} of mineral deposits can disrupt [concentric]{.vocab tabindex="0" data-def="concentric · adj. 同一中心的,同轴的; 同一中心地,同轴地"} alignment, so samples are screened by a [cytochrome]{.vocab tabindex="0" data-def="cytochrome · n. 细胞色素"}-linked assay that flags oxidative contamination.
 
-On the computational side, a **recursive** algorithm processes sensor readings in nested loops, each pass feeding its output back as the next input. **Clustering** groups the data points by similarity, and a **combinator** arranges the resulting subsets into every valid configuration for analysis. **Retrieval** of archived records is secured by **ciphertext** so that raw data remain unreadable in transit; only an authenticated node can decrypt and read them. A **satellite** relay broadcasts telemetry back to the laboratory, where a **summation** of all channel values is computed every second. Engineers check that the new firmware is **compatible** with the legacy control board, and they verify **viability** — whether the assembled system can sustain continuous operation — before signing off.
+On the computational side, a [recursive]{.vocab tabindex="0" data-def="recursive · adj. 回归的,递归的"} algorithm processes sensor readings in nested loops, each pass feeding its output back as the next input. [Clustering]{.vocab tabindex="0" data-def="clustering · n. 聚类"} groups the data points by similarity, and a [combinator]{.vocab tabindex="0" data-def="combinator · n. 配合器"} arranges the resulting subsets into every valid configuration for analysis. [Retrieval]{.vocab tabindex="0" data-def="retrieval · n. 重获,取回,检索,挽回,恢复"} of archived records is secured by [ciphertext]{.vocab tabindex="0" data-def="ciphertext · n. 密码,暗记文"} so that raw data remain unreadable in transit; only an authenticated node can decrypt and read them. A [satellite]{.vocab tabindex="0" data-def="satellite · n. 卫星; 人造卫星; 卫星国, 附庸国, 卫星都市"} relay broadcasts telemetry back to the laboratory, where a [summation]{.vocab tabindex="0" data-def="summation · n. 总和,加在一起; 总结,概括"} of all channel values is computed every second. Engineers check that the new firmware is [compatible]{.vocab tabindex="0" data-def="compatible · adj. 可以并存的, 相容的, 协调的"} with the legacy control board, and they verify [viability]{.vocab tabindex="0" data-def="viability · n. 生存能力,发育能力"} — whether the assembled system can sustain continuous operation — before signing off.
 
-When **combustion** tests are run in a sealed chamber, a slow **deliquesce** of certain hygroscopic seals signals that humidity control has failed, prompting an immediate review. The team then uses a **recursive** audit loop to **replicate** the failure under controlled humidity and **asymptotic** temperature ramps, refining the **schematic** until every reading converges on the target value.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **physicism** <span class="wpos">n.</span> | 自然科学研究 |
-| **physicist** <span class="wpos">n.</span> | 物理学家 |
-| **prototype** <span class="wpos">n.</span> | 原型, 雏形, 蓝本 |
-| **recursive** <span class="wpos">adj.</span> | 回归的,递归的 |
-| **replicate** <span class="wpos">v.</span> | 复制；仿制; 再造；再生；自我复制 |
-| **retrieval** <span class="wpos">n.</span> | 重获,取回,检索,挽回,恢复 |
-| **salicylic** <span class="wpos">adj.</span> | 得自水杨酸的,水杨酸的 |
-| **satellite** <span class="wpos">n.</span> | 卫星; 人造卫星; 卫星国, 附庸国, 卫星都市 |
-| **schematic** <span class="wpos">adj.</span> | 纲要的，图表的；示意的，概略的; 图表，电路原理图 |
-| **substrate** <span class="wpos">n.</span> | 底面，基底；基片; 酶作用物; 培养基 |
-| **summation** <span class="wpos">n.</span> | 总和,加在一起; 总结,概括 |
-| **synthesis** <span class="wpos">n.</span> | 综合, 综合法; 〈化〉合成 |
-| **synthetic** <span class="wpos">adj.</span> | 合成的，人造的; 〈口〉假的，非天然的；虚伪的; 合成物，合成纤维 |
-| **trapezoid** <span class="wpos">n.</span> | 梯形; 不规则四边形 |
-| **viability** <span class="wpos">n.</span> | 生存能力,发育能力 |
-| **additivity** <span class="wpos">n.</span> | 添加,添加性 |
-| **arithmetic** <span class="wpos">n.</span> | 算术; 计算 |
-| **asymmetric** <span class="wpos">adj.</span> | 不对称的,不匀称的; 非对称的 |
-| **asymptotic** <span class="wpos">adj.</span> | 渐近线的,渐近的 |
-| **centrifuge** <span class="wpos">n.</span> | 离心机 |
-| **ciphertext** <span class="wpos">n.</span> | 密码,暗记文 |
-| **clustering** <span class="wpos">n.</span> | 聚类 |
-| **combinator** <span class="wpos">n.</span> | 配合器 |
-| **combustion** <span class="wpos">n.</span> | 燃烧, 烧毁 |
-| **compaction** <span class="wpos">n.</span> | 压紧,紧束的状态 |
-| **compatible** <span class="wpos">adj.</span> | 可以并存的, 相容的, 协调的 |
-| **concentric** <span class="wpos">adj.</span> | 同一中心的,同轴的; 同一中心地,同轴地 |
-| **concretion** <span class="wpos">n.</span> | 结石；凝固；凝固物 |
-| **cytochrome** <span class="wpos">n.</span> | 细胞色素 |
-| **deliquesce** <span class="wpos">vi.</span> | 溶解,解除,液化 |
-:::
-:::
-::::
+When [combustion]{.vocab tabindex="0" data-def="combustion · n. 燃烧, 烧毁"} tests are run in a sealed chamber, a slow [deliquesce]{.vocab tabindex="0" data-def="deliquesce · vi. 溶解,解除,液化"} of certain hygroscopic seals signals that humidity control has failed, prompting an immediate review. The team then uses a [recursive]{.vocab tabindex="0" data-def="recursive · adj. 回归的,递归的"} audit loop to [replicate]{.vocab tabindex="0" data-def="replicate · v. 复制；仿制; 再造；再生；自我复制"} the failure under controlled humidity and [asymptotic]{.vocab tabindex="0" data-def="asymptotic · adj. 渐近线的,渐近的"} temperature ramps, refining the [schematic]{.vocab tabindex="0" data-def="schematic · adj. 纲要的，图表的；示意的，概略的; 图表，电路原理图"} until every reading converges on the target value.
 
 ### From Molecules to Machines: A Survey of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-In the study of **metabolism**, living cells carry out an intricate web of chemical reactions that sustain life. **Glycolysis**, one of the earliest metabolic pathways to evolve, breaks down glucose in the cytoplasm of both prokaryotic and **eukaryotic** cells, yielding energy that powers subsequent **endergonic** reactions elsewhere in the cell. During **interphase** — the preparatory stage between cell divisions — the cell replicates its DNA with the help of enzymes such as **polymerase**, ensuring that **hereditary** information is faithfully copied. **Homologous** chromosomes, which carry **homogenous** gene content in **homozygous** individuals, are sorted during **equational** division so that each daughter cell receives a complete genome. **Phenotypic** variation arises when these genetic blueprints interact with the environment, a relationship that theorists from **Lamarckism** onward have sought to explain. The protein **hemoglobin**, whose **morphology** has been studied in fine structural detail, transports oxygen through the bloodstream and exemplifies how **mechanical** properties at the molecular scale — including **elasticity** of the globin chain — translate into physiological function. Cells release material to their exterior through **exocytosis**, a process requiring **phosphorus**-containing lipids in the membrane, and **hypertonic** solutions can disrupt this balance by drawing water out of cells.
+In the study of [metabolism]{.vocab tabindex="0" data-def="metabolism · n. 新陈代谢"}, living cells carry out an intricate web of chemical reactions that sustain life. [Glycolysis]{.vocab tabindex="0" data-def="glycolysis · n. 醣酵解"}, one of the earliest metabolic pathways to evolve, breaks down glucose in the cytoplasm of both prokaryotic and [eukaryotic]{.vocab tabindex="0" data-def="eukaryotic · adj. 真核状态的"} cells, yielding energy that powers subsequent [endergonic]{.vocab tabindex="0" data-def="endergonic · adj. 吸能的"} reactions elsewhere in the cell. During [interphase]{.vocab tabindex="0" data-def="interphase · n. 间期,界面; 界间的,相间的"} — the preparatory stage between cell divisions — the cell replicates its DNA with the help of enzymes such as [polymerase]{.vocab tabindex="0" data-def="polymerase · n. 聚合酶"}, ensuring that [hereditary]{.vocab tabindex="0" data-def="hereditary · adj. 遗传的; 世袭的; 承袭的"} information is faithfully copied. [Homologous]{.vocab tabindex="0" data-def="homologous · adj. 相应的,类似的,一致的,同源的"} chromosomes, which carry [homogenous]{.vocab tabindex="0" data-def="homogenous · adj. 同质的,纯系的"} gene content in [homozygous]{.vocab tabindex="0" data-def="homozygous · adj. 同型结合的,纯合子的"} individuals, are sorted during [equational]{.vocab tabindex="0" data-def="equational · adj. 方程式的,均分的"} division so that each daughter cell receives a complete genome. [Phenotypic]{.vocab tabindex="0" data-def="phenotypic · n. 表型的"} variation arises when these genetic blueprints interact with the environment, a relationship that theorists from [Lamarckism]{.vocab tabindex="0" data-def="Lamarckism · n. 拉马克学说"} onward have sought to explain. The protein [hemoglobin]{.vocab tabindex="0" data-def="hemoglobin · n. 血红素"}, whose [morphology]{.vocab tabindex="0" data-def="morphology · n. 形态学"} has been studied in fine structural detail, transports oxygen through the bloodstream and exemplifies how [mechanical]{.vocab tabindex="0" data-def="mechanical · adj. 机械的，力学的; 机械似的；呆板的"} properties at the molecular scale — including [elasticity]{.vocab tabindex="0" data-def="elasticity · n. 弹性;弹力; 灵活性;伸缩性"} of the globin chain — translate into physiological function. Cells release material to their exterior through [exocytosis]{.vocab tabindex="0" data-def="exocytosis · n. 胞外分泌;胞吐;胞吐作用"}, a process requiring [phosphorus]{.vocab tabindex="0" data-def="phosphorus · n. 磷"}-containing lipids in the membrane, and [hypertonic]{.vocab tabindex="0" data-def="hypertonic · adj. 张力亢进的,高渗的"} solutions can disrupt this balance by drawing water out of cells.
 
-In the physical and engineering sciences, the **dispersion** of light through a prism separates wavelengths and underlies spectroscopic analysis. Structural geometry provides the mathematical backbone of engineering design: the **hypotenuse** of a right triangle governs load calculations in trusses, while three-dimensional forms such as the **polyhedron** and the **pentagonum** (a five-sided polygon) appear in architectural frameworks and molecular cage structures alike. The concept of a **multiplier** in linear systems amplifies an input signal, and **idempotent** operations — those that produce the same result when applied repeatedly — are foundational in database design and functional programming. Modern communications depend on **end-to-end** **encryption** to protect data in transit, ensuring that messages remain confidential across heterogeneous networks. Engineers often **homogenize** composite materials to produce a **homogenous** medium whose properties can be modeled by simple equations, while **hydroponic** cultivation systems deliver precisely controlled nutrient solutions to plant roots, demonstrating how technology streamlines biological production.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **dispersion** <span class="wpos">n.</span> | 散布，驱散，传播，散射；离差，差量 |
-| **elasticity** <span class="wpos">n.</span> | 弹性;弹力; 灵活性;伸缩性 |
-| **encryption** <span class="wpos">n.</span> | 编密码 |
-| **endergonic** <span class="wpos">adj.</span> | 吸能的 |
-| **end-to-end** <span class="wpos">adj.</span> | 端到端的 |
-| **equational** <span class="wpos">adj.</span> | 方程式的,均分的 |
-| **eukaryotic** <span class="wpos">adj.</span> | 真核状态的 |
-| **exocytosis** <span class="wpos">n.</span> | 胞外分泌;胞吐;胞吐作用 |
-| **glycolysis** <span class="wpos">n.</span> | 醣酵解 |
-| **hemoglobin** <span class="wpos">n.</span> | 血红素 |
-| **hereditary** <span class="wpos">adj.</span> | 遗传的; 世袭的; 承袭的 |
-| **homogenize** <span class="wpos">vt.</span> | 使类同; 使…均质 |
-| **homogenous** <span class="wpos">adj.</span> | 同质的,纯系的 |
-| **homologous** <span class="wpos">adj.</span> | 相应的,类似的,一致的,同源的 |
-| **homozygous** <span class="wpos">adj.</span> | 同型结合的,纯合子的 |
-| **hydroponic** <span class="wpos">adj.</span> | 溶液培养的 |
-| **hypertonic** <span class="wpos">adj.</span> | 张力亢进的,高渗的 |
-| **hypotenuse** <span class="wpos">n.</span> | 斜边,弦 |
-| **idempotent** <span class="wpos">n.</span> | 幂等,等幂; 幂等的 |
-| **interphase** <span class="wpos">n.</span> | 间期,界面; 界间的,相间的 |
-| **Lamarckism** <span class="wpos">n.</span> | 拉马克学说 |
-| **mechanical** <span class="wpos">adj.</span> | 机械的，力学的; 机械似的；呆板的 |
-| **metabolism** <span class="wpos">n.</span> | 新陈代谢 |
-| **morphology** <span class="wpos">n.</span> | 形态学 |
-| **multiplier** <span class="wpos">n.</span> | 乘数 |
-| **pentagonum** | 五边形 |
-| **phenotypic** <span class="wpos">n.</span> | 表型的 |
-| **phosphorus** <span class="wpos">n.</span> | 磷 |
-| **polyhedron** <span class="wpos">n.</span> | 多面体 |
-| **polymerase** <span class="wpos">n.</span> | 聚合酶 |
-:::
-:::
-::::
+In the physical and engineering sciences, the [dispersion]{.vocab tabindex="0" data-def="dispersion · n. 散布，驱散，传播，散射；离差，差量"} of light through a prism separates wavelengths and underlies spectroscopic analysis. Structural geometry provides the mathematical backbone of engineering design: the [hypotenuse]{.vocab tabindex="0" data-def="hypotenuse · n. 斜边,弦"} of a right triangle governs load calculations in trusses, while three-dimensional forms such as the [polyhedron]{.vocab tabindex="0" data-def="polyhedron · n. 多面体"} and the [pentagonum]{.vocab tabindex="0" data-def="pentagonum 五边形"} (a five-sided polygon) appear in architectural frameworks and molecular cage structures alike. The concept of a [multiplier]{.vocab tabindex="0" data-def="multiplier · n. 乘数"} in linear systems amplifies an input signal, and [idempotent]{.vocab tabindex="0" data-def="idempotent · n. 幂等,等幂; 幂等的"} operations — those that produce the same result when applied repeatedly — are foundational in database design and functional programming. Modern communications depend on [end-to-end]{.vocab tabindex="0" data-def="end-to-end · adj. 端到端的"} [encryption]{.vocab tabindex="0" data-def="encryption · n. 编密码"} to protect data in transit, ensuring that messages remain confidential across heterogeneous networks. Engineers often [homogenize]{.vocab tabindex="0" data-def="homogenize · vt. 使类同; 使…均质"} composite materials to produce a [homogenous]{.vocab tabindex="0" data-def="homogenous · adj. 同质的,纯系的"} medium whose properties can be modeled by simple equations, while [hydroponic]{.vocab tabindex="0" data-def="hydroponic · adj. 溶液培养的"} cultivation systems deliver precisely controlled nutrient solutions to plant roots, demonstrating how technology streamlines biological production.
 
 ### Signals, Structures, and Systems: A Survey of Scientific Concepts
 
-:::: {.columns}
-::: {.column width="57%"}
-Modern science progresses by combining rigorous **methodology** with precise measurement. Researchers routinely **hypothesize** that a given variable will influence an outcome, then design experiments whose results serve as a **litmus test** for the theory. A core step in this process is **quantifying** observations — transforming raw data into numbers that can be compared, ordered, and analyzed. Where numbers alone are insufficient, **qualitative** assessment of patterns and anomalies fills the gap.
+Modern science progresses by combining rigorous [methodology]{.vocab tabindex="0" data-def="methodology · n. 一套方法; 方法学,方法论; 方法学的; 方法论者,方法学者"} with precise measurement. Researchers routinely [hypothesize]{.vocab tabindex="0" data-def="hypothesize · v. 假设,假定,猜测"} that a given variable will influence an outcome, then design experiments whose results serve as a [litmus test]{.vocab tabindex="0" data-def="litmus test · n. 石蕊试验;试金石,最后的检验"} for the theory. A core step in this process is [quantifying]{.vocab tabindex="0" data-def="quantifying · n. 定量法"} observations — transforming raw data into numbers that can be compared, ordered, and analyzed. Where numbers alone are insufficient, [qualitative]{.vocab tabindex="0" data-def="qualitative · adj. 定性的，性质的；质量的"} assessment of patterns and anomalies fills the gap.
 
-In physics and engineering, motion is described through **acceleration**, the rate at which velocity changes, while signals must often **synchronize** across devices so that clocks and data streams stay aligned. When one component experiences a **malfunction**, engineers **reconfigure** the system architecture to restore operation. Navigation teams use GPS satellites to **triangulate** a receiver's position, computing coordinates from timing differences across multiple orbital nodes. The mathematics underlying such geometry traces back to **Pythagorean** relationships between distances, and each variable in a model may initially carry a **placeholder** value until real measurements replace it. When the number of possible orderings grows large, researchers enumerate every **permutation** to ensure no configuration is overlooked. For communication channels that do not require a shared clock, **asynchronous** protocols handle variable timing gracefully, whereas **conductivity** measurements reveal how readily a material passes electrical or thermal energy.
+In physics and engineering, motion is described through [acceleration]{.vocab tabindex="0" data-def="acceleration · n. 加速；加快; 加速能力,加速的幅度; 加速度; 跳级"}, the rate at which velocity changes, while signals must often [synchronize]{.vocab tabindex="0" data-def="synchronize · vt. 把拨至相同的时间；校准; &amp; 同步；同速进行; 同步; 同步器"} across devices so that clocks and data streams stay aligned. When one component experiences a [malfunction]{.vocab tabindex="0" data-def="malfunction · n. 故障, 障碍"}, engineers [reconfigure]{.vocab tabindex="0" data-def="reconfigure · v. 重新装配,改装"} the system architecture to restore operation. Navigation teams use GPS satellites to [triangulate]{.vocab tabindex="0" data-def="triangulate · vt. 分成三角形,对…作三角测量; 由三角形而成的,有三角花样的"} a receiver's position, computing coordinates from timing differences across multiple orbital nodes. The mathematics underlying such geometry traces back to [Pythagorean]{.vocab tabindex="0" data-def="Pythagorean · adj. 毕达哥拉斯的"} relationships between distances, and each variable in a model may initially carry a [placeholder]{.vocab tabindex="0" data-def="placeholder · n. 占位符"} value until real measurements replace it. When the number of possible orderings grows large, researchers enumerate every [permutation]{.vocab tabindex="0" data-def="permutation · n. 序列，排列；排列中的任一组数字或文字"} to ensure no configuration is overlooked. For communication channels that do not require a shared clock, [asynchronous]{.vocab tabindex="0" data-def="asynchronous · adj. 异步的"} protocols handle variable timing gracefully, whereas [conductivity]{.vocab tabindex="0" data-def="conductivity · n. 传导性;传导率;电导率"} measurements reveal how readily a material passes electrical or thermal energy.
 
-Biology operates at every scale from molecule to biosphere. **Prokaryotic** cells, which lack a membrane-bound nucleus, rely on the **propagation** of genetic information through simple replication. Inside cells, **polypeptide** chains fold into functional proteins whose behavior can be **pleiotropic** — a single gene affecting multiple, seemingly unrelated traits. Cells process **carbohydrate** molecules as a primary energy currency, and laboratory chemists can **centrifugate** a mixture to isolate a **precipitate** that settles under centrifugal force. Organisms living in **commensalism** share an environment where one partner benefits and the other is unaffected. At the ecosystem level, **biogeography** maps how species distributions reflect geology, climate, and evolutionary history, while **anthropology** situates human populations within that broader biological and cultural landscape. **Heliotropic** plants orient their growth toward sunlight, a behavior that ecologists study alongside the **mechanistic** cellular pathways that drive it. Whether a gene's influence on development is **mechanistic** or probabilistic remains a recurring question in **quantifying** phenotypic variation.
+Biology operates at every scale from molecule to biosphere. [Prokaryotic]{.vocab tabindex="0" data-def="prokaryotic · adj. 原核的"} cells, which lack a membrane-bound nucleus, rely on the [propagation]{.vocab tabindex="0" data-def="propagation · n. 繁殖;增殖; 宣传;波及; 遗传"} of genetic information through simple replication. Inside cells, [polypeptide]{.vocab tabindex="0" data-def="polypeptide · n. 多肽"} chains fold into functional proteins whose behavior can be [pleiotropic]{.vocab tabindex="0" data-def="pleiotropic · adj. 多效性的，多向性的"} — a single gene affecting multiple, seemingly unrelated traits. Cells process [carbohydrate]{.vocab tabindex="0" data-def="carbohydrate · n. 碳水化合物; 糖类; 淀粉质或糖类食物"} molecules as a primary energy currency, and laboratory chemists can [centrifugate]{.vocab tabindex="0" data-def="centrifugate · n. 以离心力分出之物; 使离心,利用离心力分离"} a mixture to isolate a [precipitate]{.vocab tabindex="0" data-def="precipitate · vt. 使发生；促成; 猛然摔下; 使沉淀，使淀析; 沉淀，淀析；凝结; 〈化〉沉淀物；析出物；冷凝物; 急…"} that settles under centrifugal force. Organisms living in [commensalism]{.vocab tabindex="0" data-def="commensalism · n. 共栖；共生"} share an environment where one partner benefits and the other is unaffected. At the ecosystem level, [biogeography]{.vocab tabindex="0" data-def="biogeography · n. 生物地理学"} maps how species distributions reflect geology, climate, and evolutionary history, while [anthropology]{.vocab tabindex="0" data-def="anthropology · n. 人类学; 人类学家"} situates human populations within that broader biological and cultural landscape. [Heliotropic]{.vocab tabindex="0" data-def="heliotropic · adj. 向日性的,趋日性的"} plants orient their growth toward sunlight, a behavior that ecologists study alongside the [mechanistic]{.vocab tabindex="0" data-def="mechanistic · adj. 机械论学说的,机械论的"} cellular pathways that drive it. Whether a gene's influence on development is [mechanistic]{.vocab tabindex="0" data-def="mechanistic · adj. 机械论学说的,机械论的"} or probabilistic remains a recurring question in [quantifying]{.vocab tabindex="0" data-def="quantifying · n. 定量法"} phenotypic variation.
 
-In laboratory and display technology, **fluorescent** materials absorb high-energy radiation and re-emit it as visible light, a principle exploited in microscopy, screens, and signage. A **planetarium** uses projection systems to recreate the night sky on a domed ceiling, demonstrating orbital mechanics to the public. The **constituents** of any complex system — whether a chemical solution, an organism, or a software stack — must be identified before their interactions can be modeled. The full set of such **constituents** defines the system's boundary conditions. Across all these domains, the **acceleration** of discovery depends on clear frameworks: researchers treat each **methodology** as a living document, ready to be revised whenever evidence demands it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **fluorescent** <span class="wpos">adj.</span> | 荧光的, 发荧光的 |
-| **heliotropic** <span class="wpos">adj.</span> | 向日性的,趋日性的 |
-| **hypothesize** <span class="wpos">v.</span> | 假设,假定,猜测 |
-| **litmus test** <span class="wpos">n.</span> | 石蕊试验;试金石,最后的检验 |
-| **malfunction** <span class="wpos">n.</span> | 故障, 障碍 |
-| **mechanistic** <span class="wpos">adj.</span> | 机械论学说的,机械论的 |
-| **methodology** <span class="wpos">n.</span> | 一套方法; 方法学,方法论; 方法学的; 方法论者,方法学者 |
-| **permutation** <span class="wpos">n.</span> | 序列，排列；排列中的任一组数字或文字 |
-| **placeholder** <span class="wpos">n.</span> | 占位符 |
-| **planetarium** <span class="wpos">n.</span> | 天文馆; 天象仪 |
-| **pleiotropic** <span class="wpos">adj.</span> | 多效性的，多向性的 |
-| **polypeptide** <span class="wpos">n.</span> | 多肽 |
-| **precipitate** <span class="wpos">vt.</span> | 使发生；促成; 猛然摔下; 使沉淀，使淀析; 沉淀，淀析；凝结; 〈化〉沉淀物；析出物；冷凝物; 急… |
-| **prokaryotic** <span class="wpos">adj.</span> | 原核的 |
-| **propagation** <span class="wpos">n.</span> | 繁殖;增殖; 宣传;波及; 遗传 |
-| **Pythagorean** <span class="wpos">adj.</span> | 毕达哥拉斯的 |
-| **qualitative** <span class="wpos">adj.</span> | 定性的，性质的；质量的 |
-| **quantifying** <span class="wpos">n.</span> | 定量法 |
-| **reconfigure** <span class="wpos">v.</span> | 重新装配,改装 |
-| **synchronize** <span class="wpos">vt.</span> | 把拨至相同的时间；校准; &amp; 同步；同速进行; 同步; 同步器 |
-| **triangulate** <span class="wpos">vt.</span> | 分成三角形,对…作三角测量; 由三角形而成的,有三角花样的 |
-| **acceleration** <span class="wpos">n.</span> | 加速；加快; 加速能力,加速的幅度; 加速度; 跳级 |
-| **anthropology** <span class="wpos">n.</span> | 人类学; 人类学家 |
-| **asynchronous** <span class="wpos">adj.</span> | 异步的 |
-| **biogeography** <span class="wpos">n.</span> | 生物地理学 |
-| **carbohydrate** <span class="wpos">n.</span> | 碳水化合物; 糖类; 淀粉质或糖类食物 |
-| **centrifugate** <span class="wpos">n.</span> | 以离心力分出之物; 使离心,利用离心力分离 |
-| **commensalism** <span class="wpos">n.</span> | 共栖；共生 |
-| **conductivity** <span class="wpos">n.</span> | 传导性;传导率;电导率 |
-| **constituents** | 组分 |
-:::
-:::
-::::
+In laboratory and display technology, [fluorescent]{.vocab tabindex="0" data-def="fluorescent · adj. 荧光的, 发荧光的"} materials absorb high-energy radiation and re-emit it as visible light, a principle exploited in microscopy, screens, and signage. A [planetarium]{.vocab tabindex="0" data-def="planetarium · n. 天文馆; 天象仪"} uses projection systems to recreate the night sky on a domed ceiling, demonstrating orbital mechanics to the public. The [constituents]{.vocab tabindex="0" data-def="constituents 组分"} of any complex system — whether a chemical solution, an organism, or a software stack — must be identified before their interactions can be modeled. The full set of such [constituents]{.vocab tabindex="0" data-def="constituents 组分"} defines the system's boundary conditions. Across all these domains, the [acceleration]{.vocab tabindex="0" data-def="acceleration · n. 加速；加快; 加速能力,加速的幅度; 加速度; 跳级"} of discovery depends on clear frameworks: researchers treat each [methodology]{.vocab tabindex="0" data-def="methodology · n. 一套方法; 方法学,方法论; 方法学的; 方法论者,方法学者"} as a living document, ready to be revised whenever evidence demands it.
 
 ### From Fermentation Flasks to Phylogenetic Trees: A Tour of Modern Science
 
-:::: {.columns}
-::: {.column width="57%"}
-In a well-equipped biology laboratory, an **entomologist** and a molecular biologist often work side by side. The entomologist may be studying the **metamorphosis** of a beetle larva — tracking how gene expression reshapes body form through each stage — while a few benches away, an **experimenter** monitors a **fermentation** culture, watching yeast convert sugars into ethanol as gas bubbles signal microbial activity. Both researchers rely on the same cellular machinery: every living cell harbors **mitochondria**, the membrane-bound organelles that generate ATP, and each **mitochondrion** is enclosed by a double membrane rich in **phospholipid** bilayers — a class of **macromolecule** that controls what enters and exits the cell.
+In a well-equipped biology laboratory, an [entomologist]{.vocab tabindex="0" data-def="entomologist · n. 昆虫学者"} and a molecular biologist often work side by side. The entomologist may be studying the [metamorphosis]{.vocab tabindex="0" data-def="metamorphosis · n. 变形; 改变"} of a beetle larva — tracking how gene expression reshapes body form through each stage — while a few benches away, an [experimenter]{.vocab tabindex="0" data-def="experimenter · n. 实验者"} monitors a [fermentation]{.vocab tabindex="0" data-def="fermentation · n. 发酵; 激动, 纷扰"} culture, watching yeast convert sugars into ethanol as gas bubbles signal microbial activity. Both researchers rely on the same cellular machinery: every living cell harbors [mitochondria]{.vocab tabindex="0" data-def="mitochondria · n. 线粒体"}, the membrane-bound organelles that generate ATP, and each [mitochondrion]{.vocab tabindex="0" data-def="mitochondrion · n. 线粒体"} is enclosed by a double membrane rich in [phospholipid]{.vocab tabindex="0" data-def="phospholipid · n. 磷脂"} bilayers — a class of [macromolecule]{.vocab tabindex="0" data-def="macromolecule · n. 巨大分子,高分子"} that controls what enters and exits the cell.
 
-Understanding how species are related requires **phylogenetics**, the discipline that reconstructs evolutionary history from shared traits and molecular data. A **synapomorphy** — a derived character shared by two or more taxa — is the key evidence used to argue that a group is **monophyletic**, meaning all members descend from a single common ancestor. When members of a proposed group come from multiple independent lineages, the grouping is instead described as **polyphyletic**. **Phylogenetic** trees of **Homo sapiens** and its closest relatives reveal that our lineage is monophyletic, and studies of ancient mitochondrial DNA show that modern populations carry **heterozygous** variants accumulated over tens of thousands of years.
+Understanding how species are related requires [phylogenetics]{.vocab tabindex="0" data-def="phylogenetics · n. 系统发生学"}, the discipline that reconstructs evolutionary history from shared traits and molecular data. A [synapomorphy]{.vocab tabindex="0" data-def="synapomorphy · n. 共源性状"} — a derived character shared by two or more taxa — is the key evidence used to argue that a group is [monophyletic]{.vocab tabindex="0" data-def="monophyletic · adj. 单元的,单源的"}, meaning all members descend from a single common ancestor. When members of a proposed group come from multiple independent lineages, the grouping is instead described as [polyphyletic]{.vocab tabindex="0" data-def="polyphyletic · adj. 多源的"}. [Phylogenetic]{.vocab tabindex="0" data-def="phylogenetic · adj. 系统发生的,动植物种类史的"} trees of [Homo sapiens]{.vocab tabindex="0" data-def="Homo sapiens · n. 智人"} and its closest relatives reveal that our lineage is monophyletic, and studies of ancient mitochondrial DNA show that modern populations carry [heterozygous]{.vocab tabindex="0" data-def="heterozygous · adj. 杂合的"} variants accumulated over tens of thousands of years.
 
-Alongside biological measurement, computation and mathematics provide the analytical backbone of science. A **breadth-first** search algorithm explores a graph level by level — a strategy used in network analysis and route planning. **Factorization** of large integers underpins modern cryptography: finding that a number is a **prime number** (divisible only by one and itself) is straightforward, yet reversing the process for a large composite integer is computationally hard. Geometric reasoning enters whenever researchers work with spatial data: the **circumference** of a circular cross-section, the area of a **parallelogram**, or the measure of an **obtuse angle** all appear in materials science and engineering design. Scaling laws often behave **geometrically** — a quantity that grows by a constant ratio at each step rather than by a constant increment. **Extrapolation** from observed data points lets scientists estimate values outside the measured range, and **superposition** of wave functions or signals is fundamental to optics, quantum mechanics, and signal processing alike. In logic and computer science, a **biconditional** statement ("P if and only if Q") defines the precise equivalence that formal proofs require, while **concatenation** of character strings underlies every data-processing pipeline that assembles identifiers, sequences, or file paths.
+Alongside biological measurement, computation and mathematics provide the analytical backbone of science. A [breadth-first]{.vocab tabindex="0" data-def="breadth-first 宽度优先"} search algorithm explores a graph level by level — a strategy used in network analysis and route planning. [Factorization]{.vocab tabindex="0" data-def="factorization · n. 因数分解"} of large integers underpins modern cryptography: finding that a number is a [prime number]{.vocab tabindex="0" data-def="prime number · n. 质数,素数"} (divisible only by one and itself) is straightforward, yet reversing the process for a large composite integer is computationally hard. Geometric reasoning enters whenever researchers work with spatial data: the [circumference]{.vocab tabindex="0" data-def="circumference · n. 周围;圆周"} of a circular cross-section, the area of a [parallelogram]{.vocab tabindex="0" data-def="parallelogram · n. 平行四边形"}, or the measure of an [obtuse angle]{.vocab tabindex="0" data-def="obtuse angle 钝角"} all appear in materials science and engineering design. Scaling laws often behave [geometrically]{.vocab tabindex="0" data-def="geometrically · adv. 用几何学,几何学上"} — a quantity that grows by a constant ratio at each step rather than by a constant increment. [Extrapolation]{.vocab tabindex="0" data-def="extrapolation · n. 推断; 外推"} from observed data points lets scientists estimate values outside the measured range, and [superposition]{.vocab tabindex="0" data-def="superposition · n. 重叠,重合,叠合"} of wave functions or signals is fundamental to optics, quantum mechanics, and signal processing alike. In logic and computer science, a [biconditional]{.vocab tabindex="0" data-def="biconditional · adj. 双态的"} statement ("P if and only if Q") defines the precise equivalence that formal proofs require, while [concatenation]{.vocab tabindex="0" data-def="concatenation · n. 一系列互相关联的事物"} of character strings underlies every data-processing pipeline that assembles identifiers, sequences, or file paths.
 
-In neuroscience, the neurotransmitter **acetylcholine** carries signals across synapses between motor neurons and muscle fibers. Its activity can be measured and **psychometrics** — the science of psychological and cognitive measurement — has developed quantitative tools to relate such neural signals to behavior and performance. Meanwhile, chemists studying crystalline materials may **recrystallize** a compound repeatedly to improve its purity; under ultraviolet light, certain purified samples display **fluorescence**, emitting visible light after absorbing higher-energy radiation. Taken together, these threads — fermentation, phylogenetics, prime numbers, neurotransmitters, and crystal optics — illustrate the elegant **concatenation** of disciplines that defines contemporary science and engineering.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **entomologist** <span class="wpos">n.</span> | 昆虫学者 |
-| **experimenter** <span class="wpos">n.</span> | 实验者 |
-| **fermentation** <span class="wpos">n.</span> | 发酵; 激动, 纷扰 |
-| **fluorescence** <span class="wpos">n.</span> | 荧光,荧光性 |
-| **heterozygous** <span class="wpos">adj.</span> | 杂合的 |
-| **Homo sapiens** <span class="wpos">n.</span> | 智人 |
-| **mitochondria** <span class="wpos">n.</span> | 线粒体 |
-| **monophyletic** <span class="wpos">adj.</span> | 单元的,单源的 |
-| **obtuse angle** | 钝角 |
-| **phospholipid** <span class="wpos">n.</span> | 磷脂 |
-| **phylogenetic** <span class="wpos">adj.</span> | 系统发生的,动植物种类史的 |
-| **polyphyletic** <span class="wpos">adj.</span> | 多源的 |
-| **prime number** <span class="wpos">n.</span> | 质数,素数 |
-| **synapomorphy** <span class="wpos">n.</span> | 共源性状 |
-| **acetylcholine** <span class="wpos">n.</span> | 乙酰胆碱 |
-| **biconditional** <span class="wpos">adj.</span> | 双态的 |
-| **breadth-first** | 宽度优先 |
-| **circumference** <span class="wpos">n.</span> | 周围;圆周 |
-| **concatenation** <span class="wpos">n.</span> | 一系列互相关联的事物 |
-| **extrapolation** <span class="wpos">n.</span> | 推断; 外推 |
-| **factorization** <span class="wpos">n.</span> | 因数分解 |
-| **geometrically** <span class="wpos">adv.</span> | 用几何学,几何学上 |
-| **macromolecule** <span class="wpos">n.</span> | 巨大分子,高分子 |
-| **metamorphosis** <span class="wpos">n.</span> | 变形; 改变 |
-| **mitochondrion** <span class="wpos">n.</span> | 线粒体 |
-| **parallelogram** <span class="wpos">n.</span> | 平行四边形 |
-| **phylogenetics** <span class="wpos">n.</span> | 系统发生学 |
-| **psychometrics** <span class="wpos">n.</span> | 心理测验学 |
-| **recrystallize** <span class="wpos">v.</span> | 再结晶 |
-| **superposition** <span class="wpos">n.</span> | 重叠,重合,叠合 |
-:::
-:::
-::::
+In neuroscience, the neurotransmitter [acetylcholine]{.vocab tabindex="0" data-def="acetylcholine · n. 乙酰胆碱"} carries signals across synapses between motor neurons and muscle fibers. Its activity can be measured and [psychometrics]{.vocab tabindex="0" data-def="psychometrics · n. 心理测验学"} — the science of psychological and cognitive measurement — has developed quantitative tools to relate such neural signals to behavior and performance. Meanwhile, chemists studying crystalline materials may [recrystallize]{.vocab tabindex="0" data-def="recrystallize · v. 再结晶"} a compound repeatedly to improve its purity; under ultraviolet light, certain purified samples display [fluorescence]{.vocab tabindex="0" data-def="fluorescence · n. 荧光,荧光性"}, emitting visible light after absorbing higher-energy radiation. Taken together, these threads — fermentation, phylogenetics, prime numbers, neurotransmitters, and crystal optics — illustrate the elegant [concatenation]{.vocab tabindex="0" data-def="concatenation · n. 一系列互相关联的事物"} of disciplines that defines contemporary science and engineering.
 
 ### From Atomic Nuclei to Living Cells: A Scientific Vocabulary Tour
 
-:::: {.columns}
-::: {.column width="57%"}
-The **transmutation** of elements — the conversion of one atomic species into another — lies at the heart of nuclear physics. When unstable isotopes undergo **disintegration**, they emit particles and energy, a process also called radioactive decay. Scientists exploit **electromagnetic** radiation across a broad spectrum, from gamma rays that probe nuclear structure to radio waves that carry satellite signals. Small **microsatellite** orbiters, boosted into low Earth orbit by a **booster rocket**, now monitor climate, relay communications, and assist in navigation. The **virtualization** of computing resources allows a single physical machine to simulate many independent systems, streamlining the data pipelines that support space missions and ground-based research alike.
+The [transmutation]{.vocab tabindex="0" data-def="transmutation · n. 变化；变形；演变"} of elements — the conversion of one atomic species into another — lies at the heart of nuclear physics. When unstable isotopes undergo [disintegration]{.vocab tabindex="0" data-def="disintegration · n. 瓦解;崩溃; 裂变;蜕变"}, they emit particles and energy, a process also called radioactive decay. Scientists exploit [electromagnetic]{.vocab tabindex="0" data-def="electromagnetic · adj. 电磁的"} radiation across a broad spectrum, from gamma rays that probe nuclear structure to radio waves that carry satellite signals. Small [microsatellite]{.vocab tabindex="0" data-def="microsatellite 微卫星"} orbiters, boosted into low Earth orbit by a [booster rocket]{.vocab tabindex="0" data-def="booster rocket 助推火箭"}, now monitor climate, relay communications, and assist in navigation. The [virtualization]{.vocab tabindex="0" data-def="virtualization 虚拟化"} of computing resources allows a single physical machine to simulate many independent systems, streamlining the data pipelines that support space missions and ground-based research alike.
 
-In the life sciences, **photosynthesis** converts light energy into chemical energy stored in sugars, and **photosynthetic** organisms form the base of nearly every food web on Earth. Plants build structural carbohydrates from **polysaccharide** chains, while short **oligosaccharide** units serve as molecular tags on cell surfaces. **Lipopolysaccharide** molecules embedded in bacterial outer membranes can trigger powerful immune responses, prompting the production of **immunoglobulin** antibodies. The neurotransmitter **norepinephrine** regulates arousal and stress responses, linking biochemistry to behavior. **Phosphorylation** — the addition of a phosphate group to a protein — acts as a molecular switch that turns enzymatic activity on or off. Meanwhile, **oligonucleotide** probes are designed to bind specific DNA sequences, and **electrophoresis** separates DNA or protein fragments by size through a gel matrix under electric current.
+In the life sciences, [photosynthesis]{.vocab tabindex="0" data-def="photosynthesis · n. 光合作用; 光能合成"} converts light energy into chemical energy stored in sugars, and [photosynthetic]{.vocab tabindex="0" data-def="photosynthetic · adj. 光合的;促进光合作用的"} organisms form the base of nearly every food web on Earth. Plants build structural carbohydrates from [polysaccharide]{.vocab tabindex="0" data-def="polysaccharide · n. 多糖；多聚糖"} chains, while short [oligosaccharide]{.vocab tabindex="0" data-def="oligosaccharide · n. 低聚糖,寡糖"} units serve as molecular tags on cell surfaces. [Lipopolysaccharide]{.vocab tabindex="0" data-def="lipopolysaccharide · n. 脂多糖"} molecules embedded in bacterial outer membranes can trigger powerful immune responses, prompting the production of [immunoglobulin]{.vocab tabindex="0" data-def="immunoglobulin · n. 免疫血球素,免疫球蛋白"} antibodies. The neurotransmitter [norepinephrine]{.vocab tabindex="0" data-def="norepinephrine · n. 降肾上腺素,去甲肾上腺素"} regulates arousal and stress responses, linking biochemistry to behavior. [Phosphorylation]{.vocab tabindex="0" data-def="phosphorylation · n. 磷酸化作用"} — the addition of a phosphate group to a protein — acts as a molecular switch that turns enzymatic activity on or off. Meanwhile, [oligonucleotide]{.vocab tabindex="0" data-def="oligonucleotide · n. 低核苷酸,寡核苷酸"} probes are designed to bind specific DNA sequences, and [electrophoresis]{.vocab tabindex="0" data-def="electrophoresis · n. 电泳疗法"} separates DNA or protein fragments by size through a gel matrix under electric current.
 
-Chemists note that **monounsaturated** fatty acids contain exactly one double bond, a structural detail that influences how lipids pack together in cell membranes. The concept of **electronegativity** describes an atom's tendency to attract shared electrons, governing bond polarity across all molecular systems. **Hydrogen peroxide** is a widely studied oxidizing agent whose **disintegration** into water and oxygen can be catalyzed by enzymes. In geology, **age-deposition** processes record environmental history in sedimentary layers that a **paleontologist** reads like a timeline. The study of **identical twin** pairs provides natural experiments for separating genetic from environmental influences on traits. In statistics, a **correlation matrix** summarizes pairwise relationships among many variables, and a **geometric progression** describes sequences where each term is a fixed multiple of the previous one, appearing in models of population growth and signal amplification. A **closed-form solution** expresses such a sequence's sum in a single compact formula, while a **walter lieth diagram** plots temperature and precipitation on the same axes to characterize regional climates. The **dampening effect** of negative feedback loops — whether in control systems or ecosystems — prevents runaway oscillations and keeps processes stable. Finally, **authentication** protocols verify the identity of users and devices, and **bathtu b theorem** (a reliability engineering heuristic describing failure rates over a product's lifetime) reminds engineers that vigilance is needed at both the start and end of a system's operational life. Together, **disaggregation** of complex phenomena into measurable components, and careful **authentication** of data sources, remain foundational practices across every scientific discipline.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **transmutation** <span class="wpos">n.</span> | 变化；变形；演变 |
-| **age-deposition** | 时效沉积 |
-| **authentication** <span class="wpos">n.</span> | 证明,鉴定 |
-| **bathtuBtheorem** | 浴缸定理 |
-| **booster rocket** | 助推火箭 |
-| **disaggregation** <span class="wpos">n.</span> | 崩溃,解体 |
-| **disintegration** <span class="wpos">n.</span> | 瓦解;崩溃; 裂变;蜕变 |
-| **identical twin** <span class="wpos">n.</span> | 同卵双生，全等双生 |
-| **immunoglobulin** <span class="wpos">n.</span> | 免疫血球素,免疫球蛋白 |
-| **microsatellite** | 微卫星 |
-| **norepinephrine** <span class="wpos">n.</span> | 降肾上腺素,去甲肾上腺素 |
-| **paleontologist** <span class="wpos">n.</span> | 古生物学者 |
-| **photosynthesis** <span class="wpos">n.</span> | 光合作用; 光能合成 |
-| **photosynthetic** <span class="wpos">adj.</span> | 光合的;促进光合作用的 |
-| **polysaccharide** <span class="wpos">n.</span> | 多糖；多聚糖 |
-| **virtualization** | 虚拟化 |
-| **electromagnetic** <span class="wpos">adj.</span> | 电磁的 |
-| **electrophoresis** <span class="wpos">n.</span> | 电泳疗法 |
-| **monounsaturated** <span class="wpos">adj.</span> | 单不饱和的 |
-| **oligonucleotide** <span class="wpos">n.</span> | 低核苷酸,寡核苷酸 |
-| **oligosaccharide** <span class="wpos">n.</span> | 低聚糖,寡糖 |
-| **phosphorylation** <span class="wpos">n.</span> | 磷酸化作用 |
-| **Dampening effect** |  |
-| **electronegativity** | 阴电性;负电性;电负性 |
-| **hydrogen peroxide** | 过氧化氢 |
-| **correlation matrix** | 相关矩阵 |
-| **lipopolysaccharide** <span class="wpos">n.</span> | 脂多糖 |
-| **closed-form solution** |  |
-| **walter lieth diagram** |  |
-| **geometric progression** <span class="wpos">n.</span> | 等比级数 |
-:::
-:::
-::::
+Chemists note that [monounsaturated]{.vocab tabindex="0" data-def="monounsaturated · adj. 单不饱和的"} fatty acids contain exactly one double bond, a structural detail that influences how lipids pack together in cell membranes. The concept of [electronegativity]{.vocab tabindex="0" data-def="electronegativity 阴电性;负电性;电负性"} describes an atom's tendency to attract shared electrons, governing bond polarity across all molecular systems. [Hydrogen peroxide]{.vocab tabindex="0" data-def="hydrogen peroxide 过氧化氢"} is a widely studied oxidizing agent whose [disintegration]{.vocab tabindex="0" data-def="disintegration · n. 瓦解;崩溃; 裂变;蜕变"} into water and oxygen can be catalyzed by enzymes. In geology, [age-deposition]{.vocab tabindex="0" data-def="age-deposition 时效沉积"} processes record environmental history in sedimentary layers that a [paleontologist]{.vocab tabindex="0" data-def="paleontologist · n. 古生物学者"} reads like a timeline. The study of [identical twin]{.vocab tabindex="0" data-def="identical twin · n. 同卵双生，全等双生"} pairs provides natural experiments for separating genetic from environmental influences on traits. In statistics, a [correlation matrix]{.vocab tabindex="0" data-def="correlation matrix 相关矩阵"} summarizes pairwise relationships among many variables, and a [geometric progression]{.vocab tabindex="0" data-def="geometric progression · n. 等比级数"} describes sequences where each term is a fixed multiple of the previous one, appearing in models of population growth and signal amplification. A [closed-form solution]{.vocab tabindex="0" data-def="closed-form solution"} expresses such a sequence's sum in a single compact formula, while a [walter lieth diagram]{.vocab tabindex="0" data-def="walter lieth diagram"} plots temperature and precipitation on the same axes to characterize regional climates. The [dampening effect]{.vocab tabindex="0" data-def="Dampening effect"} of negative feedback loops — whether in control systems or ecosystems — prevents runaway oscillations and keeps processes stable. Finally, [authentication]{.vocab tabindex="0" data-def="authentication · n. 证明,鉴定"} protocols verify the identity of users and devices, and **bathtu b theorem** (a reliability engineering heuristic describing failure rates over a product's lifetime) reminds engineers that vigilance is needed at both the start and end of a system's operational life. Together, [disaggregation]{.vocab tabindex="0" data-def="disaggregation · n. 崩溃,解体"} of complex phenomena into measurable components, and careful [authentication]{.vocab tabindex="0" data-def="authentication · n. 证明,鉴定"} of data sources, remain foundational practices across every scientific discipline.
 
 ### Patterns, Cells, and Numbers: A Scientific Miscellany
 
-:::: {.columns}
-::: {.column width="57%"}
-Mathematics offers a language for describing the world. A **polynomial** expresses a quantity as a sum of powers, each scaled by a **coefficient**, while the ratio at the heart of a fraction is named by its **denominator**. Ancient geometers such as **Pythagoras** uncovered relationships among numbers that still anchor modern theory, and Einstein's theory of **relativity** later reshaped how physicists treat space and time. Statisticians measure how two variables move together through **correlation**, and when a process unfolds with inherent randomness they call it **stochastic**; to estimate uncertainty they may rely on **resampling**, drawing repeatedly from observed data. From a limited sample one can cautiously **extrapolate** to unobserved cases. The **cardinality** of a set counts its members, and computations spread over many machines are described as **distributed**. A spinning system shows a **centrifugal** tendency outward, and when opposing forces balance, it reaches **equilibrium**.
+Mathematics offers a language for describing the world. A [polynomial]{.vocab tabindex="0" data-def="polynomial · adj. 多项式的,多词学名的; 多项式,由2字以上组成的学名"} expresses a quantity as a sum of powers, each scaled by a [coefficient]{.vocab tabindex="0" data-def="coefficient · n. 系数；率，程度；系数"}, while the ratio at the heart of a fraction is named by its [denominator]{.vocab tabindex="0" data-def="denominator · n. 分母"}. Ancient geometers such as [Pythagoras]{.vocab tabindex="0" data-def="Pythagoras · n. 毕达哥拉斯"} uncovered relationships among numbers that still anchor modern theory, and Einstein's theory of [relativity]{.vocab tabindex="0" data-def="relativity · n. 〈物〉相对论; 相关性"} later reshaped how physicists treat space and time. Statisticians measure how two variables move together through [correlation]{.vocab tabindex="0" data-def="correlation · n. 相互的关系"}, and when a process unfolds with inherent randomness they call it [stochastic]{.vocab tabindex="0" data-def="stochastic · adj. 随机的"}; to estimate uncertainty they may rely on [resampling]{.vocab tabindex="0" data-def="resampling 再取样;重采样;重取样"}, drawing repeatedly from observed data. From a limited sample one can cautiously [extrapolate]{.vocab tabindex="0" data-def="extrapolate · vt. 推算,推断"} to unobserved cases. The [cardinality]{.vocab tabindex="0" data-def="cardinality · n. 集的势"} of a set counts its members, and computations spread over many machines are described as [distributed]{.vocab tabindex="0" data-def="distributed · adj. 分布的，分散的"}. A spinning system shows a [centrifugal]{.vocab tabindex="0" data-def="centrifugal · adj. 离心的"} tendency outward, and when opposing forces balance, it reaches [equilibrium]{.vocab tabindex="0" data-def="equilibrium · n. 平衡,均势; 平静"}.
 
-Biology and chemistry supply their own vocabulary. Inside a plant cell, the **chloroplast** houses **chlorophyll**, the green pigment that captures light to **synthesize** sugars; a simple sugar is one kind of **saccharide**. Genetic information is stored in DNA, whose backbone contains **deoxyribose** and whose rungs pair a **pyrimidine** base with its complement, all packaged into **chromosomal** structures. When two alleles are both fully expressed, geneticists speak of **codominance**, and an organism carrying four chromosome sets is **tetraploid**. Some solids form orderly **crystalline** lattices, while a **surfactant** molecule lowers surface tension at a boundary. Pharmacologists have characterized many natural compounds, among them **psilocybin**, a substance found in certain fungi and studied in the laboratory. Organisms whose activity cycles several times a day are termed **polyphasic**, and a botanical specimen lacking a spur is described, in technical Latin, as **excalcarate**.
+Biology and chemistry supply their own vocabulary. Inside a plant cell, the [chloroplast]{.vocab tabindex="0" data-def="chloroplast · n. 叶绿体"} houses [chlorophyll]{.vocab tabindex="0" data-def="chlorophyll · n. 叶绿素"}, the green pigment that captures light to [synthesize]{.vocab tabindex="0" data-def="synthesize · vt. 综合, 使合成; 人工合成"} sugars; a simple sugar is one kind of [saccharide]{.vocab tabindex="0" data-def="saccharide · n. 糖类"}. Genetic information is stored in DNA, whose backbone contains [deoxyribose]{.vocab tabindex="0" data-def="deoxyribose · n. 去氧核醣"} and whose rungs pair a [pyrimidine]{.vocab tabindex="0" data-def="pyrimidine · n. 嘧啶"} base with its complement, all packaged into [chromosomal]{.vocab tabindex="0" data-def="chromosomal · adj. 染色体的"} structures. When two alleles are both fully expressed, geneticists speak of [codominance]{.vocab tabindex="0" data-def="codominance · n. 共显性"}, and an organism carrying four chromosome sets is [tetraploid]{.vocab tabindex="0" data-def="tetraploid · adj. 四倍体的"}. Some solids form orderly [crystalline]{.vocab tabindex="0" data-def="crystalline · adj. 水晶的；似水晶的；结晶质的; 结晶性，结晶度"} lattices, while a [surfactant]{.vocab tabindex="0" data-def="surfactant · n. 表面活性剂"} molecule lowers surface tension at a boundary. Pharmacologists have characterized many natural compounds, among them [psilocybin]{.vocab tabindex="0" data-def="psilocybin · n. 裸头草碱"}, a substance found in certain fungi and studied in the laboratory. Organisms whose activity cycles several times a day are termed [polyphasic]{.vocab tabindex="0" data-def="polyphasic · adj. 多相的，一昼夜间活动和休息多次的"}, and a botanical specimen lacking a spur is described, in technical Latin, as [excalcarate]{.vocab tabindex="0" data-def="excalcarate · adj. 无距的"}.
 
-Computing and the social sciences round out the survey. A programmer may **concatenate** two strings into one, or **encapsulate** related data and behaviour inside a single unit. Meanwhile a **demographer** studies how populations change — birth, migration, and age structure — turning messy human reality into measurable trends.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **polynomial** <span class="wpos">adj.</span> | 多项式的,多词学名的; 多项式,由2字以上组成的学名 |
-| **polyphasic** <span class="wpos">adj.</span> | 多相的，一昼夜间活动和休息多次的 |
-| **psilocybin** <span class="wpos">n.</span> | 裸头草碱 |
-| **pyrimidine** <span class="wpos">n.</span> | 嘧啶 |
-| **Pythagoras** <span class="wpos">n.</span> | 毕达哥拉斯 |
-| **relativity** <span class="wpos">n.</span> | 〈物〉相对论; 相关性 |
-| **resampling** | 再取样;重采样;重取样 |
-| **saccharide** <span class="wpos">n.</span> | 糖类 |
-| **stochastic** <span class="wpos">adj.</span> | 随机的 |
-| **surfactant** <span class="wpos">n.</span> | 表面活性剂 |
-| **synthesize** <span class="wpos">vt.</span> | 综合, 使合成; 人工合成 |
-| **tetraploid** <span class="wpos">adj.</span> | 四倍体的 |
-| **cardinality** <span class="wpos">n.</span> | 集的势 |
-| **centrifugal** <span class="wpos">adj.</span> | 离心的 |
-| **chlorophyll** <span class="wpos">n.</span> | 叶绿素 |
-| **chloroplast** <span class="wpos">n.</span> | 叶绿体 |
-| **chromosomal** <span class="wpos">adj.</span> | 染色体的 |
-| **codominance** <span class="wpos">n.</span> | 共显性 |
-| **coefficient** <span class="wpos">n.</span> | 系数；率，程度；系数 |
-| **concatenate** <span class="wpos">vt.</span> | 把 联系起来; 连接的；联系在一起的 |
-| **correlation** <span class="wpos">n.</span> | 相互的关系 |
-| **crystalline** <span class="wpos">adj.</span> | 水晶的；似水晶的；结晶质的; 结晶性，结晶度 |
-| **demographer** <span class="wpos">n.</span> | 人口统计学家 |
-| **denominator** <span class="wpos">n.</span> | 分母 |
-| **deoxyribose** <span class="wpos">n.</span> | 去氧核醣 |
-| **distributed** <span class="wpos">adj.</span> | 分布的，分散的 |
-| **encapsulate** <span class="wpos">vt.</span> | 装入胶囊; 总结；扼要概括；囊括; 有囊包着的 |
-| **equilibrium** <span class="wpos">n.</span> | 平衡,均势; 平静 |
-| **excalcarate** <span class="wpos">adj.</span> | 无距的 |
-| **extrapolate** <span class="wpos">vt.</span> | 推算,推断 |
-:::
-:::
-::::
+Computing and the social sciences round out the survey. A programmer may [concatenate]{.vocab tabindex="0" data-def="concatenate · vt. 把 联系起来; 连接的；联系在一起的"} two strings into one, or [encapsulate]{.vocab tabindex="0" data-def="encapsulate · vt. 装入胶囊; 总结；扼要概括；囊括; 有囊包着的"} related data and behaviour inside a single unit. Meanwhile a [demographer]{.vocab tabindex="0" data-def="demographer · n. 人口统计学家"} studies how populations change — birth, migration, and age structure — turning messy human reality into measurable trends.

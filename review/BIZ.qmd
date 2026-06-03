@@ -2,439 +2,84 @@
 
 
 
-> 本主题共 9 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 9 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Deal Struck in the Trading Room
 
-:::: {.columns}
-::: {.column width="57%"}
-The startup had secured its first round of funding, and the founding team gathered around a **chart** pinned to the whiteboard to review where the money stood. Their **assets** — mostly equipment and a modest cash reserve — were carefully catalogued, and the CFO had already begun to map out how interest would **accrue** over the next quarter. The company was structured as an **LLC**, which capped personal exposure; still, every co-founder held a **stake** in the outcome, and nobody wanted to **incur** unnecessary losses this early.
+The startup had secured its first round of funding, and the founding team gathered around a [chart]{.vocab tabindex="0" data-def="chart · n. 图表; 航海图; 唱片的每周流行榜; 绘制地图，在图上标出; 跟踪；记述"} pinned to the whiteboard to review where the money stood. Their [assets]{.vocab tabindex="0" data-def="assets · n. 资产"} — mostly equipment and a modest cash reserve — were carefully catalogued, and the CFO had already begun to map out how interest would [accrue]{.vocab tabindex="0" data-def="accrue · vi. 自然增长或利益增加；产生; 积累；获得"} over the next quarter. The company was structured as an [LLC]{.vocab tabindex="0" data-def="LLC abbr. 液面控制；有限责任企业"}, which capped personal exposure; still, every co-founder held a [stake]{.vocab tabindex="0" data-def="stake · n. 桩，棍子；火刑；赌注；奖金; 资助，支持；系…于桩上；把…押下打赌; 打赌"} in the outcome, and nobody wanted to [incur]{.vocab tabindex="0" data-def="incur · vt. 招致，引发；蒙受"} unnecessary losses this early.
 
-Negotiations with the overseas supplier had dragged on for weeks. Their **BATNA** was a smaller regional vendor, but the team held out. The supplier's opening figure was well above **MSRP**, so the procurement lead pushed back, cross-referencing every line item against the original **spec**. In markets where hard currency was scarce, some counterparties still preferred **barter** — trading raw **cargo** for finished goods — yet the deal eventually settled in cash. The agreed price left just enough room for the bonuses and **perks** that kept the engineering staff from walking.
+Negotiations with the overseas supplier had dragged on for weeks. Their [BATNA]{.vocab tabindex="0" data-def="BATNA abbr. 达成谈判协议的最佳选择方案"} was a smaller regional vendor, but the team held out. The supplier's opening figure was well above [MSRP]{.vocab tabindex="0" data-def="MSRP abbr. 制造商建议零售价"}, so the procurement lead pushed back, cross-referencing every line item against the original [spec]{.vocab tabindex="0" data-def="spec · n. 投机；细则；说明书 SPECabbr. Stored Program Educational Com…"}. In markets where hard currency was scarce, some counterparties still preferred [barter]{.vocab tabindex="0" data-def="barter · vi. 进行易货贸易；作物物交换；讨价还价; 以…作为交换；拿…进行易货贸易; 实物交易；物物交换；易货贸易"} — trading raw [cargo]{.vocab tabindex="0" data-def="cargo · n. 货物，船货"} for finished goods — yet the deal eventually settled in cash. The agreed price left just enough room for the bonuses and [perks]{.vocab tabindex="0" data-def="perks · n. 特别待遇；特权；额外津贴; 打扮；使振作；昂首挺胸"} that kept the engineering staff from walking.
 
-On the treasury side, the picture was mixed. The **ruble** exposure from a Russian partnership had been hedged, and a small position in Vietnamese **dong** was tracking sideways. The fund manager noted that the high-**yield** tranche was beginning to look shaky: a broad **slump** in consumer demand had dragged the sector index down, and the **wager** that inflation would ease by Q3 now looked like a long shot. A quick **tally** of open positions confirmed the portfolio was overweight; it was time to **remit** funds to the custodian and rebalance.
+On the treasury side, the picture was mixed. The [ruble]{.vocab tabindex="0" data-def="ruble · n. 卢布"} exposure from a Russian partnership had been hedged, and a small position in Vietnamese [dong]{.vocab tabindex="0" data-def="dong · n. 盾"} was tracking sideways. The fund manager noted that the high-[yield]{.vocab tabindex="0" data-def="yield · vt. 出产；屈服；放弃; 屈服，投降; 收益；产量"} tranche was beginning to look shaky: a broad [slump]{.vocab tabindex="0" data-def="slump · vi. 大幅度下降, 暴跌; 沉重或突然地落下; 萧条期; 〈美〉低潮状态"} in consumer demand had dragged the sector index down, and the [wager]{.vocab tabindex="0" data-def="wager · n. 赌博；赌注；赌物; 打赌; 下赌注"} that inflation would ease by Q3 now looked like a long shot. A quick [tally]{.vocab tabindex="0" data-def="tally · n. 标签；记账；计数器; 计算；记录；使符合; 一致；记分"} of open positions confirmed the portfolio was overweight; it was time to [remit]{.vocab tabindex="0" data-def="remit · vt. 宽恕；免除；减轻；传送；使恢复原状; 汇款；缓和; 移交的事物"} funds to the custodian and rebalance.
 
-Back on the operational side, the **co-op** warehouse had agreed to **allot** two additional bays for inventory through the peak season. It was a small win — worth little more than a handful of **dimes** in the grand scheme — but the logistics director kept a careful **tally** of every saving. There was no room for loose **dibs** on budget lines; every **penny** counted. Even the **booty** of office furniture reclaimed from a bankrupt neighbor had been itemized and valued. The older hands joked that the only honest **lucre** was earned slowly, coin by coin — whether in **plack**, **lat**, or any other currency the world had once decided to trust.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **lat** <span class="wpos">n.</span> | 1940年前拉脱维亚的货币单位 |
-| **LLC** | abbr. 液面控制；有限责任企业 |
-| **SME** | abbr. Society of Manufacturing Engineers 制造工程师学会 |
-| **dibs** <span class="wpos">n.</span> | 权利；零钱；骨制的筹码 |
-| **dime** <span class="wpos">n.</span> | 一角硬币 |
-| **dong** <span class="wpos">n.</span> | 盾 |
-| **MSRP** | abbr. 制造商建议零售价 |
-| **spec** <span class="wpos">n.</span> | 投机；细则；说明书 SPECabbr. Stored Program Educational Com… |
-| **allot** <span class="wpos">vt.</span> | 分配, 拨给, 摊派 |
-| **BATNA** | abbr. 达成谈判协议的最佳选择方案 |
-| **booty** <span class="wpos">n.</span> | 赃物；掠夺物；战利品; 贵重物品; 屁股 |
-| **cargo** <span class="wpos">n.</span> | 货物，船货 |
-| **chart** <span class="wpos">n.</span> | 图表; 航海图; 唱片的每周流行榜; 绘制地图，在图上标出; 跟踪；记述 |
-| **co-op** <span class="wpos">n.</span> | 〈俚〉消费合作社 |
-| **incur** <span class="wpos">vt.</span> | 招致，引发；蒙受 |
-| **lucre** <span class="wpos">n.</span> | 收益；钱财；利润 |
-| **penny** <span class="wpos">n.</span> | 便士；分 Penny彭妮 |
-| **perks** <span class="wpos">n.</span> | 特别待遇；特权；额外津贴; 打扮；使振作；昂首挺胸 |
-| **plack** <span class="wpos">n.</span> | 从前的一种价值很小的钱币 |
-| **purse** <span class="wpos">n.</span> | 钱包，小钱袋；金钱，财源; 皱起，缩拢 |
-| **remit** <span class="wpos">vt.</span> | 宽恕；免除；减轻；传送；使恢复原状; 汇款；缓和; 移交的事物 |
-| **ruble** <span class="wpos">n.</span> | 卢布 |
-| **slump** <span class="wpos">vi.</span> | 大幅度下降, 暴跌; 沉重或突然地落下; 萧条期; 〈美〉低潮状态 |
-| **stake** <span class="wpos">n.</span> | 桩，棍子；火刑；赌注；奖金; 资助，支持；系…于桩上；把…押下打赌; 打赌 |
-| **tally** <span class="wpos">n.</span> | 标签；记账；计数器; 计算；记录；使符合; 一致；记分 |
-| **wager** <span class="wpos">n.</span> | 赌博；赌注；赌物; 打赌; 下赌注 |
-| **yield** <span class="wpos">vt.</span> | 出产；屈服；放弃; 屈服，投降; 收益；产量 |
-| **accrue** <span class="wpos">vi.</span> | 自然增长或利益增加；产生; 积累；获得 |
-| **assets** <span class="wpos">n.</span> | 资产 |
-| **barter** <span class="wpos">vi.</span> | 进行易货贸易；作物物交换；讨价还价; 以…作为交换；拿…进行易货贸易; 实物交易；物物交换；易货贸易 |
-:::
-:::
-::::
+Back on the operational side, the [co-op]{.vocab tabindex="0" data-def="co-op · n. 〈俚〉消费合作社"} warehouse had agreed to [allot]{.vocab tabindex="0" data-def="allot · vt. 分配, 拨给, 摊派"} two additional bays for inventory through the peak season. It was a small win — worth little more than a handful of [dimes]{.vocab tabindex="0" data-def="dime · n. 一角硬币"} in the grand scheme — but the logistics director kept a careful [tally]{.vocab tabindex="0" data-def="tally · n. 标签；记账；计数器; 计算；记录；使符合; 一致；记分"} of every saving. There was no room for loose [dibs]{.vocab tabindex="0" data-def="dibs · n. 权利；零钱；骨制的筹码"} on budget lines; every [penny]{.vocab tabindex="0" data-def="penny · n. 便士；分 Penny彭妮"} counted. Even the [booty]{.vocab tabindex="0" data-def="booty · n. 赃物；掠夺物；战利品; 贵重物品; 屁股"} of office furniture reclaimed from a bankrupt neighbor had been itemized and valued. The older hands joked that the only honest [lucre]{.vocab tabindex="0" data-def="lucre · n. 收益；钱财；利润"} was earned slowly, coin by coin — whether in [plack]{.vocab tabindex="0" data-def="plack · n. 从前的一种价值很小的钱币"}, [lat]{.vocab tabindex="0" data-def="lat · n. 1940年前拉脱维亚的货币单位"}, or any other currency the world had once decided to trust.
 
 ### The Deal That Closed at Midnight
 
-:::: {.columns}
-::: {.column width="57%"}
-The **bursar** at Helix Capital arrived early, her **ledger** already open on the conference table. Today's agenda was dense: a cross-border **cartel** investigation had surfaced, **tariff** exposure on three product lines needed repricing, and the CEO wanted a full **fiscal** review before the board call.
+The [bursar]{.vocab tabindex="0" data-def="bursar · n. 财务主管; 奖学金获得者"} at Helix Capital arrived early, her [ledger]{.vocab tabindex="0" data-def="ledger · n. 分类账"} already open on the conference table. Today's agenda was dense: a cross-border [cartel]{.vocab tabindex="0" data-def="cartel · n. 卡特尔,企业联合"} investigation had surfaced, [tariff]{.vocab tabindex="0" data-def="tariff · n. 关税, 关税表, 货物课税表; 收费表, 价目表"} exposure on three product lines needed repricing, and the CEO wanted a full [fiscal]{.vocab tabindex="0" data-def="fiscal · adj. 国库的；会计的，财政的"} review before the board call.
 
-She began with the numbers. **Accrued** interest on the offshore bonds had ballooned beyond the **accrual** estimate from Q3, which meant the firm would need to **expend** reserves it had hoped to preserve. The **outlay** on the new Shanghai hub could not be **offset** by domestic revenue alone — not this quarter. Management had tried to **garner** fresh capital through a secondary offering, but the market **outbid** their floor price and the round collapsed. One banker quietly suggested they **sublet** two floors of the Munich office to **recoup** some fixed costs, while a leaner team pushed **kaizen** reviews across every department, hunting for anything that could be cut **gratis** from overhead.
+She began with the numbers. [Accrued]{.vocab tabindex="0" data-def="accrued · adj. 应计的；增值的；权责已发生的; 形成；积累"} interest on the offshore bonds had ballooned beyond the [accrual]{.vocab tabindex="0" data-def="accrual · n. 自然增长；自然增长额"} estimate from Q3, which meant the firm would need to [expend]{.vocab tabindex="0" data-def="expend · vt. 花费，使用做某事; 用光；耗尽"} reserves it had hoped to preserve. The [outlay]{.vocab tabindex="0" data-def="outlay · vt. 花费; 费用；经费；支出"} on the new Shanghai hub could not be [offset]{.vocab tabindex="0" data-def="offset · vt. 抵消, 补偿"} by domestic revenue alone — not this quarter. Management had tried to [garner]{.vocab tabindex="0" data-def="garner · vt. 储存；获得；把…储入谷仓; 谷仓 Garner加纳"} fresh capital through a secondary offering, but the market [outbid]{.vocab tabindex="0" data-def="outbid · vt. 出价高于"} their floor price and the round collapsed. One banker quietly suggested they [sublet]{.vocab tabindex="0" data-def="sublet · vt. 转租"} two floors of the Munich office to [recoup]{.vocab tabindex="0" data-def="recoup · vt. 重获; 补偿, 偿还"} some fixed costs, while a leaner team pushed [kaizen]{.vocab tabindex="0" data-def="kaizen · n. 〈日〉改善，不断改进提高"} reviews across every department, hunting for anything that could be cut [gratis]{.vocab tabindex="0" data-def="gratis · adv. 免费地; 免费的"} from overhead.
 
-By afternoon, the tone shifted. A procurement officer arrived to **haggle** over supplier contracts — he waved a **coupon** schedule, hinted at **kiting** allegations against a rival vendor, and insisted that **quotas** on raw-material imports were distorting every **retail** price model the team had built. The legal desk flagged that the government might soon **excise** a preferential clause the firm had relied on for years, effectively tearing up the old **tariff** table. Finance reached for a dusty **cheque** book to settle one legacy obligation, while an analyst ran projections inspired by **Keynes** — deficit spending as stimulus, **thrift** as the enemy of recovery. Someone taped a small **trophy** to the whiteboard: a plastic cup labelled *Most Creative Cash-Flow Footnote*, awarded with dark humour to whoever drafted the **refund** policy for the cancelled product line.
+By afternoon, the tone shifted. A procurement officer arrived to [haggle]{.vocab tabindex="0" data-def="haggle · n. 讨价还价；争论; 乱劈；乱砍; 争论；乱劈"} over supplier contracts — he waved a [coupon]{.vocab tabindex="0" data-def="coupon · n. 息票；赠券；联票；配给券"} schedule, hinted at [kiting]{.vocab tabindex="0" data-def="kiting · n. 挪用补空；开空头支票；冒空；补空"} allegations against a rival vendor, and insisted that [quotas]{.vocab tabindex="0" data-def="quotas · n. 定额，限额；配额; 分配"} on raw-material imports were distorting every [retail]{.vocab tabindex="0" data-def="retail · vt. 零售；转述; 零售; 零售; 以零售方式; 零售的"} price model the team had built. The legal desk flagged that the government might soon [excise]{.vocab tabindex="0" data-def="excise · vt. 切除；收税; 货物税；消费税"} a preferential clause the firm had relied on for years, effectively tearing up the old [tariff]{.vocab tabindex="0" data-def="tariff · n. 关税, 关税表, 货物课税表; 收费表, 价目表"} table. Finance reached for a dusty [cheque]{.vocab tabindex="0" data-def="cheque · n. 支票"} book to settle one legacy obligation, while an analyst ran projections inspired by [Keynes]{.vocab tabindex="0" data-def="Keynes · n. 凯恩斯"} — deficit spending as stimulus, [thrift]{.vocab tabindex="0" data-def="thrift · n. 节俭, 节约"} as the enemy of recovery. Someone taped a small [trophy]{.vocab tabindex="0" data-def="trophy · n. 奖品，奖杯; 纪念品，战利品"} to the whiteboard: a plastic cup labelled *Most Creative Cash-Flow Footnote*, awarded with dark humour to whoever drafted the [refund]{.vocab tabindex="0" data-def="refund · n. 归还, 偿还额, 退款; 归还, 退还"} policy for the cancelled product line.
 
-Late in the evening a separate drama unfolded downstairs. A junior trader had been running a **raffle** among clients — not illegal, but embarrassing — offering **Pfizer** equity at a discount to drum up goodwill. The compliance officer noted that spreading stock gossip made him a rumour **monger** of the worst kind, and that any future **outbid** strategy had to clear legal first. The firm's rivals, meanwhile, distributed glossy brochures **gratis** at a fintech summit, promising **thrift**-friendly savings products and pitching their **retail** banking arm as the antidote to high fees. One slide quoted the **Keynes** multiplier; another boasted of **accrual** accounting so conservative it would make a **bursar** blush.
+Late in the evening a separate drama unfolded downstairs. A junior trader had been running a [raffle]{.vocab tabindex="0" data-def="raffle · n. 抽彩售物; 以抽彩方式售"} among clients — not illegal, but embarrassing — offering [Pfizer]{.vocab tabindex="0" data-def="Pfizer · n. 辉瑞"} equity at a discount to drum up goodwill. The compliance officer noted that spreading stock gossip made him a rumour [monger]{.vocab tabindex="0" data-def="monger · vt. 传播，贩卖; 商人，贩子"} of the worst kind, and that any future [outbid]{.vocab tabindex="0" data-def="outbid · vt. 出价高于"} strategy had to clear legal first. The firm's rivals, meanwhile, distributed glossy brochures [gratis]{.vocab tabindex="0" data-def="gratis · adv. 免费地; 免费的"} at a fintech summit, promising [thrift]{.vocab tabindex="0" data-def="thrift · n. 节俭, 节约"}-friendly savings products and pitching their [retail]{.vocab tabindex="0" data-def="retail · vt. 零售；转述; 零售; 零售; 以零售方式; 零售的"} banking arm as the antidote to high fees. One slide quoted the [Keynes]{.vocab tabindex="0" data-def="Keynes · n. 凯恩斯"} multiplier; another boasted of [accrual]{.vocab tabindex="0" data-def="accrual · n. 自然增长；自然增长额"} accounting so conservative it would make a [bursar]{.vocab tabindex="0" data-def="bursar · n. 财务主管; 奖学金获得者"} blush.
 
-The deal closed just past midnight. Everyone agreed: the real **trophy** was surviving the day with the **ledger** still balanced.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **bursar** <span class="wpos">n.</span> | 财务主管; 奖学金获得者 |
-| **cartel** <span class="wpos">n.</span> | 卡特尔,企业联合 |
-| **cheque** <span class="wpos">n.</span> | 支票 |
-| **coupon** <span class="wpos">n.</span> | 息票；赠券；联票；配给券 |
-| **excise** <span class="wpos">vt.</span> | 切除；收税; 货物税；消费税 |
-| **expend** <span class="wpos">vt.</span> | 花费，使用做某事; 用光；耗尽 |
-| **fiscal** <span class="wpos">adj.</span> | 国库的；会计的，财政的 |
-| **garner** <span class="wpos">vt.</span> | 储存；获得；把…储入谷仓; 谷仓 Garner加纳 |
-| **gratis** <span class="wpos">adv.</span> | 免费地; 免费的 |
-| **haggle** <span class="wpos">n.</span> | 讨价还价；争论; 乱劈；乱砍; 争论；乱劈 |
-| **kaizen** <span class="wpos">n.</span> | 〈日〉改善，不断改进提高 |
-| **Keynes** <span class="wpos">n.</span> | 凯恩斯 |
-| **kiting** <span class="wpos">n.</span> | 挪用补空；开空头支票；冒空；补空 |
-| **ledger** <span class="wpos">n.</span> | 分类账 |
-| **monger** <span class="wpos">vt.</span> | 传播，贩卖; 商人，贩子 |
-| **offset** <span class="wpos">vt.</span> | 抵消, 补偿 |
-| **outbid** <span class="wpos">vt.</span> | 出价高于 |
-| **outlay** <span class="wpos">vt.</span> | 花费; 费用；经费；支出 |
-| **Pfizer** <span class="wpos">n.</span> | 辉瑞 |
-| **quotas** <span class="wpos">n.</span> | 定额，限额；配额; 分配 |
-| **raffle** <span class="wpos">n.</span> | 抽彩售物; 以抽彩方式售 |
-| **recoup** <span class="wpos">vt.</span> | 重获; 补偿, 偿还 |
-| **refund** <span class="wpos">n.</span> | 归还, 偿还额, 退款; 归还, 退还 |
-| **retail** <span class="wpos">vt.</span> | 零售；转述; 零售; 零售; 以零售方式; 零售的 |
-| **sublet** <span class="wpos">vt.</span> | 转租 |
-| **tariff** <span class="wpos">n.</span> | 关税, 关税表, 货物课税表; 收费表, 价目表 |
-| **thrift** <span class="wpos">n.</span> | 节俭, 节约 |
-| **trophy** <span class="wpos">n.</span> | 奖品，奖杯; 纪念品，战利品 |
-| **accrual** <span class="wpos">n.</span> | 自然增长；自然增长额 |
-| **accrued** <span class="wpos">adj.</span> | 应计的；增值的；权责已发生的; 形成；积累 |
-:::
-:::
-::::
+The deal closed just past midnight. Everyone agreed: the real [trophy]{.vocab tabindex="0" data-def="trophy · n. 奖品，奖杯; 纪念品，战利品"} was surviving the day with the [ledger]{.vocab tabindex="0" data-def="ledger · n. 分类账"} still balanced.
 
 ### A Deal Struck in a Volatile Market
 
-:::: {.columns}
-::: {.column width="57%"}
-The **magnate** arrived at the **counter** early, briefing the **actuary** on a new portfolio he planned to **acquire** before the **bidding** began. The assets—once a **bonanza** for their previous owner—had turned **bearish** after the firm's largest **auditee** flagged discrepancies in every **invoice** and **deposit** on record. Now the holding company was preparing to **auction** off its **outlets** across three continents, and the floor was crowded with buyers ready to **compete**.
+The [magnate]{.vocab tabindex="0" data-def="magnate · n. 富豪,权贵,巨头"} arrived at the [counter]{.vocab tabindex="0" data-def="counter · n. 柜台, 柜台式长桌; 计数器; &amp; 对抗, 反驳; 反方向地, 对立地"} early, briefing the [actuary]{.vocab tabindex="0" data-def="actuary · n. 保险精算师,保险计算员"} on a new portfolio he planned to [acquire]{.vocab tabindex="0" data-def="acquire · vt. 获得, 得到, 养成"} before the [bidding]{.vocab tabindex="0" data-def="bidding · n. 投标；出价；命令"} began. The assets—once a [bonanza]{.vocab tabindex="0" data-def="bonanza · n. 富矿带；带来好运之事；幸运"} for their previous owner—had turned [bearish]{.vocab tabindex="0" data-def="bearish · adj. 粗暴的；如熊的；股票看跌的"} after the firm's largest [auditee]{.vocab tabindex="0" data-def="auditee 被审单位"} flagged discrepancies in every [invoice]{.vocab tabindex="0" data-def="invoice · n. 发票；发货单；货物; 开发票；记清单"} and [deposit]{.vocab tabindex="0" data-def="deposit · n. 存款；保证金；沉淀物; 存放；使沉积; 沉淀"} on record. Now the holding company was preparing to [auction]{.vocab tabindex="0" data-def="auction · vt. 拍卖；竞卖; 拍卖"} off its [outlets]{.vocab tabindex="0" data-def="outlets · n. 出路；排水口；销售点；批发商点"} across three continents, and the floor was crowded with buyers ready to [compete]{.vocab tabindex="0" data-def="compete · vi. 竞赛；竞争; 比得上，媲美"}.
 
-The **cashier** handed over a printout of **imputed** rental values and **freight** costs that the analysts had used to **prorate** across each **ratable** division. A **bursary** established by the founder years ago had quietly absorbed some of the **expense**, but it was not enough. After a brief **bargain** over the reserve price, the lead counsel warned that if the highest bidder failed to place a proper **deposit**, the firm reserved the right to treat the transaction as a **default** and **consign** the remaining stock to a secondary market. The deal would only **pay off** if the buyer could clear the **coinage**-era debt load—obligations tied to a fixed **premium** under a contract whose **odd lot** provisions Hyundai's lawyers had flagged three years ago.
+The [cashier]{.vocab tabindex="0" data-def="cashier · n. 出纳员; 革除职务"} handed over a printout of [imputed]{.vocab tabindex="0" data-def="imputed 估算"} rental values and [freight]{.vocab tabindex="0" data-def="freight · n. 货运；货物; 运输，装货于"} costs that the analysts had used to [prorate]{.vocab tabindex="0" data-def="prorate · vt. 按比例分配; 按比例分配"} across each [ratable]{.vocab tabindex="0" data-def="ratable · adj. 可估价的,按比例的,应课税的"} division. A [bursary]{.vocab tabindex="0" data-def="bursary · n. 财务办公室；大学奖学金"} established by the founder years ago had quietly absorbed some of the [expense]{.vocab tabindex="0" data-def="expense · n. 开支；消费；损失，代价; 向…收取费用; 被花掉"}, but it was not enough. After a brief [bargain]{.vocab tabindex="0" data-def="bargain · n. 交易；契约；特价商品; 讨价还价；成交; 讨价还价；拿…做交易"} over the reserve price, the lead counsel warned that if the highest bidder failed to place a proper [deposit]{.vocab tabindex="0" data-def="deposit · n. 存款；保证金；沉淀物; 存放；使沉积; 沉淀"}, the firm reserved the right to treat the transaction as a [default]{.vocab tabindex="0" data-def="default · v. 拖欠，不履行债务；违约；默认，预设；弃权，未到场; 拖欠，不履行债务；违约；默认结果，既定结果；预置…"} and [consign]{.vocab tabindex="0" data-def="consign · vt. 把…托人代售; 把…托付给, 把…交付给; 丟弃，拋弃；把…搁置一旁; 把…置于；打发；发落"} the remaining stock to a secondary market. The deal would only [pay off]{.vocab tabindex="0" data-def="pay off 偿清,贿赂"} if the buyer could clear the [coinage]{.vocab tabindex="0" data-def="coinage · n. 货币制度"}-era debt load—obligations tied to a fixed [premium]{.vocab tabindex="0" data-def="premium · n. 奖金，津贴；加价；附加费；保险费；额外费用; 高级的；优质的，顶级的"} under a contract whose [odd lot]{.vocab tabindex="0" data-def="odd lot"} provisions Hyundai's lawyers had flagged three years ago.
 
-By afternoon, the **bailout** package from the sovereign fund was confirmed, and the **jackpot** scenario the board had barely dared to model was suddenly real.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **acquire** <span class="wpos">vt.</span> | 获得, 得到, 养成 |
-| **actuary** <span class="wpos">n.</span> | 保险精算师,保险计算员 |
-| **auction** <span class="wpos">vt.</span> | 拍卖；竞卖; 拍卖 |
-| **auditee** | 被审单位 |
-| **bailout** <span class="wpos">n.</span> | 紧急财政援助 |
-| **bargain** <span class="wpos">n.</span> | 交易；契约；特价商品; 讨价还价；成交; 讨价还价；拿…做交易 |
-| **bearish** <span class="wpos">adj.</span> | 粗暴的；如熊的；股票看跌的 |
-| **bidding** <span class="wpos">n.</span> | 投标；出价；命令 |
-| **bonanza** <span class="wpos">n.</span> | 富矿带；带来好运之事；幸运 |
-| **bursary** <span class="wpos">n.</span> | 财务办公室；大学奖学金 |
-| **cashier** <span class="wpos">n.</span> | 出纳员; 革除职务 |
-| **coinage** <span class="wpos">n.</span> | 货币制度 |
-| **compete** <span class="wpos">vi.</span> | 竞赛；竞争; 比得上，媲美 |
-| **consign** <span class="wpos">vt.</span> | 把…托人代售; 把…托付给, 把…交付给; 丟弃，拋弃；把…搁置一旁; 把…置于；打发；发落 |
-| **counter** <span class="wpos">n.</span> | 柜台, 柜台式长桌; 计数器; &amp; 对抗, 反驳; 反方向地, 对立地 |
-| **default** <span class="wpos">v.</span> | 拖欠，不履行债务；违约；默认，预设；弃权，未到场; 拖欠，不履行债务；违约；默认结果，既定结果；预置… |
-| **deposit** <span class="wpos">n.</span> | 存款；保证金；沉淀物; 存放；使沉积; 沉淀 |
-| **expense** <span class="wpos">n.</span> | 开支；消费；损失，代价; 向…收取费用; 被花掉 |
-| **freight** <span class="wpos">n.</span> | 货运；货物; 运输，装货于 |
-| **Hyundai** <span class="wpos">n.</span> | 现代 |
-| **imputed** | 估算 |
-| **invoice** <span class="wpos">n.</span> | 发票；发货单；货物; 开发票；记清单 |
-| **jackpot** <span class="wpos">n.</span> | 累积赌注；头奖；十分成功; 累积赌注的；头奖的；大笔收入的 |
-| **magnate** <span class="wpos">n.</span> | 富豪,权贵,巨头 |
-| **odd lot** |  |
-| **outlets** <span class="wpos">n.</span> | 出路；排水口；销售点；批发商点 |
-| **pay off** | 偿清,贿赂 |
-| **premium** <span class="wpos">n.</span> | 奖金，津贴；加价；附加费；保险费；额外费用; 高级的；优质的，顶级的 |
-| **prorate** <span class="wpos">vt.</span> | 按比例分配; 按比例分配 |
-| **ratable** <span class="wpos">adj.</span> | 可估价的,按比例的,应课税的 |
-:::
-:::
-::::
+By afternoon, the [bailout]{.vocab tabindex="0" data-def="bailout · n. 紧急财政援助"} package from the sovereign fund was confirmed, and the [jackpot]{.vocab tabindex="0" data-def="jackpot · n. 累积赌注；头奖；十分成功; 累积赌注的；头奖的；大笔收入的"} scenario the board had barely dared to model was suddenly real.
 
 ### The Deal That Almost Wasn't
 
-:::: {.columns}
-::: {.column width="57%"}
-The investment committee had gathered to review a **brokered** arrangement between two mid-market rivals — a merger that analysts had spent months **touting** as a textbook case of **synergy**. On paper, the combined entity looked compelling: the acquiring firm carried substantial **goodwill** on its books, its balance sheet was clean, and every **dividend** had been paid on schedule. The target, by contrast, was quietly **indebted** to three lenders and had **incurred** significant legal costs in a trademark dispute. Still, the deal team was confident. The GDP **deflator** had just been revised downward, **monetary** policy was loosening, and **affluent** institutional buyers were hungry for yield.
+The investment committee had gathered to review a [brokered]{.vocab tabindex="0" data-def="brokered · adj. 由权力经纪人安排的"} arrangement between two mid-market rivals — a merger that analysts had spent months [touting]{.vocab tabindex="0" data-def="touting · v. 兜售；招徕顾客"} as a textbook case of [synergy]{.vocab tabindex="0" data-def="synergy · n. 协同作用；协同；增效"}. On paper, the combined entity looked compelling: the acquiring firm carried substantial [goodwill]{.vocab tabindex="0" data-def="goodwill · n. 友好, 亲善, 善意; 信誉, 声誉"} on its books, its balance sheet was clean, and every [dividend]{.vocab tabindex="0" data-def="dividend · n. 股息；被除数；奖金"} had been paid on schedule. The target, by contrast, was quietly [indebted]{.vocab tabindex="0" data-def="indebted · adj. 负债的；感激的；受惠的; 使负债；使受恩惠"} to three lenders and had [incurred]{.vocab tabindex="0" data-def="incurred · v. 遭受；招致"} significant legal costs in a trademark dispute. Still, the deal team was confident. The GDP [deflator]{.vocab tabindex="0" data-def="deflator · n. 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数"} had just been revised downward, [monetary]{.vocab tabindex="0" data-def="monetary · adj. 财政的；货币的"} policy was loosening, and [affluent]{.vocab tabindex="0" data-def="affluent · adj. 富裕的；丰富的；流畅的; 支流；富人"} institutional buyers were hungry for yield.
 
-The lead banker arrived with a thick deck and a simple pitch: the target's retail arm — a chain of **boutique** stores in high-foot-traffic corridors — was essentially a hidden **spinoff** waiting to happen. Separate it, she argued, and the parent would shed its **downside** exposure while keeping the profitable wholesale unit. She proposed an **open-end** credit facility to fund the transition, with capital **allocated** across three tranches. The first tranche was **upfront**, payable at signing; the rest would be drawn as milestones were hit. The **investee** would receive a government **subsidy** and a renewable-energy **voucher** worth eight figures, dramatically reducing the cash the acquirer needed to **expend** — the lawyer's note confirmed that once **procured**, these credits transferred with the entity.
+The lead banker arrived with a thick deck and a simple pitch: the target's retail arm — a chain of [boutique]{.vocab tabindex="0" data-def="boutique · n. 精品店；专卖流行衣服的小商店; 精品屋的；小规模专售精品的"} stores in high-foot-traffic corridors — was essentially a hidden [spinoff]{.vocab tabindex="0" data-def="spinoff · n. 续集；副产品；附带的利益"} waiting to happen. Separate it, she argued, and the parent would shed its [downside]{.vocab tabindex="0" data-def="downside · adj. 下降趋势的"} exposure while keeping the profitable wholesale unit. She proposed an [open-end]{.vocab tabindex="0" data-def="open-end · adj. 在期限上或数量上无限制的;开放式的; 得议定借款的"} credit facility to fund the transition, with capital [allocated]{.vocab tabindex="0" data-def="allocate · vt. 分配；拨出；使坐落于; 分配；指定"} across three tranches. The first tranche was [upfront]{.vocab tabindex="0" data-def="upfront · adj. 预付的；在前面的; 在前面；提前支付"}, payable at signing; the rest would be drawn as milestones were hit. The [investee]{.vocab tabindex="0" data-def="investee · n. 接受投资者"} would receive a government [subsidy]{.vocab tabindex="0" data-def="subsidy · n. 津贴；补助金；补贴"} and a renewable-energy [voucher]{.vocab tabindex="0" data-def="voucher · n. 证人；保证人；证明者；收据"} worth eight figures, dramatically reducing the cash the acquirer needed to [expend]{.vocab tabindex="0" data-def="expended · adj. 花费的；支出的；开支的; 花费；耗尽"} — the lawyer's note confirmed that once [procured]{.vocab tabindex="0" data-def="procured · adj. 获得的；采购了的; 获得；促成"}, these credits transferred with the entity.
 
-Not everyone in the room was persuaded. A skeptical partner slid a single page across the table: a schedule of **bad debt** the target had quietly written off over three years, a **kickback** arrangement with a regional distributor that was still under audit, and a **mortgage** on the flagship warehouse that the data room had buried in a footnote. The acquirer, he pointed out, was in danger of trading a **monopoly** position in its core market for a distressed asset dressed up in optimistic projections. Any **gratuity** or retention **stipend** offered to keep the target's management team would merely delay the reckoning. The **commerce** generated by those boutique stores, once you ran it through a proper **deflator**, was shrinking — not growing. The deal might still make sense, he conceded, but only if the price was revised and the **downside** scenarios were stress-tested honestly. He set his pen down and looked at the banker. "**Appraise** it again. At the number that's actually true."
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **spinoff** <span class="wpos">n.</span> | 续集；副产品；附带的利益 |
-| **stipend** <span class="wpos">n.</span> | 薪俸 |
-| **subsidy** <span class="wpos">n.</span> | 津贴；补助金；补贴 |
-| **synergy** <span class="wpos">n.</span> | 协同作用；协同；增效 |
-| **touting** <span class="wpos">v.</span> | 兜售；招徕顾客 |
-| **upfront** <span class="wpos">adj.</span> | 预付的；在前面的; 在前面；提前支付 |
-| **voucher** <span class="wpos">n.</span> | 证人；保证人；证明者；收据 |
-| **affluent** <span class="wpos">adj.</span> | 富裕的；丰富的；流畅的; 支流；富人 |
-| **allocate** <span class="wpos">vt.</span> | 分配；拨出；使坐落于; 分配；指定 |
-| **appraise** <span class="wpos">vt.</span> | 评价，鉴定；估价 |
-| **bad debt** | 坏帐；呆帐 |
-| **boutique** <span class="wpos">n.</span> | 精品店；专卖流行衣服的小商店; 精品屋的；小规模专售精品的 |
-| **brokered** <span class="wpos">adj.</span> | 由权力经纪人安排的 |
-| **commerce** <span class="wpos">n.</span> | 商业, 贸易 |
-| **deflator** <span class="wpos">n.</span> | 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数 |
-| **dividend** <span class="wpos">n.</span> | 股息；被除数；奖金 |
-| **downside** <span class="wpos">adj.</span> | 下降趋势的 |
-| **downturn** <span class="wpos">n.</span> | 开始下降 |
-| **expended** <span class="wpos">adj.</span> | 花费的；支出的；开支的; 花费；耗尽 |
-| **goodwill** <span class="wpos">n.</span> | 友好, 亲善, 善意; 信誉, 声誉 |
-| **gratuity** <span class="wpos">n.</span> | 赏钱，小费；赠物；退职金 |
-| **incurred** <span class="wpos">v.</span> | 遭受；招致 |
-| **indebted** <span class="wpos">adj.</span> | 负债的；感激的；受惠的; 使负债；使受恩惠 |
-| **investee** <span class="wpos">n.</span> | 接受投资者 |
-| **kickback** <span class="wpos">n.</span> | 回扣，佣金；强烈反应；退回赃物 |
-| **monetary** <span class="wpos">adj.</span> | 财政的；货币的 |
-| **monopoly** <span class="wpos">n.</span> | 垄断；垄断者；专卖权 |
-| **mortgage** <span class="wpos">n.</span> | 抵押借款; 抵押债款的利息; 抵押 |
-| **open-end** <span class="wpos">adj.</span> | 在期限上或数量上无限制的;开放式的; 得议定借款的 |
-| **procured** <span class="wpos">adj.</span> | 获得的；采购了的; 获得；促成 |
-:::
-:::
-::::
+Not everyone in the room was persuaded. A skeptical partner slid a single page across the table: a schedule of [bad debt]{.vocab tabindex="0" data-def="bad debt 坏帐；呆帐"} the target had quietly written off over three years, a [kickback]{.vocab tabindex="0" data-def="kickback · n. 回扣，佣金；强烈反应；退回赃物"} arrangement with a regional distributor that was still under audit, and a [mortgage]{.vocab tabindex="0" data-def="mortgage · n. 抵押借款; 抵押债款的利息; 抵押"} on the flagship warehouse that the data room had buried in a footnote. The acquirer, he pointed out, was in danger of trading a [monopoly]{.vocab tabindex="0" data-def="monopoly · n. 垄断；垄断者；专卖权"} position in its core market for a distressed asset dressed up in optimistic projections. Any [gratuity]{.vocab tabindex="0" data-def="gratuity · n. 赏钱，小费；赠物；退职金"} or retention [stipend]{.vocab tabindex="0" data-def="stipend · n. 薪俸"} offered to keep the target's management team would merely delay the reckoning. The [commerce]{.vocab tabindex="0" data-def="commerce · n. 商业, 贸易"} generated by those boutique stores, once you ran it through a proper [deflator]{.vocab tabindex="0" data-def="deflator · n. 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数"}, was shrinking — not growing. The deal might still make sense, he conceded, but only if the price was revised and the [downside]{.vocab tabindex="0" data-def="downside · adj. 下降趋势的"} scenarios were stress-tested honestly. He set his pen down and looked at the banker. "[Appraise]{.vocab tabindex="0" data-def="appraise · vt. 评价，鉴定；估价"} it again. At the number that's actually true."
 
 ### A Deal Closed at Midnight
 
-:::: {.columns}
-::: {.column width="57%"}
-The **takeover** had been in the works for months. By the time the board convened past eleven o'clock, every **guarantee** was in place and the lead **guarantor** — a sovereign wealth fund — had already wired its **allotment** to the escrow account. The target was a mid-sized **commodity** trading house whose **clientele** spanned three continents, and the acquirer intended to **affiliate** it as a wholly owned subsidiary within the quarter.
+The [takeover]{.vocab tabindex="0" data-def="takeover · n. 收购；接收；接管; 强行接管，控制"} had been in the works for months. By the time the board convened past eleven o'clock, every [guarantee]{.vocab tabindex="0" data-def="guarantee · vt. 保证；担保; 使可能发生; 保证，保障；保证书；保用期; 担保，担保人; 担保品，抵押品"} was in place and the lead [guarantor]{.vocab tabindex="0" data-def="guarantor · n. 保证人"} — a sovereign wealth fund — had already wired its [allotment]{.vocab tabindex="0" data-def="allotment · n. 分配，分派，拨款; 份额；份儿；分配物; 养家费"} to the escrow account. The target was a mid-sized [commodity]{.vocab tabindex="0" data-def="commodity · n. 商品, 货物; 有用的东西"} trading house whose [clientele]{.vocab tabindex="0" data-def="clientele · n. 委托人; 顾客，客户"} spanned three continents, and the acquirer intended to [affiliate]{.vocab tabindex="0" data-def="affiliate · v. 附属，隶属；加入，加盟，并入；接纳；紧密联系 分支机构；子公司；分社；联号"} it as a wholly owned subsidiary within the quarter.
 
-Earlier that week, the due-diligence team had spent two days **vouching** for every line item, cross-checking **vouchers** against the ledger and confirming that year-to-date **receipts** comfortably exceeded projections. An **actuarial** model stress-tested the pension liabilities; a **fiduciary** review confirmed that no **endowment** fund on the cap table faced a lock-up conflict. The **solvency** ratios held even under the bear-case scenario, so the **benchmark** was set and the **flotation** price for the new combined entity was finalised.
+Earlier that week, the due-diligence team had spent two days [vouching]{.vocab tabindex="0" data-def="vouching · n. 核单"} for every line item, cross-checking [vouchers]{.vocab tabindex="0" data-def="vouchers · n. 付款凭单；证明人；抵用券"} against the ledger and confirming that year-to-date [receipts]{.vocab tabindex="0" data-def="receipts · n. 进款；收入"} comfortably exceeded projections. An [actuarial]{.vocab tabindex="0" data-def="actuarial · adj. 保险精算师的,保险精算的"} model stress-tested the pension liabilities; a [fiduciary]{.vocab tabindex="0" data-def="fiduciary · adj. 基于信用的,信托的,受信托的; 被信托者,受托人"} review confirmed that no [endowment]{.vocab tabindex="0" data-def="endowment · n. 资助，捐助；捐助的财物等; 天赋，天资，才能; 养老保险"} fund on the cap table faced a lock-up conflict. The [solvency]{.vocab tabindex="0" data-def="solvency · n. 偿付能力；溶解力"} ratios held even under the bear-case scenario, so the [benchmark]{.vocab tabindex="0" data-def="benchmark 基准"} was set and the [flotation]{.vocab tabindex="0" data-def="flotation · n. 开办新公司"} price for the new combined entity was finalised.
 
-Not everyone was pleased. A dissident shareholder had tried to force a **delisting** of the legacy unit and **squander** the goodwill built over decades by rushing a **spin-off** before the ink was dry. The **debenture** holders, meanwhile, fretted about the **carryover** of off-balance-sheet exposure. But the treasury team — backed by the full faith of the **treasury** — published a terse statement: the **incentive** structure rewarded long-term holders, and the firm's **affluence** was not a **showcase** for short-term speculators who triggered a **sell-off** every time a headline crossed the wire.
+Not everyone was pleased. A dissident shareholder had tried to force a [delisting]{.vocab tabindex="0" data-def="delisting · n. 将股票名称从交易所上市股票名单中除去;从表上删除"} of the legacy unit and [squander]{.vocab tabindex="0" data-def="squander · vt. 浪费, 乱花"} the goodwill built over decades by rushing a [spin-off]{.vocab tabindex="0" data-def="spin-off · n. 副产品;让产易股,抽资脱离"} before the ink was dry. The [debenture]{.vocab tabindex="0" data-def="debenture · n. 公司债券"} holders, meanwhile, fretted about the [carryover]{.vocab tabindex="0" data-def="carryover 移后扣减;移行"} of off-balance-sheet exposure. But the treasury team — backed by the full faith of the [treasury]{.vocab tabindex="0" data-def="treasury · n. 财政部；国库，金库；宝库"} — published a terse statement: the [incentive]{.vocab tabindex="0" data-def="incentive · n. 激励某人做某事的事物；刺激；诱因，动机"} structure rewarded long-term holders, and the firm's [affluence]{.vocab tabindex="0" data-def="affluence · n. 富裕; 丰富，充裕，大量; 流入，注入，涌进，汇聚"} was not a [showcase]{.vocab tabindex="0" data-def="showcase · n. 玻璃柜台，玻璃陈列柜; 展示的场合; 展示"} for short-term speculators who triggered a [sell-off]{.vocab tabindex="0" data-def="sell-off · n. 证券的跌价"} every time a headline crossed the wire.
 
-By midnight the documents were signed. The **purveyor** of settlement services logged the final **factoring** entry, the **consignee** acknowledged receipt of the share certificates, and the new parent quietly **treasure**d what it had just won.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **purveyor** <span class="wpos">n.</span> | 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司 |
-| **receipts** <span class="wpos">n.</span> | 进款；收入 |
-| **sell-off** <span class="wpos">n.</span> | 证券的跌价 |
-| **showcase** <span class="wpos">n.</span> | 玻璃柜台，玻璃陈列柜; 展示的场合; 展示 |
-| **solvency** <span class="wpos">n.</span> | 偿付能力；溶解力 |
-| **spin-off** <span class="wpos">n.</span> | 副产品;让产易股,抽资脱离 |
-| **squander** <span class="wpos">vt.</span> | 浪费, 乱花 |
-| **takeover** <span class="wpos">n.</span> | 收购；接收；接管; 强行接管，控制 |
-| **treasure** <span class="wpos">n.</span> | 金银财宝；宝藏; 珍宝，贵重物品; 不可多得的人才; 重视；珍惜 |
-| **treasury** <span class="wpos">n.</span> | 财政部；国库，金库；宝库 |
-| **vouchers** <span class="wpos">n.</span> | 付款凭单；证明人；抵用券 |
-| **vouching** <span class="wpos">n.</span> | 核单 |
-| **actuarial** <span class="wpos">adj.</span> | 保险精算师的,保险精算的 |
-| **affiliate** <span class="wpos">v.</span> | 附属，隶属；加入，加盟，并入；接纳；紧密联系 分支机构；子公司；分社；联号 |
-| **affluence** <span class="wpos">n.</span> | 富裕; 丰富，充裕，大量; 流入，注入，涌进，汇聚 |
-| **allotment** <span class="wpos">n.</span> | 分配，分派，拨款; 份额；份儿；分配物; 养家费 |
-| **benchmark** | 基准 |
-| **carryover** | 移后扣减;移行 |
-| **clientele** <span class="wpos">n.</span> | 委托人; 顾客，客户 |
-| **commodity** <span class="wpos">n.</span> | 商品, 货物; 有用的东西 |
-| **consignee** <span class="wpos">n.</span> | 受托者,收件人,代销人 |
-| **debenture** <span class="wpos">n.</span> | 公司债券 |
-| **delisting** <span class="wpos">n.</span> | 将股票名称从交易所上市股票名单中除去;从表上删除 |
-| **endowment** <span class="wpos">n.</span> | 资助，捐助；捐助的财物等; 天赋，天资，才能; 养老保险 |
-| **factoring** <span class="wpos">n.</span> | 因子分解,因式分解 |
-| **fiduciary** <span class="wpos">adj.</span> | 基于信用的,信托的,受信托的; 被信托者,受托人 |
-| **flotation** <span class="wpos">n.</span> | 开办新公司 |
-| **guarantee** <span class="wpos">vt.</span> | 保证；担保; 使可能发生; 保证，保障；保证书；保用期; 担保，担保人; 担保品，抵押品 |
-| **guarantor** <span class="wpos">n.</span> | 保证人 |
-| **incentive** <span class="wpos">n.</span> | 激励某人做某事的事物；刺激；诱因，动机 |
-:::
-:::
-::::
+By midnight the documents were signed. The [purveyor]{.vocab tabindex="0" data-def="purveyor · n. 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司"} of settlement services logged the final [factoring]{.vocab tabindex="0" data-def="factoring · n. 因子分解,因式分解"} entry, the [consignee]{.vocab tabindex="0" data-def="consignee · n. 受托者,收件人,代销人"} acknowledged receipt of the share certificates, and the new parent quietly [treasure]{.vocab tabindex="0" data-def="treasure · n. 金银财宝；宝藏; 珍宝，贵重物品; 不可多得的人才; 重视；珍惜"}d what it had just won.
 
 ### A Firm on the Edge
 
-:::: {.columns}
-::: {.column width="57%"}
-The founding partner had always lived off an **inherited** fortune, but three years of aggressive expansion had left the firm effectively **insolvent**. The board met at dawn to decide whether to **liquidate** the Asian division outright or attempt a managed wind-down. **Liquidity** had evaporated almost overnight: every line of credit was frozen, and the **warehouse** outside Shenzhen — stacked floor to ceiling with back-ordered components — could not be sold fast enough to cover payroll. Suppliers began to **back-order** fresh shipments, unwilling to extend terms to a counterparty that could no longer post **collateral**. A **consortium** of regional banks circulated a **pro forma** restructuring memo, projecting **annualized** losses that made even the most optimistic analyst wince.
+The founding partner had always lived off an [inherited]{.vocab tabindex="0" data-def="inherited · adj. 通过继承得到的,遗传的; 继承权的"} fortune, but three years of aggressive expansion had left the firm effectively [insolvent]{.vocab tabindex="0" data-def="insolvent · adj. 无力偿付债务的，破产的; 无力偿还债务的人；破产者"}. The board met at dawn to decide whether to [liquidate]{.vocab tabindex="0" data-def="liquidate · vt. 清偿, 结算; 清算; 清除, 消灭"} the Asian division outright or attempt a managed wind-down. [Liquidity]{.vocab tabindex="0" data-def="liquidity · n. 〈财〉资产折现力, 资产流动性; 流动性"} had evaporated almost overnight: every line of credit was frozen, and the [warehouse]{.vocab tabindex="0" data-def="warehouse · n. 仓库, 货栈"} outside Shenzhen — stacked floor to ceiling with back-ordered components — could not be sold fast enough to cover payroll. Suppliers began to [back-order]{.vocab tabindex="0" data-def="back-order · v. 订"} fresh shipments, unwilling to extend terms to a counterparty that could no longer post [collateral]{.vocab tabindex="0" data-def="collateral · n. 附属担保品; 相关的"}. A [consortium]{.vocab tabindex="0" data-def="consortium · n. 财团, 联营企业"} of regional banks circulated a [pro forma]{.vocab tabindex="0" data-def="pro forma · adj. 形式上的,预计的"} restructuring memo, projecting [annualized]{.vocab tabindex="0" data-def="annualized · adj. 按年计算的"} losses that made even the most optimistic analyst wince.
 
-The **headhunter** the firm had retained to recruit a turnaround CEO delivered a blunt assessment: the core business was sound but had been **impoverished** by poor capital allocation. The **portfolio** of side ventures — a **logistics** arm, a **consulting** boutique, and a small stake in a **multiples**-heavy retail chain — was dragging down the parent. Each unit was burning cash; none had the **efficiency** needed to survive a prolonged **recession**. The board voted to **write off** the retail stake entirely, then authorized management to **subsidize** the logistics arm for one more quarter while buyers were found. Meanwhile, fixed assets would **depreciate** on an accelerated schedule, and any staff relocated at company expense would be fully **reimbursed**.
+The [headhunter]{.vocab tabindex="0" data-def="headhunter · n. 猎头者；物色人才的人；猎取人头的蛮人"} the firm had retained to recruit a turnaround CEO delivered a blunt assessment: the core business was sound but had been [impoverished]{.vocab tabindex="0" data-def="impoverish · vt. 使贫穷; 使贫瘠或恶化"} by poor capital allocation. The [portfolio]{.vocab tabindex="0" data-def="portfolio · n. 公事包, 文件夹; 投资组合; 大臣或部长的职位或职责"} of side ventures — a [logistics]{.vocab tabindex="0" data-def="logistics · n. 后勤；物流"} arm, a [consulting]{.vocab tabindex="0" data-def="consulting · adj. 商议的,顾问资格的,咨询的"} boutique, and a small stake in a [multiples]{.vocab tabindex="0" data-def="multiples · n. 跨国公司"}-heavy retail chain — was dragging down the parent. Each unit was burning cash; none had the [efficiency]{.vocab tabindex="0" data-def="efficiency · n. 效率, 效能"} needed to survive a prolonged [recession]{.vocab tabindex="0" data-def="recession · n. 经济衰退; 不景气; 后退; 撤退; 撤回"}. The board voted to [write off]{.vocab tabindex="0" data-def="write off 勾销；取消；很快地写好"} the retail stake entirely, then authorized management to [subsidize]{.vocab tabindex="0" data-def="subsidize · vt. 给…津贴或补贴；资助或补助…"} the logistics arm for one more quarter while buyers were found. Meanwhile, fixed assets would [depreciate]{.vocab tabindex="0" data-def="depreciate · vi. 贬值，跌价；减价; 贬低，蔑视，轻视"} on an accelerated schedule, and any staff relocated at company expense would be fully [reimbursed]{.vocab tabindex="0" data-def="reimburse · vt. 偿还；付还"}.
 
-By the time a buyer emerged — a quietly **lucrative** holding company that had spent a decade building an **oligopoly** in industrial supply chains — the deal structure looked almost routine. The acquirer, whose **commission**-heavy sales force had helped companies like **PANASONIC** and subsidiaries of **Microsoft** streamline procurement, agreed to **capitalize** the distressed entity afresh. The surviving division would be folded into the buyer's distribution network; remaining creditors, whose claims had **skyrocketed** during the standoff, would receive partial settlement. A **liquidated** damages clause ensured that if integration milestones were missed, the seller could claw back a portion of the purchase price — a final, hard-won protection for a firm that had learned, too late, how quickly paper wealth can vanish.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **inherited** <span class="wpos">adj.</span> | 通过继承得到的,遗传的; 继承权的 |
-| **insolvent** <span class="wpos">adj.</span> | 无力偿付债务的，破产的; 无力偿还债务的人；破产者 |
-| **liquidate** <span class="wpos">vt.</span> | 清偿, 结算; 清算; 清除, 消灭 |
-| **liquidity** <span class="wpos">n.</span> | 〈财〉资产折现力, 资产流动性; 流动性 |
-| **logistics** <span class="wpos">n.</span> | 后勤；物流 |
-| **lucrative** <span class="wpos">adj.</span> | 获利多的, 赚钱的 |
-| **Microsoft** <span class="wpos">n.</span> | 美国微软公司 |
-| **multiples** <span class="wpos">n.</span> | 跨国公司 |
-| **oligopoly** <span class="wpos">n.</span> | 求过于供的市场情况 |
-| **PANASONIC** <span class="wpos">n.</span> | 日本松下公司 |
-| **portfolio** <span class="wpos">n.</span> | 公事包, 文件夹; 投资组合; 大臣或部长的职位或职责 |
-| **pro forma** <span class="wpos">adj.</span> | 形式上的,预计的 |
-| **recession** <span class="wpos">n.</span> | 经济衰退; 不景气; 后退; 撤退; 撤回 |
-| **reimburse** <span class="wpos">vt.</span> | 偿还；付还 |
-| **skyrocket** <span class="wpos">vi.</span> | 突升, 猛涨 |
-| **subsidize** <span class="wpos">vt.</span> | 给…津贴或补贴；资助或补助… |
-| **warehouse** <span class="wpos">n.</span> | 仓库, 货栈 |
-| **write off** | 勾销；取消；很快地写好 |
-| **annualized** <span class="wpos">adj.</span> | 按年计算的 |
-| **back-order** <span class="wpos">v.</span> | 订 |
-| **capitalize** <span class="wpos">vt.</span> | 用大写字母写或印刷; 将转作资本、用作资本或资本化; 充分利用某事物,从某事物中获利; 资本化 |
-| **collateral** <span class="wpos">n.</span> | 附属担保品; 相关的 |
-| **commission** <span class="wpos">n.</span> | 授权, 委托; 委员会; 佣金, 回扣; 委任, 委托 |
-| **consortium** <span class="wpos">n.</span> | 财团, 联营企业 |
-| **consulting** <span class="wpos">adj.</span> | 商议的,顾问资格的,咨询的 |
-| **depreciate** <span class="wpos">vi.</span> | 贬值，跌价；减价; 贬低，蔑视，轻视 |
-| **efficiency** <span class="wpos">n.</span> | 效率, 效能 |
-| **headhunter** <span class="wpos">n.</span> | 猎头者；物色人才的人；猎取人头的蛮人 |
-| **impoverish** <span class="wpos">vt.</span> | 使贫穷; 使贫瘠或恶化 |
-| **liquidated** |  |
-:::
-:::
-::::
+By the time a buyer emerged — a quietly [lucrative]{.vocab tabindex="0" data-def="lucrative · adj. 获利多的, 赚钱的"} holding company that had spent a decade building an [oligopoly]{.vocab tabindex="0" data-def="oligopoly · n. 求过于供的市场情况"} in industrial supply chains — the deal structure looked almost routine. The acquirer, whose [commission]{.vocab tabindex="0" data-def="commission · n. 授权, 委托; 委员会; 佣金, 回扣; 委任, 委托"}-heavy sales force had helped companies like [PANASONIC]{.vocab tabindex="0" data-def="PANASONIC · n. 日本松下公司"} and subsidiaries of [Microsoft]{.vocab tabindex="0" data-def="Microsoft · n. 美国微软公司"} streamline procurement, agreed to [capitalize]{.vocab tabindex="0" data-def="capitalize · vt. 用大写字母写或印刷; 将转作资本、用作资本或资本化; 充分利用某事物,从某事物中获利; 资本化"} the distressed entity afresh. The surviving division would be folded into the buyer's distribution network; remaining creditors, whose claims had [skyrocketed]{.vocab tabindex="0" data-def="skyrocket · vi. 突升, 猛涨"} during the standoff, would receive partial settlement. A [liquidated]{.vocab tabindex="0" data-def="liquidated"} damages clause ensured that if integration milestones were missed, the seller could claw back a portion of the purchase price — a final, hard-won protection for a firm that had learned, too late, how quickly paper wealth can vanish.
 
 ### The Weight of a Deal
 
-:::: {.columns}
-::: {.column width="57%"}
-In a **mercantile** world where fortunes can shift overnight, the boardroom of Halcyon Capital was rarely quiet. That morning, the partners debated whether to **underwrite** a new bond issue for a **debt-ridden** retailer struggling to pay its **liabilities**. The **volatility** in credit markets had made every **speculation** feel like a gamble, and the latest **econometric** models offered little comfort — their error bands were wide enough to swallow a small country. Yet the **acquisition** of the retailer's logistics arm looked attractive: a **diversified** asset base, solid **throughput** across seven distribution centers, and a **proprietary** routing algorithm that consistently helped the fleet **outperform** rivals on delivery time.
+In a [mercantile]{.vocab tabindex="0" data-def="mercantile · adj. 贸易的，商业的；商人的；经商的; 商船; 商船人员; 商业票据"} world where fortunes can shift overnight, the boardroom of Halcyon Capital was rarely quiet. That morning, the partners debated whether to [underwrite]{.vocab tabindex="0" data-def="underwrite · v. 承担经济责任; 承担保险责任；承保; 包销，承销"} a new bond issue for a [debt-ridden]{.vocab tabindex="0" data-def="debt-ridden · n. 负债累累"} retailer struggling to pay its [liabilities]{.vocab tabindex="0" data-def="liabilities 债务,负债"}. The [volatility]{.vocab tabindex="0" data-def="volatility · n. 不稳定性，暂时性；挥发性"} in credit markets had made every [speculation]{.vocab tabindex="0" data-def="speculation · n. 思考，思索; 推断，推测；猜测; 投机活动; 投机买卖，投机生意"} feel like a gamble, and the latest [econometric]{.vocab tabindex="0" data-def="econometric · adj. 计量经济学的"} models offered little comfort — their error bands were wide enough to swallow a small country. Yet the [acquisition]{.vocab tabindex="0" data-def="acquisition · n. 获得物，获得；收购"} of the retailer's logistics arm looked attractive: a [diversified]{.vocab tabindex="0" data-def="diversified · adj. 多样化的；多种经营的"} asset base, solid [throughput]{.vocab tabindex="0" data-def="throughput · n. 生产量,生产能力,吞吐量"} across seven distribution centers, and a [proprietary]{.vocab tabindex="0" data-def="Proprietary · adj. 专卖的；专营的；专利的; 所有的；所有权的；业主的 Proprietary控股公司"} routing algorithm that consistently helped the fleet [outperform]{.vocab tabindex="0" data-def="outperform · vt. 做得比…更好；胜过"} rivals on delivery time.
 
-The lead analyst spread a **consignment** note across the table as evidence of the retailer's real operational strength. "Their **procurement** team renegotiated supplier terms last quarter," she said, "and one **subsidiary** in Vietnam is genuinely **prosperous** — shipping **merchandise** to forty countries." Management had already moved to **streamline** the back office, cutting headcount and **incentivize**-ing the remaining staff with equity. A planned **divestiture** of the real-estate portfolio would generate a lump-sum **remittance** to the parent, **offsetting** a chunk of the debt. If the deal closed cleanly, the **turnaround** could reach break-even within eighteen months.
+The lead analyst spread a [consignment]{.vocab tabindex="0" data-def="consignment · n. 托付货物;托卖货物; 寄售;托运;托付;交付; 以寄售方式"} note across the table as evidence of the retailer's real operational strength. "Their [procurement]{.vocab tabindex="0" data-def="procurement · n. 获得;采购"} team renegotiated supplier terms last quarter," she said, "and one [subsidiary]{.vocab tabindex="0" data-def="subsidiary · adj. 附带的, 附属的, 次要的; 附属事物, 附属机构, 子公司"} in Vietnam is genuinely [prosperous]{.vocab tabindex="0" data-def="prosperous · adj. 成功的, 繁荣的, 兴旺的"} — shipping [merchandise]{.vocab tabindex="0" data-def="merchandise · n. 商品, 货物; 买卖, 经营"} to forty countries." Management had already moved to [streamline]{.vocab tabindex="0" data-def="streamline · vt. 把…做成流线型; 简化使效率更高"} the back office, cutting headcount and [incentivize]{.vocab tabindex="0" data-def="incentivize · vt. 以物质刺激鼓励"}-ing the remaining staff with equity. A planned [divestiture]{.vocab tabindex="0" data-def="divestiture · n. 脱去; 剥夺财产或权利;夺去称号"} of the real-estate portfolio would generate a lump-sum [remittance]{.vocab tabindex="0" data-def="remittance · n. 汇寄; 汇款;汇款额"} to the parent, [offsetting]{.vocab tabindex="0" data-def="offsetting · n. 偏置法"} a chunk of the debt. If the deal closed cleanly, the [turnaround]{.vocab tabindex="0" data-def="turnaround · n. 车辆回转场; 周转时间"} could reach break-even within eighteen months.
 
-Still, the risks were real. A wave of **foreclosure** proceedings on the retailer's mortgaged warehouses could **monopolize** management's attention for years. The board had to **incorporate** a stress scenario in which **fluctuation** in commodity prices erased the margin gains. "We need to **recompense** investors fairly if things go south," the CFO said, "or our own credibility is gone." After three hours, the partners voted to proceed — carefully, with covenants — and the **mercantile** machine rolled on.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **mercantile** <span class="wpos">adj.</span> | 贸易的，商业的；商人的；经商的; 商船; 商船人员; 商业票据 |
-| **monopolize** <span class="wpos">vt.</span> | 垄断，独占；专卖，专营 |
-| **offsetting** <span class="wpos">n.</span> | 偏置法 |
-| **outperform** <span class="wpos">vt.</span> | 做得比…更好；胜过 |
-| **proprietor** <span class="wpos">n.</span> | 所有人,业主 |
-| **prosperous** <span class="wpos">adj.</span> | 成功的, 繁荣的, 兴旺的 |
-| **recompense** <span class="wpos">vt.</span> | 赔偿；酬谢; 赔偿; 赔偿；报酬 |
-| **remittance** <span class="wpos">n.</span> | 汇寄; 汇款;汇款额 |
-| **streamline** <span class="wpos">vt.</span> | 把…做成流线型; 简化使效率更高 |
-| **subsidiary** <span class="wpos">adj.</span> | 附带的, 附属的, 次要的; 附属事物, 附属机构, 子公司 |
-| **throughput** <span class="wpos">n.</span> | 生产量,生产能力,吞吐量 |
-| **turnaround** <span class="wpos">n.</span> | 车辆回转场; 周转时间 |
-| **underwrite** <span class="wpos">v.</span> | 承担经济责任; 承担保险责任；承保; 包销，承销 |
-| **volatility** <span class="wpos">n.</span> | 不稳定性，暂时性；挥发性 |
-| **acquisition** <span class="wpos">n.</span> | 获得物，获得；收购 |
-| **consignment** <span class="wpos">n.</span> | 托付货物;托卖货物; 寄售;托运;托付;交付; 以寄售方式 |
-| **debt-ridden** <span class="wpos">n.</span> | 负债累累 |
-| **diversified** <span class="wpos">adj.</span> | 多样化的；多种经营的 |
-| **divestiture** <span class="wpos">n.</span> | 脱去; 剥夺财产或权利;夺去称号 |
-| **econometric** <span class="wpos">adj.</span> | 计量经济学的 |
-| **fluctuation** <span class="wpos">n.</span> | 波动,涨落,起伏 |
-| **foreclosure** <span class="wpos">n.</span> | 丧失抵押品赎回权,排斥 |
-| **incentivize** <span class="wpos">vt.</span> | 以物质刺激鼓励 |
-| **incorporate** <span class="wpos">vt.</span> | 包含, 加上, 吸收; 把…合并, 使并入; 组成公司 |
-| **liabilities** | 债务,负债 |
-| **liquidation** <span class="wpos">n.</span> | 清偿，结算；清算，清除 |
-| **merchandise** <span class="wpos">n.</span> | 商品, 货物; 买卖, 经营 |
-| **procurement** <span class="wpos">n.</span> | 获得;采购 |
-| **Proprietary** <span class="wpos">adj.</span> | 专卖的；专营的；专利的; 所有的；所有权的；业主的 Proprietary控股公司 |
-| **speculation** <span class="wpos">n.</span> | 思考，思索; 推断，推测；猜测; 投机活动; 投机买卖，投机生意 |
-:::
-:::
-::::
+Still, the risks were real. A wave of [foreclosure]{.vocab tabindex="0" data-def="foreclosure · n. 丧失抵押品赎回权,排斥"} proceedings on the retailer's mortgaged warehouses could [monopolize]{.vocab tabindex="0" data-def="monopolize · vt. 垄断，独占；专卖，专营"} management's attention for years. The board had to [incorporate]{.vocab tabindex="0" data-def="incorporate · vt. 包含, 加上, 吸收; 把…合并, 使并入; 组成公司"} a stress scenario in which [fluctuation]{.vocab tabindex="0" data-def="fluctuation · n. 波动,涨落,起伏"} in commodity prices erased the margin gains. "We need to [recompense]{.vocab tabindex="0" data-def="recompense · vt. 赔偿；酬谢; 赔偿; 赔偿；报酬"} investors fairly if things go south," the CFO said, "or our own credibility is gone." After three hours, the partners voted to proceed — carefully, with covenants — and the [mercantile]{.vocab tabindex="0" data-def="mercantile · adj. 贸易的，商业的；商人的；经商的; 商船; 商船人员; 商业票据"} machine rolled on.
 
 ### The Anatomy of a Deal
 
-:::: {.columns}
-::: {.column width="57%"}
-A seasoned **entrepreneur** rarely enters a **speculative** venture without first running the numbers. Before any **transaction** clears, her **consolidated** balance sheet must show the **wherewithal** — the actual cash on hand — to cover every **disbursement**, from payroll to supplier invoices. The **bean counter** at the back of the room, half-hidden behind spreadsheets, tracks **depreciation** on the warehouse equipment and maps out a careful **amortization** schedule for the building loan, ensuring that debt shrinks at a pace the business can sustain.
+A seasoned [entrepreneur]{.vocab tabindex="0" data-def="entrepreneur · n. 〈法〉企业家; 主办人"} rarely enters a [speculative]{.vocab tabindex="0" data-def="speculative · adj. 思考的,思索的,推测出的; 投机的,投机生意的; 带着疑问的；好奇的; 思考地,思索地; 投机地; …"} venture without first running the numbers. Before any [transaction]{.vocab tabindex="0" data-def="transaction · n. 处理，办理，执行; 交易；事务"} clears, her [consolidated]{.vocab tabindex="0" data-def="consolidated · adj. 加固的;整理过的;统一的"} balance sheet must show the [wherewithal]{.vocab tabindex="0" data-def="wherewithal · n. 为做某事而需要的钱"} — the actual cash on hand — to cover every [disbursement]{.vocab tabindex="0" data-def="disbursement · n. 支付,支出; 支付款"}, from payroll to supplier invoices. The [bean counter]{.vocab tabindex="0" data-def="bean counter 善于计算的人"} at the back of the room, half-hidden behind spreadsheets, tracks [depreciation]{.vocab tabindex="0" data-def="depreciation · n. 折旧; 货币贬值; 跌价，减值; 贬低；轻视，小看; 蹂躏"} on the warehouse equipment and maps out a careful [amortization]{.vocab tabindex="0" data-def="amortization · n. 不动产的捐赠; 分期偿还，摊提; 折旧；缓冲；减震; 分期注销; 偿还金; 熄灭"} schedule for the building loan, ensuring that debt shrinks at a pace the business can sustain.
 
-What the firm owes is a matter of **indebtedness**, and every **contingencies** line in the budget exists precisely because reality rarely follows the plan. When a rival **incorporated** conglomerate tables a low-ball bid, the board issues a **counter offer**, coached by an **intermediary** who specialises in **intermediation** between parties who would rather not speak directly. The whole negotiation is a textbook study in **monopolistic** pressure — the **front-runner** in the industry flexing market muscle, while the smaller **multinational** scrambles to stay relevant.
+What the firm owes is a matter of [indebtedness]{.vocab tabindex="0" data-def="indebtedness · n. 受恩惠,亏欠,债务"}, and every [contingencies]{.vocab tabindex="0" data-def="contingencies 不可预见费"} line in the budget exists precisely because reality rarely follows the plan. When a rival [incorporated]{.vocab tabindex="0" data-def="incorporated · adj. 股份有限的,组成公司的"} conglomerate tables a low-ball bid, the board issues a [counter offer]{.vocab tabindex="0" data-def="counter offer · n. 还盘,还价"}, coached by an [intermediary]{.vocab tabindex="0" data-def="intermediary · n. 中间人;调解人"} who specialises in [intermediation]{.vocab tabindex="0" data-def="intermediation · n. 调停,仲裁,调解"} between parties who would rather not speak directly. The whole negotiation is a textbook study in [monopolistic]{.vocab tabindex="0" data-def="monopolistic · adj. 独占的,垄断的,专利的"} pressure — the [front-runner]{.vocab tabindex="0" data-def="front-runner · n. 赛跑中跑在前头的人,竞争中的领先者"} in the industry flexing market muscle, while the smaller [multinational]{.vocab tabindex="0" data-def="multinational · adj. 多国的; 跨国公司"} scrambles to stay relevant.
 
-The economics are just as layered. An **econometrics** model built by a junior analyst maps out the **countervailing** forces: rising raw-material costs on one side, a **cost effective** logistics overhaul on the other. **Fixed-income** instruments cushion the **conglomeration** of risks, and any **reimbursement** owed to vendors flows through a tightly audited **proprietorship** account. A **mercantilist** reading of the deal would focus purely on the trade surplus it might generate; a modern reading adds a **disincentive** clause — penalties steep enough to discourage either side from walking away. The **residual claim** on whatever value remains after creditors are paid belongs, in the end, to the shareholders who believed in the idea from the start — even when, browsing the numbers over coffee at a **grocery store** deli counter, none of it looked remotely certain.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **speculative** <span class="wpos">adj.</span> | 思考的,思索的,推测出的; 投机的,投机生意的; 带着疑问的；好奇的; 思考地,思索地; 投机地; … |
-| **transaction** <span class="wpos">n.</span> | 处理，办理，执行; 交易；事务 |
-| **wherewithal** <span class="wpos">n.</span> | 为做某事而需要的钱 |
-| **amortization** <span class="wpos">n.</span> | 不动产的捐赠; 分期偿还，摊提; 折旧；缓冲；减震; 分期注销; 偿还金; 熄灭 |
-| **bean counter** | 善于计算的人 |
-| **consolidated** <span class="wpos">adj.</span> | 加固的;整理过的;统一的 |
-| **depreciation** <span class="wpos">n.</span> | 折旧; 货币贬值; 跌价，减值; 贬低；轻视，小看; 蹂躏 |
-| **disbursement** <span class="wpos">n.</span> | 支付,支出; 支付款 |
-| **disincentive** <span class="wpos">adj.</span> | 妨碍活动的; 使受挫折的事物 |
-| **econometrics** <span class="wpos">n.</span> | 计量经济学 |
-| **entrepreneur** <span class="wpos">n.</span> | 〈法〉企业家; 主办人 |
-| **fixed-income** |  |
-| **front-runner** <span class="wpos">n.</span> | 赛跑中跑在前头的人,竞争中的领先者 |
-| **incorporated** <span class="wpos">adj.</span> | 股份有限的,组成公司的 |
-| **indebtedness** <span class="wpos">n.</span> | 受恩惠,亏欠,债务 |
-| **intermediary** <span class="wpos">n.</span> | 中间人;调解人 |
-| **mercantilist** <span class="wpos">n.</span> | 重商主义者 |
-| **monopolistic** <span class="wpos">adj.</span> | 独占的,垄断的,专利的 |
-| **transactions** | 会报 |
-| **contingencies** | 不可预见费 |
-| **counter offer** <span class="wpos">n.</span> | 还盘,还价 |
-| **grocery store** | 杂货店 |
-| **multinational** <span class="wpos">adj.</span> | 多国的; 跨国公司 |
-| **reimbursement** <span class="wpos">n.</span> | 偿还;退款; 补偿;赔偿 |
-| **conglomeration** <span class="wpos">n.</span> | 团块,聚集,混合物 |
-| **cost effective** | 有成本效益的；划算的；成本效率 |
-| **countervailing** <span class="wpos">adj.</span> | 补偿的; 弥补的; 抵消的 |
-| **intermediation** <span class="wpos">n.</span> | 调停,仲裁,调解 |
-| **proprietorship** <span class="wpos">n.</span> | 所有 |
-| **residual claim** |  |
-:::
-:::
-::::
+The economics are just as layered. An [econometrics]{.vocab tabindex="0" data-def="econometrics · n. 计量经济学"} model built by a junior analyst maps out the [countervailing]{.vocab tabindex="0" data-def="countervailing · adj. 补偿的; 弥补的; 抵消的"} forces: rising raw-material costs on one side, a [cost effective]{.vocab tabindex="0" data-def="cost effective 有成本效益的；划算的；成本效率"} logistics overhaul on the other. [Fixed-income]{.vocab tabindex="0" data-def="fixed-income"} instruments cushion the [conglomeration]{.vocab tabindex="0" data-def="conglomeration · n. 团块,聚集,混合物"} of risks, and any [reimbursement]{.vocab tabindex="0" data-def="reimbursement · n. 偿还;退款; 补偿;赔偿"} owed to vendors flows through a tightly audited [proprietorship]{.vocab tabindex="0" data-def="proprietorship · n. 所有"} account. A [mercantilist]{.vocab tabindex="0" data-def="mercantilist · n. 重商主义者"} reading of the deal would focus purely on the trade surplus it might generate; a modern reading adds a [disincentive]{.vocab tabindex="0" data-def="disincentive · adj. 妨碍活动的; 使受挫折的事物"} clause — penalties steep enough to discourage either side from walking away. The [residual claim]{.vocab tabindex="0" data-def="residual claim"} on whatever value remains after creditors are paid belongs, in the end, to the shareholders who believed in the idea from the start — even when, browsing the numbers over coffee at a [grocery store]{.vocab tabindex="0" data-def="grocery store 杂货店"} deli counter, none of it looked remotely certain.
 
 ### The Deal That Almost Wasn't
 
-:::: {.columns}
-::: {.column width="57%"}
-The consulting team had spent weeks mapping the **socio-economic** landscape before the board would sign off on anything. Their central worry was **cannibalization** — would the new retail bond product simply steal customers from the firm's existing fund offerings rather than grow the overall book? The answer hinged on the founder's track record: decades of **entrepreneurship** had taught her that cannibalizing yourself beat letting a rival do it for you.
+The consulting team had spent weeks mapping the [socio-economic]{.vocab tabindex="0" data-def="socio-economic 社会经济学的"} landscape before the board would sign off on anything. Their central worry was [cannibalization]{.vocab tabindex="0" data-def="cannibalization 同型装配"} — would the new retail bond product simply steal customers from the firm's existing fund offerings rather than grow the overall book? The answer hinged on the founder's track record: decades of [entrepreneurship]{.vocab tabindex="0" data-def="entrepreneurship 企业家能力/职能"} had taught her that cannibalizing yourself beat letting a rival do it for you.
 
-The bonds themselves were structured as **over-the-counter** instruments, sold directly to institutional buyers without touching an exchange. Alongside them, the team bundled a **consumer application** — a clean mobile dashboard where retail clients could track yield in real time. To attract top talent for the launch, HR assembled competitive **compensation packages** that mixed base salary with carried interest. The trickiest line item on the term sheet, however, remained the **limited partnership exposures** inherited from the previous fund: until those positions were wound down, every new investor would be taking on someone else's legacy risk.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **socio-economic** | 社会经济学的 |
-| **cannibalization** | 同型装配 |
-| **entrepreneurship** | 企业家能力/职能 |
-| **over-the-counter** <span class="wpos">adj.</span> | 不通过交易所直接售给顾客的 |
-| **consumer application** |  |
-| **compensation packages** |  |
-| **limited partnership exposures,** |  |
-:::
-:::
-::::
+The bonds themselves were structured as [over-the-counter]{.vocab tabindex="0" data-def="over-the-counter · adj. 不通过交易所直接售给顾客的"} instruments, sold directly to institutional buyers without touching an exchange. Alongside them, the team bundled a [consumer application]{.vocab tabindex="0" data-def="consumer application"} — a clean mobile dashboard where retail clients could track yield in real time. To attract top talent for the launch, HR assembled competitive [compensation packages]{.vocab tabindex="0" data-def="compensation packages"} that mixed base salary with carried interest. The trickiest line item on the term sheet, however, remained the [limited partnership exposures]{.vocab tabindex="0" data-def="limited partnership exposures,"} inherited from the previous fund: until those positions were wound down, every new investor would be taking on someone else's legacy risk.

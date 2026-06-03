@@ -31,7 +31,24 @@ try { fs.rmSync('\\\\?\\' + path.resolve('review', 'CON.qmd'), { force: true }) 
 fs.rmSync('review', { recursive: true, force: true })
 fs.mkdirSync('review', { recursive: true })
 
-// 把一篇短文渲染成两栏：左=短文，右=生词释义（常驻）
+// 把加粗词替换成可悬停弹释义的行内 span（支持变形词→原形匹配）
+const norm = s => String(s).toLowerCase().trim()
+const stem = s => norm(s).replace(/(ings|ing|edly|ed|ements|ement|ation|tions|tion|ness|ies|es|ly|er|est|s|d)$/, '')
+function buildMatcher(words) {
+  const exact = new Map(), byStem = new Map()
+  for (const w of words) {
+    const def = `${w.word}${w.pos ? ' · ' + w.pos : ''} ${(w.gloss || '')}`.trim()
+    exact.set(norm(w.word), def)
+    const st = stem(w.word); if (!byStem.has(st)) byStem.set(st, def)
+  }
+  return bold => {
+    const n = norm(bold)
+    if (exact.has(n)) return exact.get(n)
+    const st = stem(bold); if (byStem.has(st)) return byStem.get(st)
+    for (const w of words) { const wn = norm(w.word); if (wn.length >= 4 && (n.startsWith(wn) || wn.startsWith(n))) return `${w.word}${w.pos ? ' · ' + w.pos : ''} ${(w.gloss || '')}`.trim() }
+    return null
+  }
+}
 function renderPassage(p) {
   const md = p.md || ''
   const cIdx = md.indexOf('::: {.callout-note')
@@ -39,28 +56,17 @@ function renderPassage(p) {
   const lines = head.split('\n')
   const ti = lines.findIndex(l => l.startsWith('### '))
   const title = ti >= 0 ? lines[ti].trim() : '### 语境短文'
-  const bodyText = (ti >= 0 ? lines.slice(ti + 1) : lines).join('\n').trim()
+  let bodyText = (ti >= 0 ? lines.slice(ti + 1) : lines).join('\n').trim()
   let words = []
   try { words = JSON.parse(fs.readFileSync(`data/chunks/${p.id}.json`, 'utf8')) } catch {}
-  const rows = words.map(w =>
-    `| **${w.word}**${w.pos ? ' <span class="wpos">' + w.pos + '</span>' : ''} | ${(w.gloss || '').replace(/\|/g, '/')} |`
-  ).join('\n')
-  return `${title}
-
-:::: {.columns}
-::: {.column width="57%"}
-${bodyText}
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-${rows}
-:::
-:::
-::::`
+  const match = buildMatcher(words)
+  bodyText = bodyText.replace(/\*\*(.+?)\*\*/g, (m, x) => {
+    const def = match(x)
+    if (!def) return m
+    const d = def.replace(/["\\\n\r]/g, ' ').replace(/\s+/g, ' ').trim()
+    return `[${x}]{.vocab tabindex="0" data-def="${d}"}`
+  })
+  return `${title}\n\n${bodyText}`
 }
 
 const pages = []
@@ -70,7 +76,7 @@ for (const code of ORDER) {
   if (!list || !list.length) continue
   totalPassages += list.length
   const body = [`# ${LABELS[code]} {.unnumbered}`, '',
-    `> 本主题共 ${list.length} 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。`, '',
+    `> 本主题共 ${list.length} 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。`, '',
     ...list.map(p => renderPassage(p))]
   const fname = `review/${safeName(code)}.qmd`
   fs.writeFileSync(fname, body.join('\n\n') + '\n')

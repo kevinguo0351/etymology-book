@@ -2,675 +2,142 @@
 
 
 
-> 本主题共 13 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 13 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### The Morning Rounds
 
-:::: {.columns}
-::: {.column width="57%"}
-Dr. Lena arrived early, her **gut** telling her it would be a long shift. The first patient, a teenager with **acne** stippling both cheeks, sat hunched on the exam table, visibly **ill** at ease. Lena inspected his **jaw** — swollen along the left side — and pressed gently on the **gum** beneath the lower molar. He winced. She moved down to his **chin** and **shin**, checking for the spreading **rash** she'd noted in his chart. A faint **scar** above his left knee told older stories.
+Dr. Lena arrived early, her [gut]{.vocab tabindex="0" data-def="gut · n. 内脏；肠子；胆量；海峡；剧情; 取出内脏；摧毁内部装置; 本质的，根本的；简单的 GUT大统一理论"} telling her it would be a long shift. The first patient, a teenager with [acne]{.vocab tabindex="0" data-def="acne · n. 痤疮，粉刺"} stippling both cheeks, sat hunched on the exam table, visibly [ill]{.vocab tabindex="0" data-def="ill · adj. 有病的, 不健康的; 伤的, 受伤痛的; 不好的, 坏的; 恶意的, 敌意的; 坏, 恶劣地; 不利…"} at ease. Lena inspected his [jaw]{.vocab tabindex="0" data-def="jaw · n. 颌；下巴；狭窄入口；唠叨; 教训；唠叨; 教训；对…唠叨"} — swollen along the left side — and pressed gently on the [gum]{.vocab tabindex="0" data-def="gum · n. 牙龈; 口香糖; 树胶, 胶水; &amp; 胶合"} beneath the lower molar. He winced. She moved down to his [chin]{.vocab tabindex="0" data-def="chin · n. 颏, 下巴"} and [shin]{.vocab tabindex="0" data-def="shin · n. 胫骨; 爬；攀; 攀；快步走 Shin真宗,净土真宗,信义宗"}, checking for the spreading [rash]{.vocab tabindex="0" data-def="rash · n. 发疹，疹子; 太急速的；鲁莽的；轻率的"} she'd noted in his chart. A faint [scar]{.vocab tabindex="0" data-def="scar · n. 伤痕，伤疤；精神上的创伤; 使留下伤痕"} above his left knee told older stories.
 
-Next door, a woman in her thirties was emerging from a light **coma** — two days post-surgery, drainage still running through the abdominal **duct** into a **sac** beside the bed. Her chart flagged a **bile** leak, and Lena paged the surgeon. In the hallway a nurse flagged a new case: a man who'd been found with suspected **meth** use, now vomiting — Lena handed off the **puke** basin herself and checked his **lung** sounds. His **anus** and surrounding tissue showed signs of infection, a small pocket of **pus** forming at the margin. She ordered imaging and a consult.
+Next door, a woman in her thirties was emerging from a light [coma]{.vocab tabindex="0" data-def="coma · n. 昏迷；彗形像差"} — two days post-surgery, drainage still running through the abdominal [duct]{.vocab tabindex="0" data-def="duct · n. 输送管，导管; 用导管输送；以导管封住"} into a [sac]{.vocab tabindex="0" data-def="sac · n. 液囊；囊 SACabbr. senior aircraftman 皇家空军一等兵 SACabbr. …"} beside the bed. Her chart flagged a [bile]{.vocab tabindex="0" data-def="bile · n. 胆汁; 坏脾气 BILEabbr. Balanced Inductor Logical Elemen…"} leak, and Lena paged the surgeon. In the hallway a nurse flagged a new case: a man who'd been found with suspected [meth]{.vocab tabindex="0" data-def="meth · n. 〈美俚〉甲安菲他明"} use, now vomiting — Lena handed off the [puke]{.vocab tabindex="0" data-def="puke · n. 呕吐,呕吐物,吐剂; 呕吐"} basin herself and checked his [lung]{.vocab tabindex="0" data-def="lung · n. 肺；呼吸器"} sounds. His [anus]{.vocab tabindex="0" data-def="anus · n. 肛门"} and surrounding tissue showed signs of infection, a small pocket of [pus]{.vocab tabindex="0" data-def="pus · n. 脓 PUSabbr. Passive Ultrasonic Sensor 被动式超声波传感器"} forming at the margin. She ordered imaging and a consult.
 
-The afternoon quieted into paperwork. Lena's colleague Marcus, a **vet** from the army medical corps, drafted a note about a patient with a dacryocystal **duct** obstruction — he caught himself and crossed it out, then drafted a fresh line about the patient's **snot**-streaked face and blocked nasolacrimal passage. Another referral came in for **OCD**-adjacent anxiety triggered by pain; the patient had been obsessively picking at a **burp** reflex she couldn't control, was embarrassed about her **fart**ing in public, and had already Googled **IUD** removal three times that week believing it caused all her symptoms. Lena sat with her for forty minutes.
+The afternoon quieted into paperwork. Lena's colleague Marcus, a [vet]{.vocab tabindex="0" data-def="vet · vt. 诊疗；审查; 作兽医；诊疗; 兽医"} from the army medical corps, drafted a note about a patient with a dacryocystal [duct]{.vocab tabindex="0" data-def="duct · n. 输送管，导管; 用导管输送；以导管封住"} obstruction — he caught himself and crossed it out, then drafted a fresh line about the patient's [snot]{.vocab tabindex="0" data-def="snot · n. 鼻涕"}-streaked face and blocked nasolacrimal passage. Another referral came in for [OCD]{.vocab tabindex="0" data-def="OCD abbr. Office of Civil Defense 〈美〉民防局"}-adjacent anxiety triggered by pain; the patient had been obsessively picking at a [burp]{.vocab tabindex="0" data-def="burp · vi. 打嗝; 打嗝,饱嗝"} reflex she couldn't control, was embarrassed about her [fart]{.vocab tabindex="0" data-def="fart · vi. 〈讳〉放屁; 〈讳〉放屁"}ing in public, and had already Googled [IUD]{.vocab tabindex="0" data-def="IUD abbr. Institute for Urban Development 都市发展学会"} removal three times that week believing it caused all her symptoms. Lena sat with her for forty minutes.
 
-At five o'clock she passed the reproductive health suite. A fertility consult was reviewing a microscopy slide, pointing out a single **ovum** on the screen. Beside her, a younger resident studied the anatomy diagram showing the **clit**, **cunt**, and surrounding tissue — preparing, clinically and carefully, to counsel a patient about post-excision sensation. On the wall outside, a faded poster about **hip** fractures in elderly patients reminded everyone what bone density quietly cost.
+At five o'clock she passed the reproductive health suite. A fertility consult was reviewing a microscopy slide, pointing out a single [ovum]{.vocab tabindex="0" data-def="ovum · n. 卵子,卵细胞"} on the screen. Beside her, a younger resident studied the anatomy diagram showing the [clit]{.vocab tabindex="0" data-def="clit · n. 阴核,阴蒂"}, [cunt]{.vocab tabindex="0" data-def="cunt · n. 女性阴部；性交；淫妇"}, and surrounding tissue — preparing, clinically and carefully, to counsel a patient about post-excision sensation. On the wall outside, a faded poster about [hip]{.vocab tabindex="0" data-def="hip · n. 臀部；蔷薇果；忧郁; 熟悉内情的；非常时尚的 HIPabbr. High Impact Polyst…"} fractures in elderly patients reminded everyone what bone density quietly cost.
 
-Lena washed her hands, felt the bruise on her own **arse** from the corner of a drawer she'd walked into at noon, thought about the **bath** she'd take when she got home, and signed out.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **gum** <span class="wpos">n.</span> | 牙龈; 口香糖; 树胶, 胶水; &amp; 胶合 |
-| **gut** <span class="wpos">n.</span> | 内脏；肠子；胆量；海峡；剧情; 取出内脏；摧毁内部装置; 本质的，根本的；简单的 GUT大统一理论 |
-| **hip** <span class="wpos">n.</span> | 臀部；蔷薇果；忧郁; 熟悉内情的；非常时尚的 HIPabbr. High Impact Polyst… |
-| **ill** <span class="wpos">adj.</span> | 有病的, 不健康的; 伤的, 受伤痛的; 不好的, 坏的; 恶意的, 敌意的; 坏, 恶劣地; 不利… |
-| **IUD** | abbr. Institute for Urban Development 都市发展学会 |
-| **jaw** <span class="wpos">n.</span> | 颌；下巴；狭窄入口；唠叨; 教训；唠叨; 教训；对…唠叨 |
-| **OCD** | abbr. Office of Civil Defense 〈美〉民防局 |
-| **pus** <span class="wpos">n.</span> | 脓 PUSabbr. Passive Ultrasonic Sensor 被动式超声波传感器 |
-| **sac** <span class="wpos">n.</span> | 液囊；囊 SACabbr. senior aircraftman 皇家空军一等兵 SACabbr. … |
-| **vet** <span class="wpos">vt.</span> | 诊疗；审查; 作兽医；诊疗; 兽医 |
-| **acne** <span class="wpos">n.</span> | 痤疮，粉刺 |
-| **anus** <span class="wpos">n.</span> | 肛门 |
-| **arse** <span class="wpos">n.</span> | 屁股；笨蛋；饭桶; 闲混 |
-| **bath** <span class="wpos">n.</span> | 浴室；沐浴；浴盆; 洗澡; 洗澡 |
-| **bile** <span class="wpos">n.</span> | 胆汁; 坏脾气 BILEabbr. Balanced Inductor Logical Elemen… |
-| **burp** <span class="wpos">vi.</span> | 打嗝; 打嗝,饱嗝 |
-| **chin** <span class="wpos">n.</span> | 颏, 下巴 |
-| **clit** <span class="wpos">n.</span> | 阴核,阴蒂 |
-| **coma** <span class="wpos">n.</span> | 昏迷；彗形像差 |
-| **cunt** <span class="wpos">n.</span> | 女性阴部；性交；淫妇 |
-| **duct** <span class="wpos">n.</span> | 输送管，导管; 用导管输送；以导管封住 |
-| **fart** <span class="wpos">vi.</span> | 〈讳〉放屁; 〈讳〉放屁 |
-| **lung** <span class="wpos">n.</span> | 肺；呼吸器 |
-| **meth** <span class="wpos">n.</span> | 〈美俚〉甲安菲他明 |
-| **ovum** <span class="wpos">n.</span> | 卵子,卵细胞 |
-| **puke** <span class="wpos">n.</span> | 呕吐,呕吐物,吐剂; 呕吐 |
-| **rash** <span class="wpos">n.</span> | 发疹，疹子; 太急速的；鲁莽的；轻率的 |
-| **scar** <span class="wpos">n.</span> | 伤痕，伤疤；精神上的创伤; 使留下伤痕 |
-| **shin** <span class="wpos">n.</span> | 胫骨; 爬；攀; 攀；快步走 Shin真宗,净土真宗,信义宗 |
-| **snot** <span class="wpos">n.</span> | 鼻涕 |
-:::
-:::
-::::
+Lena washed her hands, felt the bruise on her own [arse]{.vocab tabindex="0" data-def="arse · n. 屁股；笨蛋；饭桶; 闲混"} from the corner of a drawer she'd walked into at noon, thought about the [bath]{.vocab tabindex="0" data-def="bath · n. 浴室；沐浴；浴盆; 洗澡; 洗澡"} she'd take when she got home, and signed out.
 
 ### The Ward at Dawn
 
-:::: {.columns}
-::: {.column width="57%"}
-The night shift nurse moved quietly through the **ward**, checking each patient before the morning team arrived. In bed three, an elderly man lay **frail** and still, his breathing shallow. His chart noted a **fatal** diagnosis — advanced organ failure — yet the attending physician had chosen to focus on comfort rather than heroics. A **faint** smell of antiseptic hung in the air as she adjusted his IV line, tracing it back to the **vein** at his forearm where the skin had gone **sore** and faintly bruised.
+The night shift nurse moved quietly through the [ward]{.vocab tabindex="0" data-def="ward · n. 监视；保卫；病房; 避开；保卫；守护 Ward沃德"}, checking each patient before the morning team arrived. In bed three, an elderly man lay [frail]{.vocab tabindex="0" data-def="frail · adj. 虚弱的；脆弱的; 灯心草篓；少妇；少女"} and still, his breathing shallow. His chart noted a [fatal]{.vocab tabindex="0" data-def="fatal · adj. 致命的; 灾难性的; 重大的, 决定性的"} diagnosis — advanced organ failure — yet the attending physician had chosen to focus on comfort rather than heroics. A [faint]{.vocab tabindex="0" data-def="faint · vi. 晕倒，昏倒; 微弱的，模糊的，暗淡的; 无力的，虚弱的；易失去知觉的，昏眩的; 无力的，似无太大效果…"} smell of antiseptic hung in the air as she adjusted his IV line, tracing it back to the [vein]{.vocab tabindex="0" data-def="vein · n. 血管；岩脉；纹理；翅脉；叶脉；性情; 使成脉络；像脉络般分布于"} at his forearm where the skin had gone [sore]{.vocab tabindex="0" data-def="sore · adj. 剧烈的，极度的；疼痛的，痛心的；恼火的，发怒的；厉害的，迫切的; 溃疡，痛处；恨事，伤心事"} and faintly bruised.
 
-Across the hall, a young woman recovering from abdominal surgery pressed the call button. Her **belly** ached near the **navel**, and she was convinced something was wrong. The resident on duty arrived within minutes, pressing gently along her **bowel** to assess for obstruction. "Any urge to **egest**?" he asked, using the clinical term out of habit. She shook her head. He ordered an **enema** and reminded her that normal **fecal** output — passing **feces** — was a good sign of recovery. She winced; even the words felt undignified. He also collected a **mucus** sample with a **swab** from her **nasal** passage to rule out a secondary infection, since **lymph** nodes along her neck were mildly swollen.
+Across the hall, a young woman recovering from abdominal surgery pressed the call button. Her [belly]{.vocab tabindex="0" data-def="belly · n. 腹部；胃；食欲; 涨满；鼓起; 使鼓起"} ached near the [navel]{.vocab tabindex="0" data-def="navel · n. 肚脐；中央；中心点"}, and she was convinced something was wrong. The resident on duty arrived within minutes, pressing gently along her [bowel]{.vocab tabindex="0" data-def="bowel · n. 肠；内部；同情; 将……的肚肠取出"} to assess for obstruction. "Any urge to [egest]{.vocab tabindex="0" data-def="egest · vt. 排泄；排出"}?" he asked, using the clinical term out of habit. She shook her head. He ordered an [enema]{.vocab tabindex="0" data-def="enema · n. 灌肠剂"} and reminded her that normal [fecal]{.vocab tabindex="0" data-def="fecal · adj. 排泄物的；残渣的；糟粕的"} output — passing [feces]{.vocab tabindex="0" data-def="feces · n. 排泄物；渣滓"} — was a good sign of recovery. She winced; even the words felt undignified. He also collected a [mucus]{.vocab tabindex="0" data-def="mucus · n. 粘液；黏液"} sample with a [swab]{.vocab tabindex="0" data-def="swab · n. 医用海绵，纱布；药签，拭子；拖把，擦帚；无赖; 打扫，擦拭；涂抹于"} from her [nasal]{.vocab tabindex="0" data-def="nasal · adj. 鼻的; 鼻音的；带许多鼻音的; 鼻音字母,鼻音"} passage to rule out a secondary infection, since [lymph]{.vocab tabindex="0" data-def="lymph · n. 淋巴，淋巴液；血清"} nodes along her neck were mildly swollen.
 
-Down in obstetrics, a mother had just delivered. The newborn was healthy — a strong **femur** already visible on the earlier scans — but had spent the final weeks pressing hard against the **womb** wall, leaving the mother's **joint**s aching from the strain. A lactation nurse arrived to begin the slow process of helping the infant feed before they would eventually need to **wean** him onto formula. In the corner of the room, a **fetus** viability poster reminded staff of gestational milestones. The mother, still **itchy** from the epidural patch, absent-mindedly reached for the **floss** on her bedside tray — an odd comfort, but her own. Her husband, a man of considerable **brawn** who had looked faint in the delivery room, now sat quietly scrolling through **botox** clinic ads on his phone, already nervous about the sleepless months ahead.
+Down in obstetrics, a mother had just delivered. The newborn was healthy — a strong [femur]{.vocab tabindex="0" data-def="femur · n. 股骨；大腿骨 Femur股骨"} already visible on the earlier scans — but had spent the final weeks pressing hard against the [womb]{.vocab tabindex="0" data-def="womb · n. 子宫；发源地; 容纳"} wall, leaving the mother's [joint]{.vocab tabindex="0" data-def="joint · n. 关节；接合处，接合点；接缝；大块肉; 联合的，合办的；共同的；连接的; 连接，贴合；接合；使有接头;…"}s aching from the strain. A lactation nurse arrived to begin the slow process of helping the infant feed before they would eventually need to [wean]{.vocab tabindex="0" data-def="wean · vt. 使断奶；使断念；使放弃; 幼儿"} him onto formula. In the corner of the room, a [fetus]{.vocab tabindex="0" data-def="fetus · n. 胎,胎儿"} viability poster reminded staff of gestational milestones. The mother, still [itchy]{.vocab tabindex="0" data-def="itchy · adj. 发痒的；渴望的"} from the epidural patch, absent-mindedly reached for the [floss]{.vocab tabindex="0" data-def="floss · n. 丝棉；乱丝；牙线; 用牙线洁牙; 用牙线清洁"} on her bedside tray — an odd comfort, but her own. Her husband, a man of considerable [brawn]{.vocab tabindex="0" data-def="brawn · n. 发达的肌肉；膂力；腌制好的野猪肉"} who had looked faint in the delivery room, now sat quietly scrolling through [botox]{.vocab tabindex="0" data-def="botox · n. 肉毒杆菌素"} clinic ads on his phone, already nervous about the sleepless months ahead.
 
-By mid-morning, a teenage athlete was brought in by his coach, doubled over with a **cramp** in his calf. The **bleed** from a minor knee laceration had already stopped, but the **nates** — the gluteal muscles — were severely bruised from a fall. The trainer had applied a cold **swab** at the scene. The orthopedic resident checked the leg, ruled out a **femur** stress fracture, and noted that the **lymph** drainage around the knee seemed intact. In the waiting room, the boy's mother let out a loud **belch**, embarrassed, and blamed the vending machine coffee.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **sore** <span class="wpos">adj.</span> | 剧烈的，极度的；疼痛的，痛心的；恼火的，发怒的；厉害的，迫切的; 溃疡，痛处；恨事，伤心事 |
-| **swab** <span class="wpos">n.</span> | 医用海绵，纱布；药签，拭子；拖把，擦帚；无赖; 打扫，擦拭；涂抹于 |
-| **vein** <span class="wpos">n.</span> | 血管；岩脉；纹理；翅脉；叶脉；性情; 使成脉络；像脉络般分布于 |
-| **ward** <span class="wpos">n.</span> | 监视；保卫；病房; 避开；保卫；守护 Ward沃德 |
-| **wean** <span class="wpos">vt.</span> | 使断奶；使断念；使放弃; 幼儿 |
-| **womb** <span class="wpos">n.</span> | 子宫；发源地; 容纳 |
-| **belch** <span class="wpos">vi.</span> | 打嗝；喷出; 打嗝；喷出; 打嗝；喷出物 |
-| **belly** <span class="wpos">n.</span> | 腹部；胃；食欲; 涨满；鼓起; 使鼓起 |
-| **bleed** <span class="wpos">vt.</span> | 使出血；榨取; 流血；渗出；悲痛 |
-| **botox** <span class="wpos">n.</span> | 肉毒杆菌素 |
-| **bowel** <span class="wpos">n.</span> | 肠；内部；同情; 将……的肚肠取出 |
-| **brawn** <span class="wpos">n.</span> | 发达的肌肉；膂力；腌制好的野猪肉 |
-| **cramp** <span class="wpos">n.</span> | 铁夹钳；痉挛，绞痛; 使…抽筋；以铁箍扣紧；束缚，限制; 狭窄的；难解的；受限制的 |
-| **egest** <span class="wpos">vt.</span> | 排泄；排出 |
-| **enema** <span class="wpos">n.</span> | 灌肠剂 |
-| **faint** <span class="wpos">vi.</span> | 晕倒，昏倒; 微弱的，模糊的，暗淡的; 无力的，虚弱的；易失去知觉的，昏眩的; 无力的，似无太大效果… |
-| **fatal** <span class="wpos">adj.</span> | 致命的; 灾难性的; 重大的, 决定性的 |
-| **fecal** <span class="wpos">adj.</span> | 排泄物的；残渣的；糟粕的 |
-| **feces** <span class="wpos">n.</span> | 排泄物；渣滓 |
-| **femur** <span class="wpos">n.</span> | 股骨；大腿骨 Femur股骨 |
-| **fetus** <span class="wpos">n.</span> | 胎,胎儿 |
-| **floss** <span class="wpos">n.</span> | 丝棉；乱丝；牙线; 用牙线洁牙; 用牙线清洁 |
-| **frail** <span class="wpos">adj.</span> | 虚弱的；脆弱的; 灯心草篓；少妇；少女 |
-| **itchy** <span class="wpos">adj.</span> | 发痒的；渴望的 |
-| **joint** <span class="wpos">n.</span> | 关节；接合处，接合点；接缝；大块肉; 联合的，合办的；共同的；连接的; 连接，贴合；接合；使有接头;… |
-| **lymph** <span class="wpos">n.</span> | 淋巴，淋巴液；血清 |
-| **mucus** <span class="wpos">n.</span> | 粘液；黏液 |
-| **nasal** <span class="wpos">adj.</span> | 鼻的; 鼻音的；带许多鼻音的; 鼻音字母,鼻音 |
-| **nates** <span class="wpos">n.</span> | 臀部；上丘 |
-| **navel** <span class="wpos">n.</span> | 肚脐；中央；中心点 |
-:::
-:::
-::::
+By mid-morning, a teenage athlete was brought in by his coach, doubled over with a [cramp]{.vocab tabindex="0" data-def="cramp · n. 铁夹钳；痉挛，绞痛; 使…抽筋；以铁箍扣紧；束缚，限制; 狭窄的；难解的；受限制的"} in his calf. The [bleed]{.vocab tabindex="0" data-def="bleed · vt. 使出血；榨取; 流血；渗出；悲痛"} from a minor knee laceration had already stopped, but the [nates]{.vocab tabindex="0" data-def="nates · n. 臀部；上丘"} — the gluteal muscles — were severely bruised from a fall. The trainer had applied a cold [swab]{.vocab tabindex="0" data-def="swab · n. 医用海绵，纱布；药签，拭子；拖把，擦帚；无赖; 打扫，擦拭；涂抹于"} at the scene. The orthopedic resident checked the leg, ruled out a [femur]{.vocab tabindex="0" data-def="femur · n. 股骨；大腿骨 Femur股骨"} stress fracture, and noted that the [lymph]{.vocab tabindex="0" data-def="lymph · n. 淋巴，淋巴液；血清"} drainage around the knee seemed intact. In the waiting room, the boy's mother let out a loud [belch]{.vocab tabindex="0" data-def="belch · vi. 打嗝；喷出; 打嗝；喷出; 打嗝；喷出物"}, embarrassed, and blamed the vending machine coffee.
 
 ### A Rough Night on Call
 
-:::: {.columns}
-::: {.column width="57%"}
-The resident had barely slept. A **strep** infection had swept through the pediatric ward, and by midnight the triage desk looked like a battlefield. She pressed two fingers along a child's **spine**, checking for tenderness, then moved to the boy's **thigh**, where a deep **wound** had been poorly dressed at home. The skin around it was beginning to show early signs of a **viral** spread. She noted the swollen **wrist**, the angry **bruise** blooming across the forearm, and a hardened **callus** where the cast had rubbed. The **ulcer** on the inside of his cheek — a stubborn **canker** sore — had been there for weeks, his mother said. She dabbed it gently and wrote up a **tonic** to help the boy's system recover.
+The resident had barely slept. A [strep]{.vocab tabindex="0" data-def="strep · n. 链锁状球菌; 链球菌的"} infection had swept through the pediatric ward, and by midnight the triage desk looked like a battlefield. She pressed two fingers along a child's [spine]{.vocab tabindex="0" data-def="spine · n. 脊柱，脊椎；刺；书脊"}, checking for tenderness, then moved to the boy's [thigh]{.vocab tabindex="0" data-def="thigh · n. 大腿，股"}, where a deep [wound]{.vocab tabindex="0" data-def="wound · n. 创伤，伤口; 使受伤; 受伤，伤害"} had been poorly dressed at home. The skin around it was beginning to show early signs of a [viral]{.vocab tabindex="0" data-def="viral · adj. 滤过性毒菌引起的；滤过性毒菌的"} spread. She noted the swollen [wrist]{.vocab tabindex="0" data-def="wrist · n. 腕, 腕关节"}, the angry [bruise]{.vocab tabindex="0" data-def="bruise · n. 擦伤；挫伤；青肿; 使受瘀伤；使受挫伤; 受伤；擦伤"} blooming across the forearm, and a hardened [callus]{.vocab tabindex="0" data-def="callus · n. 老茧；假骨质; 愈合组织; 结硬皮，生老茧；结痂; 使生茧；使结痂"} where the cast had rubbed. The [ulcer]{.vocab tabindex="0" data-def="ulcer · n. 溃疡; 腐烂物; 道德败坏;腐败;弊病; &amp; 形成溃疡; 腐败"} on the inside of his cheek — a stubborn [canker]{.vocab tabindex="0" data-def="canker · n. 口疮；溃疡病；腐败的原由，弊害; 产生溃疡；腐败起来; 使患溃疡；使腐败"} sore — had been there for weeks, his mother said. She dabbed it gently and wrote up a [tonic]{.vocab tabindex="0" data-def="tonic · n. 补药；主调音或基音; 滋补的；声调的；使精神振作的"} to help the boy's system recover.
 
-Down the hall, the attending was dealing with an adult who had stumbled in **stung** by something in the garden, his **scalp** lacerated from a fall, his **skull** films fortunately clear. The man's **armpit** and **pubic** region showed a rash consistent with an allergic reaction. He was nauseous — had tried to **ralph** twice in the car — and was now curled around his **bowels**, hands pressed to his abdomen. The **cramps** were severe. The nurse drew blood for a **serum** panel and cross-checked it against the **semen** and **sperm** counts ordered earlier in the week as part of a fertility workup; the samples were unrelated, but the lab had queued everything together. She set them aside and focused on the **nerve** block prep, hands steady despite the noise.
+Down the hall, the attending was dealing with an adult who had stumbled in [stung]{.vocab tabindex="0" data-def="stung sting的"} by something in the garden, his [scalp]{.vocab tabindex="0" data-def="scalp · n. 头皮；战利品; 剥头皮; 剥头皮"} lacerated from a fall, his [skull]{.vocab tabindex="0" data-def="skull · n. 头盖骨，脑壳"} films fortunately clear. The man's [armpit]{.vocab tabindex="0" data-def="armpit · n. 腋窝;胳肢窝; 丑陋的地方;肮脏的角落"} and [pubic]{.vocab tabindex="0" data-def="pubic · adj. 阴部的；近耻骨的"} region showed a rash consistent with an allergic reaction. He was nauseous — had tried to [ralph]{.vocab tabindex="0" data-def="ralph · vi. 呕吐; 呕吐 Ralphn. 拉尔夫"} twice in the car — and was now curled around his [bowels]{.vocab tabindex="0" data-def="bowels · n. 内脏；同情心；勇气; 取出…的肠子"}, hands pressed to his abdomen. The [cramps]{.vocab tabindex="0" data-def="cramps · n. 肌肉抽筋；腹部绞痛; 束缚；阻碍"} were severe. The nurse drew blood for a [serum]{.vocab tabindex="0" data-def="serum · n. 浆液; 血清; 免疫血清"} panel and cross-checked it against the [semen]{.vocab tabindex="0" data-def="semen · n. 精液；精子"} and [sperm]{.vocab tabindex="0" data-def="sperm · n. 精液；精子；鲸蜡油"} counts ordered earlier in the week as part of a fertility workup; the samples were unrelated, but the lab had queued everything together. She set them aside and focused on the [nerve]{.vocab tabindex="0" data-def="nerve · n. 神经; 神经过敏；神经紧张; 勇气；胆量"} block prep, hands steady despite the noise.
 
-In the quieter end of the ward, a developmental pediatrician reviewed notes on a six-year-old newly diagnosed with **autism**. The child sat calmly, examining her own **thumb**, turning it slowly as though mapping it. Her **snout** — button nose, the chart said, no structural anomaly — wrinkled when the light changed. The doctor picked a dried **booger** the child had left on the intake form, smiled faintly, and moved on. The child's **penis**-absent anatomy note had been misfiled; she corrected it. Outside, someone in recovery was complaining about pain at the **crotch** of her hip graft. An **addict** two rooms over was sleeping off a bad night. The fluorescent lights hummed. The hospital breathed.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **nerve** <span class="wpos">n.</span> | 神经; 神经过敏；神经紧张; 勇气；胆量 |
-| **penis** <span class="wpos">n.</span> | 阴茎 |
-| **pubic** <span class="wpos">adj.</span> | 阴部的；近耻骨的 |
-| **ralph** <span class="wpos">vi.</span> | 呕吐; 呕吐 Ralphn. 拉尔夫 |
-| **scalp** <span class="wpos">n.</span> | 头皮；战利品; 剥头皮; 剥头皮 |
-| **semen** <span class="wpos">n.</span> | 精液；精子 |
-| **serum** <span class="wpos">n.</span> | 浆液; 血清; 免疫血清 |
-| **skull** <span class="wpos">n.</span> | 头盖骨，脑壳 |
-| **snout** <span class="wpos">n.</span> | 鼻子；猪嘴；烟草；鼻口部；口吻状物 |
-| **sperm** <span class="wpos">n.</span> | 精液；精子；鲸蜡油 |
-| **spine** <span class="wpos">n.</span> | 脊柱，脊椎；刺；书脊 |
-| **strep** <span class="wpos">n.</span> | 链锁状球菌; 链球菌的 |
-| **stung** | sting的 |
-| **thigh** <span class="wpos">n.</span> | 大腿，股 |
-| **thumb** <span class="wpos">vt.</span> | 以拇指拨弄；作搭车手势；笨拙地摆弄；翻阅; 用拇指翻书页；竖起拇指要求搭车; 拇指 |
-| **tonic** <span class="wpos">n.</span> | 补药；主调音或基音; 滋补的；声调的；使精神振作的 |
-| **ulcer** <span class="wpos">n.</span> | 溃疡; 腐烂物; 道德败坏;腐败;弊病; &amp; 形成溃疡; 腐败 |
-| **viral** <span class="wpos">adj.</span> | 滤过性毒菌引起的；滤过性毒菌的 |
-| **wound** <span class="wpos">n.</span> | 创伤，伤口; 使受伤; 受伤，伤害 |
-| **wrist** <span class="wpos">n.</span> | 腕, 腕关节 |
-| **addict** <span class="wpos">n.</span> | 有瘾的人，入迷的人; 吸毒成瘾的人；瘾君子; 使沉溺；使上瘾；使自己沾染 |
-| **armpit** <span class="wpos">n.</span> | 腋窝;胳肢窝; 丑陋的地方;肮脏的角落 |
-| **autism** <span class="wpos">n.</span> | 孤独症，自闭症 |
-| **booger** <span class="wpos">n.</span> | 〈方〉干燥的鼻粘液 |
-| **bowels** <span class="wpos">n.</span> | 内脏；同情心；勇气; 取出…的肠子 |
-| **bruise** <span class="wpos">n.</span> | 擦伤；挫伤；青肿; 使受瘀伤；使受挫伤; 受伤；擦伤 |
-| **callus** <span class="wpos">n.</span> | 老茧；假骨质; 愈合组织; 结硬皮，生老茧；结痂; 使生茧；使结痂 |
-| **canker** <span class="wpos">n.</span> | 口疮；溃疡病；腐败的原由，弊害; 产生溃疡；腐败起来; 使患溃疡；使腐败 |
-| **cramps** <span class="wpos">n.</span> | 肌肉抽筋；腹部绞痛; 束缚；阻碍 |
-| **crotch** <span class="wpos">n.</span> | 胯部，分叉处；丫叉 |
-:::
-:::
-::::
+In the quieter end of the ward, a developmental pediatrician reviewed notes on a six-year-old newly diagnosed with [autism]{.vocab tabindex="0" data-def="autism · n. 孤独症，自闭症"}. The child sat calmly, examining her own [thumb]{.vocab tabindex="0" data-def="thumb · vt. 以拇指拨弄；作搭车手势；笨拙地摆弄；翻阅; 用拇指翻书页；竖起拇指要求搭车; 拇指"}, turning it slowly as though mapping it. Her [snout]{.vocab tabindex="0" data-def="snout · n. 鼻子；猪嘴；烟草；鼻口部；口吻状物"} — button nose, the chart said, no structural anomaly — wrinkled when the light changed. The doctor picked a dried [booger]{.vocab tabindex="0" data-def="booger · n. 〈方〉干燥的鼻粘液"} the child had left on the intake form, smiled faintly, and moved on. The child's [penis]{.vocab tabindex="0" data-def="penis · n. 阴茎"}-absent anatomy note had been misfiled; she corrected it. Outside, someone in recovery was complaining about pain at the [crotch]{.vocab tabindex="0" data-def="crotch · n. 胯部，分叉处；丫叉"} of her hip graft. An [addict]{.vocab tabindex="0" data-def="addict · n. 有瘾的人，入迷的人; 吸毒成瘾的人；瘾君子; 使沉溺；使上瘾；使自己沾染"} two rooms over was sleeping off a bad night. The fluorescent lights hummed. The hospital breathed.
 
 ### A Night Shift in the Clinic
 
-:::: {.columns}
-::: {.column width="57%"}
-The waiting room smelled faintly of antiseptic **lotion**. Dr. Reyes checked the **dosage** on the chart one last time before stepping into bay three, where a teenager sat hunched over, pale and clearly **groggy** from the sedative already in her system. She had come in complaining of a persistent **hiccup** that had lasted six hours — not a medical emergency, but enough to **impair** her sleep and rattle her nerves. He asked her to **inhale** slowly through the nose, then **exhale** through pursed lips, a trick that sometimes short-circuited the reflex. It worked. She managed a weak smile.
+The waiting room smelled faintly of antiseptic [lotion]{.vocab tabindex="0" data-def="lotion · n. 洗液；洗涤剂"}. Dr. Reyes checked the [dosage]{.vocab tabindex="0" data-def="dosage · n. 剂量，用量"} on the chart one last time before stepping into bay three, where a teenager sat hunched over, pale and clearly [groggy]{.vocab tabindex="0" data-def="groggy · adj. 不会的,不稳的,摇摆的"} from the sedative already in her system. She had come in complaining of a persistent [hiccup]{.vocab tabindex="0" data-def="hiccup · n. 嗝，呃逆; 连续地打嗝; 暂时性的小问题；短暂的停顿"} that had lasted six hours — not a medical emergency, but enough to [impair]{.vocab tabindex="0" data-def="impair · vt. 削弱；损害；减少"} her sleep and rattle her nerves. He asked her to [inhale]{.vocab tabindex="0" data-def="inhale · vt. 吸入；猛吃猛喝; 吸气"} slowly through the nose, then [exhale]{.vocab tabindex="0" data-def="exhale · vt. &amp; 呼出；发散出"} through pursed lips, a trick that sometimes short-circuited the reflex. It worked. She managed a weak smile.
 
-Next door, an older man with a known **hernia** was waiting for imaging. The **pelvic** scan would confirm whether the bulge had worsened since last month. The radiologist had already flagged a suspicious **lesion** near the **pelvis** — not necessarily malignant, but worth watching. **Ocular** strain from long hours reading small print had left him with mild **myopia** as well; the ophthalmologist had noted arterial **plaque** behind the left retina, a small but telling sign. The nurse offered him a cup of **gargle** solution for the mild throat irritation he'd mentioned; his **larynx** was slightly inflamed, probably nothing.
+Next door, an older man with a known [hernia]{.vocab tabindex="0" data-def="hernia · n. 脱肠；疝气"} was waiting for imaging. The [pelvic]{.vocab tabindex="0" data-def="pelvic · adj. 骨盆的"} scan would confirm whether the bulge had worsened since last month. The radiologist had already flagged a suspicious [lesion]{.vocab tabindex="0" data-def="lesion · n. 损害,损伤; 身体器官组织的损伤"} near the [pelvis]{.vocab tabindex="0" data-def="pelvis · n. 骨盆"} — not necessarily malignant, but worth watching. [Ocular]{.vocab tabindex="0" data-def="ocular · adj. 眼睛的,适于眼睛的,用眼的; 视觉的; 目镜"} strain from long hours reading small print had left him with mild [myopia]{.vocab tabindex="0" data-def="myopia · n. 近视; 缺乏深谋远虑"} as well; the ophthalmologist had noted arterial [plaque]{.vocab tabindex="0" data-def="plaque · n. 饰板,匾; 牙斑; 空斑"} behind the left retina, a small but telling sign. The nurse offered him a cup of [gargle]{.vocab tabindex="0" data-def="gargle · n. 含漱剂，漱口剂；漱口; 漱; 漱口"} solution for the mild throat irritation he'd mentioned; his [larynx]{.vocab tabindex="0" data-def="larynx · n. 喉头；喉"} was slightly inflamed, probably nothing.
 
-Down the hall, the night took a darker turn. A man was brought in by ambulance — unresponsive, suspected **opioid** overdose. His breathing was shallow, each labored attempt to **inhale** followed by a rattling **exhale**. The triage team moved fast. A **lancet** puncture confirmed the blood panel they feared. Meanwhile, a child in the next bay was mid-**puking** episode, her mother holding her hair back — classic **nausea** from a stomach bug, no fever. The attending ruled out **rabies** exposure from a recent animal bite and prescribed a gentle oral **remedy**. The child, exhausted, finally let out one enormous **sneeze** and promptly fell asleep in her mother's arms.
+Down the hall, the night took a darker turn. A man was brought in by ambulance — unresponsive, suspected [opioid]{.vocab tabindex="0" data-def="opioid · adj. Ⅰ 类鸦片的; Ⅱ 类鸦片活性肽"} overdose. His breathing was shallow, each labored attempt to [inhale]{.vocab tabindex="0" data-def="inhale · vt. 吸入；猛吃猛喝; 吸气"} followed by a rattling [exhale]{.vocab tabindex="0" data-def="exhale · vt. &amp; 呼出；发散出"}. The triage team moved fast. A [lancet]{.vocab tabindex="0" data-def="lancet · n. 小刀，柳叶刀；尖顶窗；小枪"} puncture confirmed the blood panel they feared. Meanwhile, a child in the next bay was mid-[puking]{.vocab tabindex="0" data-def="puking · n. 冒顶; 呕吐"} episode, her mother holding her hair back — classic [nausea]{.vocab tabindex="0" data-def="nausea · n. 作呕;恶心;反胃"} from a stomach bug, no fever. The attending ruled out [rabies]{.vocab tabindex="0" data-def="rabies · n. 狂犬病;恐水症"} exposure from a recent animal bite and prescribed a gentle oral [remedy]{.vocab tabindex="0" data-def="remedy · n. 药品, 治疗法; 补救办法, 纠正办法"}. The child, exhausted, finally let out one enormous [sneeze]{.vocab tabindex="0" data-def="sneeze · vi. 打喷嚏; 喷嚏"} and promptly fell asleep in her mother's arms.
 
-Out in the corridor, a **psycho**-oncology consult was wrapping up. The patient — a woman in her fifties, recently diagnosed with a **malady** that had already become a systemic **plague** on her quality of life — was asking hard questions about **mortal** risk and end-of-life options. The counselor listened. There were no easy answers. Somewhere in the basement, the **morgue** held three unclaimed bodies from the week's worst cases, a quiet reminder of what this building ultimately stood against. The night shift pressed on — a **nipple** shield adjusted for a new mother in maternity, a **forcep** sterilized for the next procedure, the whole apparatus of care turning steadily in the dark.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **dosage** <span class="wpos">n.</span> | 剂量，用量 |
-| **exhale** <span class="wpos">vt.</span> | &amp; 呼出；发散出 |
-| **forcep** | 钳状骨针 |
-| **gargle** <span class="wpos">n.</span> | 含漱剂，漱口剂；漱口; 漱; 漱口 |
-| **groggy** <span class="wpos">adj.</span> | 不会的,不稳的,摇摆的 |
-| **hernia** <span class="wpos">n.</span> | 脱肠；疝气 |
-| **hiccup** <span class="wpos">n.</span> | 嗝，呃逆; 连续地打嗝; 暂时性的小问题；短暂的停顿 |
-| **impair** <span class="wpos">vt.</span> | 削弱；损害；减少 |
-| **inhale** <span class="wpos">vt.</span> | 吸入；猛吃猛喝; 吸气 |
-| **lancet** <span class="wpos">n.</span> | 小刀，柳叶刀；尖顶窗；小枪 |
-| **larynx** <span class="wpos">n.</span> | 喉头；喉 |
-| **lesion** <span class="wpos">n.</span> | 损害,损伤; 身体器官组织的损伤 |
-| **lotion** <span class="wpos">n.</span> | 洗液；洗涤剂 |
-| **malady** <span class="wpos">n.</span> | 疾病；弊病；腐败 |
-| **morgue** <span class="wpos">n.</span> | 陈尸所；资料室，资料档案 |
-| **mortal** <span class="wpos">adj.</span> | 不能永生的; 终将死亡的; 导致死亡的; 致命的; 非常危急的; 至死方休的; 不共戴天的; 人; … |
-| **myopia** <span class="wpos">n.</span> | 近视; 缺乏深谋远虑 |
-| **nausea** <span class="wpos">n.</span> | 作呕;恶心;反胃 |
-| **nipple** <span class="wpos">n.</span> | 奶嘴；乳头，奶头 |
-| **ocular** <span class="wpos">adj.</span> | 眼睛的,适于眼睛的,用眼的; 视觉的; 目镜 |
-| **opioid** <span class="wpos">adj.</span> | Ⅰ 类鸦片的; Ⅱ 类鸦片活性肽 |
-| **pelvic** <span class="wpos">adj.</span> | 骨盆的 |
-| **pelvis** <span class="wpos">n.</span> | 骨盆 |
-| **plague** <span class="wpos">n.</span> | 瘟疫；疫病; 死亡率高的传染病; 灾害，祸患；鼠疫；黑死病; 烦扰；令人头痛的事物; 给…造成长时间… |
-| **plaque** <span class="wpos">n.</span> | 饰板,匾; 牙斑; 空斑 |
-| **psycho** <span class="wpos">n.</span> | 心理分析，精神分析；精神病患者; 精神病学的；精神病的 |
-| **puking** <span class="wpos">n.</span> | 冒顶; 呕吐 |
-| **rabies** <span class="wpos">n.</span> | 狂犬病;恐水症 |
-| **remedy** <span class="wpos">n.</span> | 药品, 治疗法; 补救办法, 纠正办法 |
-| **sneeze** <span class="wpos">vi.</span> | 打喷嚏; 喷嚏 |
-:::
-:::
-::::
+Out in the corridor, a [psycho]{.vocab tabindex="0" data-def="psycho · n. 心理分析，精神分析；精神病患者; 精神病学的；精神病的"}-oncology consult was wrapping up. The patient — a woman in her fifties, recently diagnosed with a [malady]{.vocab tabindex="0" data-def="malady · n. 疾病；弊病；腐败"} that had already become a systemic [plague]{.vocab tabindex="0" data-def="plague · n. 瘟疫；疫病; 死亡率高的传染病; 灾害，祸患；鼠疫；黑死病; 烦扰；令人头痛的事物; 给…造成长时间…"} on her quality of life — was asking hard questions about [mortal]{.vocab tabindex="0" data-def="mortal · adj. 不能永生的; 终将死亡的; 导致死亡的; 致命的; 非常危急的; 至死方休的; 不共戴天的; 人; …"} risk and end-of-life options. The counselor listened. There were no easy answers. Somewhere in the basement, the [morgue]{.vocab tabindex="0" data-def="morgue · n. 陈尸所；资料室，资料档案"} held three unclaimed bodies from the week's worst cases, a quiet reminder of what this building ultimately stood against. The night shift pressed on — a [nipple]{.vocab tabindex="0" data-def="nipple · n. 奶嘴；乳头，奶头"} shield adjusted for a new mother in maternity, a [forcep]{.vocab tabindex="0" data-def="forcep 钳状骨针"} sterilized for the next procedure, the whole apparatus of care turning steadily in the dark.
 
 ### The Trauma Bay
 
-:::: {.columns}
-::: {.column width="57%"}
-The paramedics wheeled him in **sweaty** and barely conscious, his **abdomen** rigid to the touch. The charge nurse initiated **triage** without missing a beat, sorting the night's cases with practiced calm. This man, mid-forties, had **sprained** his ankle leaping off a loading dock — a minor **ailment** by itself — yet the fall had done something worse: a blunt **trauma** to the lower back, and the attending suspected **spinal** cord involvement. The **dizzily** lit corridor felt narrower than usual.
+The paramedics wheeled him in [sweaty]{.vocab tabindex="0" data-def="sweaty · adj. 出汗的；吃力的；使人出汗的"} and barely conscious, his [abdomen]{.vocab tabindex="0" data-def="abdomen · n. 腹部；下腹；腹腔 Abdomen腹"} rigid to the touch. The charge nurse initiated [triage]{.vocab tabindex="0" data-def="triage · n. 分类；伤员验伤分类"} without missing a beat, sorting the night's cases with practiced calm. This man, mid-forties, had [sprained]{.vocab tabindex="0" data-def="sprain · vt. 扭伤; 扭伤"} his ankle leaping off a loading dock — a minor [ailment]{.vocab tabindex="0" data-def="ailment · n. 小病；不安"} by itself — yet the fall had done something worse: a blunt [trauma]{.vocab tabindex="0" data-def="trauma · n. 外伤；创伤"} to the lower back, and the attending suspected [spinal]{.vocab tabindex="0" data-def="spinal · adj. 脊骨的；脊髓的；脊柱的；尖刺的；针的; 脊椎麻醉"} cord involvement. The [dizzily]{.vocab tabindex="0" data-def="dizzily · adv. 头晕；头昏眼花地,使人眼花地"} lit corridor felt narrower than usual.
 
-The resident pulled up his **anatomy** chart and traced the injury line. The CT confirmed what they feared: a **dilated** vessel pressing against the cord near the lumbar root. Meanwhile, the triage notes flagged a secondary infection — apparently **chronic**, three months untreated, the kind that slowly **afflicts** a person until they simply cannot stand. His skin showed **blisters** along the left forearm, his **thighs** bruised a deep plum. Someone had wrapped a **bandage** around his wrist, loosely, almost tenderly, as though a stranger had tried to help before the ambulance arrived.
+The resident pulled up his [anatomy]{.vocab tabindex="0" data-def="anatomy · n. 解剖, 解剖学; 解剖结构; 分析; 人体；骨骼；干尸"} chart and traced the injury line. The CT confirmed what they feared: a [dilated]{.vocab tabindex="0" data-def="dilated · adj. 扩大的；加宽的；膨胀的"} vessel pressing against the cord near the lumbar root. Meanwhile, the triage notes flagged a secondary infection — apparently [chronic]{.vocab tabindex="0" data-def="chronic · adj. 慢性的；长期的；习惯性的"}, three months untreated, the kind that slowly [afflicts]{.vocab tabindex="0" data-def="afflict · vt. 折磨；使痛苦；使苦恼"} a person until they simply cannot stand. His skin showed [blisters]{.vocab tabindex="0" data-def="blister · n. 水疱, 水肿, 疱; 气泡; &amp; 起水泡"} along the left forearm, his [thighs]{.vocab tabindex="0" data-def="thighs · n. 大腿"} bruised a deep plum. Someone had wrapped a [bandage]{.vocab tabindex="0" data-def="bandage · n. 绷带; 用绷带包扎"} around his wrist, loosely, almost tenderly, as though a stranger had tried to help before the ambulance arrived.
 
-Across the bay, a medical student was reviewing a **cadaver** for her practical on reproductive **anatomy**. She had memorized the layers — **uterus**, **vagina**, **bladder** — and cross-checked them against the **capsule** summaries in her notes. A **bilious** smell drifted from the specimen tray. She breathed through her mouth and kept going. Her professor had told her: medicine is **endemic** to discomfort. You learn to stay present anyway.
+Across the bay, a medical student was reviewing a [cadaver]{.vocab tabindex="0" data-def="cadaver · n. 尸体；死尸"} for her practical on reproductive [anatomy]{.vocab tabindex="0" data-def="anatomy · n. 解剖, 解剖学; 解剖结构; 分析; 人体；骨骼；干尸"}. She had memorized the layers — [uterus]{.vocab tabindex="0" data-def="uterus · n. 子宫"}, [vagina]{.vocab tabindex="0" data-def="vagina · n. 阴道；叶鞘；鞘 Vagina阴道"}, [bladder]{.vocab tabindex="0" data-def="bladder · n. 〈解〉膀胱; 囊, 袋"} — and cross-checked them against the [capsule]{.vocab tabindex="0" data-def="capsule · n. 胶囊；太空舱；蒴果；小容器; 压缩的；概要的; 简述；压缩"} summaries in her notes. A [bilious]{.vocab tabindex="0" data-def="bilious · adj. 胆汁的; 胆汁病的; 脾气坏的"} smell drifted from the specimen tray. She breathed through her mouth and kept going. Her professor had told her: medicine is [endemic]{.vocab tabindex="0" data-def="endemic · adj. 风土的；地方性的; 地方病"} to discomfort. You learn to stay present anyway.
 
-The attending ordered **aerobic** threshold monitoring for the ankle patient and noted his **tendon** showed micro-tears consistent with overuse — not just the fall. The chart listed **cooties** as a childhood nickname from the intake nurse, who had recognized him. He was a regular. His **excreta** samples were sent to the lab. The pharmacy sent up a **tampon**-style wound plug for the abdominal bleed, along with a strip of **condoms** for the STI screening kit the ER kept stocked as protocol. Two **canines** from his broken molar had been dislodged in the fall; the dentist on call was paged.
+The attending ordered [aerobic]{.vocab tabindex="0" data-def="aerobic · adj. 需氧的；增氧健身法的"} threshold monitoring for the ankle patient and noted his [tendon]{.vocab tabindex="0" data-def="tendon · n. 腱"} showed micro-tears consistent with overuse — not just the fall. The chart listed [cooties]{.vocab tabindex="0" data-def="cooties · n. 虱子"} as a childhood nickname from the intake nurse, who had recognized him. He was a regular. His [excreta]{.vocab tabindex="0" data-def="excreta · n. 排泄物，分泌物"} samples were sent to the lab. The pharmacy sent up a [tampon]{.vocab tabindex="0" data-def="tampon · n. 卫生棉塞"}-style wound plug for the abdominal bleed, along with a strip of [condoms]{.vocab tabindex="0" data-def="condoms · n. 避孕套；橡皮套"} for the STI screening kit the ER kept stocked as protocol. Two [canines]{.vocab tabindex="0" data-def="canines · n. 犬齿；尖牙"} from his broken molar had been dislodged in the fall; the dentist on call was paged.
 
-He would not be **crippled** — that much the attending could say with reasonable confidence. But the night was long, and the causes were stacked: the injury, the infection, a body that had been asked to do too much for too long.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **spinal** <span class="wpos">adj.</span> | 脊骨的；脊髓的；脊柱的；尖刺的；针的; 脊椎麻醉 |
-| **sprain** <span class="wpos">vt.</span> | 扭伤; 扭伤 |
-| **sweaty** <span class="wpos">adj.</span> | 出汗的；吃力的；使人出汗的 |
-| **tampon** <span class="wpos">n.</span> | 卫生棉塞 |
-| **tendon** <span class="wpos">n.</span> | 腱 |
-| **thighs** <span class="wpos">n.</span> | 大腿 |
-| **trauma** <span class="wpos">n.</span> | 外伤；创伤 |
-| **triage** <span class="wpos">n.</span> | 分类；伤员验伤分类 |
-| **uterus** <span class="wpos">n.</span> | 子宫 |
-| **vagina** <span class="wpos">n.</span> | 阴道；叶鞘；鞘 Vagina阴道 |
-| **abdomen** <span class="wpos">n.</span> | 腹部；下腹；腹腔 Abdomen腹 |
-| **aerobic** <span class="wpos">adj.</span> | 需氧的；增氧健身法的 |
-| **afflict** <span class="wpos">vt.</span> | 折磨；使痛苦；使苦恼 |
-| **ailment** <span class="wpos">n.</span> | 小病；不安 |
-| **anatomy** <span class="wpos">n.</span> | 解剖, 解剖学; 解剖结构; 分析; 人体；骨骼；干尸 |
-| **bandage** <span class="wpos">n.</span> | 绷带; 用绷带包扎 |
-| **bilious** <span class="wpos">adj.</span> | 胆汁的; 胆汁病的; 脾气坏的 |
-| **bladder** <span class="wpos">n.</span> | 〈解〉膀胱; 囊, 袋 |
-| **blister** <span class="wpos">n.</span> | 水疱, 水肿, 疱; 气泡; &amp; 起水泡 |
-| **cadaver** <span class="wpos">n.</span> | 尸体；死尸 |
-| **canines** <span class="wpos">n.</span> | 犬齿；尖牙 |
-| **capsule** <span class="wpos">n.</span> | 胶囊；太空舱；蒴果；小容器; 压缩的；概要的; 简述；压缩 |
-| **chronic** <span class="wpos">adj.</span> | 慢性的；长期的；习惯性的 |
-| **condoms** <span class="wpos">n.</span> | 避孕套；橡皮套 |
-| **cooties** <span class="wpos">n.</span> | 虱子 |
-| **cripple** <span class="wpos">vt.</span> | 使跛, 受伤致残; 严重削弱, 使陷于瘫痪 |
-| **dilated** <span class="wpos">adj.</span> | 扩大的；加宽的；膨胀的 |
-| **dizzily** <span class="wpos">adv.</span> | 头晕；头昏眼花地,使人眼花地 |
-| **endemic** <span class="wpos">adj.</span> | 风土的；地方性的; 地方病 |
-| **excreta** <span class="wpos">n.</span> | 排泄物，分泌物 |
-:::
-:::
-::::
+He would not be [crippled]{.vocab tabindex="0" data-def="cripple · vt. 使跛, 受伤致残; 严重削弱, 使陷于瘫痪"} — that much the attending could say with reasonable confidence. But the night was long, and the causes were stacked: the injury, the infection, a body that had been asked to do too much for too long.
 
 ### The Body's Long Day
 
-:::: {.columns}
-::: {.column width="57%"}
-After years of competitive cycling, Marco had built a strict **regimen** — six mornings a week of **aerobics**, followed by a **pilates** session to lengthen what the saddle compressed. Yet that autumn he felt a creeping **malaise** he could not name: a bone-deep **fatigue** that no amount of sleep seemed to touch. His coach, **plagued** by the same suspicion, sent him straight to Dr. Osei.
+After years of competitive cycling, Marco had built a strict [regimen]{.vocab tabindex="0" data-def="regimen · n. 养生法，养生之道；生活规则"} — six mornings a week of [aerobics]{.vocab tabindex="0" data-def="aerobics · n. 有氧健身法,健美操"}, followed by a [pilates]{.vocab tabindex="0" data-def="pilates · n. 普拉提课程"} session to lengthen what the saddle compressed. Yet that autumn he felt a creeping [malaise]{.vocab tabindex="0" data-def="malaise · n. 不舒服；心神不安"} he could not name: a bone-deep [fatigue]{.vocab tabindex="0" data-def="fatigue · n. 疲劳，疲乏；杂役; 使疲劳；使心智衰弱; 疲劳; 疲劳的"} that no amount of sleep seemed to touch. His coach, [plagued]{.vocab tabindex="0" data-def="plagued · v. 折磨；困扰"} by the same suspicion, sent him straight to Dr. Osei.
 
-In the clinic, Dr. Osei pressed Marco's **patella**, tapped each **knuckle**, and studied the scan of his **innards** with quiet attention. "Your **thyroid** and every **hormone** panel look fine," she said, "but your **myeloid** counts are low — your marrow is producing fewer red cells than it should." She scanned his **sinuses** for any hidden infection, listened while he described a nagging urge to **sniffle**, and noted the pale patches around his forearms. "Classic signs of **albinism**-related photosensitivity," she added, almost to herself. His skin struggled to **respire** efficiently in the heat, and his kidneys were slow to **excrete** certain metabolic waste. She handed him an **inhaler** for the inflammation and made clear there was no single **panacea** — no magic pill would fix everything at once.
+In the clinic, Dr. Osei pressed Marco's [patella]{.vocab tabindex="0" data-def="patella · n. 膝盖骨"}, tapped each [knuckle]{.vocab tabindex="0" data-def="knuckle · n. 指关节; 膝关节, 踝"}, and studied the scan of his [innards]{.vocab tabindex="0" data-def="innards · n. 内脏；内部结构"} with quiet attention. "Your [thyroid]{.vocab tabindex="0" data-def="thyroid · n. 甲状腺；甲状软骨；甲状腺剂; 甲状腺的；盾状的"} and every [hormone]{.vocab tabindex="0" data-def="hormone · n. 荷尔蒙,激素; 激素的"} panel look fine," she said, "but your [myeloid]{.vocab tabindex="0" data-def="myeloid · adj. 骨髓的；骨髓状的；由骨髓而来的；脊髓的"} counts are low — your marrow is producing fewer red cells than it should." She scanned his [sinuses]{.vocab tabindex="0" data-def="sinuses · n. 鼻窦；鼻窦炎"} for any hidden infection, listened while he described a nagging urge to [sniffle]{.vocab tabindex="0" data-def="sniffle · vi. 抽鼻涕；抽噎; 鼻塞声；不断的吸鼻子"}, and noted the pale patches around his forearms. "Classic signs of [albinism]{.vocab tabindex="0" data-def="albinism · n. 白化病；皮肤变白症"}-related photosensitivity," she added, almost to herself. His skin struggled to [respire]{.vocab tabindex="0" data-def="respire · vt. 呼吸; 呼气和吸气; 进行呼吸"} efficiently in the heat, and his kidneys were slow to [excrete]{.vocab tabindex="0" data-def="excrete · vt. 排除，排泄；分泌，排出; 排泄的，分泌的；促进排泄的"} certain metabolic waste. She handed him an [inhaler]{.vocab tabindex="0" data-def="inhaler · n. 吸入器"} for the inflammation and made clear there was no single [panacea]{.vocab tabindex="0" data-def="panacea · n. 治百病的药,万灵药"} — no magic pill would fix everything at once.
 
-The deeper story was hormonal: Marco had entered a delayed form of **puberty**-related adaptation, his body still recalibrating **sterile** lab values that should have stabilised years earlier. Growth had been **stunted** slightly during a childhood illness, and the lag persisted. He also carried a gene variant linked to **aphthous** ulcers — the small, punishing sores that flared whenever his immune system spiked. For those, the only real **antidote** was rest and a zinc rinse. The sores were no more dangerous than a bad bout of **hiccups**, Dr. Osei reassured him, yet they signalled the same thing: the body protesting overload. She mentioned in passing a rare case she'd read — a patient whose **scrotum** showed the same inflammatory pattern, a reminder that the body's complaints surface in unexpected places.
+The deeper story was hormonal: Marco had entered a delayed form of [puberty]{.vocab tabindex="0" data-def="puberty · n. 青春期；开花期"}-related adaptation, his body still recalibrating [sterile]{.vocab tabindex="0" data-def="sterile · adj. 不毛的；贫瘠的；不育的；无菌的；枯燥乏味的"} lab values that should have stabilised years earlier. Growth had been [stunted]{.vocab tabindex="0" data-def="stunted · adj. 成长受妨碍的,矮小的"} slightly during a childhood illness, and the lag persisted. He also carried a gene variant linked to [aphthous]{.vocab tabindex="0" data-def="aphthous · adj. 口疮的"} ulcers — the small, punishing sores that flared whenever his immune system spiked. For those, the only real [antidote]{.vocab tabindex="0" data-def="antidote · n. 解药,解毒剂; 对抗手段,矫正方法; 除害物"} was rest and a zinc rinse. The sores were no more dangerous than a bad bout of [hiccups]{.vocab tabindex="0" data-def="hiccups · n. 打嗝，呃逆"}, Dr. Osei reassured him, yet they signalled the same thing: the body protesting overload. She mentioned in passing a rare case she'd read — a patient whose [scrotum]{.vocab tabindex="0" data-def="scrotum · n. 阴囊"} showed the same inflammatory pattern, a reminder that the body's complaints surface in unexpected places.
 
-Good **hygiene** and a calibrated training load, she concluded, were worth more than any supplement. She referred him to a **midwife**-turned-wellness coach whose specialty was reproductive and metabolic health, and suggested he read the original study on exercise and **lunatic**-fringe hormone protocols — so named by the authors themselves — that had **plagued** sports medicine with bad advice for a decade. Marco left with a list, a lighter spirit, and the first clear plan he'd had in months to truly **relieve** the pressure his body had been quietly carrying all year.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **excrete** <span class="wpos">vt.</span> | 排除，排泄；分泌，排出; 排泄的，分泌的；促进排泄的 |
-| **fatigue** <span class="wpos">n.</span> | 疲劳，疲乏；杂役; 使疲劳；使心智衰弱; 疲劳; 疲劳的 |
-| **hiccups** <span class="wpos">n.</span> | 打嗝，呃逆 |
-| **hormone** <span class="wpos">n.</span> | 荷尔蒙,激素; 激素的 |
-| **hygiene** <span class="wpos">n.</span> | 卫生学；卫生；保健法 |
-| **inhaler** <span class="wpos">n.</span> | 吸入器 |
-| **innards** <span class="wpos">n.</span> | 内脏；内部结构 |
-| **knuckle** <span class="wpos">n.</span> | 指关节; 膝关节, 踝 |
-| **lunatic** <span class="wpos">adj.</span> | 精神错乱的；疯狂的；愚蠢的; 疯子；疯人 |
-| **malaise** <span class="wpos">n.</span> | 不舒服；心神不安 |
-| **midwife** <span class="wpos">n.</span> | 接生婆, 助产士 |
-| **myeloid** <span class="wpos">adj.</span> | 骨髓的；骨髓状的；由骨髓而来的；脊髓的 |
-| **panacea** <span class="wpos">n.</span> | 治百病的药,万灵药 |
-| **patella** <span class="wpos">n.</span> | 膝盖骨 |
-| **pilates** <span class="wpos">n.</span> | 普拉提课程 |
-| **plagued** <span class="wpos">v.</span> | 折磨；困扰 |
-| **puberty** <span class="wpos">n.</span> | 青春期；开花期 |
-| **regimen** <span class="wpos">n.</span> | 养生法，养生之道；生活规则 |
-| **relieve** <span class="wpos">vt.</span> | 解除，减轻；使不单调乏味；换…的班；解围；使放心 |
-| **respire** <span class="wpos">vt.</span> | 呼吸; 呼气和吸气; 进行呼吸 |
-| **scrotum** <span class="wpos">n.</span> | 阴囊 |
-| **sinuses** <span class="wpos">n.</span> | 鼻窦；鼻窦炎 |
-| **sniffle** <span class="wpos">vi.</span> | 抽鼻涕；抽噎; 鼻塞声；不断的吸鼻子 |
-| **sterile** <span class="wpos">adj.</span> | 不毛的；贫瘠的；不育的；无菌的；枯燥乏味的 |
-| **stunted** <span class="wpos">adj.</span> | 成长受妨碍的,矮小的 |
-| **thyroid** <span class="wpos">n.</span> | 甲状腺；甲状软骨；甲状腺剂; 甲状腺的；盾状的 |
-| **aerobics** <span class="wpos">n.</span> | 有氧健身法,健美操 |
-| **albinism** <span class="wpos">n.</span> | 白化病；皮肤变白症 |
-| **antidote** <span class="wpos">n.</span> | 解药,解毒剂; 对抗手段,矫正方法; 除害物 |
-| **aphthous** <span class="wpos">adj.</span> | 口疮的 |
-:::
-:::
-::::
+Good [hygiene]{.vocab tabindex="0" data-def="hygiene · n. 卫生学；卫生；保健法"} and a calibrated training load, she concluded, were worth more than any supplement. She referred him to a [midwife]{.vocab tabindex="0" data-def="midwife · n. 接生婆, 助产士"}-turned-wellness coach whose specialty was reproductive and metabolic health, and suggested he read the original study on exercise and [lunatic]{.vocab tabindex="0" data-def="lunatic · adj. 精神错乱的；疯狂的；愚蠢的; 疯子；疯人"}-fringe hormone protocols — so named by the authors themselves — that had [plagued]{.vocab tabindex="0" data-def="plagued · v. 折磨；困扰"} sports medicine with bad advice for a decade. Marco left with a list, a lighter spirit, and the first clear plan he'd had in months to truly [relieve]{.vocab tabindex="0" data-def="relieve · vt. 解除，减轻；使不单调乏味；换…的班；解围；使放心"} the pressure his body had been quietly carrying all year.
 
 ### The Long Ward
 
-:::: {.columns}
-::: {.column width="57%"}
-The resident bent over the chart, adjusting her **bifocals** before reading the morning notes aloud. The patient in bed three had been admitted **comatose** after a seizure — his **epilepsy** poorly controlled for years — and had only begun to **aspirate** thin liquids without choking. His wife stood at the bedside, visibly exhausted, her eyes carrying the particular blankness of someone approaching **delirium** from sleeplessness alone.
+The resident bent over the chart, adjusting her [bifocals]{.vocab tabindex="0" data-def="bifocals · n. 远视近视两用的眼镜"} before reading the morning notes aloud. The patient in bed three had been admitted [comatose]{.vocab tabindex="0" data-def="comatose · adj. 昏睡状态的；昏迷的；麻木的；怠惰的"} after a seizure — his [epilepsy]{.vocab tabindex="0" data-def="epilepsy · n. 癫痫，癫痫症"} poorly controlled for years — and had only begun to [aspirate]{.vocab tabindex="0" data-def="aspirate · v. 吸气"} thin liquids without choking. His wife stood at the bedside, visibly exhausted, her eyes carrying the particular blankness of someone approaching [delirium]{.vocab tabindex="0" data-def="delirium · n. 精神错乱；发狂，狂热；说谵语状态"} from sleeplessness alone.
 
-Down the corridor, a boy with **dwarfism** sat upright on a gurney, a stress **fracture** confirmed in his left tibia. His mother, herself **dyslexic**, struggled to parse the discharge form while the nurse patiently pointed to each line. Next door, a man with **diabetes** and badly **impaired** circulation had been wheeled in at dawn; the surgical team was already debating whether an **excision** of necrotic tissue could be avoided. A clean **incision** might spare the foot if they moved quickly. His abdomen showed marked **bloating**, and the attending had ordered a **diuretic** to ease the pressure. An X-ray of his spine meanwhile revealed **deformed** vertebrae — chronic, likely from years of unmanaged weight.
+Down the corridor, a boy with [dwarfism]{.vocab tabindex="0" data-def="dwarfism · n. 矮小；侏儒症"} sat upright on a gurney, a stress [fracture]{.vocab tabindex="0" data-def="fracture · n. 破裂，断裂；骨折; 破裂；折断; 使破裂"} confirmed in his left tibia. His mother, herself [dyslexic]{.vocab tabindex="0" data-def="dyslexic · adj. 诵读困难的; 诵读困难者"}, struggled to parse the discharge form while the nurse patiently pointed to each line. Next door, a man with [diabetes]{.vocab tabindex="0" data-def="diabetes · n. 糖尿病"} and badly [impaired]{.vocab tabindex="0" data-def="impaired · adj. 受损的; 损害"} circulation had been wheeled in at dawn; the surgical team was already debating whether an [excision]{.vocab tabindex="0" data-def="excision · n. 删除，切除；切除之物"} of necrotic tissue could be avoided. A clean [incision]{.vocab tabindex="0" data-def="incision · n. 切开；切口；雕刻，切割"} might spare the foot if they moved quickly. His abdomen showed marked [bloating]{.vocab tabindex="0" data-def="bloating 膨胀,炉衬膨胀,炉渣起泡；胃气胀"}, and the attending had ordered a [diuretic]{.vocab tabindex="0" data-def="diuretic · adj. 利尿的; 利尿剂"} to ease the pressure. An X-ray of his spine meanwhile revealed [deformed]{.vocab tabindex="0" data-def="deformed · adj. 畸形的；残废的；丑陋的; 使...残缺，使...变形"} vertebrae — chronic, likely from years of unmanaged weight.
 
-The far bay held a young woman recovering from a ruptured **appendix** and a **fibrosis** diagnosis that had come as a secondary finding. She was **crippled** by pain still, but lucid. Beside her, separated by a curtain, an **autistic** teenager lay under **hypnotic** sedation — the only way the team had found to safely examine his **genitals** and **foreskin** for the suspected **erectile** tissue abnormality flagged in his referral. The notes from his previous hospital were clinical and blunt, listing **castrate**-level hormone readings alongside the structural findings. A consult from endocrinology was pending.
+The far bay held a young woman recovering from a ruptured [appendix]{.vocab tabindex="0" data-def="appendix · n. 附录；阑尾；附加物"} and a [fibrosis]{.vocab tabindex="0" data-def="fibrosis · n. 纤维化，纤维变性"} diagnosis that had come as a secondary finding. She was [crippled]{.vocab tabindex="0" data-def="crippled · adj. 残废的，跛腿的; 使成跛子；使受伤致残"} by pain still, but lucid. Beside her, separated by a curtain, an [autistic]{.vocab tabindex="0" data-def="autistic · n. 孤独症患者"} teenager lay under [hypnotic]{.vocab tabindex="0" data-def="hypnotic · adj. 催眠的，催眠术的；易于催眠的; 安眠药；催眠状态的人"} sedation — the only way the team had found to safely examine his [genitals]{.vocab tabindex="0" data-def="genitals · n. 生殖器；外阴部"} and [foreskin]{.vocab tabindex="0" data-def="foreskin · n. 包皮"} for the suspected [erectile]{.vocab tabindex="0" data-def="erectile · adj. 勃起的；可使直立的"} tissue abnormality flagged in his referral. The notes from his previous hospital were clinical and blunt, listing [castrate]{.vocab tabindex="0" data-def="castrate · vt. 阉割；删除；去掉最重要的部分；使丧失力量"}-level hormone readings alongside the structural findings. A consult from endocrinology was pending.
 
-At the nurses' station, a medical student quietly mouthed the words from a pharmacology card: *copulate, defecate, fellatio, clitoris, buttocks* — vocabulary drills for the anatomy viva, each term stripped of awkwardness by sheer repetition. His supervisor glanced over. "The **dyslexic** ones always read those cards twice," she said, not unkindly. He nodded and flipped to the next: **copulate**, **defecate**, **fellatio**, **clitoris**, **buttocks** — bodies reduced to function, then slowly, over years of practice, restored to persons.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **appendix** <span class="wpos">n.</span> | 附录；阑尾；附加物 |
-| **aspirate** <span class="wpos">v.</span> | 吸气 |
-| **autistic** <span class="wpos">n.</span> | 孤独症患者 |
-| **bifocals** <span class="wpos">n.</span> | 远视近视两用的眼镜 |
-| **bloating** | 膨胀,炉衬膨胀,炉渣起泡；胃气胀 |
-| **buttocks** <span class="wpos">n.</span> | 臀部；纵剖线; 用过背摔摔出对手 |
-| **castrate** <span class="wpos">vt.</span> | 阉割；删除；去掉最重要的部分；使丧失力量 |
-| **clitoris** <span class="wpos">n.</span> | 阴核,阴蒂 |
-| **comatose** <span class="wpos">adj.</span> | 昏睡状态的；昏迷的；麻木的；怠惰的 |
-| **copulate** <span class="wpos">vi.</span> | 交配；交媾; 连接的；联合的；结合的 |
-| **crippled** <span class="wpos">adj.</span> | 残废的，跛腿的; 使成跛子；使受伤致残 |
-| **defecate** <span class="wpos">vt.</span> | 澄清；除去污物; 澄清；排便 |
-| **deformed** <span class="wpos">adj.</span> | 畸形的；残废的；丑陋的; 使...残缺，使...变形 |
-| **delirium** <span class="wpos">n.</span> | 精神错乱；发狂，狂热；说谵语状态 |
-| **diabetes** <span class="wpos">n.</span> | 糖尿病 |
-| **diuretic** <span class="wpos">adj.</span> | 利尿的; 利尿剂 |
-| **dwarfism** <span class="wpos">n.</span> | 矮小；侏儒症 |
-| **dyslexia** <span class="wpos">n.</span> | 读写困难 |
-| **dyslexic** <span class="wpos">adj.</span> | 诵读困难的; 诵读困难者 |
-| **epilepsy** <span class="wpos">n.</span> | 癫痫，癫痫症 |
-| **erectile** <span class="wpos">adj.</span> | 勃起的；可使直立的 |
-| **excision** <span class="wpos">n.</span> | 删除，切除；切除之物 |
-| **fellatio** <span class="wpos">n.</span> | 吮吸阴茎；口交 |
-| **fibrosis** <span class="wpos">n.</span> | 纤维化，纤维变性 |
-| **foreskin** <span class="wpos">n.</span> | 包皮 |
-| **fracture** <span class="wpos">n.</span> | 破裂，断裂；骨折; 破裂；折断; 使破裂 |
-| **genitals** <span class="wpos">n.</span> | 生殖器；外阴部 |
-| **hypnotic** <span class="wpos">adj.</span> | 催眠的，催眠术的；易于催眠的; 安眠药；催眠状态的人 |
-| **impaired** <span class="wpos">adj.</span> | 受损的; 损害 |
-| **incision** <span class="wpos">n.</span> | 切开；切口；雕刻，切割 |
-:::
-:::
-::::
+At the nurses' station, a medical student quietly mouthed the words from a pharmacology card: *copulate, defecate, fellatio, clitoris, buttocks* — vocabulary drills for the anatomy viva, each term stripped of awkwardness by sheer repetition. His supervisor glanced over. "The [dyslexic]{.vocab tabindex="0" data-def="dyslexic · adj. 诵读困难的; 诵读困难者"} ones always read those cards twice," she said, not unkindly. He nodded and flipped to the next: [copulate]{.vocab tabindex="0" data-def="copulate · vi. 交配；交媾; 连接的；联合的；结合的"}, [defecate]{.vocab tabindex="0" data-def="defecate · vt. 澄清；除去污物; 澄清；排便"}, [fellatio]{.vocab tabindex="0" data-def="fellatio · n. 吮吸阴茎；口交"}, [clitoris]{.vocab tabindex="0" data-def="clitoris · n. 阴核,阴蒂"}, [buttocks]{.vocab tabindex="0" data-def="buttocks · n. 臀部；纵剖线; 用过背摔摔出对手"} — bodies reduced to function, then slowly, over years of practice, restored to persons.
 
 ### The Long Road Back to Health
 
-:::: {.columns}
-::: {.column width="57%"}
-After the **pandemic** swept through the city, the emergency ward never truly emptied. On a Tuesday morning, Dr. Reyes reviewed a new admission: a **muscular** construction worker whose right hand was badly **inflamed** around the **knuckles** — a deep-tissue infection that had spread toward the **lymphoid** tissue of the forearm. The attending oncologist had already ruled out **lymphoma**, but ordered a full panel nonetheless; **oncology** casts a long shadow over every unusual swelling. A thin **membrane** of fibrous tissue was keeping the infection from spreading further, and the surgical resident was threading **stitches** through layers of dermis with the focused calm of someone who had done this a thousand times. On the tray beside him: two loaded **syringes**, a tube of **ointment**, and the patient's chart flagged with a note about **seizures** in his history — the anesthesiologist would need to recalibrate the **narcosis** protocol accordingly.
+After the [pandemic]{.vocab tabindex="0" data-def="pandemic · adj. 在全国流行的 流行病，瘟疫"} swept through the city, the emergency ward never truly emptied. On a Tuesday morning, Dr. Reyes reviewed a new admission: a [muscular]{.vocab tabindex="0" data-def="muscular · adj. 肌的; 肌肉发达的, 强壮的"} construction worker whose right hand was badly [inflamed]{.vocab tabindex="0" data-def="inflamed · adj. 发炎的;红肿的"} around the [knuckles]{.vocab tabindex="0" data-def="knuckles · n. 压关节，指关节; 以指节打；以手指射"} — a deep-tissue infection that had spread toward the [lymphoid]{.vocab tabindex="0" data-def="lymphoid · adj. 淋巴的"} tissue of the forearm. The attending oncologist had already ruled out [lymphoma]{.vocab tabindex="0" data-def="lymphoma · n. 淋巴瘤"}, but ordered a full panel nonetheless; [oncology]{.vocab tabindex="0" data-def="oncology · n. 肿瘤学"} casts a long shadow over every unusual swelling. A thin [membrane]{.vocab tabindex="0" data-def="membrane · n. 膜；薄膜；羊皮纸"} of fibrous tissue was keeping the infection from spreading further, and the surgical resident was threading [stitches]{.vocab tabindex="0" data-def="stitches · n. 缝针；针法；缝线；线步"} through layers of dermis with the focused calm of someone who had done this a thousand times. On the tray beside him: two loaded [syringes]{.vocab tabindex="0" data-def="syringes · n. 鸣管,耳咽管"}, a tube of [ointment]{.vocab tabindex="0" data-def="ointment · n. 软膏, 油膏; 扫兴的人；煞风景的事物"}, and the patient's chart flagged with a note about [seizures]{.vocab tabindex="0" data-def="seizures · n. 癫痫，痉挛；发作"} in his history — the anesthesiologist would need to recalibrate the [narcosis]{.vocab tabindex="0" data-def="narcosis · n. 麻醉；昏迷状态"} protocol accordingly.
 
-Down the hall, the **podiatry** clinic handled quieter crises. Mrs. Huang, seventy-two, sat in the examination chair while the foot specialist applied a fresh **sanitary** dressing and explained, patiently, that the **remedies** she had been using at home — hot soaks and folk poultices — were at best useless and at worst infectious. The **receptor** cells in her sole had stopped signaling pain reliably, a classic **syndrome** in long-standing diabetic neuropathy. The clinic had recently taken steps to **sanitate** its instrument room after an audit, so everything gleamed. The specialist wiped his brow; even in an air-conditioned room, the pace of morning rounds made him **perspire**.
+Down the hall, the [podiatry]{.vocab tabindex="0" data-def="podiatry · n. 足部医疗；脚病学"} clinic handled quieter crises. Mrs. Huang, seventy-two, sat in the examination chair while the foot specialist applied a fresh [sanitary]{.vocab tabindex="0" data-def="sanitary · adj. 卫生的，清洁的; 公共厕所"} dressing and explained, patiently, that the [remedies]{.vocab tabindex="0" data-def="remedies 救济方法"} she had been using at home — hot soaks and folk poultices — were at best useless and at worst infectious. The [receptor]{.vocab tabindex="0" data-def="receptor · n. 受体；接受器；感觉器官"} cells in her sole had stopped signaling pain reliably, a classic [syndrome]{.vocab tabindex="0" data-def="syndrome · n. 综合征；征群；综合症状; 典型负面特征，典型负面表现; 校验子"} in long-standing diabetic neuropathy. The clinic had recently taken steps to [sanitate]{.vocab tabindex="0" data-def="sanitate · v. 使合卫生,装设卫生设备"} its instrument room after an audit, so everything gleamed. The specialist wiped his brow; even in an air-conditioned room, the pace of morning rounds made him [perspire]{.vocab tabindex="0" data-def="perspire · vi. 出汗；流汗; 汗液可通过的；可随汗液排出的; 排汗的；引起排汗的"}.
 
-In the psychiatric wing, the consultation notes were bleaker. One patient had been referred for profound **insomnia** — three weeks without more than ninety minutes of sleep — and was now exhibiting signs that hovered between exhaustion and **insanity**: he **salivate**d involuntarily whenever the meal cart passed, his **nostrils** flaring at any scent, a stimulus-response loop his nervous system could no longer filter. A pregnant patient two rooms over had **miscarry**ed the previous week; grief and shock had left her **retarded** in affect — slow to respond, slow to blink — and the ward psychiatrist was careful not to pathologize mourning. A third patient, a teenager found by paramedics after he appeared to **pass out** in a subway car, kept saying the fluorescent lights made him **nauseate**d. The triage notes mentioned possible **pyofecia** secondary to a gut infection, though the lab results were still pending. His **retarded** reflexes and the faint smell of something chemical around his collar made the attending wonder about solvent exposure.
+In the psychiatric wing, the consultation notes were bleaker. One patient had been referred for profound [insomnia]{.vocab tabindex="0" data-def="insomnia · n. 失眠症，失眠"} — three weeks without more than ninety minutes of sleep — and was now exhibiting signs that hovered between exhaustion and [insanity]{.vocab tabindex="0" data-def="insanity · n. 疯狂；愚顽；精神病；精神错乱"}: he [salivate]{.vocab tabindex="0" data-def="salivate · vt. 使过量分泌唾液；使流涎; 分泌唾液；流口水"}d involuntarily whenever the meal cart passed, his [nostrils]{.vocab tabindex="0" data-def="nostrils 鼻孔"} flaring at any scent, a stimulus-response loop his nervous system could no longer filter. A pregnant patient two rooms over had [miscarry]{.vocab tabindex="0" data-def="miscarry · vi. 流产; 失败"}ed the previous week; grief and shock had left her [retarded]{.vocab tabindex="0" data-def="retarded · adj. 发育迟缓的, 弱智的"} in affect — slow to respond, slow to blink — and the ward psychiatrist was careful not to pathologize mourning. A third patient, a teenager found by paramedics after he appeared to [pass out]{.vocab tabindex="0" data-def="pass out 昏倒, 失去知觉@拒绝出牌"} in a subway car, kept saying the fluorescent lights made him [nauseate]{.vocab tabindex="0" data-def="nauseate · vi. 作呕；厌恶；产生恶感; 使厌恶；使恶心；使作呕"}d. The triage notes mentioned possible [pyofecia]{.vocab tabindex="0" data-def="pyofecia 脓性粪"} secondary to a gut infection, though the lab results were still pending. His [retarded]{.vocab tabindex="0" data-def="retarded · adj. 发育迟缓的, 弱智的"} reflexes and the faint smell of something chemical around his collar made the attending wonder about solvent exposure.
 
-By noon, the optician's annex on the ground floor was the quietest corner of the building. A retired schoolteacher was picking up new lenses, chatting with the **optician** about floaters and the indignity of aging. It was almost ordinary — except that through the window she could see an ambulance unloading, the paramedics moving with the compressed urgency of people who know that every second is a membrane between one outcome and another.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **inflamed** <span class="wpos">adj.</span> | 发炎的;红肿的 |
-| **insanity** <span class="wpos">n.</span> | 疯狂；愚顽；精神病；精神错乱 |
-| **insomnia** <span class="wpos">n.</span> | 失眠症，失眠 |
-| **knuckles** <span class="wpos">n.</span> | 压关节，指关节; 以指节打；以手指射 |
-| **lymphoid** <span class="wpos">adj.</span> | 淋巴的 |
-| **lymphoma** <span class="wpos">n.</span> | 淋巴瘤 |
-| **membrane** <span class="wpos">n.</span> | 膜；薄膜；羊皮纸 |
-| **miscarry** <span class="wpos">vi.</span> | 流产; 失败 |
-| **muscular** <span class="wpos">adj.</span> | 肌的; 肌肉发达的, 强壮的 |
-| **narcosis** <span class="wpos">n.</span> | 麻醉；昏迷状态 |
-| **nauseate** <span class="wpos">vi.</span> | 作呕；厌恶；产生恶感; 使厌恶；使恶心；使作呕 |
-| **nostrils** | 鼻孔 |
-| **ointment** <span class="wpos">n.</span> | 软膏, 油膏; 扫兴的人；煞风景的事物 |
-| **oncology** <span class="wpos">n.</span> | 肿瘤学 |
-| **optician** <span class="wpos">n.</span> | 眼镜商;配制眼镜技师 |
-| **pandemic** <span class="wpos">adj.</span> | 在全国流行的 流行病，瘟疫 |
-| **pass out** | 昏倒, 失去知觉@拒绝出牌 |
-| **perspire** <span class="wpos">vi.</span> | 出汗；流汗; 汗液可通过的；可随汗液排出的; 排汗的；引起排汗的 |
-| **podiatry** <span class="wpos">n.</span> | 足部医疗；脚病学 |
-| **pyofecia** | 脓性粪 |
-| **receptor** <span class="wpos">n.</span> | 受体；接受器；感觉器官 |
-| **remedies** | 救济方法 |
-| **retarded** <span class="wpos">adj.</span> | 发育迟缓的, 弱智的 |
-| **salivate** <span class="wpos">vt.</span> | 使过量分泌唾液；使流涎; 分泌唾液；流口水 |
-| **sanitary** <span class="wpos">adj.</span> | 卫生的，清洁的; 公共厕所 |
-| **sanitate** <span class="wpos">v.</span> | 使合卫生,装设卫生设备 |
-| **seizures** <span class="wpos">n.</span> | 癫痫，痉挛；发作 |
-| **stitches** <span class="wpos">n.</span> | 缝针；针法；缝线；线步 |
-| **syndrome** <span class="wpos">n.</span> | 综合征；征群；综合症状; 典型负面特征，典型负面表现; 校验子 |
-| **syringes** <span class="wpos">n.</span> | 鸣管,耳咽管 |
-:::
-:::
-::::
+By noon, the optician's annex on the ground floor was the quietest corner of the building. A retired schoolteacher was picking up new lenses, chatting with the [optician]{.vocab tabindex="0" data-def="optician · n. 眼镜商;配制眼镜技师"} about floaters and the indignity of aging. It was almost ordinary — except that through the window she could see an ambulance unloading, the paramedics moving with the compressed urgency of people who know that every second is a membrane between one outcome and another.
 
 ### A Long Day at the Clinic
 
-:::: {.columns}
-::: {.column width="57%"}
-Dr. Reyes had been on her feet since six in the morning. The first patient was an elderly man, **bedridden** for weeks, whose **varicose** veins mapped a purple delta across his calves — the result, his chart noted, of years of poor circulation through aging **capillary** networks. She examined his **genitalia** and **testicle** for swelling before moving on, methodical as ever.
+Dr. Reyes had been on her feet since six in the morning. The first patient was an elderly man, [bedridden]{.vocab tabindex="0" data-def="bedridden · adj. 卧床不起的"} for weeks, whose [varicose]{.vocab tabindex="0" data-def="varicose · adj. 曲张的; 螺层隆起的"} veins mapped a purple delta across his calves — the result, his chart noted, of years of poor circulation through aging [capillary]{.vocab tabindex="0" data-def="capillary · n. 毛细管;毛细血管"} networks. She examined his [genitalia]{.vocab tabindex="0" data-def="genitalia · n. 生殖器"} and [testicle]{.vocab tabindex="0" data-def="testicle · n. 睾丸"} for swelling before moving on, methodical as ever.
 
-The next room held a teenage boy newly diagnosed with **leukaemia**. His **leukocyte** count was catastrophic. A **carcinoma** had been ruled out, but the **prognosis** remained guarded. His mother, an **insomniac** since the diagnosis, had deep hollows under her eyes. The attending **physician** had already begun to **prescribe** a chemotherapy protocol, careful to document every **excretion** change the drugs might trigger and to watch for **excretory** dysfunction. The boy's **endocrine** system would take a beating; **tonicity** in his muscles had already dropped.
+The next room held a teenage boy newly diagnosed with [leukaemia]{.vocab tabindex="0" data-def="leukaemia · n. 〈医〉白血病"}. His [leukocyte]{.vocab tabindex="0" data-def="leukocyte · n. 白细胞,白细胞"} count was catastrophic. A [carcinoma]{.vocab tabindex="0" data-def="carcinoma · n. 癌"} had been ruled out, but the [prognosis]{.vocab tabindex="0" data-def="prognosis · n. 预测; 预后"} remained guarded. His mother, an [insomniac]{.vocab tabindex="0" data-def="insomniac · n. 失眠症患者"} since the diagnosis, had deep hollows under her eyes. The attending [physician]{.vocab tabindex="0" data-def="physician · n. 医生, 内科医生"} had already begun to [prescribe]{.vocab tabindex="0" data-def="prescribe · vt. &amp; 开药方；指示; 规定，指定遵守"} a chemotherapy protocol, careful to document every [excretion]{.vocab tabindex="0" data-def="excretion · n. 排泄,排泄物"} change the drugs might trigger and to watch for [excretory]{.vocab tabindex="0" data-def="excretory · n. 排泄器官; 排泄的"} dysfunction. The boy's [endocrine]{.vocab tabindex="0" data-def="endocrine · adj. 内分泌的, 激素的"} system would take a beating; [tonicity]{.vocab tabindex="0" data-def="tonicity · n. 强壮；肌肉弹性；紧张性；调位强度"} in his muscles had already dropped.
 
-Down the hall, a woman with chronic **arthritis** was describing the **whiplash** she had suffered in a minor car accident three weeks prior. The injury had **hamstring**-ed her daily routine entirely. Meanwhile, an **epileptic** patient waited for an EEG, and a man recovering from **pneumonia** — his **pneumonic** consolidation finally clearing on imaging — was asking when he could stop using the **deodorant**-scented barrier cream his nurses had applied to prevent bed sores. A young athlete with **ametropia** had wandered into the wrong wing; she needed ophthalmology, not internal medicine. In the trauma bay, a toxicologist was consulting on a case involving **narcotics** and **marijuana** found alongside the unconscious patient, trying to rule out **paralysis** from a spinal insult rather than drug-induced stupor. A nurse passed with a tray: a tube of **chapstick** for the intubated patient in bay three, whose lips had cracked under the ventilator. In the surgical suite, a resident was reviewing the small **intestine** resection planned for the afternoon, noting the risk of **hepatitis** in a patient whose bloods had flagged. The **hepatitis** panel had come back equivocal — enough to warrant precautions. Outside, the day pressed on.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **testicle** <span class="wpos">n.</span> | 睾丸 |
-| **tonicity** <span class="wpos">n.</span> | 强壮；肌肉弹性；紧张性；调位强度 |
-| **varicose** <span class="wpos">adj.</span> | 曲张的; 螺层隆起的 |
-| **whiplash** <span class="wpos">n.</span> | 鞭绳；鞭子的顶端；鞭打 |
-| **ametropia** <span class="wpos">n.</span> | 屈光不正 |
-| **arthritis** <span class="wpos">n.</span> | 关节炎 |
-| **bedridden** <span class="wpos">adj.</span> | 卧床不起的 |
-| **capillary** <span class="wpos">n.</span> | 毛细管;毛细血管 |
-| **carcinoma** <span class="wpos">n.</span> | 癌 |
-| **chapstick** <span class="wpos">n.</span> | 无色唇膏 |
-| **deodorant** <span class="wpos">n.</span> | 除臭剂 |
-| **endocrine** <span class="wpos">adj.</span> | 内分泌的, 激素的 |
-| **epileptic** <span class="wpos">adj.</span> | 由癫痫引发的; 癫痫病患者 |
-| **excretion** <span class="wpos">n.</span> | 排泄,排泄物 |
-| **excretory** <span class="wpos">n.</span> | 排泄器官; 排泄的 |
-| **genitalia** <span class="wpos">n.</span> | 生殖器 |
-| **hamstring** <span class="wpos">vt.</span> | 使无能为力；使不起作用；削弱…的活动能力; 腿腱；旁腱 |
-| **hepatitis** <span class="wpos">n.</span> | 肝炎 |
-| **insomniac** <span class="wpos">n.</span> | 失眠症患者 |
-| **intestine** <span class="wpos">n.</span> | 肠 |
-| **leukaemia** <span class="wpos">n.</span> | 〈医〉白血病 |
-| **leukocyte** <span class="wpos">n.</span> | 白细胞,白细胞 |
-| **marijuana** <span class="wpos">n.</span> | 大麻；大麻毒品 |
-| **narcotics** | 麻醉毒品 |
-| **paralysis** <span class="wpos">n.</span> | 麻痹，瘫痪，中风；能力的丧失，无能 |
-| **physician** <span class="wpos">n.</span> | 医生, 内科医生 |
-| **pneumonia** <span class="wpos">n.</span> | 〈医〉肺炎 |
-| **pneumonic** <span class="wpos">adj.</span> | 肺的,肺炎的 |
-| **prescribe** <span class="wpos">vt.</span> | &amp; 开药方；指示; 规定，指定遵守 |
-| **prognosis** <span class="wpos">n.</span> | 预测; 预后 |
-:::
-:::
-::::
+Down the hall, a woman with chronic [arthritis]{.vocab tabindex="0" data-def="arthritis · n. 关节炎"} was describing the [whiplash]{.vocab tabindex="0" data-def="whiplash · n. 鞭绳；鞭子的顶端；鞭打"} she had suffered in a minor car accident three weeks prior. The injury had [hamstring]{.vocab tabindex="0" data-def="hamstring · vt. 使无能为力；使不起作用；削弱…的活动能力; 腿腱；旁腱"}-ed her daily routine entirely. Meanwhile, an [epileptic]{.vocab tabindex="0" data-def="epileptic · adj. 由癫痫引发的; 癫痫病患者"} patient waited for an EEG, and a man recovering from [pneumonia]{.vocab tabindex="0" data-def="pneumonia · n. 〈医〉肺炎"} — his [pneumonic]{.vocab tabindex="0" data-def="pneumonic · adj. 肺的,肺炎的"} consolidation finally clearing on imaging — was asking when he could stop using the [deodorant]{.vocab tabindex="0" data-def="deodorant · n. 除臭剂"}-scented barrier cream his nurses had applied to prevent bed sores. A young athlete with [ametropia]{.vocab tabindex="0" data-def="ametropia · n. 屈光不正"} had wandered into the wrong wing; she needed ophthalmology, not internal medicine. In the trauma bay, a toxicologist was consulting on a case involving [narcotics]{.vocab tabindex="0" data-def="narcotics 麻醉毒品"} and [marijuana]{.vocab tabindex="0" data-def="marijuana · n. 大麻；大麻毒品"} found alongside the unconscious patient, trying to rule out [paralysis]{.vocab tabindex="0" data-def="paralysis · n. 麻痹，瘫痪，中风；能力的丧失，无能"} from a spinal insult rather than drug-induced stupor. A nurse passed with a tray: a tube of [chapstick]{.vocab tabindex="0" data-def="chapstick · n. 无色唇膏"} for the intubated patient in bay three, whose lips had cracked under the ventilator. In the surgical suite, a resident was reviewing the small [intestine]{.vocab tabindex="0" data-def="intestine · n. 肠"} resection planned for the afternoon, noting the risk of [hepatitis]{.vocab tabindex="0" data-def="hepatitis · n. 肝炎"} in a patient whose bloods had flagged. The [hepatitis]{.vocab tabindex="0" data-def="hepatitis · n. 肝炎"} panel had come back equivocal — enough to warrant precautions. Outside, the day pressed on.
 
 ### When the Clinic Never Sleeps
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning briefing in the **radiology** suite began calmly enough. Dr. Yuen clicked through scan after scan, her trained eye alert to any shadow that might hint at **malignancy**. Two floors down, a patient recovering from a **concussion** was finally sitting up, gingerly touching the bruised **collarbone** he had fractured in last week's fall. A nurse swabbed his IV port with **sanitizer**, then hung a drip laced with a mild **stimulant** to coax his sluggish circulation back to life.
+The morning briefing in the [radiology]{.vocab tabindex="0" data-def="radiology · n. 放射学,辐射学"} suite began calmly enough. Dr. Yuen clicked through scan after scan, her trained eye alert to any shadow that might hint at [malignancy]{.vocab tabindex="0" data-def="malignancy · n. 恶意"}. Two floors down, a patient recovering from a [concussion]{.vocab tabindex="0" data-def="concussion · n. 震荡,脑震荡; 冲击,震动"} was finally sitting up, gingerly touching the bruised [collarbone]{.vocab tabindex="0" data-def="collarbone · n. 锁骨"} he had fractured in last week's fall. A nurse swabbed his IV port with [sanitizer]{.vocab tabindex="0" data-def="sanitizer 消毒杀菌剂"}, then hung a drip laced with a mild [stimulant]{.vocab tabindex="0" data-def="stimulant · n. 兴奋剂；刺激物；酒精饮料; 激励的；使人兴奋的"} to coax his sluggish circulation back to life.
 
-In the respiratory ward, the morning was less quiet. A boy with **bronchitis** fought each breath, his chest tight as a drum. The attending checked whether the strain was **pathogenic** enough to be **contagious** and issued a precautionary **quarantine** notice for his room. Down the hall, an elderly woman whose unchecked cough had ripened into something the notes charitably called a **pestilence** of the lower lung lay under an oxygen mask, every shallow inhale a reminder of what it means to nearly **suffocate**. The resident on call pressed an **epinephrin** — the same hormone the body calls **adrenaline** — into her line to keep her airways open, acutely aware that the wrong dose could **sensitize** her heart into arrhythmia.
+In the respiratory ward, the morning was less quiet. A boy with [bronchitis]{.vocab tabindex="0" data-def="bronchitis · n. 支气管炎"} fought each breath, his chest tight as a drum. The attending checked whether the strain was [pathogenic]{.vocab tabindex="0" data-def="pathogenic · adj. 引起疾病的"} enough to be [contagious]{.vocab tabindex="0" data-def="contagious · adj. 有传染性的; 患传染病的; 有感染力的"} and issued a precautionary [quarantine]{.vocab tabindex="0" data-def="quarantine · n. 检疫期; 对…进行检疫隔离"} notice for his room. Down the hall, an elderly woman whose unchecked cough had ripened into something the notes charitably called a [pestilence]{.vocab tabindex="0" data-def="pestilence · n. 瘟疫；有害的事物"} of the lower lung lay under an oxygen mask, every shallow inhale a reminder of what it means to nearly [suffocate]{.vocab tabindex="0" data-def="suffocate · vt. &amp; 窒息而死, 闷死; 呼吸困难, 窒息"}. The resident on call pressed an [epinephrin]{.vocab tabindex="0" data-def="epinephrin · n. 肾上腺素"} — the same hormone the body calls [adrenaline]{.vocab tabindex="0" data-def="adrenaline · n. 肾上腺素; 刺激物；激励因素; 一阵兴奋"} — into her line to keep her airways open, acutely aware that the wrong dose could [sensitize]{.vocab tabindex="0" data-def="sensitize · vt. 使某事物或某人敏感; 使易于感光"} her heart into arrhythmia.
 
-The surgical wing hummed with its own rhythm. A urologist explained a **vasectomy** to a nervous couple, sketching the vas deferens on a paper towel. Next door, an **ophthalmic** surgeon corrected an **astigmatism** under loupe magnification, the patient blissfully unaware under full **anesthesia**. The scrub tech had already used the autoclave to **sterilize** every instrument, each one gleaming under the theatre lights. On the anatomy chart pinned to the wall, someone had drawn a small arrow pointing to the **umbilicus** — a first-year's reminder that the navel marks the embryological midpoint of the abdomen, and that the left **ventricle** sits not so far above it, doing its tireless work.
+The surgical wing hummed with its own rhythm. A urologist explained a [vasectomy]{.vocab tabindex="0" data-def="vasectomy · n. 输精管切除术"} to a nervous couple, sketching the vas deferens on a paper towel. Next door, an [ophthalmic]{.vocab tabindex="0" data-def="ophthalmic · adj. 眼的,眼科的; 眼药"} surgeon corrected an [astigmatism]{.vocab tabindex="0" data-def="astigmatism · n. 散光"} under loupe magnification, the patient blissfully unaware under full [anesthesia]{.vocab tabindex="0" data-def="anesthesia · n. 麻醉状态；感觉缺失，麻木"}. The scrub tech had already used the autoclave to [sterilize]{.vocab tabindex="0" data-def="sterilize · vt. 消毒；使无菌; 使失去生育能力；使绝育; 使成不毛之地；使贫瘠化; 消毒者，消毒器"} every instrument, each one gleaming under the theatre lights. On the anatomy chart pinned to the wall, someone had drawn a small arrow pointing to the [umbilicus]{.vocab tabindex="0" data-def="umbilicus · n. 脐,中心 Umbilicus脐"} — a first-year's reminder that the navel marks the embryological midpoint of the abdomen, and that the left [ventricle]{.vocab tabindex="0" data-def="ventricle · n. 室,脑室,心室"} sits not so far above it, doing its tireless work.
 
-After rounds, the integrative-medicine suite offered a gentler register. A practitioner guided a needle into a shoulder point, the **acupuncture** treatment meant to raise **serotonin** without the crash that follows an **amphetamine** or any other chemical **stimulant**. On the counter sat amber bottles of **antibiotics** and a rack of daily **supplement** capsules — fish oil, vitamin D, the modest artillery of preventive care. The nutritionist nearby counselled a teenager to trade processed snacks for **wholesome** meals, explaining that food quality shapes **wellbeing** more reliably than any pill.
+After rounds, the integrative-medicine suite offered a gentler register. A practitioner guided a needle into a shoulder point, the [acupuncture]{.vocab tabindex="0" data-def="acupuncture · n. 针灸; 用针灸术治疗，用针刺法麻醉，对…施行针灸治疗; 针灸的; 针灸师"} treatment meant to raise [serotonin]{.vocab tabindex="0" data-def="serotonin · n. 血清素"} without the crash that follows an [amphetamine]{.vocab tabindex="0" data-def="amphetamine · n. 安非他明"} or any other chemical [stimulant]{.vocab tabindex="0" data-def="stimulant · n. 兴奋剂；刺激物；酒精饮料; 激励的；使人兴奋的"}. On the counter sat amber bottles of [antibiotics]{.vocab tabindex="0" data-def="antibiotics · n. 抗生素; 抗生物质的研究"} and a rack of daily [supplement]{.vocab tabindex="0" data-def="supplement · n. 增补；补品；增刊；附录；额外服务费用；补角 增补，补充"} capsules — fish oil, vitamin D, the modest artillery of preventive care. The nutritionist nearby counselled a teenager to trade processed snacks for [wholesome]{.vocab tabindex="0" data-def="wholesome · adj. 有益健康的"} meals, explaining that food quality shapes [wellbeing]{.vocab tabindex="0" data-def="wellbeing · n. 健康；幸福"} more reliably than any pill.
 
-By late afternoon the building exhaled. The boy's **rhinobyon** had eased enough for him to breathe through his nose. The woman in the oxygen mask was off the mask. Cultures from the respiratory ward came back: the pathogen was susceptible to the **antibiotics** already running. Someone refilled the hand-**sanitizer** dispensers in every corridor. Outside, the city carried on, indifferent to the quiet, relentless labor happening behind the glass — the daily negotiation between what the body endures and what careful hands can mend.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **radiology** <span class="wpos">n.</span> | 放射学,辐射学 |
-| **rhinobyon** <span class="wpos">n.</span> | 鼻塞 |
-| **sanitizer** | 消毒杀菌剂 |
-| **sensitize** <span class="wpos">vt.</span> | 使某事物或某人敏感; 使易于感光 |
-| **serotonin** <span class="wpos">n.</span> | 血清素 |
-| **sterilize** <span class="wpos">vt.</span> | 消毒；使无菌; 使失去生育能力；使绝育; 使成不毛之地；使贫瘠化; 消毒者，消毒器 |
-| **stimulant** <span class="wpos">n.</span> | 兴奋剂；刺激物；酒精饮料; 激励的；使人兴奋的 |
-| **suffocate** <span class="wpos">vt.</span> | &amp; 窒息而死, 闷死; 呼吸困难, 窒息 |
-| **umbilicus** <span class="wpos">n.</span> | 脐,中心 Umbilicus脐 |
-| **vasectomy** <span class="wpos">n.</span> | 输精管切除术 |
-| **ventricle** <span class="wpos">n.</span> | 室,脑室,心室 |
-| **wellbeing** <span class="wpos">n.</span> | 健康；幸福 |
-| **wholesome** <span class="wpos">adj.</span> | 有益健康的 |
-| **adrenaline** <span class="wpos">n.</span> | 肾上腺素; 刺激物；激励因素; 一阵兴奋 |
-| **anesthesia** <span class="wpos">n.</span> | 麻醉状态；感觉缺失，麻木 |
-| **bronchitis** <span class="wpos">n.</span> | 支气管炎 |
-| **collarbone** <span class="wpos">n.</span> | 锁骨 |
-| **concussion** <span class="wpos">n.</span> | 震荡,脑震荡; 冲击,震动 |
-| **contagious** <span class="wpos">adj.</span> | 有传染性的; 患传染病的; 有感染力的 |
-| **epinephrin** <span class="wpos">n.</span> | 肾上腺素 |
-| **malignancy** <span class="wpos">n.</span> | 恶意 |
-| **ophthalmic** <span class="wpos">adj.</span> | 眼的,眼科的; 眼药 |
-| **pathogenic** <span class="wpos">adj.</span> | 引起疾病的 |
-| **pestilence** <span class="wpos">n.</span> | 瘟疫；有害的事物 |
-| **quarantine** <span class="wpos">n.</span> | 检疫期; 对…进行检疫隔离 |
-| **supplement** <span class="wpos">n.</span> | 增补；补品；增刊；附录；额外服务费用；补角 增补，补充 |
-| **acupuncture** <span class="wpos">n.</span> | 针灸; 用针灸术治疗，用针刺法麻醉，对…施行针灸治疗; 针灸的; 针灸师 |
-| **amphetamine** <span class="wpos">n.</span> | 安非他明 |
-| **antibiotics** <span class="wpos">n.</span> | 抗生素; 抗生物质的研究 |
-| **astigmatism** <span class="wpos">n.</span> | 散光 |
-:::
-:::
-::::
+By late afternoon the building exhaled. The boy's [rhinobyon]{.vocab tabindex="0" data-def="rhinobyon · n. 鼻塞"} had eased enough for him to breathe through his nose. The woman in the oxygen mask was off the mask. Cultures from the respiratory ward came back: the pathogen was susceptible to the [antibiotics]{.vocab tabindex="0" data-def="antibiotics · n. 抗生素; 抗生物质的研究"} already running. Someone refilled the hand-[sanitizer]{.vocab tabindex="0" data-def="sanitizer 消毒杀菌剂"} dispensers in every corridor. Outside, the city carried on, indifferent to the quiet, relentless labor happening behind the glass — the daily negotiation between what the body endures and what careful hands can mend.
 
 ### When the Body Keeps the Score
 
-:::: {.columns}
-::: {.column width="57%"}
-Dr. Ferris had spent thirty years in medicine, yet no single morning shift ever felt routine. By 7 a.m. the ward was already alive with **respiration** monitors beeping softly above beds where **convalescent** patients dozed, their bodies slowly reclaiming ground lost to illness.
+Dr. Ferris had spent thirty years in medicine, yet no single morning shift ever felt routine. By 7 a.m. the ward was already alive with [respiration]{.vocab tabindex="0" data-def="respiration · n. 呼吸, 一次呼吸; 呼吸"} monitors beeping softly above beds where [convalescent]{.vocab tabindex="0" data-def="convalescent · adj. 恢复的,康复期的; 恢复期的病人"} patients dozed, their bodies slowly reclaiming ground lost to illness.
 
-His first consult was a retired teacher whose **degenerative** joint disease had sent her to a **chiropractor** for months before anyone thought to image her spine. **Chiropractic** had eased the pain temporarily, but the scans told a harder story. Down the hall, a young father complained of crushing chest pressure; the **cardiologist** on call ordered an echo and found **ventricular** wall motion abnormalities — stress, poor sleep, and a diet built on convenience had quietly done their work. A third patient, a woman in her forties, had presented overnight with acute **appendicitis**; she was post-op now, draining well, the **disinfectant** smell still sharp around her bay.
+His first consult was a retired teacher whose [degenerative]{.vocab tabindex="0" data-def="degenerative · adj. 退步的,变质的,退化的"} joint disease had sent her to a [chiropractor]{.vocab tabindex="0" data-def="chiropractor · n. 脊椎推拿治疗者"} for months before anyone thought to image her spine. [Chiropractic]{.vocab tabindex="0" data-def="chiropractic · n. 脊椎推拿疗法"} had eased the pain temporarily, but the scans told a harder story. Down the hall, a young father complained of crushing chest pressure; the [cardiologist]{.vocab tabindex="0" data-def="cardiologist · n. 心脏病专家"} on call ordered an echo and found [ventricular]{.vocab tabindex="0" data-def="ventricular · adj. 心室的,膨胀的"} wall motion abnormalities — stress, poor sleep, and a diet built on convenience had quietly done their work. A third patient, a woman in her forties, had presented overnight with acute [appendicitis]{.vocab tabindex="0" data-def="appendicitis · n. 阑尾炎"}; she was post-op now, draining well, the [disinfectant]{.vocab tabindex="0" data-def="disinfectant · n. 消毒剂, 杀菌剂"} smell still sharp around her bay.
 
-The paediatric corner held its own dramas. A six-month-old had arrived feverish and **constipated**, his onesie raw with **diaper rash**, the parents hollow-eyed from three nights without sleep. The nurse hung a saline drip to reverse early **dehydration** while the resident explained the **respiratory** precautions still in place since the last **coronavirus** surge had overwhelmed the unit. Nearby, a toddler who had swallowed a handful of berries showed signs of **disseminated** toxin — **epinephrine** drawn and ready at the bedside.
+The paediatric corner held its own dramas. A six-month-old had arrived feverish and [constipated]{.vocab tabindex="0" data-def="constipated · adj. 患便秘的"}, his onesie raw with [diaper rash]{.vocab tabindex="0" data-def="diaper rash 尿疹"}, the parents hollow-eyed from three nights without sleep. The nurse hung a saline drip to reverse early [dehydration]{.vocab tabindex="0" data-def="dehydration · n. 脱水; 干燥;极度口渴"} while the resident explained the [respiratory]{.vocab tabindex="0" data-def="respiratory · adj. 呼吸的,呼吸用的"} precautions still in place since the last [coronavirus]{.vocab tabindex="0" data-def="coronavirus · n. 日冕形病毒,冠状病毒"} surge had overwhelmed the unit. Nearby, a toddler who had swallowed a handful of berries showed signs of [disseminated]{.vocab tabindex="0" data-def="disseminated 弥散性"} toxin — [epinephrine]{.vocab tabindex="0" data-def="epinephrine · n. 肾上腺素"} drawn and ready at the bedside.
 
-Afternoon brought the subspecialists. The **optometrist** from the eye clinic stopped by to screen the diabetic patients; **nephropathy** and retinopathy so often travelled together that joint rounds had become standard. A fellow from **epidemiology** sat in the corner, tracing a cluster of unusual fevers, noting each **coindication** in a spreadsheet that would eventually feed a model. One elderly gentleman — a patient of the **gerontology** service — had been admitted for **hypothermia** after a cold snap caught him underdressed; he was warming steadily, though his **hypothalamic** temperature regulation remained sluggish.
+Afternoon brought the subspecialists. The [optometrist]{.vocab tabindex="0" data-def="optometrist · n. 验光师,视力测定者"} from the eye clinic stopped by to screen the diabetic patients; [nephropathy]{.vocab tabindex="0" data-def="nephropathy · n. 肾病"} and retinopathy so often travelled together that joint rounds had become standard. A fellow from [epidemiology]{.vocab tabindex="0" data-def="epidemiology · n. 流行病学"} sat in the corner, tracing a cluster of unusual fevers, noting each [coindication]{.vocab tabindex="0" data-def="coindication · n. 征兆之一"} in a spreadsheet that would eventually feed a model. One elderly gentleman — a patient of the [gerontology]{.vocab tabindex="0" data-def="gerontology · n. 老年医学,老人学"} service — had been admitted for [hypothermia]{.vocab tabindex="0" data-def="hypothermia · n. 低体温"} after a cold snap caught him underdressed; he was warming steadily, though his [hypothalamic]{.vocab tabindex="0" data-def="hypothalamic · adj. 丘脑下部的,下丘脑的"} temperature regulation remained sluggish.
 
-By late afternoon the surgical list had grown. A **fasciectomy** was booked for a construction worker whose scarred fascia had been strangling the muscles of his forearm for years. The hepatobiliary team debated whether a stone-filled **gallbladder** warranted urgent removal or could wait until the patient's **indigestion** was better controlled. A couple sat in the counselling room while a specialist walked them through options for **infertility** — the husband's **dysfunction** had a correctable hormonal cause, which was, for once, genuinely good news.
+By late afternoon the surgical list had grown. A [fasciectomy]{.vocab tabindex="0" data-def="fasciectomy 筋膜切除术"} was booked for a construction worker whose scarred fascia had been strangling the muscles of his forearm for years. The hepatobiliary team debated whether a stone-filled [gallbladder]{.vocab tabindex="0" data-def="gallbladder · n. 胆囊"} warranted urgent removal or could wait until the patient's [indigestion]{.vocab tabindex="0" data-def="indigestion · n. 消化不良"} was better controlled. A couple sat in the counselling room while a specialist walked them through options for [infertility]{.vocab tabindex="0" data-def="infertility · n. 不肥沃,不毛"} — the husband's [dysfunction]{.vocab tabindex="0" data-def="dysfunction · n. 机能障碍,机能失调"} had a correctable hormonal cause, which was, for once, genuinely good news.
 
-At shift change, Dr. Ferris glanced at a history textbook left open on the nursing station: a woodcut of medieval **bloodletting**, the caption noting that physicians once drained patients to rebalance their humours. He thought of the **haemorrhoid** clinic running downstairs, of the epidemiology fellow's spreadsheet, of all the ways the body still managed to surprise — and confound — those who had devoted their lives to understanding it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **constipated** <span class="wpos">adj.</span> | 患便秘的 |
-| **coronavirus** <span class="wpos">n.</span> | 日冕形病毒,冠状病毒 |
-| **dehydration** <span class="wpos">n.</span> | 脱水; 干燥;极度口渴 |
-| **diaper rash** | 尿疹 |
-| **dysfunction** <span class="wpos">n.</span> | 机能障碍,机能失调 |
-| **epinephrine** <span class="wpos">n.</span> | 肾上腺素 |
-| **fasciectomy** | 筋膜切除术 |
-| **gallbladder** <span class="wpos">n.</span> | 胆囊 |
-| **gerontology** <span class="wpos">n.</span> | 老年医学,老人学 |
-| **haemorrhoid** <span class="wpos">n.</span> | 痔 |
-| **hypothermia** <span class="wpos">n.</span> | 低体温 |
-| **indigestion** <span class="wpos">n.</span> | 消化不良 |
-| **infertility** <span class="wpos">n.</span> | 不肥沃,不毛 |
-| **nephropathy** <span class="wpos">n.</span> | 肾病 |
-| **optometrist** <span class="wpos">n.</span> | 验光师,视力测定者 |
-| **respiration** <span class="wpos">n.</span> | 呼吸, 一次呼吸; 呼吸 |
-| **respiratory** <span class="wpos">adj.</span> | 呼吸的,呼吸用的 |
-| **ventricular** <span class="wpos">adj.</span> | 心室的,膨胀的 |
-| **appendicitis** <span class="wpos">n.</span> | 阑尾炎 |
-| **bloodletting** <span class="wpos">n.</span> | 放血 |
-| **cardiologist** <span class="wpos">n.</span> | 心脏病专家 |
-| **chiropractic** <span class="wpos">n.</span> | 脊椎推拿疗法 |
-| **chiropractor** <span class="wpos">n.</span> | 脊椎推拿治疗者 |
-| **coindication** <span class="wpos">n.</span> | 征兆之一 |
-| **convalescent** <span class="wpos">adj.</span> | 恢复的,康复期的; 恢复期的病人 |
-| **degenerative** <span class="wpos">adj.</span> | 退步的,变质的,退化的 |
-| **disinfectant** <span class="wpos">n.</span> | 消毒剂, 杀菌剂 |
-| **disseminated** | 弥散性 |
-| **epidemiology** <span class="wpos">n.</span> | 流行病学 |
-| **hypothalamic** <span class="wpos">adj.</span> | 丘脑下部的,下丘脑的 |
-:::
-:::
-::::
+At shift change, Dr. Ferris glanced at a history textbook left open on the nursing station: a woodcut of medieval [bloodletting]{.vocab tabindex="0" data-def="bloodletting · n. 放血"}, the caption noting that physicians once drained patients to rebalance their humours. He thought of the [haemorrhoid]{.vocab tabindex="0" data-def="haemorrhoid · n. 痔"} clinic running downstairs, of the epidemiology fellow's spreadsheet, of all the ways the body still managed to surprise — and confound — those who had devoted their lives to understanding it.
 
 ### A Long Day at the Teaching Hospital
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning began with a **prescription** the attending physician had scrawled at midnight — a **tranquilizing** dose intended to ease a restless post-operative patient whose body remained **susceptible to** every noise on the ward. By seven, the **pediatrician** was already on the floor, crouching beside a toddler whose **malnourished** frame and vacant eyes hinted at months of inadequate feeding at home. Beside him, the **obstetrician** reviewed an ultrasound report: **amniocentesis** results had come back positive for **Down syndrome**, a conversation no parent was ever prepared to have.
+The morning began with a [prescription]{.vocab tabindex="0" data-def="prescription · n. 药, 治疗方法; 处方, 药方; 开处方, 开药"} the attending physician had scrawled at midnight — a [tranquilizing]{.vocab tabindex="0" data-def="tranquilizing 镇静"} dose intended to ease a restless post-operative patient whose body remained [susceptible to]{.vocab tabindex="0" data-def="susceptible to · adj. 对...敏感的，易受...感动的, 易为...感染的"} every noise on the ward. By seven, the [pediatrician]{.vocab tabindex="0" data-def="pediatrician · n. 小儿科医师"} was already on the floor, crouching beside a toddler whose [malnourished]{.vocab tabindex="0" data-def="malnourished · adj. 营养失调的,营养不良的"} frame and vacant eyes hinted at months of inadequate feeding at home. Beside him, the [obstetrician]{.vocab tabindex="0" data-def="obstetrician · n. 产科医师"} reviewed an ultrasound report: [amniocentesis]{.vocab tabindex="0" data-def="amniocentesis · n. 羊膜穿刺术"} results had come back positive for [Down syndrome]{.vocab tabindex="0" data-def="down syndrome 唐氏症 Down syndrome唐氏综合征"}, a conversation no parent was ever prepared to have.
 
-In the adjacent bay, a young woman lay still, a **kidney stone** having **incapacitated** her through the night — the **incapacitation** written plainly on her face even after the pain relief drip was set. A resident flipped through her chart and noted a prior **inflammation** of the renal pelvis, its cause still murky. Down the corridor, the **dermatologist** conferred with the **ophthalmology** team over a patient whose **hepatocellular** markers were climbing and whose skin had begun to show the tell-tale yellowing that linked eye and liver in one grim picture.
+In the adjacent bay, a young woman lay still, a [kidney stone]{.vocab tabindex="0" data-def="kidney stone · n. 肾结石"} having [incapacitated]{.vocab tabindex="0" data-def="incapacitate · vt. 使无能力,使不适合"} her through the night — the [incapacitation]{.vocab tabindex="0" data-def="incapacitation · n. 无能力,使无能力,使无资格"} written plainly on her face even after the pain relief drip was set. A resident flipped through her chart and noted a prior [inflammation]{.vocab tabindex="0" data-def="inflammation · n. 炎症"} of the renal pelvis, its cause still murky. Down the corridor, the [dermatologist]{.vocab tabindex="0" data-def="dermatologist · n. 皮肤病学家"} conferred with the [ophthalmology]{.vocab tabindex="0" data-def="ophthalmology · n. 眼科学"} team over a patient whose [hepatocellular]{.vocab tabindex="0" data-def="hepatocellular · adj. 肝细胞的"} markers were climbing and whose skin had begun to show the tell-tale yellowing that linked eye and liver in one grim picture.
 
-The afternoon belonged to the teaching rounds. A medical student presented a case of **intoxication** from an over-the-counter decongestant — the patient had reached for the bottle with the **inflammatory** confidence of someone who believed more was better. The pharmacologist walked the group through **therapeutics**: how **immunotherapy** was reshaping oncology, how **anticholinergic** agents could confuse an elderly nervous system in minutes, how the **accessory nerve** could be nicked during a neck dissection if the surgeon's anatomy was careless. Someone raised the **placebo effect** — whether it had a measurable role in **anesthetization** protocols — and the room fell into the comfortable argument that teaching hospitals run on.
+The afternoon belonged to the teaching rounds. A medical student presented a case of [intoxication]{.vocab tabindex="0" data-def="intoxication · n. 陶醉"} from an over-the-counter decongestant — the patient had reached for the bottle with the [inflammatory]{.vocab tabindex="0" data-def="inflammatory · adj. 刺激性的;煽动性的; 炎性的;发炎的"} confidence of someone who believed more was better. The pharmacologist walked the group through [therapeutics]{.vocab tabindex="0" data-def="therapeutics · n. 治疗学,疗法"}: how [immunotherapy]{.vocab tabindex="0" data-def="immunotherapy · n. 免疫疗法"} was reshaping oncology, how [anticholinergic]{.vocab tabindex="0" data-def="anticholinergic · adj. 反副交感神经生理作用的"} agents could confuse an elderly nervous system in minutes, how the [accessory nerve]{.vocab tabindex="0" data-def="accessory nerve 副神经"} could be nicked during a neck dissection if the surgeon's anatomy was careless. Someone raised the [placebo effect]{.vocab tabindex="0" data-def="placebo effect · n. 安慰剂效果"} — whether it had a measurable role in [anesthetization]{.vocab tabindex="0" data-def="anesthetization · n. 麻醉,麻痹"} protocols — and the room fell into the comfortable argument that teaching hospitals run on.
 
-Later, the gynecology fellow explained **progesterone** supplementation to a woman whose **menstruation** had been irregular for a year, and briefly touched on **contraceptive** options post-delivery. In the corner office, a nurse documented a patient's heightened **susceptibility** to latex, flagging it before the next procedure. Outside the window, a man who had clearly been **nymphomaniac** in his lifestyle choices — the notes were blunt — waited for the **implantation** of a cardiac monitor, his chart a catalogue of preventable damage.
+Later, the gynecology fellow explained [progesterone]{.vocab tabindex="0" data-def="progesterone · n. 孕酮,黄体酮"} supplementation to a woman whose [menstruation]{.vocab tabindex="0" data-def="menstruation · n. 月经;行经;月经期间"} had been irregular for a year, and briefly touched on [contraceptive]{.vocab tabindex="0" data-def="contraceptive · adj. 避孕的,避孕用的; 避孕药,避孕用具"} options post-delivery. In the corner office, a nurse documented a patient's heightened [susceptibility]{.vocab tabindex="0" data-def="susceptibility · n. 敏感性；感情；磁化系数"} to latex, flagging it before the next procedure. Outside the window, a man who had clearly been [nymphomaniac]{.vocab tabindex="0" data-def="nymphomaniac · n. 慕男狂患者,女色情狂"} in his lifestyle choices — the notes were blunt — waited for the [implantation]{.vocab tabindex="0" data-def="implantation · n. 培植,灌输"} of a cardiac monitor, his chart a catalogue of preventable damage.
 
-Before the shift ended, a second-year resident learned, in the quietest way, that medicine is not about having every answer. It is about staying in the room long enough to ask the right question — and occasionally, when all else fails, resisting the urge to **hock a loogie** in the on-call bathroom mirror and pretending you are not exhausted.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **implantation** <span class="wpos">n.</span> | 培植,灌输 |
-| **incapacitate** <span class="wpos">vt.</span> | 使无能力,使不适合 |
-| **inflammation** <span class="wpos">n.</span> | 炎症 |
-| **inflammatory** <span class="wpos">adj.</span> | 刺激性的;煽动性的; 炎性的;发炎的 |
-| **intoxication** <span class="wpos">n.</span> | 陶醉 |
-| **kidney stone** <span class="wpos">n.</span> | 肾结石 |
-| **malnourished** <span class="wpos">adj.</span> | 营养失调的,营养不良的 |
-| **menstruation** <span class="wpos">n.</span> | 月经;行经;月经期间 |
-| **nymphomaniac** <span class="wpos">n.</span> | 慕男狂患者,女色情狂 |
-| **obstetrician** <span class="wpos">n.</span> | 产科医师 |
-| **pediatrician** <span class="wpos">n.</span> | 小儿科医师 |
-| **prescription** <span class="wpos">n.</span> | 药, 治疗方法; 处方, 药方; 开处方, 开药 |
-| **progesterone** <span class="wpos">n.</span> | 孕酮,黄体酮 |
-| **therapeutics** <span class="wpos">n.</span> | 治疗学,疗法 |
-| **amniocentesis** <span class="wpos">n.</span> | 羊膜穿刺术 |
-| **contraceptive** <span class="wpos">adj.</span> | 避孕的,避孕用的; 避孕药,避孕用具 |
-| **dermatologist** <span class="wpos">n.</span> | 皮肤病学家 |
-| **down syndrome** | 唐氏症 Down syndrome唐氏综合征 |
-| **hock a loogie** |  |
-| **immunotherapy** <span class="wpos">n.</span> | 免疫疗法 |
-| **ophthalmology** <span class="wpos">n.</span> | 眼科学 |
-| **tranquilizing** | 镇静 |
-| **hepatocellular** <span class="wpos">adj.</span> | 肝细胞的 |
-| **incapacitation** <span class="wpos">n.</span> | 无能力,使无能力,使无资格 |
-| **placebo effect** <span class="wpos">n.</span> | 安慰剂效果 |
-| **susceptibility** <span class="wpos">n.</span> | 敏感性；感情；磁化系数 |
-| **susceptible to** <span class="wpos">adj.</span> | 对...敏感的，易受...感动的, 易为...感染的 |
-| **accessory nerve** | 副神经 |
-| **anesthetization** <span class="wpos">n.</span> | 麻醉,麻痹 |
-| **anticholinergic** <span class="wpos">adj.</span> | 反副交感神经生理作用的 |
-:::
-:::
-::::
+Before the shift ended, a second-year resident learned, in the quietest way, that medicine is not about having every answer. It is about staying in the room long enough to ask the right question — and occasionally, when all else fails, resisting the urge to [hock a loogie]{.vocab tabindex="0" data-def="hock a loogie"} in the on-call bathroom mirror and pretending you are not exhausted.
 
 ### A Day at the Eye Clinic — and the Body's Long Paper Trail
 
-:::: {.columns}
-::: {.column width="57%"}
-The waiting room of the city's leading **ophthalmologist** smelled faintly of antiseptic. On the wall, a laminated chart listed common **ophthalmological** conditions in order of prevalence, with **nearsightedness** — or, as the British pamphlet beside it called it, **shortsightedness** — topping the list. A teenager slumped in the corner, clearly **under the weather**, scrolling through his phone with the glazed look of someone who had not slept. His mother whispered that he had woken up with **Nasal congestion** and a low fever, yet she had dragged him here anyway because his vision had been blurring for weeks.
+The waiting room of the city's leading [ophthalmologist]{.vocab tabindex="0" data-def="ophthalmologist · n. 眼科专家,眼科医师"} smelled faintly of antiseptic. On the wall, a laminated chart listed common [ophthalmological]{.vocab tabindex="0" data-def="ophthalmological · adj. 眼科的"} conditions in order of prevalence, with [nearsightedness]{.vocab tabindex="0" data-def="nearsightedness · n. 近视; 目光短浅"} — or, as the British pamphlet beside it called it, [shortsightedness]{.vocab tabindex="0" data-def="shortsightedness 近视"} — topping the list. A teenager slumped in the corner, clearly [under the weather]{.vocab tabindex="0" data-def="under the weather 人不太舒服；身体不适"}, scrolling through his phone with the glazed look of someone who had not slept. His mother whispered that he had woken up with [Nasal congestion]{.vocab tabindex="0" data-def="Nasal congestion"} and a low fever, yet she had dragged him here anyway because his vision had been blurring for weeks.
 
-Across the room, a neurologist from the same building paused to chat with the receptionist. She had spent the morning interpreting an **electroencephalogram** for a boy referred from pediatric endocrinology — a case of suspected **prococious puberty** complicated by seizure-like episodes. The scan showed irregular delta waves, a finding she planned to cross-reference with the family's history of **hereditary disease**; the parents had already mentioned a **Heredetary disease** notation in the grandfather's old file, the same misspelled flag that kept appearing in the paper charts from thirty years ago.
+Across the room, a neurologist from the same building paused to chat with the receptionist. She had spent the morning interpreting an [electroencephalogram]{.vocab tabindex="0" data-def="electroencephalogram · n. 脑电波;脑动电流图"} for a boy referred from pediatric endocrinology — a case of suspected [prococious puberty]{.vocab tabindex="0" data-def="prococious puberty"} complicated by seizure-like episodes. The scan showed irregular delta waves, a finding she planned to cross-reference with the family's history of [hereditary disease]{.vocab tabindex="0" data-def="hereditary disease 遗传性疾病"}; the parents had already mentioned a [Heredetary disease]{.vocab tabindex="0" data-def="Heredetary disease"} notation in the grandfather's old file, the same misspelled flag that kept appearing in the paper charts from thirty years ago.
 
-Down the corridor, a pharmacist restocked a cabinet of **pharmaceuticals** while a drug-education poster warned teenagers about **methamphetamine** and, in smaller print, about the misuse of **methylphenidate** — two stimulants that shared a structural family tree yet sat on opposite ends of the prescription ledger. Next to the poster was a flyer for an **aversion therapy** programme targeting substance dependence, run by the hospital's psychiatry unit. A urologist passed by, heading to a consultation about **erectile dysfunction** in a middle-aged patient whose chart also flagged a possible **pathogenic retinue** of gut bacteria thought to be disrupting his hormonal baseline. He carried a dog-eared Latin dispensary manual — its spine read *de arte **medicamentarius*** — a small joke from a colleague who appreciated old pharmaceutical Latin.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **medicamentarius** | 药店 |
-| **methamphetamine** <span class="wpos">n.</span> | 甲基苯丙胺,脱氧麻黄碱 |
-| **methylphenidate** <span class="wpos">n.</span> | 利他灵 |
-| **nearsightedness** <span class="wpos">n.</span> | 近视; 目光短浅 |
-| **ophthalmologist** <span class="wpos">n.</span> | 眼科专家,眼科医师 |
-| **pharmaceuticals** <span class="wpos">n.</span> | 医药品 |
-| **aversion therapy** | 厌恶疗法 |
-| **Nasal congestion** |  |
-| **ophthalmological** <span class="wpos">adj.</span> | 眼科的 |
-| **shortsightedness** | 近视 |
-| **under the weather** | 人不太舒服；身体不适 |
-| **Heredetary disease** |  |
-| **hereditary disease** | 遗传性疾病 |
-| **pathogenic retinue** |  |
-| **prococious puberty** |  |
-| **electroencephalogram** <span class="wpos">n.</span> | 脑电波;脑动电流图 |
-| **erectile dysfunction** | 勃起功能障碍 |
-:::
-:::
-::::
+Down the corridor, a pharmacist restocked a cabinet of [pharmaceuticals]{.vocab tabindex="0" data-def="pharmaceuticals · n. 医药品"} while a drug-education poster warned teenagers about [methamphetamine]{.vocab tabindex="0" data-def="methamphetamine · n. 甲基苯丙胺,脱氧麻黄碱"} and, in smaller print, about the misuse of [methylphenidate]{.vocab tabindex="0" data-def="methylphenidate · n. 利他灵"} — two stimulants that shared a structural family tree yet sat on opposite ends of the prescription ledger. Next to the poster was a flyer for an [aversion therapy]{.vocab tabindex="0" data-def="aversion therapy 厌恶疗法"} programme targeting substance dependence, run by the hospital's psychiatry unit. A urologist passed by, heading to a consultation about [erectile dysfunction]{.vocab tabindex="0" data-def="erectile dysfunction 勃起功能障碍"} in a middle-aged patient whose chart also flagged a possible [pathogenic retinue]{.vocab tabindex="0" data-def="pathogenic retinue"} of gut bacteria thought to be disrupting his hormonal baseline. He carried a dog-eared Latin dispensary manual — its spine read *de arte [medicamentarius]{.vocab tabindex="0" data-def="medicamentarius 药店"}* — a small joke from a colleague who appreciated old pharmaceutical Latin.

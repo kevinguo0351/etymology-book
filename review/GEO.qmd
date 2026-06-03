@@ -2,497 +2,90 @@
 
 
 
-> 本主题共 10 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 10 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Traveler's Notebook: From Shoreline to City Core
 
-:::: {.columns}
-::: {.column width="57%"}
-Arriving by ferry, I watched the **gulf** narrow as we docked near the harbor mouth. The old **isle** sat just offshore — a rocky silhouette against the pale morning sky — while ahead, the city's **CBD** rose in glass and steel, the kind of skyline that makes a traveler feel small in the best possible way. A concrete **ramp** led from the pier up to the promenade, where a row of **pole**s flew the national colors.
+Arriving by ferry, I watched the [gulf]{.vocab tabindex="0" data-def="gulf · n. 海湾；深渊；漩涡；分歧; 吞没"} narrow as we docked near the harbor mouth. The old [isle]{.vocab tabindex="0" data-def="isle · n. 岛; 使成为岛屿; 住在岛屿上"} sat just offshore — a rocky silhouette against the pale morning sky — while ahead, the city's [CBD]{.vocab tabindex="0" data-def="CBD abbr. 交货前付款；业务中心地区"} rose in glass and steel, the kind of skyline that makes a traveler feel small in the best possible way. A concrete [ramp]{.vocab tabindex="0" data-def="ramp · n. 斜坡，坡道；敲诈; 蔓延；狂跳乱撞；敲诈; 敲诈；使有斜面"} led from the pier up to the promenade, where a row of [pole]{.vocab tabindex="0" data-def="pole · n. 柱子；杆子；棍；杖; 极；地极; 磁极；电极; 截然相反的两极之一；极端; 用篙撑船；摆船 Pole…"}s flew the national colors.
 
-I had booked a room in what the listing called a "character flat," though *character* turned out to mean a single **pane** of warped glass in the window and a **crum** barely wide enough for one. The place sat off a **byway** two blocks from the main **blvd.**, wedged between a laundromat and a shop selling souvenir **atlas** collections. Not exactly a grand **abode**, but cheap. Down the hall was a shared lounge — really just a **nook** carved out under the staircase — and beyond that a dim **den** that the owner used for storage. I had slept in worse: a canvas **hut** on the coastal trail in **Peru**, a converted grain **crib** near **Burma**'s border, a windowless room above a **pit** mine in the highlands. Compared with those, this was luxury.
+I had booked a room in what the listing called a "character flat," though *character* turned out to mean a single [pane]{.vocab tabindex="0" data-def="pane · n. 窗玻璃"} of warped glass in the window and a [crum]{.vocab tabindex="0" data-def="crum · n. 〈俚〉卧室;床"} barely wide enough for one. The place sat off a [byway]{.vocab tabindex="0" data-def="byway · n. 偏僻小路；旁道；次要的领域"} two blocks from the main [blvd.]{.vocab tabindex="0" data-def="blvd. boulevard 大街"}, wedged between a laundromat and a shop selling souvenir [atlas]{.vocab tabindex="0" data-def="atlas · n. 地图集 Atlas寰椎"} collections. Not exactly a grand [abode]{.vocab tabindex="0" data-def="abode · n. 住所；公寓; 暂住，居留；逗留; abide的"}, but cheap. Down the hall was a shared lounge — really just a [nook]{.vocab tabindex="0" data-def="nook · n. 角落；隐匿处；核武器；凹处"} carved out under the staircase — and beyond that a dim [den]{.vocab tabindex="0" data-def="den · n. 兽穴，窝巢；贼窝，私室；小房间; 藏到洞里；住在肮脏简陋的小房间里; 把……赶进洞穴"} that the owner used for storage. I had slept in worse: a canvas [hut]{.vocab tabindex="0" data-def="hut · n. 小屋；临时营房; 使住在小屋中；驻扎; 住在小屋中；驻扎"} on the coastal trail in [Peru]{.vocab tabindex="0" data-def="Peru · n. 秘鲁"}, a converted grain [crib]{.vocab tabindex="0" data-def="crib · n. 〈尤美〉小儿床; 饲料槽; 抄袭, 剽窃; &amp; 抄袭, 剽窃"} near [Burma]{.vocab tabindex="0" data-def="Burma · n. 缅甸"}'s border, a windowless room above a [pit]{.vocab tabindex="0" data-def="pit · n. 深坑；矿井；陷阱；正厅后排；凹陷；正厅后排的观众; 窖藏；使竞争；使凹下；去…之核；使留疤痕; 凹陷…"} mine in the highlands. Compared with those, this was luxury.
 
-By afternoon I was out. The conference I had come for was held in an **arena**-style hall with a tiered **dais** at the front; a wide **aisle** ran down the center, dividing the audience in two. The speaker climbed **aloft** onto the platform and spread her annotated maps — **loci** of ancient settlement patterns — across the table. She traced the **Troy** campaign, paused on the archaeology of **Kyiv**, touched briefly on **Gaza**, and ended with **Orem** in Utah as an unlikely parallel case. Afterward, a reception moved outside to a rooftop **deck** overlooking the river. Someone had flooded the lower courtyard to make a temporary **rink**, and children were already lacing skates. I found a corner, balanced my drink on the rail, and watched the city settle into evening — every **acre** of it lit, restless, alive.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **CBD** | abbr. 交货前付款；业务中心地区 |
-| **den** <span class="wpos">n.</span> | 兽穴，窝巢；贼窝，私室；小房间; 藏到洞里；住在肮脏简陋的小房间里; 把……赶进洞穴 |
-| **hut** <span class="wpos">n.</span> | 小屋；临时营房; 使住在小屋中；驻扎; 住在小屋中；驻扎 |
-| **pit** <span class="wpos">n.</span> | 深坑；矿井；陷阱；正厅后排；凹陷；正厅后排的观众; 窖藏；使竞争；使凹下；去…之核；使留疤痕; 凹陷… |
-| **acre** <span class="wpos">n.</span> | 英亩；土地，地产 ACREabbr. Advanced Cryogenic Rocket Engin… |
-| **crib** <span class="wpos">n.</span> | 〈尤美〉小儿床; 饲料槽; 抄袭, 剽窃; &amp; 抄袭, 剽窃 |
-| **crum** <span class="wpos">n.</span> | 〈俚〉卧室;床 |
-| **dais** <span class="wpos">n.</span> | 台,讲台 |
-| **deck** <span class="wpos">n.</span> | 甲板，舱面；地板；露天平台，凉台；一副牌; 装饰；装点；打扮；打击，击倒，把…打趴下 |
-| **Gaza** <span class="wpos">n.</span> | 加沙 |
-| **gulf** <span class="wpos">n.</span> | 海湾；深渊；漩涡；分歧; 吞没 |
-| **isle** <span class="wpos">n.</span> | 岛; 使成为岛屿; 住在岛屿上 |
-| **Kyiv** <span class="wpos">n.</span> | 基辅 |
-| **loci** <span class="wpos">n.</span> | 地点；轨迹 LOCIabbr. Logarithmic Computing Instrument 对… |
-| **nook** <span class="wpos">n.</span> | 角落；隐匿处；核武器；凹处 |
-| **Orem** | 奥勒姆 |
-| **pane** <span class="wpos">n.</span> | 窗玻璃 |
-| **Peru** <span class="wpos">n.</span> | 秘鲁 |
-| **pole** <span class="wpos">n.</span> | 柱子；杆子；棍；杖; 极；地极; 磁极；电极; 截然相反的两极之一；极端; 用篙撑船；摆船 Pole… |
-| **ramp** <span class="wpos">n.</span> | 斜坡，坡道；敲诈; 蔓延；狂跳乱撞；敲诈; 敲诈；使有斜面 |
-| **rink** <span class="wpos">n.</span> | 冰球场；溜冰场，室内溜冰场; 溜冰 |
-| **Troy** <span class="wpos">n.</span> | 特洛伊,特洛伊 |
-| **abode** <span class="wpos">n.</span> | 住所；公寓; 暂住，居留；逗留; abide的 |
-| **aisle** <span class="wpos">n.</span> | 过道, 通道 |
-| **aloft** <span class="wpos">adv.</span> | 在高处；在上面；在空中; 在…之上；在…顶上; 在上面的；在空中的；在高处的 |
-| **arena** <span class="wpos">n.</span> | 竞技场；舞台 |
-| **atlas** <span class="wpos">n.</span> | 地图集 Atlas寰椎 |
-| **blvd.** | boulevard 大街 |
-| **Burma** <span class="wpos">n.</span> | 缅甸 |
-| **byway** <span class="wpos">n.</span> | 偏僻小路；旁道；次要的领域 |
-:::
-:::
-::::
+By afternoon I was out. The conference I had come for was held in an [arena]{.vocab tabindex="0" data-def="arena · n. 竞技场；舞台"}-style hall with a tiered [dais]{.vocab tabindex="0" data-def="dais · n. 台,讲台"} at the front; a wide [aisle]{.vocab tabindex="0" data-def="aisle · n. 过道, 通道"} ran down the center, dividing the audience in two. The speaker climbed [aloft]{.vocab tabindex="0" data-def="aloft · adv. 在高处；在上面；在空中; 在…之上；在…顶上; 在上面的；在空中的；在高处的"} onto the platform and spread her annotated maps — [loci]{.vocab tabindex="0" data-def="loci · n. 地点；轨迹 LOCIabbr. Logarithmic Computing Instrument 对…"} of ancient settlement patterns — across the table. She traced the [Troy]{.vocab tabindex="0" data-def="Troy · n. 特洛伊,特洛伊"} campaign, paused on the archaeology of [Kyiv]{.vocab tabindex="0" data-def="Kyiv · n. 基辅"}, touched briefly on [Gaza]{.vocab tabindex="0" data-def="Gaza · n. 加沙"}, and ended with [Orem]{.vocab tabindex="0" data-def="Orem 奥勒姆"} in Utah as an unlikely parallel case. Afterward, a reception moved outside to a rooftop [deck]{.vocab tabindex="0" data-def="deck · n. 甲板，舱面；地板；露天平台，凉台；一副牌; 装饰；装点；打扮；打击，击倒，把…打趴下"} overlooking the river. Someone had flooded the lower courtyard to make a temporary [rink]{.vocab tabindex="0" data-def="rink · n. 冰球场；溜冰场，室内溜冰场; 溜冰"}, and children were already lacing skates. I found a corner, balanced my drink on the rail, and watched the city settle into evening — every [acre]{.vocab tabindex="0" data-def="acre · n. 英亩；土地，地产 ACREabbr. Advanced Cryogenic Rocket Engin…"} of it lit, restless, alive.
 
 ### A Slow Journey Through Old Stones and New Shores
 
-:::: {.columns}
-::: {.column width="57%"}
-Leaving the **exurb** behind, we boarded a **liner** at dawn. The ship's lower **cabin** smelled of salt and timber, and somewhere below the waterline lay a **crypt**-like cargo hold no passenger dared explore. By afternoon we had traced the **Indus** valley on a map pinned above the bunk, tracing the ancient **locus** of civilization with a fingertip.
+Leaving the [exurb]{.vocab tabindex="0" data-def="exurb · n. 远郊地区；城市远郊；城市远郊富裕家庭居住区"} behind, we boarded a [liner]{.vocab tabindex="0" data-def="liner · n. 班轮，班机；衬垫；画线者 Liner低电离核区"} at dawn. The ship's lower [cabin]{.vocab tabindex="0" data-def="cabin · n. 小屋；客舱；船舱; 把…关在小屋里; 住在小屋里"} smelled of salt and timber, and somewhere below the waterline lay a [crypt]{.vocab tabindex="0" data-def="crypt · n. 地窖,教堂地下室"}-like cargo hold no passenger dared explore. By afternoon we had traced the [Indus]{.vocab tabindex="0" data-def="Indus · n. 印度西北部的河流,印第安座"} valley on a map pinned above the bunk, tracing the ancient [locus]{.vocab tabindex="0" data-def="locus · n. 轨迹；地点，所在地"} of civilization with a fingertip.
 
-We docked at a port edged by a **fjord**, its dark cliffs split by a narrow **chasm** that plunged out of sight. A **cleft** in the rock above the **entry** to the old town had been carved into a **porch**, where **Irish** monks once read and **Czech** merchants once bartered. We hired a **moped** and rode past a crumbling **manor**, through a **metro** underpass lit by bare bulbs, and out into a broad **patio** behind a hillside **lodge**. A **cubby** off the kitchen held walking maps; a **depot** on the edge of town stocked fuel and dried food.
+We docked at a port edged by a [fjord]{.vocab tabindex="0" data-def="fjord · n. 峡湾; 海岸峡江"}, its dark cliffs split by a narrow [chasm]{.vocab tabindex="0" data-def="chasm · n. 裂口；深坑；峡谷；分歧"} that plunged out of sight. A [cleft]{.vocab tabindex="0" data-def="cleft · adj. 劈开的；分裂的; 裂缝；龟裂; 劈开；分开"} in the rock above the [entry]{.vocab tabindex="0" data-def="entry · n. 入口；进入；登记；条目；对土地的侵占；报关手续"} to the old town had been carved into a [porch]{.vocab tabindex="0" data-def="porch · n. 门廊；走廊"}, where [Irish]{.vocab tabindex="0" data-def="Irish · adj. 爱尔兰的；爱尔兰人的; 爱尔兰人；爱尔兰语；爱尔兰"} monks once read and [Czech]{.vocab tabindex="0" data-def="Czech · adj. 捷克的，捷克人的，捷克语的; 捷克人；捷克语"} merchants once bartered. We hired a [moped]{.vocab tabindex="0" data-def="moped · n. 助动车；机动脚踏两用车; 抑郁不乐；生闷气"} and rode past a crumbling [manor]{.vocab tabindex="0" data-def="manor · n. 庄园；领地；采邑，采地"}, through a [metro]{.vocab tabindex="0" data-def="metro · n. 地铁；大都市；伦敦地下铁道；麦德隆 Metron. 地下铁路"} underpass lit by bare bulbs, and out into a broad [patio]{.vocab tabindex="0" data-def="patio · n. 天井；露台"} behind a hillside [lodge]{.vocab tabindex="0" data-def="lodge · n. 门房；旅馆；集会处；山林小屋; 寄存；借住；提出；嵌入; 寄宿；临时住宿 Lodge洛奇"}. A [cubby]{.vocab tabindex="0" data-def="cubby · n. 小房间"} off the kitchen held walking maps; a [depot]{.vocab tabindex="0" data-def="depot · n. 仓库；航空站；停车场; 把…存放在储藏处; 药性持久的"} on the edge of town stocked fuel and dried food.
 
-Further south — deep into country that felt like **Dixie** by heat alone — we reached **Luxor** at dusk. The city's **Greek**-columned museum overlooked a courtyard where families still **dwell** in converted **condo** blocks whose **metro**-facing facades bore faded murals of **Libya** and **Qatar**. A lone caretaker sat in a **igloo**-shaped guard post outside an old **crypt**. Back at the guesthouse, a small **cubby** in the wall served as a mailbox, its single **entry** slot labeled in both Arabic and the local **hsien** script. We fell asleep to the sound of buses reversing into the **depot** below, dreaming of **Fargo** winters and ice-road **cabin** life — a world away from this warm stone **porch** and its ancient, **cleft** sky.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **cabin** <span class="wpos">n.</span> | 小屋；客舱；船舱; 把…关在小屋里; 住在小屋里 |
-| **chasm** <span class="wpos">n.</span> | 裂口；深坑；峡谷；分歧 |
-| **cleft** <span class="wpos">adj.</span> | 劈开的；分裂的; 裂缝；龟裂; 劈开；分开 |
-| **condo** <span class="wpos">n.</span> | 各户有独立产权的公寓 |
-| **crypt** <span class="wpos">n.</span> | 地窖,教堂地下室 |
-| **cubby** <span class="wpos">n.</span> | 小房间 |
-| **Czech** <span class="wpos">adj.</span> | 捷克的，捷克人的，捷克语的; 捷克人；捷克语 |
-| **depot** <span class="wpos">n.</span> | 仓库；航空站；停车场; 把…存放在储藏处; 药性持久的 |
-| **Dixie** <span class="wpos">n.</span> | 美国南部各州,美国南部 |
-| **dwell** <span class="wpos">vi.</span> | 居住, 住 |
-| **entry** <span class="wpos">n.</span> | 入口；进入；登记；条目；对土地的侵占；报关手续 |
-| **exurb** <span class="wpos">n.</span> | 远郊地区；城市远郊；城市远郊富裕家庭居住区 |
-| **Fargo** | 法戈 |
-| **fjord** <span class="wpos">n.</span> | 峡湾; 海岸峡江 |
-| **Greek** <span class="wpos">n.</span> | 希腊语；希腊人; 希腊的；希腊人的，希腊语的 |
-| **hsien** <span class="wpos">n.</span> | 县 |
-| **igloo** <span class="wpos">n.</span> | 雪块砌成的圆顶小屋 |
-| **Indus** <span class="wpos">n.</span> | 印度西北部的河流,印第安座 |
-| **Irish** <span class="wpos">adj.</span> | 爱尔兰的；爱尔兰人的; 爱尔兰人；爱尔兰语；爱尔兰 |
-| **Libya** <span class="wpos">n.</span> | 利比亚 |
-| **liner** <span class="wpos">n.</span> | 班轮，班机；衬垫；画线者 Liner低电离核区 |
-| **locus** <span class="wpos">n.</span> | 轨迹；地点，所在地 |
-| **lodge** <span class="wpos">n.</span> | 门房；旅馆；集会处；山林小屋; 寄存；借住；提出；嵌入; 寄宿；临时住宿 Lodge洛奇 |
-| **Luxor** <span class="wpos">n.</span> | 卢克索；埃及祖玛 |
-| **manor** <span class="wpos">n.</span> | 庄园；领地；采邑，采地 |
-| **metro** <span class="wpos">n.</span> | 地铁；大都市；伦敦地下铁道；麦德隆 Metron. 地下铁路 |
-| **moped** <span class="wpos">n.</span> | 助动车；机动脚踏两用车; 抑郁不乐；生闷气 |
-| **patio** <span class="wpos">n.</span> | 天井；露台 |
-| **porch** <span class="wpos">n.</span> | 门廊；走廊 |
-| **Qatar** <span class="wpos">n.</span> | 卡塔尔 |
-:::
-:::
-::::
+Further south — deep into country that felt like [Dixie]{.vocab tabindex="0" data-def="Dixie · n. 美国南部各州,美国南部"} by heat alone — we reached [Luxor]{.vocab tabindex="0" data-def="Luxor · n. 卢克索；埃及祖玛"} at dusk. The city's [Greek]{.vocab tabindex="0" data-def="Greek · n. 希腊语；希腊人; 希腊的；希腊人的，希腊语的"}-columned museum overlooked a courtyard where families still [dwell]{.vocab tabindex="0" data-def="dwell · vi. 居住, 住"} in converted [condo]{.vocab tabindex="0" data-def="condo · n. 各户有独立产权的公寓"} blocks whose [metro]{.vocab tabindex="0" data-def="metro · n. 地铁；大都市；伦敦地下铁道；麦德隆 Metron. 地下铁路"}-facing facades bore faded murals of [Libya]{.vocab tabindex="0" data-def="Libya · n. 利比亚"} and [Qatar]{.vocab tabindex="0" data-def="Qatar · n. 卡塔尔"}. A lone caretaker sat in a [igloo]{.vocab tabindex="0" data-def="igloo · n. 雪块砌成的圆顶小屋"}-shaped guard post outside an old [crypt]{.vocab tabindex="0" data-def="crypt · n. 地窖,教堂地下室"}. Back at the guesthouse, a small [cubby]{.vocab tabindex="0" data-def="cubby · n. 小房间"} in the wall served as a mailbox, its single [entry]{.vocab tabindex="0" data-def="entry · n. 入口；进入；登记；条目；对土地的侵占；报关手续"} slot labeled in both Arabic and the local [hsien]{.vocab tabindex="0" data-def="hsien · n. 县"} script. We fell asleep to the sound of buses reversing into the [depot]{.vocab tabindex="0" data-def="depot · n. 仓库；航空站；停车场; 把…存放在储藏处; 药性持久的"} below, dreaming of [Fargo]{.vocab tabindex="0" data-def="Fargo 法戈"} winters and ice-road [cabin]{.vocab tabindex="0" data-def="cabin · n. 小屋；客舱；船舱; 把…关在小屋里; 住在小屋里"} life — a world away from this warm stone [porch]{.vocab tabindex="0" data-def="porch · n. 门廊；走廊"} and its ancient, [cleft]{.vocab tabindex="0" data-def="cleft · adj. 劈开的；分裂的; 裂缝；龟裂; 劈开；分开"} sky.
 
 ### From the Aegean to the Atrium: Notes of a Wandering Eye
 
-:::: {.columns}
-::: {.column width="57%"}
-Standing on a cliff above the **Aegean**, where the water shimmered in every shade of blue the eye could name, it was easy to forget that the morning had begun in a cramped **sedan** on a pot-holed road cutting through **rural** scrubland. The driver, a cheerful man who moonlighted as a **trike** repairman, pointed **afield** toward a ridge and said simply, "**Delphi**."
+Standing on a cliff above the [Aegean]{.vocab tabindex="0" data-def="Aegean · n. 爱琴海(地中海的一部分,在希腊同土耳其之间]; 爱琴海的"}, where the water shimmered in every shade of blue the eye could name, it was easy to forget that the morning had begun in a cramped [sedan]{.vocab tabindex="0" data-def="sedan · n. 小轿车 Sedan色当"} on a pot-holed road cutting through [rural]{.vocab tabindex="0" data-def="rural · adj. 农村的"} scrubland. The driver, a cheerful man who moonlighted as a [trike]{.vocab tabindex="0" data-def="trike · n. 三轮车"} repairman, pointed [afield]{.vocab tabindex="0" data-def="afield · adv. 在战场上；去野外；在远处；远离著"} toward a ridge and said simply, "[Delphi]{.vocab tabindex="0" data-def="Delphi · n. 特尔斐"}."
 
-We arrived to find the sanctuary wrapped in mist. The **aerial** view from the upper terrace — if you can call two hours of switchback climbing an ascent — opened a **vista** of olive groves falling away toward the gulf below. Back in town I checked into a modest **suite** at a guesthouse whose owner kept a **cellar** stocked with retsina and a small **alcove** off the lobby lined with antique maps. One showed the full **realm** of the old Ottoman provinces: **Syria**, **Tibet**, **Dakota** (someone had clearly improvised), and a coastline labeled **Baltic** where the **Aegean** should have been. Cartography, apparently, was not his strong **Swiss** suit.
+We arrived to find the sanctuary wrapped in mist. The [aerial]{.vocab tabindex="0" data-def="aerial · adj. 空气的, 空中的; 存在或悬浮于空中的, 架空的; 天线"} view from the upper terrace — if you can call two hours of switchback climbing an ascent — opened a [vista]{.vocab tabindex="0" data-def="vista · n. 远景，狭长的街景；回顾；展望 VISTAabbr. Viewing Instantly Securi…"} of olive groves falling away toward the gulf below. Back in town I checked into a modest [suite]{.vocab tabindex="0" data-def="suite · n. 组曲；套房；随员，随从；家具"} at a guesthouse whose owner kept a [cellar]{.vocab tabindex="0" data-def="cellar · n. 地窖；酒窖；地下室; 把…藏入地窖"} stocked with retsina and a small [alcove]{.vocab tabindex="0" data-def="alcove · n. 凹室；壁龛"} off the lobby lined with antique maps. One showed the full [realm]{.vocab tabindex="0" data-def="realm · n. 领域；范围; 王国，国度"} of the old Ottoman provinces: [Syria]{.vocab tabindex="0" data-def="Syria · n. 叙利亚共和国"}, [Tibet]{.vocab tabindex="0" data-def="Tibet · n. 西藏"}, [Dakota]{.vocab tabindex="0" data-def="Dakota · n. 达科他; 达科他人的"} (someone had clearly improvised), and a coastline labeled [Baltic]{.vocab tabindex="0" data-def="Baltic · adj. 波罗的海的; 波罗的海"} where the [Aegean]{.vocab tabindex="0" data-def="Aegean · n. 爱琴海(地中海的一部分,在希腊同土耳其之间]; 爱琴海的"} should have been. Cartography, apparently, was not his strong [Swiss]{.vocab tabindex="0" data-def="Swiss · adj. 来自瑞士的; 瑞士的;瑞士文化的; 瑞士人"} suit.
 
-The next morning took us to the shell of a Roman **villa** on the edge of a **campus** that a German university had been excavating for a decade. The central **atrium** still had its mosaic floor, cracked by a long-ago **crater** — whether volcanic or from a wartime shell nobody could agree. Beyond it ran a covered **arcade** of columns, and tucked into one end was a **duplex** structure: a lower storage hall that once functioned as a grain cellar, and an upper sleeping room reached by a narrow stair. The **closet**-sized **sewer** outlet at the base of the wall reminded you that even grand architecture has its unglamorous infrastructure.
+The next morning took us to the shell of a Roman [villa]{.vocab tabindex="0" data-def="villa · n. 别墅；郊区住宅"} on the edge of a [campus]{.vocab tabindex="0" data-def="campus · n. 校园; 大学或其分校"} that a German university had been excavating for a decade. The central [atrium]{.vocab tabindex="0" data-def="atrium · n. 心房；中庭，天井前厅"} still had its mosaic floor, cracked by a long-ago [crater]{.vocab tabindex="0" data-def="crater · n. 弹坑；火山口; 在…上形成坑；取消；毁坏; 形成坑；消亡"} — whether volcanic or from a wartime shell nobody could agree. Beyond it ran a covered [arcade]{.vocab tabindex="0" data-def="arcade · n. 拱廊；有拱廊的街道；游乐场; 使有拱廊"} of columns, and tucked into one end was a [duplex]{.vocab tabindex="0" data-def="duplex · adj. 二倍的，双重的; 占两层楼的公寓套房；双工"} structure: a lower storage hall that once functioned as a grain cellar, and an upper sleeping room reached by a narrow stair. The [closet]{.vocab tabindex="0" data-def="closet · n. 壁橱；议事室，密室；小房间; 秘密的，私下的；空谈的; 把…关在私室中"}-sized [sewer]{.vocab tabindex="0" data-def="sewer · n. 下水道；阴沟；裁缝师; 为…铺设污水管道；用下水道排除…的污水; 清洗污水管"} outlet at the base of the wall reminded you that even grand architecture has its unglamorous infrastructure.
 
-We ended the circuit in **Athens**, then flew north — briefly over **Beirut**, cloud-covered, then onward. The **faroff** lights of a coastal city, seen through the plane window, looked like a slow-burning **Baltic** constellation. I thought of **Selma** and her offhand remark at the airport: "Every place is someone else's **castle**." The **trike** driver would have agreed.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **realm** <span class="wpos">n.</span> | 领域；范围; 王国，国度 |
-| **rural** <span class="wpos">adj.</span> | 农村的 |
-| **sedan** <span class="wpos">n.</span> | 小轿车 Sedan色当 |
-| **Selma** <span class="wpos">n.</span> | 塞尔玛 |
-| **sewer** <span class="wpos">n.</span> | 下水道；阴沟；裁缝师; 为…铺设污水管道；用下水道排除…的污水; 清洗污水管 |
-| **suite** <span class="wpos">n.</span> | 组曲；套房；随员，随从；家具 |
-| **Swiss** <span class="wpos">adj.</span> | 来自瑞士的; 瑞士的;瑞士文化的; 瑞士人 |
-| **Syria** <span class="wpos">n.</span> | 叙利亚共和国 |
-| **Tibet** <span class="wpos">n.</span> | 西藏 |
-| **trike** <span class="wpos">n.</span> | 三轮车 |
-| **villa** <span class="wpos">n.</span> | 别墅；郊区住宅 |
-| **vista** <span class="wpos">n.</span> | 远景，狭长的街景；回顾；展望 VISTAabbr. Viewing Instantly Securi… |
-| **Aegean** <span class="wpos">n.</span> | 爱琴海(地中海的一部分,在希腊同土耳其之间]; 爱琴海的 |
-| **aerial** <span class="wpos">adj.</span> | 空气的, 空中的; 存在或悬浮于空中的, 架空的; 天线 |
-| **afield** <span class="wpos">adv.</span> | 在战场上；去野外；在远处；远离著 |
-| **alcove** <span class="wpos">n.</span> | 凹室；壁龛 |
-| **arcade** <span class="wpos">n.</span> | 拱廊；有拱廊的街道；游乐场; 使有拱廊 |
-| **Athens** <span class="wpos">n.</span> | 雅典 |
-| **atrium** <span class="wpos">n.</span> | 心房；中庭，天井前厅 |
-| **Baltic** <span class="wpos">adj.</span> | 波罗的海的; 波罗的海 |
-| **Beirut** <span class="wpos">n.</span> | 贝鲁特 |
-| **campus** <span class="wpos">n.</span> | 校园; 大学或其分校 |
-| **castle** <span class="wpos">n.</span> | 城堡；象棋中的车; 置…于城堡中；筑城堡防御 |
-| **cellar** <span class="wpos">n.</span> | 地窖；酒窖；地下室; 把…藏入地窖 |
-| **closet** <span class="wpos">n.</span> | 壁橱；议事室，密室；小房间; 秘密的，私下的；空谈的; 把…关在私室中 |
-| **crater** <span class="wpos">n.</span> | 弹坑；火山口; 在…上形成坑；取消；毁坏; 形成坑；消亡 |
-| **Dakota** <span class="wpos">n.</span> | 达科他; 达科他人的 |
-| **Delphi** <span class="wpos">n.</span> | 特尔斐 |
-| **duplex** <span class="wpos">adj.</span> | 二倍的，双重的; 占两层楼的公寓套房；双工 |
-| **faroff** <span class="wpos">adj.</span> | 遥远的 |
-:::
-:::
-::::
+We ended the circuit in [Athens]{.vocab tabindex="0" data-def="Athens · n. 雅典"}, then flew north — briefly over [Beirut]{.vocab tabindex="0" data-def="Beirut · n. 贝鲁特"}, cloud-covered, then onward. The [faroff]{.vocab tabindex="0" data-def="faroff · adj. 遥远的"} lights of a coastal city, seen through the plane window, looked like a slow-burning [Baltic]{.vocab tabindex="0" data-def="Baltic · adj. 波罗的海的; 波罗的海"} constellation. I thought of [Selma]{.vocab tabindex="0" data-def="Selma · n. 塞尔玛"} and her offhand remark at the airport: "Every place is someone else's [castle]{.vocab tabindex="0" data-def="castle · n. 城堡；象棋中的车; 置…于城堡中；筑城堡防御"}." The [trike]{.vocab tabindex="0" data-def="trike · n. 三轮车"} driver would have agreed.
 
 ### Wandering Far and Near
 
-:::: {.columns}
-::: {.column width="57%"}
-The itinerary began modestly enough: a few nights at a **hostel** outside **Madrid**, then a slow train east toward the **Venice** of the north. Our group had flown in through **France**, rented a car from a roadside **garage**, and spent the first afternoon hunting for a decent **locale** to drop our bags. We found one at last — a cluster of **lodges** set above a shallow **valley**, their stone walls still warm from the afternoon sun.
+The itinerary began modestly enough: a few nights at a [hostel]{.vocab tabindex="0" data-def="hostel · n. 旅社，招待所"} outside [Madrid]{.vocab tabindex="0" data-def="Madrid · n. 马德里"}, then a slow train east toward the [Venice]{.vocab tabindex="0" data-def="Venice · n. 威尼斯"} of the north. Our group had flown in through [France]{.vocab tabindex="0" data-def="France · n. 法兰西,法国"}, rented a car from a roadside [garage]{.vocab tabindex="0" data-def="garage · n. 车库; 汽车修理站；加油站"}, and spent the first afternoon hunting for a decent [locale]{.vocab tabindex="0" data-def="locale · n. 场所，现场"} to drop our bags. We found one at last — a cluster of [lodges]{.vocab tabindex="0" data-def="lodges · n. 小屋；胜地旅舍; 让…临时住宿；容纳；租住"} set above a shallow [valley]{.vocab tabindex="0" data-def="valley · n. 流域；山谷；溪谷"}, their stone walls still warm from the afternoon sun.
 
-From there we followed the **resort** towns southward, through the kind of **remote** hill country where the only sign of life is a shepherd's silhouette on a ridge. The road dipped into a long **tunnel**, emerged beside a sluggish canal, and delivered us to a medieval **hamlet** of perhaps forty houses. A stone **mantel** inside the inn bore the names of travelers who had rested there for centuries.
+From there we followed the [resort]{.vocab tabindex="0" data-def="resort · n. 凭借，手段；常去之地；度假胜地; 求助，诉诸；采取某手段或方法；常去"} towns southward, through the kind of [remote]{.vocab tabindex="0" data-def="remote · adj. 遥远的；远的; 远离的，遥远的；偏僻的; 冷淡的，疏远的，漠不关心的; 微小的；轻微的"} hill country where the only sign of life is a shepherd's silhouette on a ridge. The road dipped into a long [tunnel]{.vocab tabindex="0" data-def="tunnel · n. 隧道, 地道; 穴"}, emerged beside a sluggish canal, and delivered us to a medieval [hamlet]{.vocab tabindex="0" data-def="hamlet · n. 小村庄"} of perhaps forty houses. A stone [mantel]{.vocab tabindex="0" data-def="mantel · n. 壁炉架，壁炉台"} inside the inn bore the names of travelers who had rested there for centuries.
 
-The second leg took us farther: a **safari** camp in the **tropic**s, where the **gutter** of a night rainstorm ran in silver threads off the reed roof; a **ghetto** neighborhood in a port city that had quietly become its most painterly **venue** for street art; a river settlement beside the **Tigris** that reminded us, impossibly, of illustrations from a book on ancient **Persia**. We crossed into **Quebec** one grey Tuesday, then looped down through **Nevada** and the adobe **Pueblo** villages baking in the desert light. The contrast with **Sweden**'s long summer evenings — where we had been only weeks before — was almost comic.
+The second leg took us farther: a [safari]{.vocab tabindex="0" data-def="safari · n. 旅行；狩猎远征；旅行队"} camp in the [tropic]{.vocab tabindex="0" data-def="tropic · n. 回归线; 热带, 热带地方"}s, where the [gutter]{.vocab tabindex="0" data-def="gutter · n. 排水沟；槽；贫民区; 流；形成沟; 开沟于…；弄熄; 贫贱的；粗俗的；耸人听闻的"} of a night rainstorm ran in silver threads off the reed roof; a [ghetto]{.vocab tabindex="0" data-def="ghetto · n. 犹太人区；贫民区; 使集中居住"} neighborhood in a port city that had quietly become its most painterly [venue]{.vocab tabindex="0" data-def="venues · n. 犯罪现场，发生地点；场地，场馆"} for street art; a river settlement beside the [Tigris]{.vocab tabindex="0" data-def="Tigris · n. 底格里斯河"} that reminded us, impossibly, of illustrations from a book on ancient [Persia]{.vocab tabindex="0" data-def="Persia · n. 波斯"}. We crossed into [Quebec]{.vocab tabindex="0" data-def="Quebec · n. 魁北克"} one grey Tuesday, then looped down through [Nevada]{.vocab tabindex="0" data-def="Nevada · n. 内华达"} and the adobe [Pueblo]{.vocab tabindex="0" data-def="Pueblo 普韦布洛"} villages baking in the desert light. The contrast with [Sweden]{.vocab tabindex="0" data-def="Sweden · n. 瑞典"}'s long summer evenings — where we had been only weeks before — was almost comic.
 
-Somewhere between **Guyana**'s jungle lodges and a layover in **Kuwait** on the way to **Israel**, the trip stopped feeling like a checklist and became something else: a slow accumulation of **venues**, **locales**, and accidental discoveries that no itinerary had planned. Even the **Serbia** detour, added on a whim, gave us a hilltop fortress with a view down into a silver **valley** we had not expected to love. The **Mexico** leg came last — a colonial city, a **galley** kitchen in a rented apartment, coffee on the roof at six in the morning.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **France** <span class="wpos">n.</span> | 法兰西,法国 |
-| **galley** <span class="wpos">n.</span> | 船上的厨房；单层甲板的大帆船；活版盘，长条校样 |
-| **garage** <span class="wpos">n.</span> | 车库; 汽车修理站；加油站 |
-| **ghetto** <span class="wpos">n.</span> | 犹太人区；贫民区; 使集中居住 |
-| **gutter** <span class="wpos">n.</span> | 排水沟；槽；贫民区; 流；形成沟; 开沟于…；弄熄; 贫贱的；粗俗的；耸人听闻的 |
-| **Guyana** <span class="wpos">n.</span> | 圭亚那 |
-| **hamlet** <span class="wpos">n.</span> | 小村庄 |
-| **hostel** <span class="wpos">n.</span> | 旅社，招待所 |
-| **Israel** <span class="wpos">n.</span> | 以色列；犹太人，以色列人 |
-| **Kuwait** <span class="wpos">n.</span> | 科威特 |
-| **locale** <span class="wpos">n.</span> | 场所，现场 |
-| **lodges** <span class="wpos">n.</span> | 小屋；胜地旅舍; 让…临时住宿；容纳；租住 |
-| **Madrid** <span class="wpos">n.</span> | 马德里 |
-| **mantel** <span class="wpos">n.</span> | 壁炉架，壁炉台 |
-| **Mexico** <span class="wpos">n.</span> | 墨西哥 |
-| **Nevada** <span class="wpos">n.</span> | 内华达 |
-| **Persia** <span class="wpos">n.</span> | 波斯 |
-| **Pueblo** | 普韦布洛 |
-| **Quebec** <span class="wpos">n.</span> | 魁北克 |
-| **remote** <span class="wpos">adj.</span> | 遥远的；远的; 远离的，遥远的；偏僻的; 冷淡的，疏远的，漠不关心的; 微小的；轻微的 |
-| **resort** <span class="wpos">n.</span> | 凭借，手段；常去之地；度假胜地; 求助，诉诸；采取某手段或方法；常去 |
-| **safari** <span class="wpos">n.</span> | 旅行；狩猎远征；旅行队 |
-| **Serbia** | 塞尔维亚 |
-| **Sweden** <span class="wpos">n.</span> | 瑞典 |
-| **Tigris** <span class="wpos">n.</span> | 底格里斯河 |
-| **tropic** <span class="wpos">n.</span> | 回归线; 热带, 热带地方 |
-| **tunnel** <span class="wpos">n.</span> | 隧道, 地道; 穴 |
-| **valley** <span class="wpos">n.</span> | 流域；山谷；溪谷 |
-| **Venice** <span class="wpos">n.</span> | 威尼斯 |
-| **venues** <span class="wpos">n.</span> | 犯罪现场，发生地点；场地，场馆 |
-:::
-:::
-::::
+Somewhere between [Guyana]{.vocab tabindex="0" data-def="Guyana · n. 圭亚那"}'s jungle lodges and a layover in [Kuwait]{.vocab tabindex="0" data-def="Kuwait · n. 科威特"} on the way to [Israel]{.vocab tabindex="0" data-def="Israel · n. 以色列；犹太人，以色列人"}, the trip stopped feeling like a checklist and became something else: a slow accumulation of [venues]{.vocab tabindex="0" data-def="venues · n. 犯罪现场，发生地点；场地，场馆"}, [locales]{.vocab tabindex="0" data-def="locale · n. 场所，现场"}, and accidental discoveries that no itinerary had planned. Even the [Serbia]{.vocab tabindex="0" data-def="Serbia 塞尔维亚"} detour, added on a whim, gave us a hilltop fortress with a view down into a silver [valley]{.vocab tabindex="0" data-def="valley · n. 流域；山谷；溪谷"} we had not expected to love. The [Mexico]{.vocab tabindex="0" data-def="Mexico · n. 墨西哥"} leg came last — a colonial city, a [galley]{.vocab tabindex="0" data-def="galley · n. 船上的厨房；单层甲板的大帆船；活版盘，长条校样"} kitchen in a rented apartment, coffee on the roof at six in the morning.
 
 ### Wanderers, Walls, and Windows
 
-:::: {.columns}
-::: {.column width="57%"}
-The **voyage** began at dawn, when the last stars were still fading above the **hilltop** monastery. We had studied maps of **Eurasia** for months — from the ancient streets of **Ephesus** to the river bends of **Babylon** — yet nothing prepares you for the moment a **far-off** skyline finally resolves into stone and smoke.
+The [voyage]{.vocab tabindex="0" data-def="voyage · n. 航行；航程；旅行记; 航海；航行; 飞过；渡过"} began at dawn, when the last stars were still fading above the [hilltop]{.vocab tabindex="0" data-def="hilltop · n. 小山顶"} monastery. We had studied maps of [Eurasia]{.vocab tabindex="0" data-def="Eurasia · n. 欧亚大陆"} for months — from the ancient streets of [Ephesus]{.vocab tabindex="0" data-def="Ephesus · n. 以弗所"} to the river bends of [Babylon]{.vocab tabindex="0" data-def="Babylon · n. 巴比伦,奢华淫靡的城市,任何大的富庶的或罪恶的城市"} — yet nothing prepares you for the moment a [far-off]{.vocab tabindex="0" data-def="far-off · adj. 遥远的"} skyline finally resolves into stone and smoke.
 
-Our first stop was a **cottage** tucked inside a walled **enclave** at the edge of the old city. A narrow **archway** led us in, its keystone worn smooth by centuries of passing hands. Above the **doorway**, someone had painted a small sun. Inside, the **ceiling** was low and vaulted, and a crooked **chimney** rose from the kitchen hearth like a punctuation mark against the morning sky. We shared a **cubicle**-sized room on the upper floor, where a **balcony** jutted out over a lane of herb sellers and pigeon coops.
+Our first stop was a [cottage]{.vocab tabindex="0" data-def="cottage · n. 村舍；小屋；小别墅"} tucked inside a walled [enclave]{.vocab tabindex="0" data-def="enclave · n. 飞地；被包围的领土；被包围物"} at the edge of the old city. A narrow [archway]{.vocab tabindex="0" data-def="archway · n. 拱门,拱道"} led us in, its keystone worn smooth by centuries of passing hands. Above the [doorway]{.vocab tabindex="0" data-def="doorway · n. 门口；途径"}, someone had painted a small sun. Inside, the [ceiling]{.vocab tabindex="0" data-def="ceiling · n. 天花板，顶棚; 最高限度，上限; 高度，上升限度；云幕高度"} was low and vaulted, and a crooked [chimney]{.vocab tabindex="0" data-def="chimney · n. 烟囱, 烟筒"} rose from the kitchen hearth like a punctuation mark against the morning sky. We shared a [cubicle]{.vocab tabindex="0" data-def="cubicle · n. 小卧室, 斗室"}-sized room on the upper floor, where a [balcony]{.vocab tabindex="0" data-def="balcony · n. 阳台；包厢；戏院楼厅"} jutted out over a lane of herb sellers and pigeon coops.
 
-By afternoon we had crossed into a rougher district — former **barrack** buildings repurposed into studios, each one occupying a modest **acreage** of courtyard — and stood before the grandest **edifice** on the square: a civic hall whose **African** granite columns had been shipped, so the plaque read, from a quarry near **Baghdad**. The architect had been born in **Cologne**, trained in **Belgium**, and had spent a restless decade moving between **Georgia**, **Bolivia**, **Ecuador**, **Jamaica**, **Croatia**, and **Belarus** before settling here. On the steps, a guide gestured toward **yonder** ridge where **Lebanon** cedars lined the old Crusader wall, and pointed out that the street below had once been the main road into the district of **Bethany**.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **voyage** <span class="wpos">n.</span> | 航行；航程；旅行记; 航海；航行; 飞过；渡过 |
-| **yonder** <span class="wpos">adj.</span> | 那边的，远处的; 在那边；在远处; 那边 |
-| **acreage** <span class="wpos">n.</span> | 英亩数; 土地面积; |
-| **African** <span class="wpos">adj.</span> | 非洲的，非洲人的; 非洲人 |
-| **archway** <span class="wpos">n.</span> | 拱门,拱道 |
-| **Babylon** <span class="wpos">n.</span> | 巴比伦,奢华淫靡的城市,任何大的富庶的或罪恶的城市 |
-| **Baghdad** <span class="wpos">n.</span> | 巴格达 |
-| **balcony** <span class="wpos">n.</span> | 阳台；包厢；戏院楼厅 |
-| **barrack** <span class="wpos">n.</span> | 营房,兵营; 棚屋,工房; 外观简陋划一的房屋; 向...提供营房; 使住入营房; 大叫, 喝倒彩起… |
-| **Belarus** | 白俄罗斯 |
-| **Belgium** <span class="wpos">n.</span> | 比利时 |
-| **Bethany** | 贝瑟尼 |
-| **Bolivia** <span class="wpos">n.</span> | 玻利维亚 |
-| **ceiling** <span class="wpos">n.</span> | 天花板，顶棚; 最高限度，上限; 高度，上升限度；云幕高度 |
-| **chimney** <span class="wpos">n.</span> | 烟囱, 烟筒 |
-| **Cologne** | 科隆 |
-| **cottage** <span class="wpos">n.</span> | 村舍；小屋；小别墅 |
-| **Croatia** <span class="wpos">n.</span> | 克罗地亚 |
-| **cubicle** <span class="wpos">n.</span> | 小卧室, 斗室 |
-| **doorway** <span class="wpos">n.</span> | 门口；途径 |
-| **Ecuador** <span class="wpos">n.</span> | 厄瓜多尔 |
-| **edifice** <span class="wpos">n.</span> | 大建筑物 |
-| **enclave** <span class="wpos">n.</span> | 飞地；被包围的领土；被包围物 |
-| **Ephesus** <span class="wpos">n.</span> | 以弗所 |
-| **Eurasia** <span class="wpos">n.</span> | 欧亚大陆 |
-| **far-off** <span class="wpos">adj.</span> | 遥远的 |
-| **Georgia** <span class="wpos">n.</span> | 美国佐治亚州; 格鲁吉亚; 乔治娅 |
-| **hilltop** <span class="wpos">n.</span> | 小山顶 |
-| **Jamaica** <span class="wpos">n.</span> | 牙买加,牙买加甜酒 |
-| **Lebanon** <span class="wpos">n.</span> | 黎巴嫩 |
-:::
-:::
-::::
+By afternoon we had crossed into a rougher district — former [barrack]{.vocab tabindex="0" data-def="barrack · n. 营房,兵营; 棚屋,工房; 外观简陋划一的房屋; 向...提供营房; 使住入营房; 大叫, 喝倒彩起…"} buildings repurposed into studios, each one occupying a modest [acreage]{.vocab tabindex="0" data-def="acreage · n. 英亩数; 土地面积;"} of courtyard — and stood before the grandest [edifice]{.vocab tabindex="0" data-def="edifice · n. 大建筑物"} on the square: a civic hall whose [African]{.vocab tabindex="0" data-def="African · adj. 非洲的，非洲人的; 非洲人"} granite columns had been shipped, so the plaque read, from a quarry near [Baghdad]{.vocab tabindex="0" data-def="Baghdad · n. 巴格达"}. The architect had been born in [Cologne]{.vocab tabindex="0" data-def="Cologne 科隆"}, trained in [Belgium]{.vocab tabindex="0" data-def="Belgium · n. 比利时"}, and had spent a restless decade moving between [Georgia]{.vocab tabindex="0" data-def="Georgia · n. 美国佐治亚州; 格鲁吉亚; 乔治娅"}, [Bolivia]{.vocab tabindex="0" data-def="Bolivia · n. 玻利维亚"}, [Ecuador]{.vocab tabindex="0" data-def="Ecuador · n. 厄瓜多尔"}, [Jamaica]{.vocab tabindex="0" data-def="Jamaica · n. 牙买加,牙买加甜酒"}, [Croatia]{.vocab tabindex="0" data-def="Croatia · n. 克罗地亚"}, and [Belarus]{.vocab tabindex="0" data-def="Belarus 白俄罗斯"} before settling here. On the steps, a guide gestured toward [yonder]{.vocab tabindex="0" data-def="yonder · adj. 那边的，远处的; 在那边；在远处; 那边"} ridge where [Lebanon]{.vocab tabindex="0" data-def="Lebanon · n. 黎巴嫩"} cedars lined the old Crusader wall, and pointed out that the street below had once been the main road into the district of [Bethany]{.vocab tabindex="0" data-def="Bethany 贝瑟尼"}.
 
 ### Traces of Civilization, Echoes of Place
 
-:::: {.columns}
-::: {.column width="57%"}
-Long before continents drifted apart from the primordial **pangaea**, human beings were already drawn to water. The ancient **Athenian** philosopher from **Miletus** understood this: settle near a shore, and trade will follow. That instinct has never faded. Travelers today still trace those old routes — crossing the **Adriatic**, skimming the **Atlantic**, gliding down the **Yangtze**, threading through the locks of **Ontario** — as if re-stitching the seams of the world.
+Long before continents drifted apart from the primordial [pangaea]{.vocab tabindex="0" data-def="pangaea · n. 盘古大陆；泛大陆"}, human beings were already drawn to water. The ancient [Athenian]{.vocab tabindex="0" data-def="Athenian · n. 雅典人; 雅典的；雅典人的；雅典文化的"} philosopher from [Miletus]{.vocab tabindex="0" data-def="Miletus · n. 米利都"} understood this: settle near a shore, and trade will follow. That instinct has never faded. Travelers today still trace those old routes — crossing the [Adriatic]{.vocab tabindex="0" data-def="Adriatic · adj. 亚得里亚海的；亚得里亚海沿岸居民的"}, skimming the [Atlantic]{.vocab tabindex="0" data-def="Atlantic · adj. 在大西洋里的；近大西洋的; 大西洋"}, gliding down the [Yangtze]{.vocab tabindex="0" data-def="Yangtze · n. 长江，扬子江"}, threading through the locks of [Ontario]{.vocab tabindex="0" data-def="Ontario · n. 安大略湖"} — as if re-stitching the seams of the world.
 
-On land, the architecture tells the same story of arrival and shelter. In a cobbled quarter of **Tribeca**, a converted **mansion** rises behind a wrought-iron gate, its upper **terrace** overlooking a **corridor** of narrow streets below. A **passage** cuts through the building's base, dark and cool, leading to a courtyard where the old **taverns** once filled with sailors off the docks. Deeper beneath the city, **tunnels** carry thousands of commuters past foundations that predate the **suburbs** by centuries. Step into an **elevator**, rise twelve floors, and the **pathway** from street to sky takes less than a minute — yet every surface you touch was once raw earth.
+On land, the architecture tells the same story of arrival and shelter. In a cobbled quarter of [Tribeca]{.vocab tabindex="0" data-def="Tribeca · n. 特里贝克地区"}, a converted [mansion]{.vocab tabindex="0" data-def="mansion · n. 宅第，公馆；大厦"} rises behind a wrought-iron gate, its upper [terrace]{.vocab tabindex="0" data-def="terrace · n. 梯田；阳台；平台; 使成梯田，使成阶地；使有平台屋顶; 成阶地；成梯田；筑成坛; 叠层式的"} overlooking a [corridor]{.vocab tabindex="0" data-def="corridor · n. 走廊"} of narrow streets below. A [passage]{.vocab tabindex="0" data-def="passage · n. 通路；走廊；一段"} cuts through the building's base, dark and cool, leading to a courtyard where the old [taverns]{.vocab tabindex="0" data-def="taverns · n. 旅馆；酒馆"} once filled with sailors off the docks. Deeper beneath the city, [tunnels]{.vocab tabindex="0" data-def="tunnels · n. 隧道；地下道；洞群; 凿隧道；建筑隧道"} carry thousands of commuters past foundations that predate the [suburbs]{.vocab tabindex="0" data-def="suburbs · n. 郊外"} by centuries. Step into an [elevator]{.vocab tabindex="0" data-def="elevator · n. 电梯；升降舵；升降机；起卸机"}, rise twelve floors, and the [pathway]{.vocab tabindex="0" data-def="pathway · n. 路,径"} from street to sky takes less than a minute — yet every surface you touch was once raw earth.
 
-The same layering appears wherever you travel. In **Calcutta**, in **Myanmar**, on the **Yucatan** coast, along the shores of **Tunisia** and **Liberia**, across the plains of **Uruguay** and the forested hills of **Vermont** and **Arkansas**, in the university towns of **Berkeley** and the corporate towers of the **Emirates** — buildings absorb the climate and the culture that raised them. A simple **shelter** in **Oceania** and a glass tower in **Delaware** are, at root, the same impulse: stake a place, keep the elements out, make room for living.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Liberia** <span class="wpos">n.</span> | 利比里亚 |
-| **mansion** <span class="wpos">n.</span> | 宅第，公馆；大厦 |
-| **Miletus** <span class="wpos">n.</span> | 米利都 |
-| **Myanmar** | 缅甸 |
-| **Oceania** <span class="wpos">n.</span> | 大洋洲 |
-| **Ontario** <span class="wpos">n.</span> | 安大略湖 |
-| **pangaea** <span class="wpos">n.</span> | 盘古大陆；泛大陆 |
-| **passage** <span class="wpos">n.</span> | 通路；走廊；一段 |
-| **pathway** <span class="wpos">n.</span> | 路,径 |
-| **shelter** <span class="wpos">n.</span> | 避难所；遮盖物；庇护; 使掩蔽；保护; 躲避，避难 |
-| **suburbs** <span class="wpos">n.</span> | 郊外 |
-| **taverns** <span class="wpos">n.</span> | 旅馆；酒馆 |
-| **terrace** <span class="wpos">n.</span> | 梯田；阳台；平台; 使成梯田，使成阶地；使有平台屋顶; 成阶地；成梯田；筑成坛; 叠层式的 |
-| **Tribeca** <span class="wpos">n.</span> | 特里贝克地区 |
-| **Tunisia** <span class="wpos">n.</span> | 突尼斯 |
-| **tunnels** <span class="wpos">n.</span> | 隧道；地下道；洞群; 凿隧道；建筑隧道 |
-| **Uruguay** <span class="wpos">n.</span> | 乌拉圭 |
-| **Vermont** <span class="wpos">n.</span> | 佛蒙特州 |
-| **Yangtze** <span class="wpos">n.</span> | 长江，扬子江 |
-| **Yucatan** | 尤卡坦半岛 |
-| **Adriatic** <span class="wpos">adj.</span> | 亚得里亚海的；亚得里亚海沿岸居民的 |
-| **Arkansas** <span class="wpos">n.</span> | 阿肯色州 |
-| **Athenian** <span class="wpos">n.</span> | 雅典人; 雅典的；雅典人的；雅典文化的 |
-| **Atlantic** <span class="wpos">adj.</span> | 在大西洋里的；近大西洋的; 大西洋 |
-| **Berkeley** | 伯克利 |
-| **Calcutta** <span class="wpos">n.</span> | 加尔各答,印度东北部的港市 |
-| **corridor** <span class="wpos">n.</span> | 走廊 |
-| **Delaware** <span class="wpos">n.</span> | 特拉华州 |
-| **elevator** <span class="wpos">n.</span> | 电梯；升降舵；升降机；起卸机 |
-| **Emirates** <span class="wpos">n.</span> | 阿联酋航空公司 |
-:::
-:::
-::::
+The same layering appears wherever you travel. In [Calcutta]{.vocab tabindex="0" data-def="Calcutta · n. 加尔各答,印度东北部的港市"}, in [Myanmar]{.vocab tabindex="0" data-def="Myanmar 缅甸"}, on the [Yucatan]{.vocab tabindex="0" data-def="Yucatan 尤卡坦半岛"} coast, along the shores of [Tunisia]{.vocab tabindex="0" data-def="Tunisia · n. 突尼斯"} and [Liberia]{.vocab tabindex="0" data-def="Liberia · n. 利比里亚"}, across the plains of [Uruguay]{.vocab tabindex="0" data-def="Uruguay · n. 乌拉圭"} and the forested hills of [Vermont]{.vocab tabindex="0" data-def="Vermont · n. 佛蒙特州"} and [Arkansas]{.vocab tabindex="0" data-def="Arkansas · n. 阿肯色州"}, in the university towns of [Berkeley]{.vocab tabindex="0" data-def="Berkeley 伯克利"} and the corporate towers of the [Emirates]{.vocab tabindex="0" data-def="Emirates · n. 阿联酋航空公司"} — buildings absorb the climate and the culture that raised them. A simple [shelter]{.vocab tabindex="0" data-def="shelter · n. 避难所；遮盖物；庇护; 使掩蔽；保护; 躲避，避难"} in [Oceania]{.vocab tabindex="0" data-def="Oceania · n. 大洋洲"} and a glass tower in [Delaware]{.vocab tabindex="0" data-def="Delaware · n. 特拉华州"} are, at root, the same impulse: stake a place, keep the elements out, make room for living.
 
 ### Wandering from the Baltic to the Tropics
 
-:::: {.columns}
-::: {.column width="57%"}
-The journey began in **Tallinn**, where everything felt unmistakably **Estonian** — amber-lit cobblestones, medieval spires, and a courtyard **pavilion** that had somehow survived every **Prussian** incursion and **Flanders**-style trade war the centuries could throw at it. Standing at the **junction** of the old town and the harbour, I traced the city's **interior** lanes by the glow of each **lamppost**, their halos dissolving into the fog rolling off the **maritime** Baltic. A sleek **monorail** ran silently overhead, threading between copper rooftops — an incongruous modernism in a city that felt frozen in amber.
+The journey began in **Tallinn**, where everything felt unmistakably [Estonian]{.vocab tabindex="0" data-def="Estonian · adj. 爱沙尼亚的; 爱沙尼亚人,爱沙尼亚语"} — amber-lit cobblestones, medieval spires, and a courtyard [pavilion]{.vocab tabindex="0" data-def="pavilion · n. 大帐篷；阁；亭子；展示馆; 搭帐篷；置…于亭中；笼罩"} that had somehow survived every [Prussian]{.vocab tabindex="0" data-def="Prussian · adj. 普鲁士的; 普鲁士人"} incursion and [Flanders]{.vocab tabindex="0" data-def="Flanders · n. 佛兰德斯"}-style trade war the centuries could throw at it. Standing at the [junction]{.vocab tabindex="0" data-def="junction · n. 连接，接合；交叉点；接合点"} of the old town and the harbour, I traced the city's [interior]{.vocab tabindex="0" data-def="interior · n. 内部; 内地; 内部的; 内地的, 国内的"} lanes by the glow of each [lamppost]{.vocab tabindex="0" data-def="lamppost · n. 街灯柱；路灯柱"}, their halos dissolving into the fog rolling off the [maritime]{.vocab tabindex="0" data-def="maritime · adj. 海的; 航海的"} Baltic. A sleek [monorail]{.vocab tabindex="0" data-def="monorail · n. 单轨; 单轨索道"} ran silently overhead, threading between copper rooftops — an incongruous modernism in a city that felt frozen in amber.
 
-From there the itinerary leapt across **landmass**es with the logic only long-haul flights possess. **Montreal** in autumn, where the **Northern** light turns every stone building sepia by four o'clock. A detour through **Portland** and on to **Oklahoma** and **Nebraska**, state signs blurring across flat **plateaus** that seemed to go on longer than Paraguay itself — though **Paraguay**, too, appeared later on the map, wedged between rivers I had to look up. Somewhere in a **Pasadena** side street I found a small **monument** to the city's citrus-boom past, the kind of **premises** that doubles as a heritage site and a gift shop. In **Portugal** the same impulse manifests as **obelisks** placed at the centre of every provincial square, pointing at a sky equally indifferent to glory and to rain.
+From there the itinerary leapt across [landmass]{.vocab tabindex="0" data-def="landmass · n. 大陆"}es with the logic only long-haul flights possess. [Montreal]{.vocab tabindex="0" data-def="Montreal · n. 蒙特利尔"} in autumn, where the [Northern]{.vocab tabindex="0" data-def="Northern · adj. 北方的；北部的; 北部方言 northernadj. 北方的, 北部的"} light turns every stone building sepia by four o'clock. A detour through [Portland]{.vocab tabindex="0" data-def="Portland · n. 波特兰"} and on to [Oklahoma]{.vocab tabindex="0" data-def="Oklahoma · n. 美国俄克拉荷马州"} and [Nebraska]{.vocab tabindex="0" data-def="Nebraska · n. 内布拉斯加州"}, state signs blurring across flat [plateaus]{.vocab tabindex="0" data-def="plateaus · n. 高原；台地；停滞时期"} that seemed to go on longer than Paraguay itself — though [Paraguay]{.vocab tabindex="0" data-def="Paraguay · n. 巴拉圭,巴拉圭茶"}, too, appeared later on the map, wedged between rivers I had to look up. Somewhere in a [Pasadena]{.vocab tabindex="0" data-def="Pasadena · n. 帕萨迪纳市 ）"} side street I found a small [monument]{.vocab tabindex="0" data-def="monument · n. 纪念碑；历史遗迹；不朽的作品; 为…树碑"} to the city's citrus-boom past, the kind of [premises]{.vocab tabindex="0" data-def="premises · n. 房屋或其他建筑物; 前言，契据的缘起部分; 提出…为前提；预述"} that doubles as a heritage site and a gift shop. In [Portugal]{.vocab tabindex="0" data-def="Portugal · n. 葡萄牙"} the same impulse manifests as [obelisks]{.vocab tabindex="0" data-def="obelisks · n. 方尖碑"} placed at the centre of every provincial square, pointing at a sky equally indifferent to glory and to rain.
 
-The second half of the trip belonged to heat. In **Lebanon** — or rather in the **Lebanese** hill towns above Beirut — the roads narrowed to threads along the ridgeline, and the **panorama** at dusk stretched all the way to Cyprus. Flying south over the horn of Africa, we passed above **Ethiopia** and banked toward **Ndjamena**, **Chad**'s capital, before continuing to the coast. The **Maldives** leg was pure contrast: every structure raised on sand and coral, no **lavatory** more than a few metres from the sea, the entire **maritime** logic of the islands expressed in the way buildings turned their backs to the noon sun and opened toward the lagoon. I thought of the **Manitoba** lakes I'd seen months before — cold, grey, enormous — and of **Pakistan**'s mountain roads, where hairpin bends unfolded into fresh **panorama**s every hundred metres. Geography, I decided, is just the slow **interior** monologue of the planet, and travel is the only way to listen.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Estonian** <span class="wpos">adj.</span> | 爱沙尼亚的; 爱沙尼亚人,爱沙尼亚语 |
-| **Ethiopia** <span class="wpos">n.</span> | 埃塞俄比亚 |
-| **Flanders** <span class="wpos">n.</span> | 佛兰德斯 |
-| **interior** <span class="wpos">n.</span> | 内部; 内地; 内部的; 内地的, 国内的 |
-| **junction** <span class="wpos">n.</span> | 连接，接合；交叉点；接合点 |
-| **lamppost** <span class="wpos">n.</span> | 街灯柱；路灯柱 |
-| **landmass** <span class="wpos">n.</span> | 大陆 |
-| **lavatory** <span class="wpos">n.</span> | 厕所，盥洗室 |
-| **Lebanese** <span class="wpos">adj.</span> | 黎巴嫩的; 黎巴嫩人 |
-| **Maldives** <span class="wpos">n.</span> | 马尔代夫 |
-| **Manitoba** <span class="wpos">n.</span> | 马尼托巴湖 |
-| **maritime** <span class="wpos">adj.</span> | 海的; 航海的 |
-| **monorail** <span class="wpos">n.</span> | 单轨; 单轨索道 |
-| **Montreal** <span class="wpos">n.</span> | 蒙特利尔 |
-| **monument** <span class="wpos">n.</span> | 纪念碑；历史遗迹；不朽的作品; 为…树碑 |
-| **Ndjamena** <span class="wpos">n.</span> | 恩贾梅纳 |
-| **Nebraska** <span class="wpos">n.</span> | 内布拉斯加州 |
-| **Northern** <span class="wpos">adj.</span> | 北方的；北部的; 北部方言 northernadj. 北方的, 北部的 |
-| **obelisks** <span class="wpos">n.</span> | 方尖碑 |
-| **Oklahoma** <span class="wpos">n.</span> | 美国俄克拉荷马州 |
-| **Pakistan** <span class="wpos">n.</span> | 巴基斯坦 |
-| **panorama** <span class="wpos">n.</span> | 全景，全貌；全景画；概论 |
-| **Paraguay** <span class="wpos">n.</span> | 巴拉圭,巴拉圭茶 |
-| **Pasadena** <span class="wpos">n.</span> | 帕萨迪纳市 ） |
-| **pavilion** <span class="wpos">n.</span> | 大帐篷；阁；亭子；展示馆; 搭帐篷；置…于亭中；笼罩 |
-| **plateaus** <span class="wpos">n.</span> | 高原；台地；停滞时期 |
-| **Portland** <span class="wpos">n.</span> | 波特兰 |
-| **Portugal** <span class="wpos">n.</span> | 葡萄牙 |
-| **premises** <span class="wpos">n.</span> | 房屋或其他建筑物; 前言，契据的缘起部分; 提出…为前提；预述 |
-| **Prussian** <span class="wpos">adj.</span> | 普鲁士的; 普鲁士人 |
-:::
-:::
-::::
+The second half of the trip belonged to heat. In **Lebanon** — or rather in the [Lebanese]{.vocab tabindex="0" data-def="Lebanese · adj. 黎巴嫩的; 黎巴嫩人"} hill towns above Beirut — the roads narrowed to threads along the ridgeline, and the [panorama]{.vocab tabindex="0" data-def="panorama · n. 全景，全貌；全景画；概论"} at dusk stretched all the way to Cyprus. Flying south over the horn of Africa, we passed above [Ethiopia]{.vocab tabindex="0" data-def="Ethiopia · n. 埃塞俄比亚"} and banked toward [Ndjamena]{.vocab tabindex="0" data-def="Ndjamena · n. 恩贾梅纳"}, **Chad**'s capital, before continuing to the coast. The [Maldives]{.vocab tabindex="0" data-def="Maldives · n. 马尔代夫"} leg was pure contrast: every structure raised on sand and coral, no [lavatory]{.vocab tabindex="0" data-def="lavatory · n. 厕所，盥洗室"} more than a few metres from the sea, the entire [maritime]{.vocab tabindex="0" data-def="maritime · adj. 海的; 航海的"} logic of the islands expressed in the way buildings turned their backs to the noon sun and opened toward the lagoon. I thought of the [Manitoba]{.vocab tabindex="0" data-def="Manitoba · n. 马尼托巴湖"} lakes I'd seen months before — cold, grey, enormous — and of [Pakistan]{.vocab tabindex="0" data-def="Pakistan · n. 巴基斯坦"}'s mountain roads, where hairpin bends unfolded into fresh [panorama]{.vocab tabindex="0" data-def="panorama · n. 全景，全貌；全景画；概论"}s every hundred metres. Geography, I decided, is just the slow [interior]{.vocab tabindex="0" data-def="interior · n. 内部; 内地; 内部的; 内地的, 国内的"} monologue of the planet, and travel is the only way to listen.
 
 ### A Long Day on the Road
 
-:::: {.columns}
-::: {.column width="57%"}
-The **itinerary** had looked manageable on paper: a morning **excursion** to the hilltop ruins, an afternoon drift along the broad **boulevard** that ribboned through the old quarter, and a quick stop at the **gymnasium** converted into a youth hostel near the **dormitory** district. But travel, as always, rewrote the plan.
+The [itinerary]{.vocab tabindex="0" data-def="itinerary · n. 旅程;行程"} had looked manageable on paper: a morning [excursion]{.vocab tabindex="0" data-def="excursion · n. 远足, 短途旅行"} to the hilltop ruins, an afternoon drift along the broad [boulevard]{.vocab tabindex="0" data-def="boulevard · n. 林荫大道; 要道，大街"} that ribboned through the old quarter, and a quick stop at the [gymnasium]{.vocab tabindex="0" data-def="gymnasium · n. 健身房, 体育馆"} converted into a youth hostel near the [dormitory]{.vocab tabindex="0" data-def="dormitory · n. 集体宿舍"} district. But travel, as always, rewrote the plan.
 
-We reached the site at midday. The ruins sat at a commanding **elevation**, their broken **colonnade** casting sharp shadows across a sun-bleached **courtyard**. In the **vicinity**, a row of **terraced** houses clung to the slope like a sentence written sideways. A rusted **downspout** rattled against one wall. Further down the path lay a small **graveyard**, its stones worn smooth, and below that, half-hidden by overgrowth, the entrance to the **catacombs** — narrow, cool, and oddly peaceful. Before we descended, someone found the **restroom** tucked behind the ticket booth, a mercy after four hours in the sun.
+We reached the site at midday. The ruins sat at a commanding [elevation]{.vocab tabindex="0" data-def="elevation · n. 提升, 提高, 晋级; 海拔; 正视图, 立体图"}, their broken [colonnade]{.vocab tabindex="0" data-def="colonnade · n. 石柱廊"} casting sharp shadows across a sun-bleached [courtyard]{.vocab tabindex="0" data-def="courtyard · n. 庭院, 院子"}. In the [vicinity]{.vocab tabindex="0" data-def="vicinity · n. 近, 接近, 密切; 附近, 邻近"}, a row of [terraced]{.vocab tabindex="0" data-def="terraced · adj. 台地的，阶地的；有平台的，有露台的"} houses clung to the slope like a sentence written sideways. A rusted [downspout]{.vocab tabindex="0" data-def="downspout · n. 〈美〉水落管"} rattled against one wall. Further down the path lay a small [graveyard]{.vocab tabindex="0" data-def="graveyard · n. 墓地，坟场; 垃圾场；废物堆积处；收容所"}, its stones worn smooth, and below that, half-hidden by overgrowth, the entrance to the [catacombs]{.vocab tabindex="0" data-def="catacombs · n. 地下墓穴,陵寝"} — narrow, cool, and oddly peaceful. Before we descended, someone found the [restroom]{.vocab tabindex="0" data-def="restroom · n. 公用厕所;盥洗室;卫生间"} tucked behind the ticket booth, a mercy after four hours in the sun.
 
-By evening we were far from plan. A mechanical delay had left the group **stranded** at a provincial junction, one bag short and one **stowaway** cat richer — the animal had slipped aboard the van outside a market in the lowlands. We scrolled through photos: the **bleachers** of an abandoned stadium in **Guatemala**, a **mausoleum** modeled on the one the word itself came from, a **houseboat** moored on a canal whose surface caught the last light perfectly. Tomorrow the **escalator** in the city-center station would carry us back up to the main concourse; tonight we spread maps on the floor of a café near the **Euphrates** bend and traced a slower route — through **Slovenia**, past the chalk cliffs of **Hampshire**, maybe even as far as **Milwaukee** or the granite face of **Rushmore**. Somewhere outside **Bethlehem** or **Suriname**, perhaps, we would find the **secluded** courtyard that every traveler is quietly looking for, the one that does not appear in any **Lexington** guidebook but reveals itself only to the **stranded** and the unhurried.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **restroom** <span class="wpos">n.</span> | 公用厕所;盥洗室;卫生间 |
-| **rushmore** <span class="wpos">n.</span> | 拉石茂山 |
-| **secluded** <span class="wpos">adj.</span> | 隐退的，隐居的；隐蔽的; 隔绝 |
-| **Slovenia** <span class="wpos">n.</span> | 斯洛文尼亚 |
-| **stowaway** <span class="wpos">n.</span> | 偷乘船〔飞机〕者 |
-| **stranded** <span class="wpos">adj.</span> | 搁浅的；陷于困境的；有…股的; 搁浅 |
-| **Suriname** <span class="wpos">n.</span> | 苏里南共和国 |
-| **terraced** <span class="wpos">adj.</span> | 台地的，阶地的；有平台的，有露台的 |
-| **vicinity** <span class="wpos">n.</span> | 近, 接近, 密切; 附近, 邻近 |
-| **Bethlehem** <span class="wpos">n.</span> | 伯利恒 |
-| **bleachers** <span class="wpos">n.</span> | 廉价座位；露天看台 |
-| **boulevard** <span class="wpos">n.</span> | 林荫大道; 要道，大街 |
-| **catacombs** <span class="wpos">n.</span> | 地下墓穴,陵寝 |
-| **colonnade** <span class="wpos">n.</span> | 石柱廊 |
-| **courtyard** <span class="wpos">n.</span> | 庭院, 院子 |
-| **dormitory** <span class="wpos">n.</span> | 集体宿舍 |
-| **downspout** <span class="wpos">n.</span> | 〈美〉水落管 |
-| **elevation** <span class="wpos">n.</span> | 提升, 提高, 晋级; 海拔; 正视图, 立体图 |
-| **escalator** <span class="wpos">n.</span> | 自动扶梯 |
-| **Euphrates** <span class="wpos">n.</span> | 幼发拉底河 |
-| **excursion** <span class="wpos">n.</span> | 远足, 短途旅行 |
-| **graveyard** <span class="wpos">n.</span> | 墓地，坟场; 垃圾场；废物堆积处；收容所 |
-| **Guatemala** <span class="wpos">n.</span> | 危地马拉,危地马拉人 |
-| **gymnasium** <span class="wpos">n.</span> | 健身房, 体育馆 |
-| **Hampshire** <span class="wpos">n.</span> | 汉普郡 |
-| **houseboat** <span class="wpos">n.</span> | 形如房子的船,游艇 |
-| **itinerary** <span class="wpos">n.</span> | 旅程;行程 |
-| **Lexington** | 列克星敦 |
-| **mausoleum** <span class="wpos">n.</span> | 陵墓 Mausoleum公元前四世纪波斯属地Caria 地方Mausolus 王的陵墓 |
-| **Milwaukee** | 密尔沃基 |
-:::
-:::
-::::
+By evening we were far from plan. A mechanical delay had left the group [stranded]{.vocab tabindex="0" data-def="stranded · adj. 搁浅的；陷于困境的；有…股的; 搁浅"} at a provincial junction, one bag short and one [stowaway]{.vocab tabindex="0" data-def="stowaway · n. 偷乘船〔飞机〕者"} cat richer — the animal had slipped aboard the van outside a market in the lowlands. We scrolled through photos: the [bleachers]{.vocab tabindex="0" data-def="bleachers · n. 廉价座位；露天看台"} of an abandoned stadium in [Guatemala]{.vocab tabindex="0" data-def="Guatemala · n. 危地马拉,危地马拉人"}, a [mausoleum]{.vocab tabindex="0" data-def="mausoleum · n. 陵墓 Mausoleum公元前四世纪波斯属地Caria 地方Mausolus 王的陵墓"} modeled on the one the word itself came from, a [houseboat]{.vocab tabindex="0" data-def="houseboat · n. 形如房子的船,游艇"} moored on a canal whose surface caught the last light perfectly. Tomorrow the [escalator]{.vocab tabindex="0" data-def="escalator · n. 自动扶梯"} in the city-center station would carry us back up to the main concourse; tonight we spread maps on the floor of a café near the [Euphrates]{.vocab tabindex="0" data-def="Euphrates · n. 幼发拉底河"} bend and traced a slower route — through [Slovenia]{.vocab tabindex="0" data-def="Slovenia · n. 斯洛文尼亚"}, past the chalk cliffs of [Hampshire]{.vocab tabindex="0" data-def="Hampshire · n. 汉普郡"}, maybe even as far as [Milwaukee]{.vocab tabindex="0" data-def="Milwaukee 密尔沃基"} or the granite face of [Rushmore]{.vocab tabindex="0" data-def="rushmore · n. 拉石茂山"}. Somewhere outside [Bethlehem]{.vocab tabindex="0" data-def="Bethlehem · n. 伯利恒"} or [Suriname]{.vocab tabindex="0" data-def="Suriname · n. 苏里南共和国"}, perhaps, we would find the [secluded]{.vocab tabindex="0" data-def="secluded · adj. 隐退的，隐居的；隐蔽的; 隔绝"} courtyard that every traveler is quietly looking for, the one that does not appear in any [Lexington]{.vocab tabindex="0" data-def="Lexington 列克星敦"} guidebook but reveals itself only to the [stranded]{.vocab tabindex="0" data-def="stranded · adj. 搁浅的；陷于困境的；有…股的; 搁浅"} and the unhurried.
 
 ### A Journey Without a Fixed Map
 
-:::: {.columns}
-::: {.column width="57%"}
-The old harbor town had long **territory** no official chart had ever captured — its alleys were frankly **uncharted**, and the **stairwell** of the fifteenth-century watchtower still bore the faint geometric reliefs that any **Babylonian** mason would have recognized as kin to the ziggurats of the Euphrates plain. A rusted **turnstile** at the tower's base was the only concession to modernity, clicking reluctantly each time a visitor passed.
+The old harbor town had long [territory]{.vocab tabindex="0" data-def="territory · n. 领土, 版图; 管区, 营业地区; 地盘, 领域, 范围"} no official chart had ever captured — its alleys were frankly [uncharted]{.vocab tabindex="0" data-def="uncharted · adj. 未知的;图上未标明的"}, and the [stairwell]{.vocab tabindex="0" data-def="stairwell · n. 楼梯井"} of the fifteenth-century watchtower still bore the faint geometric reliefs that any [Babylonian]{.vocab tabindex="0" data-def="Babylonian · n. 巴比伦居民；巴比伦城；巴比伦王国; 巴比伦的，与巴比伦有关的"} mason would have recognized as kin to the ziggurats of the Euphrates plain. A rusted [turnstile]{.vocab tabindex="0" data-def="turnstile · n. 旋转式栅门;旋杆"} at the tower's base was the only concession to modernity, clicking reluctantly each time a visitor passed.
 
-Further east, the **expedition** pushed into **subarctic** highlands where the air tasted of iron and snow. The research team — a **Lithuanian** geologist, two **Portuguese** cartographers, and a guide born to the **indigenous** community of the plateau — had spent weeks tracking the **whereabout** of a lost monastic complex. The **castellated** walls they finally found stood at a remarkable **elevation**, commanding a view of the entire **archipelago** that spread below like shards of green glass in grey water. A **provincial** museum back in the capital had once catalogued the site, but the records were lost during a period of mass **emigration**: whole families forced to **repatriate** to coastal cities, leaving the highlands emptied.
+Further east, the [expedition]{.vocab tabindex="0" data-def="expedition · n. 远征；探险；考察; 迅速，动作敏捷"} pushed into [subarctic]{.vocab tabindex="0" data-def="subarctic · adj. 亚北极区的"} highlands where the air tasted of iron and snow. The research team — a [Lithuanian]{.vocab tabindex="0" data-def="Lithuanian · n. 立陶宛人; 立陶宛的,立陶宛人的,立陶宛语的"} geologist, two [Portuguese]{.vocab tabindex="0" data-def="Portuguese · n. 葡萄牙人,葡萄牙语; 葡萄牙的,葡萄牙人的,葡语的"} cartographers, and a guide born to the [indigenous]{.vocab tabindex="0" data-def="indigenous · adj. 土生土长的; 生来的, 固有的"} community of the plateau — had spent weeks tracking the [whereabout]{.vocab tabindex="0" data-def="whereabout · n. 下落,行踪,所在之处; 在何处"} of a lost monastic complex. The [castellated]{.vocab tabindex="0" data-def="castellated · adj. 造成城形的,构造如城的,有城的"} walls they finally found stood at a remarkable [elevation]{.vocab tabindex="0" data-def="elevation."}, commanding a view of the entire [archipelago]{.vocab tabindex="0" data-def="archipelago · n. 群岛,列岛; 多岛屿的海"} that spread below like shards of green glass in grey water. A [provincial]{.vocab tabindex="0" data-def="provincial · adj. 大行政区的;省的; 褊狭的;守旧的;迂腐的; 首都以外的人;地区居民; 外省地;地方地"} museum back in the capital had once catalogued the site, but the records were lost during a period of mass [emigration]{.vocab tabindex="0" data-def="emigration · n. 移居外国；迁移出境; 移民"}: whole families forced to [repatriate]{.vocab tabindex="0" data-def="repatriate · vt. 把遣送回国, 遣返"} to coastal cities, leaving the highlands emptied.
 
-In the lowlands, the contrasts grew sharper. **Mogadishu**'s rebuilt seafront, **Singapore**'s layered transit halls, the worn boulevard of **Louisville** beside the Ohio, the campus sprawl of **Chapel Hill**, a cattle **squattage** outside a **Tennessee** valley town, the oil-stained suburbs of **Venezuela** — each place carried its own logic of **occupancy**, its own answer to the question of who belonged and who was merely passing through. In a sleek **Bangladesh** guesthouse, the kitchen's **backsplash** was tiled with a mosaic of the **Tyrrhenian** coastline — someone's homesick tribute to a sea they would never reach again. On the top floor a faded poster advertised charter flights to **Kyrgyzstan**, destination of the latest wave of **venezuelan** expats chasing work across a world whose borders the old maps of **Singapore**'s colonial era had never imagined.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Mogadishu** | 摩加迪沙 |
-| **occupancy** <span class="wpos">n.</span> | 占有, 使用, 居住; 占有期, 占用期 |
-| **Singapore** <span class="wpos">n.</span> | 新加坡 |
-| **squattage** <span class="wpos">n.</span> | 〈澳〉牧羊场主占有的财产 |
-| **stairwell** <span class="wpos">n.</span> | 楼梯井 |
-| **subarctic** <span class="wpos">adj.</span> | 亚北极区的 |
-| **Tennessee** <span class="wpos">n.</span> | 田纳西州 |
-| **territory** <span class="wpos">n.</span> | 领土, 版图; 管区, 营业地区; 地盘, 领域, 范围 |
-| **turnstile** <span class="wpos">n.</span> | 旋转式栅门;旋杆 |
-| **uncharted** <span class="wpos">adj.</span> | 未知的;图上未标明的 |
-| **Venezuela** <span class="wpos">n.</span> | 委内瑞拉 |
-| **Babylonian** <span class="wpos">n.</span> | 巴比伦居民；巴比伦城；巴比伦王国; 巴比伦的，与巴比伦有关的 |
-| **backsplash** | 后挡板,后防溅板 |
-| **Bangladesh** <span class="wpos">n.</span> | 孟加拉国 |
-| **elevation.** |  |
-| **emigration** <span class="wpos">n.</span> | 移居外国；迁移出境; 移民 |
-| **expedition** <span class="wpos">n.</span> | 远征；探险；考察; 迅速，动作敏捷 |
-| **indigenous** <span class="wpos">adj.</span> | 土生土长的; 生来的, 固有的 |
-| **Kyrgyzstan** | 吉尔吉斯斯坦，亚洲南部的一个国家，前苏联的一部分 |
-| **Lithuanian** <span class="wpos">n.</span> | 立陶宛人; 立陶宛的,立陶宛人的,立陶宛语的 |
-| **Louisville** <span class="wpos">n.</span> | 路易斯维尔 |
-| **Portuguese** <span class="wpos">n.</span> | 葡萄牙人,葡萄牙语; 葡萄牙的,葡萄牙人的,葡语的 |
-| **provincial** <span class="wpos">adj.</span> | 大行政区的;省的; 褊狭的;守旧的;迂腐的; 首都以外的人;地区居民; 外省地;地方地 |
-| **repatriate** <span class="wpos">vt.</span> | 把遣送回国, 遣返 |
-| **Tyrrhenian** <span class="wpos">adj.</span> | 伊特鲁里亚的,伊特鲁里亚人的; 伊特鲁里亚人 |
-| **venezuelan** <span class="wpos">n.</span> | 白珍珠 Venezuelann. 委内瑞拉人; 委内瑞拉的,委内瑞拉人的 |
-| **whereabout** <span class="wpos">n.</span> | 下落,行踪,所在之处; 在何处 |
-| **archipelago** <span class="wpos">n.</span> | 群岛,列岛; 多岛屿的海 |
-| **castellated** <span class="wpos">adj.</span> | 造成城形的,构造如城的,有城的 |
-| **Chapel Hill** | 教堂山 |
-:::
-:::
-::::
+In the lowlands, the contrasts grew sharper. [Mogadishu]{.vocab tabindex="0" data-def="Mogadishu 摩加迪沙"}'s rebuilt seafront, [Singapore]{.vocab tabindex="0" data-def="Singapore · n. 新加坡"}'s layered transit halls, the worn boulevard of [Louisville]{.vocab tabindex="0" data-def="Louisville · n. 路易斯维尔"} beside the Ohio, the campus sprawl of [Chapel Hill]{.vocab tabindex="0" data-def="Chapel Hill 教堂山"}, a cattle [squattage]{.vocab tabindex="0" data-def="squattage · n. 〈澳〉牧羊场主占有的财产"} outside a [Tennessee]{.vocab tabindex="0" data-def="Tennessee · n. 田纳西州"} valley town, the oil-stained suburbs of [Venezuela]{.vocab tabindex="0" data-def="Venezuela · n. 委内瑞拉"} — each place carried its own logic of [occupancy]{.vocab tabindex="0" data-def="occupancy · n. 占有, 使用, 居住; 占有期, 占用期"}, its own answer to the question of who belonged and who was merely passing through. In a sleek [Bangladesh]{.vocab tabindex="0" data-def="Bangladesh · n. 孟加拉国"} guesthouse, the kitchen's [backsplash]{.vocab tabindex="0" data-def="backsplash 后挡板,后防溅板"} was tiled with a mosaic of the [Tyrrhenian]{.vocab tabindex="0" data-def="Tyrrhenian · adj. 伊特鲁里亚的,伊特鲁里亚人的; 伊特鲁里亚人"} coastline — someone's homesick tribute to a sea they would never reach again. On the top floor a faded poster advertised charter flights to [Kyrgyzstan]{.vocab tabindex="0" data-def="Kyrgyzstan 吉尔吉斯斯坦，亚洲南部的一个国家，前苏联的一部分"}, destination of the latest wave of [venezuelan]{.vocab tabindex="0" data-def="venezuelan · n. 白珍珠 Venezuelann. 委内瑞拉人; 委内瑞拉的,委内瑞拉人的"} expats chasing work across a world whose borders the old maps of [Singapore]{.vocab tabindex="0" data-def="Singapore · n. 新加坡"}'s colonial era had never imagined.
 
 ### Layovers, Lobbies, and Lost Luggage
 
-:::: {.columns}
-::: {.column width="57%"}
-The old train car had been divided into a single **compartment** for families, its **window-pane** fogged with the breath of restless children. A printed map on the wall traced the route **in all directions** — east toward the coast, west into the plains — with **demarcation** lines showing which regions fell under separate rail authorities. It felt, somehow, like standing at the edge of **Mesopotamia**: ancient, unhurried, and very far from home.
+The old train car had been divided into a single [compartment]{.vocab tabindex="0" data-def="compartment · n. 间隔, 隔间"} for families, its [window-pane]{.vocab tabindex="0" data-def="window-pane · n. 窗玻璃"} fogged with the breath of restless children. A printed map on the wall traced the route [in all directions]{.vocab tabindex="0" data-def="in all directions 四面八方；向各方面；全面地"} — east toward the coast, west into the plains — with [demarcation]{.vocab tabindex="0" data-def="demarcation · n. 划界,立界; 分工"} lines showing which regions fell under separate rail authorities. It felt, somehow, like standing at the edge of [Mesopotamia]{.vocab tabindex="0" data-def="Mesopotamia · n. 美索不达米亚"}: ancient, unhurried, and very far from home.
 
-After a connecting flight via the **Philippines**, the terminal at **Tallahassee** looked almost sleepy by comparison. The **baggage claim** carousel turned in slow circles, depositing suitcases onto the belt with a mechanical patience that matched the afternoon heat outside. A fellow traveler, returning to a **condominium** near the water, said she had done this same loop — **Massachusetts** to Florida and back — every winter for a decade. She had also lived briefly in **Connecticut** and, before that, a rental in **Pennsylvania** that she remembered mainly for its drafty halls and a beautiful **mantelpiece** above a fireplace nobody ever lit.
+After a connecting flight via the [Philippines]{.vocab tabindex="0" data-def="Philippines · n. 菲律宾"}, the terminal at [Tallahassee]{.vocab tabindex="0" data-def="Tallahassee · n. 塔拉哈西"} looked almost sleepy by comparison. The [baggage claim]{.vocab tabindex="0" data-def="baggage claim 行李认领；领取行李；取行李处"} carousel turned in slow circles, depositing suitcases onto the belt with a mechanical patience that matched the afternoon heat outside. A fellow traveler, returning to a [condominium]{.vocab tabindex="0" data-def="condominium · n. 共管的国家; 公寓"} near the water, said she had done this same loop — [Massachusetts]{.vocab tabindex="0" data-def="Massachusetts · n. 马萨诸塞州"} to Florida and back — every winter for a decade. She had also lived briefly in [Connecticut]{.vocab tabindex="0" data-def="Connecticut · n. 康涅狄格州"} and, before that, a rental in [Pennsylvania]{.vocab tabindex="0" data-def="Pennsylvania · n. 宾夕法尼亚州"} that she remembered mainly for its drafty halls and a beautiful [mantelpiece]{.vocab tabindex="0" data-def="mantelpiece · n. 壁炉台"} above a fireplace nobody ever lit.
 
-The lobby of the heritage hotel carried traces of older architectures: the clay plaster typical of **Mesoamerica**, the carved wooden headers you find across **Saskatchewan**, even a small brass plaque noting that the original owners had held diplomatic ties with **Saudi Arabia**. In one corner, a framed print showed **Montgomeryshire** in autumn, its hills impossibly green. Nobody seemed to know why it was there. Nobody asked. Travelers rarely do — they arrive, they look, they leave, scattering **in all directions** again before the place has a chance to explain itself.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **compartment** <span class="wpos">n.</span> | 间隔, 隔间 |
-| **condominium** <span class="wpos">n.</span> | 共管的国家; 公寓 |
-| **Connecticut** <span class="wpos">n.</span> | 康涅狄格州 |
-| **demarcation** <span class="wpos">n.</span> | 划界,立界; 分工 |
-| **mantelpiece** <span class="wpos">n.</span> | 壁炉台 |
-| **Mesoamerica** | 中亚美利加洲,中美洲 |
-| **Mesopotamia** <span class="wpos">n.</span> | 美索不达米亚 |
-| **Philippines** <span class="wpos">n.</span> | 菲律宾 |
-| **Tallahassee** <span class="wpos">n.</span> | 塔拉哈西 |
-| **window-pane** <span class="wpos">n.</span> | 窗玻璃 |
-| **Pennsylvania** <span class="wpos">n.</span> | 宾夕法尼亚州 |
-| **Saskatchewan** <span class="wpos">n.</span> | 萨斯喀彻温省 |
-| **Saudi Arabia** <span class="wpos">n.</span> | 沙特阿拉伯 |
-| **baggage claim** | 行李认领；领取行李；取行李处 |
-| **Massachusetts** <span class="wpos">n.</span> | 马萨诸塞州 |
-| **Montgomeryshire** | 蒙哥马利郡 |
-| **in all directions** | 四面八方；向各方面；全面地 |
-:::
-:::
-::::
+The lobby of the heritage hotel carried traces of older architectures: the clay plaster typical of [Mesoamerica]{.vocab tabindex="0" data-def="Mesoamerica 中亚美利加洲,中美洲"}, the carved wooden headers you find across [Saskatchewan]{.vocab tabindex="0" data-def="Saskatchewan · n. 萨斯喀彻温省"}, even a small brass plaque noting that the original owners had held diplomatic ties with [Saudi Arabia]{.vocab tabindex="0" data-def="Saudi Arabia · n. 沙特阿拉伯"}. In one corner, a framed print showed [Montgomeryshire]{.vocab tabindex="0" data-def="Montgomeryshire 蒙哥马利郡"} in autumn, its hills impossibly green. Nobody seemed to know why it was there. Nobody asked. Travelers rarely do — they arrive, they look, they leave, scattering [in all directions]{.vocab tabindex="0" data-def="in all directions 四面八方；向各方面；全面地"} again before the place has a chance to explain itself.

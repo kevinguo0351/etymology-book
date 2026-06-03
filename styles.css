@@ -113,20 +113,45 @@ table code, .breakdown {
 /* 阅读区行宽与留白 */
 main p, main li { max-width: 70ch; }
 
-/* 旧词复习：右栏常驻生词框 */
-.wordbox {
-  font-size: 0.84rem;
-  background: var(--accent-soft);
-  border: 1px solid var(--rule);
-  border-radius: 0.5rem;
-  padding: 0.3rem 0.7rem 0.5rem;
-  position: sticky;
-  top: 1rem;
+/* 旧词复习：加粗词悬停弹释义 */
+.vocab {
+  font-weight: 600;
+  color: var(--accent);
+  border-bottom: 1px dashed var(--accent);
+  cursor: help;
+  position: relative;
+  outline: none;
 }
-.wordbox table { font-size: 0.84rem; margin: 0; width: 100%; }
-.wordbox td { padding: 0.18rem 0.35rem; vertical-align: top; line-height: 1.35; }
-.wordbox thead { display: none; }
-.wordbox strong { color: var(--accent); font-weight: 700; }
-.wpos { color: var(--text-soft); font-size: 0.72rem; }
-/* 两栏内短文不受 70ch 限制，铺满左栏 */
-.columns .column p, .columns .column li { max-width: none; }
+.vocab:hover, .vocab:focus { background: var(--accent-soft); border-radius: 2px; }
+.vocab:hover::after, .vocab:focus::after {
+  content: attr(data-def);
+  position: absolute;
+  left: 50%;
+  bottom: 150%;
+  transform: translateX(-50%);
+  background: #232020;
+  color: #fff;
+  padding: 0.5rem 0.7rem;
+  border-radius: 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 400;
+  line-height: 1.45;
+  white-space: normal;
+  width: max-content;
+  max-width: min(300px, 80vw);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.28);
+  z-index: 30;
+  pointer-events: none;
+}
+.vocab:hover::before, .vocab:focus::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 150%;
+  transform: translateX(-50%) translateY(60%) rotate(45deg);
+  width: 9px;
+  height: 9px;
+  background: #232020;
+  z-index: 30;
+  pointer-events: none;
+}

@@ -2,676 +2,152 @@
 
 
 
-> 本主题共 13 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 13 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### 忙乱一日，情绪潮起潮落
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning began without much **ado**: she made tea, wrapped herself in a **cozy** blanket, and tried to read. Yet a **gnawing** sense of unease had already taken hold. She couldn't quite name it — a low **funk**, a quiet **hyp** that pressed behind her eyes and refused to lift. She kept **fret**ting over the meeting she'd missed, the email she'd bungled, the small defeats that piled up like stones. That **edgy** feeling was familiar. So was the **doom** — the dim, wordless conviction that things were quietly, inevitably going wrong.
+The morning began without much [ado]{.vocab tabindex="0" data-def="ado · n. 无谓的忙乱, 无谓的纷扰,费力, 艰难; 毫不耽搁地；干脆地；立即"}: she made tea, wrapped herself in a [cozy]{.vocab tabindex="0" data-def="cozy · adj. 舒适的，惬意的"} blanket, and tried to read. Yet a [gnawing]{.vocab tabindex="0" data-def="gnawing · adj. 令人痛苦的；折磨人的; 咬；不断的苦痛; 咬；侵蚀"} sense of unease had already taken hold. She couldn't quite name it — a low [funk]{.vocab tabindex="0" data-def="funk · n. 恐惧；怯懦；恐怖；臭味; 害怕；畏缩；使闻到臭味; 畏缩；惊恐；发出臭味 Funk芬克"}, a quiet [hyp]{.vocab tabindex="0" data-def="hyp · n. 〈废〉忧郁,疑病; 使忧郁"} that pressed behind her eyes and refused to lift. She kept [fret]{.vocab tabindex="0" data-def="fret · vt. 焦急；使磨损；使烦恼; 磨损；烦恼；焦急; 烦躁；焦急；磨损"}ting over the meeting she'd missed, the email she'd bungled, the small defeats that piled up like stones. That [edgy]{.vocab tabindex="0" data-def="edgy · adj. 不安的, 易激怒的"} feeling was familiar. So was the [doom]{.vocab tabindex="0" data-def="doom · vt. 注定；判定; 厄运，劫数"} — the dim, wordless conviction that things were quietly, inevitably going wrong.
 
-By noon the **turmoil** had peaked. A colleague's offhand remark sent a flash of **fury** through her chest, hot and sudden as a slammed door. She didn't say anything — just let the **rage** bloom and then, with effort, begin to cool. She **damn**ed herself silently for caring so much. The **thwarted** ambition, the **envy** she'd tried to bury — it was all still there, patient and sharp. She felt a **jag** of something rawer: not quite grief, just the exhaustion of wanting. And beneath that, a **moan** no one heard, a slow leak of weariness she couldn't patch.
+By noon the [turmoil]{.vocab tabindex="0" data-def="turmoil · n. 混乱"} had peaked. A colleague's offhand remark sent a flash of [fury]{.vocab tabindex="0" data-def="fury · n. 狂怒；暴怒；激怒者 Furyn. 〈希神〉复仇女神"} through her chest, hot and sudden as a slammed door. She didn't say anything — just let the [rage]{.vocab tabindex="0" data-def="rage · n. 愤怒；狂暴，肆虐；情绪激动; 大怒，发怒；流行，风行"} bloom and then, with effort, begin to cool. She [damn]{.vocab tabindex="0" data-def="damn · vt. 谴责；罚…下地狱; 谴责; 诅咒；一点; 可恶的; 非常; 讨厌"}ed herself silently for caring so much. The [thwarted]{.vocab tabindex="0" data-def="thwarted · adj. 挫败的; 反对；挫败"} ambition, the [envy]{.vocab tabindex="0" data-def="envy · n. 羡慕；嫉妒，妒忌; 羡慕；嫉妒，妒忌; 感到妒忌；显示出妒忌"} she'd tried to bury — it was all still there, patient and sharp. She felt a [jag]{.vocab tabindex="0" data-def="jag · n. 难以控制的一阵"} of something rawer: not quite grief, just the exhaustion of wanting. And beneath that, a [moan]{.vocab tabindex="0" data-def="moan · vt. &amp; 呻吟；悲叹; 抱怨; 呻吟声悲叹声；呼啸声; 抱怨"} no one heard, a slow leak of weariness she couldn't patch.
 
-Late afternoon light changed things. A friend texted something absurd, and she felt a **glee** so sudden it startled her — a **grin** spreading before she could stop it. She noticed her posture **perk** up, her shoulders drop. The day's weight hadn't vanished, but it had shifted. She stepped outside. The cold air began to **soothe** the last heat from her temples. She **pooh**-poohed the morning's catastrophising, told herself not to **fuss**, reached for whatever **vim** remained, and found — surprising herself — just enough to **cope**. She let the lingering **irk** and **ick**y residue of the afternoon **ease** away. Even the **lure** of lying down and catastrophising all over again lost its pull. She looked at the sky — grey, **grim**, but honest — and decided, for now, that was enough. What the **heck**.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **soothe** <span class="wpos">vt.</span> | 安慰；使平静；缓和; 起抚慰作用 |
-| **thwarted** <span class="wpos">adj.</span> | 挫败的; 反对；挫败 |
-| **turmoil** <span class="wpos">n.</span> | 混乱 |
-| **gnawing** <span class="wpos">adj.</span> | 令人痛苦的；折磨人的; 咬；不断的苦痛; 咬；侵蚀 |
-| **ado** <span class="wpos">n.</span> | 无谓的忙乱, 无谓的纷扰,费力, 艰难; 毫不耽搁地；干脆地；立即 |
-| **hyp** <span class="wpos">n.</span> | 〈废〉忧郁,疑病; 使忧郁 |
-| **irk** <span class="wpos">vt.</span> | 使烦恼；使厌倦 |
-| **jag** <span class="wpos">n.</span> | 难以控制的一阵 |
-| **vim** <span class="wpos">n.</span> | 精力；活力；力量 |
-| **cope** <span class="wpos">vi.</span> | 处理；对付；竞争 长袍 |
-| **cozy** <span class="wpos">adj.</span> | 舒适的，惬意的 |
-| **damn** <span class="wpos">vt.</span> | 谴责；罚…下地狱; 谴责; 诅咒；一点; 可恶的; 非常; 讨厌 |
-| **doom** <span class="wpos">vt.</span> | 注定；判定; 厄运，劫数 |
-| **ease** <span class="wpos">vt.</span> | 减轻，缓和；使安心; 安逸，悠闲；轻松，舒适; 减轻，缓和；放松；灵活地移动 EASEabbr. E… |
-| **edgy** <span class="wpos">adj.</span> | 不安的, 易激怒的 |
-| **envy** <span class="wpos">n.</span> | 羡慕；嫉妒，妒忌; 羡慕；嫉妒，妒忌; 感到妒忌；显示出妒忌 |
-| **fret** <span class="wpos">vt.</span> | 焦急；使磨损；使烦恼; 磨损；烦恼；焦急; 烦躁；焦急；磨损 |
-| **funk** <span class="wpos">n.</span> | 恐惧；怯懦；恐怖；臭味; 害怕；畏缩；使闻到臭味; 畏缩；惊恐；发出臭味 Funk芬克 |
-| **fury** <span class="wpos">n.</span> | 狂怒；暴怒；激怒者 Furyn. 〈希神〉复仇女神 |
-| **fuss** <span class="wpos">vi.</span> | 小题大作；忙乱；焦燥；焦急；无事自扰; 大惊小怪，大惊小怪的人；小题大作；忙乱; 使烦恼，使烦忧 |
-| **glee** <span class="wpos">n.</span> | 快乐；欢欣；重唱歌曲 |
-| **grim** <span class="wpos">adj.</span> | 严酷的, 无情的; 讨厌的, 糟糕的; 严厉的 |
-| **grin** <span class="wpos">v.</span> | 露齿而笑，咧着嘴笑; 露齿笑 |
-| **heck** <span class="wpos">int.</span> | &amp; ; 只是为了好玩; 那又怎么样 |
-| **icky** <span class="wpos">adj.</span> | 黏得讨厌的,过分甜的,讨厌的; 令人作呕的人 |
-| **lure** <span class="wpos">n.</span> | 诱惑物；诱惑；饵; 引诱；诱惑 |
-| **moan** <span class="wpos">vt.</span> | &amp; 呻吟；悲叹; 抱怨; 呻吟声悲叹声；呼啸声; 抱怨 |
-| **perk** <span class="wpos">vi.</span> | 昂首；振作; 打扮；竖起；使振作; 小费；额外收入 |
-| **pooh** <span class="wpos">vt.</span> | 使疲倦; 呸 |
-| **rage** <span class="wpos">n.</span> | 愤怒；狂暴，肆虐；情绪激动; 大怒，发怒；流行，风行 |
-:::
-:::
-::::
+Late afternoon light changed things. A friend texted something absurd, and she felt a [glee]{.vocab tabindex="0" data-def="glee · n. 快乐；欢欣；重唱歌曲"} so sudden it startled her — a [grin]{.vocab tabindex="0" data-def="grin · v. 露齿而笑，咧着嘴笑; 露齿笑"} spreading before she could stop it. She noticed her posture [perk]{.vocab tabindex="0" data-def="perk · vi. 昂首；振作; 打扮；竖起；使振作; 小费；额外收入"} up, her shoulders drop. The day's weight hadn't vanished, but it had shifted. She stepped outside. The cold air began to [soothe]{.vocab tabindex="0" data-def="soothe · vt. 安慰；使平静；缓和; 起抚慰作用"} the last heat from her temples. She [pooh]{.vocab tabindex="0" data-def="pooh · vt. 使疲倦; 呸"}-poohed the morning's catastrophising, told herself not to [fuss]{.vocab tabindex="0" data-def="fuss · vi. 小题大作；忙乱；焦燥；焦急；无事自扰; 大惊小怪，大惊小怪的人；小题大作；忙乱; 使烦恼，使烦忧"}, reached for whatever [vim]{.vocab tabindex="0" data-def="vim · n. 精力；活力；力量"} remained, and found — surprising herself — just enough to [cope]{.vocab tabindex="0" data-def="cope · vi. 处理；对付；竞争 长袍"}. She let the lingering [irk]{.vocab tabindex="0" data-def="irk · vt. 使烦恼；使厌倦"} and [ick]{.vocab tabindex="0" data-def="icky · adj. 黏得讨厌的,过分甜的,讨厌的; 令人作呕的人"}y residue of the afternoon [ease]{.vocab tabindex="0" data-def="ease · vt. 减轻，缓和；使安心; 安逸，悠闲；轻松，舒适; 减轻，缓和；放松；灵活地移动 EASEabbr. E…"} away. Even the [lure]{.vocab tabindex="0" data-def="lure · n. 诱惑物；诱惑；饵; 引诱；诱惑"} of lying down and catastrophising all over again lost its pull. She looked at the sky — grey, [grim]{.vocab tabindex="0" data-def="grim · adj. 严酷的, 无情的; 讨厌的, 糟糕的; 严厉的"}, but honest — and decided, for now, that was enough. What the [heck]{.vocab tabindex="0" data-def="heck · int. &amp; ; 只是为了好玩; 那又怎么样"}.
 
 ### When the Storm Inside Finally Breaks
 
-:::: {.columns}
-::: {.column width="57%"}
-She sat by the rain-streaked window, **rapt** in her own silence, the city's muffled hum doing nothing to **allay** the weight in her chest. It had been a week since the argument — one of those **pesky** misunderstandings that start small and then **haunt** every quiet moment. She knew she had let a passing **whim** of pride turn into something uglier. She had **sulked**, retreated, let the cold air between them thicken. A **dread** of being the first to reach out **daunted** her more than she expected.
+She sat by the rain-streaked window, [rapt]{.vocab tabindex="0" data-def="rapt · adj. 全神贯注的；入迷的"} in her own silence, the city's muffled hum doing nothing to [allay]{.vocab tabindex="0" data-def="allay · vt. 减轻；使缓和；使平静"} the weight in her chest. It had been a week since the argument — one of those [pesky]{.vocab tabindex="0" data-def="pesky · adj. 烦人的；让人讨厌的"} misunderstandings that start small and then [haunt]{.vocab tabindex="0" data-def="haunt · vt. 经常出没于; 缠绕, 萦绕; 某人常去的地方"} every quiet moment. She knew she had let a passing [whim]{.vocab tabindex="0" data-def="whim · n. 一时的兴致, 突然的念头, 突发奇想, 异想天开"} of pride turn into something uglier. She had [sulked]{.vocab tabindex="0" data-def="sulk · vi. 生气；愠怒; 生气；愠怒；生气的人"}, retreated, let the cold air between them thicken. A [dread]{.vocab tabindex="0" data-def="dread · n. 恐惧；可怕的人; 惧怕；担心; 惧怕；担心; 可怕的"} of being the first to reach out [daunted]{.vocab tabindex="0" data-def="daunt · vt. 使气馁，使畏缩；威吓"} her more than she expected.
 
-Yet underneath the stiffness lived something she couldn't deny: she still **craved** his presence the way she **coveted** ordinary evenings — takeout, bad television, the easy **vibe** of two people who simply fit. The memory of his **jolly** laugh, the **rosy** mornings when everything felt possible, filled her with a **bliss** she now feared was gone. She caught herself **gloating** a little over a text he'd sent last night — tentative, barely two lines — and hated herself for it. **Grief** over a relationship still breathing, she thought, was its own strange **mania**.
+Yet underneath the stiffness lived something she couldn't deny: she still [craved]{.vocab tabindex="0" data-def="crave · vt. 恳求；渴望; 渴望；恳求"} his presence the way she [coveted]{.vocab tabindex="0" data-def="covet · vt. 垂涎；觊觎; 垂涎；觊觎"} ordinary evenings — takeout, bad television, the easy [vibe]{.vocab tabindex="0" data-def="vibe · n. Ⅰ ①感应，共鸣②气氛，环境; Ⅱ 产生共鸣"} of two people who simply fit. The memory of his [jolly]{.vocab tabindex="0" data-def="jolly · adj. 愉快的；欢乐的；宜人的; 非常；很; 用好话劝某人做…；用好话使高兴; 开玩笑 Jolly耐火砖成型…"} laugh, the [rosy]{.vocab tabindex="0" data-def="rosy · adj. 玫瑰色的，肤色红润的; 乐观的; 愉快的；美好的; 一切都称心如意；事事顺遂"} mornings when everything felt possible, filled her with a [bliss]{.vocab tabindex="0" data-def="bliss · n. 极乐；天赐的福; 使欣喜若狂; 狂喜 BLISSBLISS语言 Bliss布利斯"} she now feared was gone. She caught herself [gloating]{.vocab tabindex="0" data-def="gloat · vi. 幸灾乐祸；心满意足地注视; 幸灾乐祸；贪婪的盯视；洋洋得意"} a little over a text he'd sent last night — tentative, barely two lines — and hated herself for it. [Grief]{.vocab tabindex="0" data-def="grief · n. 悲伤, 悲痛; 悲伤的事, 悲痛的缘由"} over a relationship still breathing, she thought, was its own strange [mania]{.vocab tabindex="0" data-def="mania · n. 狂热；狂躁；热衷"}.
 
-Downstairs, she heard him moving. The sound **riled** something loose in her. She **groaned**, pressed her palms flat on the table, and chose, on **urge** alone, to go down. He looked up — **dazed**, a little **hyper** from too much coffee, clearly mid-**prank** of some kind involving a colander and a phone. They both almost laughed. She felt her **zeal** for the argument dissolve. He had the **ardor** of someone who still wanted to fix things, and she could see it. She had been **cowering** behind silence; he had been waiting, quietly **gnashing** through his own version of the same story. She found a **vent** at last — not a shout, not a **gally**-ing accusation, just honest words that **exulted** in their own relief. She **urged** herself not to retreat again. The **dread** softened. The storm, at long last, broke clean.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **rapt** <span class="wpos">adj.</span> | 全神贯注的；入迷的 |
-| **rile** <span class="wpos">vt.</span> | &amp; 惹恼；激怒 |
-| **rosy** <span class="wpos">adj.</span> | 玫瑰色的，肤色红润的; 乐观的; 愉快的；美好的; 一切都称心如意；事事顺遂 |
-| **sulk** <span class="wpos">vi.</span> | 生气；愠怒; 生气；愠怒；生气的人 |
-| **urge** <span class="wpos">vt.</span> | 力劝；敦促; 鼓励；极力主张; 驱策，促使; 强烈的愿望 |
-| **vent** <span class="wpos">n.</span> | 出口；通风孔；发泄; 发泄感情；放出…；给…开孔; 减轻压力；放出 |
-| **vibe** <span class="wpos">n.</span> | Ⅰ ①感应，共鸣②气氛，环境; Ⅱ 产生共鸣 |
-| **whim** <span class="wpos">n.</span> | 一时的兴致, 突然的念头, 突发奇想, 异想天开 |
-| **zeal** <span class="wpos">n.</span> | 热心, 热忱, 热情 |
-| **allay** <span class="wpos">vt.</span> | 减轻；使缓和；使平静 |
-| **ardor** <span class="wpos">n.</span> | 热情；狂热；灼热 |
-| **bliss** <span class="wpos">n.</span> | 极乐；天赐的福; 使欣喜若狂; 狂喜 BLISSBLISS语言 Bliss布利斯 |
-| **covet** <span class="wpos">vt.</span> | 垂涎；觊觎; 垂涎；觊觎 |
-| **cower** <span class="wpos">vi.</span> | 退缩；抖缩；蜷缩；弯腰屈膝 |
-| **crave** <span class="wpos">vt.</span> | 恳求；渴望; 渴望；恳求 |
-| **daunt** <span class="wpos">vt.</span> | 使气馁，使畏缩；威吓 |
-| **dazed** <span class="wpos">adj.</span> | 茫然的；头昏的; 使眩晕；使惶惑 |
-| **dread** <span class="wpos">n.</span> | 恐惧；可怕的人; 惧怕；担心; 惧怕；担心; 可怕的 |
-| **exult** <span class="wpos">vi.</span> | 非常高兴；狂喜，欢欣鼓舞 |
-| **gally** <span class="wpos">vt.</span> | 恐吓；吓唬 |
-| **gloat** <span class="wpos">vi.</span> | 幸灾乐祸；心满意足地注视; 幸灾乐祸；贪婪的盯视；洋洋得意 |
-| **gnash** <span class="wpos">vt.</span> | 咬牙切齿; 咬牙切齿; 咬 |
-| **grief** <span class="wpos">n.</span> | 悲伤, 悲痛; 悲伤的事, 悲痛的缘由 |
-| **groan** <span class="wpos">vi.</span> | 呻吟；抱怨；发吱嘎声; 呻吟；抱怨; 呻吟；叹息；吱嘎声 |
-| **haunt** <span class="wpos">vt.</span> | 经常出没于; 缠绕, 萦绕; 某人常去的地方 |
-| **hyper** <span class="wpos">adj.</span> | 亢奋的；高度紧张的; 宣传人员 |
-| **jolly** <span class="wpos">adj.</span> | 愉快的；欢乐的；宜人的; 非常；很; 用好话劝某人做…；用好话使高兴; 开玩笑 Jolly耐火砖成型… |
-| **mania** <span class="wpos">n.</span> | 狂热；狂躁；热衷 |
-| **pesky** <span class="wpos">adj.</span> | 烦人的；让人讨厌的 |
-| **prank** <span class="wpos">n.</span> | 恶作剧，开玩笑；戏谑; 装饰；打扮; 炫耀自己；胡闹 |
-:::
-:::
-::::
+Downstairs, she heard him moving. The sound [riled]{.vocab tabindex="0" data-def="rile · vt. &amp; 惹恼；激怒"} something loose in her. She [groaned]{.vocab tabindex="0" data-def="groan · vi. 呻吟；抱怨；发吱嘎声; 呻吟；抱怨; 呻吟；叹息；吱嘎声"}, pressed her palms flat on the table, and chose, on [urge]{.vocab tabindex="0" data-def="urge · vt. 力劝；敦促; 鼓励；极力主张; 驱策，促使; 强烈的愿望"} alone, to go down. He looked up — [dazed]{.vocab tabindex="0" data-def="dazed · adj. 茫然的；头昏的; 使眩晕；使惶惑"}, a little [hyper]{.vocab tabindex="0" data-def="hyper · adj. 亢奋的；高度紧张的; 宣传人员"} from too much coffee, clearly mid-[prank]{.vocab tabindex="0" data-def="prank · n. 恶作剧，开玩笑；戏谑; 装饰；打扮; 炫耀自己；胡闹"} of some kind involving a colander and a phone. They both almost laughed. She felt her [zeal]{.vocab tabindex="0" data-def="zeal · n. 热心, 热忱, 热情"} for the argument dissolve. He had the [ardor]{.vocab tabindex="0" data-def="ardor · n. 热情；狂热；灼热"} of someone who still wanted to fix things, and she could see it. She had been [cowering]{.vocab tabindex="0" data-def="cower · vi. 退缩；抖缩；蜷缩；弯腰屈膝"} behind silence; he had been waiting, quietly [gnashing]{.vocab tabindex="0" data-def="gnash · vt. 咬牙切齿; 咬牙切齿; 咬"} through his own version of the same story. She found a [vent]{.vocab tabindex="0" data-def="vent · n. 出口；通风孔；发泄; 发泄感情；放出…；给…开孔; 减轻压力；放出"} at last — not a shout, not a [gally]{.vocab tabindex="0" data-def="gally · vt. 恐吓；吓唬"}-ing accusation, just honest words that [exulted]{.vocab tabindex="0" data-def="exult · vi. 非常高兴；狂喜，欢欣鼓舞"} in their own relief. She [urged]{.vocab tabindex="0" data-def="urge · vt. 力劝；敦促; 鼓励；极力主张; 驱策，促使; 强烈的愿望"} herself not to retreat again. The [dread]{.vocab tabindex="0" data-def="dread · n. 恐惧；可怕的人; 惧怕；担心; 惧怕；担心; 可怕的"} softened. The storm, at long last, broke clean.
 
 ### The Night She Finally Felt Everything
 
-:::: {.columns}
-::: {.column width="57%"}
-She had spent years in **apathy**, coasting through her days without hunger or colour. Then the letter arrived. She read it at the kitchen table, the winter light falling **eerily** across the page, and something cracked open in her chest.
+She had spent years in [apathy]{.vocab tabindex="0" data-def="apathy · n. 漠然，冷淡; 无兴趣；无动于衷"}, coasting through her days without hunger or colour. Then the letter arrived. She read it at the kitchen table, the winter light falling [eerily]{.vocab tabindex="0" data-def="eerily · adv. 怪诞地；奇异地；可怕地"} across the page, and something cracked open in her chest.
 
-She had **yearned** for her mother's approval so long the wanting had grown into its own strange shape — tender and **bitter** at the same time. Now the words were right there, and they did not say what she had hoped. A **dismay** settled over her, slow and total, like a tide coming in. She let herself **bemoan** the years quietly, then folded the letter and set it aside.
+She had [yearned]{.vocab tabindex="0" data-def="yearn · vi. 渴望，向往；思念，想念；怀念；同情，怜悯"} for her mother's approval so long the wanting had grown into its own strange shape — tender and [bitter]{.vocab tabindex="0" data-def="bitter · adj. 有苦味的; 严寒的，刺骨的; 辛酸的，引起痛苦的；难以接受的; 充满仇恨的"} at the same time. Now the words were right there, and they did not say what she had hoped. A [dismay]{.vocab tabindex="0" data-def="dismay · n. 沮丧，灰心；惊慌; 使惊慌；使沮丧"} settled over her, slow and total, like a tide coming in. She let herself [bemoan]{.vocab tabindex="0" data-def="bemoan · vt. 惋惜；为…恸哭; 叹息"} the years quietly, then folded the letter and set it aside.
 
-That evening her friends came. They lit candles, poured wine, and began to **revel** — laughing too loud, dancing with **fervor** — and she found herself caught in the warmth of it despite everything. Someone pulled her onto the makeshift dance floor, and she did not **cringe** away. She let herself be held. The **caress** of familiar arms **aroused** something she had forgotten: the simple **esteem** of being chosen by people who see you clearly.
+That evening her friends came. They lit candles, poured wine, and began to [revel]{.vocab tabindex="0" data-def="revel · v. 狂欢；陶醉；狂欢作乐; 狂欢；喜庆狂欢活动；喧闹的庆典"} — laughing too loud, dancing with [fervor]{.vocab tabindex="0" data-def="fervor · n. 热情；热烈；炽热；热心"} — and she found herself caught in the warmth of it despite everything. Someone pulled her onto the makeshift dance floor, and she did not [cringe]{.vocab tabindex="0" data-def="cringe · vi. 奉承；畏缩；阿谀; 畏缩；奉承"} away. She let herself be held. The [caress]{.vocab tabindex="0" data-def="caress · n. 爱抚；抚摸; 爱抚或抚摸…"} of familiar arms [aroused]{.vocab tabindex="0" data-def="arouse · vt. 唤醒; 引起, 激发"} something she had forgotten: the simple [esteem]{.vocab tabindex="0" data-def="esteem · vt. 认为；尊敬；考虑；估价; 尊重；尊敬"} of being chosen by people who see you clearly.
 
-Later, her oldest friend sat beside her and **enticed** her into talking — no **sneer**, no **scorn**, no **snarl** underneath the questions. Just listening. She had been **averse** to opening up, but the **allure** of being truly known was stronger than her hesitation. She **aspired** to honesty, so she tried.
+Later, her oldest friend sat beside her and [enticed]{.vocab tabindex="0" data-def="entice · vt. 诱使；怂恿"} her into talking — no [sneer]{.vocab tabindex="0" data-def="sneer · vi. 嘲笑，冷笑; 嘲笑，冷笑; 嘲笑，冷笑"}, no [scorn]{.vocab tabindex="0" data-def="scorn · n. 鄙视；轻蔑; 受某人鄙视的人或事物; 轻视，蔑视; 不屑做"}, no [snarl]{.vocab tabindex="0" data-def="snarl · n. 咆哮；混乱；怒骂; 咆哮；怒骂；缠结; 搞乱；咆哮着说；使…缠结"} underneath the questions. Just listening. She had been [averse]{.vocab tabindex="0" data-def="averse · adj. 不愿意的；反对的"} to opening up, but the [allure]{.vocab tabindex="0" data-def="allure · vt. 吸引；引诱，诱惑; 诱惑力; 诱人，吸引人"} of being truly known was stronger than her hesitation. She [aspired]{.vocab tabindex="0" data-def="aspire · vi. 渴望, 追求"} to honesty, so she tried.
 
-She admitted that the silence between her and her mother had begun to **spook** her — not like a ghost, but like a room where something once lived. She said the distance had a **stink** to it, a rottenness she could no longer ignore. Her friend did not **tease** her for the drama of it. She did not **psych** her out with warnings. She only nodded, and the nodding was enough.
+She admitted that the silence between her and her mother had begun to [spook]{.vocab tabindex="0" data-def="spook · n. 鬼; 吓；吓唬"} her — not like a ghost, but like a room where something once lived. She said the distance had a [stink]{.vocab tabindex="0" data-def="stink · vi. 散发出恶臭；发臭味; 名声臭；糟透; 恶臭，难闻的气味; 大声抱怨"} to it, a rottenness she could no longer ignore. Her friend did not [tease]{.vocab tabindex="0" data-def="tease · vt. &amp; 取笑, 戏弄; 梳理; 爱嘲弄他人的人"} her for the drama of it. She did not [psych]{.vocab tabindex="0" data-def="psych · vt. 使某人精神紧张或丧失信心等"} her out with warnings. She only nodded, and the nodding was enough.
 
-Outside, the night was **dreary**, rain sheeting down the glass. But inside there was **erotic** aliveness to the moment — not in a **carnal** sense, but in the way full presence always carries a charge. She let the warmth **dampen** the grief rather than the grief dampening the warmth. She did not need to **endure** the night; she wanted to live it. And she **cuddled** that small revelation close as the candles burned low, **yikes** and all — even the part of herself that still startled at good things.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **psych** <span class="wpos">vt.</span> | 使某人精神紧张或丧失信心等 |
-| **revel** <span class="wpos">v.</span> | 狂欢；陶醉；狂欢作乐; 狂欢；喜庆狂欢活动；喧闹的庆典 |
-| **scorn** <span class="wpos">n.</span> | 鄙视；轻蔑; 受某人鄙视的人或事物; 轻视，蔑视; 不屑做 |
-| **snarl** <span class="wpos">n.</span> | 咆哮；混乱；怒骂; 咆哮；怒骂；缠结; 搞乱；咆哮着说；使…缠结 |
-| **sneer** <span class="wpos">vi.</span> | 嘲笑，冷笑; 嘲笑，冷笑; 嘲笑，冷笑 |
-| **spook** <span class="wpos">n.</span> | 鬼; 吓；吓唬 |
-| **stink** <span class="wpos">vi.</span> | 散发出恶臭；发臭味; 名声臭；糟透; 恶臭，难闻的气味; 大声抱怨 |
-| **tease** <span class="wpos">vt.</span> | &amp; 取笑, 戏弄; 梳理; 爱嘲弄他人的人 |
-| **yearn** <span class="wpos">vi.</span> | 渴望，向往；思念，想念；怀念；同情，怜悯 |
-| **yikes** <span class="wpos">int.</span> | 〈口〉呀! |
-| **allure** <span class="wpos">vt.</span> | 吸引；引诱，诱惑; 诱惑力; 诱人，吸引人 |
-| **apathy** <span class="wpos">n.</span> | 漠然，冷淡; 无兴趣；无动于衷 |
-| **arouse** <span class="wpos">vt.</span> | 唤醒; 引起, 激发 |
-| **aspire** <span class="wpos">vi.</span> | 渴望, 追求 |
-| **averse** <span class="wpos">adj.</span> | 不愿意的；反对的 |
-| **bemoan** <span class="wpos">vt.</span> | 惋惜；为…恸哭; 叹息 |
-| **bitter** <span class="wpos">adj.</span> | 有苦味的; 严寒的，刺骨的; 辛酸的，引起痛苦的；难以接受的; 充满仇恨的 |
-| **caress** <span class="wpos">n.</span> | 爱抚；抚摸; 爱抚或抚摸… |
-| **carnal** <span class="wpos">adj.</span> | 肉体的；肉欲的；淫荡的；性欲的 |
-| **cringe** <span class="wpos">vi.</span> | 奉承；畏缩；阿谀; 畏缩；奉承 |
-| **cuddle** <span class="wpos">vt.</span> | &amp; 拥抱，怀抱; 依偎着睡; 依偎着；紧靠在一起; 亲近…；靠拢; 搂抱；拥抱 |
-| **dampen** <span class="wpos">vt.</span> | 抑制；使…沮丧；使…潮湿; 潮湿；丧气 |
-| **dismay** <span class="wpos">n.</span> | 沮丧，灰心；惊慌; 使惊慌；使沮丧 |
-| **dreary** <span class="wpos">adj.</span> | 使人闷闷不乐或沮丧的；阴沉的，忧郁的; 令人厌烦的；单调的；枯燥的 |
-| **eerily** <span class="wpos">adv.</span> | 怪诞地；奇异地；可怕地 |
-| **endure** <span class="wpos">vt.</span> | 忍耐；容忍; 忍耐；持续 |
-| **entice** <span class="wpos">vt.</span> | 诱使；怂恿 |
-| **erotic** <span class="wpos">adj.</span> | 性欲的;色情的; 引起性欲地 |
-| **esteem** <span class="wpos">vt.</span> | 认为；尊敬；考虑；估价; 尊重；尊敬 |
-| **fervor** <span class="wpos">n.</span> | 热情；热烈；炽热；热心 |
-:::
-:::
-::::
+Outside, the night was [dreary]{.vocab tabindex="0" data-def="dreary · adj. 使人闷闷不乐或沮丧的；阴沉的，忧郁的; 令人厌烦的；单调的；枯燥的"}, rain sheeting down the glass. But inside there was [erotic]{.vocab tabindex="0" data-def="erotic · adj. 性欲的;色情的; 引起性欲地"} aliveness to the moment — not in a [carnal]{.vocab tabindex="0" data-def="carnal · adj. 肉体的；肉欲的；淫荡的；性欲的"} sense, but in the way full presence always carries a charge. She let the warmth [dampen]{.vocab tabindex="0" data-def="dampen · vt. 抑制；使…沮丧；使…潮湿; 潮湿；丧气"} the grief rather than the grief dampening the warmth. She did not need to [endure]{.vocab tabindex="0" data-def="endure · vt. 忍耐；容忍; 忍耐；持续"} the night; she wanted to live it. And she [cuddled]{.vocab tabindex="0" data-def="cuddle · vt. &amp; 拥抱，怀抱; 依偎着睡; 依偎着；紧靠在一起; 亲近…；靠拢; 搂抱；拥抱"} that small revelation close as the candles burned low, [yikes]{.vocab tabindex="0" data-def="yikes · int. 〈口〉呀!"} and all — even the part of herself that still startled at good things.
 
 ### The Long Weekend That Cracked Us Open
 
-:::: {.columns}
-::: {.column width="57%"}
-Maya had always tended to **fixate** on small slights, turning them over in her mind the way a tongue finds a sore tooth. That Saturday morning, still raw from the argument with her sister, she sat by the window in a **gloomy** silence, listening to the rain. A low, involuntary sound — somewhere between a sigh and one of those quiet **groans** the body makes when it gives up pretending — escaped her.
+Maya had always tended to [fixate]{.vocab tabindex="0" data-def="fixate · vi. 注视；固定下来; 注视…；使固定"} on small slights, turning them over in her mind the way a tongue finds a sore tooth. That Saturday morning, still raw from the argument with her sister, she sat by the window in a [gloomy]{.vocab tabindex="0" data-def="gloomy · adj. 黑暗的；沮丧的；阴郁的"} silence, listening to the rain. A low, involuntary sound — somewhere between a sigh and one of those quiet [groans]{.vocab tabindex="0" data-def="groans · n. 呻吟; 呻吟"} the body makes when it gives up pretending — escaped her.
 
-She had carried a **grudge** against her sister for years, and she knew it. The feeling was old, barnacled with **malice** she was not proud of. She **loathe**d how familiar the resentment had become, how she could **resent** even small kindnesses from the same person. Her **psyche**, she suspected, had built a whole architecture around the wound. Yet her therapist kept nudging her toward a simple question: what would it cost to **relent**? She sat with the word. It felt like putting down a stone she had been carrying uphill.
+She had carried a [grudge]{.vocab tabindex="0" data-def="grudge · n. 不满, 怨恨, 妒忌; 勉强给, 不情愿做"} against her sister for years, and she knew it. The feeling was old, barnacled with [malice]{.vocab tabindex="0" data-def="malice · n. 恶意, 蓄意害人"} she was not proud of. She [loathe]{.vocab tabindex="0" data-def="loathe · vt. 憎恨, 厌恶; 极不喜欢"}d how familiar the resentment had become, how she could [resent]{.vocab tabindex="0" data-def="resent · vt. 对…感到愤怒"} even small kindnesses from the same person. Her [psyche]{.vocab tabindex="0" data-def="psyche · n. 灵魂；心智 Psychen. 灵魂,心灵,精神"}, she suspected, had built a whole architecture around the wound. Yet her therapist kept nudging her toward a simple question: what would it cost to [relent]{.vocab tabindex="0" data-def="relent · vi. 变温和，变宽厚；减弱；缓和; 使变温和；减轻; 再借给"}? She sat with the word. It felt like putting down a stone she had been carrying uphill.
 
-By afternoon the rain had stopped. She walked to the park and found her nephew there, four years old and in full **frenzy**, chasing pigeons with an abandon that bordered on religion. He stopped long enough to **fondle** the velvet ear of a stranger's dog, then ran off again to **frolic** in the wet grass. His laugh was a **giggle** that caught in the throat and spilled out in helpless bursts, and something in Maya's chest **relent**ed without her deciding to let it. She watched him **nuzzle** against his mother's shoulder when he finally tired, and felt the hard knot of the morning begin to loosen.
+By afternoon the rain had stopped. She walked to the park and found her nephew there, four years old and in full [frenzy]{.vocab tabindex="0" data-def="frenzy · n. 狂怒；狂暴；暴怒; 使发狂；使狂怒"}, chasing pigeons with an abandon that bordered on religion. He stopped long enough to [fondle]{.vocab tabindex="0" data-def="fondle · vt. 抚弄；爱抚; 调戏；爱抚"} the velvet ear of a stranger's dog, then ran off again to [frolic]{.vocab tabindex="0" data-def="frolic · vi. 嬉戏; 无忧无虑的快乐时光"} in the wet grass. His laugh was a [giggle]{.vocab tabindex="0" data-def="giggle · vi. 傻笑；咯咯地笑; 咯咯地笑着说; 吃吃的笑"} that caught in the throat and spilled out in helpless bursts, and something in Maya's chest [relent]{.vocab tabindex="0" data-def="relent · vi. 变温和，变宽厚；减弱；缓和; 使变温和；减轻; 再借给"}ed without her deciding to let it. She watched him [nuzzle]{.vocab tabindex="0" data-def="nuzzle · vt. 用鼻紧挨，用鼻爱抚；紧贴某人; 用鼻擦；舒服地躺著"} against his mother's shoulder when he finally tired, and felt the hard knot of the morning begin to loosen.
 
-Later, walking home, she passed a neighbor who was in one of his reliably **grumpy** moods, muttering about some bureaucratic **hassle** that had eaten his afternoon. Maya nodded, said nothing unkind. She had survived her own **ordeal** of the week — the doctor's appointment that had left her in a **muddle** of half-understood results, the **phobia** she had about medical waiting rooms, the cold **shiver** that moved through her whenever a nurse called her name. She had come out the other side, **sanity** more or less intact.
+Later, walking home, she passed a neighbor who was in one of his reliably [grumpy]{.vocab tabindex="0" data-def="grumpy · adj. 脾气坏的,生气的; 生气地"} moods, muttering about some bureaucratic [hassle]{.vocab tabindex="0" data-def="hassle · vt. 找麻烦，搅扰；与…争辩；使…烦恼; 困难，麻烦；激战; 争论，争辩"} that had eaten his afternoon. Maya nodded, said nothing unkind. She had survived her own [ordeal]{.vocab tabindex="0" data-def="ordeal · n. 痛苦的经验；严酷的考验；折磨"} of the week — the doctor's appointment that had left her in a [muddle]{.vocab tabindex="0" data-def="muddle · n. 糊涂；混乱，杂乱; 弄乱，弄糟; 使糊涂; 对付，混日子; 混日子；得过且过; 勉强应付过去; 使糊…"} of half-understood results, the [phobia]{.vocab tabindex="0" data-def="phobia · n. 恐惧, 厌恶"} she had about medical waiting rooms, the cold [shiver]{.vocab tabindex="0" data-def="shiver · n. 颤抖，战栗；碎片; 颤抖；哆嗦；打碎; 颤抖；打碎"} that moved through her whenever a nurse called her name. She had come out the other side, [sanity]{.vocab tabindex="0" data-def="sanity · n. 神志正常；心智健康; 明智，稳健，理智"} more or less intact.
 
-That evening her sister called. The conversation was careful at first, **sedate**, neither of them quite willing to **ruffle** the new quiet. But then her sister told a story about their mother — absurd, warm, entirely unguarded — and Maya found herself laughing. Not a polite laugh. A laugh that made her sister say *hurray* in that exaggerated way, and they were both laughing, the old **grudge** still there somewhere but no longer running the room. Maya felt something close to what she could only call being **ravish**ed by ordinariness: the sheer, unexpected grace of an evening that had decided to be kind.
+That evening her sister called. The conversation was careful at first, [sedate]{.vocab tabindex="0" data-def="sedate · adj. 沉着的；安详的；平静的; 使昏昏入睡，使镇静"}, neither of them quite willing to [ruffle]{.vocab tabindex="0" data-def="ruffle · vt. 弄皱；触怒；扰乱；迅速翻动; 起皱；烦恼；连续地轻敲; 皱褶；生气；混乱；连续轻敲声"} the new quiet. But then her sister told a story about their mother — absurd, warm, entirely unguarded — and Maya found herself laughing. Not a polite laugh. A laugh that made her sister say *hurray* in that exaggerated way, and they were both laughing, the old [grudge]{.vocab tabindex="0" data-def="grudge · n. 不满, 怨恨, 妒忌; 勉强给, 不情愿做"} still there somewhere but no longer running the room. Maya felt something close to what she could only call being [ravish]{.vocab tabindex="0" data-def="ravish · vt. 使欣喜若狂；使着迷；使心醉"}ed by ordinariness: the sheer, unexpected grace of an evening that had decided to be kind.
 
-She hung up with no **qualms** about having been the first to soften. She put on music, poured tea, felt the hour go **mellow** around her. She was still tired. She was still a little afraid of the test results. She did not **obsess** over either. She sat in the **sedate** lamplight and let herself simply be — no longer a person who had been **ruffle**d, but a person who had, for one evening at least, refused to let **hatred** write the ending.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **fixate** <span class="wpos">vi.</span> | 注视；固定下来; 注视…；使固定 |
-| **fondle** <span class="wpos">vt.</span> | 抚弄；爱抚; 调戏；爱抚 |
-| **frenzy** <span class="wpos">n.</span> | 狂怒；狂暴；暴怒; 使发狂；使狂怒 |
-| **frolic** <span class="wpos">vi.</span> | 嬉戏; 无忧无虑的快乐时光 |
-| **giggle** <span class="wpos">vi.</span> | 傻笑；咯咯地笑; 咯咯地笑着说; 吃吃的笑 |
-| **gloomy** <span class="wpos">adj.</span> | 黑暗的；沮丧的；阴郁的 |
-| **groans** <span class="wpos">n.</span> | 呻吟; 呻吟 |
-| **grudge** <span class="wpos">n.</span> | 不满, 怨恨, 妒忌; 勉强给, 不情愿做 |
-| **grumpy** <span class="wpos">adj.</span> | 脾气坏的,生气的; 生气地 |
-| **hassle** <span class="wpos">vt.</span> | 找麻烦，搅扰；与…争辩；使…烦恼; 困难，麻烦；激战; 争论，争辩 |
-| **hatred** <span class="wpos">n.</span> | 憎恨；怨恨；敌意 |
-| **hurray** <span class="wpos">n.</span> | 万岁呼声；狂热; 欢呼; 向…欢呼; 加油 |
-| **lament** <span class="wpos">n.</span> | 挽歌；恸哭；悲痛之情; 悲叹；悔恨；哀悼; 哀悼；痛惜 |
-| **loathe** <span class="wpos">vt.</span> | 憎恨, 厌恶; 极不喜欢 |
-| **malice** <span class="wpos">n.</span> | 恶意, 蓄意害人 |
-| **mellow** <span class="wpos">adj.</span> | 柔和的, 丰富的; 熟透的, 甘美多汁的, 芳醇的; 成熟的, 老练的, 稳健的; 高兴的, 微醉的… |
-| **muddle** <span class="wpos">n.</span> | 糊涂；混乱，杂乱; 弄乱，弄糟; 使糊涂; 对付，混日子; 混日子；得过且过; 勉强应付过去; 使糊… |
-| **nuzzle** <span class="wpos">vt.</span> | 用鼻紧挨，用鼻爱抚；紧贴某人; 用鼻擦；舒服地躺著 |
-| **obsess** <span class="wpos">v.</span> | 使痴迷，使迷恋；使心神不宁，不停地困扰； 唠叨；挂牵，念念不忘 |
-| **ordeal** <span class="wpos">n.</span> | 痛苦的经验；严酷的考验；折磨 |
-| **phobia** <span class="wpos">n.</span> | 恐惧, 厌恶 |
-| **psyche** <span class="wpos">n.</span> | 灵魂；心智 Psychen. 灵魂,心灵,精神 |
-| **qualms** <span class="wpos">n.</span> | 良心之谴责，不安 |
-| **ravish** <span class="wpos">vt.</span> | 使欣喜若狂；使着迷；使心醉 |
-| **relent** <span class="wpos">vi.</span> | 变温和，变宽厚；减弱；缓和; 使变温和；减轻; 再借给 |
-| **resent** <span class="wpos">vt.</span> | 对…感到愤怒 |
-| **ruffle** <span class="wpos">vt.</span> | 弄皱；触怒；扰乱；迅速翻动; 起皱；烦恼；连续地轻敲; 皱褶；生气；混乱；连续轻敲声 |
-| **sanity** <span class="wpos">n.</span> | 神志正常；心智健康; 明智，稳健，理智 |
-| **sedate** <span class="wpos">adj.</span> | 沉着的；安详的；平静的; 使昏昏入睡，使镇静 |
-| **shiver** <span class="wpos">n.</span> | 颤抖，战栗；碎片; 颤抖；哆嗦；打碎; 颤抖；打碎 |
-:::
-:::
-::::
+She hung up with no [qualms]{.vocab tabindex="0" data-def="qualms · n. 良心之谴责，不安"} about having been the first to soften. She put on music, poured tea, felt the hour go [mellow]{.vocab tabindex="0" data-def="mellow · adj. 柔和的, 丰富的; 熟透的, 甘美多汁的, 芳醇的; 成熟的, 老练的, 稳健的; 高兴的, 微醉的…"} around her. She was still tired. She was still a little afraid of the test results. She did not [obsess]{.vocab tabindex="0" data-def="obsess · v. 使痴迷，使迷恋；使心神不宁，不停地困扰； 唠叨；挂牵，念念不忘"} over either. She sat in the [sedate]{.vocab tabindex="0" data-def="sedate · adj. 沉着的；安详的；平静的; 使昏昏入睡，使镇静"} lamplight and let herself simply be — no longer a person who had been [ruffle]{.vocab tabindex="0" data-def="ruffle · vt. 弄皱；触怒；扰乱；迅速翻动; 起皱；烦恼；连续地轻敲; 皱褶；生气；混乱；连续轻敲声"}d, but a person who had, for one evening at least, refused to let [hatred]{.vocab tabindex="0" data-def="hatred · n. 憎恨；怨恨；敌意"} write the ending.
 
 ### 从阴郁到狂喜：一个周末的情绪切片
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning began **somber**, the kind of gray that settles into your chest before you have words for it. Marcus sat at his desk feeling utterly **torpid** — too dulled to move, too restless to sleep — while a **dreaded** message notification blinked on his phone. He'd been nursing a quiet **craving** for good news for weeks, and the silence felt **tragic**.
+The morning began [somber]{.vocab tabindex="0" data-def="somber · adj. 昏暗的；阴沉的; 忧郁的；闷闷不乐的; 严峻的; 暗淡的，灰暗的；朴实无华的"}, the kind of gray that settles into your chest before you have words for it. Marcus sat at his desk feeling utterly [torpid]{.vocab tabindex="0" data-def="torpid · adj. 麻痹的；麻木的; 懒散的；迟缓的；迟钝的; 不活泼的;有气无力的; 冬眠的;非活动状态的"} — too dulled to move, too restless to sleep — while a [dreaded]{.vocab tabindex="0" data-def="dreaded · adj. 令人畏惧的，可怕的; 惧怕"} message notification blinked on his phone. He'd been nursing a quiet [craving]{.vocab tabindex="0" data-def="craving · n. 渴望;渴求"} for good news for weeks, and the silence felt [tragic]{.vocab tabindex="0" data-def="tragic · adj. 悲剧的；悲痛的，不幸的"}.
 
-When he finally opened the message, the syntax was **awkward**, the tone flat, and for a moment he was completely **baffled** — the logic of it **baffles** even now, in retrospect. He felt a flash of **disdain** toward the sender, then **furious** at himself for caring so much. He almost **wailed** aloud, that hollow sound grief makes when **terror** and disappointment arrive at once. A cold **despair** pooled somewhere beneath his ribs.
+When he finally opened the message, the syntax was [awkward]{.vocab tabindex="0" data-def="awkward · adj. 笨拙的；尴尬的；棘手的；不合适的"}, the tone flat, and for a moment he was completely [baffled]{.vocab tabindex="0" data-def="baffled · adj. 带有挡板的; 阻碍；使迷惑"} — the logic of it [baffles]{.vocab tabindex="0" data-def="baffles · n. 困惑；转盘；挡板; 阻碍；使困惑"} even now, in retrospect. He felt a flash of [disdain]{.vocab tabindex="0" data-def="disdain · n. 鄙视, 轻蔑; 鄙视; 不屑于做, 不愿意做"} toward the sender, then [furious]{.vocab tabindex="0" data-def="furious · adj. 狂怒的, 暴怒的; 强烈的, 激烈的"} at himself for caring so much. He almost [wailed]{.vocab tabindex="0" data-def="wailed · v. 恸哭；呼啸；悲叹"} aloud, that hollow sound grief makes when [terror]{.vocab tabindex="0" data-def="terror · n. 恐怖; 恐怖活动; 引起恐怖的人; 讨厌的人"} and disappointment arrive at once. A cold [despair]{.vocab tabindex="0" data-def="despair · n. 绝望; 使人绝望的人; 绝望"} pooled somewhere beneath his ribs.
 
-His sister called an hour later and did what she always does: she **consoled** him with a kind of **tender** patience that made his eyes sting. She had a gift for that — a way of letting the worst feelings **abreact**, drain out through conversation rather than fester. She also knew when to pivot into **whimsy**, dropping some **spooky** ghost-story joke that she knew would make him **chuckle** despite himself. It worked. The **frantic** static in his head softened.
+His sister called an hour later and did what she always does: she [consoled]{.vocab tabindex="0" data-def="console · v. 安慰，安抚，抚慰，慰藉; 操纵台，控制台，仪表板"} him with a kind of [tender]{.vocab tabindex="0" data-def="tender · adj. 柔软的；温柔的；脆弱的；幼稚的；难对付的; 看管人；小船；偿付，清偿; 使…变嫩；是…变柔软；提供，…"} patience that made his eyes sting. She had a gift for that — a way of letting the worst feelings [abreact]{.vocab tabindex="0" data-def="abreact · vt. 使消散；发泄"}, drain out through conversation rather than fester. She also knew when to pivot into [whimsy]{.vocab tabindex="0" data-def="whimsy · n. 怪念头,异想天开,怪脾气; 与众不同的幽默感"}, dropping some [spooky]{.vocab tabindex="0" data-def="spooky · adj. 使人想到鬼的；吓人的"} ghost-story joke that she knew would make him [chuckle]{.vocab tabindex="0" data-def="chuckle · vi. 咯咯的笑，轻声地笑; 轻笑，窃笑; 轻声笑着表示"} despite himself. It worked. The [frantic]{.vocab tabindex="0" data-def="frantic · adj. 狂乱的，疯狂的"} static in his head softened.
 
-By afternoon the mood had fully turned. A letter arrived — the **coveted** acceptance he'd applied for in February. "**Yippee**!" he said to the empty room, not caring how he sounded. He felt **stoked**, almost **gleeful**, nearly **dazzled** by the sudden reversal of fortune. His heart went **amorous** toward the whole world, the sentimental, slightly embarrassing way joy sometimes lands. He was **upbeat** enough to **enchant** even his skeptical flatmate into celebrating with him. Standing in the kitchen opening a bottle of wine, Marcus realized the day had run the full spectrum — and that the **ecstasy** tasted sharper for the **somber** hours that came before.
+By afternoon the mood had fully turned. A letter arrived — the [coveted]{.vocab tabindex="0" data-def="coveted · adj. 梦寐以求的；垂涎的; 垂涎；贪图；渴望"} acceptance he'd applied for in February. "[Yippee]{.vocab tabindex="0" data-def="yippee · int. 开心,快乐等时叫起来的感叹词"}!" he said to the empty room, not caring how he sounded. He felt [stoked]{.vocab tabindex="0" data-def="stoked · adj. 〈俚〉热烈的，振奋的"}, almost [gleeful]{.vocab tabindex="0" data-def="gleeful · adj. 欣喜的,高兴的,欢乐的; 高兴地"}, nearly [dazzled]{.vocab tabindex="0" data-def="dazzled · adj. 目眩的；眼花撩乱的; 眼花"} by the sudden reversal of fortune. His heart went [amorous]{.vocab tabindex="0" data-def="amorous · adj. 色情的, 多情的, 爱情的; 热情的"} toward the whole world, the sentimental, slightly embarrassing way joy sometimes lands. He was [upbeat]{.vocab tabindex="0" data-def="upbeat · n. 兴旺；上升；弱拍; 乐观的；上升的"} enough to [enchant]{.vocab tabindex="0" data-def="enchant · vt. 使迷惑；施魔法"} even his skeptical flatmate into celebrating with him. Standing in the kitchen opening a bottle of wine, Marcus realized the day had run the full spectrum — and that the [ecstasy]{.vocab tabindex="0" data-def="ecstasy · n. 入迷；狂喜；忘形"} tasted sharper for the [somber]{.vocab tabindex="0" data-def="somber · adj. 昏暗的；阴沉的; 忧郁的；闷闷不乐的; 严峻的; 暗淡的，灰暗的；朴实无华的"} hours that came before.
 
-*(He still couldn't figure out what the morning message actually meant. It **flummox**ed him then; it flummoxes him now.)*
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **somber** <span class="wpos">adj.</span> | 昏暗的；阴沉的; 忧郁的；闷闷不乐的; 严峻的; 暗淡的，灰暗的；朴实无华的 |
-| **spooky** <span class="wpos">adj.</span> | 使人想到鬼的；吓人的 |
-| **stoked** <span class="wpos">adj.</span> | 〈俚〉热烈的，振奋的 |
-| **tender** <span class="wpos">adj.</span> | 柔软的；温柔的；脆弱的；幼稚的；难对付的; 看管人；小船；偿付，清偿; 使…变嫩；是…变柔软；提供，… |
-| **terror** <span class="wpos">n.</span> | 恐怖; 恐怖活动; 引起恐怖的人; 讨厌的人 |
-| **torpid** <span class="wpos">adj.</span> | 麻痹的；麻木的; 懒散的；迟缓的；迟钝的; 不活泼的;有气无力的; 冬眠的;非活动状态的 |
-| **tragic** <span class="wpos">adj.</span> | 悲剧的；悲痛的，不幸的 |
-| **upbeat** <span class="wpos">n.</span> | 兴旺；上升；弱拍; 乐观的；上升的 |
-| **wailed** <span class="wpos">v.</span> | 恸哭；呼啸；悲叹 |
-| **whimsy** <span class="wpos">n.</span> | 怪念头,异想天开,怪脾气; 与众不同的幽默感 |
-| **yippee** <span class="wpos">int.</span> | 开心,快乐等时叫起来的感叹词 |
-| **abreact** <span class="wpos">vt.</span> | 使消散；发泄 |
-| **amorous** <span class="wpos">adj.</span> | 色情的, 多情的, 爱情的; 热情的 |
-| **awkward** <span class="wpos">adj.</span> | 笨拙的；尴尬的；棘手的；不合适的 |
-| **baffled** <span class="wpos">adj.</span> | 带有挡板的; 阻碍；使迷惑 |
-| **baffles** <span class="wpos">n.</span> | 困惑；转盘；挡板; 阻碍；使困惑 |
-| **chuckle** <span class="wpos">vi.</span> | 咯咯的笑，轻声地笑; 轻笑，窃笑; 轻声笑着表示 |
-| **console** <span class="wpos">v.</span> | 安慰，安抚，抚慰，慰藉; 操纵台，控制台，仪表板 |
-| **coveted** <span class="wpos">adj.</span> | 梦寐以求的；垂涎的; 垂涎；贪图；渴望 |
-| **craving** <span class="wpos">n.</span> | 渴望;渴求 |
-| **dazzled** <span class="wpos">adj.</span> | 目眩的；眼花撩乱的; 眼花 |
-| **despair** <span class="wpos">n.</span> | 绝望; 使人绝望的人; 绝望 |
-| **disdain** <span class="wpos">n.</span> | 鄙视, 轻蔑; 鄙视; 不屑于做, 不愿意做 |
-| **dreaded** <span class="wpos">adj.</span> | 令人畏惧的，可怕的; 惧怕 |
-| **ecstasy** <span class="wpos">n.</span> | 入迷；狂喜；忘形 |
-| **enchant** <span class="wpos">vt.</span> | 使迷惑；施魔法 |
-| **flummox** <span class="wpos">n.</span> | 失败; 使狼狈；使混乱；使惶惑; 出现错误；失败 |
-| **frantic** <span class="wpos">adj.</span> | 狂乱的，疯狂的 |
-| **furious** <span class="wpos">adj.</span> | 狂怒的, 暴怒的; 强烈的, 激烈的 |
-| **gleeful** <span class="wpos">adj.</span> | 欣喜的,高兴的,欢乐的; 高兴地 |
-:::
-:::
-::::
+*(He still couldn't figure out what the morning message actually meant. It [flummox]{.vocab tabindex="0" data-def="flummox · n. 失败; 使狼狈；使混乱；使惶惑; 出现错误；失败"}ed him then; it flummoxes him now.)*
 
 ### When the Heart Will Not Stay Still
 
-:::: {.columns}
-::: {.column width="57%"}
-The afternoon had started **idyllic** — a café terrace, slow coffee, nothing demanding his attention. Yet Marcus sat **uptight** in his chair, jaw tight. He had spotted her across the street: Elena, laughing with the man she had chosen instead of him. A **grimace** crossed his face before he could stop it. He knew he was being **jealous**, and that knowledge only made him more **hostile** toward himself. The old **grudges** he thought he had buried rose again, **haunted** him with the particular cruelty of things that never fully die. An **impulse** seized him — to cross the street, to say something cutting, to let **revenge** finally have its moment. He didn't move. Instead he watched the **mockery** his self-control was making of his pride, and felt something close to **outrage** at how little mastery he had over his own chest.
+The afternoon had started [idyllic]{.vocab tabindex="0" data-def="idyllic · adj. 牧歌的，田园诗的"} — a café terrace, slow coffee, nothing demanding his attention. Yet Marcus sat [uptight]{.vocab tabindex="0" data-def="uptight · adj. 紧张的,愤怒的; 经济状况不佳的,拮据的; 极端保守的"} in his chair, jaw tight. He had spotted her across the street: Elena, laughing with the man she had chosen instead of him. A [grimace]{.vocab tabindex="0" data-def="grimace · n. 面部扭曲, 鬼脸; 扮鬼相, 做鬼脸"} crossed his face before he could stop it. He knew he was being [jealous]{.vocab tabindex="0" data-def="jealous · adj. 妒忌的，猜疑的; 妒羡的；羡慕的; 精心守护的，珍惜的"}, and that knowledge only made him more [hostile]{.vocab tabindex="0" data-def="hostile · adj. 怀有敌意的, 不友善的; 敌人的, 敌方的"} toward himself. The old [grudges]{.vocab tabindex="0" data-def="grudges · n. 怨恨；积怨; 怀恨；嫉妒"} he thought he had buried rose again, [haunted]{.vocab tabindex="0" data-def="haunted · adj. 闹鬼的；反复出现的；受到困扰的; 常去；缠住；使担忧"} him with the particular cruelty of things that never fully die. An [impulse]{.vocab tabindex="0" data-def="impulse · n. 冲动；脉冲；刺激；推动力；神经冲动; 推动"} seized him — to cross the street, to say something cutting, to let [revenge]{.vocab tabindex="0" data-def="revenge · n. 复仇；报复; 报复；替…报仇；洗雪; 报仇；雪耻"} finally have its moment. He didn't move. Instead he watched the [mockery]{.vocab tabindex="0" data-def="mockery · n. 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲"} his self-control was making of his pride, and felt something close to [outrage]{.vocab tabindex="0" data-def="outrage · n. 暴行；侮辱；愤怒，愤慨; 对…施暴行；凌辱，强奸；激起愤怒"} at how little mastery he had over his own chest.
 
-He had told himself, after the breakup, that the **setback** would become a **triumph**. That story now felt **tedious**, a script recited to **satiate** the people who asked how he was doing. The truth was simpler and more **obscene**: he was still **smitten**, stubbornly, stupidly, against all reason. The realization **startled** him — not because it was new, but because it still had teeth. Her laughter from across the street seemed to **provoke** every nerve. He tried to **indulge** the pain fully, the way a doctor probes a wound to gauge its depth, and the exercise only deepened the **torment**. What he felt was **sensual** and irrational at once — not lust exactly, but a full-body ache, the kind that **horrify**-ies you because you recognize your own helplessness in it.
+He had told himself, after the breakup, that the [setback]{.vocab tabindex="0" data-def="setback · n. 挫折; 阻碍"} would become a [triumph]{.vocab tabindex="0" data-def="triumph · n. 胜利，成功; 巨大的成就; 获胜，得胜；克服"}. That story now felt [tedious]{.vocab tabindex="0" data-def="tedious · adj. 乏味的, 单调的"}, a script recited to [satiate]{.vocab tabindex="0" data-def="satiate · vt. 充分满足；使厌腻; 饱足的；厌腻的"} the people who asked how he was doing. The truth was simpler and more [obscene]{.vocab tabindex="0" data-def="obscene · adj. 淫秽的, 下流的; 可憎的, 可恶的"}: he was still [smitten]{.vocab tabindex="0" data-def="smitten smite的"}, stubbornly, stupidly, against all reason. The realization [startled]{.vocab tabindex="0" data-def="startle · vt. 使吓一跳；使惊奇; 惊吓；惊跳；惊奇; 惊愕；惊恐"} him — not because it was new, but because it still had teeth. Her laughter from across the street seemed to [provoke]{.vocab tabindex="0" data-def="provoke · vt. 激起；惹怒"} every nerve. He tried to [indulge]{.vocab tabindex="0" data-def="indulge · vt. 满足；使沉迷于…；使高兴；纵容; 满足；沉溺；放任"} the pain fully, the way a doctor probes a wound to gauge its depth, and the exercise only deepened the [torment]{.vocab tabindex="0" data-def="torment · n. 折磨，痛苦；苦难之源; 使备受折磨；使痛苦；烦扰；戏弄；捉弄；纠缠"}. What he felt was [sensual]{.vocab tabindex="0" data-def="sensual · adj. 感觉的；肉欲的；感觉论的；世俗的"} and irrational at once — not lust exactly, but a full-body ache, the kind that [horrify]{.vocab tabindex="0" data-def="horrify · vt. 使震惊, 使感到恐怖"}-ies you because you recognize your own helplessness in it.
 
-The waiter refilled his cup without asking. Marcus **rejoice**d at the small kindness, then caught himself and almost laughed at the proportion. He had let this **tragedy** — and yes, he could call it that without irony — **unhinge** him long enough. He was **wailing** inside while sitting perfectly still; he was **whining** in the private theater of his skull while wearing a neutral face. He **scorned** that version of himself even as he inhabited it. What **perplex**ed him most was not the love but the persistence of it: how the mind refuses to file certain people under the past. He finished his coffee, left a tip, and walked in the opposite direction — not healed, not free, but at least no longer feeding something that had grown large enough on **grudges** and silence.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **grimace** <span class="wpos">n.</span> | 面部扭曲, 鬼脸; 扮鬼相, 做鬼脸 |
-| **grudges** <span class="wpos">n.</span> | 怨恨；积怨; 怀恨；嫉妒 |
-| **haunted** <span class="wpos">adj.</span> | 闹鬼的；反复出现的；受到困扰的; 常去；缠住；使担忧 |
-| **horrify** <span class="wpos">vt.</span> | 使震惊, 使感到恐怖 |
-| **hostile** <span class="wpos">adj.</span> | 怀有敌意的, 不友善的; 敌人的, 敌方的 |
-| **idyllic** <span class="wpos">adj.</span> | 牧歌的，田园诗的 |
-| **impulse** <span class="wpos">n.</span> | 冲动；脉冲；刺激；推动力；神经冲动; 推动 |
-| **indulge** <span class="wpos">vt.</span> | 满足；使沉迷于…；使高兴；纵容; 满足；沉溺；放任 |
-| **jealous** <span class="wpos">adj.</span> | 妒忌的，猜疑的; 妒羡的；羡慕的; 精心守护的，珍惜的 |
-| **mockery** <span class="wpos">n.</span> | 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲 |
-| **obscene** <span class="wpos">adj.</span> | 淫秽的, 下流的; 可憎的, 可恶的 |
-| **outrage** <span class="wpos">n.</span> | 暴行；侮辱；愤怒，愤慨; 对…施暴行；凌辱，强奸；激起愤怒 |
-| **perplex** <span class="wpos">vt.</span> | 使困惑，使为难；使复杂化 |
-| **provoke** <span class="wpos">vt.</span> | 激起；惹怒 |
-| **rejoice** <span class="wpos">vi.</span> | 高兴；庆祝; 使高兴 |
-| **revenge** <span class="wpos">n.</span> | 复仇；报复; 报复；替…报仇；洗雪; 报仇；雪耻 |
-| **satiate** <span class="wpos">vt.</span> | 充分满足；使厌腻; 饱足的；厌腻的 |
-| **scorned** <span class="wpos">v.</span> | 轻蔑；嘲笑; 轻蔑的；鄙视的 |
-| **sensual** <span class="wpos">adj.</span> | 感觉的；肉欲的；感觉论的；世俗的 |
-| **setback** <span class="wpos">n.</span> | 挫折; 阻碍 |
-| **smitten** | smite的 |
-| **startle** <span class="wpos">vt.</span> | 使吓一跳；使惊奇; 惊吓；惊跳；惊奇; 惊愕；惊恐 |
-| **tedious** <span class="wpos">adj.</span> | 乏味的, 单调的 |
-| **torment** <span class="wpos">n.</span> | 折磨，痛苦；苦难之源; 使备受折磨；使痛苦；烦扰；戏弄；捉弄；纠缠 |
-| **tragedy** <span class="wpos">n.</span> | 悲剧；灾难；惨案 |
-| **triumph** <span class="wpos">n.</span> | 胜利，成功; 巨大的成就; 获胜，得胜；克服 |
-| **unhinge** <span class="wpos">vt.</span> | 使分开；取下…的铰链；使发狂或错乱 |
-| **uptight** <span class="wpos">adj.</span> | 紧张的,愤怒的; 经济状况不佳的,拮据的; 极端保守的 |
-| **wailing** <span class="wpos">v.</span> | 哭号；哭泣 |
-| **whining** <span class="wpos">v.</span> | 发牢骚；抱怨 |
-:::
-:::
-::::
+The waiter refilled his cup without asking. Marcus [rejoice]{.vocab tabindex="0" data-def="rejoice · vi. 高兴；庆祝; 使高兴"}d at the small kindness, then caught himself and almost laughed at the proportion. He had let this [tragedy]{.vocab tabindex="0" data-def="tragedy · n. 悲剧；灾难；惨案"} — and yes, he could call it that without irony — [unhinge]{.vocab tabindex="0" data-def="unhinge · vt. 使分开；取下…的铰链；使发狂或错乱"} him long enough. He was [wailing]{.vocab tabindex="0" data-def="wailing · v. 哭号；哭泣"} inside while sitting perfectly still; he was [whining]{.vocab tabindex="0" data-def="whining · v. 发牢骚；抱怨"} in the private theater of his skull while wearing a neutral face. He [scorned]{.vocab tabindex="0" data-def="scorned · v. 轻蔑；嘲笑; 轻蔑的；鄙视的"} that version of himself even as he inhabited it. What [perplex]{.vocab tabindex="0" data-def="perplex · vt. 使困惑，使为难；使复杂化"}ed him most was not the love but the persistence of it: how the mind refuses to file certain people under the past. He finished his coffee, left a tip, and walked in the opposite direction — not healed, not free, but at least no longer feeding something that had grown large enough on [grudges]{.vocab tabindex="0" data-def="grudges · n. 怨恨；积怨; 怀恨；嫉妒"} and silence.
 
 ### The Weight of a Long Evening
 
-:::: {.columns}
-::: {.column width="57%"}
-She sat by the window in a **brooding** silence, her reflection caught in the glass like someone she no longer recognised. The **ambiance** of the old café — low lamplight, the smell of rain on stone — usually brought her comfort, but tonight it only deepened the **wistful** ache she couldn't name. She felt a strange **affinity** with the couple at the corner table, strangers wrapped in their own private world, **enamored** of each other in a way that felt both **gripping** and faintly unbearable to watch.
+She sat by the window in a [brooding]{.vocab tabindex="0" data-def="brooding · adj. 沉思的；徘徊不去的; 孵卵"} silence, her reflection caught in the glass like someone she no longer recognised. The [ambiance]{.vocab tabindex="0" data-def="ambiance · n. 气氛；周围环境"} of the old café — low lamplight, the smell of rain on stone — usually brought her comfort, but tonight it only deepened the [wistful]{.vocab tabindex="0" data-def="wistful · adj. 渴望的；沉思的，默想的；引起怀念的；神往的"} ache she couldn't name. She felt a strange [affinity]{.vocab tabindex="0" data-def="affinity · n. 吸引力；姻亲关系；密切关系；类同"} with the couple at the corner table, strangers wrapped in their own private world, [enamored]{.vocab tabindex="0" data-def="enamored · adj. 迷恋的；倾心的; 迷住，使迷恋"} of each other in a way that felt both [gripping]{.vocab tabindex="0" data-def="gripping · adj. 引人注意的；令人全神贯注的；扣人心弦的; 握紧；扣人心弦"} and faintly unbearable to watch.
 
-She had been **fretting** over the letter for three days. Re-reading it had done nothing but **embitter** her further. His words carried an unmistakable **contempt**, a cold **defiance** that left her **appalled** — not because she hadn't seen it coming, but because part of her had nursed the **illusion** that things might still be repaired. That was her **delusion**, she supposed: staying **devoted** to a version of him that no longer existed. The truth was **daunting**, and she was tired of pretending to be **composed**.
+She had been [fretting]{.vocab tabindex="0" data-def="fretting · n. 微振磨损；侵蚀; 给弦乐器装品定音；用回纹饰装饰；使烦躁；侵蚀"} over the letter for three days. Re-reading it had done nothing but [embitter]{.vocab tabindex="0" data-def="embitter · vt. 使怨恨；使难受；使受苦"} her further. His words carried an unmistakable [contempt]{.vocab tabindex="0" data-def="contempt · n. 轻视，蔑视；耻辱"}, a cold [defiance]{.vocab tabindex="0" data-def="defiance · n. 蔑视；挑战；反抗"} that left her [appalled]{.vocab tabindex="0" data-def="appalled · adj. 惊骇的；丧胆的"} — not because she hadn't seen it coming, but because part of her had nursed the [illusion]{.vocab tabindex="0" data-def="illusion · n. 错觉, 幻想, 错误观念; 假象"} that things might still be repaired. That was her [delusion]{.vocab tabindex="0" data-def="delusion · n. 错觉；幻想；迷惑，欺骗"}, she supposed: staying **devoted** to a version of him that no longer existed. The truth was [daunting]{.vocab tabindex="0" data-def="daunting · adj. 使人畏缩的；使人气馁的；令人怯步的"}, and she was tired of pretending to be [composed]{.vocab tabindex="0" data-def="composed · adj. 镇静的，沉着的"}.
 
-A low **glooming** had settled behind her eyes all week. She did not **begrudge** him his happiness — or told herself she didn't — but the **loathing** she felt for her own helplessness was harder to dismiss. She had watched herself **languish** in this liminal sadness, **detached** from the **euphoria** others seemed to wear so easily, unable to summon even a pale imitation of feeling **euphoric**. The **blushing** warmth of her earlier years, that easy flush of joy, now seemed to belong to someone else entirely. She **bristled** at the memory of how trusting she had been.
+A low [glooming]{.vocab tabindex="0" data-def="glooming · n. 怒容,皱眉"} had settled behind her eyes all week. She did not [begrudge]{.vocab tabindex="0" data-def="begrudge · vt. 羡慕，嫉妒；吝惜，舍不得给"} him his happiness — or told herself she didn't — but the [loathing]{.vocab tabindex="0" data-def="loathing · n. 嫌恶; 厌恶的; 讨厌"} she felt for her own helplessness was harder to dismiss. She had watched herself [languish]{.vocab tabindex="0" data-def="languish · vi. 长期受苦,受折磨; 变得衰弱; 因渴望而变得憔悴或闷闷不乐"} in this liminal sadness, [detached]{.vocab tabindex="0" data-def="detached · adj. 分离的，分开的；超然的; 分离"} from the [euphoria]{.vocab tabindex="0" data-def="euphoria · n. 极度愉快的心情;过度兴奋的情绪"} others seemed to wear so easily, unable to summon even a pale imitation of feeling [euphoric]{.vocab tabindex="0" data-def="euphoric · adj. 欣快的；精神愉快的"}. The [blushing]{.vocab tabindex="0" data-def="blushing · n. 红色的;雾浊"} warmth of her earlier years, that easy flush of joy, now seemed to belong to someone else entirely. She [bristled]{.vocab tabindex="0" data-def="bristled · adj. 多刺毛的；有刚毛的；直立的; 布满；直立"} at the memory of how trusting she had been.
 
-Outside, a group of tourists erupted into laughter — shrill, climbing toward **hysteria** — and she felt it like a **nuisance** against her skin, a small intrusion into the **distress** she had almost made her own. The **misogyny** she had faced at work, the dismissals dressed up as feedback, had compounded everything, hardening a grief that had no clean shape. Yet sitting here, coffee going cold, she felt something loosen very slightly. Not **ecstatic** relief — nothing so dramatic — just the quiet recognition that the **devotion** she had poured outward could, perhaps, be redirected.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **wistful** <span class="wpos">adj.</span> | 渴望的；沉思的，默想的；引起怀念的；神往的 |
-| **affinity** <span class="wpos">n.</span> | 吸引力；姻亲关系；密切关系；类同 |
-| **ambiance** <span class="wpos">n.</span> | 气氛；周围环境 |
-| **appalled** <span class="wpos">adj.</span> | 惊骇的；丧胆的 |
-| **begrudge** <span class="wpos">vt.</span> | 羡慕，嫉妒；吝惜，舍不得给 |
-| **blushing** <span class="wpos">n.</span> | 红色的;雾浊 |
-| **bristled** <span class="wpos">adj.</span> | 多刺毛的；有刚毛的；直立的; 布满；直立 |
-| **brooding** <span class="wpos">adj.</span> | 沉思的；徘徊不去的; 孵卵 |
-| **composed** <span class="wpos">adj.</span> | 镇静的，沉着的 |
-| **contempt** <span class="wpos">n.</span> | 轻视，蔑视；耻辱 |
-| **daunting** <span class="wpos">adj.</span> | 使人畏缩的；使人气馁的；令人怯步的 |
-| **defiance** <span class="wpos">n.</span> | 蔑视；挑战；反抗 |
-| **delusion** <span class="wpos">n.</span> | 错觉；幻想；迷惑，欺骗 |
-| **detached** <span class="wpos">adj.</span> | 分离的，分开的；超然的; 分离 |
-| **devotion** <span class="wpos">n.</span> | 奉献, 献身, 忠诚; 热爱, 挚爱 |
-| **distress** <span class="wpos">n.</span> | 悲痛, 痛苦, 忧伤, 苦恼; 贫困, 窘迫; 危险, 困难, 危难; 使痛苦, 使忧伤 |
-| **ecstatic** <span class="wpos">adj.</span> | 狂喜的；入迷的; 狂喜的人 |
-| **embitter** <span class="wpos">vt.</span> | 使怨恨；使难受；使受苦 |
-| **enamored** <span class="wpos">adj.</span> | 迷恋的；倾心的; 迷住，使迷恋 |
-| **euphoria** <span class="wpos">n.</span> | 极度愉快的心情;过度兴奋的情绪 |
-| **euphoric** <span class="wpos">adj.</span> | 欣快的；精神愉快的 |
-| **fretting** <span class="wpos">n.</span> | 微振磨损；侵蚀; 给弦乐器装品定音；用回纹饰装饰；使烦躁；侵蚀 |
-| **glooming** <span class="wpos">n.</span> | 怒容,皱眉 |
-| **gripping** <span class="wpos">adj.</span> | 引人注意的；令人全神贯注的；扣人心弦的; 握紧；扣人心弦 |
-| **hysteria** <span class="wpos">n.</span> | 不能控制的情绪激动;歇斯底里 |
-| **illusion** <span class="wpos">n.</span> | 错觉, 幻想, 错误观念; 假象 |
-| **languish** <span class="wpos">vi.</span> | 长期受苦,受折磨; 变得衰弱; 因渴望而变得憔悴或闷闷不乐 |
-| **loathing** <span class="wpos">n.</span> | 嫌恶; 厌恶的; 讨厌 |
-| **misogyny** <span class="wpos">n.</span> | 厌恶女人；厌女症 |
-| **nuisance** <span class="wpos">n.</span> | 讨厌的东西 |
-:::
-:::
-::::
+Outside, a group of tourists erupted into laughter — shrill, climbing toward [hysteria]{.vocab tabindex="0" data-def="hysteria · n. 不能控制的情绪激动;歇斯底里"} — and she felt it like a [nuisance]{.vocab tabindex="0" data-def="nuisance · n. 讨厌的东西"} against her skin, a small intrusion into the [distress]{.vocab tabindex="0" data-def="distress · n. 悲痛, 痛苦, 忧伤, 苦恼; 贫困, 窘迫; 危险, 困难, 危难; 使痛苦, 使忧伤"} she had almost made her own. The [misogyny]{.vocab tabindex="0" data-def="misogyny · n. 厌恶女人；厌女症"} she had faced at work, the dismissals dressed up as feedback, had compounded everything, hardening a grief that had no clean shape. Yet sitting here, coffee going cold, she felt something loosen very slightly. Not [ecstatic]{.vocab tabindex="0" data-def="ecstatic · adj. 狂喜的；入迷的; 狂喜的人"} relief — nothing so dramatic — just the quiet recognition that the [devotion]{.vocab tabindex="0" data-def="devotion · n. 奉献, 献身, 忠诚; 热爱, 挚爱"} she had poured outward could, perhaps, be redirected.
 
 ### The Long Way Back to Feeling
 
-:::: {.columns}
-::: {.column width="57%"}
-She sat by the window, staring **vacantly** at the rain-blurred street below. The **suspense** of waiting for news had worn her thin — not the dramatic kind, but the slow, grinding kind that hollows you out. Behind her, the walls held the quiet evidence of someone **burnt-out**: stacked unread notebooks, a cold cup of tea, the faint **sinister** feeling that the world had been rearranged while she wasn't looking.
+She sat by the window, staring [vacantly]{.vocab tabindex="0" data-def="vacantly · adv. 神情茫然地"} at the rain-blurred street below. The [suspense]{.vocab tabindex="0" data-def="suspense · n. 悬念；焦虑；悬疑；悬而不决"} of waiting for news had worn her thin — not the dramatic kind, but the slow, grinding kind that hollows you out. Behind her, the walls held the quiet evidence of someone [burnt-out]{.vocab tabindex="0" data-def="burnt-out · adj. 竭尽的,因过度使用而损坏的"}: stacked unread notebooks, a cold cup of tea, the faint [sinister]{.vocab tabindex="0" data-def="sinister · adj. 危险的, 不吉祥的, 凶兆的, 险恶的"} feeling that the world had been rearranged while she wasn't looking.
 
-She thought of him — her **truelove**, or what she had once believed he was. The memory arrived with a **poignant** sting she hadn't expected. She **abominate**d herself a little for still caring, for being so **obsessed** with replaying the same scenes: his **affection** in the early mornings, the way his laughter used to **resonate** across a room and pull everyone toward him. Now she felt only a hollow **yearning**, and something almost like **animosity** — not quite hatred, just a bitter residue left by too many **setbacks** and too many explanations that explained nothing.
+She thought of him — her [truelove]{.vocab tabindex="0" data-def="truelove · n. 爱人；轮叶王孙；纯爱"}, or what she had once believed he was. The memory arrived with a [poignant]{.vocab tabindex="0" data-def="poignant · adj. 伤心至极的；辛酸的，痛切的; 令人心碎的，深深打动人的；强烈的，深刻的"} sting she hadn't expected. She [abominate]{.vocab tabindex="0" data-def="abominate · vt. 憎恶, 厌恶, 不喜欢; 憎恶者, 厌恶者"}d herself a little for still caring, for being so [obsessed]{.vocab tabindex="0" data-def="obsessed · adj. 着迷的；无法摆脱的; 着迷；纠缠"} with replaying the same scenes: his [affection]{.vocab tabindex="0" data-def="affection · n. 感情；喜爱，关爱；爱慕之情；影响"} in the early mornings, the way his laughter used to [resonate]{.vocab tabindex="0" data-def="resonate · v. 产生共鸣；发出回响；回荡; 回响，起回声; 使产生联想；引起共鸣；和…的想法类似"} across a room and pull everyone toward him. Now she felt only a hollow [yearning]{.vocab tabindex="0" data-def="yearning · adj. 怀念的；向往的；渴望的; 渴望；怀念；同情; 渴望；向往；想念"}, and something almost like [animosity]{.vocab tabindex="0" data-def="animosity · n. 憎恨, 仇恨, 敌意"} — not quite hatred, just a bitter residue left by too many [setbacks]{.vocab tabindex="0" data-def="setbacks · n. 挫折；周折"} and too many explanations that explained nothing.
 
-The **puzzling** part was how ordinary it had all become. She had expected grief to look wilder — an **outburst**, maybe, or a moment of being fully **unhinged**. Instead she sat here **contented** with small comforts: a wool blanket, the sound of rain, the good **riddance** she kept rehearsing in her head but not yet feeling in her chest. She wasn't **paranoid**, she told herself. She wasn't **revolted**. She was simply **startled** — **startled** that love could shrink so quietly into **oblivion**.
+The [puzzling]{.vocab tabindex="0" data-def="puzzling · adj. 使莫明其妙的；使迷惑的; 使迷惑"} part was how ordinary it had all become. She had expected grief to look wilder — an [outburst]{.vocab tabindex="0" data-def="outburst · n. 爆发；破裂"}, maybe, or a moment of being fully [unhinged]{.vocab tabindex="0" data-def="unhinged · adj. 精神错乱的"}. Instead she sat here [contented]{.vocab tabindex="0" data-def="contented · adj. 满意的，满足的；知足的"} with small comforts: a wool blanket, the sound of rain, the good [riddance]{.vocab tabindex="0" data-def="riddance · n. 摆脱；驱逐；解除"} she kept rehearsing in her head but not yet feeling in her chest. She wasn't [paranoid]{.vocab tabindex="0" data-def="paranoid · adj. 类似妄想狂的；属于偏执狂的; 患妄想狂的人；偏执狂患者"}, she told herself. She wasn't [revolted]{.vocab tabindex="0" data-def="revolted · adj. 起来反抗的；厌恶的；起义的; 反叛"}. She was simply [startled]{.vocab tabindex="0" data-def="startled · adj. 受惊吓的"} — [startled]{.vocab tabindex="0" data-def="startled · adj. 受惊吓的"} that love could shrink so quietly into [oblivion]{.vocab tabindex="0" data-def="oblivion · n. 遗忘；赦免；湮没"}.
 
-Still, there were people who offered **sympathy** without conditions, who had shown her **adoration** when she had nothing useful to give back. Their warmth did not fix things, but it did not add to the **detriment** either. It sat beside her like a candle — small, **tranquil**, honestly lit. She had been **desperate** in darker months, had felt the pull of **adversity** like a current under ice. But those people had **captivate**d her attention long enough to interrupt the spiral. Their steadiness **provoked** something she hadn't named yet — not quite gratitude, maybe closer to wonder.
+Still, there were people who offered [sympathy]{.vocab tabindex="0" data-def="sympathy · n. 同情; 同情; 支持"} without conditions, who had shown her [adoration]{.vocab tabindex="0" data-def="adoration · n. 爱慕；崇拜"} when she had nothing useful to give back. Their warmth did not fix things, but it did not add to the [detriment]{.vocab tabindex="0" data-def="detriment · n. 损害, 伤害; 造成损害的事物"} either. It sat beside her like a candle — small, [tranquil]{.vocab tabindex="0" data-def="tranquil · adj. 安静的; 平静的; 宁静的"}, honestly lit. She had been [desperate]{.vocab tabindex="0" data-def="desperate · adj. 不顾一切的, 拼命的; 铤而走险的, 孤注一掷的; 极渴望的, 极需要的; 危急的, 极严重的；令人…"} in darker months, had felt the pull of [adversity]{.vocab tabindex="0" data-def="adversity · n. 逆境;厄运;窘境; 灾祸;灾难;不幸"} like a current under ice. But those people had [captivate]{.vocab tabindex="0" data-def="captivate · vt. 迷住；迷惑; 迷惑，迷人; 有吸引力的人或物"}d her attention long enough to interrupt the spiral. Their steadiness [provoked]{.vocab tabindex="0" data-def="provoked · v. 激起；挑衅; 被激怒的；受到挑衅的"} something she hadn't named yet — not quite gratitude, maybe closer to wonder.
 
-She breathed. The rain eased. She was not yet **contented**, not fully. But she was less afraid of the feeling.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **oblivion** <span class="wpos">n.</span> | 遗忘；赦免；湮没 |
-| **obsessed** <span class="wpos">adj.</span> | 着迷的；无法摆脱的; 着迷；纠缠 |
-| **outburst** <span class="wpos">n.</span> | 爆发；破裂 |
-| **paranoid** <span class="wpos">adj.</span> | 类似妄想狂的；属于偏执狂的; 患妄想狂的人；偏执狂患者 |
-| **poignant** <span class="wpos">adj.</span> | 伤心至极的；辛酸的，痛切的; 令人心碎的，深深打动人的；强烈的，深刻的 |
-| **provoked** <span class="wpos">v.</span> | 激起；挑衅; 被激怒的；受到挑衅的 |
-| **puzzling** <span class="wpos">adj.</span> | 使莫明其妙的；使迷惑的; 使迷惑 |
-| **resonate** <span class="wpos">v.</span> | 产生共鸣；发出回响；回荡; 回响，起回声; 使产生联想；引起共鸣；和…的想法类似 |
-| **revolted** <span class="wpos">adj.</span> | 起来反抗的；厌恶的；起义的; 反叛 |
-| **riddance** <span class="wpos">n.</span> | 摆脱；驱逐；解除 |
-| **setbacks** <span class="wpos">n.</span> | 挫折；周折 |
-| **sinister** <span class="wpos">adj.</span> | 危险的, 不吉祥的, 凶兆的, 险恶的 |
-| **startled** <span class="wpos">adj.</span> | 受惊吓的 |
-| **suspense** <span class="wpos">n.</span> | 悬念；焦虑；悬疑；悬而不决 |
-| **sympathy** <span class="wpos">n.</span> | 同情; 同情; 支持 |
-| **tranquil** <span class="wpos">adj.</span> | 安静的; 平静的; 宁静的 |
-| **truelove** <span class="wpos">n.</span> | 爱人；轮叶王孙；纯爱 |
-| **unhinged** <span class="wpos">adj.</span> | 精神错乱的 |
-| **vacantly** <span class="wpos">adv.</span> | 神情茫然地 |
-| **yearning** <span class="wpos">adj.</span> | 怀念的；向往的；渴望的; 渴望；怀念；同情; 渴望；向往；想念 |
-| **abominate** <span class="wpos">vt.</span> | 憎恶, 厌恶, 不喜欢; 憎恶者, 厌恶者 |
-| **adoration** <span class="wpos">n.</span> | 爱慕；崇拜 |
-| **adversity** <span class="wpos">n.</span> | 逆境;厄运;窘境; 灾祸;灾难;不幸 |
-| **affection** <span class="wpos">n.</span> | 感情；喜爱，关爱；爱慕之情；影响 |
-| **animosity** <span class="wpos">n.</span> | 憎恨, 仇恨, 敌意 |
-| **burnt-out** <span class="wpos">adj.</span> | 竭尽的,因过度使用而损坏的 |
-| **captivate** <span class="wpos">vt.</span> | 迷住；迷惑; 迷惑，迷人; 有吸引力的人或物 |
-| **contented** <span class="wpos">adj.</span> | 满意的，满足的；知足的 |
-| **desperate** <span class="wpos">adj.</span> | 不顾一切的, 拼命的; 铤而走险的, 孤注一掷的; 极渴望的, 极需要的; 危急的, 极严重的；令人… |
-| **detriment** <span class="wpos">n.</span> | 损害, 伤害; 造成损害的事物 |
-:::
-:::
-::::
+She breathed. The rain eased. She was not yet [contented]{.vocab tabindex="0" data-def="contented · adj. 满意的，满足的；知足的"}, not fully. But she was less afraid of the feeling.
 
 ### When the Mind Has Weather of Its Own
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning felt off before it even began. She sat by the window **pensively**, turning over a **grievance** she couldn't quite name — not rage, just a low, persistent **dysphoria** that had settled in her chest like fog. She was **reluctant** to call it depression; that word felt too large. Still, something was wrong.
+The morning felt off before it even began. She sat by the window [pensively]{.vocab tabindex="0" data-def="pensively · adv. 沉思地,焦虑地"}, turning over a [grievance]{.vocab tabindex="0" data-def="grievance · n. 委屈, 苦衷, 不满, 怨恨"} she couldn't quite name — not rage, just a low, persistent [dysphoria]{.vocab tabindex="0" data-def="dysphoria · n. 病理性心境恶劣，烦躁不安"} that had settled in her chest like fog. She was [reluctant]{.vocab tabindex="0" data-def="reluctant · adj. 不情愿的, 勉强的"} to call it depression; that word felt too large. Still, something was wrong.
 
-Her therapist had once told her she had a gift for being able to **empathize** with nearly anyone, to step so fully into another person's **sensation** that their pain became her own. That quality was **endearing** to her friends, exhausting to herself. Now she wondered if it had curdled into something closer to **masochism** — as if she, the quiet **masochist** she'd never admitted to being, sought out other people's sorrow just to have something to feel.
+Her therapist had once told her she had a gift for being able to [empathize]{.vocab tabindex="0" data-def="empathize · v. 移情,神会"} with nearly anyone, to step so fully into another person's [sensation]{.vocab tabindex="0" data-def="sensation · n. 感觉, 感受; 知觉; 激动, 轰动"} that their pain became her own. That quality was [endearing]{.vocab tabindex="0" data-def="endearing · adj. 使人喜欢的;讨人喜欢的"} to her friends, exhausting to herself. Now she wondered if it had curdled into something closer to [masochism]{.vocab tabindex="0" data-def="masochism · n. 受虐狂；被虐待狂"} — as if she, the quiet [masochist]{.vocab tabindex="0" data-def="masochist · n. 性受虐狂者,受虐狂者"} she'd never admitted to being, sought out other people's sorrow just to have something to feel.
 
-By noon the mood had shifted, as moods do. Her colleague arrived **exuberant**, practically **inebriate** on good news, talking in that **hilarious** way he had when excited — gesturing wildly, getting words wrong. His joy was almost **ludicrous**, and yet she felt genuine **gratitude** for it. The **seduction** of someone else's happiness is real; you don't have to earn it, you only have to stand close enough to catch it. For a few minutes she let herself **luxuriate** in his energy, no longer **resentful** of the morning.
+By noon the mood had shifted, as moods do. Her colleague arrived [exuberant]{.vocab tabindex="0" data-def="exuberant · adj. 兴高采烈的；活跃的；愉快的; 茁壮的，繁茂的; 兴高采烈地；活跃地；愉快地"}, practically [inebriate]{.vocab tabindex="0" data-def="inebriate · adj. 酒醉的; 酒鬼,酗酒者; 使酒醉,灌醉; 使兴奋"} on good news, talking in that [hilarious]{.vocab tabindex="0" data-def="hilarious · adj. 十分有趣的, 非常滑稽的; 欢闹的"} way he had when excited — gesturing wildly, getting words wrong. His joy was almost [ludicrous]{.vocab tabindex="0" data-def="ludicrous · adj. 荒唐可笑的,滑稽可笑的"}, and yet she felt genuine [gratitude]{.vocab tabindex="0" data-def="gratitude · n. 感激, 感谢"} for it. The [seduction]{.vocab tabindex="0" data-def="seduction · n. 诱惑；魅力；诱惑物"} of someone else's happiness is real; you don't have to earn it, you only have to stand close enough to catch it. For a few minutes she let herself [luxuriate]{.vocab tabindex="0" data-def="luxuriate · vi. 茂盛的生长,生活奢侈,沉溺"} in his energy, no longer [resentful]{.vocab tabindex="0" data-def="resentful · adj. 感到愤恨的, 表示愤恨的, 憎恨的"} of the morning.
 
-But the **pessimist** in her lingered at the edge of the room. Some part of her brain was still running its **obsession** — a loop, a **nightmare** she hadn't dreamed but somehow carried. The **sentiment** she kept returning to was old and worn smooth: that happiness was temporary, that joy had the texture of **phantasia**, beautiful precisely because it wasn't solid. She recognised in herself a tendency to **satisfice** — to accept just enough calm rather than reach for something more. It was safer that way. Less **repulsive** than the alternative of wanting too much and being **miserable** when it didn't last.
+But the [pessimist]{.vocab tabindex="0" data-def="pessimist · n. 悲观主义者"} in her lingered at the edge of the room. Some part of her brain was still running its [obsession]{.vocab tabindex="0" data-def="obsession · n. 困扰, 无法摆脱的思想"} — a loop, a [nightmare]{.vocab tabindex="0" data-def="nightmare · n. 噩梦; 〈口〉可怕的事情, 无法摆脱的恐惧"} she hadn't dreamed but somehow carried. The [sentiment]{.vocab tabindex="0" data-def="sentiment · n. 柔情; 态度或意见; 观点; 意见"} she kept returning to was old and worn smooth: that happiness was temporary, that joy had the texture of [phantasia]{.vocab tabindex="0" data-def="phantasia · n. 幻想，白日梦"}, beautiful precisely because it wasn't solid. She recognised in herself a tendency to [satisfice]{.vocab tabindex="0" data-def="satisfice · vi. 满足最低要求"} — to accept just enough calm rather than reach for something more. It was safer that way. Less [repulsive]{.vocab tabindex="0" data-def="repulsive · adj. 令人厌恶的,可憎的"} than the alternative of wanting too much and being [miserable]{.vocab tabindex="0" data-def="miserable · adj. 悲惨的，不幸的，可怜的; 令人痛苦的；令人不快的; 低劣的；贫乏的; 卑鄙的，可耻的，可恶的"} when it didn't last.
 
-By evening she had found a different register. A glass of wine, a dog-eared novel, the particular **nostalgia** of a song heard through a wall. She was **plastered** with nothing stronger than tiredness. **Fervently** she hoped the next day would arrive with less weight. And there was, beneath all of it, a faint, **irritated** tenderness toward herself — for the **philogyny** she held for the women in the books she loved, for the strange, **endearing** mess of being a person who felt things this loudly, this often, this much.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **dysphoria** <span class="wpos">n.</span> | 病理性心境恶劣，烦躁不安 |
-| **empathize** <span class="wpos">v.</span> | 移情,神会 |
-| **endearing** <span class="wpos">adj.</span> | 使人喜欢的;讨人喜欢的 |
-| **exuberant** <span class="wpos">adj.</span> | 兴高采烈的；活跃的；愉快的; 茁壮的，繁茂的; 兴高采烈地；活跃地；愉快地 |
-| **fervently** <span class="wpos">adv.</span> | 热烈地;热情地;强烈地 |
-| **gratitude** <span class="wpos">n.</span> | 感激, 感谢 |
-| **grievance** <span class="wpos">n.</span> | 委屈, 苦衷, 不满, 怨恨 |
-| **hilarious** <span class="wpos">adj.</span> | 十分有趣的, 非常滑稽的; 欢闹的 |
-| **inebriate** <span class="wpos">adj.</span> | 酒醉的; 酒鬼,酗酒者; 使酒醉,灌醉; 使兴奋 |
-| **irritated** <span class="wpos">adj.</span> | 恼怒的,生气的 |
-| **ludicrous** <span class="wpos">adj.</span> | 荒唐可笑的,滑稽可笑的 |
-| **luxuriate** <span class="wpos">vi.</span> | 茂盛的生长,生活奢侈,沉溺 |
-| **masochism** <span class="wpos">n.</span> | 受虐狂；被虐待狂 |
-| **masochist** <span class="wpos">n.</span> | 性受虐狂者,受虐狂者 |
-| **miserable** <span class="wpos">adj.</span> | 悲惨的，不幸的，可怜的; 令人痛苦的；令人不快的; 低劣的；贫乏的; 卑鄙的，可耻的，可恶的 |
-| **nightmare** <span class="wpos">n.</span> | 噩梦; 〈口〉可怕的事情, 无法摆脱的恐惧 |
-| **nostalgia** <span class="wpos">n.</span> | 对往事的怀恋, 怀旧 |
-| **obsession** <span class="wpos">n.</span> | 困扰, 无法摆脱的思想 |
-| **pensively** <span class="wpos">adv.</span> | 沉思地,焦虑地 |
-| **pessimist** <span class="wpos">n.</span> | 悲观主义者 |
-| **phantasia** <span class="wpos">n.</span> | 幻想，白日梦 |
-| **philogyny** <span class="wpos">n.</span> | 对女人喜欢,对女子的爱慕 |
-| **plastered** <span class="wpos">adj.</span> | 喝醉了的 |
-| **reluctant** <span class="wpos">adj.</span> | 不情愿的, 勉强的 |
-| **repulsive** <span class="wpos">adj.</span> | 令人厌恶的,可憎的 |
-| **resentful** <span class="wpos">adj.</span> | 感到愤恨的, 表示愤恨的, 憎恨的 |
-| **satisfice** <span class="wpos">vi.</span> | 满足最低要求 |
-| **seduction** <span class="wpos">n.</span> | 诱惑；魅力；诱惑物 |
-| **sensation** <span class="wpos">n.</span> | 感觉, 感受; 知觉; 激动, 轰动 |
-| **sentiment** <span class="wpos">n.</span> | 柔情; 态度或意见; 观点; 意见 |
-:::
-:::
-::::
+By evening she had found a different register. A glass of wine, a dog-eared novel, the particular [nostalgia]{.vocab tabindex="0" data-def="nostalgia · n. 对往事的怀恋, 怀旧"} of a song heard through a wall. She was [plastered]{.vocab tabindex="0" data-def="plastered · adj. 喝醉了的"} with nothing stronger than tiredness. [Fervently]{.vocab tabindex="0" data-def="fervently · adv. 热烈地;热情地;强烈地"} she hoped the next day would arrive with less weight. And there was, beneath all of it, a faint, [irritated]{.vocab tabindex="0" data-def="irritated · adj. 恼怒的,生气的"} tenderness toward herself — for the [philogyny]{.vocab tabindex="0" data-def="philogyny · n. 对女人喜欢,对女子的爱慕"} she held for the women in the books she loved, for the strange, [endearing]{.vocab tabindex="0" data-def="endearing · adj. 使人喜欢的;讨人喜欢的"} mess of being a person who felt things this loudly, this often, this much.
 
 ### The Weight We Carry Through the Night
 
-:::: {.columns}
-::: {.column width="57%"}
-She lay **shattered** on the kitchen floor — not physically broken, but hollowed out in the way only grief can hollow a person. The news had been **startling**, almost surreal: her brother, whom she had spoken to just that morning, was gone. Nothing could have **stimulate**d her back to herself that night, not tea, not television, not the careful **condolence**s her neighbours pressed through the door.
+She lay [shattered]{.vocab tabindex="0" data-def="shattered · adj. 破碎的；极度疲劳的 打碎；削弱；使心烦意乱"} on the kitchen floor — not physically broken, but hollowed out in the way only grief can hollow a person. The news had been [startling]{.vocab tabindex="0" data-def="startling · adj. 令人震惊的,惊人的"}, almost surreal: her brother, whom she had spoken to just that morning, was gone. Nothing could have [stimulate]{.vocab tabindex="0" data-def="stimulate · vt. 刺激；激励"}d her back to herself that night, not tea, not television, not the careful [condolence]{.vocab tabindex="0" data-def="condolence · n. 同情;吊唁"}s her neighbours pressed through the door.
 
-A quiet **suspicion** crept in by midnight — had she missed the signs? The thought was **torturous**, cycling through her mind in a loop she couldn't break. It was **uncannily** familiar, this particular shade of guilt; she had felt it once before, years ago, and now it returned **withering** her confidence, stripping her bare. She was **distracted** beyond reason, **distraught** in a way that made the walls feel closer. The **desolation** was total, a vast inland silence she couldn't see across.
+A quiet [suspicion]{.vocab tabindex="0" data-def="suspicion · n. 怀疑, 嫌疑; 疑心, 猜疑; 一点儿, 少量"} crept in by midnight — had she missed the signs? The thought was [torturous]{.vocab tabindex="0" data-def="torturous · adj. 折磨人的;充满痛苦的"}, cycling through her mind in a loop she couldn't break. It was [uncannily]{.vocab tabindex="0" data-def="uncannily · adv. 惊异地,危险地,神秘地"} familiar, this particular shade of guilt; she had felt it once before, years ago, and now it returned [withering]{.vocab tabindex="0" data-def="withering · adj. 使人畏缩的; 使人害羞的; 使人难堪的"} her confidence, stripping her bare. She was [distracted]{.vocab tabindex="0" data-def="distracted · adj. 心烦意乱的,慌张失措的,错乱的"} beyond reason, [distraught]{.vocab tabindex="0" data-def="distraught · adj. 忧心如焚的;心神错乱的;几乎发狂的"} in a way that made the walls feel closer. The [desolation]{.vocab tabindex="0" data-def="desolation · n. 荒芜；废墟；孤寂；忧伤"} was total, a vast inland silence she couldn't see across.
 
 ---
 
-Yet grief, she knew, was never a single note. She felt the pull of **allurement** toward old photographs, **compulsive**ly opening the same album again and again, as though repetition might conjure him back. She was **ambivalent** about crying — a **blubbering** release felt both necessary and grotesque — so she did neither, held in place by **compulsion** and restraint at once. The **affliction** of loss sat alongside something almost **appetitive**, a raw hunger to remember every detail before memory softened the edges.
+Yet grief, she knew, was never a single note. She felt the pull of [allurement]{.vocab tabindex="0" data-def="allurement · n. 诱惑;吸引; 诱惑物;有诱惑力的事物"} toward old photographs, [compulsive]{.vocab tabindex="0" data-def="compulsive · adj. 极有趣的，令人着迷的; 因着迷而引起的，上瘾的; 强迫性的; 极有趣地，令人着迷地；强迫性地"}ly opening the same album again and again, as though repetition might conjure him back. She was [ambivalent]{.vocab tabindex="0" data-def="ambivalent · adj. 对某物、某人或某境况具有或显示矛盾情感的"} about crying — a [blubbering]{.vocab tabindex="0" data-def="blubbering 提取鲸脂"} release felt both necessary and grotesque — so she did neither, held in place by [compulsion]{.vocab tabindex="0" data-def="compulsion · n. 强迫,被迫; 欲望,冲动,要求"} and restraint at once. The [affliction]{.vocab tabindex="0" data-def="affliction · n. 折磨；苦恼；苦难"} of loss sat alongside something almost [appetitive]{.vocab tabindex="0" data-def="appetitive · adj. 食欲的,有食欲的,促进食欲的"}, a raw hunger to remember every detail before memory softened the edges.
 
-By the second day, **discontent** with her own numbness set in. Friends offered **compassion** generously, but she felt the slow creep of **alienation**, as though their warmth reached her only **vicariously**, filtered through glass. Their **aspiration**s to comfort her were **astounding** in their sincerity, and yet she felt **despondent**, **discourage**d by the gap between their care and her capacity to receive it. The **burdensome** smallness of her own responses **disgruntle**d her further.
+By the second day, [discontent]{.vocab tabindex="0" data-def="discontent · n. 不满"} with her own numbness set in. Friends offered [compassion]{.vocab tabindex="0" data-def="compassion · n. 怜悯, 同情"} generously, but she felt the slow creep of [alienation]{.vocab tabindex="0" data-def="alienation · n. 离间,疏远; 疏离感；离心离德"}, as though their warmth reached her only [vicariously]{.vocab tabindex="0" data-def="vicarious · adj. 从他人经验中获得的；间接感受到的"}, filtered through glass. Their [aspiration]{.vocab tabindex="0" data-def="aspiration · n. 抱负；志向；渴望；送气音"}s to comfort her were [astounding]{.vocab tabindex="0" data-def="astounding · adj. 使人震惊的"} in their sincerity, and yet she felt [despondent]{.vocab tabindex="0" data-def="despondent · adj. 沮丧的,泄气的"}, [discourage]{.vocab tabindex="0" data-def="discourage · vt. 使气馁；使沮丧; 阻碍；劝阻"}d by the gap between their care and her capacity to receive it. The [burdensome]{.vocab tabindex="0" data-def="burdensome · adj. 繁重的,烦累的,难以承担的"} smallness of her own responses [disgruntle]{.vocab tabindex="0" data-def="disgruntle · vt. 使不高兴"}d her further.
 
-She worried she was becoming **delusional** — that the sense of his presence in the next room was a symptom rather than a gift. Her therapist had warned her about this, the mind's **enchanting** talent for softening unbearable fact into bearable fiction.
+She worried she was becoming [delusional]{.vocab tabindex="0" data-def="delusional 妄想的"} — that the sense of his presence in the next room was a symptom rather than a gift. Her therapist had warned her about this, the mind's [enchanting]{.vocab tabindex="0" data-def="enchanting · adj. 使人喜悦的，可爱的；迷人的"} talent for softening unbearable fact into bearable fiction.
 
-Still, on the third morning, light came through the curtain at a particular angle, and something in her stirred — not joy, not yet, but **aspiration** of a different kind: the small, **startling** desire to go on.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **shattered** <span class="wpos">adj.</span> | 破碎的；极度疲劳的 打碎；削弱；使心烦意乱 |
-| **startling** <span class="wpos">adj.</span> | 令人震惊的,惊人的 |
-| **stimulate** <span class="wpos">vt.</span> | 刺激；激励 |
-| **suspicion** <span class="wpos">n.</span> | 怀疑, 嫌疑; 疑心, 猜疑; 一点儿, 少量 |
-| **torturous** <span class="wpos">adj.</span> | 折磨人的;充满痛苦的 |
-| **uncannily** <span class="wpos">adv.</span> | 惊异地,危险地,神秘地 |
-| **vicarious** <span class="wpos">adj.</span> | 从他人经验中获得的；间接感受到的 |
-| **withering** <span class="wpos">adj.</span> | 使人畏缩的; 使人害羞的; 使人难堪的 |
-| **affliction** <span class="wpos">n.</span> | 折磨；苦恼；苦难 |
-| **alienation** <span class="wpos">n.</span> | 离间,疏远; 疏离感；离心离德 |
-| **allurement** <span class="wpos">n.</span> | 诱惑;吸引; 诱惑物;有诱惑力的事物 |
-| **ambivalent** <span class="wpos">adj.</span> | 对某物、某人或某境况具有或显示矛盾情感的 |
-| **appetitive** <span class="wpos">adj.</span> | 食欲的,有食欲的,促进食欲的 |
-| **aspiration** <span class="wpos">n.</span> | 抱负；志向；渴望；送气音 |
-| **astounding** <span class="wpos">adj.</span> | 使人震惊的 |
-| **blubbering** | 提取鲸脂 |
-| **burdensome** <span class="wpos">adj.</span> | 繁重的,烦累的,难以承担的 |
-| **compassion** <span class="wpos">n.</span> | 怜悯, 同情 |
-| **compulsion** <span class="wpos">n.</span> | 强迫,被迫; 欲望,冲动,要求 |
-| **compulsive** <span class="wpos">adj.</span> | 极有趣的，令人着迷的; 因着迷而引起的，上瘾的; 强迫性的; 极有趣地，令人着迷地；强迫性地 |
-| **condolence** <span class="wpos">n.</span> | 同情;吊唁 |
-| **delusional** | 妄想的 |
-| **desolation** <span class="wpos">n.</span> | 荒芜；废墟；孤寂；忧伤 |
-| **despondent** <span class="wpos">adj.</span> | 沮丧的,泄气的 |
-| **discontent** <span class="wpos">n.</span> | 不满 |
-| **discourage** <span class="wpos">vt.</span> | 使气馁；使沮丧; 阻碍；劝阻 |
-| **disgruntle** <span class="wpos">vt.</span> | 使不高兴 |
-| **distracted** <span class="wpos">adj.</span> | 心烦意乱的,慌张失措的,错乱的 |
-| **distraught** <span class="wpos">adj.</span> | 忧心如焚的;心神错乱的;几乎发狂的 |
-| **enchanting** <span class="wpos">adj.</span> | 使人喜悦的，可爱的；迷人的 |
-:::
-:::
-::::
+Still, on the third morning, light came through the curtain at a particular angle, and something in her stirred — not joy, not yet, but [aspiration]{.vocab tabindex="0" data-def="aspiration · n. 抱负；志向；渴望；送气音"} of a different kind: the small, [startling]{.vocab tabindex="0" data-def="startling · adj. 令人震惊的,惊人的"} desire to go on.
 
 ### The Weight of a Wednesday Night
 
-:::: {.columns}
-::: {.column width="57%"}
-She had always been **optimistic** by nature, but tonight something felt **unsettling**. Sitting cross-legged on the bedroom floor, **meditating** in the amber glow of a single lamp, she tried to chase away the quiet **melancholy** that had crept in since sundown. The day had been **horrendous** — a cascade of small **misfortune**s that alone meant nothing but together left her feeling **vulnerable**, as though the world had decided to squeeze her all at once. A colleague's **irritating** comment at the morning meeting had lodged itself in her mind like a splinter; the **irritation** had curdled, by noon, into low-grade **resentment**, and by evening into the dull ache of **unpleasure** she could not quite name.
+She had always been [optimistic]{.vocab tabindex="0" data-def="optimistic · adj. 乐观的, 乐观主义的"} by nature, but tonight something felt [unsettling]{.vocab tabindex="0" data-def="unsettling · adj. 使人不安的;混乱的"}. Sitting cross-legged on the bedroom floor, [meditating]{.vocab tabindex="0" data-def="meditating · adj. 沉思的, 冥想的@动词meditate的"} in the amber glow of a single lamp, she tried to chase away the quiet [melancholy]{.vocab tabindex="0" data-def="melancholy · n. 忧郁, 悲哀; 忧郁的, 悲伤的"} that had crept in since sundown. The day had been [horrendous]{.vocab tabindex="0" data-def="horrendous · adj. 可怕的, 恐怖的; 极讨厌的"} — a cascade of small [misfortune]{.vocab tabindex="0" data-def="misfortune · n. 不幸, 厄运, 逆境; 不幸的事, 灾难, 灾祸"}s that alone meant nothing but together left her feeling [vulnerable]{.vocab tabindex="0" data-def="vulnerable · adj. 易受伤的, 脆弱的, 敏感的"}, as though the world had decided to squeeze her all at once. A colleague's [irritating]{.vocab tabindex="0" data-def="irritating · adj. 气人的, 使人不愉快的; 起刺激作用的"} comment at the morning meeting had lodged itself in her mind like a splinter; the [irritation]{.vocab tabindex="0" data-def="irritation · n. 刺激；刺激物；激怒；兴奋"} had curdled, by noon, into low-grade [resentment]{.vocab tabindex="0" data-def="resentment · n. 愤恨,不满,怨恨"}, and by evening into the dull ache of [unpleasure]{.vocab tabindex="0" data-def="unpleasure · n. 不愉快,不高兴,不满足"} she could not quite name.
 
-She thought about Marcus, the **disgruntled** neighbour who had slipped an **uninspired**, barely coherent note under her door complaining about noise. He struck her as a **malcontent** of the purest kind — someone whose **despondency** had calcified into a permanent posture of grievance. There was even talk in the building that he had once threatened the landlord in a manner so extreme that people whispered the word **psychopath**, though she suspected that was an exaggeration born of **fanaticism** for gossip. Still, his letter had made her feel **constrained**, watched, as if her own home were suddenly a place that required permission. A flash of anger rose — she was genuinely **pissed off** — before she breathed it back down. Letting him become an **abomination** in her mind would only deepen the trap.
+She thought about Marcus, the [disgruntled]{.vocab tabindex="0" data-def="disgruntled · adj. 不满的, 不高兴的"} neighbour who had slipped an [uninspired]{.vocab tabindex="0" data-def="uninspired · adj. 无想像力的; 无灵感的; 枯燥的"}, barely coherent note under her door complaining about noise. He struck her as a [malcontent]{.vocab tabindex="0" data-def="malcontent · n. 不满者; 不满的"} of the purest kind — someone whose [despondency]{.vocab tabindex="0" data-def="despondency · n. 失去勇气,失望"} had calcified into a permanent posture of grievance. There was even talk in the building that he had once threatened the landlord in a manner so extreme that people whispered the word [psychopath]{.vocab tabindex="0" data-def="psychopath · n. 精神变态者,精神病患者"}, though she suspected that was an exaggeration born of [fanaticism]{.vocab tabindex="0" data-def="fanaticism · n. 狂热;盲信;着迷"} for gossip. Still, his letter had made her feel [constrained]{.vocab tabindex="0" data-def="constrained · adj. 不舒服的,被强迫的,拘泥的"}, watched, as if her own home were suddenly a place that required permission. A flash of anger rose — she was genuinely [pissed off]{.vocab tabindex="0" data-def="pissed off 愤怒；生气，不高兴"} — before she breathed it back down. Letting him become an [abomination]{.vocab tabindex="0" data-def="abomination · n. 厌恶；憎恨；令人厌恶的事物"} in her mind would only deepen the trap.
 
-What she wanted, she realised, was **eudaemonia** — not the fizzy **exuberance** of a good party or the **captivating** rush of a new idea, but the steadier thing: **contentment**, the quiet proof that a life was being lived well. The **intriguing** puzzle was how to hold onto it when everything felt like it was pulling the other way. She had the **reluctance** of someone who knew the answer but found it **constrained** by habit — she kept choosing **complacency** over growth, kept threatening to change and then **chicken out**-ing at the last moment. The **drunkenness** of routine was its own kind of comfort, even when it numbed. She wanted to be **passionate** about something again, **passionate** the way she had been at twenty-two, before the years had taught her caution.
+What she wanted, she realised, was [eudaemonia]{.vocab tabindex="0" data-def="eudaemonia · n. 幸福,因理性而积极生活所带来的幸福"} — not the fizzy [exuberance]{.vocab tabindex="0" data-def="exuberance · n. 兴高采烈; 活跃; 愉快; 茁壮"} of a good party or the [captivating]{.vocab tabindex="0" data-def="captivating · adj. 迷人的; 有魅力的; 有吸引力的"} rush of a new idea, but the steadier thing: [contentment]{.vocab tabindex="0" data-def="contentment · n. 满足,满意"}, the quiet proof that a life was being lived well. The [intriguing]{.vocab tabindex="0" data-def="intriguing · adj. 引起好奇心的;令人感兴趣的;有迷惑力的"} puzzle was how to hold onto it when everything felt like it was pulling the other way. She had the [reluctance]{.vocab tabindex="0" data-def="reluctance · n. 不愿意；勉强"} of someone who knew the answer but found it [constrained]{.vocab tabindex="0" data-def="constrained · adj. 不舒服的,被强迫的,拘泥的"} by habit — she kept choosing [complacency]{.vocab tabindex="0" data-def="complacency · n. 自满;自得;自鸣得意"} over growth, kept threatening to change and then [chicken out]{.vocab tabindex="0" data-def="chicken out 临阵退缩；因害怕而停止做某事"}-ing at the last moment. The [drunkenness]{.vocab tabindex="0" data-def="drunkenness · n. 酩酊,醉态,醉"} of routine was its own kind of comfort, even when it numbed. She wanted to be [passionate]{.vocab tabindex="0" data-def="passionate · adj. 多情的; 表现激情的，激昂的; 热切的；强烈的"} about something again, [passionate]{.vocab tabindex="0" data-def="passionate · adj. 多情的; 表现激情的，激昂的; 热切的；强烈的"} the way she had been at twenty-two, before the years had taught her caution.
 
 She exhaled slowly, and let the lamp burn a little longer.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **eudaemonia** <span class="wpos">n.</span> | 幸福,因理性而积极生活所带来的幸福 |
-| **exuberance** <span class="wpos">n.</span> | 兴高采烈; 活跃; 愉快; 茁壮 |
-| **fanaticism** <span class="wpos">n.</span> | 狂热;盲信;着迷 |
-| **horrendous** <span class="wpos">adj.</span> | 可怕的, 恐怖的; 极讨厌的 |
-| **intriguing** <span class="wpos">adj.</span> | 引起好奇心的;令人感兴趣的;有迷惑力的 |
-| **irritating** <span class="wpos">adj.</span> | 气人的, 使人不愉快的; 起刺激作用的 |
-| **irritation** <span class="wpos">n.</span> | 刺激；刺激物；激怒；兴奋 |
-| **malcontent** <span class="wpos">n.</span> | 不满者; 不满的 |
-| **meditating** <span class="wpos">adj.</span> | 沉思的, 冥想的@动词meditate的 |
-| **melancholy** <span class="wpos">n.</span> | 忧郁, 悲哀; 忧郁的, 悲伤的 |
-| **misfortune** <span class="wpos">n.</span> | 不幸, 厄运, 逆境; 不幸的事, 灾难, 灾祸 |
-| **optimistic** <span class="wpos">adj.</span> | 乐观的, 乐观主义的 |
-| **passionate** <span class="wpos">adj.</span> | 多情的; 表现激情的，激昂的; 热切的；强烈的 |
-| **pissed off** | 愤怒；生气，不高兴 |
-| **psychopath** <span class="wpos">n.</span> | 精神变态者,精神病患者 |
-| **reluctance** <span class="wpos">n.</span> | 不愿意；勉强 |
-| **resentment** <span class="wpos">n.</span> | 愤恨,不满,怨恨 |
-| **uninspired** <span class="wpos">adj.</span> | 无想像力的; 无灵感的; 枯燥的 |
-| **unpleasure** <span class="wpos">n.</span> | 不愉快,不高兴,不满足 |
-| **unsettling** <span class="wpos">adj.</span> | 使人不安的;混乱的 |
-| **vulnerable** <span class="wpos">adj.</span> | 易受伤的, 脆弱的, 敏感的 |
-| **abomination** <span class="wpos">n.</span> | 厌恶；憎恨；令人厌恶的事物 |
-| **captivating** <span class="wpos">adj.</span> | 迷人的; 有魅力的; 有吸引力的 |
-| **chicken out** | 临阵退缩；因害怕而停止做某事 |
-| **complacency** <span class="wpos">n.</span> | 自满;自得;自鸣得意 |
-| **constrained** <span class="wpos">adj.</span> | 不舒服的,被强迫的,拘泥的 |
-| **contentment** <span class="wpos">n.</span> | 满足,满意 |
-| **despondency** <span class="wpos">n.</span> | 失去勇气,失望 |
-| **disgruntled** <span class="wpos">adj.</span> | 不满的, 不高兴的 |
-| **drunkenness** <span class="wpos">n.</span> | 酩酊,醉态,醉 |
-:::
-:::
-::::
 
 ### The Weight of a Restless Mind
 
-:::: {.columns}
-::: {.column width="57%"}
-Marcus sat in the empty café, **contemplative** and still, nursing the same cold coffee he had ordered an hour ago. Outside, autumn light fell in pale strips across the pavement — almost **invigorating**, if he had been in any mood to notice. He was not. He had been caught in a **predicament** for weeks now: a friendship quietly collapsing, and no clean way to stop it.
+Marcus sat in the empty café, [contemplative]{.vocab tabindex="0" data-def="contemplative · adj. 沉思的, 出神的"} and still, nursing the same cold coffee he had ordered an hour ago. Outside, autumn light fell in pale strips across the pavement — almost [invigorating]{.vocab tabindex="0" data-def="invigorating · adj. 精神充沛的,爽快的"}, if he had been in any mood to notice. He was not. He had been caught in a [predicament]{.vocab tabindex="0" data-def="predicament · n. 困难的处境;窘境"} for weeks now: a friendship quietly collapsing, and no clean way to stop it.
 
-He had watched Yuna grow **disapproving** of nearly everything he did — his **recreational** Saturday hikes, his taste in music, the **sentimental** photographs he kept pinned above his desk. Her **disaffection** had crept in without announcement, and **regrettably**, he had not seen it coming. Now their exchanges carried something **off-putting** he could not name — a flatness, an absence of warmth. He **wonder about** whether he had changed, or she had, or both. The **introspection** was exhausting.
+He had watched Yuna grow [disapproving]{.vocab tabindex="0" data-def="disapproving · adj. 不满的;反对的"} of nearly everything he did — his [recreational]{.vocab tabindex="0" data-def="recreational · adj. 休养的,娱乐的"} Saturday hikes, his taste in music, the [sentimental]{.vocab tabindex="0" data-def="sentimental · adj. 伤感的, 多愁善感的; 感情用事的, 寓有情感的"} photographs he kept pinned above his desk. Her [disaffection]{.vocab tabindex="0" data-def="disaffection · n. 不忠; 不满"} had crept in without announcement, and [regrettably]{.vocab tabindex="0" data-def="regrettably · adv. 抱歉地,遗憾地,可悲地"}, he had not seen it coming. Now their exchanges carried something [off-putting]{.vocab tabindex="0" data-def="off-putting · adj. 令人厌恶的; 老是推托的"} he could not name — a flatness, an absence of warmth. He [wonder about]{.vocab tabindex="0" data-def="wonder about"} whether he had changed, or she had, or both. The [introspection]{.vocab tabindex="0" data-def="introspection · n. 反省,内省"} was exhausting.
 
-He had spoken once to a mutual friend, a woman of rare **sensibility**, who listened with a **sympathetic** tilt of the head. "You're not wrong to feel hurt," she said, **affectionate** in a way that made the kindness land cleanly. But kindness alone could not dissolve the **apprehension** sitting in his chest — that low, steady dread of the next conversation, the next silence. He was **apprehensive** in a way that had begun to feel permanent.
+He had spoken once to a mutual friend, a woman of rare [sensibility]{.vocab tabindex="0" data-def="sensibility · n. 识别力, 敏感性, 灵敏性; 感情"}, who listened with a [sympathetic]{.vocab tabindex="0" data-def="sympathetic · adj. 表示同情的; 赞同的, 支持的"} tilt of the head. "You're not wrong to feel hurt," she said, [affectionate]{.vocab tabindex="0" data-def="affectionate · adj. 慈爱的,充满深情的,温柔亲切的"} in a way that made the kindness land cleanly. But kindness alone could not dissolve the [apprehension]{.vocab tabindex="0" data-def="apprehension · n. 忧虑,担心; 逮捕; 理解；领悟"} sitting in his chest — that low, steady dread of the next conversation, the next silence. He was [apprehensive]{.vocab tabindex="0" data-def="apprehensive · adj. 不安的；害怕的；担心的；恐惧的；焦虑的; 善于领会的；敏悟的; 知晓的，有认识力的"} in a way that had begun to feel permanent.
 
-What stung most was the **inferiority** he felt when he replayed the arguments: always scrambling to explain himself, always a step behind. He had once enjoyed a private **megalomania** about his own emotional intelligence — **slack-jawed** now at how thoroughly that had been dismantled. In the bad hours, a strange **nympholepsy** overtook him, an obsessive pull toward some imagined version of the friendship that had never quite existed. He recognized it as **sour grapes**, mostly — telling himself the closeness hadn't mattered, because admitting it had was worse.
+What stung most was the [inferiority]{.vocab tabindex="0" data-def="inferiority · n. 劣势，劣等；下等；次级; 自卑情绪，自卑感"} he felt when he replayed the arguments: always scrambling to explain himself, always a step behind. He had once enjoyed a private [megalomania]{.vocab tabindex="0" data-def="megalomania · n. 妄想自大狂; 狂热"} about his own emotional intelligence — [slack-jawed]{.vocab tabindex="0" data-def="slack-jawed · adj. 发呆的,目瞪口呆的"} now at how thoroughly that had been dismantled. In the bad hours, a strange [nympholepsy]{.vocab tabindex="0" data-def="nympholepsy · n. 狂乱,着迷,狂热,性欲增盛,小阴唇切除术"} overtook him, an obsessive pull toward some imagined version of the friendship that had never quite existed. He recognized it as [sour grapes]{.vocab tabindex="0" data-def="sour grapes 酸葡萄；酸葡萄作用"}, mostly — telling himself the closeness hadn't mattered, because admitting it had was worse.
 
-He scrolled through old messages **frantically**, then stopped himself. This was not **self-esteem** — this was its opposite. The **tribulation** of replaying old conversations was producing nothing but a low-grade **hallucination** of meaning, seeing intentions in punctuation and pauses. He needed **tranquility**, not more evidence.
+He scrolled through old messages [frantically]{.vocab tabindex="0" data-def="frantically · adv. 疯狂地;狂热地"}, then stopped himself. This was not [self-esteem]{.vocab tabindex="0" data-def="self-esteem · n. 自尊; 自负"} — this was its opposite. The [tribulation]{.vocab tabindex="0" data-def="tribulation · n. 苦难；磨难；忧患"} of replaying old conversations was producing nothing but a low-grade [hallucination]{.vocab tabindex="0" data-def="hallucination · n. 幻觉，幻想；错觉"} of meaning, seeing intentions in punctuation and pauses. He needed [tranquility]{.vocab tabindex="0" data-def="tranquility · n. 平静;安静;安宁; 平稳;稳定"}, not more evidence.
 
-He closed his phone and let his eyes go soft on the window. Some part of him carried a quiet **wistfulness** for the version of himself who had walked into this friendship without all this weight. That person had been **light-hearted**, easy, unburdened by the **preoccupation** of wondering whether he was enough. He did not know how to return to that. But sitting here, at least, he had stopped moving **frantically** — and that, for now, felt like a beginning, however small, of something **psychedelic** in the truest sense: a shift in how the whole picture looked.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **frantically** <span class="wpos">adv.</span> | 疯狂地;狂热地 |
-| **inferiority** <span class="wpos">n.</span> | 劣势，劣等；下等；次级; 自卑情绪，自卑感 |
-| **megalomania** <span class="wpos">n.</span> | 妄想自大狂; 狂热 |
-| **nympholepsy** <span class="wpos">n.</span> | 狂乱,着迷,狂热,性欲增盛,小阴唇切除术 |
-| **off-putting** <span class="wpos">adj.</span> | 令人厌恶的; 老是推托的 |
-| **predicament** <span class="wpos">n.</span> | 困难的处境;窘境 |
-| **psychedelic** <span class="wpos">adj.</span> | 引起幻觉的,致幻觉的; 产生迷幻效果的 |
-| **regrettably** <span class="wpos">adv.</span> | 抱歉地,遗憾地,可悲地 |
-| **self-esteem** <span class="wpos">n.</span> | 自尊; 自负 |
-| **sensibility** <span class="wpos">n.</span> | 识别力, 敏感性, 灵敏性; 感情 |
-| **sentimental** <span class="wpos">adj.</span> | 伤感的, 多愁善感的; 感情用事的, 寓有情感的 |
-| **slack-jawed** <span class="wpos">adj.</span> | 发呆的,目瞪口呆的 |
-| **sour grapes** | 酸葡萄；酸葡萄作用 |
-| **sympathetic** <span class="wpos">adj.</span> | 表示同情的; 赞同的, 支持的 |
-| **tranquility** <span class="wpos">n.</span> | 平静;安静;安宁; 平稳;稳定 |
-| **tribulation** <span class="wpos">n.</span> | 苦难；磨难；忧患 |
-| **wistfulness** <span class="wpos">n.</span> | 渴望,愿望 |
-| **affectionate** <span class="wpos">adj.</span> | 慈爱的,充满深情的,温柔亲切的 |
-| **apprehension** <span class="wpos">n.</span> | 忧虑,担心; 逮捕; 理解；领悟 |
-| **apprehensive** <span class="wpos">adj.</span> | 不安的；害怕的；担心的；恐惧的；焦虑的; 善于领会的；敏悟的; 知晓的，有认识力的 |
-| **disaffection** <span class="wpos">n.</span> | 不忠; 不满 |
-| **disapproving** <span class="wpos">adj.</span> | 不满的;反对的 |
-| **invigorating** <span class="wpos">adj.</span> | 精神充沛的,爽快的 |
-| **recreational** <span class="wpos">adj.</span> | 休养的,娱乐的 |
-| **wonder about** |  |
-| **contemplative** <span class="wpos">adj.</span> | 沉思的, 出神的 |
-| **hallucination** <span class="wpos">n.</span> | 幻觉，幻想；错觉 |
-| **introspection** <span class="wpos">n.</span> | 反省,内省 |
-| **light-hearted** <span class="wpos">adj.</span> | 轻松愉快的,无忧无虑的; 随便的,漫不经心的 |
-| **preoccupation** <span class="wpos">n.</span> | 全神贯注，入神; 当务之急；使人全神贯注的事物 |
-:::
-:::
-::::
+He closed his phone and let his eyes go soft on the window. Some part of him carried a quiet [wistfulness]{.vocab tabindex="0" data-def="wistfulness · n. 渴望,愿望"} for the version of himself who had walked into this friendship without all this weight. That person had been [light-hearted]{.vocab tabindex="0" data-def="light-hearted · adj. 轻松愉快的,无忧无虑的; 随便的,漫不经心的"}, easy, unburdened by the [preoccupation]{.vocab tabindex="0" data-def="preoccupation · n. 全神贯注，入神; 当务之急；使人全神贯注的事物"} of wondering whether he was enough. He did not know how to return to that. But sitting here, at least, he had stopped moving [frantically]{.vocab tabindex="0" data-def="frantically · adv. 疯狂地;狂热地"} — and that, for now, felt like a beginning, however small, of something [psychedelic]{.vocab tabindex="0" data-def="psychedelic · adj. 引起幻觉的,致幻觉的; 产生迷幻效果的"} in the truest sense: a shift in how the whole picture looked.
 
 ### The Weight of Waking Up
 
-:::: {.columns}
-::: {.column width="57%"}
-She sat at the edge of the bed, trying to **collect myself** after another restless night. The **psychological** damage of the past year had settled into her bones quietly, the way cold does. She had believed in something — in him, in the project, in the version of herself that seemed to have it all figured out — and now the **disillusionment** sat in her chest like a stone that refused to dissolve.
+She sat at the edge of the bed, trying to [collect myself]{.vocab tabindex="0" data-def="collect myself"} after another restless night. The [psychological]{.vocab tabindex="0" data-def="psychological · adj. 心理的; 精神的; 心理学的; 关于心理学的"} damage of the past year had settled into her bones quietly, the way cold does. She had believed in something — in him, in the project, in the version of herself that seemed to have it all figured out — and now the [disillusionment]{.vocab tabindex="0" data-def="disillusionment · n. 醒悟;理想破灭"} sat in her chest like a stone that refused to dissolve.
 
-Her therapist had told her she was **psychologically** resilient, that she processed loss better than most. She wanted to believe that. But some mornings she still caught herself drifting back into **cloud-cuckoo-land**, replaying the old story where everything turned out fine, where the recognition finally came, where she was enough.
+Her therapist had told her she was [psychologically]{.vocab tabindex="0" data-def="psychologically · adv. 心理上地;心理学地"} resilient, that she processed loss better than most. She wanted to believe that. But some mornings she still caught herself drifting back into [cloud-cuckoo-land]{.vocab tabindex="0" data-def="cloud-cuckoo-land · n. 脱离现实的幻境"}, replaying the old story where everything turned out fine, where the recognition finally came, where she was enough.
 
-It was the **emotional arousal** that surprised her most — how a single memory could spike her pulse, flood her with heat, then leave her hollow. She had started to recognize it as a signal rather than a verdict. And slowly, hesitantly, something lighter was threading through the heaviness. When her niece called just to say "**Hooray for you!**" after hearing she'd submitted the application, she laughed — a real one. The **Impostor Syndrome** was still there, whispering that she didn't deserve any of it. But for one quiet moment, she let the warmth land anyway.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **psychological** <span class="wpos">adj.</span> | 心理的; 精神的; 心理学的; 关于心理学的 |
-| **collect myself** |  |
-| **disillusionment** <span class="wpos">n.</span> | 醒悟;理想破灭 |
-| **psychologically** <span class="wpos">adv.</span> | 心理上地;心理学地 |
-| **cloud-cuckoo-land** <span class="wpos">n.</span> | 脱离现实的幻境 |
-| **emotional arousal** |  |
-| **Horray   for you!** |  |
-| **Impostor Syndrome** |  |
-:::
-:::
-::::
+It was the [emotional arousal]{.vocab tabindex="0" data-def="emotional arousal"} that surprised her most — how a single memory could spike her pulse, flood her with heat, then leave her hollow. She had started to recognize it as a signal rather than a verdict. And slowly, hesitantly, something lighter was threading through the heaviness. When her niece called just to say "**Hooray for you!**" after hearing she'd submitted the application, she laughed — a real one. The [Impostor Syndrome]{.vocab tabindex="0" data-def="Impostor Syndrome"} was still there, whispering that she didn't deserve any of it. But for one quiet moment, she let the warmth land anyway.

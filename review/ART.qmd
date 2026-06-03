@@ -2,305 +2,58 @@
 
 
 
-> 本主题共 6 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 6 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Long Night of Art, Music, and Story
 
-:::: {.columns}
-::: {.column width="57%"}
-The small gallery smelled of **sumi** ink and old varnish. On the far wall hung a **stele** rubbing mounted behind glass, its **tone** somewhere between ash and charcoal — a shade the curator called **noir** without irony. Beside it, a row of **delft** tiles arranged in a frieze carried a recurring **motif** of waves and ships, each **carved** by hand generations ago. A glass cabinet displayed a single **prunt**-studded goblet, the melted bead of decoration catching the light like a trapped insect. In the corner, a placard identified the instrument on the pedestal as a **qanon**, its strings long silent.
+The small gallery smelled of [sumi]{.vocab tabindex="0" data-def="sumi · n. 烟灰墨"} ink and old varnish. On the far wall hung a [stele]{.vocab tabindex="0" data-def="Stele · n. 石碑；石柱；中柱 stelen. 石碑,石柱,匾额"} rubbing mounted behind glass, its [tone]{.vocab tabindex="0" data-def="tone · n. 音调；音色；语气；色调; 用某种调子说；增强; 颜色调和；呈现悦目色调 Tone托恩"} somewhere between ash and charcoal — a shade the curator called [noir]{.vocab tabindex="0" data-def="noir · adj. 轮盘戏中黑色数字的"} without irony. Beside it, a row of [delft]{.vocab tabindex="0" data-def="delft · n. 代夫特陶器"} tiles arranged in a frieze carried a recurring [motif]{.vocab tabindex="0" data-def="motif · n. 主题；动机；图形；主旨；意念"} of waves and ships, each [carved]{.vocab tabindex="0" data-def="carve · vt. 雕刻；切开；开创; 切开；做雕刻工作"} by hand generations ago. A glass cabinet displayed a single [prunt]{.vocab tabindex="0" data-def="prunt · n. 粘花装饰"}-studded goblet, the melted bead of decoration catching the light like a trapped insect. In the corner, a placard identified the instrument on the pedestal as a [qanon]{.vocab tabindex="0" data-def="qanon · n. 卡农琴"}, its strings long silent.
 
-The evening's programme began with a **bop** quartet — no announcement, no **debut** fanfare, just four musicians taking their places and counting in. The **bass** settled into a low pulse while the **flute** climbed above it, the two lines forming a loose **duet** before the full **choir** of sound arrived. A single **bell** struck once from the back of the hall; whether it was **cast** iron or bronze no one knew, but the ring held the room. The recording that followed was deliberately **mono**, played through a single speaker to match the decade it came from, a **tune** so familiar the audience hummed without realising it. The **tenor** soloist entered halfway through the **canto**, steadying the **barre** of the phrase as if resting a palm on a dancer's rail.
+The evening's programme began with a [bop]{.vocab tabindex="0" data-def="bop · n. 波普爵士音乐；一击；防喷器"} quartet — no announcement, no [debut]{.vocab tabindex="0" data-def="debut · n. 〈法〉演员首次演出"} fanfare, just four musicians taking their places and counting in. The [bass]{.vocab tabindex="0" data-def="bass · n. 低音，低音部; 男低音；男低音歌手; 低音电吉他；低音提琴; 鲈鱼; 低音的；低声调的"} settled into a low pulse while the [flute]{.vocab tabindex="0" data-def="flute · n. 长笛; 用长笛吹奏; 吹长笛"} climbed above it, the two lines forming a loose [duet]{.vocab tabindex="0" data-def="duet · n. 二重奏"} before the full [choir]{.vocab tabindex="0" data-def="choir · n. 合唱队；唱诗班；舞蹈队; 合唱; 合唱"} of sound arrived. A single [bell]{.vocab tabindex="0" data-def="bell · n. 钟, 铃, 电铃；钟声, 铃声 装钟于，系铃于 鸣钟；成钟状鼓起 Belln. 贝尔"} struck once from the back of the hall; whether it was [cast]{.vocab tabindex="0" data-def="cast · vt. &amp; 投，掷，扔; 浇铸; 投射，加…于; 分配角色; 投，掷，抛，扔; 铸造物；塑件; 石膏…"} iron or bronze no one knew, but the ring held the room. The recording that followed was deliberately [mono]{.vocab tabindex="0" data-def="mono · adj. 单声道的; 单声道放音"}, played through a single speaker to match the decade it came from, a [tune]{.vocab tabindex="0" data-def="tune · n. 曲调, 曲子; &amp; 调音; 调整"} so familiar the audience hummed without realising it. The [tenor]{.vocab tabindex="0" data-def="tenor · n. 男高音；要旨，大意；票据的限期；稳定的进程; 男高音的"} soloist entered halfway through the [canto]{.vocab tabindex="0" data-def="canto · n. 曲调；篇；长诗的篇章"}, steadying the [barre]{.vocab tabindex="0" data-def="barre · n. 扶手杠；横档"} of the phrase as if resting a palm on a dancer's rail.
 
-Later, in the reading room, a writer introduced her new collection. The stories moved between **genre** with ease — **fable** one moment, **satirical** sketch the next, with one long piece that had the cold palette of **noir** fiction. She read a passage in which a **bard** performs at a provincial court, a **clown** hovering at the edge of the scene for **jest** that never quite lands. The prose had its own **motif**: a repeated image of a **gig** played in an empty street, music leaking out of a **mono** speaker nailed above a door. The **elegy** near the end of the set silenced the room completely, its **tone** shifting from wry distance to something that asked more of the listener than a simple **tune** ever could.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **satirical** <span class="wpos">adj.</span> | 含讽刺意味的, 嘲讽的 |
-| **bop** <span class="wpos">n.</span> | 波普爵士音乐；一击；防喷器 |
-| **gig** <span class="wpos">n.</span> | 现场演奏会，现场演唱会；现场喜剧表演; 工作; 单马双轮轻便马车; 千兆字节，吉字节; 表演，演奏；… |
-| **bard** <span class="wpos">n.</span> | 吟游诗人 |
-| **bass** <span class="wpos">n.</span> | 低音，低音部; 男低音；男低音歌手; 低音电吉他；低音提琴; 鲈鱼; 低音的；低声调的 |
-| **bell** <span class="wpos">n.</span> | 钟, 铃, 电铃；钟声, 铃声 装钟于，系铃于 鸣钟；成钟状鼓起 Belln. 贝尔 |
-| **cast** <span class="wpos">vt.</span> | &amp; 投，掷，扔; 浇铸; 投射，加…于; 分配角色; 投，掷，抛，扔; 铸造物；塑件; 石膏… |
-| **duet** <span class="wpos">n.</span> | 二重奏 |
-| **jest** <span class="wpos">n.</span> | 玩笑；笑话，俏皮话; 开玩笑；嘲笑; 嘲笑 |
-| **mono** <span class="wpos">adj.</span> | 单声道的; 单声道放音 |
-| **noir** <span class="wpos">adj.</span> | 轮盘戏中黑色数字的 |
-| **sumi** <span class="wpos">n.</span> | 烟灰墨 |
-| **tone** <span class="wpos">n.</span> | 音调；音色；语气；色调; 用某种调子说；增强; 颜色调和；呈现悦目色调 Tone托恩 |
-| **tune** <span class="wpos">n.</span> | 曲调, 曲子; &amp; 调音; 调整 |
-| **barre** <span class="wpos">n.</span> | 扶手杠；横档 |
-| **canto** <span class="wpos">n.</span> | 曲调；篇；长诗的篇章 |
-| **carve** <span class="wpos">vt.</span> | 雕刻；切开；开创; 切开；做雕刻工作 |
-| **choir** <span class="wpos">n.</span> | 合唱队；唱诗班；舞蹈队; 合唱; 合唱 |
-| **clown** <span class="wpos">n.</span> | 小丑；乡下人；粗鲁笨拙的人; 扮小丑；装傻 |
-| **debut** <span class="wpos">n.</span> | 〈法〉演员首次演出 |
-| **delft** <span class="wpos">n.</span> | 代夫特陶器 |
-| **elegy** <span class="wpos">n.</span> | 哀歌,挽歌 |
-| **fable** <span class="wpos">n.</span> | 寓言; 神话, 传说 |
-| **flute** <span class="wpos">n.</span> | 长笛; 用长笛吹奏; 吹长笛 |
-| **genre** | 体裁，类型 |
-| **motif** <span class="wpos">n.</span> | 主题；动机；图形；主旨；意念 |
-| **prunt** <span class="wpos">n.</span> | 粘花装饰 |
-| **qanon** <span class="wpos">n.</span> | 卡农琴 |
-| **Stele** <span class="wpos">n.</span> | 石碑；石柱；中柱 stelen. 石碑,石柱,匾额 |
-| **tenor** <span class="wpos">n.</span> | 男高音；要旨，大意；票据的限期；稳定的进程; 男高音的 |
-:::
-:::
-::::
+Later, in the reading room, a writer introduced her new collection. The stories moved between [genre]{.vocab tabindex="0" data-def="genre 体裁，类型"} with ease — [fable]{.vocab tabindex="0" data-def="fable · n. 寓言; 神话, 传说"} one moment, [satirical]{.vocab tabindex="0" data-def="satirical · adj. 含讽刺意味的, 嘲讽的"} sketch the next, with one long piece that had the cold palette of [noir]{.vocab tabindex="0" data-def="noir · adj. 轮盘戏中黑色数字的"} fiction. She read a passage in which a [bard]{.vocab tabindex="0" data-def="bard · n. 吟游诗人"} performs at a provincial court, a [clown]{.vocab tabindex="0" data-def="clown · n. 小丑；乡下人；粗鲁笨拙的人; 扮小丑；装傻"} hovering at the edge of the scene for [jest]{.vocab tabindex="0" data-def="jest · n. 玩笑；笑话，俏皮话; 开玩笑；嘲笑; 嘲笑"} that never quite lands. The prose had its own [motif]{.vocab tabindex="0" data-def="motif · n. 主题；动机；图形；主旨；意念"}: a repeated image of a [gig]{.vocab tabindex="0" data-def="gig · n. 现场演奏会，现场演唱会；现场喜剧表演; 工作; 单马双轮轻便马车; 千兆字节，吉字节; 表演，演奏；…"} played in an empty street, music leaking out of a [mono]{.vocab tabindex="0" data-def="mono · adj. 单声道的; 单声道放音"} speaker nailed above a door. The [elegy]{.vocab tabindex="0" data-def="elegy · n. 哀歌,挽歌"} near the end of the set silenced the room completely, its [tone]{.vocab tabindex="0" data-def="tone · n. 音调；音色；语气；色调; 用某种调子说；增强; 颜色调和；呈现悦目色调 Tone托恩"} shifting from wry distance to something that asked more of the listener than a simple [tune]{.vocab tabindex="0" data-def="tune · n. 曲调, 曲子; &amp; 调音; 调整"} ever could.
 
 ### Between the Gallery and the Concert Hall
 
-:::: {.columns}
-::: {.column width="57%"}
-The old artist sat beneath an **antique** lamp, rolling a **crayon** between her fingers before pressing it to the sketchpad. The **sketch** began simply — a doorway, a **statue** half-buried in ivy — rendered in **pastel** blues and creams that seemed to breathe in the soft light. Around the figure she pressed small **motifs**: a vine, a key, a bird mid-flight. The image was **iconic** already, the kind that becomes a **legend** in its own neighbourhood. To one side she had pinned a **parody** of Rodin clipped from a magazine, a reminder that great work and **satire** share the same root: the refusal to look away. She liked to **doodle** in the margins while she thought, little spirals and faces that no one would ever **depict** in a serious review, yet which held more of her true voice than anything she had tried to **endite** in words.
+The old artist sat beneath an [antique]{.vocab tabindex="0" data-def="antique · adj. 古时制造的, 古董的; 古代的; 古玩, 古董, 古物"} lamp, rolling a [crayon]{.vocab tabindex="0" data-def="crayon · n. 蜡笔，有色粉笔; 以蜡笔作画，用颜色粉笔画"} between her fingers before pressing it to the sketchpad. The [sketch]{.vocab tabindex="0" data-def="sketch · n. 素描；略图；梗概; 画素描或速写; 画素描或速写"} began simply — a doorway, a [statue]{.vocab tabindex="0" data-def="statue · n. 雕像，塑像; 以雕像装饰"} half-buried in ivy — rendered in [pastel]{.vocab tabindex="0" data-def="pastel · adj. 柔和的；彩色蜡笔的，粉蜡笔的; 粉蜡笔；粉蜡笔画"} blues and creams that seemed to breathe in the soft light. Around the figure she pressed small [motifs]{.vocab tabindex="0" data-def="motifs · n. 图案；动机"}: a vine, a key, a bird mid-flight. The image was [iconic]{.vocab tabindex="0" data-def="iconic · adj. 图标的，形象的"} already, the kind that becomes a [legend]{.vocab tabindex="0" data-def="legend · n. 传奇；说明；图例；刻印文字"} in its own neighbourhood. To one side she had pinned a [parody]{.vocab tabindex="0" data-def="parody · n. 滑稽的模仿诗文; 拙劣的模仿；荒谬的替代物; 滑稽地模仿，拙劣地模仿 parodies"} of Rodin clipped from a magazine, a reminder that great work and [satire]{.vocab tabindex="0" data-def="satire · n. 讽刺, 讥讽; 讽刺作品"} share the same root: the refusal to look away. She liked to [doodle]{.vocab tabindex="0" data-def="doodle · vi. 涂鸦；闲混；随意弹奏; 涂鸦；蠢人; 乱涂出；闲混；随意弹奏"} in the margins while she thought, little spirals and faces that no one would ever [depict]{.vocab tabindex="0" data-def="depict · vt. 描绘；描画; 描述"} in a serious review, yet which held more of her true voice than anything she had tried to [endite]{.vocab tabindex="0" data-def="endite · vt. 〈古〉写创作, 赋诗, 创作"} in words.
 
-In the next room, the chamber group was warming up. The **fiddle** player drew a long open note; the **viola** answered a third below; then a **treble** line from the violin curled upward like smoke. They ran a **medley** of sea-**ballad**s — **melody** following **melody** in loose **unison**, each one a **stanza** of sound complete in itself. The **reggae**-inflected bridge the arranger had spliced into the middle was a small shock, a tonal **trope** that should not have worked but did, the way a sudden **simile** rescues a flat sentence. Through the old **stereo** in the corridor the **finale** of last night's recording played back, the **rhymes** of bow-stroke and breath still audible beneath the hiss of the tape.
+In the next room, the chamber group was warming up. The [fiddle]{.vocab tabindex="0" data-def="fiddle · n. 小提琴; 瞎搞；拉小提琴; 虚度时光；拉小提琴"} player drew a long open note; the [viola]{.vocab tabindex="0" data-def="viola · n. 中提琴，中提琴演奏者 Violan. 维奥拉"} answered a third below; then a [treble]{.vocab tabindex="0" data-def="treble · adj. 三倍的；最高声部的；三层的；三重的; 三倍；最高声部; 变成三倍; 使成三倍"} line from the violin curled upward like smoke. They ran a [medley]{.vocab tabindex="0" data-def="medley · n. 混合；混杂；混合物; 混合的；拼凑的"} of sea-[ballad]{.vocab tabindex="0" data-def="ballad · n. 歌谣，民谣；叙事歌谣；流行抒情歌曲"}s — [melody]{.vocab tabindex="0" data-def="melody · n. 旋律；歌曲；美妙的音乐"} following [melody]{.vocab tabindex="0" data-def="melody · n. 旋律；歌曲；美妙的音乐"} in loose [unison]{.vocab tabindex="0" data-def="unison · n. 同度；同音；和谐；齐唱"}, each one a [stanza]{.vocab tabindex="0" data-def="stanza · n. 演出期；局；场；诗的一节"} of sound complete in itself. The [reggae]{.vocab tabindex="0" data-def="reggae · n. 瑞格舞"}-inflected bridge the arranger had spliced into the middle was a small shock, a tonal [trope]{.vocab tabindex="0" data-def="trope · n. 比喻；转义；修辞"} that should not have worked but did, the way a sudden [simile]{.vocab tabindex="0" data-def="simile · n. 明喻"} rescues a flat sentence. Through the old [stereo]{.vocab tabindex="0" data-def="stereo · n. 立体声；立体声系统；铅版；立体照片; 立体声的；立体的；立体感觉的"} in the corridor the [finale]{.vocab tabindex="0" data-def="finale · n. 终曲,末乐章"} of last night's recording played back, the [rhymes]{.vocab tabindex="0" data-def="rhymes · n. 尾韵；押韵; 押韵"} of bow-stroke and breath still audible beneath the hiss of the tape.
 
-Downstairs, a young critic was writing the **sequel** to his first pamphlet — a piece of **sitcom**-length **satire** aimed at the art world's habit of calling every **acrobat** with a spray-can a visionary. He paused, listening to the music drift down the stairwell, and for a moment forgot what he had been so eager to mock.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **trope** <span class="wpos">n.</span> | 比喻；转义；修辞 |
-| **viola** <span class="wpos">n.</span> | 中提琴，中提琴演奏者 Violan. 维奥拉 |
-| **ballad** <span class="wpos">n.</span> | 歌谣，民谣；叙事歌谣；流行抒情歌曲 |
-| **crayon** <span class="wpos">n.</span> | 蜡笔，有色粉笔; 以蜡笔作画，用颜色粉笔画 |
-| **depict** <span class="wpos">vt.</span> | 描绘；描画; 描述 |
-| **doodle** <span class="wpos">vi.</span> | 涂鸦；闲混；随意弹奏; 涂鸦；蠢人; 乱涂出；闲混；随意弹奏 |
-| **endite** <span class="wpos">vt.</span> | 〈古〉写创作, 赋诗, 创作 |
-| **fiddle** <span class="wpos">n.</span> | 小提琴; 瞎搞；拉小提琴; 虚度时光；拉小提琴 |
-| **finale** <span class="wpos">n.</span> | 终曲,末乐章 |
-| **iconic** <span class="wpos">adj.</span> | 图标的，形象的 |
-| **legend** <span class="wpos">n.</span> | 传奇；说明；图例；刻印文字 |
-| **medley** <span class="wpos">n.</span> | 混合；混杂；混合物; 混合的；拼凑的 |
-| **melody** <span class="wpos">n.</span> | 旋律；歌曲；美妙的音乐 |
-| **motifs** <span class="wpos">n.</span> | 图案；动机 |
-| **parody** <span class="wpos">n.</span> | 滑稽的模仿诗文; 拙劣的模仿；荒谬的替代物; 滑稽地模仿，拙劣地模仿 parodies |
-| **pastel** <span class="wpos">adj.</span> | 柔和的；彩色蜡笔的，粉蜡笔的; 粉蜡笔；粉蜡笔画 |
-| **reggae** <span class="wpos">n.</span> | 瑞格舞 |
-| **rhymes** <span class="wpos">n.</span> | 尾韵；押韵; 押韵 |
-| **satire** <span class="wpos">n.</span> | 讽刺, 讥讽; 讽刺作品 |
-| **sequel** <span class="wpos">n.</span> | 续集；结局；继续；后果 |
-| **simile** <span class="wpos">n.</span> | 明喻 |
-| **sitcom** <span class="wpos">n.</span> | 情景喜剧 |
-| **sketch** <span class="wpos">n.</span> | 素描；略图；梗概; 画素描或速写; 画素描或速写 |
-| **stanza** <span class="wpos">n.</span> | 演出期；局；场；诗的一节 |
-| **statue** <span class="wpos">n.</span> | 雕像，塑像; 以雕像装饰 |
-| **stereo** <span class="wpos">n.</span> | 立体声；立体声系统；铅版；立体照片; 立体声的；立体的；立体感觉的 |
-| **treble** <span class="wpos">adj.</span> | 三倍的；最高声部的；三层的；三重的; 三倍；最高声部; 变成三倍; 使成三倍 |
-| **unison** <span class="wpos">n.</span> | 同度；同音；和谐；齐唱 |
-| **acrobat** <span class="wpos">n.</span> | 杂技演员; 立场观点善变的人，主张、政见等变化无常的人 |
-| **antique** <span class="wpos">adj.</span> | 古时制造的, 古董的; 古代的; 古玩, 古董, 古物 |
-:::
-:::
-::::
+Downstairs, a young critic was writing the [sequel]{.vocab tabindex="0" data-def="sequel · n. 续集；结局；继续；后果"} to his first pamphlet — a piece of [sitcom]{.vocab tabindex="0" data-def="sitcom · n. 情景喜剧"}-length [satire]{.vocab tabindex="0" data-def="satire · n. 讽刺, 讥讽; 讽刺作品"} aimed at the art world's habit of calling every [acrobat]{.vocab tabindex="0" data-def="acrobat · n. 杂技演员; 立场观点善变的人，主张、政见等变化无常的人"} with a spray-can a visionary. He paused, listening to the music drift down the stairwell, and for a moment forgot what he had been so eager to mock.
 
 ### A Gallery Evening, an Open Stage, a Quiet Studio
 
-:::: {.columns}
-::: {.column width="57%"}
-The **vintage** poster in the lobby announced a **Baroque** ensemble concert, its **cursive** lettering pressed in **italics** across aged paper. Inside the gallery, a **replica** of a medieval archer's bow hung beside a bronze figure mid-draw — the museum's small nod to the history of **archery** before the main exhibits began. Visitors moved past a glass case of **origami** cranes, then paused at a panel of **macrame** wall-hangings, their knotted fringes catching the low light like a kind of **crochet** translated into rope.
+The [vintage]{.vocab tabindex="0" data-def="vintage · n. 葡萄酒; 收获葡萄酿酒; 一个收获季节采得的葡萄; 酿酒;酿造年份; 某年代的产品;年代; 上等的;…"} poster in the lobby announced a [Baroque]{.vocab tabindex="0" data-def="Baroque · adj. 巴洛克式的；结构复杂的，形式怪样的; 巴洛克风格；巴洛克艺术 baroqueadj. 巴罗克式的;巴…"} ensemble concert, its [cursive]{.vocab tabindex="0" data-def="cursive · adj. 草书的; 草书"} lettering pressed in [italics]{.vocab tabindex="0" data-def="italics · n. 斜体字，斜体"} across aged paper. Inside the gallery, a [replica]{.vocab tabindex="0" data-def="replica · n. 复制品"} of a medieval archer's bow hung beside a bronze figure mid-draw — the museum's small nod to the history of [archery]{.vocab tabindex="0" data-def="archery · n. 箭术"} before the main exhibits began. Visitors moved past a glass case of [origami]{.vocab tabindex="0" data-def="origami · n. 折纸手工；折纸手工品"} cranes, then paused at a panel of [macrame]{.vocab tabindex="0" data-def="macrame · n. 丝结的饰缘；流苏花边"} wall-hangings, their knotted fringes catching the low light like a kind of [crochet]{.vocab tabindex="0" data-def="crochet · n. 钩边；钩针编织品; 用钩针编织; 用钩针编织"} translated into rope.
 
-In the adjoining hall, a curator had chosen to **exhibit** three pieces together: an oil painting of a **masquer** frozen mid-bow at a Renaissance ball, a stone **carving** of a lute player worn smooth by centuries, and a small **rosette** medallion cast in silver. The arrangement was no **charade** — each object spoke to the others, and the **sonance** of the space itself seemed to deepen as visitors slowed down. A **lyrical** passage from Voltaire's **Candide** was printed on the far wall, the lines about naive wonder in an indifferent world still landing with full force. Beside it, a footnote mentioned **Laertes** — that other literary figure undone by the gap between appearance and truth.
+In the adjoining hall, a curator had chosen to [exhibit]{.vocab tabindex="0" data-def="exhibit · vt. 显示；展览；提出; 展览品；证据；展示会; 展出；开展览会"} three pieces together: an oil painting of a [masquer]{.vocab tabindex="0" data-def="masquer · n. 蒙面者；化装舞蹈者；戴假面具的人"} frozen mid-bow at a Renaissance ball, a stone [carving]{.vocab tabindex="0" data-def="carving · n. 雕刻；雕刻品；雕刻术; 雕刻"} of a lute player worn smooth by centuries, and a small [rosette]{.vocab tabindex="0" data-def="rosette · n. 玫瑰形饰物；圆花饰；莲座丛"} medallion cast in silver. The arrangement was no [charade]{.vocab tabindex="0" data-def="charade · n. 看手势猜字谜游戏"} — each object spoke to the others, and the [sonance]{.vocab tabindex="0" data-def="sonance · n. 声音；有声状态"} of the space itself seemed to deepen as visitors slowed down. A [lyrical]{.vocab tabindex="0" data-def="lyrical · adj. 热情奔放的;抒情般的"} passage from Voltaire's [Candide]{.vocab tabindex="0" data-def="Candide · n. 憨第德；老实人；坎戴德"} was printed on the far wall, the lines about naive wonder in an indifferent world still landing with full force. Beside it, a footnote mentioned [Laertes]{.vocab tabindex="0" data-def="Laertes · n. 拉厄耳忒斯；雷欧提斯"} — that other literary figure undone by the gap between appearance and truth.
 
-Downstairs, a live program was already running. A **soprano** stepped to the microphone, and for a few bars the room went completely still; every syllable was **audible** even in the back rows. A **bassoon** entered beneath her, anchoring the **cadence** before a recorded loop of **gamelan** textures washed in from the speakers — an unexpected pairing that somehow held. Between sets, a young poet read an **excerpt** from a longer work, and the host had to **compose** herself before introducing the next act: a **karaoke** segment built entirely from operatic arias, absurd and earnest in equal measure. A documentary crew filmed everything, planning to **portray** the evening as a study in how **erotica**, sacred music, and folk craft could share the same room without apology. On a side table, handmade **puppets** from a local theatre workshop waited their turn, an **allegory** in felt and wire for whatever the night still wanted to say.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **archery** <span class="wpos">n.</span> | 箭术 |
-| **audible** <span class="wpos">adj.</span> | 听得见的; 改变打法 |
-| **Baroque** <span class="wpos">adj.</span> | 巴洛克式的；结构复杂的，形式怪样的; 巴洛克风格；巴洛克艺术 baroqueadj. 巴罗克式的;巴… |
-| **bassoon** <span class="wpos">n.</span> | 巴松管,低音管; 巴松管吹奏者 |
-| **cadence** <span class="wpos">n.</span> | 节奏；韵律；抑扬顿挫 |
-| **Candide** <span class="wpos">n.</span> | 憨第德；老实人；坎戴德 |
-| **carving** <span class="wpos">n.</span> | 雕刻；雕刻品；雕刻术; 雕刻 |
-| **charade** <span class="wpos">n.</span> | 看手势猜字谜游戏 |
-| **compose** <span class="wpos">vt.</span> | 组成，构成; 使安定，使镇静; &amp; 创作；为…谱曲 |
-| **crochet** <span class="wpos">n.</span> | 钩边；钩针编织品; 用钩针编织; 用钩针编织 |
-| **cursive** <span class="wpos">adj.</span> | 草书的; 草书 |
-| **erotica** <span class="wpos">n.</span> | 色情作品；色情书籍 |
-| **excerpt** <span class="wpos">n.</span> | 摘录, 摘要; 选录, 摘录 |
-| **exhibit** <span class="wpos">vt.</span> | 显示；展览；提出; 展览品；证据；展示会; 展出；开展览会 |
-| **gamelin** <span class="wpos">n.</span> | 加麦兰 |
-| **italics** <span class="wpos">n.</span> | 斜体字，斜体 |
-| **karaoke** <span class="wpos">n.</span> | 卡拉OK Karaoken. 卡拉OK录音，自动伴奏录音 |
-| **Laertes** <span class="wpos">n.</span> | 拉厄耳忒斯；雷欧提斯 |
-| **lyrical** <span class="wpos">adj.</span> | 热情奔放的;抒情般的 |
-| **macrame** <span class="wpos">n.</span> | 丝结的饰缘；流苏花边 |
-| **masquer** <span class="wpos">n.</span> | 蒙面者；化装舞蹈者；戴假面具的人 |
-| **origami** <span class="wpos">n.</span> | 折纸手工；折纸手工品 |
-| **portray** <span class="wpos">vt.</span> | 画像；描述; 扮演 |
-| **puppets** <span class="wpos">n.</span> | 木偶；傀儡 |
-| **replica** <span class="wpos">n.</span> | 复制品 |
-| **rosette** <span class="wpos">n.</span> | 玫瑰形饰物；圆花饰；莲座丛 |
-| **sonance** <span class="wpos">n.</span> | 声音；有声状态 |
-| **soprano** <span class="wpos">n.</span> | 女高音，最高音；女高音歌手，男童声最高音歌手; 女高音的；女高音声部的; 以最高音; 女高音歌手；唱… |
-| **vintage** <span class="wpos">n.</span> | 葡萄酒; 收获葡萄酿酒; 一个收获季节采得的葡萄; 酿酒;酿造年份; 某年代的产品;年代; 上等的;… |
-| **allegory** <span class="wpos">n.</span> | 寓言 |
-:::
-:::
-::::
+Downstairs, a live program was already running. A [soprano]{.vocab tabindex="0" data-def="soprano · n. 女高音，最高音；女高音歌手，男童声最高音歌手; 女高音的；女高音声部的; 以最高音; 女高音歌手；唱…"} stepped to the microphone, and for a few bars the room went completely still; every syllable was [audible]{.vocab tabindex="0" data-def="audible · adj. 听得见的; 改变打法"} even in the back rows. A [bassoon]{.vocab tabindex="0" data-def="bassoon · n. 巴松管,低音管; 巴松管吹奏者"} entered beneath her, anchoring the [cadence]{.vocab tabindex="0" data-def="cadence · n. 节奏；韵律；抑扬顿挫"} before a recorded loop of **gamelan** textures washed in from the speakers — an unexpected pairing that somehow held. Between sets, a young poet read an [excerpt]{.vocab tabindex="0" data-def="excerpt · n. 摘录, 摘要; 选录, 摘录"} from a longer work, and the host had to [compose]{.vocab tabindex="0" data-def="compose · vt. 组成，构成; 使安定，使镇静; &amp; 创作；为…谱曲"} herself before introducing the next act: a [karaoke]{.vocab tabindex="0" data-def="karaoke · n. 卡拉OK Karaoken. 卡拉OK录音，自动伴奏录音"} segment built entirely from operatic arias, absurd and earnest in equal measure. A documentary crew filmed everything, planning to [portray]{.vocab tabindex="0" data-def="portray · vt. 画像；描述; 扮演"} the evening as a study in how [erotica]{.vocab tabindex="0" data-def="erotica · n. 色情作品；色情书籍"}, sacred music, and folk craft could share the same room without apology. On a side table, handmade [puppets]{.vocab tabindex="0" data-def="puppets · n. 木偶；傀儡"} from a local theatre workshop waited their turn, an [allegory]{.vocab tabindex="0" data-def="allegory · n. 寓言"} in felt and wire for whatever the night still wanted to say.
 
 ### The Night Before the Premiere
 
-:::: {.columns}
-::: {.column width="57%"}
-A **drumroll** shook the velvet curtains as the **ensemble** gathered backstage, nerves crackling in the dim corridor. The director, a two-time **laureate** of the national arts prize, paced the wings clutching his **playbook** — annotated in red, its margins filled with the kind of **literary** instincts that turn a script into something alive. Tonight's production was built around an original **symphony**, and every player had spent the past month learning to navigate its **diatonic** passages, coaxing melody out of what had first sounded like **monotone** repetition. Earlier in the week the lead soprano had nearly lost her slot at the **audition**, her voice turning **screechy** under the pressure of the upper register, but by Thursday she had found her footing and earned her place beside the countertenor — a modern echo of the Baroque **castrato** tradition, his rare timbre cutting cleanly through the brass.
+A [drumroll]{.vocab tabindex="0" data-def="drumroll · n. 击鼓;击鼓声"} shook the velvet curtains as the [ensemble]{.vocab tabindex="0" data-def="ensemble · n. 全体；总效果；全套服装；全套家具；合奏组; 同时"} gathered backstage, nerves crackling in the dim corridor. The director, a two-time [laureate]{.vocab tabindex="0" data-def="laureate · adj. 戴桂冠的；荣誉的; 桂冠诗人；得奖者; 使戴桂冠"} of the national arts prize, paced the wings clutching his [playbook]{.vocab tabindex="0" data-def="playbook 剧本,剧本集"} — annotated in red, its margins filled with the kind of [literary]{.vocab tabindex="0" data-def="literary · adj. 文学的；精通文学的；书面的"} instincts that turn a script into something alive. Tonight's production was built around an original [symphony]{.vocab tabindex="0" data-def="symphony · n. 交响乐；谐声，和声"}, and every player had spent the past month learning to navigate its [diatonic]{.vocab tabindex="0" data-def="diatonic · adj. 全音阶的；自然音阶的"} passages, coaxing melody out of what had first sounded like [monotone]{.vocab tabindex="0" data-def="monotone · n. 单调；单音调; 单调的; 单调地读"} repetition. Earlier in the week the lead soprano had nearly lost her slot at the [audition]{.vocab tabindex="0" data-def="audition · n. 试听, 试音; 试音; 试听"}, her voice turning [screechy]{.vocab tabindex="0" data-def="screechy · adj. 声音尖锐的,喜欢尖声喊叫的"} under the pressure of the upper register, but by Thursday she had found her footing and earned her place beside the countertenor — a modern echo of the Baroque [castrato]{.vocab tabindex="0" data-def="castrato · n. 被阉的男歌手"} tradition, his rare timbre cutting cleanly through the brass.
 
-The **overture** opened in restraint, a single **drumbeat** grounding the hall before the strings bloomed outward. On the walls of the foyer, the production designers had chosen to **decorate** every surface with care: framed **ceramics** from the collection of a retired art dealer stood beside glass cases of polished **antiques**, and a cluster of **statuary** — **rendered** in pale limestone — watched the arriving audience from the alcove. A long **epigraph** had been **freehand** lettered in ink directly onto the plaster above the main entrance: *Music begins where words end.* The choice was unmistakably **symbolic**, grounding a modern evening in a lineage that stretched back to the ancient **rhapsode** chanting Homer by firelight.
+The [overture]{.vocab tabindex="0" data-def="overture · n. 友好表示、姿态或提议; 序曲, 前奏曲"} opened in restraint, a single [drumbeat]{.vocab tabindex="0" data-def="drumbeat · n. 鼓声,打鼓"} grounding the hall before the strings bloomed outward. On the walls of the foyer, the production designers had chosen to [decorate]{.vocab tabindex="0" data-def="decorate · vt. 装饰；布置；授勋给; 装饰；布置"} every surface with care: framed [ceramics]{.vocab tabindex="0" data-def="ceramics · n. 制陶术，陶器制造；陶瓷工艺; 陶器，陶瓷"} from the collection of a retired art dealer stood beside glass cases of polished [antiques]{.vocab tabindex="0" data-def="antiques · n. 古玩，古董"}, and a cluster of [statuary]{.vocab tabindex="0" data-def="statuary · n. 雕像；雕像艺术; 雕塑的；雕像用的"} — [rendered]{.vocab tabindex="0" data-def="rendered · adj. 已渲染的 提出；描绘；放弃；报答；归还；宣布；提取脂肪"} in pale limestone — watched the arriving audience from the alcove. A long [epigraph]{.vocab tabindex="0" data-def="epigraph · n. 碑文；题词；铭文"} had been [freehand]{.vocab tabindex="0" data-def="freehand · adj. 徒手画的；不用仪器画的; 徒手画地"} lettered in ink directly onto the plaster above the main entrance: *Music begins where words end.* The choice was unmistakably [symbolic]{.vocab tabindex="0" data-def="symbolic · adj. 象征的, 象征性的"}, grounding a modern evening in a lineage that stretched back to the ancient [rhapsode]{.vocab tabindex="0" data-def="rhapsode · n. 史诗吟诵者;荷马史诗吟诵者"} chanting Homer by firelight.
 
-When the **postlude** finally faded and the hall exhaled, the **splendor** of the night settled over everyone like a held breath released at last. The director had written a brief **prologue** for the programme notes, describing how months of **rehearse** had transformed raw material into something **animated** — breathing, urgent, present. The sound crew rewound the **cassette** of the dress rehearsal, archiving it alongside the earlier digital mix. Outside, critics already opening their laptops reached for the **esthetic** vocabulary they reserve for work that earns it: shaped, considered, whole. And on the stage, still lit by a single follow spot, the ensemble stood in the **overture**'s echo — each of them an **ornament** in the larger structure, each of them, for this one night, more than enough.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **animated** <span class="wpos">adj.</span> | 活生生的；栩栩如生的; 生气勃勃的；活跃的；热烈的; 被赋予生命的；被赋予生命特征的; 以动画形式制… |
-| **antiques** <span class="wpos">n.</span> | 古玩，古董 |
-| **audition** <span class="wpos">n.</span> | 试听, 试音; 试音; 试听 |
-| **cassette** <span class="wpos">n.</span> | 盒式磁带；暗盒；珠宝箱；片匣 |
-| **castrato** <span class="wpos">n.</span> | 被阉的男歌手 |
-| **ceramics** <span class="wpos">n.</span> | 制陶术，陶器制造；陶瓷工艺; 陶器，陶瓷 |
-| **decorate** <span class="wpos">vt.</span> | 装饰；布置；授勋给; 装饰；布置 |
-| **diatonic** <span class="wpos">adj.</span> | 全音阶的；自然音阶的 |
-| **drumbeat** <span class="wpos">n.</span> | 鼓声,打鼓 |
-| **drumroll** <span class="wpos">n.</span> | 击鼓;击鼓声 |
-| **ensemble** <span class="wpos">n.</span> | 全体；总效果；全套服装；全套家具；合奏组; 同时 |
-| **epigraph** <span class="wpos">n.</span> | 碑文；题词；铭文 |
-| **esthetic** <span class="wpos">adj.</span> | 感觉的；审美的; 美学；审美家；唯美主义者 |
-| **freehand** <span class="wpos">adj.</span> | 徒手画的；不用仪器画的; 徒手画地 |
-| **laureate** <span class="wpos">adj.</span> | 戴桂冠的；荣誉的; 桂冠诗人；得奖者; 使戴桂冠 |
-| **literary** <span class="wpos">adj.</span> | 文学的；精通文学的；书面的 |
-| **monotone** <span class="wpos">n.</span> | 单调；单音调; 单调的; 单调地读 |
-| **ornament** <span class="wpos">n.</span> | 装饰；装饰物；教堂用品; 装饰，修饰 |
-| **overture** <span class="wpos">n.</span> | 友好表示、姿态或提议; 序曲, 前奏曲 |
-| **playbook** | 剧本,剧本集 |
-| **postlude** <span class="wpos">n.</span> | 终曲；后奏曲；风琴独奏; 说收场白；写结束语 |
-| **prologue** <span class="wpos">n.</span> | 序言,开场白; 作序言,作开场白 |
-| **rehearse** <span class="wpos">vt.</span> | 排练；预演; 排练；演习 |
-| **rendered** <span class="wpos">adj.</span> | 已渲染的 提出；描绘；放弃；报答；归还；宣布；提取脂肪 |
-| **rhapsode** <span class="wpos">n.</span> | 史诗吟诵者;荷马史诗吟诵者 |
-| **screechy** <span class="wpos">adj.</span> | 声音尖锐的,喜欢尖声喊叫的 |
-| **splendor** <span class="wpos">n.</span> | 光彩；显赫；壮丽 |
-| **statuary** <span class="wpos">n.</span> | 雕像；雕像艺术; 雕塑的；雕像用的 |
-| **symbolic** <span class="wpos">adj.</span> | 象征的, 象征性的 |
-| **symphony** <span class="wpos">n.</span> | 交响乐；谐声，和声 |
-:::
-:::
-::::
+When the [postlude]{.vocab tabindex="0" data-def="postlude · n. 终曲；后奏曲；风琴独奏; 说收场白；写结束语"} finally faded and the hall exhaled, the [splendor]{.vocab tabindex="0" data-def="splendor · n. 光彩；显赫；壮丽"} of the night settled over everyone like a held breath released at last. The director had written a brief [prologue]{.vocab tabindex="0" data-def="prologue · n. 序言,开场白; 作序言,作开场白"} for the programme notes, describing how months of [rehearse]{.vocab tabindex="0" data-def="rehearse · vt. 排练；预演; 排练；演习"} had transformed raw material into something [animated]{.vocab tabindex="0" data-def="animated · adj. 活生生的；栩栩如生的; 生气勃勃的；活跃的；热烈的; 被赋予生命的；被赋予生命特征的; 以动画形式制…"} — breathing, urgent, present. The sound crew rewound the [cassette]{.vocab tabindex="0" data-def="cassette · n. 盒式磁带；暗盒；珠宝箱；片匣"} of the dress rehearsal, archiving it alongside the earlier digital mix. Outside, critics already opening their laptops reached for the [esthetic]{.vocab tabindex="0" data-def="esthetic · adj. 感觉的；审美的; 美学；审美家；唯美主义者"} vocabulary they reserve for work that earns it: shaped, considered, whole. And on the stage, still lit by a single follow spot, the ensemble stood in the [overture]{.vocab tabindex="0" data-def="overture · n. 友好表示、姿态或提议; 序曲, 前奏曲"}'s echo — each of them an [ornament]{.vocab tabindex="0" data-def="ornament · n. 装饰；装饰物；教堂用品; 装饰，修饰"} in the larger structure, each of them, for this one night, more than enough.
 
 ### A Night at the Arts Festival
 
-:::: {.columns}
-::: {.column width="57%"}
-The evening opened with a series of living **tableaux** — performers frozen mid-gesture beneath amber light, each pose a **vignette** of some forgotten myth. The **aesthetic** of the whole festival leaned toward the ornate: every surface **chromatic**, every detail deliberate.
+The evening opened with a series of living [tableaux]{.vocab tabindex="0" data-def="tableaux · n. 舞台造型；静态画面"} — performers frozen mid-gesture beneath amber light, each pose a [vignette]{.vocab tabindex="0" data-def="vignette · n. 装饰图案；小插图; 把……印放为虚光照，晕映"} of some forgotten myth. The [aesthetic]{.vocab tabindex="0" data-def="aesthetic · adj. 有关美的, 美学的; 审美的; 悦目的, 雅致的"} of the whole festival leaned toward the ornate: every surface [chromatic]{.vocab tabindex="0" data-def="chromatic · adj. 有颜色的,颜色鲜艳的"}, every detail deliberate.
 
-Backstage, the energy was the opposite of stillness. A **ballerina** stretched at the barre while a percussionist tested his **drumstick** against a practice pad. Nearby, a child prodigy ran scales on a **xylophone**, its bright tones cutting through the hum of a **harmonica** someone was warming up in the corner. A performer in a folk trio clicked her **castanets** in a slow, meditative rhythm, and the player of a **concertina** squeezed a long, reedy chord that hung in the air.
+Backstage, the energy was the opposite of stillness. A [ballerina]{.vocab tabindex="0" data-def="ballerina · n. 芭蕾舞女演员"} stretched at the barre while a percussionist tested his [drumstick]{.vocab tabindex="0" data-def="drumstick · n. 鼓槌,鼓槌体"} against a practice pad. Nearby, a child prodigy ran scales on a [xylophone]{.vocab tabindex="0" data-def="xylophone · n. 木琴"}, its bright tones cutting through the hum of a [harmonica]{.vocab tabindex="0" data-def="harmonica · n. 口琴"} someone was warming up in the corner. A performer in a folk trio clicked her [castanets]{.vocab tabindex="0" data-def="castanets · n. 响板"} in a slow, meditative rhythm, and the player of a [concertina]{.vocab tabindex="0" data-def="concertina · n. 类似风琴的六角形的乐器"} squeezed a long, reedy chord that hung in the air.
 
-The **rehearsal** had gone badly that afternoon. The director felt the ensemble's **rendering** of the second act was **contrived** — too careful, too much **imitation** of the original production and not enough life of its own. He wanted them to **improvise**, to find something genuine. "Stop trying to be **harmonious** on purpose," he said. "Just play." The **impromptu** run-through that followed was rough but alive. A wandering **fantasist** of a composer, watching from the wings, began to **delineate** a new arrangement on the back of a **paperback** anthology of contemporary verse — the only paper he had.
+The [rehearsal]{.vocab tabindex="0" data-def="rehearsal · n. 练习, 排练, 排演"} had gone badly that afternoon. The director felt the ensemble's [rendering]{.vocab tabindex="0" data-def="rendering · n. 表演,演奏; 翻译,译文"} of the second act was [contrived]{.vocab tabindex="0" data-def="contrived · adj. 不自然的;勉强的"} — too careful, too much [imitation]{.vocab tabindex="0" data-def="imitation · n. 模仿, 仿效; 仿制品, 伪造物"} of the original production and not enough life of its own. He wanted them to [improvise]{.vocab tabindex="0" data-def="improvise · vt. &amp; 临时制作, 临时凑成"}, to find something genuine. "Stop trying to be [harmonious]{.vocab tabindex="0" data-def="harmonious · adj. 和谐的，和睦的；协调的，调和的; 音调优美的；悦耳的"} on purpose," he said. "Just play." The [impromptu]{.vocab tabindex="0" data-def="impromptu · adj. &amp; 事先无准备, 临时; 即兴曲"} run-through that followed was rough but alive. A wandering [fantasist]{.vocab tabindex="0" data-def="fantasist · n. 幻想曲作曲家"} of a composer, watching from the wings, began to [delineate]{.vocab tabindex="0" data-def="delineate · vt. 勾画,描述"} a new arrangement on the back of a [paperback]{.vocab tabindex="0" data-def="paperback · n. 平装本, 平装书"} anthology of contemporary verse — the only paper he had.
 
-The festival's star attraction was a **marionette** show whose **portrayal** of jealousy had drawn comparisons to Greek tragedy. Critics argued whether the **depiction** was profound or merely **grotesque**; the crowds didn't care either way. It had become the **smash hit** of the season. A reviewer called it "an **exquisite** **caricature** of human longing" — the kind of line that looks sharp in print but dissolves under thinking. The show's lead designer, interviewed in a short **animation** segment for the festival program, said only that she had tried to **sculpture** the puppets so their stillness felt like held breath.
+The festival's star attraction was a [marionette]{.vocab tabindex="0" data-def="marionette · n. 牵线木偶"} show whose [portrayal]{.vocab tabindex="0" data-def="portrayal · n. 画像，描述；描写，扮演；描摹，表现"} of jealousy had drawn comparisons to Greek tragedy. Critics argued whether the [depiction]{.vocab tabindex="0" data-def="depiction · n. 描写;叙述"} was profound or merely [grotesque]{.vocab tabindex="0" data-def="grotesque · n. 奇异风格；怪异的东西; 奇形怪状的；奇怪的；可笑的"}; the crowds didn't care either way. It had become the [smash hit]{.vocab tabindex="0" data-def="smash hit · n. 非常流行的东西；轰动的演出"} of the season. A reviewer called it "an [exquisite]{.vocab tabindex="0" data-def="exquisite · adj. 精致的, 精美的; 敏感的, 细致的"} [caricature]{.vocab tabindex="0" data-def="caricature · n. 漫画；夸张的描述或模仿; 漫画艺术；滑稽或讽刺的模仿艺术; 用漫画表现或夸张描述、模仿…; 讽刺画的…"} of human longing" — the kind of line that looks sharp in print but dissolves under thinking. The show's lead designer, interviewed in a short [animation]{.vocab tabindex="0" data-def="animation · n. 兴奋, 生气, 活跃; 卡通〔动画〕 片的制作"} segment for the festival program, said only that she had tried to [sculpture]{.vocab tabindex="0" data-def="sculpture · n. 雕刻, 雕塑; 雕刻品; &amp; 雕刻, 雕塑"} the puppets so their stillness felt like held breath.
 
-By midnight the stages were dark, and the **anthology** on the composer's lap had thirty new margin notes.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **tableaux** <span class="wpos">n.</span> | 舞台造型；静态画面 |
-| **vignette** <span class="wpos">n.</span> | 装饰图案；小插图; 把……印放为虚光照，晕映 |
-| **aesthetic** <span class="wpos">adj.</span> | 有关美的, 美学的; 审美的; 悦目的, 雅致的 |
-| **animation** <span class="wpos">n.</span> | 兴奋, 生气, 活跃; 卡通〔动画〕 片的制作 |
-| **anthology** <span class="wpos">n.</span> | 选集 |
-| **ballerina** <span class="wpos">n.</span> | 芭蕾舞女演员 |
-| **castanets** <span class="wpos">n.</span> | 响板 |
-| **chromatic** <span class="wpos">adj.</span> | 有颜色的,颜色鲜艳的 |
-| **contrived** <span class="wpos">adj.</span> | 不自然的;勉强的 |
-| **delineate** <span class="wpos">vt.</span> | 勾画,描述 |
-| **depiction** <span class="wpos">n.</span> | 描写;叙述 |
-| **drumstick** <span class="wpos">n.</span> | 鼓槌,鼓槌体 |
-| **exquisite** <span class="wpos">adj.</span> | 精致的, 精美的; 敏感的, 细致的 |
-| **fantasist** <span class="wpos">n.</span> | 幻想曲作曲家 |
-| **grotesque** <span class="wpos">n.</span> | 奇异风格；怪异的东西; 奇形怪状的；奇怪的；可笑的 |
-| **harmonica** <span class="wpos">n.</span> | 口琴 |
-| **imitation** <span class="wpos">n.</span> | 模仿, 仿效; 仿制品, 伪造物 |
-| **impromptu** <span class="wpos">adj.</span> | &amp; 事先无准备, 临时; 即兴曲 |
-| **improvise** <span class="wpos">vt.</span> | &amp; 临时制作, 临时凑成 |
-| **paperback** <span class="wpos">n.</span> | 平装本, 平装书 |
-| **portrayal** <span class="wpos">n.</span> | 画像，描述；描写，扮演；描摹，表现 |
-| **rehearsal** <span class="wpos">n.</span> | 练习, 排练, 排演 |
-| **rendering** <span class="wpos">n.</span> | 表演,演奏; 翻译,译文 |
-| **sculpture** <span class="wpos">n.</span> | 雕刻, 雕塑; 雕刻品; &amp; 雕刻, 雕塑 |
-| **smash hit** <span class="wpos">n.</span> | 非常流行的东西；轰动的演出 |
-| **xylophone** <span class="wpos">n.</span> | 木琴 |
-| **caricature** <span class="wpos">n.</span> | 漫画；夸张的描述或模仿; 漫画艺术；滑稽或讽刺的模仿艺术; 用漫画表现或夸张描述、模仿…; 讽刺画的… |
-| **concertina** <span class="wpos">n.</span> | 类似风琴的六角形的乐器 |
-| **harmonious** <span class="wpos">adj.</span> | 和谐的，和睦的；协调的，调和的; 音调优美的；悦耳的 |
-| **marionette** <span class="wpos">n.</span> | 牵线木偶 |
-:::
-:::
-::::
+By midnight the stages were dark, and the [anthology]{.vocab tabindex="0" data-def="anthology · n. 选集"} on the composer's lap had thirty new margin notes.
 
 ### The Archive Room
 
-:::: {.columns}
-::: {.column width="57%"}
-In the city's oldest concert hall, a **documentary** crew had spent three days filming what they hoped would be a **prizewinning** portrait of the venue's century-long life. The **protagonist** of their film was not a person but a place — its worn oak floors, its dusty **terracotta** friezes, and the glass cabinet in the lobby where a yellowed **sketchbook**, once belonging to the hall's founding architect, lay open to a drawing of the original stage. Beside it sat a small **tambourine**, said to have been played at the inaugural concert in 1902. The crew's director had wanted to **fictionalize** parts of the story, but the archivist refused; this was **historiography**, not drama — every claim had to be **bibliographic**, traceable to a primary source.
+In the city's oldest concert hall, a [documentary]{.vocab tabindex="0" data-def="documentary · n. 纪录片; 文件的, 文书的"} crew had spent three days filming what they hoped would be a [prizewinning]{.vocab tabindex="0" data-def="prizewinning · adj. 获奖的;有得奖可能的"} portrait of the venue's century-long life. The [protagonist]{.vocab tabindex="0" data-def="protagonist · n. 主角; 主人公；现实事件主要参与者，主要人物; 领导者；倡导者；拥护者"} of their film was not a person but a place — its worn oak floors, its dusty [terracotta]{.vocab tabindex="0" data-def="terracotta · n. 无釉赤陶; 赤褐色；土红色"} friezes, and the glass cabinet in the lobby where a yellowed [sketchbook]{.vocab tabindex="0" data-def="sketchbook · n. 速写集,素描册,速写簿,写生簿"}, once belonging to the hall's founding architect, lay open to a drawing of the original stage. Beside it sat a small [tambourine]{.vocab tabindex="0" data-def="tambourine · n. 铃鼓;手鼓; 白胸森鸠"}, said to have been played at the inaugural concert in 1902. The crew's director had wanted to [fictionalize]{.vocab tabindex="0" data-def="fictionalize · v. 把编成小说,使小说化"} parts of the story, but the archivist refused; this was [historiography]{.vocab tabindex="0" data-def="historiography · n. 编史,历史的编纂"}, not drama — every claim had to be [bibliographic]{.vocab tabindex="0" data-def="bibliographic · adj. 书籍解题的,著书目录的"}, traceable to a primary source.
 
-On the afternoon of the third day, the hall's resident **accompanist** sat at the Bösendorfer and worked through the evening soloist's **repertoire**, marking tempos in pencil. A **disc jockey** from the local radio station had arrived to record a short feature, his equipment stacked **rhythmically** in road cases along the corridor. The two nodded at each other across the lobby — an unlikely **counterpoint**, analog keys against digital decks. The director, watching from the doorway, began to **orchestrate** the afternoon's shots in her mind: she would open on the **calligraphy** of the concert program — all copperplate, no **typographical** compromise — then cut to the archivist's hand, whose lifelong practice of **chirography** had produced thirty years of catalog cards in a script that looked almost **allegorical**, each letter leaning forward as if it meant something beyond itself.
+On the afternoon of the third day, the hall's resident [accompanist]{.vocab tabindex="0" data-def="accompanist · n. 伴奏者"} sat at the Bösendorfer and worked through the evening soloist's [repertoire]{.vocab tabindex="0" data-def="repertoire · n. 全部节目"}, marking tempos in pencil. A [disc jockey]{.vocab tabindex="0" data-def="disc jockey · n. 唱片骑师；电台的音乐节目主持人"} from the local radio station had arrived to record a short feature, his equipment stacked [rhythmically]{.vocab tabindex="0" data-def="rhythmically · adv. 有节奏地"} in road cases along the corridor. The two nodded at each other across the lobby — an unlikely [counterpoint]{.vocab tabindex="0" data-def="counterpoint · n. 对位法,旋律配合,对应物"}, analog keys against digital decks. The director, watching from the doorway, began to [orchestrate]{.vocab tabindex="0" data-def="orchestrate · vt. 把编成管弦乐; 和谐地安排；精心策划"} the afternoon's shots in her mind: she would open on the [calligraphy]{.vocab tabindex="0" data-def="calligraphy · n. 美术字; 书法；笔迹"} of the concert program — all copperplate, no [typographical]{.vocab tabindex="0" data-def="typographical · adj. 印刷上的,排字上的"} compromise — then cut to the archivist's hand, whose lifelong practice of [chirography]{.vocab tabindex="0" data-def="chirography · n. 书写，笔迹；书法"} had produced thirty years of catalog cards in a script that looked almost [allegorical]{.vocab tabindex="0" data-def="allegorical · adj. 寓言的,讽喻的"}, each letter leaning forward as if it meant something beyond itself.
 
-The evening's program included a short work that critics had called **blockbuster** in reach if not in length — a tone poem the composer had built, with full **poetic license**, around a scene he refused to explain. Some listeners found the middle passage nearly **pornographic** in its emotional exposure; others called it simply brave. Before the performance began, a young actor hired to **impersonate** a nineteenth-century impresario for a lobby tableau adjusted his coat under the **Michelangelo** reproduction someone had hung above the fireplace — a small joke, or perhaps an aspiration. The documentary camera, already rolling, caught all of it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **repertoire** <span class="wpos">n.</span> | 全部节目 |
-| **sketchbook** <span class="wpos">n.</span> | 速写集,素描册,速写簿,写生簿 |
-| **striptease** <span class="wpos">vi.</span> | 表演脱衣舞; 脱衣舞 |
-| **tambourine** <span class="wpos">n.</span> | 铃鼓;手鼓; 白胸森鸠 |
-| **terracotta** <span class="wpos">n.</span> | 无釉赤陶; 赤褐色；土红色 |
-| **accompanist** <span class="wpos">n.</span> | 伴奏者 |
-| **allegorical** <span class="wpos">adj.</span> | 寓言的,讽喻的 |
-| **blockbuster** <span class="wpos">n.</span> | 重磅炸弹, 了不起的人或事 |
-| **calligraphy** <span class="wpos">n.</span> | 美术字; 书法；笔迹 |
-| **chirography** <span class="wpos">n.</span> | 书写，笔迹；书法 |
-| **disc jockey** <span class="wpos">n.</span> | 唱片骑师；电台的音乐节目主持人 |
-| **documentary** <span class="wpos">n.</span> | 纪录片; 文件的, 文书的 |
-| **impersonate** <span class="wpos">vt.</span> | 扮演; 模仿, 假冒 |
-| **orchestrate** <span class="wpos">vt.</span> | 把编成管弦乐; 和谐地安排；精心策划 |
-| **protagonist** <span class="wpos">n.</span> | 主角; 主人公；现实事件主要参与者，主要人物; 领导者；倡导者；拥护者 |
-| **counterpoint** <span class="wpos">n.</span> | 对位法,旋律配合,对应物 |
-| **fictionalize** <span class="wpos">v.</span> | 把编成小说,使小说化 |
-| **Michelangelo** <span class="wpos">n.</span> | 米开朗基罗 |
-| **pornographic** <span class="wpos">adj.</span> | 色情的,淫秽的 |
-| **prizewinning** <span class="wpos">adj.</span> | 获奖的;有得奖可能的 |
-| **rhythmically** <span class="wpos">adv.</span> | 有节奏地 |
-| **bibliographic** <span class="wpos">adj.</span> | 书籍解题的,著书目录的 |
-| **typographical** <span class="wpos">adj.</span> | 印刷上的,排字上的 |
-| **historiography** <span class="wpos">n.</span> | 编史,历史的编纂 |
-| **poetic license** | 诗的破格 |
-:::
-:::
-::::
+The evening's program included a short work that critics had called [blockbuster]{.vocab tabindex="0" data-def="blockbuster · n. 重磅炸弹, 了不起的人或事"} in reach if not in length — a tone poem the composer had built, with full [poetic license]{.vocab tabindex="0" data-def="poetic license 诗的破格"}, around a scene he refused to explain. Some listeners found the middle passage nearly [pornographic]{.vocab tabindex="0" data-def="pornographic · adj. 色情的,淫秽的"} in its emotional exposure; others called it simply brave. Before the performance began, a young actor hired to [impersonate]{.vocab tabindex="0" data-def="impersonate · vt. 扮演; 模仿, 假冒"} a nineteenth-century impresario for a lobby tableau adjusted his coat under the [Michelangelo]{.vocab tabindex="0" data-def="Michelangelo · n. 米开朗基罗"} reproduction someone had hung above the fireplace — a small joke, or perhaps an aspiration. The documentary camera, already rolling, caught all of it.

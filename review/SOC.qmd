@@ -2,556 +2,114 @@
 
 
 
-> 本主题共 11 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 11 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Reunion on the Old Street
 
-:::: {.columns}
-::: {.column width="57%"}
-The **clan** had not gathered like this in years. When their mother — a quiet woman who had once worked as a **maid** in a manor house — turned eighty, every last piece of **kin** made the journey back to the neighbourhood where they had all grown up, a place that had once been little more than a **slum** of crumbling row houses and broken gutters.
+The [clan]{.vocab tabindex="0" data-def="clan · n. 宗族；部落；集团"} had not gathered like this in years. When their mother — a quiet woman who had once worked as a [maid]{.vocab tabindex="0" data-def="maid · n. 女仆；少女; 侍候；做新娘的女傧相; 当女仆"} in a manor house — turned eighty, every last piece of [kin]{.vocab tabindex="0" data-def="kin · n. 亲戚；家族；同族; 同类的；有亲属关系的；性质类似的"} made the journey back to the neighbourhood where they had all grown up, a place that had once been little more than a [slum]{.vocab tabindex="0" data-def="slum · vi. 去贫民窟; 贫民窟；陋巷；脏乱的地方"} of crumbling row houses and broken gutters.
 
-Her eldest son, once a restless **hobo** who drifted from city to city before settling down, arrived first. He found his childhood **pal** waiting at the corner — the one who used to **woo** girls by reciting bad poetry under the lamplight. The two men laughed, and the old friend gave him a long **hug**. Their younger sister brought her French **ami**, a gentle man who spoke softly and called everyone *mon **amigo***. Even the family's one black sheep showed up: a reformed **bum** who had spent a decade bumming around and was now, improbably, an **aide** to a city councillor. His **boss** had given him the afternoon off.
+Her eldest son, once a restless [hobo]{.vocab tabindex="0" data-def="hobo · n. 流动的失业工人; 无业游民; 流浪者; 漂泊者"} who drifted from city to city before settling down, arrived first. He found his childhood [pal]{.vocab tabindex="0" data-def="pal · n. 朋友，伙伴；同志; 结为朋友"} waiting at the corner — the one who used to [woo]{.vocab tabindex="0" data-def="woo · vt. 追求；招致；向…求爱；恳求; 求爱；恳求"} girls by reciting bad poetry under the lamplight. The two men laughed, and the old friend gave him a long [hug]{.vocab tabindex="0" data-def="hug · vt. 紧抱；拥抱；抱有，坚持; 拥抱；紧抱在一起；挤在一起; 紧抱；拥抱；固执"}. Their younger sister brought her French [ami]{.vocab tabindex="0" data-def="ami · n. 〈法〉男朋友,爱人 AMIabbr. Advanced Material Information 高…"}, a gentle man who spoke softly and called everyone *mon [amigo]{.vocab tabindex="0" data-def="amigo · n. 朋友"}*. Even the family's one black sheep showed up: a reformed [bum]{.vocab tabindex="0" data-def="bum · n. 流浪汉；狂欢作乐；能力差的人；嗡嗡声；屁股；执达员; 流浪；靠乞讨过活；发嗡嗡声; 乞讨；闲荡; 无…"} who had spent a decade bumming around and was now, improbably, an [aide]{.vocab tabindex="0" data-def="aide · n. 副官；助手；侍从武官"} to a city councillor. His [boss]{.vocab tabindex="0" data-def="boss · n. 老板；工头；领班；领导; 对…颐指气使；对…指手画脚; 很好的 BOSSabbr. Bioastro…"} had given him the afternoon off.
 
-The gathering grew louder by the hour. A pair of **twin** cousins monopolised the kitchen. A **coed** cousin visiting from university cornered their grandmother's oldest **ally** — a former **serf**'s descendant turned labour historian — and argued about **Marx** until the soup went cold. Someone's **mate** dragged out an old guitar. The neighbourhood **Jock**, still broad-shouldered, arm-wrestled anyone who sat near him. A retired civil servant — who carried himself with the air of a minor **duke** — sat stiffly by the window until a grandchild climbed onto his lap and melted his posture entirely. Even the building's aging **capo**, the informal **khan** of the block association, stopped in to raise a glass.
+The gathering grew louder by the hour. A pair of [twin]{.vocab tabindex="0" data-def="twin · vt. 使成对; 双胞胎中一人; 双胞胎的; 生双胞胎；成对"} cousins monopolised the kitchen. A [coed]{.vocab tabindex="0" data-def="coed · adj. 男女同校的; 女大学生"} cousin visiting from university cornered their grandmother's oldest [ally]{.vocab tabindex="0" data-def="ally · n. 同盟国；同盟者；助手；伙伴; 使联盟；使联合; 结盟；联合 Ally艾丽"} — a former [serf]{.vocab tabindex="0" data-def="serf · n. 农奴；奴隶；被压迫者 SERFabbr. Studies of the Economics of R…"}'s descendant turned labour historian — and argued about [Marx]{.vocab tabindex="0" data-def="Marx · n. 马克思"} until the soup went cold. Someone's [mate]{.vocab tabindex="0" data-def="mate · n. 同事；助手，大副；配偶；配对物; 使配对；结伴；使一致; 成配偶；交配；紧密配合 MATEabbr.…"} dragged out an old guitar. The neighbourhood [Jock]{.vocab tabindex="0" data-def="Jock · n. 苏格兰高原地方的士兵;〈美俚〉 运动员"}, still broad-shouldered, arm-wrestled anyone who sat near him. A retired civil servant — who carried himself with the air of a minor [duke]{.vocab tabindex="0" data-def="duke · n. 公爵，君主；公爵樱桃"} — sat stiffly by the window until a grandchild climbed onto his lap and melted his posture entirely. Even the building's aging [capo]{.vocab tabindex="0" data-def="capo · n. 品柱；分支头目"}, the informal [khan]{.vocab tabindex="0" data-def="khan · n. 可汗,汗"} of the block association, stopped in to raise a glass.
 
-By midnight it had become something close to an **orgy** of noise and memory — not the dissolute kind, just the particular abandon of people who have earned the right to be loud together. A neighbour knocked on the wall. The **frat**-boy energy of the younger cousins did not help. Someone muttered something about **Hun**-level chaos. But **Mrs.** Chen from downstairs eventually knocked on the door not to complain but to join in, bringing dumplings, her **Arab** neighbour trailing behind with a tin of baklava.
+By midnight it had become something close to an [orgy]{.vocab tabindex="0" data-def="orgy · n. 狂欢宴会; 无节制的活动"} of noise and memory — not the dissolute kind, just the particular abandon of people who have earned the right to be loud together. A neighbour knocked on the wall. The [frat]{.vocab tabindex="0" data-def="frat · n. 兄弟会"}-boy energy of the younger cousins did not help. Someone muttered something about [Hun]{.vocab tabindex="0" data-def="Hun · n. 匈奴,破坏者,野人"}-level chaos. But [Mrs.]{.vocab tabindex="0" data-def="Mrs. · n. 夫人,太太"} Chen from downstairs eventually knocked on the door not to complain but to join in, bringing dumplings, her [Arab]{.vocab tabindex="0" data-def="Arab · adj. 阿拉伯的; 阿拉伯人；阿拉伯马"} neighbour trailing behind with a tin of baklava.
 
-They stayed until almost three. The old street, for one night, felt like it **twinned** itself with the past — the **Turk**ish café on the corner still open, a stray cat keeping watch from the stoop. What the family had **pal**led through, what each one had quietly survived, filled the room without needing to be said.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **ami** <span class="wpos">n.</span> | 〈法〉男朋友,爱人 AMIabbr. Advanced Material Information 高… |
-| **bum** <span class="wpos">n.</span> | 流浪汉；狂欢作乐；能力差的人；嗡嗡声；屁股；执达员; 流浪；靠乞讨过活；发嗡嗡声; 乞讨；闲荡; 无… |
-| **hug** <span class="wpos">vt.</span> | 紧抱；拥抱；抱有，坚持; 拥抱；紧抱在一起；挤在一起; 紧抱；拥抱；固执 |
-| **Hun** <span class="wpos">n.</span> | 匈奴,破坏者,野人 |
-| **kin** <span class="wpos">n.</span> | 亲戚；家族；同族; 同类的；有亲属关系的；性质类似的 |
-| **pal** <span class="wpos">n.</span> | 朋友，伙伴；同志; 结为朋友 |
-| **woo** <span class="wpos">vt.</span> | 追求；招致；向…求爱；恳求; 求爱；恳求 |
-| **aide** <span class="wpos">n.</span> | 副官；助手；侍从武官 |
-| **ally** <span class="wpos">n.</span> | 同盟国；同盟者；助手；伙伴; 使联盟；使联合; 结盟；联合 Ally艾丽 |
-| **Arab** <span class="wpos">adj.</span> | 阿拉伯的; 阿拉伯人；阿拉伯马 |
-| **boss** <span class="wpos">n.</span> | 老板；工头；领班；领导; 对…颐指气使；对…指手画脚; 很好的 BOSSabbr. Bioastro… |
-| **capo** <span class="wpos">n.</span> | 品柱；分支头目 |
-| **clan** <span class="wpos">n.</span> | 宗族；部落；集团 |
-| **coed** <span class="wpos">adj.</span> | 男女同校的; 女大学生 |
-| **duke** <span class="wpos">n.</span> | 公爵，君主；公爵樱桃 |
-| **frat** <span class="wpos">n.</span> | 兄弟会 |
-| **hobo** <span class="wpos">n.</span> | 流动的失业工人; 无业游民; 流浪者; 漂泊者 |
-| **ikey** <span class="wpos">n.</span> | 犹太人；犹太佬 |
-| **Jock** <span class="wpos">n.</span> | 苏格兰高原地方的士兵;〈美俚〉 运动员 |
-| **khan** <span class="wpos">n.</span> | 可汗,汗 |
-| **maid** <span class="wpos">n.</span> | 女仆；少女; 侍候；做新娘的女傧相; 当女仆 |
-| **Marx** <span class="wpos">n.</span> | 马克思 |
-| **mate** <span class="wpos">n.</span> | 同事；助手，大副；配偶；配对物; 使配对；结伴；使一致; 成配偶；交配；紧密配合 MATEabbr.… |
-| **Mrs.** <span class="wpos">n.</span> | 夫人,太太 |
-| **orgy** <span class="wpos">n.</span> | 狂欢宴会; 无节制的活动 |
-| **serf** <span class="wpos">n.</span> | 农奴；奴隶；被压迫者 SERFabbr. Studies of the Economics of R… |
-| **slum** <span class="wpos">vi.</span> | 去贫民窟; 贫民窟；陋巷；脏乱的地方 |
-| **Turk** <span class="wpos">n.</span> | 土耳其马；土耳其人 |
-| **twin** <span class="wpos">vt.</span> | 使成对; 双胞胎中一人; 双胞胎的; 生双胞胎；成对 |
-| **amigo** <span class="wpos">n.</span> | 朋友 |
-:::
-:::
-::::
+They stayed until almost three. The old street, for one night, felt like it [twinned]{.vocab tabindex="0" data-def="twin · vt. 使成对; 双胞胎中一人; 双胞胎的; 生双胞胎；成对"} itself with the past — the [Turk]{.vocab tabindex="0" data-def="Turk · n. 土耳其马；土耳其人"}ish café on the corner still open, a stray cat keeping watch from the stoop. What the family had [pal]{.vocab tabindex="0" data-def="pal · n. 朋友，伙伴；同志; 结为朋友"}led through, what each one had quietly survived, filled the room without needing to be said.
 
 ### A World of Bonds, Big and Small
 
-:::: {.columns}
-::: {.column width="57%"}
-Every community tells its own story of belonging. In the old village, the **tribe** gathered around its **elder**s for counsel, each family knowing its place within an unspoken **caste**. A young **scion** of the founding clan grew up hearing those hierarchies as gospel — yet the moment he enrolled at university, he found himself a **frosh** again, nameless among strangers. His first **buddy** there was a loud, generous girl from the **co-ed** dormitory across the quad, the kind of person who could turn a dull **rally** into a genuine celebration. Her own **crony** from secondary school arrived a week later, and the three of them formed a tight little **triad**, inseparable through lectures and late-night revision.
+Every community tells its own story of belonging. In the old village, the [tribe]{.vocab tabindex="0" data-def="tribe · n. 部落；宗族；一伙；族"} gathered around its [elder]{.vocab tabindex="0" data-def="elder · n. 比我年长的人; 长辈; 年长的, 年龄较大的 Elder爱尔德热熔性缝纫线"}s for counsel, each family knowing its place within an unspoken [caste]{.vocab tabindex="0" data-def="caste · n. 印度的社会等级; 任何排他的社会阶层; 种姓"}. A young [scion]{.vocab tabindex="0" data-def="scion · n. 子孙；接穗"} of the founding clan grew up hearing those hierarchies as gospel — yet the moment he enrolled at university, he found himself a [frosh]{.vocab tabindex="0" data-def="frosh · n. 大学一年级生"} again, nameless among strangers. His first [buddy]{.vocab tabindex="0" data-def="buddy · n. 伙伴，好朋友；小男孩；密友; 做好朋友，交朋友 Buddy巴迪"} there was a loud, generous girl from the [co-ed]{.vocab tabindex="0" data-def="co-ed · n. 女学生; 男女同校的"} dormitory across the quad, the kind of person who could turn a dull [rally]{.vocab tabindex="0" data-def="rally · n. 集会，群众大会; 公路汽车赛；拉力赛; 持续对打，相持，拉锯战; 恢复；复原；好转; 集合；召集；团…"} into a genuine celebration. Her own [crony]{.vocab tabindex="0" data-def="crony · n. 密友；好朋友"} from secondary school arrived a week later, and the three of them formed a tight little [triad]{.vocab tabindex="0" data-def="triad · n. 三和音；三个一组；三价元素"}, inseparable through lectures and late-night revision.
 
-Not every bond was so easy. The campus sat on the edge of the city's **slums**, where families crowded into narrow lanes far from the **elite** towers downtown. A local **nanny** pushed a pram past a boarded window every morning, nodding to the **widow** who sold bread from a cart. Nearby, a man in a worn coat waited in a long **queue** outside the social-services office, clutching a form that might grant him **asylum**. The city had conducted a **census** the year before, yet the numbers somehow never captured the texture of lives like his — a man **banish**ed from his homeland, seeking nothing more than a quiet room.
+Not every bond was so easy. The campus sat on the edge of the city's [slums]{.vocab tabindex="0" data-def="slums · n. 贫民，贫民区; 到贫民窟去；过贫苦生活"}, where families crowded into narrow lanes far from the [elite]{.vocab tabindex="0" data-def="elite · n. 上层集团；掌权人物；出类拔萃的人，精英; 上层集团的；掌权人物的；精英的"} towers downtown. A local [nanny]{.vocab tabindex="0" data-def="nanny · n. 保姆，奶妈; 奶奶；姥姥; 保姆式国家 Nannyn. Ann 的昵称 〈英〉保姆"} pushed a pram past a boarded window every morning, nodding to the [widow]{.vocab tabindex="0" data-def="widow · vt. 使成寡妇; 寡妇；孀妇"} who sold bread from a cart. Nearby, a man in a worn coat waited in a long [queue]{.vocab tabindex="0" data-def="queue · n. 队列；长队；辫子; 排队；排队等候; 将…梳成辫子；使…排队"} outside the social-services office, clutching a form that might grant him [asylum]{.vocab tabindex="0" data-def="asylum · n. 庇护；收容所，救济院"}. The city had conducted a [census]{.vocab tabindex="0" data-def="census · vt. 实施统计调查; 人口普查，人口调查"} the year before, yet the numbers somehow never captured the texture of lives like his — a man [banish]{.vocab tabindex="0" data-def="banish · vt. 放逐, 驱逐"}ed from his homeland, seeking nothing more than a quiet room.
 
-Formal ties shaped the world just as powerfully. A **liege** no longer sat on a throne, but hierarchies persisted: the **valet** who ironed a director's shirt, the young aide who addressed her supervisor as "**ma'am**." At the annual charity dinner, a retired general's **cohort** of old friends filled one long table, trading war stories with the practiced ease of a **scrum**. At another table, a **Caesar**-salad-eating politician signed a landmark **accord** with a foreign delegation — television cameras running, assistants swiping **census** charts on tablets, everyone performing belonging for the cameras.
+Formal ties shaped the world just as powerfully. A [liege]{.vocab tabindex="0" data-def="liege · n. 君主,臣民; 君主的,臣民的,君臣关系的"} no longer sat on a throne, but hierarchies persisted: the [valet]{.vocab tabindex="0" data-def="valet · n. 贴身男仆；用车的人；伺候客人停车; 为...管理衣物；替...洗熨衣服; 清洗汽车；服侍"} who ironed a director's shirt, the young aide who addressed her supervisor as "[ma'am]{.vocab tabindex="0" data-def="ma'am · n. 女士；夫人，太太；小姐"}." At the annual charity dinner, a retired general's [cohort]{.vocab tabindex="0" data-def="cohort · n. 一群；步兵大队；支持者；同生群"} of old friends filled one long table, trading war stories with the practiced ease of a [scrum]{.vocab tabindex="0" data-def="scrum · n. 扭打，混乱；并列争球; 参加并列争球; 抛开始并列争球"}. At another table, a [Caesar]{.vocab tabindex="0" data-def="Caesar · n. 凯撒；暴君；人间的主宰；剖腹产手术"}-salad-eating politician signed a landmark [accord]{.vocab tabindex="0" data-def="accord · n. 一致, 符合; 谅解, 协议; 给予, 赠予; 符合, 一致"} with a foreign delegation — television cameras running, assistants swiping [census]{.vocab tabindex="0" data-def="census · vt. 实施统计调查; 人口普查，人口调查"} charts on tablets, everyone performing belonging for the cameras.
 
-And then there were the quieter connections. A girl brought her **niece** to the park on Sunday afternoons. Two teenagers **flirt**ed shyly over chess in the library. A young man from the **Negro** spiritual choir taught his **squad** new harmonies until the **taboo** subjects — race, history, silence — dissolved, at least for the length of a song.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **buddy** <span class="wpos">n.</span> | 伙伴，好朋友；小男孩；密友; 做好朋友，交朋友 Buddy巴迪 |
-| **caste** <span class="wpos">n.</span> | 印度的社会等级; 任何排他的社会阶层; 种姓 |
-| **co-ed** <span class="wpos">n.</span> | 女学生; 男女同校的 |
-| **crony** <span class="wpos">n.</span> | 密友；好朋友 |
-| **elder** <span class="wpos">n.</span> | 比我年长的人; 长辈; 年长的, 年龄较大的 Elder爱尔德热熔性缝纫线 |
-| **elite** <span class="wpos">n.</span> | 上层集团；掌权人物；出类拔萃的人，精英; 上层集团的；掌权人物的；精英的 |
-| **flirt** <span class="wpos">v.</span> | 调情; 玩儿似地想做某事；冒险；不顾危险后果; 与多人调情的人 |
-| **frosh** <span class="wpos">n.</span> | 大学一年级生 |
-| **liege** <span class="wpos">n.</span> | 君主,臣民; 君主的,臣民的,君臣关系的 |
-| **ma'am** <span class="wpos">n.</span> | 女士；夫人，太太；小姐 |
-| **nanny** <span class="wpos">n.</span> | 保姆，奶妈; 奶奶；姥姥; 保姆式国家 Nannyn. Ann 的昵称 〈英〉保姆 |
-| **Negro** <span class="wpos">n.</span> | 黑种人; 黑人; 黑人的 |
-| **niece** <span class="wpos">n.</span> | 外甥女，侄女 |
-| **queue** <span class="wpos">n.</span> | 队列；长队；辫子; 排队；排队等候; 将…梳成辫子；使…排队 |
-| **rally** <span class="wpos">n.</span> | 集会，群众大会; 公路汽车赛；拉力赛; 持续对打，相持，拉锯战; 恢复；复原；好转; 集合；召集；团… |
-| **scion** <span class="wpos">n.</span> | 子孙；接穗 |
-| **scrum** <span class="wpos">n.</span> | 扭打，混乱；并列争球; 参加并列争球; 抛开始并列争球 |
-| **slums** <span class="wpos">n.</span> | 贫民，贫民区; 到贫民窟去；过贫苦生活 |
-| **squad** <span class="wpos">n.</span> | 班, 小队 |
-| **taboo** <span class="wpos">n.</span> | 禁忌；禁止; 禁忌的；忌讳的; 禁止；禁忌 |
-| **triad** <span class="wpos">n.</span> | 三和音；三个一组；三价元素 |
-| **tribe** <span class="wpos">n.</span> | 部落；宗族；一伙；族 |
-| **valet** <span class="wpos">n.</span> | 贴身男仆；用车的人；伺候客人停车; 为...管理衣物；替...洗熨衣服; 清洗汽车；服侍 |
-| **widow** <span class="wpos">vt.</span> | 使成寡妇; 寡妇；孀妇 |
-| **accord** <span class="wpos">n.</span> | 一致, 符合; 谅解, 协议; 给予, 赠予; 符合, 一致 |
-| **asylum** <span class="wpos">n.</span> | 庇护；收容所，救济院 |
-| **banish** <span class="wpos">vt.</span> | 放逐, 驱逐 |
-| **Caesar** <span class="wpos">n.</span> | 凯撒；暴君；人间的主宰；剖腹产手术 |
-| **census** <span class="wpos">vt.</span> | 实施统计调查; 人口普查，人口调查 |
-| **cohort** <span class="wpos">n.</span> | 一群；步兵大队；支持者；同生群 |
-:::
-:::
-::::
+And then there were the quieter connections. A girl brought her [niece]{.vocab tabindex="0" data-def="niece · n. 外甥女，侄女"} to the park on Sunday afternoons. Two teenagers [flirt]{.vocab tabindex="0" data-def="flirt · v. 调情; 玩儿似地想做某事；冒险；不顾危险后果; 与多人调情的人"}ed shyly over chess in the library. A young man from the [Negro]{.vocab tabindex="0" data-def="Negro · n. 黑种人; 黑人; 黑人的"} spiritual choir taught his [squad]{.vocab tabindex="0" data-def="squad · n. 班, 小队"} new harmonies until the [taboo]{.vocab tabindex="0" data-def="taboo · n. 禁忌；禁止; 禁忌的；忌讳的; 禁止；禁忌"} subjects — race, history, silence — dissolved, at least for the length of a song.
 
 ### 帝国暮色里的众生相
 
-:::: {.columns}
-::: {.column width="57%"}
-In the final decades of the **Manchu** dynasty, the imperial court was a world unto itself — a **colony** of power sealed off from ordinary life. **Eunuch**s glided through lacquered corridors, whispering into the ears of **patron**s who could make or ruin careers overnight. A loyal **minion** knew to bow low and never **meddle** in quarrels above his station; a **layman** who stumbled into palace politics rarely stumbled back out.
+In the final decades of the [Manchu]{.vocab tabindex="0" data-def="Manchu · n. 满语；满族人; 满族的；满语的"} dynasty, the imperial court was a world unto itself — a [colony]{.vocab tabindex="0" data-def="colony · n. 殖民地；移民队"} of power sealed off from ordinary life. [Eunuch]{.vocab tabindex="0" data-def="eunuch · n. 太监,宦官"}s glided through lacquered corridors, whispering into the ears of [patron]{.vocab tabindex="0" data-def="patron · n. 赞助人；保护人；主顾"}s who could make or ruin careers overnight. A loyal [minion]{.vocab tabindex="0" data-def="minion · n. 奴才；宠臣; 娇美的，美雅的"} knew to bow low and never [meddle]{.vocab tabindex="0" data-def="meddle · vi. 干涉, 干预"} in quarrels above his station; a [layman]{.vocab tabindex="0" data-def="layman · n. 外行；门外汉；俗人；一般信徒"} who stumbled into palace politics rarely stumbled back out.
 
-Outside those walls, the city breathed its own rhythms. **Granny** Liu rose before dawn to tend the courtyard fire, a **filial** granddaughter already at her side grinding millet. Down the lane, a **renter** argued with his landlord over three months of unpaid dues while their **rivals** in the next hutong watched with undisguised amusement. A Gallup-style survey — had anyone thought to **gallup** opinion then — might have found that half the neighbourhood quietly admired the **expats** trickling in from treaty ports, marveling at foreign **custom**s without quite approving of them. Children with wide **pupils** pressed their faces to tea-house windows, catching glimpses of a **fiance** presenting silk to his intended, or a **gigolo** escorting a wealthy widow through the lantern-lit street with a practiced **smooch** of her gloved hand that made the matchmakers cluck.
+Outside those walls, the city breathed its own rhythms. [Granny]{.vocab tabindex="0" data-def="granny · n. 奶奶；外婆"} Liu rose before dawn to tend the courtyard fire, a [filial]{.vocab tabindex="0" data-def="filial · adj. 子女的；孝顺的"} granddaughter already at her side grinding millet. Down the lane, a [renter]{.vocab tabindex="0" data-def="renter · n. 佃户；承租人；房东；影片出租商"} argued with his landlord over three months of unpaid dues while their [rivals]{.vocab tabindex="0" data-def="rivals · n. 竞争者；对手; 竞争"} in the next hutong watched with undisguised amusement. A Gallup-style survey — had anyone thought to [gallup]{.vocab tabindex="0" data-def="gallup · v. 作民意调查 Gallup作民意测验或调查 盖洛普"} opinion then — might have found that half the neighbourhood quietly admired the [expats]{.vocab tabindex="0" data-def="expats · n. 亡命国外者; 移居国外；放逐"} trickling in from treaty ports, marveling at foreign [custom]{.vocab tabindex="0" data-def="custom · n. 风俗；习惯；海关; 定制的，定做的"}s without quite approving of them. Children with wide [pupils]{.vocab tabindex="0" data-def="pupils · n. 瞳孔；学生"} pressed their faces to tea-house windows, catching glimpses of a [fiance]{.vocab tabindex="0" data-def="fiance · n. 〈法〉未婚夫"} presenting silk to his intended, or a [gigolo]{.vocab tabindex="0" data-def="gigolo · n. 舞男；小白脸；靠妓女生活的男人"} escorting a wealthy widow through the lantern-lit street with a practiced [smooch]{.vocab tabindex="0" data-def="smooch · n. 接吻；污迹; 接吻；弄脏; 接吻"} of her gloved hand that made the matchmakers cluck.
 
-Among the younger generation, bloodlines were quietly scrutinised — too **inbred** a lineage drew whispers, while a man who could claim even a distant **Indian** or **Mongol** ancestor on the steppe side was considered dashingly exotic. **Pupils** at the new-style school debated whether **ableism** was a foreign word or a homegrown prejudice; their **ableist** elders barely paused to consider the question. A young **suitor** paid **homage** to the girl's father with two cases of Shaoxing wine, then **pamper**ed her younger **nephew** with sugar figurines to win the family over. The children — the **proles** of a dynasty running out of time — played in the dust, indifferent to empires, while **Mister** Chen the schoolteacher told them the old world was ending and something unnameable was about to begin.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **colony** <span class="wpos">n.</span> | 殖民地；移民队 |
-| **custom** <span class="wpos">n.</span> | 风俗；习惯；海关; 定制的，定做的 |
-| **eunuch** <span class="wpos">n.</span> | 太监,宦官 |
-| **expats** <span class="wpos">n.</span> | 亡命国外者; 移居国外；放逐 |
-| **fiance** <span class="wpos">n.</span> | 〈法〉未婚夫 |
-| **fiancé** <span class="wpos">n.</span> | 未婚夫 |
-| **filial** <span class="wpos">adj.</span> | 子女的；孝顺的 |
-| **gallup** <span class="wpos">v.</span> | 作民意调查 Gallup作民意测验或调查 盖洛普 |
-| **gigolo** <span class="wpos">n.</span> | 舞男；小白脸；靠妓女生活的男人 |
-| **granny** <span class="wpos">n.</span> | 奶奶；外婆 |
-| **homage** <span class="wpos">n.</span> | 尊敬；敬意；效忠 |
-| **inbred** <span class="wpos">adj.</span> | 天生的；近亲交配的; 同系交配 |
-| **Indian** <span class="wpos">adj.</span> | 印度的；印第安人的；印第安语的; 印度人；印第安人；印第安语 |
-| **layman** <span class="wpos">n.</span> | 外行；门外汉；俗人；一般信徒 |
-| **Manchu** <span class="wpos">n.</span> | 满语；满族人; 满族的；满语的 |
-| **meddle** <span class="wpos">vi.</span> | 干涉, 干预 |
-| **minion** <span class="wpos">n.</span> | 奴才；宠臣; 娇美的，美雅的 |
-| **mister** <span class="wpos">n.</span> | 先生；平民; 称…先生 |
-| **mongol** <span class="wpos">n.</span> | 先天愚型病患者 Mongoladj. 蒙古人的; 像蒙古人的; 蒙古人 |
-| **nephew** <span class="wpos">n.</span> | 侄子；外甥 |
-| **pamper** <span class="wpos">vt.</span> | 纵容；宠；娇养 |
-| **patron** <span class="wpos">n.</span> | 赞助人；保护人；主顾 |
-| **proles** <span class="wpos">n.</span> | 子孙,后代 |
-| **pupils** <span class="wpos">n.</span> | 瞳孔；学生 |
-| **renter** <span class="wpos">n.</span> | 佃户；承租人；房东；影片出租商 |
-| **rivals** <span class="wpos">n.</span> | 竞争者；对手; 竞争 |
-| **smooch** <span class="wpos">n.</span> | 接吻；污迹; 接吻；弄脏; 接吻 |
-| **suitor** <span class="wpos">n.</span> | 追求某女子的人 |
-| **ableism** <span class="wpos">n.</span> | 健全至上 |
-| **ableist** |  |
-:::
-:::
-::::
+Among the younger generation, bloodlines were quietly scrutinised — too [inbred]{.vocab tabindex="0" data-def="inbred · adj. 天生的；近亲交配的; 同系交配"} a lineage drew whispers, while a man who could claim even a distant [Indian]{.vocab tabindex="0" data-def="Indian · adj. 印度的；印第安人的；印第安语的; 印度人；印第安人；印第安语"} or [Mongol]{.vocab tabindex="0" data-def="mongol · n. 先天愚型病患者 Mongoladj. 蒙古人的; 像蒙古人的; 蒙古人"} ancestor on the steppe side was considered dashingly exotic. [Pupils]{.vocab tabindex="0" data-def="pupils · n. 瞳孔；学生"} at the new-style school debated whether [ableism]{.vocab tabindex="0" data-def="ableism · n. 健全至上"} was a foreign word or a homegrown prejudice; their [ableist]{.vocab tabindex="0" data-def="ableist"} elders barely paused to consider the question. A young [suitor]{.vocab tabindex="0" data-def="suitor · n. 追求某女子的人"} paid [homage]{.vocab tabindex="0" data-def="homage · n. 尊敬；敬意；效忠"} to the girl's father with two cases of Shaoxing wine, then [pamper]{.vocab tabindex="0" data-def="pamper · vt. 纵容；宠；娇养"}ed her younger [nephew]{.vocab tabindex="0" data-def="nephew · n. 侄子；外甥"} with sugar figurines to win the family over. The children — the [proles]{.vocab tabindex="0" data-def="proles · n. 子孙,后代"} of a dynasty running out of time — played in the dust, indifferent to empires, while [Mister]{.vocab tabindex="0" data-def="mister · n. 先生；平民; 称…先生"} Chen the schoolteacher told them the old world was ending and something unnameable was about to begin.
 
 ### At the **Familia** Table — A Gathering Across Worlds
 
-:::: {.columns}
-::: {.column width="57%"}
-The late afternoon turned **festive** the moment Grandmother announced she had finally found a match for her granddaughter. The young woman's **fiancée** — a quiet architect whose **surname** was Morales — came from a **Catalan** family that had settled in the city two generations ago, bringing with them a lively sense of **kinship** that immediately put everyone at ease. Her own mother's side were **Bengali**, and the two clans convened around a long table without a trace of awkwardness, as though blood had always recognized blood.
+The late afternoon turned [festive]{.vocab tabindex="0" data-def="festive · adj. 节日的,适合于节日的; 节日地,适合于节日地"} the moment Grandmother announced she had finally found a match for her granddaughter. The young woman's [fiancée]{.vocab tabindex="0" data-def="fiancée · n. 未婚妻"} — a quiet architect whose [surname]{.vocab tabindex="0" data-def="surname · n. 姓，姓氏；绰号，别名; 给…起别名；给…姓氏"} was Morales — came from a [Catalan]{.vocab tabindex="0" data-def="Catalan · n. 加泰罗尼亚语"} family that had settled in the city two generations ago, bringing with them a lively sense of [kinship]{.vocab tabindex="0" data-def="kinship · n. 亲属关系; 亲切感"} that immediately put everyone at ease. Her own mother's side were [Bengali]{.vocab tabindex="0" data-def="Bengali · n. 孟加拉人, 孟加拉国民, 孟加拉语; 孟加拉人的, 孟加拉语的"}, and the two clans convened around a long table without a trace of awkwardness, as though blood had always recognized blood.
 
-They had agreed to **convene** at the old house partly because it felt neutral, partly because the kitchen was large enough for competing recipes. An aunt, the self-appointed **kingpin** of family logistics, had arranged every seat with the diplomacy of a treaty negotiator. She kept a warm **rapport** with everyone — **in-laws**, distant cousins, even the neighbors who drifted in. Her small **retinue** of teenage helpers passed dishes and refilled glasses, glad to **partake** in something that felt genuinely important. Around the table sat several **patrons** of the local cultural society, men and women who had **nurtured** this community for decades, men who had once been **peasants** working a **kolkhoz** on the other side of the world before emigrating with nothing but their **lineage** and their stubbornness.
+They had agreed to [convene]{.vocab tabindex="0" data-def="convene · vt. 召集，集合；传唤; 聚集，集合"} at the old house partly because it felt neutral, partly because the kitchen was large enough for competing recipes. An aunt, the self-appointed [kingpin]{.vocab tabindex="0" data-def="kingpin · n. 中央木柱,主脑人物"} of family logistics, had arranged every seat with the diplomacy of a treaty negotiator. She kept a warm [rapport]{.vocab tabindex="0" data-def="rapport · n. 密切关系，交往；和谐一致"} with everyone — [in-laws]{.vocab tabindex="0" data-def="in-laws · n. 〈口〉姻亲"}, distant cousins, even the neighbors who drifted in. Her small [retinue]{.vocab tabindex="0" data-def="retinue · n. 一批随员"} of teenage helpers passed dishes and refilled glasses, glad to [partake]{.vocab tabindex="0" data-def="partake · vi. 参与；分享；分担；带有某种性质; 分担；分享"} in something that felt genuinely important. Around the table sat several [patrons]{.vocab tabindex="0" data-def="patrons · n. 赞助人；庇护人；老顾客"} of the local cultural society, men and women who had [nurtured]{.vocab tabindex="0" data-def="nurture · vt. 养育；培育，培养; 教养，培育"} this community for decades, men who had once been [peasants]{.vocab tabindex="0" data-def="peasant · n. 农民；乡下人"} working a [kolkhoz]{.vocab tabindex="0" data-def="kolkhoz · n. 苏联的集体农庄"} on the other side of the world before emigrating with nothing but their [lineage]{.vocab tabindex="0" data-def="lineage · n. 血统；家系，世系"} and their stubbornness.
 
-Outside, the street told a different story. The block had once been one of the city's harder **ghettos**, a place where poverty pooled and the smell of **squalor** could **intrude** even through closed windows. A few aging **hippies** who had never left kept a small garden near the corner; their easy tolerance of **homosex** and every other variety of human arrangement had made them unlikely **darlings** of the younger residents. No one here thought it strange that the **consort** chosen for one's child might speak **Maltese** or carry a passport from a country most could not place on a map. The **minions** of old prejudice still lurked, of course — neighbors who bristled when newcomers refused to **conform**, who felt that outsiders who did not **go with** local custom had somehow broken faith. But they were fewer every year. The family at the table had long since learned not to let that kind of thinking **betroth** them to bitterness; the better inheritance, the one worth passing on, was simply the habit of showing up.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Bengali** <span class="wpos">n.</span> | 孟加拉人, 孟加拉国民, 孟加拉语; 孟加拉人的, 孟加拉语的 |
-| **betroth** <span class="wpos">vt.</span> | 将某人许配给, 订婚 |
-| **Catalan** <span class="wpos">n.</span> | 加泰罗尼亚语 |
-| **conform** <span class="wpos">vi.</span> | 符合；遵照；适应环境; 使一致；使遵守；使顺从; 顺从的；一致的 |
-| **consort** <span class="wpos">n.</span> | 配偶; 一组；一组; 厮混，鬼混 |
-| **convene** <span class="wpos">vt.</span> | 召集，集合；传唤; 聚集，集合 |
-| **darling** <span class="wpos">n.</span> | 心爱的人; 亲爱的 |
-| **familia** <span class="wpos">n.</span> | 家 |
-| **festive** <span class="wpos">adj.</span> | 节日的,适合于节日的; 节日地,适合于节日地 |
-| **fiancée** <span class="wpos">n.</span> | 未婚妻 |
-| **ghettos** <span class="wpos">n.</span> | 犹太社区 |
-| **go with** | 伴随, 与...相配, 和交朋友 |
-| **hippies** <span class="wpos">n.</span> | 嬉皮士 |
-| **homosex** <span class="wpos">n.</span> | 同性恋 |
-| **in-laws** <span class="wpos">n.</span> | 〈口〉姻亲 |
-| **intrude** <span class="wpos">vi.</span> | 侵入, 侵扰, 打扰; 把…强加于 |
-| **kingpin** <span class="wpos">n.</span> | 中央木柱,主脑人物 |
-| **kinship** <span class="wpos">n.</span> | 亲属关系; 亲切感 |
-| **kolkhoz** <span class="wpos">n.</span> | 苏联的集体农庄 |
-| **lineage** <span class="wpos">n.</span> | 血统；家系，世系 |
-| **Maltese** <span class="wpos">n.</span> | 马耳他人；马耳他语; 马耳他的 |
-| **minions** <span class="wpos">n.</span> | 奴才；宠臣 |
-| **nurture** <span class="wpos">vt.</span> | 养育；培育，培养; 教养，培育 |
-| **partake** <span class="wpos">vi.</span> | 参与；分享；分担；带有某种性质; 分担；分享 |
-| **patrons** <span class="wpos">n.</span> | 赞助人；庇护人；老顾客 |
-| **peasant** <span class="wpos">n.</span> | 农民；乡下人 |
-| **rapport** <span class="wpos">n.</span> | 密切关系，交往；和谐一致 |
-| **retinue** <span class="wpos">n.</span> | 一批随员 |
-| **squalor** <span class="wpos">n.</span> | 肮脏；悲惨；卑劣；道德败坏 |
-| **surname** <span class="wpos">n.</span> | 姓，姓氏；绰号，别名; 给…起别名；给…姓氏 |
-:::
-:::
-::::
+Outside, the street told a different story. The block had once been one of the city's harder [ghettos]{.vocab tabindex="0" data-def="ghettos · n. 犹太社区"}, a place where poverty pooled and the smell of [squalor]{.vocab tabindex="0" data-def="squalor · n. 肮脏；悲惨；卑劣；道德败坏"} could [intrude]{.vocab tabindex="0" data-def="intrude · vi. 侵入, 侵扰, 打扰; 把…强加于"} even through closed windows. A few aging [hippies]{.vocab tabindex="0" data-def="hippies · n. 嬉皮士"} who had never left kept a small garden near the corner; their easy tolerance of [homosex]{.vocab tabindex="0" data-def="homosex · n. 同性恋"} and every other variety of human arrangement had made them unlikely [darlings]{.vocab tabindex="0" data-def="darling · n. 心爱的人; 亲爱的"} of the younger residents. No one here thought it strange that the [consort]{.vocab tabindex="0" data-def="consort · n. 配偶; 一组；一组; 厮混，鬼混"} chosen for one's child might speak [Maltese]{.vocab tabindex="0" data-def="Maltese · n. 马耳他人；马耳他语; 马耳他的"} or carry a passport from a country most could not place on a map. The [minions]{.vocab tabindex="0" data-def="minions · n. 奴才；宠臣"} of old prejudice still lurked, of course — neighbors who bristled when newcomers refused to [conform]{.vocab tabindex="0" data-def="conform · vi. 符合；遵照；适应环境; 使一致；使遵守；使顺从; 顺从的；一致的"}, who felt that outsiders who did not [go with]{.vocab tabindex="0" data-def="go with 伴随, 与...相配, 和交朋友"} local custom had somehow broken faith. But they were fewer every year. The family at the table had long since learned not to let that kind of thinking [betroth]{.vocab tabindex="0" data-def="betroth · vt. 将某人许配给, 订婚"} them to bitterness; the better inheritance, the one worth passing on, was simply the habit of showing up.
 
 ### A Family Gathering, Fraying at the Edges
 
-:::: {.columns}
-::: {.column width="57%"}
-The **carnival** came to town every summer, and for one weekend the whole **assembly** of neighbors, cousins, and **kinsfolk** would **assemble** on the green — a living **tribute** to the idea that family still meant something. The **newlywed** couple arrived last, flushed and laughing, settling onto the old **loveseat** someone had hauled outside. Around them, **juvenile** children chased each other between tables while the elders swapped stories of shared **ancestry**, tracing lines of blood back three generations. The mood was warm, almost ceremonial — everyone **beholden** to the unspoken rule that this one day belonged to the whole.
+The [carnival]{.vocab tabindex="0" data-def="carnival · n. 狂欢节，嘉年华会；饮宴狂欢"} came to town every summer, and for one weekend the whole [assembly]{.vocab tabindex="0" data-def="assembly · n. 装配；集会，集合"} of neighbors, cousins, and [kinsfolk]{.vocab tabindex="0" data-def="kinsfolk · n. 亲属；家属"} would [assemble]{.vocab tabindex="0" data-def="assemble · vt. 集合，聚集；装配；收集; 集合，聚集"} on the green — a living [tribute]{.vocab tabindex="0" data-def="tribute · n. 贡物；颂词；礼物"} to the idea that family still meant something. The [newlywed]{.vocab tabindex="0" data-def="newlywed · adj. 新婚的; 新婚夫妇"} couple arrived last, flushed and laughing, settling onto the old [loveseat]{.vocab tabindex="0" data-def="loveseat · n. 双人座沙发"} someone had hauled outside. Around them, [juvenile]{.vocab tabindex="0" data-def="juvenile · adj. 青少年的；幼稚的; 青少年；少年读物"} children chased each other between tables while the elders swapped stories of shared [ancestry]{.vocab tabindex="0" data-def="ancestry · n. 祖先；血统"}, tracing lines of blood back three generations. The mood was warm, almost ceremonial — everyone [beholden]{.vocab tabindex="0" data-def="beholden · adj. 负有义务的；蒙恩的；对…表示感谢的"} to the unspoken rule that this one day belonged to the whole.
 
-Yet underneath the surface, the cracks were visible to anyone paying attention. Two **factions** within the extended family had stopped speaking after a dispute over inheritance, and their cold distance **alienated** the younger cousins who had grown up treating both sides as one. An uncle, long estranged after rumors of **adultery**, stood near the edge of the crowd making stiff conversation; his former **paramour** had married into a neighboring family and was seated twenty feet away. The old **levirate** custom — that a widow should marry her late husband's brother — had come up in a heated argument the previous winter, and the echo of it still made the **brethren** uneasy. Even the **pedagogy** of the family seemed in dispute: the grandparents believed in discipline and obedience, while the younger parents talked about **outreach**, about meeting children where they were.
+Yet underneath the surface, the cracks were visible to anyone paying attention. Two [factions]{.vocab tabindex="0" data-def="factions · n. 内讧；派系"} within the extended family had stopped speaking after a dispute over inheritance, and their cold distance [alienated]{.vocab tabindex="0" data-def="alienate · vt. 使疏远, 使不友好, 离间; 转让, 让渡"} the younger cousins who had grown up treating both sides as one. An uncle, long estranged after rumors of [adultery]{.vocab tabindex="0" data-def="adultery · n. 通奸，通奸行为"}, stood near the edge of the crowd making stiff conversation; his former [paramour]{.vocab tabindex="0" data-def="paramour · n. 情夫，情妇；情人"} had married into a neighboring family and was seated twenty feet away. The old [levirate]{.vocab tabindex="0" data-def="levirate · n. 寡妇与亡夫兄弟的结婚"} custom — that a widow should marry her late husband's brother — had come up in a heated argument the previous winter, and the echo of it still made the [brethren]{.vocab tabindex="0" data-def="brethren · n. 〈旧〉兄弟们, 同胞"} uneasy. Even the [pedagogy]{.vocab tabindex="0" data-def="pedagogy · n. 教育学；教育；教授法"} of the family seemed in dispute: the grandparents believed in discipline and obedience, while the younger parents talked about [outreach]{.vocab tabindex="0" data-def="outreach · vt. 超越，伸出；超出…的范围; 拓广，延伸; 扩大服务范围；延伸，拓广; 扩大服务的"}, about meeting children where they were.
 
-By evening the crowd thinned. The **indigent** branch of the family — the cousins who had never quite found steady work — slipped away early, before the dinner bill came. Someone mentioned a news story about a **dystopia** of algorithmic parenting, and the conversation turned dark for a moment. A pair of teenagers were caught **flirting** behind the hedgerow; a toddler screamed for its **pacifier**. The **entrants** to the family's annual trivia game — a long-standing ritual — gathered around a folding table with exaggerated solemnity. Two of the **kollegen** from the grandfather's old firm had been invited and stood a little apart, polite but uncertain of their place. One great-aunt, who had been declared an **outcaste** by an older **intimacy** scandal decades ago and only recently welcomed back, sat quietly at the edge of the light, watching everything with the careful attention of someone who had learned not to take belonging for granted. The **maternal** side of the family — louder, warmer — pulled her in before the night ended. For a moment, the two teenagers stopped **canoodle**-ing long enough to notice. The family, for all its **factions** and fractures, was still trying. And that, more than any polished **intimate** speech or formal gesture, was what the gathering was really about. No one mentioned the **brothels** district the carnival would visit next town over, though a few knew. Some things were left outside the circle of lamplight, where the **assembly** did not need to look.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **tribute** <span class="wpos">n.</span> | 贡物；颂词；礼物 |
-| **adultery** <span class="wpos">n.</span> | 通奸，通奸行为 |
-| **alienate** <span class="wpos">vt.</span> | 使疏远, 使不友好, 离间; 转让, 让渡 |
-| **ancestry** <span class="wpos">n.</span> | 祖先；血统 |
-| **assemble** <span class="wpos">vt.</span> | 集合，聚集；装配；收集; 集合，聚集 |
-| **assembly** <span class="wpos">n.</span> | 装配；集会，集合 |
-| **beholden** <span class="wpos">adj.</span> | 负有义务的；蒙恩的；对…表示感谢的 |
-| **brethren** <span class="wpos">n.</span> | 〈旧〉兄弟们, 同胞 |
-| **brothels** <span class="wpos">n.</span> | 妓院 |
-| **canoodle** <span class="wpos">vi.</span> | 爱抚；搂颈亲热; 爱抚而说服 |
-| **carnival** <span class="wpos">n.</span> | 狂欢节，嘉年华会；饮宴狂欢 |
-| **dystopia** <span class="wpos">n.</span> | 异位；非理想化的地方，糟透的社会；地狱般的处境 |
-| **entrants** <span class="wpos">n.</span> | 竞赛者；新成员；新就业者 |
-| **factions** <span class="wpos">n.</span> | 内讧；派系 |
-| **flirting** <span class="wpos">v.</span> | 玩弄；摆动；打情骂俏; 打情骂俏; 调情的 |
-| **indigent** <span class="wpos">adj.</span> | 贫困的；贫穷的 |
-| **intimacy** <span class="wpos">n.</span> | 亲密；亲昵行为；隐私；性行为 |
-| **intimate** <span class="wpos">adj.</span> | 亲密的；私人的；精通的；有性关系的; 至交；知己; 暗示；通知；宣布 |
-| **juvenile** <span class="wpos">adj.</span> | 青少年的；幼稚的; 青少年；少年读物 |
-| **kinsfolk** <span class="wpos">n.</span> | 亲属；家属 |
-| **kollegen** <span class="wpos">n.</span> | 同学；同事 |
-| **levirate** <span class="wpos">n.</span> | 寡妇与亡夫兄弟的结婚 |
-| **loveseat** <span class="wpos">n.</span> | 双人座沙发 |
-| **maternal** <span class="wpos">adj.</span> | 母亲的；母性的；母系的；母体遗传的 |
-| **newlywed** <span class="wpos">adj.</span> | 新婚的; 新婚夫妇 |
-| **outcaste** <span class="wpos">n.</span> | 由自己的阶级被逐出的人; 贱民的；无种姓的; 把…逐出阶级之外 |
-| **outreach** <span class="wpos">vt.</span> | 超越，伸出；超出…的范围; 拓广，延伸; 扩大服务范围；延伸，拓广; 扩大服务的 |
-| **pacifier** <span class="wpos">n.</span> | 调解人；抚慰者；橡皮奶头 |
-| **paramour** <span class="wpos">n.</span> | 情夫，情妇；情人 |
-| **pedagogy** <span class="wpos">n.</span> | 教育学；教育；教授法 |
-:::
-:::
-::::
+By evening the crowd thinned. The [indigent]{.vocab tabindex="0" data-def="indigent · adj. 贫困的；贫穷的"} branch of the family — the cousins who had never quite found steady work — slipped away early, before the dinner bill came. Someone mentioned a news story about a [dystopia]{.vocab tabindex="0" data-def="dystopia · n. 异位；非理想化的地方，糟透的社会；地狱般的处境"} of algorithmic parenting, and the conversation turned dark for a moment. A pair of teenagers were caught [flirting]{.vocab tabindex="0" data-def="flirting · v. 玩弄；摆动；打情骂俏; 打情骂俏; 调情的"} behind the hedgerow; a toddler screamed for its [pacifier]{.vocab tabindex="0" data-def="pacifier · n. 调解人；抚慰者；橡皮奶头"}. The [entrants]{.vocab tabindex="0" data-def="entrants · n. 竞赛者；新成员；新就业者"} to the family's annual trivia game — a long-standing ritual — gathered around a folding table with exaggerated solemnity. Two of the [kollegen]{.vocab tabindex="0" data-def="kollegen · n. 同学；同事"} from the grandfather's old firm had been invited and stood a little apart, polite but uncertain of their place. One great-aunt, who had been declared an [outcaste]{.vocab tabindex="0" data-def="outcaste · n. 由自己的阶级被逐出的人; 贱民的；无种姓的; 把…逐出阶级之外"} by an older [intimacy]{.vocab tabindex="0" data-def="intimacy · n. 亲密；亲昵行为；隐私；性行为"} scandal decades ago and only recently welcomed back, sat quietly at the edge of the light, watching everything with the careful attention of someone who had learned not to take belonging for granted. The [maternal]{.vocab tabindex="0" data-def="maternal · adj. 母亲的；母性的；母系的；母体遗传的"} side of the family — louder, warmer — pulled her in before the night ended. For a moment, the two teenagers stopped [canoodle]{.vocab tabindex="0" data-def="canoodle · vi. 爱抚；搂颈亲热; 爱抚而说服"}-ing long enough to notice. The family, for all its [factions]{.vocab tabindex="0" data-def="factions · n. 内讧；派系"} and fractures, was still trying. And that, more than any polished [intimate]{.vocab tabindex="0" data-def="intimate · adj. 亲密的；私人的；精通的；有性关系的; 至交；知己; 暗示；通知；宣布"} speech or formal gesture, was what the gathering was really about. No one mentioned the [brothels]{.vocab tabindex="0" data-def="brothels · n. 妓院"} district the carnival would visit next town over, though a few knew. Some things were left outside the circle of lamplight, where the [assembly]{.vocab tabindex="0" data-def="assembly · n. 装配；集会，集合"} did not need to look.
 
 ### A Gathering Across Generations
 
-:::: {.columns}
-::: {.column width="57%"}
-The annual reunion had always been **customary** in our family — a weekend when every **relative** gathered under one roof, from white-haired grandparents to **toddlers** who could barely navigate the garden steps. My grandmother, proud of her **pedigree** and unafraid to say so, would seat us all at a long table and remind us that belonging to one another was not a matter of **ethnicity** or geography, but of showing up.
+The annual reunion had always been [customary]{.vocab tabindex="0" data-def="customary · adj. 习惯上的, 惯常的, 合乎习俗的"} in our family — a weekend when every [relative]{.vocab tabindex="0" data-def="relative · adj. 相对的；有关系的；成比例的; 亲戚；关系词；相关物；亲缘植物"} gathered under one roof, from white-haired grandparents to [toddlers]{.vocab tabindex="0" data-def="toddlers · n. 初学走路的孩子；儿童短衫"} who could barely navigate the garden steps. My grandmother, proud of her [pedigree]{.vocab tabindex="0" data-def="pedigree · n. 世系; 门第;出身; 家谱;系谱; 纯种的; 有血统来源的"} and unafraid to say so, would seat us all at a long table and remind us that belonging to one another was not a matter of [ethnicity]{.vocab tabindex="0" data-def="ethnicity · n. 种族地位;种族特点;种族渊源"} or geography, but of showing up.
 
-This year, a **Spaniard** cousin brought his **betrothed**, a quiet woman from a **Tahitian** mother's line who had grown up between islands and cities. A family friend of **Ashkenazi** descent came too, along with a retired **counselor** who had spent decades helping families rebuild after separation. Even a distant branch — descendants of **Slavonic** settlers who had arrived a century ago as little more than **vagabond** laborers — sent two representatives. The sheer range of faces made it clear that no single bloodline had stayed pure; the old fantasy of the **bourgeois** household, tidy and **racially** uniform, had long dissolved into something messier and more honest.
+This year, a [Spaniard]{.vocab tabindex="0" data-def="Spaniard · n. 西班牙人"} cousin brought his [betrothed]{.vocab tabindex="0" data-def="betrothed · adj. 同某人订婚; 未婚夫, 未婚妻"}, a quiet woman from a [Tahitian]{.vocab tabindex="0" data-def="Tahitian · n. 塔希提人; 塔希提岛的；塔希提语的；塔希提人的"} mother's line who had grown up between islands and cities. A family friend of [Ashkenazi]{.vocab tabindex="0" data-def="Ashkenazi · n. 德系犹太人"} descent came too, along with a retired [counselor]{.vocab tabindex="0" data-def="counselor · n. 顾问，参事; 指导老师; 律师; 参赞；法律顾问; 管理员"} who had spent decades helping families rebuild after separation. Even a distant branch — descendants of [Slavonic]{.vocab tabindex="0" data-def="Slavonic · adj. 斯拉夫民族的；斯拉夫人的; 斯拉夫人；斯拉夫语"} settlers who had arrived a century ago as little more than [vagabond]{.vocab tabindex="0" data-def="vagabond · n. 流浪者，游手好闲者; 流浪的；流浪者的；漂泊的; 声名狼藉的；浪荡的；懒散的"} laborers — sent two representatives. The sheer range of faces made it clear that no single bloodline had stayed pure; the old fantasy of the [bourgeois]{.vocab tabindex="0" data-def="bourgeois · adj. 传统中产阶级的; 追求名利且平庸的；世俗的; 资本主义的，资产阶级的"} household, tidy and [racially]{.vocab tabindex="0" data-def="racially · adv. 人种上；按人种"} uniform, had long dissolved into something messier and more honest.
 
-After dinner, the conversation deepened, as it always does when wine and candlelight create a **convivial** atmosphere. Someone raised the history of marriage — how **polygamy** had been practiced across many cultures, how **concubine** arrangements once carried legal standing, how the **adulterer** was publicly shamed in some societies while quietly tolerated in others. The man who liked to **womanize** in his youth, now gray and contrite, sat listening in unusual silence. His former **alter ego** — reckless, rootless — seemed to belong to a stranger.
+After dinner, the conversation deepened, as it always does when wine and candlelight create a [convivial]{.vocab tabindex="0" data-def="convivial · adj. 好交际的; 随和的,活跃的， 欢乐的"} atmosphere. Someone raised the history of marriage — how [polygamy]{.vocab tabindex="0" data-def="polygamy · n. 一夫多妻，一妻多夫，多配偶"} had been practiced across many cultures, how [concubine]{.vocab tabindex="0" data-def="concubine · n. 妾, 妃子"} arrangements once carried legal standing, how the [adulterer]{.vocab tabindex="0" data-def="adulterer · n. 奸夫,通奸者"} was publicly shamed in some societies while quietly tolerated in others. The man who liked to [womanize]{.vocab tabindex="0" data-def="womanize · v. 使柔弱,玩女人"} in his youth, now gray and contrite, sat listening in unusual silence. His former [alter ego]{.vocab tabindex="0" data-def="alter ego · n. 密友；个性的另一面；至交"} — reckless, rootless — seemed to belong to a stranger.
 
-A woman from the local **sorority** network, who had organized **symposia** on family law for years, brought the room back to the present: the **consensus**, she said, was that families succeed not through perfect **etiquette** or the **exclusion** of those who don't fit a mold, but through the will to **cooperate** and the honesty to say when something is broken. The **populace** at large might still debate what a family should look like — the **Sumerian** clay tablets had their version, every civilization its own — but around this table, at least, the answer felt lived-in and real. Even the old **beadhouse** at the edge of town, where aging **companion**s of the community's founders once spent their last years, seemed less like an ending than a part of the same long, unbroken chain.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **pedigree** <span class="wpos">n.</span> | 世系; 门第;出身; 家谱;系谱; 纯种的; 有血统来源的 |
-| **polygamy** <span class="wpos">n.</span> | 一夫多妻，一妻多夫，多配偶 |
-| **populace** <span class="wpos">n.</span> | 百姓, 平民 |
-| **racially** <span class="wpos">adv.</span> | 人种上；按人种 |
-| **relative** <span class="wpos">adj.</span> | 相对的；有关系的；成比例的; 亲戚；关系词；相关物；亲缘植物 |
-| **Slavonic** <span class="wpos">adj.</span> | 斯拉夫民族的；斯拉夫人的; 斯拉夫人；斯拉夫语 |
-| **sorority** <span class="wpos">n.</span> | 妇女联谊会；女学生联谊会 |
-| **Spaniard** <span class="wpos">n.</span> | 西班牙人 |
-| **Sumerian** <span class="wpos">adj.</span> | 闪族人的；闪族语的; 闪族人；闪族语 |
-| **symposia** | 座谈会；专题讨论会；专题论文集 |
-| **Tahitian** <span class="wpos">n.</span> | 塔希提人; 塔希提岛的；塔希提语的；塔希提人的 |
-| **toddlers** <span class="wpos">n.</span> | 初学走路的孩子；儿童短衫 |
-| **vagabond** <span class="wpos">n.</span> | 流浪者，游手好闲者; 流浪的；流浪者的；漂泊的; 声名狼藉的；浪荡的；懒散的 |
-| **womanize** <span class="wpos">v.</span> | 使柔弱,玩女人 |
-| **adulterer** <span class="wpos">n.</span> | 奸夫,通奸者 |
-| **alter ego** <span class="wpos">n.</span> | 密友；个性的另一面；至交 |
-| **Ashkenazi** <span class="wpos">n.</span> | 德系犹太人 |
-| **beadhouse** <span class="wpos">n.</span> | 养育院,养老院 |
-| **betrothed** <span class="wpos">adj.</span> | 同某人订婚; 未婚夫, 未婚妻 |
-| **bourgeois** <span class="wpos">adj.</span> | 传统中产阶级的; 追求名利且平庸的；世俗的; 资本主义的，资产阶级的 |
-| **companion** <span class="wpos">n.</span> | 同伴, 伙伴; 成双成对的物品之一 |
-| **concubine** <span class="wpos">n.</span> | 妾, 妃子 |
-| **consensus** <span class="wpos">n.</span> | 一致, 一致同意 |
-| **convivial** <span class="wpos">adj.</span> | 好交际的; 随和的,活跃的， 欢乐的 |
-| **cooperate** <span class="wpos">vi.</span> | 合作；配合，协助 |
-| **counselor** <span class="wpos">n.</span> | 顾问，参事; 指导老师; 律师; 参赞；法律顾问; 管理员 |
-| **customary** <span class="wpos">adj.</span> | 习惯上的, 惯常的, 合乎习俗的 |
-| **ethnicity** <span class="wpos">n.</span> | 种族地位;种族特点;种族渊源 |
-| **etiquette** <span class="wpos">n.</span> | 礼节，礼仪；规矩 |
-| **exclusion** <span class="wpos">n.</span> | 拒绝,排除; 排外主义 |
-:::
-:::
-::::
+A woman from the local [sorority]{.vocab tabindex="0" data-def="sorority · n. 妇女联谊会；女学生联谊会"} network, who had organized [symposia]{.vocab tabindex="0" data-def="symposia 座谈会；专题讨论会；专题论文集"} on family law for years, brought the room back to the present: the [consensus]{.vocab tabindex="0" data-def="consensus · n. 一致, 一致同意"}, she said, was that families succeed not through perfect [etiquette]{.vocab tabindex="0" data-def="etiquette · n. 礼节，礼仪；规矩"} or the [exclusion]{.vocab tabindex="0" data-def="exclusion · n. 拒绝,排除; 排外主义"} of those who don't fit a mold, but through the will to [cooperate]{.vocab tabindex="0" data-def="cooperate · vi. 合作；配合，协助"} and the honesty to say when something is broken. The [populace]{.vocab tabindex="0" data-def="populace · n. 百姓, 平民"} at large might still debate what a family should look like — the [Sumerian]{.vocab tabindex="0" data-def="Sumerian · adj. 闪族人的；闪族语的; 闪族人；闪族语"} clay tablets had their version, every civilization its own — but around this table, at least, the answer felt lived-in and real. Even the old [beadhouse]{.vocab tabindex="0" data-def="beadhouse · n. 养育院,养老院"} at the edge of town, where aging [companion]{.vocab tabindex="0" data-def="companion · n. 同伴, 伙伴; 成双成对的物品之一"}s of the community's founders once spent their last years, seemed less like an ending than a part of the same long, unbroken chain.
 
 ### 婚宴之夜，旧日伤痕
 
-:::: {.columns}
-::: {.column width="57%"}
-The **reception** was held in a grand hotel ballroom, far from the **hillbilly** town where the bride and groom had grown up. Their families, long estranged, stood on opposite sides of the room — a quiet **segregate**d geography that no seating chart could fully disguise. The **patriarch** of the groom's clan, a stiff man who clung to every **formality**, insisted on a **roll call** of relatives before the toasts began, consulting his list with the gravity of someone reading a legal document. He had spent decades at the top of a rigid family **hierarchy**, and old habits died hard.
+The [reception]{.vocab tabindex="0" data-def="reception · n. 接待, 接见; 招待会, 欢迎会; 接待处, 服务台, 问询处; 接收效果"} was held in a grand hotel ballroom, far from the [hillbilly]{.vocab tabindex="0" data-def="hillbilly · n. 乡巴佬;土包子"} town where the bride and groom had grown up. Their families, long estranged, stood on opposite sides of the room — a quiet [segregate]{.vocab tabindex="0" data-def="segregate · vt. 分开, 隔离"}d geography that no seating chart could fully disguise. The [patriarch]{.vocab tabindex="0" data-def="patriarch · n. 家长, 族长; 主教"} of the groom's clan, a stiff man who clung to every [formality]{.vocab tabindex="0" data-def="formality · n. 拘泥形式，拘谨；遵守礼节; 正式手续; 形式上的措施"}, insisted on a [roll call]{.vocab tabindex="0" data-def="roll call 点名；名单；登记表"} of relatives before the toasts began, consulting his list with the gravity of someone reading a legal document. He had spent decades at the top of a rigid family [hierarchy]{.vocab tabindex="0" data-def="hierarchy · n. 等级制度; 统治集团, 领导层"}, and old habits died hard.
 
-The groom's brother, always the **simpatico** one, moved easily between both families, cracking jokes that dissolved tension. He had **immigrate**d from Hungary years ago — a proud **Hungarian** who still carried a faint accent — and he understood better than anyone what it meant to be on the outside looking in. **Inclusion** was not a given; it had to be earned, performed, extended. He extended it now, refilling glasses, making introductions, nudging **laypeople** into conversation with the officiant who had stumbled through the ceremony.
+The groom's brother, always the [simpatico]{.vocab tabindex="0" data-def="simpatico · adj. 和谐的,讨人喜欢的,令人亲近的"} one, moved easily between both families, cracking jokes that dissolved tension. He had [immigrate]{.vocab tabindex="0" data-def="immigrate · vi. 移入"}d from Hungary years ago — a proud [Hungarian]{.vocab tabindex="0" data-def="hungarian · adj. 匈牙利的"} who still carried a faint accent — and he understood better than anyone what it meant to be on the outside looking in. [Inclusion]{.vocab tabindex="0" data-def="inclusion · n. 包括,包含; 包含物"} was not a given; it had to be earned, performed, extended. He extended it now, refilling glasses, making introductions, nudging [laypeople]{.vocab tabindex="0" data-def="laypeople · n. 外行,非专业人员,未担任神职的一般信徒"} into conversation with the officiant who had stumbled through the ceremony.
 
-The couple themselves were radiant. Their **honeymoon** was booked for the following week — a small cottage near the coast where they had agreed, laughingly, to leave all **masculine** posturing and social performance behind. Tonight, though, the world watched. The **maternity** ward had called that afternoon: the groom's sister had delivered a son, adding one more soul to the **matrimony**-and-birth season that seemed to have overtaken the whole extended family. The new **homeowner** in the family — the groom himself, who had just closed on a house — quietly hoped the baby's arrival would **reconcile** the two grandfathers, who had not spoken since a bitter **severance** over an inheritance three years ago.
+The couple themselves were radiant. Their [honeymoon]{.vocab tabindex="0" data-def="honeymoon · n. 蜜月; 短暂的和谐时期; 蜜月期；最初的和谐时期; 度蜜月"} was booked for the following week — a small cottage near the coast where they had agreed, laughingly, to leave all [masculine]{.vocab tabindex="0" data-def="masculine · adj. 男性的, 男子的, 男子气的; 阳性的"} posturing and social performance behind. Tonight, though, the world watched. The [maternity]{.vocab tabindex="0" data-def="maternity · n. 母性;为母之道"} ward had called that afternoon: the groom's sister had delivered a son, adding one more soul to the [matrimony]{.vocab tabindex="0" data-def="matrimony · n. 结婚,婚姻生活"}-and-birth season that seemed to have overtaken the whole extended family. The new [homeowner]{.vocab tabindex="0" data-def="homeowner · n. 自己拥有住房者,私房屋主"} in the family — the groom himself, who had just closed on a house — quietly hoped the baby's arrival would [reconcile]{.vocab tabindex="0" data-def="reconcile · vt. 使和好；和解; 使一致，使和谐"} the two grandfathers, who had not spoken since a bitter [severance]{.vocab tabindex="0" data-def="severance · n. 切断,断绝,分裂; 割断,分离; 离职金,解雇金"} over an inheritance three years ago.
 
-Not everyone was gracious. One uncle, known to **patronize** anyone younger than sixty, cornered the bride's college friends and held court. A cousin whispered that he had once tried to **fornicate** his way through every **nightclub** in the city and now styled himself a **recipient** of hard-won wisdom. The friends smiled and edged away. The **institute** of family, someone muttered, had a way of **ostracize**-ing the very people it claimed to embrace — those who didn't fit the mold, who were **fraternal** with the wrong crowd, whose **paternity** or origins were quietly questioned.
+Not everyone was gracious. One uncle, known to [patronize]{.vocab tabindex="0" data-def="patronize · v. 对…摆出屈尊俯就的样子；摆出高人一等的派头; 资助；赞助; 光顾；惠顾"} anyone younger than sixty, cornered the bride's college friends and held court. A cousin whispered that he had once tried to [fornicate]{.vocab tabindex="0" data-def="fornicate · vi. 私通"} his way through every [nightclub]{.vocab tabindex="0" data-def="nightclub · n. 夜总会"} in the city and now styled himself a [recipient]{.vocab tabindex="0" data-def="recipient · n. 接受者"} of hard-won wisdom. The friends smiled and edged away. The [institute]{.vocab tabindex="0" data-def="institute · vt. 建立，制定；开始，着手; 协会，学会；学院，研究院"} of family, someone muttered, had a way of [ostracize]{.vocab tabindex="0" data-def="ostracize · vt. 放逐，流放; 摈弃；排斥"}-ing the very people it claimed to embrace — those who didn't fit the mold, who were [fraternal]{.vocab tabindex="0" data-def="fraternal · adj. 兄弟的,兄弟般的; 友好的,同志般的"} with the wrong crowd, whose [paternity]{.vocab tabindex="0" data-def="paternity · n. 父亲的身份〔地位〕"} or origins were quietly questioned.
 
-But the dancing started, and the music was louder than the gossip. The bride's mother, tearful and warm, pulled her new son-in-law close and said simply, *thank you — and **in return**, please take care of her*. It was the most unguarded moment of the evening. Even the **Mongoloid**-slur-slinging great-uncle in the corner fell silent. For one measure of music, the room felt, against all odds, like a family.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **formality** <span class="wpos">n.</span> | 拘泥形式，拘谨；遵守礼节; 正式手续; 形式上的措施 |
-| **fornicate** <span class="wpos">vi.</span> | 私通 |
-| **fraternal** <span class="wpos">adj.</span> | 兄弟的,兄弟般的; 友好的,同志般的 |
-| **hierarchy** <span class="wpos">n.</span> | 等级制度; 统治集团, 领导层 |
-| **hillbilly** <span class="wpos">n.</span> | 乡巴佬;土包子 |
-| **homeowner** <span class="wpos">n.</span> | 自己拥有住房者,私房屋主 |
-| **honeymoon** <span class="wpos">n.</span> | 蜜月; 短暂的和谐时期; 蜜月期；最初的和谐时期; 度蜜月 |
-| **hungarian** <span class="wpos">adj.</span> | 匈牙利的 |
-| **immigrate** <span class="wpos">vi.</span> | 移入 |
-| **in return** <span class="wpos">adv.</span> | 作为报答 |
-| **inclusion** <span class="wpos">n.</span> | 包括,包含; 包含物 |
-| **inclusive** <span class="wpos">adj.</span> | 包括…的, 包括一切的; 包括所述的限度 |
-| **institute** <span class="wpos">vt.</span> | 建立，制定；开始，着手; 协会，学会；学院，研究院 |
-| **laypeople** <span class="wpos">n.</span> | 外行,非专业人员,未担任神职的一般信徒 |
-| **masculine** <span class="wpos">adj.</span> | 男性的, 男子的, 男子气的; 阳性的 |
-| **maternity** <span class="wpos">n.</span> | 母性;为母之道 |
-| **matrimony** <span class="wpos">n.</span> | 结婚,婚姻生活 |
-| **Mongoloid** <span class="wpos">adj.</span> | 像蒙古人的,蒙古人种的,先头愚型的; 属于蒙古人种的人,先头愚型患者 |
-| **nightclub** <span class="wpos">n.</span> | 夜总会 |
-| **ostracize** <span class="wpos">vt.</span> | 放逐，流放; 摈弃；排斥 |
-| **paternity** <span class="wpos">n.</span> | 父亲的身份〔地位〕 |
-| **patriarch** <span class="wpos">n.</span> | 家长, 族长; 主教 |
-| **patronize** <span class="wpos">v.</span> | 对…摆出屈尊俯就的样子；摆出高人一等的派头; 资助；赞助; 光顾；惠顾 |
-| **reception** <span class="wpos">n.</span> | 接待, 接见; 招待会, 欢迎会; 接待处, 服务台, 问询处; 接收效果 |
-| **recipient** <span class="wpos">n.</span> | 接受者 |
-| **reconcile** <span class="wpos">vt.</span> | 使和好；和解; 使一致，使和谐 |
-| **roll call** | 点名；名单；登记表 |
-| **segregate** <span class="wpos">vt.</span> | 分开, 隔离 |
-| **severance** <span class="wpos">n.</span> | 切断,断绝,分裂; 割断,分离; 离职金,解雇金 |
-| **simpatico** <span class="wpos">adj.</span> | 和谐的,讨人喜欢的,令人亲近的 |
-:::
-:::
-::::
+But the dancing started, and the music was louder than the gossip. The bride's mother, tearful and warm, pulled her new son-in-law close and said simply, *thank you — and [in return]{.vocab tabindex="0" data-def="in return · adv. 作为报答"}, please take care of her*. It was the most unguarded moment of the evening. Even the [Mongoloid]{.vocab tabindex="0" data-def="Mongoloid · adj. 像蒙古人的,蒙古人种的,先头愚型的; 属于蒙古人种的人,先头愚型患者"}-slur-slinging great-uncle in the corner fell silent. For one measure of music, the room felt, against all odds, like a family.
 
 ### A Family Affair
 
-:::: {.columns}
-::: {.column width="57%"}
-The old neighborhood had its own **sociality** — everyone knew everyone, and that **unanimity** of spirit, that sense of shared purpose, was what held it together. When the Martínez family returned for their eldest daughter's **graduation**, it felt less like a visit and more like a **homecoming**. Their **compatriots** from the old country had **assimilated** over the years, grafting new customs onto old roots without losing the thread of **allegiance** that bound them.
+The old neighborhood had its own [sociality]{.vocab tabindex="0" data-def="sociality · n. 社交,交际,社会性"} — everyone knew everyone, and that [unanimity]{.vocab tabindex="0" data-def="unanimity · n. 一致同意;全体一致"} of spirit, that sense of shared purpose, was what held it together. When the Martínez family returned for their eldest daughter's [graduation]{.vocab tabindex="0" data-def="graduation · n. 毕业;毕业典礼"}, it felt less like a visit and more like a [homecoming]{.vocab tabindex="0" data-def="homecoming · n. 回到家里; 校友返校的聚会, 校友日"}. Their [compatriots]{.vocab tabindex="0" data-def="compatriot · n. 同胞,同国人; 同国人的,同胞的"} from the old country had [assimilated]{.vocab tabindex="0" data-def="assimilate · vt. &amp; 吸收, 消化; 同化"} over the years, grafting new customs onto old roots without losing the thread of [allegiance]{.vocab tabindex="0" data-def="allegiance · n. 拥护, 忠诚"} that bound them.
 
-Rosa, the graduate, had served as a **bridesmaid** twice that summer alone. Her younger sister Pilar played **babysitter** most evenings, wrangling the neighborhood **threesome** — three inseparable cousins who treated every backyard as a **collegiate** commons. Their grandmother, who studied **demography** before she ever had **descendant**s of her own, liked to say that families are the original data set: births, migrations, marriages, all of it written in the body of the next generation.
+Rosa, the graduate, had served as a [bridesmaid]{.vocab tabindex="0" data-def="bridesmaid · n. 女傧相；伴娘"} twice that summer alone. Her younger sister Pilar played [babysitter]{.vocab tabindex="0" data-def="babysitter · n. 临时照顾幼儿者"} most evenings, wrangling the neighborhood [threesome]{.vocab tabindex="0" data-def="threesome · n. 三倍的,三人一组,三人的竞赛,一人对两人的比赛"} — three inseparable cousins who treated every backyard as a [collegiate]{.vocab tabindex="0" data-def="collegiate · adj. 学院的"} commons. Their grandmother, who studied [demography]{.vocab tabindex="0" data-def="demography · n. 人口统计学; 人口统计学的"} before she ever had [descendant]{.vocab tabindex="0" data-def="descendant · n. 后代, 后裔"}s of her own, liked to say that families are the original data set: births, migrations, marriages, all of it written in the body of the next generation.
 
-The reunion, however, was not without friction. Uncle Héctor's casual **chauvinism** surfaced at the dinner table, met with quiet but firm resistance. His son Marcos, recently out as **homosexual**, sat composed beside his partner, unmoved by **homophobia** that had once made family gatherings unbearable. The **infidelity** in the previous generation — never quite spoken aloud — had cast a long shadow, and everyone navigated around it with the careful, **diplomatic** grace that long familiarity demands. A **surrogate** peace, some would call it: the kind you choose because the real thing is still out of reach.
+The reunion, however, was not without friction. Uncle Héctor's casual [chauvinism]{.vocab tabindex="0" data-def="chauvinism · n. 沙文主义; 大国沙文主义"} surfaced at the dinner table, met with quiet but firm resistance. His son Marcos, recently out as [homosexual]{.vocab tabindex="0" data-def="homosexual · n. 同性恋者; 同性恋性向的"}, sat composed beside his partner, unmoved by [homophobia]{.vocab tabindex="0" data-def="homophobia · n. 对同性恋的憎恶"} that had once made family gatherings unbearable. The [infidelity]{.vocab tabindex="0" data-def="infidelity · n. 不忠实;通奸"} in the previous generation — never quite spoken aloud — had cast a long shadow, and everyone navigated around it with the careful, [diplomatic]{.vocab tabindex="0" data-def="diplomatic · adj. 外交上的, 外交人员的; 有手腕的, 策略的, 善于交涉的, 圆滑的"} grace that long familiarity demands. A [surrogate]{.vocab tabindex="0" data-def="surrogate · adj. 替代的，代理的; 代理人；主教代理人；遗嘱检验法官; 取代，替代；指定为自己的代理人"} peace, some would call it: the kind you choose because the real thing is still out of reach.
 
-What struck Rosa most, standing at the edge of the yard, was how the family had become its own **fraternity** — secretive as any **illuminati**, bound by a **curriculum** of shared memory no school could teach. Her mother had raised her **intimately** aware of **femininity** as both gift and constraint. The **compromise** they had all arrived at — between **conformity** and individuality — had required years. A **bellwether** moment came the summer Marcos left, when the family learned, slowly, to close the gap his absence carved. Now, watching each **contestant** in the next generation find their footing, Rosa felt something settle. The **intramural** conflicts, the small wars fought entirely within these four walls, had shaped them as surely as anything outside.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **sociality** <span class="wpos">n.</span> | 社交,交际,社会性 |
-| **surrogate** <span class="wpos">adj.</span> | 替代的，代理的; 代理人；主教代理人；遗嘱检验法官; 取代，替代；指定为自己的代理人 |
-| **threesome** <span class="wpos">n.</span> | 三倍的,三人一组,三人的竞赛,一人对两人的比赛 |
-| **unanimity** <span class="wpos">n.</span> | 一致同意;全体一致 |
-| **unanimous** <span class="wpos">adj.</span> | 全体一致的; 一致同意的; 无异议的 |
-| **allegiance** <span class="wpos">n.</span> | 拥护, 忠诚 |
-| **assimilate** <span class="wpos">vt.</span> | &amp; 吸收, 消化; 同化 |
-| **babysitter** <span class="wpos">n.</span> | 临时照顾幼儿者 |
-| **bellwether** <span class="wpos">n.</span> | 系铃的公羊,前导,领导者,群众的首领 |
-| **bridesmaid** <span class="wpos">n.</span> | 女傧相；伴娘 |
-| **chauvinism** <span class="wpos">n.</span> | 沙文主义; 大国沙文主义 |
-| **collegiate** <span class="wpos">adj.</span> | 学院的 |
-| **compatriot** <span class="wpos">n.</span> | 同胞,同国人; 同国人的,同胞的 |
-| **compromise** <span class="wpos">n.</span> | 妥协, 折中方法; 折中解决; 连累, 危害, 损害 |
-| **conformity** <span class="wpos">n.</span> | 依照，遵从；符合，一致 |
-| **contestant** <span class="wpos">n.</span> | 竞争者; 参赛者 |
-| **curriculum** <span class="wpos">n.</span> | 总课程 |
-| **demography** <span class="wpos">n.</span> | 人口统计学; 人口统计学的 |
-| **descendant** <span class="wpos">n.</span> | 后代, 后裔 |
-| **diplomatic** <span class="wpos">adj.</span> | 外交上的, 外交人员的; 有手腕的, 策略的, 善于交涉的, 圆滑的 |
-| **femininity** <span class="wpos">n.</span> | 女性；女性气质 |
-| **fraternity** <span class="wpos">n.</span> | 同业工人，行会；兄弟会; 大学联谊会; 〈正〉兄弟关系；友爱，博爱 |
-| **graduation** <span class="wpos">n.</span> | 毕业;毕业典礼 |
-| **homecoming** <span class="wpos">n.</span> | 回到家里; 校友返校的聚会, 校友日 |
-| **homophobia** <span class="wpos">n.</span> | 对同性恋的憎恶 |
-| **homosexual** <span class="wpos">n.</span> | 同性恋者; 同性恋性向的 |
-| **illuminati** <span class="wpos">n.</span> | 有睿智的人,先觉者,光照派 |
-| **infidelity** <span class="wpos">n.</span> | 不忠实;通奸 |
-| **intimately** <span class="wpos">adv.</span> | 熟悉地；亲密地，亲切地; 私下地，秘密地; 谙熟地；详尽地 |
-| **intramural** <span class="wpos">adj.</span> | 校内的,内部的 |
-:::
-:::
-::::
+What struck Rosa most, standing at the edge of the yard, was how the family had become its own [fraternity]{.vocab tabindex="0" data-def="fraternity · n. 同业工人，行会；兄弟会; 大学联谊会; 〈正〉兄弟关系；友爱，博爱"} — secretive as any [illuminati]{.vocab tabindex="0" data-def="illuminati · n. 有睿智的人,先觉者,光照派"}, bound by a [curriculum]{.vocab tabindex="0" data-def="curriculum · n. 总课程"} of shared memory no school could teach. Her mother had raised her [intimately]{.vocab tabindex="0" data-def="intimately · adv. 熟悉地；亲密地，亲切地; 私下地，秘密地; 谙熟地；详尽地"} aware of [femininity]{.vocab tabindex="0" data-def="femininity · n. 女性；女性气质"} as both gift and constraint. The [compromise]{.vocab tabindex="0" data-def="compromise · n. 妥协, 折中方法; 折中解决; 连累, 危害, 损害"} they had all arrived at — between [conformity]{.vocab tabindex="0" data-def="conformity · n. 依照，遵从；符合，一致"} and individuality — had required years. A [bellwether]{.vocab tabindex="0" data-def="bellwether · n. 系铃的公羊,前导,领导者,群众的首领"} moment came the summer Marcos left, when the family learned, slowly, to close the gap his absence carved. Now, watching each [contestant]{.vocab tabindex="0" data-def="contestant · n. 竞争者; 参赛者"} in the next generation find their footing, Rosa felt something settle. The [intramural]{.vocab tabindex="0" data-def="intramural · adj. 校内的,内部的"} conflicts, the small wars fought entirely within these four walls, had shaped them as surely as anything outside.
 
 ### A Family Reunion, a Town, a World
 
-:::: {.columns}
-::: {.column width="57%"}
-The Mercer household had always been **monogamous** in its traditions — one home, one table, one unspoken rule: show up for each other. Every summer, four generations would **intermingle** in the backyard, the old ones seated under the elm while the grandchildren **sleep over** in sleeping bags across the living room floor. The children **look up to** their grandfather, a man whose sense of **patriotism** ran quiet and deep, who spoke of their **forefathers** not with the chest-puffed reverence of **aristocracy** but with plain gratitude. His name was **patronymic** — Erikson, son of Erik — a small thread back to people none of them had ever met.
+The Mercer household had always been [monogamous]{.vocab tabindex="0" data-def="monogamous · adj. 一夫一妻的,单配的,一雌一雄的"} in its traditions — one home, one table, one unspoken rule: show up for each other. Every summer, four generations would [intermingle]{.vocab tabindex="0" data-def="intermingle · vt. &amp; 混合,混在一起"} in the backyard, the old ones seated under the elm while the grandchildren [sleep over]{.vocab tabindex="0" data-def="sleep over · v. 借宿别人处,忽视,不注意"} in sleeping bags across the living room floor. The children [look up to]{.vocab tabindex="0" data-def="look up to 尊敬"} their grandfather, a man whose sense of [patriotism]{.vocab tabindex="0" data-def="patriotism · n. 爱国主义；爱国心，爱国精神"} ran quiet and deep, who spoke of their [forefathers]{.vocab tabindex="0" data-def="forefathers · n. 祖先,先人"} not with the chest-puffed reverence of [aristocracy]{.vocab tabindex="0" data-def="aristocracy · n. 贵族,统治阶级; 贵族统治的国家; 一批杰出代表,一批优秀人物; 贵族品质；贵族精神；贵族气派"} but with plain gratitude. His name was [patronymic]{.vocab tabindex="0" data-def="patronymic · adj. 取自教父名的; 源于父名的姓或名字"} — Erikson, son of Erik — a small thread back to people none of them had ever met.
 
-Not everyone arrived easy. Aunt Vera had married into a **polygamous** community decades ago and still carried the **matrimonial** complications it left behind. Her daughter Dora, who had been **matriculated** into the state university on a scholarship, came with her college roommate, a quiet woman named Hana who had cleared **immigration** just three years before. Hana moved through the reunion carefully at first, uncertain of her **affiliation** with this loud, sprawling family, unsure whether she belonged. But **hospitality** here was not a performance — plates appeared, space was made, and the **reciprocal** warmth of the afternoon slowly dissolved her hesitation.
+Not everyone arrived easy. Aunt Vera had married into a [polygamous]{.vocab tabindex="0" data-def="polygamous · adj. 一夫多妻的,一妻多夫的"} community decades ago and still carried the [matrimonial]{.vocab tabindex="0" data-def="matrimonial · adj. 婚姻的；婚礼的"} complications it left behind. Her daughter Dora, who had been [matriculated]{.vocab tabindex="0" data-def="matriculate · vt. 准许…入学；录取…入大学 准许入学；录取"} into the state university on a scholarship, came with her college roommate, a quiet woman named Hana who had cleared [immigration]{.vocab tabindex="0" data-def="immigration · n. 移民局检查站; 移民"} just three years before. Hana moved through the reunion carefully at first, uncertain of her [affiliation]{.vocab tabindex="0" data-def="affiliation · n. 联系;从属关系; 附属机构，隶属机构，分公司，分会，分部; 接纳，入会，交往，社会交际关系; 亲和性…"} with this loud, sprawling family, unsure whether she belonged. But [hospitality]{.vocab tabindex="0" data-def="hospitality · n. 殷勤, 好客; 食宿招待"} here was not a performance — plates appeared, space was made, and the [reciprocal]{.vocab tabindex="0" data-def="reciprocal · adj. 互相给予的; 互惠的; 相互的"} warmth of the afternoon slowly dissolved her hesitation.
 
-The cousins had their own quiet dramas. Marcus, who had once been a **cheerleader** for every **cooperative** initiative his high school ran, now worked for a housing nonprofit trying to fight the forces that **marginalize** low-income families. He argued at dinner that the **bourgeoisie** managed **intercourse** with policy the same way the old **patriarchy** managed everything else — by writing the rules. His cousin Sylvie, who studied **meritocracy** as a political concept, pushed back: the problem wasn't talent being rewarded but which talents were ever allowed to count. Someone called Marcus a **misogamist** for joking he'd never marry; he corrected them — he was simply cautious, not a **misogynist**, and not remotely **misogynous**, just aware that love required more than romance. A **confederate** of his from grad school had written her thesis on how romantic **stereotypes** flatten real relationships into scripts. He agreed. Sylvie laughed and accused him of hiding behind footnotes.
+The cousins had their own quiet dramas. Marcus, who had once been a [cheerleader]{.vocab tabindex="0" data-def="cheerleader · n. 啦啦队队长"} for every [cooperative]{.vocab tabindex="0" data-def="cooperative · adj. 合作的, 协作的; 合作进行的; 合作社, 联合体"} initiative his high school ran, now worked for a housing nonprofit trying to fight the forces that [marginalize]{.vocab tabindex="0" data-def="marginalize · vt. 使处于社会边缘，使脱离社会发展进程；忽视，排斥"} low-income families. He argued at dinner that the [bourgeoisie]{.vocab tabindex="0" data-def="bourgeoisie · n. 资产阶级；中产阶级"} managed [intercourse]{.vocab tabindex="0" data-def="intercourse · n. 交流, 交往, 交际"} with policy the same way the old [patriarchy]{.vocab tabindex="0" data-def="patriarchy · n. 父权制"} managed everything else — by writing the rules. His cousin Sylvie, who studied [meritocracy]{.vocab tabindex="0" data-def="meritocracy · n. 知识界精华"} as a political concept, pushed back: the problem wasn't talent being rewarded but which talents were ever allowed to count. Someone called Marcus a [misogamist]{.vocab tabindex="0" data-def="misogamist · n. 厌恶结婚的人"} for joking he'd never marry; he corrected them — he was simply cautious, not a [misogynist]{.vocab tabindex="0" data-def="misogynist · n. 厌恶女人的人"}, and not remotely [misogynous]{.vocab tabindex="0" data-def="misogynous · adj. 厌恶女人的"}, just aware that love required more than romance. A [confederate]{.vocab tabindex="0" data-def="confederate · adj. 联盟的,同盟的,邦联的; 同伙,合谋者,同党; &amp; 联合,结盟"} of his from grad school had written her thesis on how romantic [stereotypes]{.vocab tabindex="0" data-def="stereotype · n. 老套, 模式化的见解, 有老一套固定想法的人; 把…模式化, 使成陈规"} flatten real relationships into scripts. He agreed. Sylvie laughed and accused him of hiding behind footnotes.
 
-By dusk the **convocation** of relatives had thinned to those who lingered best. Someone's phone showed a clip of a distant **counterpart** family — related by marriage, living in another country — celebrating the same holiday a week late. The **affiliation** felt real even across the screen. Whatever this gathering was — not quite **aristocracy**, not quite **meritocracy**, somewhere between love and habit — it held.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **look up to** | 尊敬 |
-| **misogamist** <span class="wpos">n.</span> | 厌恶结婚的人 |
-| **misogynist** <span class="wpos">n.</span> | 厌恶女人的人 |
-| **misogynous** <span class="wpos">adj.</span> | 厌恶女人的 |
-| **monogamous** <span class="wpos">adj.</span> | 一夫一妻的,单配的,一雌一雄的 |
-| **patriarchy** <span class="wpos">n.</span> | 父权制 |
-| **patriotism** <span class="wpos">n.</span> | 爱国主义；爱国心，爱国精神 |
-| **patronymic** <span class="wpos">adj.</span> | 取自教父名的; 源于父名的姓或名字 |
-| **polygamous** <span class="wpos">adj.</span> | 一夫多妻的,一妻多夫的 |
-| **prostitute** <span class="wpos">n.</span> | 卖淫者；妓女；男妓 |
-| **reciprocal** <span class="wpos">adj.</span> | 互相给予的; 互惠的; 相互的 |
-| **sleep over** <span class="wpos">v.</span> | 借宿别人处,忽视,不注意 |
-| **stereotype** <span class="wpos">n.</span> | 老套, 模式化的见解, 有老一套固定想法的人; 把…模式化, 使成陈规 |
-| **affiliation** <span class="wpos">n.</span> | 联系;从属关系; 附属机构，隶属机构，分公司，分会，分部; 接纳，入会，交往，社会交际关系; 亲和性… |
-| **aristocracy** <span class="wpos">n.</span> | 贵族,统治阶级; 贵族统治的国家; 一批杰出代表,一批优秀人物; 贵族品质；贵族精神；贵族气派 |
-| **bourgeoisie** <span class="wpos">n.</span> | 资产阶级；中产阶级 |
-| **cheerleader** <span class="wpos">n.</span> | 啦啦队队长 |
-| **confederate** <span class="wpos">adj.</span> | 联盟的,同盟的,邦联的; 同伙,合谋者,同党; &amp; 联合,结盟 |
-| **convocation** <span class="wpos">n.</span> | 召集; 正式集会 Convocationn. 毕业同学会 |
-| **cooperative** <span class="wpos">adj.</span> | 合作的, 协作的; 合作进行的; 合作社, 联合体 |
-| **counterpart** <span class="wpos">n.</span> | 与对方地位相当的人, 与另一方作用相当的物 |
-| **forefathers** <span class="wpos">n.</span> | 祖先,先人 |
-| **hospitality** <span class="wpos">n.</span> | 殷勤, 好客; 食宿招待 |
-| **immigration** <span class="wpos">n.</span> | 移民局检查站; 移民 |
-| **intercourse** <span class="wpos">n.</span> | 交流, 交往, 交际 |
-| **intermingle** <span class="wpos">vt.</span> | &amp; 混合,混在一起 |
-| **marginalize** <span class="wpos">vt.</span> | 使处于社会边缘，使脱离社会发展进程；忽视，排斥 |
-| **matriculate** <span class="wpos">vt.</span> | 准许…入学；录取…入大学 准许入学；录取 |
-| **matrimonial** <span class="wpos">adj.</span> | 婚姻的；婚礼的 |
-| **meritocracy** <span class="wpos">n.</span> | 知识界精华 |
-:::
-:::
-::::
+By dusk the [convocation]{.vocab tabindex="0" data-def="convocation · n. 召集; 正式集会 Convocationn. 毕业同学会"} of relatives had thinned to those who lingered best. Someone's phone showed a clip of a distant [counterpart]{.vocab tabindex="0" data-def="counterpart · n. 与对方地位相当的人, 与另一方作用相当的物"} family — related by marriage, living in another country — celebrating the same holiday a week late. The [affiliation]{.vocab tabindex="0" data-def="affiliation · n. 联系;从属关系; 附属机构，隶属机构，分公司，分会，分部; 接纳，入会，交往，社会交际关系; 亲和性…"} felt real even across the screen. Whatever this gathering was — not quite [aristocracy]{.vocab tabindex="0" data-def="aristocracy · n. 贵族,统治阶级; 贵族统治的国家; 一批杰出代表,一批优秀人物; 贵族品质；贵族精神；贵族气派"}, not quite [meritocracy]{.vocab tabindex="0" data-def="meritocracy · n. 知识界精华"}, somewhere between love and habit — it held.
 
 ### The Family Reunion That Bound Strangers Together
 
-:::: {.columns}
-::: {.column width="57%"}
-Three generations gathered in the garden that Sunday — an old house, a long table, and enough unresolved history to fill a novel. The grandfather, silver-haired and unhurried, presided over the meal with an air so **aristocratic** that even the children straightened their backs without being told. He had spent decades **in charge of** a small textile cooperative, and the habit of authority had never left him. Some called his manner **paternalism**; he called it love.
+Three generations gathered in the garden that Sunday — an old house, a long table, and enough unresolved history to fill a novel. The grandfather, silver-haired and unhurried, presided over the meal with an air so [aristocratic]{.vocab tabindex="0" data-def="aristocratic · adj. 贵族的；贵族气派的，高贵的"} that even the children straightened their backs without being told. He had spent decades [in charge of]{.vocab tabindex="0" data-def="in charge of 负责, 主管"} a small textile cooperative, and the habit of authority had never left him. Some called his manner [paternalism]{.vocab tabindex="0" data-def="paternalism · n. 家长式制度; 家长式的"}; he called it love.
 
-His eldest son had grown up under that same **patriarchal** shadow, had married, then quietly begun **cohabitation** with a woman the family did not choose — a **cosmopolitan** journalist who had lived on three continents and found **ethnic group** loyalty a quaint idea. The two were still together, steady in the way that **reciprocity** makes things steady: she translated his silences; he steadied her restlessness. When relatives tried to **turn sb away** from the match, the couple simply refused to **fall in line**, and the **estrangement** that followed lasted four winters before the grandfather's eightieth birthday finally broke it.
+His eldest son had grown up under that same [patriarchal]{.vocab tabindex="0" data-def="patriarchal · adj. 由男人统治或控制的,家长统治下的; 家长的,族长的,可尊敬的,威严的; 宗法封建性的"} shadow, had married, then quietly begun [cohabitation]{.vocab tabindex="0" data-def="cohabitation · n. 同居"} with a woman the family did not choose — a [cosmopolitan]{.vocab tabindex="0" data-def="cosmopolitan · adj. 世界性的；世界主义的，四海一家的；见多识广的"} journalist who had lived on three continents and found [ethnic group]{.vocab tabindex="0" data-def="ethnic group · n. 同种同文化的民族"} loyalty a quaint idea. The two were still together, steady in the way that [reciprocity]{.vocab tabindex="0" data-def="reciprocity · n. 相互性; 相互作用; 互给,互惠"} makes things steady: she translated his silences; he steadied her restlessness. When relatives tried to [turn sb away]{.vocab tabindex="0" data-def="turn sb away"} from the match, the couple simply refused to [fall in line]{.vocab tabindex="0" data-def="fall in line"}, and the [estrangement]{.vocab tabindex="0" data-def="estrangement · n. 疏远；失和，不和"} that followed lasted four winters before the grandfather's eightieth birthday finally broke it.
 
-Across the table sat the younger generation. The teenage daughter, a self-described **teenybopper** who had recently discovered protest music, was delivering an impromptu lecture on **androcentrism** and the damage done when society treats women as **subordinate** by default. Her **pedagogical** instincts were already sharp — she had a way of making the **proletarian** struggles she read about feel immediate, personal. Her brother, quieter, had just received a **commendation** for a school essay on **anti-Semitism**, a word the family once whispered around their **impoverished** immigrant grandparents who had fled **segregation** in another century. Now it sat plainly on the table, examined in daylight.
+Across the table sat the younger generation. The teenage daughter, a self-described [teenybopper]{.vocab tabindex="0" data-def="teenybopper 少年颓废派"} who had recently discovered protest music, was delivering an impromptu lecture on [androcentrism]{.vocab tabindex="0" data-def="androcentrism · n. 大男子主义"} and the damage done when society treats women as [subordinate]{.vocab tabindex="0" data-def="subordinate · n. 部属，下属，下级；从属，次要 使……居下位；使……服从 从属的，隶属的；次要的"} by default. Her [pedagogical]{.vocab tabindex="0" data-def="pedagogical · adj. 教师的；适宜于教师的；教学的"} instincts were already sharp — she had a way of making the [proletarian]{.vocab tabindex="0" data-def="proletarian · adj. 无产阶级的, 工人阶级的; 无产阶级一员, 无产者, 产业工人, 劳工"} struggles she read about feel immediate, personal. Her brother, quieter, had just received a [commendation]{.vocab tabindex="0" data-def="commendation · n. 奖，奖品；表扬；嘉奖状; 推荐，举荐"} for a school essay on [anti-Semitism]{.vocab tabindex="0" data-def="anti-Semitism · n. 反犹太主义"}, a word the family once whispered around their [impoverished]{.vocab tabindex="0" data-def="impoverished · adj. 穷困的,无力的,用尽了的"} immigrant grandparents who had fled [segregation]{.vocab tabindex="0" data-def="segregation · n. 分开；隔离"} in another century. Now it sat plainly on the table, examined in daylight.
 
-The mother passed the bread and thought about **unification** — not of nations, but of this room. She had spent years working in **philanthropy**, and she had learned that the deepest fractures were always the ones closest to home. She had watched families **disaffiliate** from one another over politics, over money, over the slow drift that needs no dramatic cause. She had also watched **collaboration** rebuild what silence had broken. **Filial piety**, she had come to believe, was not blind obedience — it was showing up. **Reciprocate** the care you were once given; that was enough.
+The mother passed the bread and thought about [unification]{.vocab tabindex="0" data-def="unification · n. 统一,联合,一致"} — not of nations, but of this room. She had spent years working in [philanthropy]{.vocab tabindex="0" data-def="philanthropy · n. 博爱; 慈善活动,慈善事业"}, and she had learned that the deepest fractures were always the ones closest to home. She had watched families [disaffiliate]{.vocab tabindex="0" data-def="disaffiliate · v. 脱离,退出"} from one another over politics, over money, over the slow drift that needs no dramatic cause. She had also watched [collaboration]{.vocab tabindex="0" data-def="collaboration · n. 合作, 协作; 通敌"} rebuild what silence had broken. [Filial piety]{.vocab tabindex="0" data-def="filial piety"}, she had come to believe, was not blind obedience — it was showing up. [Reciprocate]{.vocab tabindex="0" data-def="reciprocate · vt. &amp; 报答；酬答; 直线往复运动"} the care you were once given; that was enough.
 
-The grandfather, who had studied under a visiting scholar fond of citing **Genghis Khan** as a lesson in the costs of forced **unification**, raised his glass. He did not mention **baccalaureate** exams or career plans. He spoke instead of **companionship** — the kind that outlasts every argument, every **heterosexual** or otherwise arrangement the young insist on explaining to their elders. "Stay in the room," he said simply. No one disagreed.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **paternalism** <span class="wpos">n.</span> | 家长式制度; 家长式的 |
-| **patriarchal** <span class="wpos">adj.</span> | 由男人统治或控制的,家长统治下的; 家长的,族长的,可尊敬的,威严的; 宗法封建性的 |
-| **pedagogical** <span class="wpos">adj.</span> | 教师的；适宜于教师的；教学的 |
-| **proletarian** <span class="wpos">adj.</span> | 无产阶级的, 工人阶级的; 无产阶级一员, 无产者, 产业工人, 劳工 |
-| **reciprocate** <span class="wpos">vt.</span> | &amp; 报答；酬答; 直线往复运动 |
-| **reciprocity** <span class="wpos">n.</span> | 相互性; 相互作用; 互给,互惠 |
-| **segregation** <span class="wpos">n.</span> | 分开；隔离 |
-| **subordinate** <span class="wpos">n.</span> | 部属，下属，下级；从属，次要 使……居下位；使……服从 从属的，隶属的；次要的 |
-| **teenybopper** | 少年颓废派 |
-| **unification** <span class="wpos">n.</span> | 统一,联合,一致 |
-| **aristocratic** <span class="wpos">adj.</span> | 贵族的；贵族气派的，高贵的 |
-| **cohabitation** <span class="wpos">n.</span> | 同居 |
-| **commendation** <span class="wpos">n.</span> | 奖，奖品；表扬；嘉奖状; 推荐，举荐 |
-| **cosmopolitan** <span class="wpos">adj.</span> | 世界性的；世界主义的，四海一家的；见多识广的 |
-| **disaffiliate** <span class="wpos">v.</span> | 脱离,退出 |
-| **estrangement** <span class="wpos">n.</span> | 疏远；失和，不和 |
-| **ethnic group** <span class="wpos">n.</span> | 同种同文化的民族 |
-| **fall in line** |  |
-| **filial piety** |  |
-| **Genghis Khan** <span class="wpos">n.</span> | 成吉思汗 Genghis khann. 成吉思汗 |
-| **heterosexual** <span class="wpos">n.</span> | 异性恋者; 异性恋的 |
-| **impoverished** <span class="wpos">adj.</span> | 穷困的,无力的,用尽了的 |
-| **in charge of** | 负责, 主管 |
-| **philanthropy** <span class="wpos">n.</span> | 博爱; 慈善活动,慈善事业 |
-| **turn sb away** |  |
-| **androcentrism** <span class="wpos">n.</span> | 大男子主义 |
-| **anti-Semitism** <span class="wpos">n.</span> | 反犹太主义 |
-| **baccalaureate** <span class="wpos">n.</span> | 中学毕业会考; 宗教礼仪, 布道 |
-| **collaboration** <span class="wpos">n.</span> | 合作, 协作; 通敌 |
-| **companionship** <span class="wpos">n.</span> | 伙伴关系；友情，友谊 |
-:::
-:::
-::::
+The grandfather, who had studied under a visiting scholar fond of citing [Genghis Khan]{.vocab tabindex="0" data-def="Genghis Khan · n. 成吉思汗 Genghis khann. 成吉思汗"} as a lesson in the costs of forced [unification]{.vocab tabindex="0" data-def="unification · n. 统一,联合,一致"}, raised his glass. He did not mention [baccalaureate]{.vocab tabindex="0" data-def="baccalaureate · n. 中学毕业会考; 宗教礼仪, 布道"} exams or career plans. He spoke instead of [companionship]{.vocab tabindex="0" data-def="companionship · n. 伙伴关系；友情，友谊"} — the kind that outlasts every argument, every [heterosexual]{.vocab tabindex="0" data-def="heterosexual · n. 异性恋者; 异性恋的"} or otherwise arrangement the young insist on explaining to their elders. "Stay in the room," he said simply. No one disagreed.
 
 ### The Weekend the Family Finally Talked
 
-:::: {.columns}
-::: {.column width="57%"}
-The reunion had been years in the making. Cousins who had maintained a quiet **nonintercourse** since a long-forgotten argument now stood in the same kitchen, and the air still carried the faint tension of old grudges. Grandma Chen moved through the room with deliberate calm — she had decided to **follow my lead**, she told no one in particular, then caught herself and smiled. She'd spent too many years smoothing things over to let **provinciality** — that small-town suspicion of anyone who'd moved away and "changed" — poison one more gathering.
+The reunion had been years in the making. Cousins who had maintained a quiet [nonintercourse]{.vocab tabindex="0" data-def="nonintercourse · n. 不来往"} since a long-forgotten argument now stood in the same kitchen, and the air still carried the faint tension of old grudges. Grandma Chen moved through the room with deliberate calm — she had decided to [follow my lead]{.vocab tabindex="0" data-def="follow my lead"}, she told no one in particular, then caught herself and smiled. She'd spent too many years smoothing things over to let [provinciality]{.vocab tabindex="0" data-def="provinciality · n. 乡下习气,粗鄙"} — that small-town suspicion of anyone who'd moved away and "changed" — poison one more gathering.
 
-It was Uncle Weiming, of all people, who broke the silence. He had spent a decade working with a quiet **philanthropist** who funded shelters and after-school programs across the county, and the work had softened something in him. He stood up and, without theatrics, offered a **reconciliation** — not an erasure of what had happened, but an honest acknowledgment of it. The room exhaled. They laughed about small things: who had put too much vinegar in the dumplings, who still hadn't taken their **maternity leave** even after the baby arrived, who expected everyone to simply fall in line without explanation.
+It was Uncle Weiming, of all people, who broke the silence. He had spent a decade working with a quiet [philanthropist]{.vocab tabindex="0" data-def="philanthropist · n. 慈善家"} who funded shelters and after-school programs across the county, and the work had softened something in him. He stood up and, without theatrics, offered a [reconciliation]{.vocab tabindex="0" data-def="reconciliation · n. 和解，调和；一致；勉强接受; 止息；和解"} — not an erasure of what had happened, but an honest acknowledgment of it. The room exhaled. They laughed about small things: who had put too much vinegar in the dumplings, who still hadn't taken their [maternity leave]{.vocab tabindex="0" data-def="maternity leave"} even after the baby arrived, who expected everyone to simply fall in line without explanation.
 
-By evening the conversation had deepened. The younger cousins, the ones who felt **underrepresented** in every family decision, finally spoke up. They described what it felt like to be left out of plans, to watch older relatives **institutionalize** habits — Sunday dinners on a fixed schedule, hierarchy at the table — without ever asking whether those habits still served anyone. Someone said the family had been producing its own **social turmoil** for years and calling it tradition. Someone else laughed and said we should at least **give credit for** the fact that they kept showing up. And they had. Every last one of them. That, Grandma Chen said quietly, was the whole point.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **provinciality** <span class="wpos">n.</span> | 乡下习气,粗鄙 |
-| **follow my lead** |  |
-| **nonintercourse** <span class="wpos">n.</span> | 不来往 |
-| **philanthropist** <span class="wpos">n.</span> | 慈善家 |
-| **reconciliation** <span class="wpos">n.</span> | 和解，调和；一致；勉强接受; 止息；和解 |
-| **social turmoil** |  |
-| **give credit for** |  |
-| **maternity leave** |  |
-| **institutionalize** <span class="wpos">vt.</span> | 使制度化; 将收容在社会福利机构 |
-| **underrepresented** <span class="wpos">adj.</span> | 未被充分代表的;代表名额不足的 |
-:::
-:::
-::::
+By evening the conversation had deepened. The younger cousins, the ones who felt [underrepresented]{.vocab tabindex="0" data-def="underrepresented · adj. 未被充分代表的;代表名额不足的"} in every family decision, finally spoke up. They described what it felt like to be left out of plans, to watch older relatives [institutionalize]{.vocab tabindex="0" data-def="institutionalize · vt. 使制度化; 将收容在社会福利机构"} habits — Sunday dinners on a fixed schedule, hierarchy at the table — without ever asking whether those habits still served anyone. Someone said the family had been producing its own [social turmoil]{.vocab tabindex="0" data-def="social turmoil"} for years and calling it tradition. Someone else laughed and said we should at least [give credit for]{.vocab tabindex="0" data-def="give credit for"} the fact that they kept showing up. And they had. Every last one of them. That, Grandma Chen said quietly, was the whole point.

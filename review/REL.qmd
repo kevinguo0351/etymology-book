@@ -2,410 +2,82 @@
 
 
 
-> 本主题共 8 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 8 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### At the Threshold of the Sacred
 
-:::: {.columns}
-::: {.column width="57%"}
-The old **pagan** village had no **bible**, no **papal** authority, no **sect** to claim it — only a moss-covered **altar** at the forest's edge where every harvest moon the elders placed a clay **joss** figure as an offering. A wandering **guru** arrived one autumn, sat cross-legged on a **pew** dragged out from a half-ruined chapel, and began recounting the **myth** of **Horus** — the falcon-headed god whose eye, torn away and restored, became the symbol of healing across the ancient world. Children gathered, wide-eyed, half-believing the stranger had placed a **hex** on the air itself, for his words seemed to shimmer.
+The old [pagan]{.vocab tabindex="0" data-def="pagan · n. 异教徒, 非基督教徒; 异教徒的, 无宗教信仰的"} village had no [bible]{.vocab tabindex="0" data-def="bible · n. 圣经; 有权威的书"}, no [papal]{.vocab tabindex="0" data-def="papal · adj. 教皇的,教皇职位或权力的,罗马教廷的,教皇任期的"} authority, no [sect]{.vocab tabindex="0" data-def="sect · n. 宗派 SECT集肤电伴热"} to claim it — only a moss-covered [altar]{.vocab tabindex="0" data-def="altar · n. 祭坛；圣坛；圣餐台 Altar天坛星座"} at the forest's edge where every harvest moon the elders placed a clay [joss]{.vocab tabindex="0" data-def="joss · n. 佛像；偶像 JOSSabbr. Johnniac Open-Shop System 琼尼阿克开放系统"} figure as an offering. A wandering [guru]{.vocab tabindex="0" data-def="guru · n. 宗教老师,领袖,头头"} arrived one autumn, sat cross-legged on a [pew]{.vocab tabindex="0" data-def="pew · n. 教堂的条凳式座位"} dragged out from a half-ruined chapel, and began recounting the [myth]{.vocab tabindex="0" data-def="myth · n. 神话；虚构的人，虚构的事"} of [Horus]{.vocab tabindex="0" data-def="Horus · n. 何露斯 horusn. 何露斯"} — the falcon-headed god whose eye, torn away and restored, became the symbol of healing across the ancient world. Children gathered, wide-eyed, half-believing the stranger had placed a [hex]{.vocab tabindex="0" data-def="hex · n. 十六进制,巫婆,妖法; 施魔法于,施魔法"} on the air itself, for his words seemed to shimmer.
 
-He spoke of **karma**, of how every act coils back upon the actor the way smoke circles before it rises; of **Amor** and **Cupid** — the same longing rendered in two tongues; of **Deus**, the root-word that branched into a dozen divine names across a dozen faiths. He read from **Amos** and from **Ezra**, two voices out of the same ancient hunger, and when he chanted their verses they sounded almost like **hymns**. Two **nuns** who had wandered down from the hillside monastery stood at the back, listening without interrupting, their faces open.
+He spoke of [karma]{.vocab tabindex="0" data-def="karma · n. 〈宗〉业; 命运, 宿缘 Karma卡马"}, of how every act coils back upon the actor the way smoke circles before it rises; of [Amor]{.vocab tabindex="0" data-def="Amor 〈罗神〉埃莫,即爱神丘比特"} and [Cupid]{.vocab tabindex="0" data-def="Cupid · n. 丘比特; 美男孩; 丘比特塑像"} — the same longing rendered in two tongues; of [Deus]{.vocab tabindex="0" data-def="Deus · n. 迪乌斯，上帝"}, the root-word that branched into a dozen divine names across a dozen faiths. He read from [Amos]{.vocab tabindex="0" data-def="Amos · n. 阿摩司,阿摩司书,《旧约圣经》中的一卷"} and from [Ezra]{.vocab tabindex="0" data-def="Ezra · n. 以斯拉,以斯拉记"}, two voices out of the same ancient hunger, and when he chanted their verses they sounded almost like [hymns]{.vocab tabindex="0" data-def="hymns · n. 赞美诗；圣诗; 唱诗"}. Two [nuns]{.vocab tabindex="0" data-def="nuns"} who had wandered down from the hillside monastery stood at the back, listening without interrupting, their faces open.
 
-By nightfall the mood had darkened pleasantly. Someone lit incense near the **tomb** of the village founder, its carved face worn smooth by rain and decades of touch. Talk turned to the **demon** that local legend said haunted the crossroads, and to the **devil**-bargains folklore warned against. A young skeptic challenged the guru's **dogma** outright, calling the whole evening a **cult** gathering dressed in respectability. The guru smiled — the **zen** kind, maddening in its calm — and gestured toward the **ephod** he wore, a narrow linen vestment draped across his shoulders, saying only that every cloth, every **vow**, every murmured **hymn** is finally an attempt to touch what the word **piety** has always meant: the ache to be faithful to something larger than oneself. The skeptic sat back down. Outside, **Amor** shot no arrows; the night needed none. The **vows** people carried inwardly were already doing their work.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **hex** <span class="wpos">n.</span> | 十六进制,巫婆,妖法; 施魔法于,施魔法 |
-| **pew** <span class="wpos">n.</span> | 教堂的条凳式座位 |
-| **vow** <span class="wpos">n.</span> | 誓言; 郑重宣布；许愿; &amp; 起誓，发誓; 郑重宣告 |
-| **zen** <span class="wpos">n.</span> | 禅,禅宗 |
-| **Amor** | 〈罗神〉埃莫,即爱神丘比特 |
-| **Amos** <span class="wpos">n.</span> | 阿摩司,阿摩司书,《旧约圣经》中的一卷 |
-| **cult** <span class="wpos">n.</span> | 狂热；异教团体；宗教信仰；膜拜仪式；时髦的人；信徒 受特定群体欢迎的 |
-| **Deus** <span class="wpos">n.</span> | 迪乌斯，上帝 |
-| **Ezra** <span class="wpos">n.</span> | 以斯拉,以斯拉记 |
-| **guru** <span class="wpos">n.</span> | 宗教老师,领袖,头头 |
-| **hymn** <span class="wpos">n.</span> | 赞美诗；圣歌；欢乐的歌; 唱赞美歌; 唱赞歌 |
-| **joss** <span class="wpos">n.</span> | 佛像；偶像 JOSSabbr. Johnniac Open-Shop System 琼尼阿克开放系统 |
-| **myth** <span class="wpos">n.</span> | 神话；虚构的人，虚构的事 |
-| **nuns** |  |
-| **sect** <span class="wpos">n.</span> | 宗派 SECT集肤电伴热 |
-| **tomb** <span class="wpos">n.</span> | 墓穴 |
-| **vows** <span class="wpos">n.</span> | 婚誓；誓约; 发誓；郑重声明 |
-| **altar** <span class="wpos">n.</span> | 祭坛；圣坛；圣餐台 Altar天坛星座 |
-| **bible** <span class="wpos">n.</span> | 圣经; 有权威的书 |
-| **Cupid** <span class="wpos">n.</span> | 丘比特; 美男孩; 丘比特塑像 |
-| **demon** <span class="wpos">n.</span> | 魔鬼；精力充沛的人；恶魔；邪恶的事物 DEMONabbr. Debug Monitor 调试监督程序 |
-| **devil** <span class="wpos">n.</span> | 魔鬼; 家伙, 人 |
-| **dogma** <span class="wpos">n.</span> | 教条，教理；武断的意见 |
-| **ephod** <span class="wpos">n.</span> | 以弗得 |
-| **Horus** <span class="wpos">n.</span> | 何露斯 horusn. 何露斯 |
-| **hymns** <span class="wpos">n.</span> | 赞美诗；圣诗; 唱诗 |
-| **karma** <span class="wpos">n.</span> | 〈宗〉业; 命运, 宿缘 Karma卡马 |
-| **pagan** <span class="wpos">n.</span> | 异教徒, 非基督教徒; 异教徒的, 无宗教信仰的 |
-| **papal** <span class="wpos">adj.</span> | 教皇的,教皇职位或权力的,罗马教廷的,教皇任期的 |
-| **piety** <span class="wpos">n.</span> | 虔诚；孝敬；虔诚的行为或语言 |
-:::
-:::
-::::
+By nightfall the mood had darkened pleasantly. Someone lit incense near the [tomb]{.vocab tabindex="0" data-def="tomb · n. 墓穴"} of the village founder, its carved face worn smooth by rain and decades of touch. Talk turned to the [demon]{.vocab tabindex="0" data-def="demon · n. 魔鬼；精力充沛的人；恶魔；邪恶的事物 DEMONabbr. Debug Monitor 调试监督程序"} that local legend said haunted the crossroads, and to the [devil]{.vocab tabindex="0" data-def="devil · n. 魔鬼; 家伙, 人"}-bargains folklore warned against. A young skeptic challenged the guru's [dogma]{.vocab tabindex="0" data-def="dogma · n. 教条，教理；武断的意见"} outright, calling the whole evening a [cult]{.vocab tabindex="0" data-def="cult · n. 狂热；异教团体；宗教信仰；膜拜仪式；时髦的人；信徒 受特定群体欢迎的"} gathering dressed in respectability. The guru smiled — the [zen]{.vocab tabindex="0" data-def="zen · n. 禅,禅宗"} kind, maddening in its calm — and gestured toward the [ephod]{.vocab tabindex="0" data-def="ephod · n. 以弗得"} he wore, a narrow linen vestment draped across his shoulders, saying only that every cloth, every [vow]{.vocab tabindex="0" data-def="vow · n. 誓言; 郑重宣布；许愿; &amp; 起誓，发誓; 郑重宣告"}, every murmured [hymn]{.vocab tabindex="0" data-def="hymn · n. 赞美诗；圣歌；欢乐的歌; 唱赞美歌; 唱赞歌"} is finally an attempt to touch what the word [piety]{.vocab tabindex="0" data-def="piety · n. 虔诚；孝敬；虔诚的行为或语言"} has always meant: the ache to be faithful to something larger than oneself. The skeptic sat back down. Outside, [Amor]{.vocab tabindex="0" data-def="Amor 〈罗神〉埃莫,即爱神丘比特"} shot no arrows; the night needed none. The [vows]{.vocab tabindex="0" data-def="vows · n. 婚誓；誓约; 发誓；郑重声明"} people carried inwardly were already doing their work.
 
 ### The Shrine at the Edge of the World
 
-:::: {.columns}
-::: {.column width="57%"}
-The old **curate** arrived at the hilltop **parish** just before dawn, his robes smelling of incense from the **censer** he had swung through the night vigil. He was a **devout** man — not in any **pious**, performative sense, but quietly so, shaped by decades of **rites** that had worn smooth grooves into his days. The **deacon** who met him at the door pressed a worn **tarot** card into his palm — a relic left by some wanderer — and said nothing. Inside, above the altar, a painted **Apollo** gazed down with that serene, almost **deific** calm that old craftsmen gave to gods they still half-believed in.
+The old [curate]{.vocab tabindex="0" data-def="curate · n. 助理牧师；副牧师"} arrived at the hilltop [parish]{.vocab tabindex="0" data-def="parish · n. 教区; 郡以下的地方行政区; 知识领域, 职权范围, 工作区域"} just before dawn, his robes smelling of incense from the [censer]{.vocab tabindex="0" data-def="censer · n. 香炉"} he had swung through the night vigil. He was a [devout]{.vocab tabindex="0" data-def="devout · adj. 虔诚的；衷心的"} man — not in any [pious]{.vocab tabindex="0" data-def="pious · adj. 虔诚的, 信神的; 虚伪的, 伪善的; 不可能实现的"}, performative sense, but quietly so, shaped by decades of [rites]{.vocab tabindex="0" data-def="rites · n. 仪式"} that had worn smooth grooves into his days. The [deacon]{.vocab tabindex="0" data-def="deacon · n. 执事；助祭; 朗读；搞欺骗"} who met him at the door pressed a worn [tarot]{.vocab tabindex="0" data-def="tarot · n. 塔罗纸牌"} card into his palm — a relic left by some wanderer — and said nothing. Inside, above the altar, a painted [Apollo]{.vocab tabindex="0" data-def="Apollo · n. 阿波罗；太阳神;太阳; 美男子"} gazed down with that serene, almost [deific]{.vocab tabindex="0" data-def="deific · adj. 予以神化的；神圣的；奉为神的"} calm that old craftsmen gave to gods they still half-believed in.
 
-The **pastor** lit the morning candles and began to chant a **psalm**, low and unhurried, the syllables rising like smoke. Someone had chalked a **mantra** on the stone floor, letters overlapping the chalk outline of an older, stranger symbol — something **occult**, pre-Christian, the kind of mark that made scholars argue about **dharma** and **divine** will in the same breath. The **Elohim**, **Isaiah** insisted in the scripture pinned to the lectern, tolerated no **fetish**, no carved **goblin** standing in for the holy. And yet here they all were, layered: the **kosher** prohibition on one wall, a notice about the upcoming **Purim** celebration on another, and beside it a hand-lettered flyer for a **fiesta** the following weekend.
+The [pastor]{.vocab tabindex="0" data-def="pastor · n. 牧师; 作……的牧师"} lit the morning candles and began to chant a [psalm]{.vocab tabindex="0" data-def="psalm · n. 赞美诗,圣诗,圣歌; 《诗篇》"}, low and unhurried, the syllables rising like smoke. Someone had chalked a [mantra]{.vocab tabindex="0" data-def="mantra · n. 颂歌；咒语"} on the stone floor, letters overlapping the chalk outline of an older, stranger symbol — something [occult]{.vocab tabindex="0" data-def="occult · adj. 玄奥的；神秘的；隐秘的，秘密的; 超自然的；有魔力的; 隐藏地；不公开地；难以理解地; 秘密；玄妙"}, pre-Christian, the kind of mark that made scholars argue about [dharma]{.vocab tabindex="0" data-def="dharma · n. 达摩；法则"} and [divine]{.vocab tabindex="0" data-def="divine · adj. 神圣的；非凡的；天赐的；极好的; 占卜；预言；用占卜勘探; 占卜；预言；使用占卜勘探矿; 牧师；神学…"} will in the same breath. The [Elohim]{.vocab tabindex="0" data-def="Elohim · n. 上帝；神"}, [Isaiah]{.vocab tabindex="0" data-def="Isaiah · n. 以赛亚书 男人名,希伯来的大预言家"} insisted in the scripture pinned to the lectern, tolerated no [fetish]{.vocab tabindex="0" data-def="fetish · n. 迷信；偶像；恋物"}, no carved [goblin]{.vocab tabindex="0" data-def="goblin · n. 小妖精,丑妖精"} standing in for the holy. And yet here they all were, layered: the [kosher]{.vocab tabindex="0" data-def="kosher · adj. 犹太教所规定允许的,合适的; 使合适"} prohibition on one wall, a notice about the upcoming [Purim]{.vocab tabindex="0" data-def="Purim · n. 普林节"} celebration on another, and beside it a hand-lettered flyer for a [fiesta]{.vocab tabindex="0" data-def="fiesta · n. 圣日，宗教节日；假日；祭典"} the following weekend.
 
-The curate was due to **ordain** a young man that afternoon — to **anoint** his head with oil and speak the words that would **hallow** him, set him apart, send him into a world that included, somewhere in its shadows, every name for darkness ever coined: **DIABLO** in one tongue, **satan** in another, a **goblin** king in a third. **Heaven**, the curate thought, is less a place than a direction — the way you face when you decide what to **hallow** and what to refuse. He folded the tarot card into his pocket, nodded to **Elijah**'s portrait on the wall, and went to prepare.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **pious** <span class="wpos">adj.</span> | 虔诚的, 信神的; 虚伪的, 伪善的; 不可能实现的 |
-| **psalm** <span class="wpos">n.</span> | 赞美诗,圣诗,圣歌; 《诗篇》 |
-| **Purim** <span class="wpos">n.</span> | 普林节 |
-| **rites** <span class="wpos">n.</span> | 仪式 |
-| **satan** <span class="wpos">n.</span> | 撒旦；魔鬼 Satann. 撒旦,魔鬼 |
-| **tarot** <span class="wpos">n.</span> | 塔罗纸牌 |
-| **anoint** <span class="wpos">vt.</span> | 给…涂油；用油擦；抹油使神圣化 |
-| **Apollo** <span class="wpos">n.</span> | 阿波罗；太阳神;太阳; 美男子 |
-| **censer** <span class="wpos">n.</span> | 香炉 |
-| **curate** <span class="wpos">n.</span> | 助理牧师；副牧师 |
-| **deacon** <span class="wpos">n.</span> | 执事；助祭; 朗读；搞欺骗 |
-| **deific** <span class="wpos">adj.</span> | 予以神化的；神圣的；奉为神的 |
-| **devout** <span class="wpos">adj.</span> | 虔诚的；衷心的 |
-| **dharma** <span class="wpos">n.</span> | 达摩；法则 |
-| **DIABLO** | 暗黑破坏神，一个著名游戏的名称，又称恐惧 |
-| **divine** <span class="wpos">adj.</span> | 神圣的；非凡的；天赐的；极好的; 占卜；预言；用占卜勘探; 占卜；预言；使用占卜勘探矿; 牧师；神学… |
-| **Elijah** <span class="wpos">n.</span> | 以利亚 |
-| **Elohim** <span class="wpos">n.</span> | 上帝；神 |
-| **fetish** <span class="wpos">n.</span> | 迷信；偶像；恋物 |
-| **fiesta** <span class="wpos">n.</span> | 圣日，宗教节日；假日；祭典 |
-| **goblin** <span class="wpos">n.</span> | 小妖精,丑妖精 |
-| **hallow** <span class="wpos">vt.</span> | 使...神圣；把…视为神圣; 圣徒 |
-| **heaven** <span class="wpos">n.</span> | 天堂；天空；极乐 |
-| **Isaiah** <span class="wpos">n.</span> | 以赛亚书 男人名,希伯来的大预言家 |
-| **kosher** <span class="wpos">adj.</span> | 犹太教所规定允许的,合适的; 使合适 |
-| **mantra** <span class="wpos">n.</span> | 颂歌；咒语 |
-| **occult** <span class="wpos">adj.</span> | 玄奥的；神秘的；隐秘的，秘密的; 超自然的；有魔力的; 隐藏地；不公开地；难以理解地; 秘密；玄妙 |
-| **ordain** <span class="wpos">vt.</span> | 任命某人为牧师；授某人以圣职；命令；注定; 颁布命令 |
-| **parish** <span class="wpos">n.</span> | 教区; 郡以下的地方行政区; 知识领域, 职权范围, 工作区域 |
-| **pastor** <span class="wpos">n.</span> | 牧师; 作……的牧师 |
-:::
-:::
-::::
+The curate was due to [ordain]{.vocab tabindex="0" data-def="ordain · vt. 任命某人为牧师；授某人以圣职；命令；注定; 颁布命令"} a young man that afternoon — to [anoint]{.vocab tabindex="0" data-def="anoint · vt. 给…涂油；用油擦；抹油使神圣化"} his head with oil and speak the words that would [hallow]{.vocab tabindex="0" data-def="hallow · vt. 使...神圣；把…视为神圣; 圣徒"} him, set him apart, send him into a world that included, somewhere in its shadows, every name for darkness ever coined: [DIABLO]{.vocab tabindex="0" data-def="DIABLO 暗黑破坏神，一个著名游戏的名称，又称恐惧"} in one tongue, [satan]{.vocab tabindex="0" data-def="satan · n. 撒旦；魔鬼 Satann. 撒旦,魔鬼"} in another, a [goblin]{.vocab tabindex="0" data-def="goblin · n. 小妖精,丑妖精"} king in a third. [Heaven]{.vocab tabindex="0" data-def="heaven · n. 天堂；天空；极乐"}, the curate thought, is less a place than a direction — the way you face when you decide what to [hallow]{.vocab tabindex="0" data-def="hallow · vt. 使...神圣；把…视为神圣; 圣徒"} and what to refuse. He folded the tarot card into his pocket, nodded to [Elijah]{.vocab tabindex="0" data-def="Elijah · n. 以利亚"}'s portrait on the wall, and went to prepare.
 
 ### Shadows of the Sacred: From **Temple** to **Zodiac**
 
-:::: {.columns}
-::: {.column width="57%"}
-In the oldest cities, a **priest** would climb the steps of the **temple** at dawn, where the scent of incense rose toward ceilings painted with every sign of the **zodiac**. The **sacred** space was not merely stone; it was a threshold between the mortal and the divine. Painted **cherubs** hovered above the altar, and on certain feast days the congregation would gather to hear a **sermon** delivered from the **pulpit**, its timber worn smooth by generations of gripping hands. Before the **ritual** began, **devotee**s spent the previous night **fasting**, seeking purity before they **invoked** the name of their god. An **Aaronic** blessing would then be chanted — words tracing their lineage back to the first **apostle**s who carried the faith beyond their homeland.
+In the oldest cities, a [priest]{.vocab tabindex="0" data-def="priest · n. 牧师；神父；教士; 使成为神职人员；任命…为祭司"} would climb the steps of the [temple]{.vocab tabindex="0" data-def="temple · n. 庙宇；寺院；神殿；太阳穴 Temple坦普尔"} at dawn, where the scent of incense rose toward ceilings painted with every sign of the [zodiac]{.vocab tabindex="0" data-def="zodiac · n. 黄道带，黄道十二宫; 黄道十二宫图 Zodiac左迪阿克铜镍锌合金；黄道带"}. The [sacred]{.vocab tabindex="0" data-def="sacred · adj. 神圣的；庄严的；宗教的；神的"} space was not merely stone; it was a threshold between the mortal and the divine. Painted [cherubs]{.vocab tabindex="0" data-def="cherubs · n. 可爱的人；天真无邪的人；天使"} hovered above the altar, and on certain feast days the congregation would gather to hear a [sermon]{.vocab tabindex="0" data-def="sermon · n. 布道, 讲道, 说教; 讲道文章; 一大通教训"} delivered from the [pulpit]{.vocab tabindex="0" data-def="pulpit · n. 讲道坛；高架操纵台；神职人员"}, its timber worn smooth by generations of gripping hands. Before the [ritual]{.vocab tabindex="0" data-def="ritual · n. 仪式；惯例；礼制; 仪式的；礼节性的；例行的"} began, [devotee]{.vocab tabindex="0" data-def="devotee · n. 爱好者；信徒"}s spent the previous night [fasting]{.vocab tabindex="0" data-def="fasting · adj. 禁食的; 禁食"}, seeking purity before they [invoked]{.vocab tabindex="0" data-def="invoked · v. 叫唤"} the name of their god. An [Aaronic]{.vocab tabindex="0" data-def="Aaronic · adj. 亚伦的"} blessing would then be chanted — words tracing their lineage back to the first [apostle]{.vocab tabindex="0" data-def="apostle · n. 使徒;十二个门徒之一;传道先驱者; 早期基督教的传教士; 倡导者; 摩门教教会的十二个行政执事之一"}s who carried the faith beyond their homeland.
 
-Yet belief rarely travels without fracture. A **schism** tore the community in two when a **gnostic** teacher arrived, whispering that hidden knowledge — not public ceremony — was the only path to truth. The elders declared him a **heretic**, but his followers multiplied. Among them was an **ascetic** who survived on dried figs and water, and an **acolyte** who had once dreamed of becoming a **messiah** figure himself. The conflict played out with the quiet menace of **alchemy**: doctrines transformed, base arguments transmuted into creeds. **Judaism**, Christianity, and older mystery traditions all left traces in the dispute, each side claiming its own lineage of **martyrs** who had died rather than **repent**.
+Yet belief rarely travels without fracture. A [schism]{.vocab tabindex="0" data-def="schism · n. 教会分立,分裂"} tore the community in two when a [gnostic]{.vocab tabindex="0" data-def="gnostic · adj. 诺斯替教派的,诺斯替派教徒的; 诺斯替教徒"} teacher arrived, whispering that hidden knowledge — not public ceremony — was the only path to truth. The elders declared him a [heretic]{.vocab tabindex="0" data-def="heretic · n. 持异端者"}, but his followers multiplied. Among them was an [ascetic]{.vocab tabindex="0" data-def="ascetic · adj. 苦行的；禁欲主义的; 禁欲者；苦行者"} who survived on dried figs and water, and an [acolyte]{.vocab tabindex="0" data-def="acolyte · n. 侍僧；助手"} who had once dreamed of becoming a [messiah]{.vocab tabindex="0" data-def="messiah · n. 救星，解放者；弥赛亚 Messiahn. 弥赛亚; 救世主耶稣; 救星,解放者"} figure himself. The conflict played out with the quiet menace of [alchemy]{.vocab tabindex="0" data-def="alchemy · n. 点金术；魔力"}: doctrines transformed, base arguments transmuted into creeds. [Judaism]{.vocab tabindex="0" data-def="Judaism · n. 犹太教"}, Christianity, and older mystery traditions all left traces in the dispute, each side claiming its own lineage of [martyrs]{.vocab tabindex="0" data-def="martyrs · n. 烈士；殉道者; 使殉难"} who had died rather than [repent]{.vocab tabindex="0" data-def="repent · vi. 忏悔；后悔; 后悔；对…感到后悔; 匍匐生根的；爬行的"}.
 
-It was a wandering **masonic** lodge that finally offered neutral ground. In their hall, old grievances were set aside long enough for both factions to attend the **funeral** of the community's founder together. Standing at the graveside, the surviving priest allowed himself to be **bewitched** — not by magic, but by grief and the strange beauty of shared loss. He opened the **Psalms** to a passage about redemption, his voice steadying as he read. Perhaps, he thought, the only way to **redeem** the community was not to win the argument but to **baptism**-wash the wound clean and begin again. Whether that was wisdom or wishful thinking, no one at the **shrine** that day could say.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **priest** <span class="wpos">n.</span> | 牧师；神父；教士; 使成为神职人员；任命…为祭司 |
-| **Psalms** <span class="wpos">n.</span> | 圣经旧约中的诗篇 |
-| **pulpit** <span class="wpos">n.</span> | 讲道坛；高架操纵台；神职人员 |
-| **redeem** <span class="wpos">vt.</span> | 赎回；补偿；挽回；恢复；履行；兑换 |
-| **repent** <span class="wpos">vi.</span> | 忏悔；后悔; 后悔；对…感到后悔; 匍匐生根的；爬行的 |
-| **ritual** <span class="wpos">n.</span> | 仪式；惯例；礼制; 仪式的；礼节性的；例行的 |
-| **sacred** <span class="wpos">adj.</span> | 神圣的；庄严的；宗教的；神的 |
-| **schism** <span class="wpos">n.</span> | 教会分立,分裂 |
-| **sermon** <span class="wpos">n.</span> | 布道, 讲道, 说教; 讲道文章; 一大通教训 |
-| **shrine** <span class="wpos">n.</span> | 圣地；神殿；神龛；圣祠; 将…置于神龛内；把…奉为神圣 |
-| **temple** <span class="wpos">n.</span> | 庙宇；寺院；神殿；太阳穴 Temple坦普尔 |
-| **zodiac** <span class="wpos">n.</span> | 黄道带，黄道十二宫; 黄道十二宫图 Zodiac左迪阿克铜镍锌合金；黄道带 |
-| **Aaronic** <span class="wpos">adj.</span> | 亚伦的 |
-| **acolyte** <span class="wpos">n.</span> | 侍僧；助手 |
-| **alchemy** <span class="wpos">n.</span> | 点金术；魔力 |
-| **apostle** <span class="wpos">n.</span> | 使徒;十二个门徒之一;传道先驱者; 早期基督教的传教士; 倡导者; 摩门教教会的十二个行政执事之一 |
-| **ascetic** <span class="wpos">adj.</span> | 苦行的；禁欲主义的; 禁欲者；苦行者 |
-| **baptism** <span class="wpos">n.</span> | 洗礼；严峻考验 |
-| **bewitch** <span class="wpos">vt.</span> | 施魔法于，蛊惑；使着迷 |
-| **cherubs** <span class="wpos">n.</span> | 可爱的人；天真无邪的人；天使 |
-| **devotee** <span class="wpos">n.</span> | 爱好者；信徒 |
-| **fasting** <span class="wpos">adj.</span> | 禁食的; 禁食 |
-| **funeral** <span class="wpos">n.</span> | 葬礼；麻烦事; 丧葬的，出殡的 |
-| **gnostic** <span class="wpos">adj.</span> | 诺斯替教派的,诺斯替派教徒的; 诺斯替教徒 |
-| **heretic** <span class="wpos">n.</span> | 持异端者 |
-| **invoked** <span class="wpos">v.</span> | 叫唤 |
-| **Judaism** <span class="wpos">n.</span> | 犹太教 |
-| **martyrs** <span class="wpos">n.</span> | 烈士；殉道者; 使殉难 |
-| **masonic** <span class="wpos">adj.</span> | 共济会会员的 |
-| **messiah** <span class="wpos">n.</span> | 救星，解放者；弥赛亚 Messiahn. 弥赛亚; 救世主耶稣; 救星,解放者 |
-:::
-:::
-::::
+It was a wandering [masonic]{.vocab tabindex="0" data-def="masonic · adj. 共济会会员的"} lodge that finally offered neutral ground. In their hall, old grievances were set aside long enough for both factions to attend the [funeral]{.vocab tabindex="0" data-def="funeral · n. 葬礼；麻烦事; 丧葬的，出殡的"} of the community's founder together. Standing at the graveside, the surviving priest allowed himself to be [bewitched]{.vocab tabindex="0" data-def="bewitch · vt. 施魔法于，蛊惑；使着迷"} — not by magic, but by grief and the strange beauty of shared loss. He opened the [Psalms]{.vocab tabindex="0" data-def="Psalms · n. 圣经旧约中的诗篇"} to a passage about redemption, his voice steadying as he read. Perhaps, he thought, the only way to [redeem]{.vocab tabindex="0" data-def="redeem · vt. 赎回；补偿；挽回；恢复；履行；兑换"} the community was not to win the argument but to [baptism]{.vocab tabindex="0" data-def="baptism · n. 洗礼；严峻考验"}-wash the wound clean and begin again. Whether that was wisdom or wishful thinking, no one at the [shrine]{.vocab tabindex="0" data-def="shrine · n. 圣地；神殿；神龛；圣祠; 将…置于神龛内；把…奉为神圣"} that day could say.
 
 ### The Seeker Who Crossed Every Threshold
 
-:::: {.columns}
-::: {.column width="57%"}
-In the ancient temple district, where the smell of incense never quite left the stone, a young scholar arrived carrying only a water-skin and the **Biblical** texts his mother had pressed into his hands at parting. He had been **baptized** as an infant in a village so small it had no name on any map, **christened** with the name **Emmanuel** — *God with us* — though by now he doubted whether any god was with anyone at all. His tutors back home would have called him an **apostate**, a word that landed like a stone in still water; his own heart preferred the quieter label of **agnostic**. He simply did not know.
+In the ancient temple district, where the smell of incense never quite left the stone, a young scholar arrived carrying only a water-skin and the [Biblical]{.vocab tabindex="0" data-def="Biblical · adj. 《圣经》的;《圣经》中的; 按照《圣经》的;恪守《圣经》的; 似《圣经》的"} texts his mother had pressed into his hands at parting. He had been [baptized]{.vocab tabindex="0" data-def="baptized · adj. 受洗礼的; 施洗礼；使经受考验；给…名称"} as an infant in a village so small it had no name on any map, [christened]{.vocab tabindex="0" data-def="christen · vt. 在洗礼时为命名"} with the name [Emmanuel]{.vocab tabindex="0" data-def="Emmanuel · n. 以马内利；伊曼纽尔"} — *God with us* — though by now he doubted whether any god was with anyone at all. His tutors back home would have called him an [apostate]{.vocab tabindex="0" data-def="apostate · adj. 脱党的；变节的；背教的; 脱党者；变节者；叛教者"}, a word that landed like a stone in still water; his own heart preferred the quieter label of [agnostic]{.vocab tabindex="0" data-def="agnostic · n. 不可知论者; 不可知论的"}. He simply did not know.
 
-The first temple he entered was consecrated to **Mithras**, the bull-slaying god of soldiers and oaths. A fresco showed the deity surrounded by a **trinity** of torchbearers, their faces worn to soft smears by centuries of lamp-smoke. The **cardinal** directions were marked in red ochre on the floor. A lone **celibate** priest — bound by vow to neither wife nor wine — sat in the inner **sanctum**, copying the book of **Numbers** by hand onto stretched hide. The scholar watched the priest's steady fingers and felt, briefly, the appeal of a life so narrowed that every choice had already been made.
+The first temple he entered was consecrated to [Mithras]{.vocab tabindex="0" data-def="Mithras · n. 密特拉神"}, the bull-slaying god of soldiers and oaths. A fresco showed the deity surrounded by a [trinity]{.vocab tabindex="0" data-def="trinity · n. 三人小组；三件一套；三合一; 三，三倍"} of torchbearers, their faces worn to soft smears by centuries of lamp-smoke. The [cardinal]{.vocab tabindex="0" data-def="cardinal · adj. 主要的，基本的；深红色的; 红衣主教；枢机主教；鲜红色"} directions were marked in red ochre on the floor. A lone [celibate]{.vocab tabindex="0" data-def="celibate · n. 独身者; 独身的；禁欲的"} priest — bound by vow to neither wife nor wine — sat in the inner [sanctum]{.vocab tabindex="0" data-def="sanctum · n. 圣所; 私室"}, copying the book of [Numbers]{.vocab tabindex="0" data-def="Numbers · n. 民数记"} by hand onto stretched hide. The scholar watched the priest's steady fingers and felt, briefly, the appeal of a life so narrowed that every choice had already been made.
 
-Outside, the market pressed against the temple walls. A hawker sold amulets against **Satanic** influence; a pamphleteer denounced the old gods as **profane** idols; a painter was finishing a mural of a **phoenix** rising from a pyre, its wings the color of embers. The scholar paused before it. He had read that the bird never truly died — it was the burning itself that was the point. Nearby, in the **cemetery** at the edge of the district, the names of the city's **gentiles** were carved in a script he could not read, their **secular** lives reduced to dates and the occasional flower cut in stone.
+Outside, the market pressed against the temple walls. A hawker sold amulets against [Satanic]{.vocab tabindex="0" data-def="Satanic · adj. 邪恶的；魔鬼的 satanicadj. 似撒旦的，魔鬼的; 邪恶的；罪恶的"} influence; a pamphleteer denounced the old gods as [profane]{.vocab tabindex="0" data-def="profane · adj. 不敬的,渎神的,好咒骂的; 亵渎的,不圣洁的; 世俗的,非宗教的; 不敬; 亵渎,玷污"} idols; a painter was finishing a mural of a [phoenix]{.vocab tabindex="0" data-def="phoenix · n. 凤凰；长生鸟 Phoenix菲尼克斯"} rising from a pyre, its wings the color of embers. The scholar paused before it. He had read that the bird never truly died — it was the burning itself that was the point. Nearby, in the [cemetery]{.vocab tabindex="0" data-def="cemetery · n. 墓地；公墓"} at the edge of the district, the names of the city's [gentiles]{.vocab tabindex="0" data-def="gentiles · n. 外邦人；异教徒；非犹太人"} were carved in a script he could not read, their [secular]{.vocab tabindex="0" data-def="secular · adj. 世俗的；长期的；现世的；不朽的 修道院外的教士， 俗人"} lives reduced to dates and the occasional flower cut in stone.
 
-That evening a wandering teacher — one of those itinerant figures the locals half-reverently called an **apostle** of the mountain path — led a small group in meditation. He spoke of **nirvana** not as a reward but as the simple exhaustion of craving, the way a lamp goes dark not because someone blows it out but because the oil is gone. He spoke of **samadhi**, the still point where the meditator and the object of meditation collapse into one, where even the **specter** of self fades. The scholar tried to follow and instead watched a moth navigate the lantern flame, terrified and drawn at once.
+That evening a wandering teacher — one of those itinerant figures the locals half-reverently called an [apostle]{.vocab tabindex="0" data-def="apostles · n. 传道者；倡导者；使徒"} of the mountain path — led a small group in meditation. He spoke of [nirvana]{.vocab tabindex="0" data-def="nirvana · n. 生命之火的熄灭; 天堂;极乐世界"} not as a reward but as the simple exhaustion of craving, the way a lamp goes dark not because someone blows it out but because the oil is gone. He spoke of [samadhi]{.vocab tabindex="0" data-def="samadhi · n. 等持,定,三昧"}, the still point where the meditator and the object of meditation collapse into one, where even the [specter]{.vocab tabindex="0" data-def="specter · n. 鬼怪,幽灵; 缠绕心头的恐惧,凶兆"} of self fades. The scholar tried to follow and instead watched a moth navigate the lantern flame, terrified and drawn at once.
 
-Later a **spectre** of doubt moved through him — the old kind, the kind that **nemesis** sends not as punishment but as education. He had seen a bishop propose to **canonize** a local healer; he had watched an **Epiphany** procession in which children carried candles through fog, their faces ghostly as **phantoms**; he had sat beside a man who claimed a shaman had **exorcised** a grief from his chest the way one removes a splinter. The world, he decided, was not waiting to be classified. It was **Proteus** — slipping through every grip, wearing every shape, refusing to hold still long enough to be pinned. The right response was not certainty. The right response was to **enshrine** the question itself, to carry it carefully, the way one carries a flame.
+Later a [spectre]{.vocab tabindex="0" data-def="spectre · n. 幽灵；妖怪；鬼性"} of doubt moved through him — the old kind, the kind that [nemesis]{.vocab tabindex="0" data-def="nemesis · n. 报应；给与惩罚的人；天罚 Nemesisn. 报应,复仇女神"} sends not as punishment but as education. He had seen a bishop propose to [canonize]{.vocab tabindex="0" data-def="canonize · vt. 使加入圣徒之列；褒扬；将…封为圣徒；推崇"} a local healer; he had watched an [Epiphany]{.vocab tabindex="0" data-def="Epiphany · n. 主显节；显现"} procession in which children carried candles through fog, their faces ghostly as [phantoms]{.vocab tabindex="0" data-def="phantom · n. 幽灵；幻影；虚位; 幻觉的；幽灵的；有名无实的"}; he had sat beside a man who claimed a shaman had [exorcised]{.vocab tabindex="0" data-def="exorcise · vt. 驱邪；除怪"} a grief from his chest the way one removes a splinter. The world, he decided, was not waiting to be classified. It was [Proteus]{.vocab tabindex="0" data-def="Proteus · n. 希腊海神,多变的人"} — slipping through every grip, wearing every shape, refusing to hold still long enough to be pinned. The right response was not certainty. The right response was to [enshrine]{.vocab tabindex="0" data-def="enshrine · vt. 把…置于神龛内；把…奉为神圣；铭记，珍藏"} the question itself, to carry it carefully, the way one carries a flame.
 
-He slept under the portico and dreamed of the **phoenix** again.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **Mithras** <span class="wpos">n.</span> | 密特拉神 |
-| **nemesis** <span class="wpos">n.</span> | 报应；给与惩罚的人；天罚 Nemesisn. 报应,复仇女神 |
-| **nirvana** <span class="wpos">n.</span> | 生命之火的熄灭; 天堂;极乐世界 |
-| **Numbers** <span class="wpos">n.</span> | 民数记 |
-| **phantom** <span class="wpos">n.</span> | 幽灵；幻影；虚位; 幻觉的；幽灵的；有名无实的 |
-| **phoenix** <span class="wpos">n.</span> | 凤凰；长生鸟 Phoenix菲尼克斯 |
-| **profane** <span class="wpos">adj.</span> | 不敬的,渎神的,好咒骂的; 亵渎的,不圣洁的; 世俗的,非宗教的; 不敬; 亵渎,玷污 |
-| **Proteus** <span class="wpos">n.</span> | 希腊海神,多变的人 |
-| **samadhi** <span class="wpos">n.</span> | 等持,定,三昧 |
-| **sanctum** <span class="wpos">n.</span> | 圣所; 私室 |
-| **Satanic** <span class="wpos">adj.</span> | 邪恶的；魔鬼的 satanicadj. 似撒旦的，魔鬼的; 邪恶的；罪恶的 |
-| **secular** <span class="wpos">adj.</span> | 世俗的；长期的；现世的；不朽的 修道院外的教士， 俗人 |
-| **specter** <span class="wpos">n.</span> | 鬼怪,幽灵; 缠绕心头的恐惧,凶兆 |
-| **spectre** <span class="wpos">n.</span> | 幽灵；妖怪；鬼性 |
-| **trinity** <span class="wpos">n.</span> | 三人小组；三件一套；三合一; 三，三倍 |
-| **agnostic** <span class="wpos">n.</span> | 不可知论者; 不可知论的 |
-| **apostate** <span class="wpos">adj.</span> | 脱党的；变节的；背教的; 脱党者；变节者；叛教者 |
-| **apostles** <span class="wpos">n.</span> | 传道者；倡导者；使徒 |
-| **baptized** <span class="wpos">adj.</span> | 受洗礼的; 施洗礼；使经受考验；给…名称 |
-| **Biblical** <span class="wpos">adj.</span> | 《圣经》的;《圣经》中的; 按照《圣经》的;恪守《圣经》的; 似《圣经》的 |
-| **canonize** <span class="wpos">vt.</span> | 使加入圣徒之列；褒扬；将…封为圣徒；推崇 |
-| **cardinal** <span class="wpos">adj.</span> | 主要的，基本的；深红色的; 红衣主教；枢机主教；鲜红色 |
-| **celibate** <span class="wpos">n.</span> | 独身者; 独身的；禁欲的 |
-| **cemetery** <span class="wpos">n.</span> | 墓地；公墓 |
-| **christen** <span class="wpos">vt.</span> | 在洗礼时为命名 |
-| **Emmanuel** <span class="wpos">n.</span> | 以马内利；伊曼纽尔 |
-| **enshrine** <span class="wpos">vt.</span> | 把…置于神龛内；把…奉为神圣；铭记，珍藏 |
-| **Epiphany** <span class="wpos">n.</span> | 主显节；显现 |
-| **exorcise** <span class="wpos">vt.</span> | 驱邪；除怪 |
-| **gentiles** <span class="wpos">n.</span> | 外邦人；异教徒；非犹太人 |
-:::
-:::
-::::
+He slept under the portico and dreamed of the [phoenix]{.vocab tabindex="0" data-def="phoenix · n. 凤凰；长生鸟 Phoenix菲尼克斯"} again.
 
 ### A Flame Kept Burning — Across Temples, Heresies, and Dreams
 
-:::: {.columns}
-::: {.column width="57%"}
-In a **lamasery** tucked high in the frost-bitten peaks, the monks rose before dawn to chant verses from **Proverbs** — words they believed could **sanctify** the ordinary act of breathing. The head lama, a figure of quiet **sanctity**, moved through the **hieratic** rituals with hands so steady they seemed carved from the mountain itself. Pilgrims who made the climb spoke of reaching a kind of **paradise** — not the gilded afterlife promised elsewhere, but a stillness in the chest that felt **hallowed**, as though the air itself had been set apart.
+In a [lamasery]{.vocab tabindex="0" data-def="lamasery · n. 喇嘛庙"} tucked high in the frost-bitten peaks, the monks rose before dawn to chant verses from [Proverbs]{.vocab tabindex="0" data-def="Proverbs · n. 箴言篇"} — words they believed could [sanctify]{.vocab tabindex="0" data-def="sanctify · vt. 使神圣化；把…奉献给神；使圣洁；认可"} the ordinary act of breathing. The head lama, a figure of quiet [sanctity]{.vocab tabindex="0" data-def="sanctity · n. 圣洁；尊严；神圣不可侵犯性"}, moved through the [hieratic]{.vocab tabindex="0" data-def="hieratic · adj. 僧侣的,僧侣用的"} rituals with hands so steady they seemed carved from the mountain itself. Pilgrims who made the climb spoke of reaching a kind of [paradise]{.vocab tabindex="0" data-def="paradise · n. 天堂"} — not the gilded afterlife promised elsewhere, but a stillness in the chest that felt [hallowed]{.vocab tabindex="0" data-def="hallowed · adj. 神圣的"}, as though the air itself had been set apart.
 
-Down in the valley, the story grew more tangled. A **Lutheran** minister and a wandering **alchemist** argued by firelight: the minister insisted that **atonement** was the axis on which all meaning turned, quoting **Immanuel** as proof that the divine had once walked in dust and sweat; the alchemist countered with **solarism**, tracing every savior myth back to the arc of the sun. A young **ordinand** listened from the shadows, uncertain which tradition he was preparing to serve. Nearby, a woman who could **soothsay** unrolled a star chart — her **astrology** was dismissed as superstition by the **apostolic** elder, who muttered warnings about **idolatry** and the **heresies** that rot a congregation from within. Yet the elder himself kept, locked in his trunk, a forbidden **theogony** — a **reverend** old manuscript tracing the births and wars of gods far older than his own.
+Down in the valley, the story grew more tangled. A [Lutheran]{.vocab tabindex="0" data-def="Lutheran · adj. 路德教会的; 路德教会"} minister and a wandering [alchemist]{.vocab tabindex="0" data-def="alchemist · n. 炼金术士"} argued by firelight: the minister insisted that [atonement]{.vocab tabindex="0" data-def="atonement · n. 弥补,补偿；赎罪; 调和,合而为一; 上帝与人的和好"} was the axis on which all meaning turned, quoting [Immanuel]{.vocab tabindex="0" data-def="Immanuel · n. 以马利"} as proof that the divine had once walked in dust and sweat; the alchemist countered with [solarism]{.vocab tabindex="0" data-def="solarism · n. 太阳中心说；太阳神话论"}, tracing every savior myth back to the arc of the sun. A young [ordinand]{.vocab tabindex="0" data-def="ordinand · n. 圣职候选人"} listened from the shadows, uncertain which tradition he was preparing to serve. Nearby, a woman who could [soothsay]{.vocab tabindex="0" data-def="soothsay · vi. 预言"} unrolled a star chart — her [astrology]{.vocab tabindex="0" data-def="astrology · n. 占星术"} was dismissed as superstition by the [apostolic]{.vocab tabindex="0" data-def="apostolic · adj. 使徒的"} elder, who muttered warnings about [idolatry]{.vocab tabindex="0" data-def="idolatry · n. 偶像崇拜；盲目崇拜；邪神崇拜"} and the [heresies]{.vocab tabindex="0" data-def="heresies · n. 异教；异端邪说"} that rot a congregation from within. Yet the elder himself kept, locked in his trunk, a forbidden [theogony]{.vocab tabindex="0" data-def="theogony · n. 神谱,神统系,记述神的史诗"} — a [reverend]{.vocab tabindex="0" data-def="reverend · adj. 尊敬的，可敬的; 教士,牧师 Reverendn. 牧师"} old manuscript tracing the births and wars of gods far older than his own.
 
-Night deepened, and the **Arthurian** tapestry on the wall stirred in the draft: **unicorns** rearing beside a wounded king, **immortal** knights who refused to fall. Someone whispered that the hall was cursed — that **succubae** and the lone **succubus** who led them rose from **Tartarus** to feed on faith that had grown vain. **Augustine** had warned against exactly this: the soul that mistakes its own hunger for **prophecy**, that calls private longing an **apostolic** vision. But the night was long, and every **atheistic** doubt dissolved a little in the firelight — leaving only the oldest question, unanswerable and unextinguished, floating above the embers like smoke.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **hallowed** <span class="wpos">adj.</span> | 神圣的 |
-| **heresies** <span class="wpos">n.</span> | 异教；异端邪说 |
-| **hieratic** <span class="wpos">adj.</span> | 僧侣的,僧侣用的 |
-| **idolatry** <span class="wpos">n.</span> | 偶像崇拜；盲目崇拜；邪神崇拜 |
-| **Immanuel** <span class="wpos">n.</span> | 以马利 |
-| **immortal** <span class="wpos">adj.</span> | 长生的；不朽的；神仙的; 不朽人物；神仙 |
-| **lamasery** <span class="wpos">n.</span> | 喇嘛庙 |
-| **Lutheran** <span class="wpos">adj.</span> | 路德教会的; 路德教会 |
-| **ordinand** <span class="wpos">n.</span> | 圣职候选人 |
-| **paradise** <span class="wpos">n.</span> | 天堂 |
-| **Passover** <span class="wpos">n.</span> | 逾越节,逾越节祭神的羔羊 |
-| **prophecy** <span class="wpos">n.</span> | 预言；预言能力；预言书 |
-| **Proverbs** <span class="wpos">n.</span> | 箴言篇 |
-| **reverend** <span class="wpos">adj.</span> | 尊敬的，可敬的; 教士,牧师 Reverendn. 牧师 |
-| **sanctify** <span class="wpos">vt.</span> | 使神圣化；把…奉献给神；使圣洁；认可 |
-| **sanctity** <span class="wpos">n.</span> | 圣洁；尊严；神圣不可侵犯性 |
-| **solarism** <span class="wpos">n.</span> | 太阳中心说；太阳神话论 |
-| **soothsay** <span class="wpos">vi.</span> | 预言 |
-| **succubae** <span class="wpos">n.</span> | 妖魔；女妖 |
-| **succubus** <span class="wpos">n.</span> | 女淫妖; 淫妇；娼妇；妓女 |
-| **Tartarus** <span class="wpos">n.</span> | 塔耳塔洛斯；地狱 |
-| **theogony** <span class="wpos">n.</span> | 神谱,神统系,记述神的史诗 |
-| **unicorns** <span class="wpos">n.</span> | 独角兽 |
-| **alchemist** <span class="wpos">n.</span> | 炼金术士 |
-| **apostolic** <span class="wpos">adj.</span> | 使徒的 |
-| **Arthurian** <span class="wpos">adj.</span> | 亚瑟王的 |
-| **astrology** <span class="wpos">n.</span> | 占星术 |
-| **atheistic** <span class="wpos">adj.</span> | 无神论的,无神论者的 |
-| **atonement** <span class="wpos">n.</span> | 弥补,补偿；赎罪; 调和,合而为一; 上帝与人的和好 |
-| **Augustine** | 奥古斯丁 |
-:::
-:::
-::::
+Night deepened, and the [Arthurian]{.vocab tabindex="0" data-def="Arthurian · adj. 亚瑟王的"} tapestry on the wall stirred in the draft: [unicorns]{.vocab tabindex="0" data-def="unicorns · n. 独角兽"} rearing beside a wounded king, [immortal]{.vocab tabindex="0" data-def="immortal · adj. 长生的；不朽的；神仙的; 不朽人物；神仙"} knights who refused to fall. Someone whispered that the hall was cursed — that [succubae]{.vocab tabindex="0" data-def="succubae · n. 妖魔；女妖"} and the lone [succubus]{.vocab tabindex="0" data-def="succubus · n. 女淫妖; 淫妇；娼妇；妓女"} who led them rose from [Tartarus]{.vocab tabindex="0" data-def="Tartarus · n. 塔耳塔洛斯；地狱"} to feed on faith that had grown vain. [Augustine]{.vocab tabindex="0" data-def="Augustine 奥古斯丁"} had warned against exactly this: the soul that mistakes its own hunger for [prophecy]{.vocab tabindex="0" data-def="prophecy · n. 预言；预言能力；预言书"}, that calls private longing an [apostolic]{.vocab tabindex="0" data-def="apostolic · adj. 使徒的"} vision. But the night was long, and every [atheistic]{.vocab tabindex="0" data-def="atheistic · adj. 无神论的,无神论者的"} doubt dissolved a little in the firelight — leaving only the oldest question, unanswerable and unextinguished, floating above the embers like smoke.
 
 ### Shadows of the Sacred
 
-:::: {.columns}
-::: {.column width="57%"}
-In the great **cathedral** whose stones had stood since the first **Christian** missionaries arrived, a **Methodist** preacher once climbed the pulpit and declared that all rival traditions were **heretical** — words the **episcopal** council would later rule a **blasphemy** against the unity of the faith. The **canonical** texts, they insisted, left no room for such **Manichean** divisions between light and absolute darkness. Among the pews sat a quiet scholar of **Levitical** law, his worn copy of **Leviticus** open beside him, silently recounting how even the **Sadducees** of ancient Jerusalem had quarrelled over resurrection — the same hope that drove every **sacrament** performed in this very hall.
+In the great [cathedral]{.vocab tabindex="0" data-def="cathedral · n. 总教堂, 大教堂"} whose stones had stood since the first [Christian]{.vocab tabindex="0" data-def="Christian · n. 基督教徒; 信基督教的; 基督教的; 基督教徒的"} missionaries arrived, a [Methodist]{.vocab tabindex="0" data-def="Methodist · n. 强调方法的人；卫理公会教徒"} preacher once climbed the pulpit and declared that all rival traditions were [heretical]{.vocab tabindex="0" data-def="heretical · adj. 异教的;异端的"} — words the [episcopal]{.vocab tabindex="0" data-def="episcopal · adj. 主教的,主教制度的,英国国教的"} council would later rule a [blasphemy]{.vocab tabindex="0" data-def="blasphemy · n. 对上帝的亵渎,亵渎的言词〔行为〕; 侮慢的言词"} against the unity of the faith. The [canonical]{.vocab tabindex="0" data-def="canonical · adj. 按照教规的; 见于《圣经》正经篇目的; 权威的,公认的; 大教堂教士的,牧师的; 教士礼拜时穿的法衣"} texts, they insisted, left no room for such [Manichean]{.vocab tabindex="0" data-def="Manichean · n. 摩尼教; 摩尼教的,摩尼教徒的"} divisions between light and absolute darkness. Among the pews sat a quiet scholar of [Levitical]{.vocab tabindex="0" data-def="Levitical · adj. 利未族的,利未记的"} law, his worn copy of [Leviticus]{.vocab tabindex="0" data-def="Leviticus · n. 《利未记》"} open beside him, silently recounting how even the [Sadducees]{.vocab tabindex="0" data-def="Sadducees"} of ancient Jerusalem had quarrelled over resurrection — the same hope that drove every [sacrament]{.vocab tabindex="0" data-def="sacrament · n. 圣事,圣礼; 神圣的东西; 庄严的誓言"} performed in this very hall.
 
-Outside the cathedral walls, other seekers gathered in the shadow of a nearby **monastery**, trading **esoterica** that the church would sooner burn than canonise. An **occultist** versed in the lore of a **freemason** lodge murmured to his companion about **Kundalini** energy rising through the spine — a path to inner **salvation** he preferred to any **purgatory** of prescribed ritual. The companion, a woman of **confucian** disposition who had studied the sayings of **Confucius** in Nanjing before sailing west, listened without judgment; she had long grown accustomed to the **recusancy** of those who refused the **synagogue** and the nave alike, choosing instead the unmarked **sanctuary** of wild hills at dawn. Somewhere beneath the roots of that hill, legend promised, lay **Excalibur**, a sword whose power was beyond **the devil** himself to corrupt — though the **occultism** peddled around its myth had long since consigned several true believers to **perdition**.
+Outside the cathedral walls, other seekers gathered in the shadow of a nearby [monastery]{.vocab tabindex="0" data-def="monastery · n. 修道院"}, trading [esoterica]{.vocab tabindex="0" data-def="esoterica · n. 秘事;秘籍;秘教;秘传"} that the church would sooner burn than canonise. An [occultist]{.vocab tabindex="0" data-def="occultist · n. 神秘学者,术士"} versed in the lore of a [freemason]{.vocab tabindex="0" data-def="freemason · n. 互济会会员"} lodge murmured to his companion about [Kundalini]{.vocab tabindex="0" data-def="Kundalini · n. 生命力"} energy rising through the spine — a path to inner [salvation]{.vocab tabindex="0" data-def="salvation · n. 拯救; 避免损失、躲避灾难等的途径或方法"} he preferred to any [purgatory]{.vocab tabindex="0" data-def="purgatory · n. 炼狱, 涤罪; 暂时受苦的地方, 暂时的苦难; 净化的, 清洗的"} of prescribed ritual. The companion, a woman of [confucian]{.vocab tabindex="0" data-def="confucian · adj. 孔子的，儒家的；儒学的 孔子信徒"} disposition who had studied the sayings of [Confucius]{.vocab tabindex="0" data-def="Confucius · n. 孔子"} in Nanjing before sailing west, listened without judgment; she had long grown accustomed to the [recusancy]{.vocab tabindex="0" data-def="recusancy · n. 不服从,不服国教"} of those who refused the [synagogue]{.vocab tabindex="0" data-def="synagogue · n. 犹太人集会；犹太教会堂"} and the nave alike, choosing instead the unmarked [sanctuary]{.vocab tabindex="0" data-def="sanctuary · n. 圣所, 圣地; 圣堂; 庇护所; 庇护, 庇护权; 避难所; 禁猎区, 鸟兽类保护区"} of wild hills at dawn. Somewhere beneath the roots of that hill, legend promised, lay [Excalibur]{.vocab tabindex="0" data-def="Excalibur · n. 亚瑟王的神剑"}, a sword whose power was beyond [the devil]{.vocab tabindex="0" data-def="the devil 魔王，恶魔"} himself to corrupt — though the [occultism]{.vocab tabindex="0" data-def="occultism · n. 神秘主义,神秘学,神秘论"} peddled around its myth had long since consigned several true believers to [perdition]{.vocab tabindex="0" data-def="perdition · n. 毁灭"}.
 
-Only the old woman in the corner went on whispering the **Hail Mary**, her lips moving in their familiar rhythm, trusting that something — however named, however carved in stone or legend — would, in its own hour, **resurrect** the world.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **blasphemy** <span class="wpos">n.</span> | 对上帝的亵渎,亵渎的言词〔行为〕; 侮慢的言词 |
-| **canonical** <span class="wpos">adj.</span> | 按照教规的; 见于《圣经》正经篇目的; 权威的,公认的; 大教堂教士的,牧师的; 教士礼拜时穿的法衣 |
-| **cathedral** <span class="wpos">n.</span> | 总教堂, 大教堂 |
-| **Christian** <span class="wpos">n.</span> | 基督教徒; 信基督教的; 基督教的; 基督教徒的 |
-| **confucian** <span class="wpos">adj.</span> | 孔子的，儒家的；儒学的 孔子信徒 |
-| **Confucius** <span class="wpos">n.</span> | 孔子 |
-| **episcopal** <span class="wpos">adj.</span> | 主教的,主教制度的,英国国教的 |
-| **esoterica** <span class="wpos">n.</span> | 秘事;秘籍;秘教;秘传 |
-| **Excalibur** <span class="wpos">n.</span> | 亚瑟王的神剑 |
-| **freemason** <span class="wpos">n.</span> | 互济会会员 |
-| **Hail Mary** <span class="wpos">n.</span> | 〈天主教〉万福马利亚 |
-| **heretical** <span class="wpos">adj.</span> | 异教的;异端的 |
-| **Kundalini** <span class="wpos">n.</span> | 生命力 |
-| **Levitical** <span class="wpos">adj.</span> | 利未族的,利未记的 |
-| **Leviticus** <span class="wpos">n.</span> | 《利未记》 |
-| **Manichean** <span class="wpos">n.</span> | 摩尼教; 摩尼教的,摩尼教徒的 |
-| **Methodist** <span class="wpos">n.</span> | 强调方法的人；卫理公会教徒 |
-| **monastery** <span class="wpos">n.</span> | 修道院 |
-| **occultism** <span class="wpos">n.</span> | 神秘主义,神秘学,神秘论 |
-| **occultist** <span class="wpos">n.</span> | 神秘学者,术士 |
-| **perdition** <span class="wpos">n.</span> | 毁灭 |
-| **purgatory** <span class="wpos">n.</span> | 炼狱, 涤罪; 暂时受苦的地方, 暂时的苦难; 净化的, 清洗的 |
-| **recusancy** <span class="wpos">n.</span> | 不服从,不服国教 |
-| **resurrect** <span class="wpos">vt.</span> | 使复活；使复苏; 使再活跃；使再流行; 挖出; 复活；复苏 |
-| **sacrament** <span class="wpos">n.</span> | 圣事,圣礼; 神圣的东西; 庄严的誓言 |
-| **Sadducees** |  |
-| **salvation** <span class="wpos">n.</span> | 拯救; 避免损失、躲避灾难等的途径或方法 |
-| **sanctuary** <span class="wpos">n.</span> | 圣所, 圣地; 圣堂; 庇护所; 庇护, 庇护权; 避难所; 禁猎区, 鸟兽类保护区 |
-| **synagogue** <span class="wpos">n.</span> | 犹太人集会；犹太教会堂 |
-| **the devil** | 魔王，恶魔 |
-:::
-:::
-::::
+Only the old woman in the corner went on whispering the [Hail Mary]{.vocab tabindex="0" data-def="Hail Mary · n. 〈天主教〉万福马利亚"}, her lips moving in their familiar rhythm, trusting that something — however named, however carved in stone or legend — would, in its own hour, [resurrect]{.vocab tabindex="0" data-def="resurrect · vt. 使复活；使复苏; 使再活跃；使再流行; 挖出; 复活；复苏"} the world.
 
 ### Between the Living and the Gone
 
-:::: {.columns}
-::: {.column width="57%"}
-At the edge of the village, beneath a yew older than memory, stood a weathered **tombstone** carved with a single candle flame — the emblem of a local **Unitarian** congregation that had quietly practiced its faith for two centuries. Tradition held that the flame was lit by **Zoroaster** himself, a legend almost certainly **apocryphal**, yet repeated with the solemn warmth of something believed.
+At the edge of the village, beneath a yew older than memory, stood a weathered [tombstone]{.vocab tabindex="0" data-def="tombstone · n. 墓碑"} carved with a single candle flame — the emblem of a local [Unitarian]{.vocab tabindex="0" data-def="Unitarian · n. 唯一神论者;一位论派教会成员;否认三位一体的基督教教徒;上帝一位论派教徒; 一位论派的;一位论教义的"} congregation that had quietly practiced its faith for two centuries. Tradition held that the flame was lit by [Zoroaster]{.vocab tabindex="0" data-def="Zoroaster 拜火教的创始人"} himself, a legend almost certainly [apocryphal]{.vocab tabindex="0" data-def="apocryphal · adj. 真实性可疑的; 伪造的,杜撰的; 作者不明的; 次经的；新约外传的"}, yet repeated with the solemn warmth of something believed.
 
-Every autumn, on **Michaelmas**, the priest would lead a procession past the stone to the chapel, where the **liturgical** chant of the **Benedictus** rose into the rafters. The rite was ancient: incense, candle-wax, and the low drone of the **evangelical** choir. Somewhere in the archive, a manuscript described a **coronation** of abbots performed on this same ground — a **consecrated** hill where **immolation** of grain and oil had once sealed a covenant between the community and whatever force governed rain and harvest. A **Melchizedek** figure, priest-king and stranger, was said to have presided. Whether that story was scripture or **soothsaying** no scholar had settled.
+Every autumn, on [Michaelmas]{.vocab tabindex="0" data-def="Michaelmas · n. 米迦勒节"}, the priest would lead a procession past the stone to the chapel, where the [liturgical]{.vocab tabindex="0" data-def="liturgical · adj. 礼拜仪式的"} chant of the [Benedictus]{.vocab tabindex="0" data-def="Benedictus · n. 短赞美诗"} rose into the rafters. The rite was ancient: incense, candle-wax, and the low drone of the [evangelical]{.vocab tabindex="0" data-def="evangelical · n. 信福音主义者;福音; 新教会的"} choir. Somewhere in the archive, a manuscript described a [coronation]{.vocab tabindex="0" data-def="coronation · n. 加冕礼"} of abbots performed on this same ground — a [consecrated]{.vocab tabindex="0" data-def="consecrated · adj. 神圣的,被视为神圣的"} hill where [immolation]{.vocab tabindex="0" data-def="immolation · n. 祭物，供奉牲礼；宰杀，祭品"} of grain and oil had once sealed a covenant between the community and whatever force governed rain and harvest. A [Melchizedek]{.vocab tabindex="0" data-def="Melchizedek 麦基冼德"} figure, priest-king and stranger, was said to have presided. Whether that story was scripture or [soothsaying]{.vocab tabindex="0" data-def="soothsaying · n. 占卜,预言"} no scholar had settled.
 
-Inside the chapel, a lay **evangelist** taught a class on **monotheism**, tracing the long argument against the older **priesthood** of many gods. He had spent a decade studying **asceticism** and its rivals — the Protestant suspicion of mortification, the Quaker trust in inner light, the exotic circuits of **scientology**, the quiet discipline of **reincarnate** tradition in the East. He spoke of **redemption** and **deliverance** as if they were doors you could choose to open, of **veneration** as a posture of the whole body, not merely the mind. Behind him, through a small arch, the **tabernacle** gleamed in candlelight.
+Inside the chapel, a lay [evangelist]{.vocab tabindex="0" data-def="evangelist · n. 圣经新约福音书的作者,福音传道者"} taught a class on [monotheism]{.vocab tabindex="0" data-def="monotheism · n. 一神论,一神教"}, tracing the long argument against the older [priesthood]{.vocab tabindex="0" data-def="priesthood · n. 牧师〔教士、神父、司铎〕的职位；司祭品; 全体教士，全体神职人员；司祭团"} of many gods. He had spent a decade studying [asceticism]{.vocab tabindex="0" data-def="asceticism · n. 禁欲主义;苦行主义;苦行生活"} and its rivals — the Protestant suspicion of mortification, the Quaker trust in inner light, the exotic circuits of [scientology]{.vocab tabindex="0" data-def="scientology · n. 信仰疗法;基督教科学派"}, the quiet discipline of [reincarnate]{.vocab tabindex="0" data-def="reincarnate · vt. 赋予新形体,使转世化身; 转世化身的"} tradition in the East. He spoke of [redemption]{.vocab tabindex="0" data-def="redemption · n. 赎回;补救;兑现"} and [deliverance]{.vocab tabindex="0" data-def="deliverance · n. 解救;解脱"} as if they were doors you could choose to open, of [veneration]{.vocab tabindex="0" data-def="veneration · n. 尊敬；崇拜"} as a posture of the whole body, not merely the mind. Behind him, through a small arch, the [tabernacle]{.vocab tabindex="0" data-def="tabernacle · n. 临时房屋；帐篷；神龛; 把…置于神龛中; 暂居；暂附肉体"} gleamed in candlelight.
 
-When the rector took the podium to **pontificate** on the end of days — drawing on **apocalyptic** texts with the confidence of someone who had read them all — his **benediction** rolled through the hall like low thunder. Outside, the sky had turned that particular violet that always made people reach for **apocalypse** as the only word large enough. The stained glass cast broken light across the floor. **Providence**, someone whispered, though no one was sure what they meant by it. The **crucifixion** panel glowed deepest red. The **deliverance** panel, pale gold.
+When the rector took the podium to [pontificate]{.vocab tabindex="0" data-def="pontificate · n. 教皇的职位,主教的地位; 装作教皇的说话"} on the end of days — drawing on [apocalyptic]{.vocab tabindex="0" data-def="apocalyptic · adj. 预言将来的大灾难的; 世界末日的; 启示性的，预示性的"} texts with the confidence of someone who had read them all — his [benediction]{.vocab tabindex="0" data-def="benediction · n. 祝福; 赐福祈祷; 祈求上帝赐福的仪式; 恩赐;幸事"} rolled through the hall like low thunder. Outside, the sky had turned that particular violet that always made people reach for [apocalypse]{.vocab tabindex="0" data-def="apocalypse · n. 启示, 天启"} as the only word large enough. The stained glass cast broken light across the floor. [Providence]{.vocab tabindex="0" data-def="providence · n. 天道，天意; 远见；卓识; 玩命；冒险 Providence普罗维登斯"}, someone whispered, though no one was sure what they meant by it. The [crucifixion]{.vocab tabindex="0" data-def="crucifixion · n. 苦难；刑罚"} panel glowed deepest red. The [deliverance]{.vocab tabindex="0" data-def="deliverance · n. 解救;解脱"} panel, pale gold.
 
-In the courtyard afterward, two children traced the letters on the old **tombstone** with their fingers, sounding out a name nobody living could now remember.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **tombstone** <span class="wpos">n.</span> | 墓碑 |
-| **Unitarian** <span class="wpos">n.</span> | 唯一神论者;一位论派教会成员;否认三位一体的基督教教徒;上帝一位论派教徒; 一位论派的;一位论教义的 |
-| **Zoroaster** | 拜火教的创始人 |
-| **apocalypse** <span class="wpos">n.</span> | 启示, 天启 |
-| **apocryphal** <span class="wpos">adj.</span> | 真实性可疑的; 伪造的,杜撰的; 作者不明的; 次经的；新约外传的 |
-| **asceticism** <span class="wpos">n.</span> | 禁欲主义;苦行主义;苦行生活 |
-| **Benedictus** <span class="wpos">n.</span> | 短赞美诗 |
-| **coronation** <span class="wpos">n.</span> | 加冕礼 |
-| **evangelist** <span class="wpos">n.</span> | 圣经新约福音书的作者,福音传道者 |
-| **immolation** <span class="wpos">n.</span> | 祭物，供奉牲礼；宰杀，祭品 |
-| **liturgical** <span class="wpos">adj.</span> | 礼拜仪式的 |
-| **Michaelmas** <span class="wpos">n.</span> | 米迦勒节 |
-| **monotheism** <span class="wpos">n.</span> | 一神论,一神教 |
-| **priesthood** <span class="wpos">n.</span> | 牧师〔教士、神父、司铎〕的职位；司祭品; 全体教士，全体神职人员；司祭团 |
-| **Protestant** <span class="wpos">adj.</span> | 新教徒的；表示不服的 新教徒；抗议者 |
-| **providence** <span class="wpos">n.</span> | 天道，天意; 远见；卓识; 玩命；冒险 Providence普罗维登斯 |
-| **redemption** <span class="wpos">n.</span> | 赎回;补救;兑现 |
-| **tabernacle** <span class="wpos">n.</span> | 临时房屋；帐篷；神龛; 把…置于神龛中; 暂居；暂附肉体 |
-| **veneration** <span class="wpos">n.</span> | 尊敬；崇拜 |
-| **apocalyptic** <span class="wpos">adj.</span> | 预言将来的大灾难的; 世界末日的; 启示性的，预示性的 |
-| **benediction** <span class="wpos">n.</span> | 祝福; 赐福祈祷; 祈求上帝赐福的仪式; 恩赐;幸事 |
-| **consecrated** <span class="wpos">adj.</span> | 神圣的,被视为神圣的 |
-| **crucifixion** <span class="wpos">n.</span> | 苦难；刑罚 |
-| **deliverance** <span class="wpos">n.</span> | 解救;解脱 |
-| **evangelical** <span class="wpos">n.</span> | 信福音主义者;福音; 新教会的 |
-| **Melchizedek** | 麦基冼德 |
-| **pontificate** <span class="wpos">n.</span> | 教皇的职位,主教的地位; 装作教皇的说话 |
-| **reincarnate** <span class="wpos">vt.</span> | 赋予新形体,使转世化身; 转世化身的 |
-| **scientology** <span class="wpos">n.</span> | 信仰疗法;基督教科学派 |
-| **soothsaying** <span class="wpos">n.</span> | 占卜,预言 |
-:::
-:::
-::::
+In the courtyard afterward, two children traced the letters on the old [tombstone]{.vocab tabindex="0" data-def="tombstone · n. 墓碑"} with their fingers, sounding out a name nobody living could now remember.
 
 ### A Scholar's Vigil at the Edge of the Sacred
 
-:::: {.columns}
-::: {.column width="57%"}
-In the high-vaulted library of an old seminary, Brother Edmund sat hunched over texts that spanned every **ecclesiastical** tradition he could name. His dissertation was a **theological** survey of how ancient peoples moved from polytheism toward **monotheistic** faith — a journey mapped not through the **crystal ball** of prophecy but through patient reading. He belonged to no single **denomination**, though he had been raised **Episcopalian** and still felt the quiet pull of that ordered liturgy. On the shelf beside him stood a jar of **frankincense**, its resin scenting the cold air and carrying his thoughts toward something older than argument.
+In the high-vaulted library of an old seminary, Brother Edmund sat hunched over texts that spanned every [ecclesiastical]{.vocab tabindex="0" data-def="ecclesiastical · adj. 基督教的;教会的; 基督教地;教会地"} tradition he could name. His dissertation was a [theological]{.vocab tabindex="0" data-def="theological · adj. 神学的；神学上的; 研究神学的"} survey of how ancient peoples moved from polytheism toward [monotheistic]{.vocab tabindex="0" data-def="monotheistic · adj. 一神论的"} faith — a journey mapped not through the [crystal ball]{.vocab tabindex="0" data-def="crystal ball 水晶球；预言未来的方法"} of prophecy but through patient reading. He belonged to no single [denomination]{.vocab tabindex="0" data-def="denomination · n. 宗派, 教派; 面额, 单位; 名称, 种类名, 名目"}, though he had been raised [Episcopalian]{.vocab tabindex="0" data-def="episcopalian · adj. 主教制度的,主教派的; 主教派的人,主教派会员,美国圣公会教徒 Episcopalianadj. 主…"} and still felt the quiet pull of that ordered liturgy. On the shelf beside him stood a jar of [frankincense]{.vocab tabindex="0" data-def="frankincense · n. 乳香"}, its resin scenting the cold air and carrying his thoughts toward something older than argument.
 
-Downstairs, the Sunday **congregation** gathered under the ministry of a visiting **televangelist** whose flair for **evangelicalism** made the older deacons uneasy. The man's theology leaned hard **Trinitarian**, invoking the threefold name at every turn, and rumor held that his predecessor had been threatened with **excommunicate**d status after feuding with the bishop. Edmund found such spectacle tiresome. He preferred the quieter logic of **transcendentalism**, the **transcendentalist** conviction that the divine shone directly through conscience and nature — no mediator required. He kept a dog-eared copy of the **Song of Solomon** open on the lectern, its aching imagery far more alive to him than any broadcast sermon.
+Downstairs, the Sunday [congregation]{.vocab tabindex="0" data-def="congregation · n. 人群;会众"} gathered under the ministry of a visiting [televangelist]{.vocab tabindex="0" data-def="televangelist · n. 电视传道者"} whose flair for [evangelicalism]{.vocab tabindex="0" data-def="evangelicalism · n. 福音派的教义,福音,教义的信仰"} made the older deacons uneasy. The man's theology leaned hard [Trinitarian]{.vocab tabindex="0" data-def="Trinitarian · adj. 三位一体的,三位一体说的,信仰三位一体的; 信仰三位一体教理的人"}, invoking the threefold name at every turn, and rumor held that his predecessor had been threatened with [excommunicate]{.vocab tabindex="0" data-def="excommunicate · vt. 开除…的教籍,把…逐出教会"}d status after feuding with the bishop. Edmund found such spectacle tiresome. He preferred the quieter logic of [transcendentalism]{.vocab tabindex="0" data-def="transcendentalism · n. 超验主义,先验论; 顿悟"}, the [transcendentalist]{.vocab tabindex="0" data-def="transcendentalist · adj. 先验论者的,超越论者的"} conviction that the divine shone directly through conscience and nature — no mediator required. He kept a dog-eared copy of the [Song of Solomon]{.vocab tabindex="0" data-def="Song of Solomon 雅歌"} open on the lectern, its aching imagery far more alive to him than any broadcast sermon.
 
-Outside, a procession marked the feast of **resurrection**, candles tracing a slow orbit around the churchyard. Edmund watched from his window and thought about **transmigration** — how certain Eastern traditions imagined the soul cycling through lives the way seasons cycle through a year, each existence a step toward something **paradisiacal**. Against such vast cosmologies, the West's fear of **superstition** could look like a failure of imagination. Yet he also understood **enshrinement**: the human need to fix a sacred thing in stone and ritual, to make the ineffable endure. He recalled a mosaic of **Pontius Pilate** in a Ravenna chapel — the governor's hands forever mid-wash, guilt crystallized into gold tessera.
+Outside, a procession marked the feast of [resurrection]{.vocab tabindex="0" data-def="resurrection · n. 耶稣复活; 所有死者的复活; 恢复使用、活动等；重新流行; 复活的，复兴的; 盗尸者; 使复活者，使…"}, candles tracing a slow orbit around the churchyard. Edmund watched from his window and thought about [transmigration]{.vocab tabindex="0" data-def="transmigration · n. 轮回"} — how certain Eastern traditions imagined the soul cycling through lives the way seasons cycle through a year, each existence a step toward something [paradisiacal]{.vocab tabindex="0" data-def="paradisiacal · adj. 天堂的,天堂似的,乐园的"}. Against such vast cosmologies, the West's fear of [superstition]{.vocab tabindex="0" data-def="superstition · n. 迷信, 迷信行为"} could look like a failure of imagination. Yet he also understood [enshrinement]{.vocab tabindex="0" data-def="enshrinement · n. 奉祀庙中,秘藏"}: the human need to fix a sacred thing in stone and ritual, to make the ineffable endure. He recalled a mosaic of [Pontius Pilate]{.vocab tabindex="0" data-def="Pontius Pilate 彼拉多"} in a Ravenna chapel — the governor's hands forever mid-wash, guilt crystallized into gold tessera.
 
-He returned to his notes. The modern church still wrestled with questions that **theological** councils had debated for centuries, questions no **crystal ball** could settle: how belief travels, what it costs to belong, and whether grace could survive **transmigration** from one age's language into the next. From somewhere below, a choir rose through the floorboards — a hymn that closed, as he knew it would, *with Love Divine.*
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **theological** <span class="wpos">adj.</span> | 神学的；神学上的; 研究神学的 |
-| **Trinitarian** <span class="wpos">adj.</span> | 三位一体的,三位一体说的,信仰三位一体的; 信仰三位一体教理的人 |
-| **congregation** <span class="wpos">n.</span> | 人群;会众 |
-| **crystal ball** | 水晶球；预言未来的方法 |
-| **denomination** <span class="wpos">n.</span> | 宗派, 教派; 面额, 单位; 名称, 种类名, 名目 |
-| **enshrinement** <span class="wpos">n.</span> | 奉祀庙中,秘藏 |
-| **episcopalian** <span class="wpos">adj.</span> | 主教制度的,主教派的; 主教派的人,主教派会员,美国圣公会教徒 Episcopalianadj. 主… |
-| **frankincense** <span class="wpos">n.</span> | 乳香 |
-| **monotheistic** <span class="wpos">adj.</span> | 一神论的 |
-| **paradisiacal** <span class="wpos">adj.</span> | 天堂的,天堂似的,乐园的 |
-| **resurrection** <span class="wpos">n.</span> | 耶稣复活; 所有死者的复活; 恢复使用、活动等；重新流行; 复活的，复兴的; 盗尸者; 使复活者，使… |
-| **superstition** <span class="wpos">n.</span> | 迷信, 迷信行为 |
-| **excommunicate** <span class="wpos">vt.</span> | 开除…的教籍,把…逐出教会 |
-| **televangelist** <span class="wpos">n.</span> | 电视传道者 |
-| **ecclesiastical** <span class="wpos">adj.</span> | 基督教的;教会的; 基督教地;教会地 |
-| **evangelicalism** <span class="wpos">n.</span> | 福音派的教义,福音,教义的信仰 |
-| **Pontius Pilate** | 彼拉多 |
-| **transmigration** <span class="wpos">n.</span> | 轮回 |
-| **Song of Solomon** | 雅歌 |
-| **transcendentalism** <span class="wpos">n.</span> | 超验主义,先验论; 顿悟 |
-| **transcendentalist** <span class="wpos">adj.</span> | 先验论者的,超越论者的 |
-| **with  Love  Divine."** |  |
-:::
-:::
-::::
+He returned to his notes. The modern church still wrestled with questions that [theological]{.vocab tabindex="0" data-def="theological · adj. 神学的；神学上的; 研究神学的"} councils had debated for centuries, questions no [crystal ball]{.vocab tabindex="0" data-def="crystal ball 水晶球；预言未来的方法"} could settle: how belief travels, what it costs to belong, and whether grace could survive [transmigration]{.vocab tabindex="0" data-def="transmigration · n. 轮回"} from one age's language into the next. From somewhere below, a choir rose through the floorboards — a hymn that closed, as he knew it would, *with Love Divine.*

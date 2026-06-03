@@ -2,146 +2,30 @@
 
 
 
-> 本主题共 3 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 3 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### Between Storm and Starlight
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning broke **dim**, a pewter sky that swallowed every **ray** before it could reach the ground. Overnight **hail** had left the courtyard **awash**, and now a fine **mist** drifted in from the valley, turning the tree-line **misty** and soft. A low **haze** settled over the hills — the kind of **hazy** half-light that makes distances impossible to judge. **Drips** fell from the eaves in slow, uneven rhythm, each one landing in a puddle gone **soggy** from the night. The air was **muggy**, heavy with the smell of wet earth, though a **chill** still clung to the shadows where the warmth had not yet reached.
+The morning broke [dim]{.vocab tabindex="0" data-def="dim · adj. 暗淡的, 昏暗的, 不明亮的; 隐约的, 模糊不清的; &amp; 变暗淡, 变模糊 DIMabbr…"}, a pewter sky that swallowed every [ray]{.vocab tabindex="0" data-def="ray · n. 光束, 光线; 射线; 微量, 丝毫 Ray雷"} before it could reach the ground. Overnight [hail]{.vocab tabindex="0" data-def="hail · n. 冰雹；致敬；招呼；一阵; 招呼；猛发；致敬；向...欢呼；使像下雹样落下; 下雹；招呼; 欢迎；万岁"} had left the courtyard [awash]{.vocab tabindex="0" data-def="awash · adj. 与水面齐平的, 刚被水覆盖的; 很多的"}, and now a fine [mist]{.vocab tabindex="0" data-def="mist · n. 薄雾; 视线模糊不清; &amp; 蒙上薄雾, 模糊"} drifted in from the valley, turning the tree-line [misty]{.vocab tabindex="0" data-def="misty · adj. 模糊的；有雾的"} and soft. A low [haze]{.vocab tabindex="0" data-def="haze · n. 疑惑；阴霾；薄雾; 使变朦胧；使变糊涂; 变朦胧；变糊涂"} settled over the hills — the kind of [hazy]{.vocab tabindex="0" data-def="hazy · adj. 朦胧的；模糊的；有薄雾的"} half-light that makes distances impossible to judge. [Drips]{.vocab tabindex="0" data-def="drips · n. 水滴; 滴下；充满；给…打点滴"} fell from the eaves in slow, uneven rhythm, each one landing in a puddle gone [soggy]{.vocab tabindex="0" data-def="soggy · adj. 浸水的；透湿的；沉闷的"} from the night. The air was [muggy]{.vocab tabindex="0" data-def="muggy · adj. 闷热的；潮湿的"}, heavy with the smell of wet earth, though a [chill]{.vocab tabindex="0" data-def="chill · vt. &amp; 变冷, 变凉; 寒冷, 寒气; 寒颤, 发冷 CHILLCHILL语言"} still clung to the shadows where the warmth had not yet reached.
 
-By midday the sky changed its mind. The clouds tore open and sunlight hit the wet stones with a sudden **blaze**, its **fiery** edge hard to look at straight on. The **dazzle** lasted only minutes before a **noser** rolled in off the ridge — a strong headwind that scattered the **fumes** of chimney smoke sideways and made the **lamp** in the window gutter and **blur**. Then came **sleet**, quick and mean, rattling the glass before the temperature lifted and slow **thaws** turned the sleet to cold rain. Down in the creek the current quickened; **eddies** spun in the shallows, pulling leaves in tight circles. A **breeze** picked up behind the squall, and the **flush** of cold air finally broke the **muggy** weight that had pressed on the valley all morning.
+By midday the sky changed its mind. The clouds tore open and sunlight hit the wet stones with a sudden [blaze]{.vocab tabindex="0" data-def="blaze · n. 火焰, 烈火; 光辉, 闪耀; 迸发, 爆发; 猛烈地燃烧; 发光, 照耀"}, its [fiery]{.vocab tabindex="0" data-def="fiery · adj. 燃烧般的；热烈的，炽烈的；暴躁的"} edge hard to look at straight on. The [dazzle]{.vocab tabindex="0" data-def="dazzle · n. 耀眼的光；灿烂; 使……目眩；使……眼花; 炫耀；眼花缭乱"} lasted only minutes before a [noser]{.vocab tabindex="0" data-def="noser · n. 强烈逆风"} rolled in off the ridge — a strong headwind that scattered the [fumes]{.vocab tabindex="0" data-def="fumes · n. 烟气；激动；空想的事物; 蒸发；冒烟；发怒"} of chimney smoke sideways and made the [lamp]{.vocab tabindex="0" data-def="lamp · n. 灯；照射器; 照亮; 发亮"} in the window gutter and [blur]{.vocab tabindex="0" data-def="blur · vt. 涂污；使…模糊不清；使暗淡；玷污; 沾上污迹；变模糊; 污迹；模糊不清的事物"}. Then came [sleet]{.vocab tabindex="0" data-def="sleet · n. 雨夹雪或雹; 下雨夹雪；下冻雨"}, quick and mean, rattling the glass before the temperature lifted and slow [thaws]{.vocab tabindex="0" data-def="thaws · n. 融雪; 使融解，暖和"} turned the sleet to cold rain. Down in the creek the current quickened; [eddies]{.vocab tabindex="0" data-def="eddies · n. 旋涡；涡流; 使起旋涡；起旋涡"} spun in the shallows, pulling leaves in tight circles. A [breeze]{.vocab tabindex="0" data-def="breeze · n. 微风；轻而易举的事；煤屑；焦炭渣；小风波; 吹微风；逃走"} picked up behind the squall, and the [flush]{.vocab tabindex="0" data-def="flush · v. 脸红，发红; 冲; 冲洗净，冲洗; 冲走; 潮红，脸红; 一阵强烈情感，一阵激情; 冲; 同花的一手…"} of cold air finally broke the [muggy]{.vocab tabindex="0" data-def="muggy · adj. 闷热的；潮湿的"} weight that had pressed on the valley all morning.
 
-By dusk the storm was spent. In the west, the last clouds caught a **glow** from the sun already gone. A solar **flare** had been forecast, and sure enough, the upper atmosphere began to **flare** in pale curtains of green. Then — low and unhurried on the eastern horizon — a **comet** appeared, its tail a slow brushstroke across the dark. Someone ran out with a bucket of water to **douse** the bonfire; it hissed and died, and we stood in the sudden quiet, watching a sky so clear it felt borrowed. The **haster** that had rattled the shutters at noon was now only a memory of cold.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **dim** <span class="wpos">adj.</span> | 暗淡的, 昏暗的, 不明亮的; 隐约的, 模糊不清的; &amp; 变暗淡, 变模糊 DIMabbr… |
-| **ray** <span class="wpos">n.</span> | 光束, 光线; 射线; 微量, 丝毫 Ray雷 |
-| **blur** <span class="wpos">vt.</span> | 涂污；使…模糊不清；使暗淡；玷污; 沾上污迹；变模糊; 污迹；模糊不清的事物 |
-| **glow** <span class="wpos">vi.</span> | 燃烧；发炽热；烧红; 脸红，身体发热; 光亮，光辉; 脸红，发热; 热情；强烈的感情 |
-| **hail** <span class="wpos">n.</span> | 冰雹；致敬；招呼；一阵; 招呼；猛发；致敬；向...欢呼；使像下雹样落下; 下雹；招呼; 欢迎；万岁 |
-| **haze** <span class="wpos">n.</span> | 疑惑；阴霾；薄雾; 使变朦胧；使变糊涂; 变朦胧；变糊涂 |
-| **hazy** <span class="wpos">adj.</span> | 朦胧的；模糊的；有薄雾的 |
-| **lamp** <span class="wpos">n.</span> | 灯；照射器; 照亮; 发亮 |
-| **mist** <span class="wpos">n.</span> | 薄雾; 视线模糊不清; &amp; 蒙上薄雾, 模糊 |
-| **awash** <span class="wpos">adj.</span> | 与水面齐平的, 刚被水覆盖的; 很多的 |
-| **blaze** <span class="wpos">n.</span> | 火焰, 烈火; 光辉, 闪耀; 迸发, 爆发; 猛烈地燃烧; 发光, 照耀 |
-| **chill** <span class="wpos">vt.</span> | &amp; 变冷, 变凉; 寒冷, 寒气; 寒颤, 发冷 CHILLCHILL语言 |
-| **comet** <span class="wpos">n.</span> | 彗星 |
-| **douse** <span class="wpos">vt.</span> | 浇水在…上; 熄灯〔火〕 |
-| **drips** <span class="wpos">n.</span> | 水滴; 滴下；充满；给…打点滴 |
-| **fiery** <span class="wpos">adj.</span> | 燃烧般的；热烈的，炽烈的；暴躁的 |
-| **flare** <span class="wpos">vt.</span> | 使张开；使闪耀；用发光信号发出；使外倾; 闪耀，闪光；燃烧；突然发怒; 闪光，闪耀；耀斑；照明弹；爆… |
-| **flush** <span class="wpos">v.</span> | 脸红，发红; 冲; 冲洗净，冲洗; 冲走; 潮红，脸红; 一阵强烈情感，一阵激情; 冲; 同花的一手… |
-| **foggy** <span class="wpos">adj.</span> | 有雾的；模糊的，朦胧的 |
-| **fumes** <span class="wpos">n.</span> | 烟气；激动；空想的事物; 蒸发；冒烟；发怒 |
-| **misty** <span class="wpos">adj.</span> | 模糊的；有雾的 |
-| **muggy** <span class="wpos">adj.</span> | 闷热的；潮湿的 |
-| **noser** <span class="wpos">n.</span> | 强烈逆风 |
-| **sleet** <span class="wpos">n.</span> | 雨夹雪或雹; 下雨夹雪；下冻雨 |
-| **soggy** <span class="wpos">adj.</span> | 浸水的；透湿的；沉闷的 |
-| **thaws** <span class="wpos">n.</span> | 融雪; 使融解，暖和 |
-| **breeze** <span class="wpos">n.</span> | 微风；轻而易举的事；煤屑；焦炭渣；小风波; 吹微风；逃走 |
-| **dazzle** <span class="wpos">n.</span> | 耀眼的光；灿烂; 使……目眩；使……眼花; 炫耀；眼花缭乱 |
-| **eddies** <span class="wpos">n.</span> | 旋涡；涡流; 使起旋涡；起旋涡 |
-| **haster** <span class="wpos">n.</span> | 哈士德风暴 |
-:::
-:::
-::::
+By dusk the storm was spent. In the west, the last clouds caught a [glow]{.vocab tabindex="0" data-def="glow · vi. 燃烧；发炽热；烧红; 脸红，身体发热; 光亮，光辉; 脸红，发热; 热情；强烈的感情"} from the sun already gone. A solar [flare]{.vocab tabindex="0" data-def="flare · vt. 使张开；使闪耀；用发光信号发出；使外倾; 闪耀，闪光；燃烧；突然发怒; 闪光，闪耀；耀斑；照明弹；爆…"} had been forecast, and sure enough, the upper atmosphere began to [flare]{.vocab tabindex="0" data-def="flare · vt. 使张开；使闪耀；用发光信号发出；使外倾; 闪耀，闪光；燃烧；突然发怒; 闪光，闪耀；耀斑；照明弹；爆…"} in pale curtains of green. Then — low and unhurried on the eastern horizon — a [comet]{.vocab tabindex="0" data-def="comet · n. 彗星"} appeared, its tail a slow brushstroke across the dark. Someone ran out with a bucket of water to [douse]{.vocab tabindex="0" data-def="douse · vt. 浇水在…上; 熄灯〔火〕"} the bonfire; it hissed and died, and we stood in the sudden quiet, watching a sky so clear it felt borrowed. The [haster]{.vocab tabindex="0" data-def="haster · n. 哈士德风暴"} that had rattled the shutters at noon was now only a memory of cold.
 
 ### When the Sky Holds Nothing Back
 
-:::: {.columns}
-::: {.column width="57%"}
-The morning began with a low **rumble** rolling across the hills — not yet rain, but a warning. By midday the air had turned **sultry**, the kind of wet, clinging heat that makes every breath an effort. Overhead, the sky was **overcast**, a flat grey lid pressing down on the valley. On the ridge, a few **sunlit** patches still broke through, their **radiance** flickering like a **glimmer** of hope before clouds swallowed them whole. Where sunlight did reach the wet asphalt, it **glitter**ed briefly, and the shallow puddles **shimmer**ed in the shifting light.
+The morning began with a low [rumble]{.vocab tabindex="0" data-def="rumble · n. 隆隆声, 辘辘声; 发出隆隆声, 发出辘辘声"} rolling across the hills — not yet rain, but a warning. By midday the air had turned [sultry]{.vocab tabindex="0" data-def="sultry · adj. 闷热的；狂暴的；淫荡的"}, the kind of wet, clinging heat that makes every breath an effort. Overhead, the sky was [overcast]{.vocab tabindex="0" data-def="overcast · adj. 阴暗的；愁闷的；阴天的; 使沮丧；包缝；遮蔽"}, a flat grey lid pressing down on the valley. On the ridge, a few [sunlit]{.vocab tabindex="0" data-def="sunlit · adj. 阳光照射的；被日光照射了的"} patches still broke through, their [radiance]{.vocab tabindex="0" data-def="radiance · n. 发光;光辉; 辐射; 欣喜的神色"} flickering like a [glimmer]{.vocab tabindex="0" data-def="glimmer · n. 微光；闪光；少许; 闪烁；发微光"} of hope before clouds swallowed them whole. Where sunlight did reach the wet asphalt, it [glitter]{.vocab tabindex="0" data-def="glitter · vi. 闪烁；闪光; 闪光；灿烂"}ed briefly, and the shallow puddles [shimmer]{.vocab tabindex="0" data-def="shimmer · vi. 闪闪发光；发微光"}ed in the shifting light.
 
-Then the **monsoon** arrived in earnest. **Raindrop**s the size of coins hammered the earth; within minutes the trail was **drenched**, every leaf **dripping**. The river, already swollen, began to **overflow** its banks, threatening to **inundate** the lower fields. A **riptide** churned at the river bend where the current folded back on itself, forming a tight **vortex** that swallowed a floating branch whole. Farther upstream, **sleeting** rain mixed with the downpour, coating the higher rocks in grey slush. **Moisture** hung in the air long after the worst had passed, and the **iciness** of the wind off the peaks cut straight through wet clothing.
+Then the [monsoon]{.vocab tabindex="0" data-def="monsoon · n. 季候风；雨季；季风"} arrived in earnest. [Raindrop]{.vocab tabindex="0" data-def="raindrop · n. 雨滴；雨点"}s the size of coins hammered the earth; within minutes the trail was [drenched]{.vocab tabindex="0" data-def="drenched · adj. 湿透的；充满的; 浸湿；强使服药；覆盖"}, every leaf [dripping]{.vocab tabindex="0" data-def="dripping · n. 滴,滴下,滴下物,油滴"}. The river, already swollen, began to [overflow]{.vocab tabindex="0" data-def="overflow · vt. &amp; 溢出；淹没; 充满; 溢出; 溢出物; 容纳不下的人"} its banks, threatening to [inundate]{.vocab tabindex="0" data-def="inundate · vt. 泛滥；淹没；浸水；扑来"} the lower fields. A [riptide]{.vocab tabindex="0" data-def="riptide · n. 激流；洪涛"} churned at the river bend where the current folded back on itself, forming a tight [vortex]{.vocab tabindex="0" data-def="vortex · n. 涡流；漩涡；旋风；中心"} that swallowed a floating branch whole. Farther upstream, [sleeting]{.vocab tabindex="0" data-def="sleeting · v. 下雨夹雪"} rain mixed with the downpour, coating the higher rocks in grey slush. [Moisture]{.vocab tabindex="0" data-def="moisture · n. 潮湿；水分；降雨量；湿度"} hung in the air long after the worst had passed, and the [iciness]{.vocab tabindex="0" data-def="iciness · n. 冰冷的性质,冰冷,如冰"} of the wind off the peaks cut straight through wet clothing.
 
-The following week swung to the opposite extreme. A **blazing** sun turned the scrubland into a **torrid** expanse; by noon the ground was close to an **inferno**, the soil cracked and pale. The heat seemed to **scorch** every blade of grass it touched, leaving behind a brown, brittle memory of green. A **blizzard** of dust spiraled up from the dry riverbed — a **meteoric** gust that arrived without warning and vanished just as fast. By late afternoon a **blackout** rolled through the town below when lightning struck the substation; for an hour the valley sat in an eerie, **glowing** dusk that was neither day nor dark. At last the clouds broke, and a **sunshiny**, **swelter**-free evening settled in — golden, still, and mercifully brief.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **rumble** <span class="wpos">n.</span> | 隆隆声, 辘辘声; 发出隆隆声, 发出辘辘声 |
-| **scorch** <span class="wpos">vt.</span> | 烧焦；使枯萎；挖苦; 烧焦；枯萎; 烧焦；焦痕 |
-| **sultry** <span class="wpos">adj.</span> | 闷热的；狂暴的；淫荡的 |
-| **sunlit** <span class="wpos">adj.</span> | 阳光照射的；被日光照射了的 |
-| **torrid** <span class="wpos">adj.</span> | 晒热的；热情的 |
-| **vortex** <span class="wpos">n.</span> | 涡流；漩涡；旋风；中心 |
-| **blazing** <span class="wpos">adj.</span> | 燃烧的；强烈的；闪耀的; 非常; 燃烧；闪耀；迸发；公开 |
-| **glimmer** <span class="wpos">n.</span> | 微光；闪光；少许; 闪烁；发微光 |
-| **glitter** <span class="wpos">vi.</span> | 闪烁；闪光; 闪光；灿烂 |
-| **glowing** <span class="wpos">adj.</span> | 热烈赞扬的,热情洋溢的; 夸奖；美言；赞美; 热情洋溢地 |
-| **iciness** <span class="wpos">n.</span> | 冰冷的性质,冰冷,如冰 |
-| **inferno** <span class="wpos">n.</span> | 阴间，地狱 Inferno胺吸磷 |
-| **monsoon** <span class="wpos">n.</span> | 季候风；雨季；季风 |
-| **riptide** <span class="wpos">n.</span> | 激流；洪涛 |
-| **searing** <span class="wpos">adj.</span> | 灼热的; 使枯萎 |
-| **shimmer** <span class="wpos">vi.</span> | 闪闪发光；发微光 |
-| **swelter** <span class="wpos">n.</span> | 闷热；热得难受; 被暑气所苦；热得难受; 使闷热；使中暑 |
-| **blackout** <span class="wpos">n.</span> | 断电;停电; 新闻封锁; 灯火管制; 暂时性眼前昏黑;突然发昏; 停止; 不透光窗罩〔窗帘〕 |
-| **blizzard** <span class="wpos">n.</span> | 暴风雪; 暴风雪似的一阵;大量 |
-| **drenched** <span class="wpos">adj.</span> | 湿透的；充满的; 浸湿；强使服药；覆盖 |
-| **dripping** <span class="wpos">n.</span> | 滴,滴下,滴下物,油滴 |
-| **inundate** <span class="wpos">vt.</span> | 泛滥；淹没；浸水；扑来 |
-| **meteoric** <span class="wpos">adj.</span> | 流星的；疾速的；大气的 |
-| **moisture** <span class="wpos">n.</span> | 潮湿；水分；降雨量；湿度 |
-| **overcast** <span class="wpos">adj.</span> | 阴暗的；愁闷的；阴天的; 使沮丧；包缝；遮蔽 |
-| **overflow** <span class="wpos">vt.</span> | &amp; 溢出；淹没; 充满; 溢出; 溢出物; 容纳不下的人 |
-| **radiance** <span class="wpos">n.</span> | 发光;光辉; 辐射; 欣喜的神色 |
-| **raindrop** <span class="wpos">n.</span> | 雨滴；雨点 |
-| **sleeting** <span class="wpos">v.</span> | 下雨夹雪 |
-| **sunshiny** <span class="wpos">adj.</span> | 阳光照耀的,晴朗的,向阳极好的 |
-:::
-:::
-::::
+The following week swung to the opposite extreme. A [blazing]{.vocab tabindex="0" data-def="blazing · adj. 燃烧的；强烈的；闪耀的; 非常; 燃烧；闪耀；迸发；公开"} sun turned the scrubland into a [torrid]{.vocab tabindex="0" data-def="torrid · adj. 晒热的；热情的"} expanse; by noon the ground was close to an [inferno]{.vocab tabindex="0" data-def="inferno · n. 阴间，地狱 Inferno胺吸磷"}, the soil cracked and pale. The heat seemed to [scorch]{.vocab tabindex="0" data-def="scorch · vt. 烧焦；使枯萎；挖苦; 烧焦；枯萎; 烧焦；焦痕"} every blade of grass it touched, leaving behind a brown, brittle memory of green. A [blizzard]{.vocab tabindex="0" data-def="blizzard · n. 暴风雪; 暴风雪似的一阵;大量"} of dust spiraled up from the dry riverbed — a [meteoric]{.vocab tabindex="0" data-def="meteoric · adj. 流星的；疾速的；大气的"} gust that arrived without warning and vanished just as fast. By late afternoon a [blackout]{.vocab tabindex="0" data-def="blackout · n. 断电;停电; 新闻封锁; 灯火管制; 暂时性眼前昏黑;突然发昏; 停止; 不透光窗罩〔窗帘〕"} rolled through the town below when lightning struck the substation; for an hour the valley sat in an eerie, [glowing]{.vocab tabindex="0" data-def="glowing · adj. 热烈赞扬的,热情洋溢的; 夸奖；美言；赞美; 热情洋溢地"} dusk that was neither day nor dark. At last the clouds broke, and a [sunshiny]{.vocab tabindex="0" data-def="sunshiny · adj. 阳光照耀的,晴朗的,向阳极好的"}, [swelter]{.vocab tabindex="0" data-def="swelter · n. 闷热；热得难受; 被暑气所苦；热得难受; 使闷热；使中暑"}-free evening settled in — golden, still, and mercifully brief.
 
 ### When the Storm Passed and the Stars Appeared
 
-:::: {.columns}
-::: {.column width="57%"}
-The **meteorologist** on duty had warned of **inclemency** since dawn, and by afternoon the sky delivered on every threat. A **hurricane** tore in from the coast without ceremony, its **whirlwind** arms sweeping rooftops and uprooting palms. The **sweltering** heat that had pressed down all week vanished in minutes, replaced by a **drenching** that left the streets **inundated**. Gutters became rivers; car parks turned into shallow seas. Where the current met a bend in the road, a slow **whirlpool** spun debris in lazy circles. The town's fire crew reached for every **extinguisher** they owned, not for flames but to clear pressure from flooded pumping stations — a strange, desperate image in the middle of so much water.
+The [meteorologist]{.vocab tabindex="0" data-def="meteorologist · n. 气象学者"} on duty had warned of [inclemency]{.vocab tabindex="0" data-def="inclemency · n. 险恶,严酷"} since dawn, and by afternoon the sky delivered on every threat. A [hurricane]{.vocab tabindex="0" data-def="hurricane · n. 飓风, 旋风"} tore in from the coast without ceremony, its [whirlwind]{.vocab tabindex="0" data-def="whirlwind · n. 旋风"} arms sweeping rooftops and uprooting palms. The [sweltering]{.vocab tabindex="0" data-def="sweltering · adj. 闷热的; 热得没气力的"} heat that had pressed down all week vanished in minutes, replaced by a [drenching]{.vocab tabindex="0" data-def="drenching · n. 湿透"} that left the streets [inundated]{.vocab tabindex="0" data-def="inundated 洪泛的"}. Gutters became rivers; car parks turned into shallow seas. Where the current met a bend in the road, a slow [whirlpool]{.vocab tabindex="0" data-def="whirlpool · n. 漩涡"} spun debris in lazy circles. The town's fire crew reached for every [extinguisher]{.vocab tabindex="0" data-def="extinguisher · n. 熄火者，扑火者；消火者；消火器；熄火器，灭火器"} they owned, not for flames but to clear pressure from flooded pumping stations — a strange, desperate image in the middle of so much water.
 
-By nightfall the worst had passed, though the ground remained **stone-cold** and sodden. A desert traveller elsewhere might have called the remaining gusts a **willy-willy** — nothing more than a sand-devil — but here it still carried a bite. The **meteorologic** models had tracked the storm's **stratospheric** origins accurately enough; what no model captured was the particular quality of the **twilight** that followed: the sky a bruised violet, every puddle **glistening** as though lit from below. **Precipitation** totals broke records for the month, and the slow **inundation** of the lower valley would take days to drain.
+By nightfall the worst had passed, though the ground remained [stone-cold]{.vocab tabindex="0" data-def="stone-cold · adj. 冰冷如石的"} and sodden. A desert traveller elsewhere might have called the remaining gusts a [willy-willy]{.vocab tabindex="0" data-def="willy-willy · n. ①畏来风②沙漠旋风"} — nothing more than a sand-devil — but here it still carried a bite. The [meteorologic]{.vocab tabindex="0" data-def="meteorologic · adj. 气象的,气象学的"} models had tracked the storm's [stratospheric]{.vocab tabindex="0" data-def="stratospheric · adj. 同温层的"} origins accurately enough; what no model captured was the particular quality of the [twilight]{.vocab tabindex="0" data-def="twilight · n. 黄昏，暮色；衰退期，朦胧状态 虚幻的；模糊的，朦胧的"} that followed: the sky a bruised violet, every puddle [glistening]{.vocab tabindex="0" data-def="glistening · adj. 闪耀的,反光的"} as though lit from below. [Precipitation]{.vocab tabindex="0" data-def="precipitation · n. 匆促，仓促，鲁莽; 沉淀，析出; 降落；某地区降雨等的量"} totals broke records for the month, and the slow [inundation]{.vocab tabindex="0" data-def="inundation · n. 淹没，泛滥; 洪水; 扑来；压倒"} of the lower valley would take days to drain.
 
-Later, a small group climbed the ridge for an evening of **stargazing**. The washed air had stripped away every trace of haze, and **constellation** after **constellation** emerged with unusual sharpness — Scorpius low on the horizon, Orion just clearing the treeline. Someone mentioned **interplanetary space** in the casual way people do when the sky suddenly feels less abstract, its distances more real than the flood-line still visible on the garden wall below.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **twilight** <span class="wpos">n.</span> | 黄昏，暮色；衰退期，朦胧状态 虚幻的；模糊的，朦胧的 |
-| **drenching** <span class="wpos">n.</span> | 湿透 |
-| **hurricane** <span class="wpos">n.</span> | 飓风, 旋风 |
-| **inundated** | 洪泛的 |
-| **whirlpool** <span class="wpos">n.</span> | 漩涡 |
-| **whirlwind** <span class="wpos">n.</span> | 旋风 |
-| **glistening** <span class="wpos">adj.</span> | 闪耀的,反光的 |
-| **inclemency** <span class="wpos">n.</span> | 险恶,严酷 |
-| **inundation** <span class="wpos">n.</span> | 淹没，泛滥; 洪水; 扑来；压倒 |
-| **stargazing** <span class="wpos">n.</span> | 耽于幻想 |
-| **stone-cold** <span class="wpos">adj.</span> | 冰冷如石的 |
-| **sweltering** <span class="wpos">adj.</span> | 闷热的; 热得没气力的 |
-| **willy-willy** <span class="wpos">n.</span> | ①畏来风②沙漠旋风 |
-| **extinguisher** <span class="wpos">n.</span> | 熄火者，扑火者；消火者；消火器；熄火器，灭火器 |
-| **meteorologic** <span class="wpos">adj.</span> | 气象的,气象学的 |
-| **constellation** <span class="wpos">n.</span> | 星座; 一群杰出人物 |
-| **meteorologist** <span class="wpos">n.</span> | 气象学者 |
-| **precipitation** <span class="wpos">n.</span> | 匆促，仓促，鲁莽; 沉淀，析出; 降落；某地区降雨等的量 |
-| **stratospheric** <span class="wpos">adj.</span> | 同温层的 |
-| **interplanetary space** | 行星际空间；太空 |
-:::
-:::
-::::
+Later, a small group climbed the ridge for an evening of [stargazing]{.vocab tabindex="0" data-def="stargazing · n. 耽于幻想"}. The washed air had stripped away every trace of haze, and [constellation]{.vocab tabindex="0" data-def="constellation · n. 星座; 一群杰出人物"} after [constellation]{.vocab tabindex="0" data-def="constellation · n. 星座; 一群杰出人物"} emerged with unusual sharpness — Scorpius low on the horizon, Orion just clearing the treeline. Someone mentioned [interplanetary space]{.vocab tabindex="0" data-def="interplanetary space 行星际空间；太空"} in the casual way people do when the sky suddenly feels less abstract, its distances more real than the flood-line still visible on the garden wall below.

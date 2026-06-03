@@ -2,504 +2,88 @@
 
 
 
-> 本主题共 10 篇语境短文。每篇把一批旧词织进一个场景：**左栏**读短文（目标词加粗），**右栏**常驻该篇生词释义，可先猜后对照。
+> 本主题共 10 篇语境短文。通读短文，**鼠标悬停（触屏点按）加粗词**即可弹出它的释义——先凭语境猜，再悬停对照。
 
 
 
 ### A Walk Through Living and Dying Landscapes
 
-:::: {.columns}
-::: {.column width="57%"}
-The mountain trail begins where three paths converge at an old fire pit, its **ash** still faintly warm from the previous night. On either side of the path, tight **bud**s push through the soil — the first green fists of spring punching out of last season's **rot**. A **tit** lands on a branch above, tilting its head at a patch of **alga** clinging to the damp stone wall beside the stream. Somewhere deeper in the **dell**, a **cock** calls before the sun has fully cleared the ridge, and a **hawk** answers nothing, only banks silently on a thermal and disappears over the **tor**.
+The mountain trail begins where three paths converge at an old fire pit, its [ash]{.vocab tabindex="0" data-def="ash · n. 灰; 灰烬, 废墟; 骨灰"} still faintly warm from the previous night. On either side of the path, tight [bud]{.vocab tabindex="0" data-def="bud · n. 芽，萌芽；蓓蕾; 发芽，萌芽; 使发芽"}s push through the soil — the first green fists of spring punching out of last season's [rot]{.vocab tabindex="0" data-def="rot · n. 腐烂, 腐朽; &amp; 腐烂, 腐朽"}. A [tit]{.vocab tabindex="0" data-def="tit · n. 山雀；各种小鸟；乳头；小马；少妇；轻打"} lands on a branch above, tilting its head at a patch of [alga]{.vocab tabindex="0" data-def="alga · n. 水藻"} clinging to the damp stone wall beside the stream. Somewhere deeper in the [dell]{.vocab tabindex="0" data-def="dell · n. 有树林的小谷地"}, a [cock]{.vocab tabindex="0" data-def="cock · n. 公鸡; 使某物竖起; 使某物倾斜, 歪斜"} calls before the sun has fully cleared the ridge, and a [hawk]{.vocab tabindex="0" data-def="hawk · n. 鹰; 鹰派人物, 主战派人物; 沿街叫卖"} answers nothing, only banks silently on a thermal and disappears over the [tor]{.vocab tabindex="0" data-def="tor · n. 石山,突岩 TORabbr. Take-off Run 起飞滑跑 Tor结鱼属"}.
 
-Down by the water the world grows stranger. An **eel** threads between the rocks, its body a slow ribbon of muscle. A cloud of **brit** drifts near the surface, and a duck dips her **beak** into the shallows, scooping them up. Her **pug**-faced rival — a broad, flat-nosed drake — **bark**s at a **pup** that has waded too deep. The **pup** yelps, scrambles back to the bank, and shakes **dust** from its fur. A **flea** leaps from the wet coat onto a clump of dried **hemp** stalks at the water's edge. Overhead, bees **buzz** through the **fowl**-yard flowers beyond the fence, where a **cow** stands chewing, indifferent to everything.
+Down by the water the world grows stranger. An [eel]{.vocab tabindex="0" data-def="eel · n. 鳝鱼；鳗鱼 EELabbr. Engineering Electronics Laboratory …"} threads between the rocks, its body a slow ribbon of muscle. A cloud of [brit]{.vocab tabindex="0" data-def="brit · n. 小鲱鱼,海中微生物"} drifts near the surface, and a duck dips her [beak]{.vocab tabindex="0" data-def="beak · n. 鸟嘴；鹰钩鼻子；地方执法官；男教师"} into the shallows, scooping them up. Her [pug]{.vocab tabindex="0" data-def="pug · n. 哈巴狗；狮子鼻；泥料；脚印; 跟踪追寻；捣，拌; 舒服的；贴身的；往上翘的"}-faced rival — a broad, flat-nosed drake — [bark]{.vocab tabindex="0" data-def="bark · vi. 吠叫; 大声喊出; 犬吠声, 狐狸的嗥叫声; 树皮"}s at a [pup]{.vocab tabindex="0" data-def="pup · n. 小狗；幼畜; 生; 生小狗 PUPabbr. Pacific Utilization Plan 太平…"} that has waded too deep. The [pup]{.vocab tabindex="0" data-def="pup · n. 小狗；幼畜; 生; 生小狗 PUPabbr. Pacific Utilization Plan 太平…"} yelps, scrambles back to the bank, and shakes [dust]{.vocab tabindex="0" data-def="dust · n. 灰尘, 尘土, 尘埃; 遗骸; &amp; 拂, 掸; 撒于"} from its fur. A [flea]{.vocab tabindex="0" data-def="flea · n. 跳蚤; 爱财如命; 没好气地"} leaps from the wet coat onto a clump of dried [hemp]{.vocab tabindex="0" data-def="hemp · n. 大麻；麻类植物；大麻烟卷; 大麻类植物的"} stalks at the water's edge. Overhead, bees [buzz]{.vocab tabindex="0" data-def="buzz · v. 发嗡嗡声；发蜂鸣声; 用蜂鸣器发信号; 繁忙；充满活力; 低空飞过; 将头发剪得非常短; 嗡嗡声；蜂…"} through the [fowl]{.vocab tabindex="0" data-def="fowl · n. 鸟；家禽；飞禽; 打鸟；捕野禽"}-yard flowers beyond the fence, where a [cow]{.vocab tabindex="0" data-def="cow · n. 奶牛，母牛；母兽; 威胁，恐吓"} stands chewing, indifferent to everything.
 
-The trail climbs toward **firn** country, where snow compacts into something harder than memory. Up here the land is **arid** and bare; only a smear of **alga** on the leeward face of each boulder proves that life is still trying. The sun hangs like a copper **orb** behind thin cloud. A **mew** drifts from a gull circling the snowfield. Far below, a **fin** slices the glacial lake — a trout, maybe, or something older. In the cold air the **hump** of the ridge ahead looks almost animal, and the wind in the **bark** of the lone pine near the summit sounds, briefly, like something answering back.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **ash** <span class="wpos">n.</span> | 灰; 灰烬, 废墟; 骨灰 |
-| **bud** <span class="wpos">n.</span> | 芽，萌芽；蓓蕾; 发芽，萌芽; 使发芽 |
-| **cow** <span class="wpos">n.</span> | 奶牛，母牛；母兽; 威胁，恐吓 |
-| **eel** <span class="wpos">n.</span> | 鳝鱼；鳗鱼 EELabbr. Engineering Electronics Laboratory … |
-| **fin** <span class="wpos">n.</span> | 鳍；鱼翅；鳍状物; 切除鳍；装上翅; 猛挥鳍；潜泳 |
-| **mew** <span class="wpos">n.</span> | 猫或海鸟的叫声; 作猫或海鸟叫；咪咪叫 |
-| **orb** <span class="wpos">n.</span> | 球,天体,圆形物; 弄圆,成球形,围着,〈古〉沿着轨道移动 ORBabbr. Oceanograph… |
-| **pug** <span class="wpos">n.</span> | 哈巴狗；狮子鼻；泥料；脚印; 跟踪追寻；捣，拌; 舒服的；贴身的；往上翘的 |
-| **pup** <span class="wpos">n.</span> | 小狗；幼畜; 生; 生小狗 PUPabbr. Pacific Utilization Plan 太平… |
-| **rot** <span class="wpos">n.</span> | 腐烂, 腐朽; &amp; 腐烂, 腐朽 |
-| **tit** <span class="wpos">n.</span> | 山雀；各种小鸟；乳头；小马；少妇；轻打 |
-| **tor** <span class="wpos">n.</span> | 石山,突岩 TORabbr. Take-off Run 起飞滑跑 Tor结鱼属 |
-| **alga** <span class="wpos">n.</span> | 水藻 |
-| **arid** <span class="wpos">adj.</span> | 干旱的；不毛的，荒芜的 |
-| **bark** <span class="wpos">vi.</span> | 吠叫; 大声喊出; 犬吠声, 狐狸的嗥叫声; 树皮 |
-| **beak** <span class="wpos">n.</span> | 鸟嘴；鹰钩鼻子；地方执法官；男教师 |
-| **brit** <span class="wpos">n.</span> | 小鲱鱼,海中微生物 |
-| **buzz** <span class="wpos">v.</span> | 发嗡嗡声；发蜂鸣声; 用蜂鸣器发信号; 繁忙；充满活力; 低空飞过; 将头发剪得非常短; 嗡嗡声；蜂… |
-| **cock** <span class="wpos">n.</span> | 公鸡; 使某物竖起; 使某物倾斜, 歪斜 |
-| **crop** <span class="wpos">n.</span> | 农作物；庄稼；产量；平头; 种植；收割；修剪；剪短; 收获 |
-| **dawg** <span class="wpos">n.</span> | 〈口〉狗 |
-| **dell** <span class="wpos">n.</span> | 有树林的小谷地 |
-| **duck** <span class="wpos">n.</span> | 鸭子；鸭肉；宝贝儿；零分; 闪避；没入水中; 躲避；猛按…入水 |
-| **dust** <span class="wpos">n.</span> | 灰尘, 尘土, 尘埃; 遗骸; &amp; 拂, 掸; 撒于 |
-| **firn** <span class="wpos">n.</span> | 粒雪,积雪,冰原,万年雪 |
-| **flea** <span class="wpos">n.</span> | 跳蚤; 爱财如命; 没好气地 |
-| **fowl** <span class="wpos">n.</span> | 鸟；家禽；飞禽; 打鸟；捕野禽 |
-| **hawk** <span class="wpos">n.</span> | 鹰; 鹰派人物, 主战派人物; 沿街叫卖 |
-| **hemp** <span class="wpos">n.</span> | 大麻；麻类植物；大麻烟卷; 大麻类植物的 |
-| **hump** <span class="wpos">n.</span> | 动物背部的隆肉; 恼怒; 度过最长的阶段; 搬运 |
-:::
-:::
-::::
+The trail climbs toward [firn]{.vocab tabindex="0" data-def="firn · n. 粒雪,积雪,冰原,万年雪"} country, where snow compacts into something harder than memory. Up here the land is [arid]{.vocab tabindex="0" data-def="arid · adj. 干旱的；不毛的，荒芜的"} and bare; only a smear of [alga]{.vocab tabindex="0" data-def="alga · n. 水藻"} on the leeward face of each boulder proves that life is still trying. The sun hangs like a copper [orb]{.vocab tabindex="0" data-def="orb · n. 球,天体,圆形物; 弄圆,成球形,围着,〈古〉沿着轨道移动 ORBabbr. Oceanograph…"} behind thin cloud. A [mew]{.vocab tabindex="0" data-def="mew · n. 猫或海鸟的叫声; 作猫或海鸟叫；咪咪叫"} drifts from a gull circling the snowfield. Far below, a [fin]{.vocab tabindex="0" data-def="fin · n. 鳍；鱼翅；鳍状物; 切除鳍；装上翅; 猛挥鳍；潜泳"} slices the glacial lake — a trout, maybe, or something older. In the cold air the [hump]{.vocab tabindex="0" data-def="hump · n. 动物背部的隆肉; 恼怒; 度过最长的阶段; 搬运"} of the ridge ahead looks almost animal, and the wind in the [bark]{.vocab tabindex="0" data-def="bark · vi. 吠叫; 大声喊出; 犬吠声, 狐狸的嗥叫声; 树皮"} of the lone pine near the summit sounds, briefly, like something answering back.
 
 ### A Morning in the Wild Margin
 
-:::: {.columns}
-::: {.column width="57%"}
-The sun had barely cleared the **peak** when I set out along the field's edge. The dew still clung to the **lawn** beside the old farmhouse, and clumps of **iris** stood upright against the fence, their violet tongues catching the light. A little further on, **lily** flowers hung in loose bells over the bank of a **brook** that chattered through the meadow. Tangles of **vine** and **ferns** draped the stone wall behind them, and a lone **daisy** had pushed up through a crack in the mortar.
+The sun had barely cleared the [peak]{.vocab tabindex="0" data-def="peak · n. 顶点；山峰；最高点；帽舌; 使达到最高点；使竖起; 消瘦；到达最高点；变憔悴; 最高的；最大值的"} when I set out along the field's edge. The dew still clung to the [lawn]{.vocab tabindex="0" data-def="lawn · n. 草坪；草地"} beside the old farmhouse, and clumps of [iris]{.vocab tabindex="0" data-def="iris · n. 鸢尾; 虹膜 Irisn 艾里斯"} stood upright against the fence, their violet tongues catching the light. A little further on, [lily]{.vocab tabindex="0" data-def="lily · n. 百合花"} flowers hung in loose bells over the bank of a [brook]{.vocab tabindex="0" data-def="brook · vt. 忍受；容忍; 小溪；小河"} that chattered through the meadow. Tangles of [vine]{.vocab tabindex="0" data-def="vine · n. 葡萄树；藤本植物；攀缘植物；藤; 长成藤蔓；爬藤"} and [ferns]{.vocab tabindex="0" data-def="ferns 蕨类"} draped the stone wall behind them, and a lone [daisy]{.vocab tabindex="0" data-def="daisy · n. 雏菊;菊科植物; 非常新鲜; 精神饱满；干净整洁 Daisyn. 戴西"} had pushed up through a crack in the mortar.
 
-I followed the water into wetter ground. The path grew soft underfoot—almost a **mire**—and I watched where I stepped. A **newt** slid off a mossy rock into the shallows, leaving the faintest ripple. Somewhere in the mud a **mole** had been busy: fresh casts dotted the bank like small volcanos. On the far side of the **creek**, a knot of **cacti** had escaped some garden and taken hold on the dry gravel slope above the flood line. A **slug** traced a silver thread across a dock leaf, unhurried and indifferent. A **tern** cut low overhead, banked hard, and was gone.
+I followed the water into wetter ground. The path grew soft underfoot—almost a [mire]{.vocab tabindex="0" data-def="mire · n. 泥潭；泥沼; 陷于泥坑；陷入困境; 使陷于泥坑；使陷入困境"}—and I watched where I stepped. A [newt]{.vocab tabindex="0" data-def="newt · n. 蝾螈"} slid off a mossy rock into the shallows, leaving the faintest ripple. Somewhere in the mud a [mole]{.vocab tabindex="0" data-def="mole · n. 鼹鼠; 色素痣; 间谍；内奸; 摩尔 Mole莫尔式管道测弯仪"} had been busy: fresh casts dotted the bank like small volcanos. On the far side of the [creek]{.vocab tabindex="0" data-def="creek · n. 〈英〉小湾, 小港; 〈美〉小河, 小溪 Creek克里克语,克里克联盟的印第安人"}, a knot of [cacti]{.vocab tabindex="0" data-def="cacti · n. 仙人掌"} had escaped some garden and taken hold on the dry gravel slope above the flood line. A [slug]{.vocab tabindex="0" data-def="slug · n. 鼻涕虫；动作缓慢的人；金属小块; 偷懒；动作迟缓; 重击"} traced a silver thread across a dock leaf, unhurried and indifferent. A [tern]{.vocab tabindex="0" data-def="tern · n. 三个一组；燕鸥; 三个一套的"} cut low overhead, banked hard, and was gone.
 
-The **brant** were grazing the stubble field beyond the hedge—fifteen or twenty birds, heads down among last year's **crops**. A small herd of **bison** stood further back, massive and still, their breath steaming. A **chimp** would have found this landscape unreadable, but the animals here seemed wholly at ease. Near the water's edge I could see where a **cisco** had jumped: a silver arc, then nothing. A **bunny** bolted from the **weed**s I disturbed; the green **stem** of a reed snapped back after it passed. Something in the air carried an **odor**—not **olid** exactly, just rich, fermented, alive. I noticed a **tick** had attached itself to my sleeve and flicked it away. In the mud I found the broad gouge of a **tusk**, probably a feral pig rooting through the night. The **pest** damage to the reed bed was obvious: whole stands bent and broken.
+The [brant]{.vocab tabindex="0" data-def="brant · n. 黑雁 Brant布兰特, 约瑟夫 莫霍克族领袖, 在法印战争和美国革命中支持英军)"} were grazing the stubble field beyond the hedge—fifteen or twenty birds, heads down among last year's [crops]{.vocab tabindex="0" data-def="crops · n. 收成；切头；农作物; 收割；修剪；产庄稼；种植"}. A small herd of [bison]{.vocab tabindex="0" data-def="bison · n. 北美野牛；欧洲野牛"} stood further back, massive and still, their breath steaming. A [chimp]{.vocab tabindex="0" data-def="chimp · n. 黑猩猩"} would have found this landscape unreadable, but the animals here seemed wholly at ease. Near the water's edge I could see where a [cisco]{.vocab tabindex="0" data-def="cisco · n. 加拿大白鲑；Cisco公司 Ciscon. 企业网络产品的全球领先供应商"} had jumped: a silver arc, then nothing. A [bunny]{.vocab tabindex="0" data-def="bunny · n. 兔子"} bolted from the [weed]{.vocab tabindex="0" data-def="weed · vt. 除草；铲除; 杂草，野草；菸草; 除草"}s I disturbed; the green [stem]{.vocab tabindex="0" data-def="stem · n. 茎, 干; 词干; 遏制"} of a reed snapped back after it passed. Something in the air carried an [odor]{.vocab tabindex="0" data-def="odor · n. 气味；名声"}—not [olid]{.vocab tabindex="0" data-def="olid · adj. 臭的，恶臭的"} exactly, just rich, fermented, alive. I noticed a [tick]{.vocab tabindex="0" data-def="tick · vt. 标记号于；滴答地记录; 滴答声；记号；扁虱；赊欠; 发出滴答声；标以记号"} had attached itself to my sleeve and flicked it away. In the mud I found the broad gouge of a [tusk]{.vocab tabindex="0" data-def="tusk · n. 长牙；獠牙; 尖形物；尖头; 用牙抵；用牙掘; 有獠牙的，有长牙的"}, probably a feral pig rooting through the night. The [pest]{.vocab tabindex="0" data-def="pest · n. 害虫；有害之物；讨厌的人 PEST 宏观环境的分析方法"} damage to the reed bed was obvious: whole stands bent and broken.
 
-A **bison** bull lifted his head as I passed. Above the tree line, a pair of **tern**s rode a thermal toward the summit. I checked the **fauna** list in my notebook, added **brant**, and turned back. The brook was still talking. The **iris** glowed. The morning held.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **iris** <span class="wpos">n.</span> | 鸢尾; 虹膜 Irisn 艾里斯 |
-| **lawn** <span class="wpos">n.</span> | 草坪；草地 |
-| **lily** <span class="wpos">n.</span> | 百合花 |
-| **mire** <span class="wpos">n.</span> | 泥潭；泥沼; 陷于泥坑；陷入困境; 使陷于泥坑；使陷入困境 |
-| **mole** <span class="wpos">n.</span> | 鼹鼠; 色素痣; 间谍；内奸; 摩尔 Mole莫尔式管道测弯仪 |
-| **newt** <span class="wpos">n.</span> | 蝾螈 |
-| **odor** <span class="wpos">n.</span> | 气味；名声 |
-| **olid** <span class="wpos">adj.</span> | 臭的，恶臭的 |
-| **peak** <span class="wpos">n.</span> | 顶点；山峰；最高点；帽舌; 使达到最高点；使竖起; 消瘦；到达最高点；变憔悴; 最高的；最大值的 |
-| **pest** <span class="wpos">n.</span> | 害虫；有害之物；讨厌的人 PEST 宏观环境的分析方法 |
-| **slug** <span class="wpos">n.</span> | 鼻涕虫；动作缓慢的人；金属小块; 偷懒；动作迟缓; 重击 |
-| **stem** <span class="wpos">n.</span> | 茎, 干; 词干; 遏制 |
-| **tern** <span class="wpos">n.</span> | 三个一组；燕鸥; 三个一套的 |
-| **tick** <span class="wpos">vt.</span> | 标记号于；滴答地记录; 滴答声；记号；扁虱；赊欠; 发出滴答声；标以记号 |
-| **tusk** <span class="wpos">n.</span> | 长牙；獠牙; 尖形物；尖头; 用牙抵；用牙掘; 有獠牙的，有长牙的 |
-| **vine** <span class="wpos">n.</span> | 葡萄树；藤本植物；攀缘植物；藤; 长成藤蔓；爬藤 |
-| **weed** <span class="wpos">vt.</span> | 除草；铲除; 杂草，野草；菸草; 除草 |
-| **acorn** <span class="wpos">n.</span> | 橡子, 栎实 |
-| **bison** <span class="wpos">n.</span> | 北美野牛；欧洲野牛 |
-| **brant** <span class="wpos">n.</span> | 黑雁 Brant布兰特, 约瑟夫 莫霍克族领袖, 在法印战争和美国革命中支持英军) |
-| **brook** <span class="wpos">vt.</span> | 忍受；容忍; 小溪；小河 |
-| **bunny** <span class="wpos">n.</span> | 兔子 |
-| **cacti** <span class="wpos">n.</span> | 仙人掌 |
-| **chimp** <span class="wpos">n.</span> | 黑猩猩 |
-| **cisco** <span class="wpos">n.</span> | 加拿大白鲑；Cisco公司 Ciscon. 企业网络产品的全球领先供应商 |
-| **creek** <span class="wpos">n.</span> | 〈英〉小湾, 小港; 〈美〉小河, 小溪 Creek克里克语,克里克联盟的印第安人 |
-| **crops** <span class="wpos">n.</span> | 收成；切头；农作物; 收割；修剪；产庄稼；种植 |
-| **daisy** <span class="wpos">n.</span> | 雏菊;菊科植物; 非常新鲜; 精神饱满；干净整洁 Daisyn. 戴西 |
-| **fauna** <span class="wpos">n.</span> | 动物群 |
-| **ferns** | 蕨类 |
-:::
-:::
-::::
+A [bison]{.vocab tabindex="0" data-def="bison · n. 北美野牛；欧洲野牛"} bull lifted his head as I passed. Above the tree line, a pair of [tern]{.vocab tabindex="0" data-def="tern · n. 三个一组；燕鸥; 三个一套的"}s rode a thermal toward the summit. I checked the [fauna]{.vocab tabindex="0" data-def="fauna · n. 动物群"} list in my notebook, added [brant]{.vocab tabindex="0" data-def="brant · n. 黑雁 Brant布兰特, 约瑟夫 莫霍克族领袖, 在法印战争和美国革命中支持英军)"}, and turned back. The brook was still talking. The [iris]{.vocab tabindex="0" data-def="iris · n. 鸢尾; 虹膜 Irisn 艾里斯"} glowed. The morning held.
 
 ### A Walk Through Living Land
 
-:::: {.columns}
-::: {.column width="57%"}
-At dawn, a **flock** of geese crosses the sky above a **taiga** where spruce and larch crowd the horizon. Below the canopy, the **flora** is sparse but stubborn: patches of **pansy** push through the duff, their purple **petal**s trembling in a cold draft that carries the resinous **scent** of pine. Further south, a fringe of **grove**s gives way to open ground, and the soil shifts — dark **humus** packed over pale **loess** — as the land gradually descends toward water.
+At dawn, a [flock]{.vocab tabindex="0" data-def="flock · n. 群；棉束; 用棉束填满; 聚集；成群而行 Flock弗洛克"} of geese crosses the sky above a [taiga]{.vocab tabindex="0" data-def="taiga · n. 针叶树林地带"} where spruce and larch crowd the horizon. Below the canopy, the [flora]{.vocab tabindex="0" data-def="flora · n. 植物群;植物区系; 植物志 Floran. 弗洛拉"} is sparse but stubborn: patches of [pansy]{.vocab tabindex="0" data-def="pansy · n. 三色堇；同性恋男子；三色紫罗兰; 打扮; 打扮; 女性化的；搞同性恋的；爱打扮的 Pansy潘西"} push through the duff, their purple [petal]{.vocab tabindex="0" data-def="petal · n. 花瓣"}s trembling in a cold draft that carries the resinous [scent]{.vocab tabindex="0" data-def="scent · n. 气味，香味; 香水; 臭迹，遗臭; 线索; 嗅觉; 嗅出…的气味，嗅出…的存在; 察觉到存在；觉得有…"} of pine. Further south, a fringe of [grove]{.vocab tabindex="0" data-def="grove · n. 树丛, 小树林"}s gives way to open ground, and the soil shifts — dark [humus]{.vocab tabindex="0" data-def="humus · n. 腐植土；腐殖质"} packed over pale [loess]{.vocab tabindex="0" data-def="loess · n. 黄土"} — as the land gradually descends toward water.
 
-A **marsh** opens at the forest's edge, and beside it a wider **swamp** where black **slime** coats every root. **Spawn** drifts in cloudy ribbons through the shallows; **guppy**-like fry dart among them. A **snail** inches along a reed stem, indifferent to the **leech** gliding just beneath the surface. On a low **mound** of **mulch**ed leaves, a gardener has scattered handfuls of rye **grain** to attract birds, and the wet earth around it is dimpled with **moose** tracks from the night before.
+A [marsh]{.vocab tabindex="0" data-def="marsh · n. 湿地；沼泽; 沼泽的；生长在沼泽地的"} opens at the forest's edge, and beside it a wider [swamp]{.vocab tabindex="0" data-def="swamp · n. 沼泽，低地，水洼；湿地；某地的浸水程度；进退两难的困境 使不堪承受，使疲于应对，使应接不暇；淹，淹没…"} where black [slime]{.vocab tabindex="0" data-def="slime · n. 黏液；烂泥; 涂泥; 变粘滑"} coats every root. [Spawn]{.vocab tabindex="0" data-def="spawn · n. 菌丝；卵；产物; 产卵；酿成，造成；大量生产; 产卵；大量生产"} drifts in cloudy ribbons through the shallows; [guppy]{.vocab tabindex="0" data-def="guppy · n. 古比鱼"}-like fry dart among them. A [snail]{.vocab tabindex="0" data-def="snail · n. 蜗牛；迟钝的人; 缓慢移动; 缓慢移动"} inches along a reed stem, indifferent to the [leech]{.vocab tabindex="0" data-def="leech · n. 水蛭；榨取他人利益的人；吸血鬼; 以水蛭吸血；依附并榨取; 依附并榨取别人"} gliding just beneath the surface. On a low [mound]{.vocab tabindex="0" data-def="mound · n. 土堆；土丘; 一大堆"} of [mulch]{.vocab tabindex="0" data-def="mulch · n. 覆盖物，护盖物；护根; 做护根；以护盖物覆盖"}ed leaves, a gardener has scattered handfuls of rye [grain]{.vocab tabindex="0" data-def="grain · n. 谷物；谷粒; 颗粒；细粒; 少量；微量；一点儿; 纹理; 质地；触感; 格令; 把…作成细粒; 使表…"} to attract birds, and the wet earth around it is dimpled with [moose]{.vocab tabindex="0" data-def="moose · n. 驼鹿"} tracks from the night before.
 
-By midday the light reaches the **shore** of a small cove. A tidal pool cradles one pale **pearl** of a quartz pebble among the rocks, and a **ridge** of sea-grass marks the tide line. A **pussy**willow branch, dropped by some upstream **pooch**'s enthusiastic retrieval, bobs at the water's edge. Farther inland, past the **polar** cold of shadow, a child photographs the amber beads of **myrrh** oozing from a trunk while bees **swarm** over the **pampa**-grass plumes at the clearing's border. At dusk a **pooch** startles a **moose** on the ridge path — the great animal disappearing into the **grove** with the calm certainty of something that has always belonged here.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **flock** <span class="wpos">n.</span> | 群；棉束; 用棉束填满; 聚集；成群而行 Flock弗洛克 |
-| **flora** <span class="wpos">n.</span> | 植物群;植物区系; 植物志 Floran. 弗洛拉 |
-| **grain** <span class="wpos">n.</span> | 谷物；谷粒; 颗粒；细粒; 少量；微量；一点儿; 纹理; 质地；触感; 格令; 把…作成细粒; 使表… |
-| **grove** <span class="wpos">n.</span> | 树丛, 小树林 |
-| **guppy** <span class="wpos">n.</span> | 古比鱼 |
-| **hatch** <span class="wpos">n.</span> | 舱口；孵化; 策划；孵; 孵化 |
-| **humus** <span class="wpos">n.</span> | 腐植土；腐殖质 |
-| **leech** <span class="wpos">n.</span> | 水蛭；榨取他人利益的人；吸血鬼; 以水蛭吸血；依附并榨取; 依附并榨取别人 |
-| **loess** <span class="wpos">n.</span> | 黄土 |
-| **marsh** <span class="wpos">n.</span> | 湿地；沼泽; 沼泽的；生长在沼泽地的 |
-| **moose** <span class="wpos">n.</span> | 驼鹿 |
-| **mound** <span class="wpos">n.</span> | 土堆；土丘; 一大堆 |
-| **mulch** <span class="wpos">n.</span> | 覆盖物，护盖物；护根; 做护根；以护盖物覆盖 |
-| **myrrh** <span class="wpos">n.</span> | 没药树,没药 |
-| **pampa** <span class="wpos">n.</span> | 南美大草原 |
-| **pansy** <span class="wpos">n.</span> | 三色堇；同性恋男子；三色紫罗兰; 打扮; 打扮; 女性化的；搞同性恋的；爱打扮的 Pansy潘西 |
-| **pearl** <span class="wpos">n.</span> | 珍珠；杰出者；珍珠色；珍品; 镶珍珠的；珍珠状的; 采珍珠；成珍珠状; 使成珠状；用珍珠装饰；使呈珍… |
-| **petal** <span class="wpos">n.</span> | 花瓣 |
-| **polar** <span class="wpos">adj.</span> | 极地的；两极的；正好相反的; 极面；极线 |
-| **pooch** <span class="wpos">n.</span> | 杂种狗 |
-| **pussy** <span class="wpos">n.</span> | 猫咪；阴门; 多脓的 |
-| **ridge** <span class="wpos">n.</span> | 脊, 山脊; 脊状突起 |
-| **scent** <span class="wpos">n.</span> | 气味，香味; 香水; 臭迹，遗臭; 线索; 嗅觉; 嗅出…的气味，嗅出…的存在; 察觉到存在；觉得有… |
-| **shore** <span class="wpos">n.</span> | 岸，滨; 国家; 支撑，支柱; 用支柱撑住；支撑，使稳住 |
-| **slime** <span class="wpos">n.</span> | 黏液；烂泥; 涂泥; 变粘滑 |
-| **snail** <span class="wpos">n.</span> | 蜗牛；迟钝的人; 缓慢移动; 缓慢移动 |
-| **spawn** <span class="wpos">n.</span> | 菌丝；卵；产物; 产卵；酿成，造成；大量生产; 产卵；大量生产 |
-| **swamp** <span class="wpos">n.</span> | 沼泽，低地，水洼；湿地；某地的浸水程度；进退两难的困境 使不堪承受，使疲于应对，使应接不暇；淹，淹没… |
-| **swarm** <span class="wpos">vi.</span> | 挤满；成群浮游；云集; 蜂群；一大群; 挤满；爬 |
-| **taiga** <span class="wpos">n.</span> | 针叶树林地带 |
-:::
-:::
-::::
+By midday the light reaches the [shore]{.vocab tabindex="0" data-def="shore · n. 岸，滨; 国家; 支撑，支柱; 用支柱撑住；支撑，使稳住"} of a small cove. A tidal pool cradles one pale [pearl]{.vocab tabindex="0" data-def="pearl · n. 珍珠；杰出者；珍珠色；珍品; 镶珍珠的；珍珠状的; 采珍珠；成珍珠状; 使成珠状；用珍珠装饰；使呈珍…"} of a quartz pebble among the rocks, and a [ridge]{.vocab tabindex="0" data-def="ridge · n. 脊, 山脊; 脊状突起"} of sea-grass marks the tide line. A [pussy]{.vocab tabindex="0" data-def="pussy · n. 猫咪；阴门; 多脓的"}willow branch, dropped by some upstream [pooch]{.vocab tabindex="0" data-def="pooch · n. 杂种狗"}'s enthusiastic retrieval, bobs at the water's edge. Farther inland, past the [polar]{.vocab tabindex="0" data-def="polar · adj. 极地的；两极的；正好相反的; 极面；极线"} cold of shadow, a child photographs the amber beads of [myrrh]{.vocab tabindex="0" data-def="myrrh · n. 没药树,没药"} oozing from a trunk while bees [swarm]{.vocab tabindex="0" data-def="swarm · vi. 挤满；成群浮游；云集; 蜂群；一大群; 挤满；爬"} over the [pampa]{.vocab tabindex="0" data-def="pampa · n. 南美大草原"}-grass plumes at the clearing's border. At dusk a [pooch]{.vocab tabindex="0" data-def="pooch · n. 杂种狗"} startles a [moose]{.vocab tabindex="0" data-def="moose · n. 驼鹿"} on the ridge path — the great animal disappearing into the [grove]{.vocab tabindex="0" data-def="grove · n. 树丛, 小树林"} with the calm certainty of something that has always belonged here.
 
 ### A Walk Through Wilderness and Wetland
 
-:::: {.columns}
-::: {.column width="57%"}
-The old trail wound through a **marshy** depression where every reed and rotting log wore a sleeve of **cobweb**, silver with morning dew. A **collie** that had followed us from the farm sniffed at a dried **cocoon** lodged in the bark of a fallen **trunk**, then bounded ahead into the sedge. Along the bank, a **beaver** had been at work all night: fresh white chips lay scattered like **flakes** of bone across the mud, and a neat dam backed the stream into a dark pool where **trout** nosed the current beneath a low **canopy** of willow.
+The old trail wound through a [marshy]{.vocab tabindex="0" data-def="marshy · adj. 沼泽的；湿地的"} depression where every reed and rotting log wore a sleeve of [cobweb]{.vocab tabindex="0" data-def="cobweb · n. 蜘蛛网；蛛丝；圈套; 使布满蛛网；使混乱"}, silver with morning dew. A [collie]{.vocab tabindex="0" data-def="collie · n. 柯利牧羊狗"} that had followed us from the farm sniffed at a dried [cocoon]{.vocab tabindex="0" data-def="cocoon · n. 茧；卵囊; 把……紧紧包住"} lodged in the bark of a fallen [trunk]{.vocab tabindex="0" data-def="trunk · n. 树干; 衣箱; 象鼻"}, then bounded ahead into the sedge. Along the bank, a [beaver]{.vocab tabindex="0" data-def="beaver · n. 海狸; 海狸皮毛; 水獭呢,海狸绒; 棕灰色,海狸色; 拼命工作的人; 美国俄勒冈州人; 蓄大胡子的…"} had been at work all night: fresh white chips lay scattered like [flakes]{.vocab tabindex="0" data-def="flakes · n. 鳞片；白点；发裂"} of bone across the mud, and a neat dam backed the stream into a dark pool where [trout]{.vocab tabindex="0" data-def="trout · n. 鲑鱼，鲑鳟鱼"} nosed the current beneath a low [canopy]{.vocab tabindex="0" data-def="canopy · n. 天篷；遮篷；华盖；苍穹; 用天蓬遮盖；遮盖"} of willow.
 
-Further on, the path crossed a broad **tract** of open grassland — **barren** in patches where **locust** swarms had stripped it bare two summers back. Among the surviving stems, **canola** had seeded itself in bright-yellow drifts, and a stand of **tulip** poplars marked where the soil deepened again. A **castor**-oil plant sprawled at the field's edge, its broad leaves sheltering a **fungus** the colour of rust. We watched a **gadfly** trace erratic loops above the **bovine** indifference of two grazing cattle, while a **kitten** from the nearby farmhouse stalked something invisible through the grass with murderous patience.
+Further on, the path crossed a broad [tract]{.vocab tabindex="0" data-def="tract · n. 大片土地；地带; 〈解〉道，束"} of open grassland — [barren]{.vocab tabindex="0" data-def="barren · adj. 贫瘠的; 不孕的，不生育的；不结果的; 无用的，空洞的，无结果的"} in patches where [locust]{.vocab tabindex="0" data-def="locust · n. 蝗虫"} swarms had stripped it bare two summers back. Among the surviving stems, [canola]{.vocab tabindex="0" data-def="canola · n. 加拿大油菜"} had seeded itself in bright-yellow drifts, and a stand of [tulip]{.vocab tabindex="0" data-def="tulip · n. 郁金香"} poplars marked where the soil deepened again. A [castor]{.vocab tabindex="0" data-def="castor · n. 蓖麻；调味瓶；海狸；脚轮 Castor北河二"}-oil plant sprawled at the field's edge, its broad leaves sheltering a [fungus]{.vocab tabindex="0" data-def="fungus · n. 真菌"} the colour of rust. We watched a [gadfly]{.vocab tabindex="0" data-def="gadfly · n. 牛虻"} trace erratic loops above the [bovine]{.vocab tabindex="0" data-def="bovine · adj. 牛的,关于牛的; 迟钝的,笨拙的; 牛；牛科动物"} indifference of two grazing cattle, while a [kitten]{.vocab tabindex="0" data-def="kitten · n. 小猫"} from the nearby farmhouse stalked something invisible through the grass with murderous patience.
 
-The forest resumed at the ridge. Beneath a **laurel** thicket, **irides** were just opening — their falls veined like the wing of a **bonobo**'s eye in a wildlife photograph I once saw. A newly **fledge**d crow tested its wings from a low branch, knocking loose a **thorn** from the bramble below. Deeper in the shade, an **iguana**-green log turned out to be a log at all — just the slow fantasy of **fossil** light filtering through leaves. A **mammal**'s footprint, too wide for a **coyote** and too round for a dog, pressed into the soft earth beside a root. Above the whole scene, the tree-tops opened just enough to show the late-afternoon **galaxy** of midges spiralling in a shaft of gold, a private **gemini** of light and shadow that no **tract** on botany had ever managed to describe.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **thorn** <span class="wpos">n.</span> | 刺；荆棘 |
-| **tract** <span class="wpos">n.</span> | 大片土地；地带; 〈解〉道，束 |
-| **trout** <span class="wpos">n.</span> | 鲑鱼，鲑鳟鱼 |
-| **trunk** <span class="wpos">n.</span> | 树干; 衣箱; 象鼻 |
-| **tulip** <span class="wpos">n.</span> | 郁金香 |
-| **barren** <span class="wpos">adj.</span> | 贫瘠的; 不孕的，不生育的；不结果的; 无用的，空洞的，无结果的 |
-| **beaver** <span class="wpos">n.</span> | 海狸; 海狸皮毛; 水獭呢,海狸绒; 棕灰色,海狸色; 拼命工作的人; 美国俄勒冈州人; 蓄大胡子的… |
-| **bonobo** <span class="wpos">n.</span> | 倭黑猩猩 |
-| **bovine** <span class="wpos">adj.</span> | 牛的,关于牛的; 迟钝的,笨拙的; 牛；牛科动物 |
-| **canola** <span class="wpos">n.</span> | 加拿大油菜 |
-| **canopy** <span class="wpos">n.</span> | 天篷；遮篷；华盖；苍穹; 用天蓬遮盖；遮盖 |
-| **castor** <span class="wpos">n.</span> | 蓖麻；调味瓶；海狸；脚轮 Castor北河二 |
-| **cobweb** <span class="wpos">n.</span> | 蜘蛛网；蛛丝；圈套; 使布满蛛网；使混乱 |
-| **cocoon** <span class="wpos">n.</span> | 茧；卵囊; 把……紧紧包住 |
-| **collie** <span class="wpos">n.</span> | 柯利牧羊狗 |
-| **coyote** <span class="wpos">n.</span> | 郊狼 |
-| **flakes** <span class="wpos">n.</span> | 鳞片；白点；发裂 |
-| **fledge** <span class="wpos">vi.</span> | 长羽毛; 装上羽毛 |
-| **fossil** <span class="wpos">n.</span> | 化石；僵化的事物；顽固不化的人; 化石的；陈腐的，守旧的 |
-| **fungus** <span class="wpos">n.</span> | 真菌 |
-| **gadfly** <span class="wpos">n.</span> | 牛虻 |
-| **galaxy** <span class="wpos">n.</span> | 星系; 银河系, 银河; 一群 |
-| **gemini** <span class="wpos">n.</span> | 双生子；双胎 Geminin. 双子宫,双子座 |
-| **iguana** <span class="wpos">n.</span> | 鬣鳞蜥 |
-| **irides** <span class="wpos">n.</span> | 鸢尾科植物,彩虹 |
-| **kitten** <span class="wpos">n.</span> | 小猫 |
-| **laurel** <span class="wpos">n.</span> | 月桂树；桂冠，殊荣; 授予荣誉，使戴桂冠 Laurel劳雷尔 |
-| **locust** <span class="wpos">n.</span> | 蝗虫 |
-| **mammal** <span class="wpos">n.</span> | 哺乳动物 |
-| **marshy** <span class="wpos">adj.</span> | 沼泽的；湿地的 |
-:::
-:::
-::::
+The forest resumed at the ridge. Beneath a [laurel]{.vocab tabindex="0" data-def="laurel · n. 月桂树；桂冠，殊荣; 授予荣誉，使戴桂冠 Laurel劳雷尔"} thicket, [irides]{.vocab tabindex="0" data-def="irides · n. 鸢尾科植物,彩虹"} were just opening — their falls veined like the wing of a [bonobo]{.vocab tabindex="0" data-def="bonobo · n. 倭黑猩猩"}'s eye in a wildlife photograph I once saw. A newly [fledge]{.vocab tabindex="0" data-def="fledge · vi. 长羽毛; 装上羽毛"}d crow tested its wings from a low branch, knocking loose a [thorn]{.vocab tabindex="0" data-def="thorn · n. 刺；荆棘"} from the bramble below. Deeper in the shade, an [iguana]{.vocab tabindex="0" data-def="iguana · n. 鬣鳞蜥"}-green log turned out to be a log at all — just the slow fantasy of [fossil]{.vocab tabindex="0" data-def="fossil · n. 化石；僵化的事物；顽固不化的人; 化石的；陈腐的，守旧的"} light filtering through leaves. A [mammal]{.vocab tabindex="0" data-def="mammal · n. 哺乳动物"}'s footprint, too wide for a [coyote]{.vocab tabindex="0" data-def="coyote · n. 郊狼"} and too round for a dog, pressed into the soft earth beside a root. Above the whole scene, the tree-tops opened just enough to show the late-afternoon [galaxy]{.vocab tabindex="0" data-def="galaxy · n. 星系; 银河系, 银河; 一群"} of midges spiralling in a shaft of gold, a private [gemini]{.vocab tabindex="0" data-def="gemini · n. 双生子；双胎 Geminin. 双子宫,双子座"} of light and shadow that no [tract]{.vocab tabindex="0" data-def="tract · n. 大片土地；地带; 〈解〉道，束"} on botany had ever managed to describe.
 
 ### Where the Wild World Breathes
 
-:::: {.columns}
-::: {.column width="57%"}
-Just beyond the old **stable**, a broad **meadow** stretches toward the tree line, its grasses peppered with **yarrow** in full white bloom and dotted with **pollen**-heavy **shrubs** that **ramify** outward in every direction, sending thin branches across the footpath. **Mosses** carpet the shaded banks of a slow creek, cushioning every **pebble** in the shallows, while clumps of **totora** reed stand tall at the water's edge, their roots anchoring the **swampy** margin against erosion. A **wattle** fence, woven from green branches, borders the far end of the field — beyond it the land rises into long **ridges** that catch the afternoon light.
+Just beyond the old [stable]{.vocab tabindex="0" data-def="stable · n. 马厩；牛棚; 稳定的；坚定的；牢固的; 被关在马厩; 赶入马房"}, a broad [meadow]{.vocab tabindex="0" data-def="meadow · n. 草地；牧场"} stretches toward the tree line, its grasses peppered with [yarrow]{.vocab tabindex="0" data-def="yarrow · n. 西洋蓍草"} in full white bloom and dotted with [pollen]{.vocab tabindex="0" data-def="pollen · vt. 传授花粉给; 花粉"}-heavy [shrubs]{.vocab tabindex="0" data-def="shrubs · n. 灌木；权木；矮树丛"} that [ramify]{.vocab tabindex="0" data-def="ramify · vt. 使分枝,使分叉; 成枝杈状"} outward in every direction, sending thin branches across the footpath. [Mosses]{.vocab tabindex="0" data-def="mosses · n. 苔藓，藓类；苔藓植物"} carpet the shaded banks of a slow creek, cushioning every [pebble]{.vocab tabindex="0" data-def="pebble · n. 卵石；水晶透镜; 用卵石铺"} in the shallows, while clumps of [totora]{.vocab tabindex="0" data-def="totora · n. 高香蒲"} reed stand tall at the water's edge, their roots anchoring the [swampy]{.vocab tabindex="0" data-def="swampy · adj. 沼泽的；沼泽多的；湿地的；松软的"} margin against erosion. A [wattle]{.vocab tabindex="0" data-def="wattle · n. 金合欢树；枝条编成的篱笆；板条，编条; 板条的；由编条做成的; 用编条做成"} fence, woven from green branches, borders the far end of the field — beyond it the land rises into long [ridges]{.vocab tabindex="0" data-def="ridges · n. 带钢单向皱纹"} that catch the afternoon light.
 
-The animal life here is generous and unhurried. A **pigeon** murmurs from the eaves of the barn, a **pecker** works methodically up a dead oak, and a pair of **ravens** trade calls across the canopy. High overhead, a **raptor** turns slow circles, reading thermals. Nearer the ground, a **parrot** escaped from some garden long ago has made itself at home among the flowering **shrubs**. Down at the creek's edge, a family of **skunks** picks through the leaf litter, indifferent to the **urchin**-like toddler watching from a safe distance. A **sponge** of damp earth at the water line releases **spores** with every footfall, the invisible dust of next season's ferns already dispersing on the breeze. A fox slips past the collapsed **pigsty** at the field's south corner without breaking stride.
+The animal life here is generous and unhurried. A [pigeon]{.vocab tabindex="0" data-def="pigeon · n. 鸽子"} murmurs from the eaves of the barn, a [pecker]{.vocab tabindex="0" data-def="pecker · n. 啄木鸟；鹤嘴锄；穿孔器；精神；阴茎"} works methodically up a dead oak, and a pair of [ravens]{.vocab tabindex="0" data-def="ravens · n. 乌鸦；低质煤"} trade calls across the canopy. High overhead, a [raptor]{.vocab tabindex="0" data-def="raptor · n. 猛禽；肉食鸟"} turns slow circles, reading thermals. Nearer the ground, a [parrot]{.vocab tabindex="0" data-def="parrot · n. 鹦鹉；学舌者，应声虫；机械模仿别人的人; 机械地模仿"} escaped from some garden long ago has made itself at home among the flowering [shrubs]{.vocab tabindex="0" data-def="shrubs · n. 灌木；权木；矮树丛"}. Down at the creek's edge, a family of [skunks]{.vocab tabindex="0" data-def="skunks · n. 臭鼬"} picks through the leaf litter, indifferent to the [urchin]{.vocab tabindex="0" data-def="urchin · n. 顽童，淘气鬼；海胆；刺猥"}-like toddler watching from a safe distance. A [sponge]{.vocab tabindex="0" data-def="sponge · n. 海绵; 擦拭，清除; &amp; 骗取；敲詐；揩油"} of damp earth at the water line releases [spores]{.vocab tabindex="0" data-def="spores · n. 孢子; 形成芽孢"} with every footfall, the invisible dust of next season's ferns already dispersing on the breeze. A fox slips past the collapsed [pigsty]{.vocab tabindex="0" data-def="pigsty · n. 猪圈；脏房间"} at the field's south corner without breaking stride.
 
-Not everything here is alive with ease. Where the creek bends, a slow seep of **sewage** from an upstream farm has left a band of grey **sludge** along the bank, and the vegetation there has begun to **wither** — stems gone papery, color drained. Only the most stubborn survivors hold on: a few tufts of grass rooted in what might once have been **mundic**-flecked spoil from an old mine working, their tips still green. Far from this damaged strip, the **pampas** grasses on the open slope move like water in the wind, and in the cooling dusk the first **meteor** arcs silently overhead, burning out long before it reaches the **tundra** country to the north, where the stars will soon arrange themselves into the ghostly shape of a **nebula** no city-dweller ever sees.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **meadow** <span class="wpos">n.</span> | 草地；牧场 |
-| **meteor** <span class="wpos">n.</span> | 流星 |
-| **mosses** <span class="wpos">n.</span> | 苔藓，藓类；苔藓植物 |
-| **mundic** <span class="wpos">n.</span> | 〈英〉硫化铁矿 |
-| **nebula** <span class="wpos">n.</span> | 星云; 星云状的星系 |
-| **pampas** <span class="wpos">n.</span> | 草原；蒲苇 |
-| **parrot** <span class="wpos">n.</span> | 鹦鹉；学舌者，应声虫；机械模仿别人的人; 机械地模仿 |
-| **pebble** <span class="wpos">n.</span> | 卵石；水晶透镜; 用卵石铺 |
-| **pecker** <span class="wpos">n.</span> | 啄木鸟；鹤嘴锄；穿孔器；精神；阴茎 |
-| **pigeon** <span class="wpos">n.</span> | 鸽子 |
-| **pigsty** <span class="wpos">n.</span> | 猪圈；脏房间 |
-| **pollen** <span class="wpos">vt.</span> | 传授花粉给; 花粉 |
-| **ramify** <span class="wpos">vt.</span> | 使分枝,使分叉; 成枝杈状 |
-| **raptor** <span class="wpos">n.</span> | 猛禽；肉食鸟 |
-| **ravens** <span class="wpos">n.</span> | 乌鸦；低质煤 |
-| **ridges** <span class="wpos">n.</span> | 带钢单向皱纹 |
-| **sewage** <span class="wpos">n.</span> | 污水；污物；下水道 |
-| **shrubs** <span class="wpos">n.</span> | 灌木；权木；矮树丛 |
-| **skunks** <span class="wpos">n.</span> | 臭鼬 |
-| **sludge** <span class="wpos">n.</span> | 烂泥；泥泞；泥状雪；沉淀物；小浮冰 |
-| **sponge** <span class="wpos">n.</span> | 海绵; 擦拭，清除; &amp; 骗取；敲詐；揩油 |
-| **spores** <span class="wpos">n.</span> | 孢子; 形成芽孢 |
-| **stable** <span class="wpos">n.</span> | 马厩；牛棚; 稳定的；坚定的；牢固的; 被关在马厩; 赶入马房 |
-| **swampy** <span class="wpos">adj.</span> | 沼泽的；沼泽多的；湿地的；松软的 |
-| **totora** <span class="wpos">n.</span> | 高香蒲 |
-| **tundra** <span class="wpos">n.</span> | 冻土带；苔原，冻原，寒漠 |
-| **urchin** <span class="wpos">n.</span> | 顽童，淘气鬼；海胆；刺猥 |
-| **wattle** <span class="wpos">n.</span> | 金合欢树；枝条编成的篱笆；板条，编条; 板条的；由编条做成的; 用编条做成 |
-| **wither** <span class="wpos">vt.</span> | &amp; 枯萎, 干枯, 凋谢 |
-| **yarrow** <span class="wpos">n.</span> | 西洋蓍草 |
-:::
-:::
-::::
+Not everything here is alive with ease. Where the creek bends, a slow seep of [sewage]{.vocab tabindex="0" data-def="sewage · n. 污水；污物；下水道"} from an upstream farm has left a band of grey [sludge]{.vocab tabindex="0" data-def="sludge · n. 烂泥；泥泞；泥状雪；沉淀物；小浮冰"} along the bank, and the vegetation there has begun to [wither]{.vocab tabindex="0" data-def="wither · vt. &amp; 枯萎, 干枯, 凋谢"} — stems gone papery, color drained. Only the most stubborn survivors hold on: a few tufts of grass rooted in what might once have been [mundic]{.vocab tabindex="0" data-def="mundic · n. 〈英〉硫化铁矿"}-flecked spoil from an old mine working, their tips still green. Far from this damaged strip, the [pampas]{.vocab tabindex="0" data-def="pampas · n. 草原；蒲苇"} grasses on the open slope move like water in the wind, and in the cooling dusk the first [meteor]{.vocab tabindex="0" data-def="meteor · n. 流星"} arcs silently overhead, burning out long before it reaches the [tundra]{.vocab tabindex="0" data-def="tundra · n. 冻土带；苔原，冻原，寒漠"} country to the north, where the stars will soon arrange themselves into the ghostly shape of a [nebula]{.vocab tabindex="0" data-def="nebula · n. 星云; 星云状的星系"} no city-dweller ever sees.
 
 ### A Day Between Root and Sky
 
-:::: {.columns}
-::: {.column width="57%"}
-The valley woke slowly. From its **bedrock** foundation of pale **granite**, a seep fed upward through every **crevice** in the stone, filling the **aquifer** below the meadow where **alfalfa** swayed in dense rows. Stands of **birches** lined the creek bank, their white bark bright against a row of **cypress** darkening the far edge. **Daisies** dotted the grass between them, and by the water a patch of **anemone** nodded in the current of air. **Jasmine** had climbed the fence post nearest the old **beehive**, filling the morning with sweetness the bees found without any effort at all.
+The valley woke slowly. From its [bedrock]{.vocab tabindex="0" data-def="bedrock · n. 根底；基岩；基本原理"} foundation of pale [granite]{.vocab tabindex="0" data-def="granite · n. 花岗岩, 花岗石"}, a seep fed upward through every [crevice]{.vocab tabindex="0" data-def="crevice · n. 裂缝；裂隙"} in the stone, filling the [aquifer]{.vocab tabindex="0" data-def="aquifer · n. 地下蓄水层; 砂石含水层"} below the meadow where [alfalfa]{.vocab tabindex="0" data-def="alfalfa · n. 苜蓿"} swayed in dense rows. Stands of [birches]{.vocab tabindex="0" data-def="birches · n. 桦树；桦木; 用桦条鞭打"} lined the creek bank, their white bark bright against a row of [cypress]{.vocab tabindex="0" data-def="cypress · n. 柏树，柏木属植物；柏树枝"} darkening the far edge. [Daisies]{.vocab tabindex="0" data-def="daisies · n. 雏菊"} dotted the grass between them, and by the water a patch of [anemone]{.vocab tabindex="0" data-def="anemone · n. 银莲花"} nodded in the current of air. [Jasmine]{.vocab tabindex="0" data-def="jasmine · n. 茉莉；淡黄色"} had climbed the fence post nearest the old [beehive]{.vocab tabindex="0" data-def="beehive · n. 蜂窝；蜂箱 Beehive蜂巢星团"}, filling the morning with sweetness the bees found without any effort at all.
 
-The **climate** here was kind, and the soil **fertile**. **Insects** moved through the clover in slow purposeful arcs. A **lizards**-quick shadow crossed the warm rock — one of several that sunned themselves near the **lichens** crusting the north face. Upstream, a **catfish** held still in a pool where a small **cascade** tumbled over mossy stones and the water ran cold enough to sting. A **fledged** kingfisher sat on a branch above it, wholly serious.
+The [climate]{.vocab tabindex="0" data-def="climate · n. 气候"} here was kind, and the soil [fertile]{.vocab tabindex="0" data-def="fertile · adj. 多产的, 富饶的"}. [Insects]{.vocab tabindex="0" data-def="insects · n. 昆虫；昆虫类，昆虫纲"} moved through the clover in slow purposeful arcs. A [lizards]{.vocab tabindex="0" data-def="lizards · n. 蜥蜴"}-quick shadow crossed the warm rock — one of several that sunned themselves near the [lichens]{.vocab tabindex="0" data-def="lichens · n. 地衣类；地衣; 使长满地衣"} crusting the north face. Upstream, a [catfish]{.vocab tabindex="0" data-def="catfish · n. 鲶鱼"} held still in a pool where a small [cascade]{.vocab tabindex="0" data-def="cascade · n. 小瀑布；喷流；层叠; 像瀑布般冲下或倾泻; 使瀑布似地落下"} tumbled over mossy stones and the water ran cold enough to sting. A [fledged]{.vocab tabindex="0" data-def="fledged · adj. 快会飞的；羽毛丰满的；成熟的"} kingfisher sat on a branch above it, wholly serious.
 
-Further out, on the open plain, a **gazelle** lifted its head. A **leopard** watched from a low branch of the acacia, motionless. Farther still, a **giraffe** moved between trees at its unhurried angle. In the coastal hills beyond the plain, a researcher photographed a **gorilla** family feeding in the understory, recorded a **dolphin** pod rounding the headland, and noted fresh evidence of **goonies** nesting on the cliff. Back at camp, her **hamster** turned its wheel in the equipment tent. On the horizon, one remaining **iceberg** caught the afternoon sun and sent a slow **calving** crack across the silence. A **carcass** of a whale had beached below it weeks before, and the **blubber** was still drawing scavengers from miles around.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **alfalfa** <span class="wpos">n.</span> | 苜蓿 |
-| **anemone** <span class="wpos">n.</span> | 银莲花 |
-| **aquifer** <span class="wpos">n.</span> | 地下蓄水层; 砂石含水层 |
-| **bedrock** <span class="wpos">n.</span> | 根底；基岩；基本原理 |
-| **beehive** <span class="wpos">n.</span> | 蜂窝；蜂箱 Beehive蜂巢星团 |
-| **birches** <span class="wpos">n.</span> | 桦树；桦木; 用桦条鞭打 |
-| **blubber** <span class="wpos">n.</span> | 鲸脂；哭泣; 又哭又闹; 又哭又闹; 肿大的 |
-| **calving** <span class="wpos">n.</span> | 产犊；裂冰作用; 产犊；崩解 |
-| **carcass** <span class="wpos">n.</span> | 尸体; 烹调过的禽鸟骨骼 |
-| **cascade** <span class="wpos">n.</span> | 小瀑布；喷流；层叠; 像瀑布般冲下或倾泻; 使瀑布似地落下 |
-| **catfish** <span class="wpos">n.</span> | 鲶鱼 |
-| **climate** <span class="wpos">n.</span> | 气候 |
-| **crevice** <span class="wpos">n.</span> | 裂缝；裂隙 |
-| **cypress** <span class="wpos">n.</span> | 柏树，柏木属植物；柏树枝 |
-| **daisies** <span class="wpos">n.</span> | 雏菊 |
-| **dolphin** <span class="wpos">n.</span> | 海豚 |
-| **fertile** <span class="wpos">adj.</span> | 多产的, 富饶的 |
-| **fledged** <span class="wpos">adj.</span> | 快会飞的；羽毛丰满的；成熟的 |
-| **gazelle** <span class="wpos">n.</span> | 小羚羊；瞪羚; 似瞪羚般跳跃 |
-| **giraffe** <span class="wpos">n.</span> | 长颈鹿 |
-| **goonies** <span class="wpos">n.</span> | 信天翁 |
-| **gorilla** <span class="wpos">n.</span> | 大猩猩 |
-| **granite** <span class="wpos">n.</span> | 花岗岩, 花岗石 |
-| **hamster** <span class="wpos">n.</span> | 仓鼠 |
-| **iceberg** <span class="wpos">n.</span> | 冰山；显露部分 |
-| **insects** <span class="wpos">n.</span> | 昆虫；昆虫类，昆虫纲 |
-| **jasmine** <span class="wpos">n.</span> | 茉莉；淡黄色 |
-| **leopard** <span class="wpos">n.</span> | 豹；美洲豹 |
-| **lichens** <span class="wpos">n.</span> | 地衣类；地衣; 使长满地衣 |
-| **lizards** <span class="wpos">n.</span> | 蜥蜴 |
-:::
-:::
-::::
+Further out, on the open plain, a [gazelle]{.vocab tabindex="0" data-def="gazelle · n. 小羚羊；瞪羚; 似瞪羚般跳跃"} lifted its head. A [leopard]{.vocab tabindex="0" data-def="leopard · n. 豹；美洲豹"} watched from a low branch of the acacia, motionless. Farther still, a [giraffe]{.vocab tabindex="0" data-def="giraffe · n. 长颈鹿"} moved between trees at its unhurried angle. In the coastal hills beyond the plain, a researcher photographed a [gorilla]{.vocab tabindex="0" data-def="gorilla · n. 大猩猩"} family feeding in the understory, recorded a [dolphin]{.vocab tabindex="0" data-def="dolphin · n. 海豚"} pod rounding the headland, and noted fresh evidence of [goonies]{.vocab tabindex="0" data-def="goonies · n. 信天翁"} nesting on the cliff. Back at camp, her [hamster]{.vocab tabindex="0" data-def="hamster · n. 仓鼠"} turned its wheel in the equipment tent. On the horizon, one remaining [iceberg]{.vocab tabindex="0" data-def="iceberg · n. 冰山；显露部分"} caught the afternoon sun and sent a slow [calving]{.vocab tabindex="0" data-def="calving · n. 产犊；裂冰作用; 产犊；崩解"} crack across the silence. A [carcass]{.vocab tabindex="0" data-def="carcass · n. 尸体; 烹调过的禽鸟骨骼"} of a whale had beached below it weeks before, and the [blubber]{.vocab tabindex="0" data-def="blubber · n. 鲸脂；哭泣; 又哭又闹; 又哭又闹; 肿大的"} was still drawing scavengers from miles around.
 
 ### A Day Spent Reading the Living Land
 
-:::: {.columns}
-::: {.column width="57%"}
-The old **barnyard** stirred before dawn. A **rooster** crowed from the fence post, his call rolling out across the **meadows** where dew still pearled on every blade. Beyond the **paddock**, a **Labrador** nosed along the hedgerow, flushing a **raccoon** that had been raiding the compost heap — and with it, a writhing cluster of pale **maggots** the dog wisely left alone. Under the eaves, a colony of **termite**s had been quietly hollowing a beam all summer, their work as patient as the seasons.
+The old [barnyard]{.vocab tabindex="0" data-def="barnyard · n. 谷仓前的空场地; 下流的；粗俗的"} stirred before dawn. A [rooster]{.vocab tabindex="0" data-def="rooster · n. 公鸡；狂妄自负的人"} crowed from the fence post, his call rolling out across the [meadows]{.vocab tabindex="0" data-def="meadows · n. 草地；草甸"} where dew still pearled on every blade. Beyond the [paddock]{.vocab tabindex="0" data-def="paddock · n. 围场；小牧场"}, a [Labrador]{.vocab tabindex="0" data-def="Labrador · n. 拉布拉多；一种纽芬兰猎犬"} nosed along the hedgerow, flushing a [raccoon]{.vocab tabindex="0" data-def="raccoon · n. 浣熊毛皮；浣熊"} that had been raiding the compost heap — and with it, a writhing cluster of pale [maggots]{.vocab tabindex="0" data-def="maggots · n. 蛆虫"} the dog wisely left alone. Under the eaves, a colony of [termite]{.vocab tabindex="0" data-def="termite · n. 白蚁"}s had been quietly hollowing a beam all summer, their work as patient as the seasons.
 
-The path led uphill through a grove of towering **sequoia**s, their bark the colour of dried blood, their roots threading through soil kept damp by **climatic** patterns older than any map. **Conifers** crowded the ridge beyond, releasing a sharp, **fragrant** resin that mixed with the fainter sweetness of a **camellia** hedge below. Near the stone wall, **daffodil**s and **geranium**s shared a narrow bed, and a stray sprig of **fumewort** pushed between the **pebbles** of the path. A tangle of **cannabis**-family weeds clung to the wire fence, half-smothered by last year's growth.
+The path led uphill through a grove of towering [sequoia]{.vocab tabindex="0" data-def="sequoia · n. 红杉"}s, their bark the colour of dried blood, their roots threading through soil kept damp by [climatic]{.vocab tabindex="0" data-def="climatic · adj. 气候的；气候上的；由气候引起的；受气候影响的"} patterns older than any map. [Conifers]{.vocab tabindex="0" data-def="conifers · n. 松柏类，针叶树；球果植物"} crowded the ridge beyond, releasing a sharp, [fragrant]{.vocab tabindex="0" data-def="fragrant · adj. 芳香的；愉快的"} resin that mixed with the fainter sweetness of a [camellia]{.vocab tabindex="0" data-def="camellia · n. 山茶；山茶花,山茶属植物"} hedge below. Near the stone wall, [daffodil]{.vocab tabindex="0" data-def="daffodil · n. 水仙花; 水仙花色的"}s and [geranium]{.vocab tabindex="0" data-def="geranium · n. 天竺葵"}s shared a narrow bed, and a stray sprig of [fumewort]{.vocab tabindex="0" data-def="fumewort 熏烟草"} pushed between the [pebbles]{.vocab tabindex="0" data-def="pebbles · n. 桔皮表面；鹅卵石，小软石; 铺"} of the path. A tangle of [cannabis]{.vocab tabindex="0" data-def="cannabis · n. 大麻; 大麻制品 Cannabis大麻属"}-family weeds clung to the wire fence, half-smothered by last year's growth.
 
-Lower down, a pond held its own small cosmos. **Tadpole**s hung in the shallows, gills still visible, while **rotifer**s turned invisible wheels in the deeper water. The muddy bank was thick with **bivalves**, and one could just make out the **piscine** shadows of small carp threading between the reeds. A stray **penguin** illustration on the park's information board reminded visitors that the **volcano** visible on the horizon once sent ash as far as the southern ice shelf — a humbling footnote on how little separates one **climatic** age from the next. A **peacock** from the estate next door picked its way across the wet grass, ignoring a **terrier** that bounced and barked at its tail. Overhead, **gazelle**-shaped clouds dissolved in the wind. Someone had pinned a note to the **farmland** gate: *Please **conserve** water — **hatching** season underway.*
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **maggots** <span class="wpos">n.</span> | 蛆虫 |
-| **meadows** <span class="wpos">n.</span> | 草地；草甸 |
-| **paddock** <span class="wpos">n.</span> | 围场；小牧场 |
-| **peacock** <span class="wpos">n.</span> | 孔雀 Peacock皮科克 |
-| **pebbles** <span class="wpos">n.</span> | 桔皮表面；鹅卵石，小软石; 铺 |
-| **penguin** <span class="wpos">n.</span> | 企鹅；空军地勤人员 |
-| **piscine** <span class="wpos">adj.</span> | 鱼的，鱼族的；似鱼的; 浴池；公共浴池 |
-| **raccoon** <span class="wpos">n.</span> | 浣熊毛皮；浣熊 |
-| **rooster** <span class="wpos">n.</span> | 公鸡；狂妄自负的人 |
-| **rotifer** <span class="wpos">n.</span> | 轮虫 |
-| **sequoia** <span class="wpos">n.</span> | 红杉 |
-| **tadpole** <span class="wpos">n.</span> | 蝌蚪 |
-| **termite** <span class="wpos">n.</span> | 白蚁 |
-| **terrier** <span class="wpos">n.</span> | 一种活泼的小狗；地籍册；国防自卫队 |
-| **volcano** <span class="wpos">n.</span> | 火山 |
-| **barnyard** <span class="wpos">n.</span> | 谷仓前的空场地; 下流的；粗俗的 |
-| **bivalves** <span class="wpos">n.</span> | 双壳类 |
-| **camellia** <span class="wpos">n.</span> | 山茶；山茶花,山茶属植物 |
-| **cannabis** <span class="wpos">n.</span> | 大麻; 大麻制品 Cannabis大麻属 |
-| **climatic** <span class="wpos">adj.</span> | 气候的；气候上的；由气候引起的；受气候影响的 |
-| **conifers** <span class="wpos">n.</span> | 松柏类，针叶树；球果植物 |
-| **conserve** <span class="wpos">vt.</span> | 保存；将…做成蜜饯；使守恒; 果酱；蜜饯 |
-| **daffodil** <span class="wpos">n.</span> | 水仙花; 水仙花色的 |
-| **farmland** <span class="wpos">n.</span> | 农田 |
-| **fragrant** <span class="wpos">adj.</span> | 芳香的；愉快的 |
-| **fumewort** | 熏烟草 |
-| **gazelles** <span class="wpos">n.</span> | 瞪羚 |
-| **geranium** <span class="wpos">n.</span> | 天竺葵 |
-| **hatching** <span class="wpos">n.</span> | 剖面线；画影线；孵化; 孵化；给…加影线；策划; 孵化的 |
-| **Labrador** <span class="wpos">n.</span> | 拉布拉多；一种纽芬兰猎犬 |
-:::
-:::
-::::
+Lower down, a pond held its own small cosmos. [Tadpole]{.vocab tabindex="0" data-def="tadpole · n. 蝌蚪"}s hung in the shallows, gills still visible, while [rotifer]{.vocab tabindex="0" data-def="rotifer · n. 轮虫"}s turned invisible wheels in the deeper water. The muddy bank was thick with [bivalves]{.vocab tabindex="0" data-def="bivalves · n. 双壳类"}, and one could just make out the [piscine]{.vocab tabindex="0" data-def="piscine · adj. 鱼的，鱼族的；似鱼的; 浴池；公共浴池"} shadows of small carp threading between the reeds. A stray [penguin]{.vocab tabindex="0" data-def="penguin · n. 企鹅；空军地勤人员"} illustration on the park's information board reminded visitors that the [volcano]{.vocab tabindex="0" data-def="volcano · n. 火山"} visible on the horizon once sent ash as far as the southern ice shelf — a humbling footnote on how little separates one [climatic]{.vocab tabindex="0" data-def="climatic · adj. 气候的；气候上的；由气候引起的；受气候影响的"} age from the next. A [peacock]{.vocab tabindex="0" data-def="peacock · n. 孔雀 Peacock皮科克"} from the estate next door picked its way across the wet grass, ignoring a [terrier]{.vocab tabindex="0" data-def="terrier · n. 一种活泼的小狗；地籍册；国防自卫队"} that bounced and barked at its tail. Overhead, [gazelle]{.vocab tabindex="0" data-def="gazelles · n. 瞪羚"}-shaped clouds dissolved in the wind. Someone had pinned a note to the [farmland]{.vocab tabindex="0" data-def="farmland · n. 农田"} gate: *Please [conserve]{.vocab tabindex="0" data-def="conserve · vt. 保存；将…做成蜜饯；使守恒; 果酱；蜜饯"} water — [hatching]{.vocab tabindex="0" data-def="hatching · n. 剖面线；画影线；孵化; 孵化；给…加影线；策划; 孵化的"} season underway.*
 
 ### A Walk Through Living Worlds
 
-:::: {.columns}
-::: {.column width="57%"}
-At the edge of the **vineyard**, where rows of grapevines give way to tangled scrub, the morning light turned **lavender** over the hills. A lone **squirrel** flickered between the **deciduous** oaks, cheeks full, racing to squirrel its cache away before the season turned. Underfoot, **dandelion** clocks trembled in the breeze, and a cluster of **carnation** blooms blazed pink along the low stone wall. Further out, past the tended rows, the land slipped into open **chaparral** — dry, silver-grey **bluegrass** brushing against shin-height shrubs. Somewhere in the tangle, a **chameleon** froze on a branch, skin shifting to match the mottled bark, while nearby a **cockroach** vanished into the root litter.
+At the edge of the [vineyard]{.vocab tabindex="0" data-def="vineyard · n. 葡萄园"}, where rows of grapevines give way to tangled scrub, the morning light turned [lavender]{.vocab tabindex="0" data-def="lavender · n. 淡紫色；薰衣草; 淡紫色的; 用熏衣草熏"} over the hills. A lone [squirrel]{.vocab tabindex="0" data-def="squirrel · n. 松鼠；松鼠毛皮; 贮藏"} flickered between the [deciduous]{.vocab tabindex="0" data-def="deciduous · adj. 每年落叶的"} oaks, cheeks full, racing to squirrel its cache away before the season turned. Underfoot, [dandelion]{.vocab tabindex="0" data-def="dandelion · n. 蒲公英"} clocks trembled in the breeze, and a cluster of [carnation]{.vocab tabindex="0" data-def="carnation · n. 麝香石竹;康乃馨"} blooms blazed pink along the low stone wall. Further out, past the tended rows, the land slipped into open [chaparral]{.vocab tabindex="0" data-def="chaparral · n. 灌木丛"} — dry, silver-grey [bluegrass]{.vocab tabindex="0" data-def="bluegrass · n. 莓系属的牧草"} brushing against shin-height shrubs. Somewhere in the tangle, a [chameleon]{.vocab tabindex="0" data-def="chameleon · n. 变色蜥蜴,变色龙"} froze on a branch, skin shifting to match the mottled bark, while nearby a [cockroach]{.vocab tabindex="0" data-def="cockroach · n. 蟑螂"} vanished into the root litter.
 
-The creek below told a different story. A **mangrove** thicket clung to the brackish shallows, its arching roots half-submerged, offering shelter to every small **organism** willing to squeeze through. A **tortoise** eased along the muddy bank, unhurried. Out in the current, a **stingray** glided low over the sand, and a pair of **porpoise** rolled beyond the mouth of the inlet, their backs catching the **sapphire** glint of open water. This stretch had stayed **pristine** — no runoff, no sprawl — and the **fecundity** of the place showed in everything: the layered canopy, the crowded shallows, the constant movement.
+The creek below told a different story. A [mangrove]{.vocab tabindex="0" data-def="mangrove · n. 红树林"} thicket clung to the brackish shallows, its arching roots half-submerged, offering shelter to every small [organism]{.vocab tabindex="0" data-def="organism · n. 有机物，有机体；生物; 有机体系"} willing to squeeze through. A [tortoise]{.vocab tabindex="0" data-def="tortoise · n. 迟缓的人；龟，乌龟"} eased along the muddy bank, unhurried. Out in the current, a [stingray]{.vocab tabindex="0" data-def="stingray · n. 黄貂鱼 Stingrayn. 海鳐鱼, 魟"} glided low over the sand, and a pair of [porpoise]{.vocab tabindex="0" data-def="porpoise · n. 海豚；鼠海豚"} rolled beyond the mouth of the inlet, their backs catching the [sapphire]{.vocab tabindex="0" data-def="sapphire · n. 青玉；蓝宝石；天蓝色; 天蓝色的"} glint of open water. This stretch had stayed [pristine]{.vocab tabindex="0" data-def="pristine · adj. 原始状态的；未受损的; 新鲜而纯净的，清新的; 原始的；远古的"} — no runoff, no sprawl — and the [fecundity]{.vocab tabindex="0" data-def="fecundity · n. 多产；富饶；肥沃; 产卵力；生殖力；结实性"} of the place showed in everything: the layered canopy, the crowded shallows, the constant movement.
 
-Not all relationships here were gentle. A **venomous** snake lay coiled beneath a **magnolia**, watching. The tree itself hosted a silent community: **termites** worked the heartwood, a **parasite** vine coiled its tendrils up the bark, and a **symbiote** fungus threaded through the roots below, trading minerals for sugars in the dark. A **carnivore** — a hawk, perched high — watched a stand of **milkweed** where monarchs clustered. It was waiting, as all **predator**s wait, for the one moment of inattention. High on the ridge, a slab of **obsidian** jutted from the cliff face, smooth and ancient, left behind when long-dead seas receded and **ammonoids** turned to stone in the limestone below it. Above, a cornice of old snow hung heavy — one warm afternoon away from becoming an **avalanche** that would reshape the slope entirely, the way the living world always does, slowly and then all at once.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **lavender** <span class="wpos">n.</span> | 淡紫色；薰衣草; 淡紫色的; 用熏衣草熏 |
-| **magnolia** <span class="wpos">n.</span> | 木兰; 淡桃红色 |
-| **mangrove** <span class="wpos">n.</span> | 红树林 |
-| **milkweed** <span class="wpos">n.</span> | 乳草属植物 |
-| **obsidian** <span class="wpos">n.</span> | 黑曜石 |
-| **organism** <span class="wpos">n.</span> | 有机物，有机体；生物; 有机体系 |
-| **parasite** <span class="wpos">n.</span> | 寄生生物；寄生虫；寄生植物；依赖他人过活者 |
-| **porpoise** <span class="wpos">n.</span> | 海豚；鼠海豚 |
-| **predator** <span class="wpos">n.</span> | 食肉动物；掠夺者；捕食者 |
-| **pristine** <span class="wpos">adj.</span> | 原始状态的；未受损的; 新鲜而纯净的，清新的; 原始的；远古的 |
-| **sapphire** <span class="wpos">n.</span> | 青玉；蓝宝石；天蓝色; 天蓝色的 |
-| **squirrel** <span class="wpos">n.</span> | 松鼠；松鼠毛皮; 贮藏 |
-| **stingray** <span class="wpos">n.</span> | 黄貂鱼 Stingrayn. 海鳐鱼, 魟 |
-| **symbiote** <span class="wpos">n.</span> | 共生生物；共生体 |
-| **termites** <span class="wpos">n.</span> | 白蚁类，白蚁目 |
-| **tortoise** <span class="wpos">n.</span> | 迟缓的人；龟，乌龟 |
-| **venomous** <span class="wpos">adj.</span> | 有毒的；分泌毒液的；恶毒的；怨恨的 |
-| **vineyard** <span class="wpos">n.</span> | 葡萄园 |
-| **ammonoids** | 菊石类 |
-| **avalanche** <span class="wpos">n.</span> | 雪崩; 雪崩；雪崩般塌落; 把...淹没，使无法应付 |
-| **bluegrass** <span class="wpos">n.</span> | 莓系属的牧草 |
-| **carnation** <span class="wpos">n.</span> | 麝香石竹;康乃馨 |
-| **carnivore** <span class="wpos">n.</span> | 食肉动物；食虫植物 |
-| **chameleon** <span class="wpos">n.</span> | 变色蜥蜴,变色龙 |
-| **chaparral** <span class="wpos">n.</span> | 灌木丛 |
-| **cockroach** <span class="wpos">n.</span> | 蟑螂 |
-| **crocodile** <span class="wpos">n.</span> | 鳄鱼 |
-| **dandelion** <span class="wpos">n.</span> | 蒲公英 |
-| **deciduous** <span class="wpos">adj.</span> | 每年落叶的 |
-| **fecundity** <span class="wpos">n.</span> | 多产；富饶；肥沃; 产卵力；生殖力；结实性 |
-:::
-:::
-::::
+Not all relationships here were gentle. A [venomous]{.vocab tabindex="0" data-def="venomous · adj. 有毒的；分泌毒液的；恶毒的；怨恨的"} snake lay coiled beneath a [magnolia]{.vocab tabindex="0" data-def="magnolia · n. 木兰; 淡桃红色"}, watching. The tree itself hosted a silent community: [termites]{.vocab tabindex="0" data-def="termites · n. 白蚁类，白蚁目"} worked the heartwood, a [parasite]{.vocab tabindex="0" data-def="parasite · n. 寄生生物；寄生虫；寄生植物；依赖他人过活者"} vine coiled its tendrils up the bark, and a [symbiote]{.vocab tabindex="0" data-def="symbiote · n. 共生生物；共生体"} fungus threaded through the roots below, trading minerals for sugars in the dark. A [carnivore]{.vocab tabindex="0" data-def="carnivore · n. 食肉动物；食虫植物"} — a hawk, perched high — watched a stand of [milkweed]{.vocab tabindex="0" data-def="milkweed · n. 乳草属植物"} where monarchs clustered. It was waiting, as all [predator]{.vocab tabindex="0" data-def="predator · n. 食肉动物；掠夺者；捕食者"}s wait, for the one moment of inattention. High on the ridge, a slab of [obsidian]{.vocab tabindex="0" data-def="obsidian · n. 黑曜石"} jutted from the cliff face, smooth and ancient, left behind when long-dead seas receded and [ammonoids]{.vocab tabindex="0" data-def="ammonoids 菊石类"} turned to stone in the limestone below it. Above, a cornice of old snow hung heavy — one warm afternoon away from becoming an [avalanche]{.vocab tabindex="0" data-def="avalanche · n. 雪崩; 雪崩；雪崩般塌落; 把...淹没，使无法应付"} that would reshape the slope entirely, the way the living world always does, slowly and then all at once.
 
 ### A Morning Walk Through Living and Vanishing Worlds
 
-:::: {.columns}
-::: {.column width="57%"}
-The valley had remarkable **fertility** — dark loam banked against ridges of **sandstone**, carved over millennia by the slow logic of **tectonics**. Geologists still argued about the **deposition** layers exposed along the eastern cliff: bands of chalky **cretaceous** rock sandwiched between iron-rich seams of **magnetite**. Somewhere above those seams, a **meteorite** had left a thin, dark line in the strata — a calling card from deep time, when **megafauna** still roamed and every **angiosperm** was a new experiment.
+The valley had remarkable [fertility]{.vocab tabindex="0" data-def="fertility · n. 肥沃；肥力；丰产; 繁殖力; 丰富"} — dark loam banked against ridges of [sandstone]{.vocab tabindex="0" data-def="sandstone · n. 砂岩"}, carved over millennia by the slow logic of [tectonics]{.vocab tabindex="0" data-def="tectonics · n. 建筑构造学; 构造地质学, 大地构造学"}. Geologists still argued about the [deposition]{.vocab tabindex="0" data-def="deposition · n. 罢免；沉积物; 宣誓作证；证词，证言"} layers exposed along the eastern cliff: bands of chalky [cretaceous]{.vocab tabindex="0" data-def="cretaceous · adj. 白垩的,白垩纪的; 白垩纪,白垩系 Cretaceousadj. 〈地〉白垩纪的"} rock sandwiched between iron-rich seams of [magnetite]{.vocab tabindex="0" data-def="magnetite · n. 磁铁矿"}. Somewhere above those seams, a [meteorite]{.vocab tabindex="0" data-def="meteorite · n. 陨星"} had left a thin, dark line in the strata — a calling card from deep time, when [megafauna]{.vocab tabindex="0" data-def="megafauna · n. 巨型动物"} still roamed and every [angiosperm]{.vocab tabindex="0" data-def="angiosperm · n. 被子植物"} was a new experiment.
 
-By mid-morning the scrub came alive. A lone **herbivore** — a mule deer — moved through a stand of **sagebrush**, pausing to nose at a fallen **pine cone**. Overhead, a **budgerigar** escaped from some distant homestead flashed green against the sky, improbable beside a native **sandpiper** picking its way along the mudflat. Near the water's edge, **quicksand** made the ground treacherous; a sign warned walkers off the soft margin. Out beyond the surf break, a solitary **swordfish** finned through the chop, and a **bluebottle** jellyfish drifted just beneath the surface like a bruise in the water. Farther inland, in the humid canyon, someone had planted a **heliotrope** against a stone wall, its purple clusters tracking the sun.
+By mid-morning the scrub came alive. A lone [herbivore]{.vocab tabindex="0" data-def="herbivore · n. 食草动物"} — a mule deer — moved through a stand of [sagebrush]{.vocab tabindex="0" data-def="sagebrush · n. 灌木蒿; 灌木蒿丛"}, pausing to nose at a fallen [pine cone]{.vocab tabindex="0" data-def="pine cone · n. 松果；松球"}. Overhead, a [budgerigar]{.vocab tabindex="0" data-def="budgerigar · n. 相思鹦鹉"} escaped from some distant homestead flashed green against the sky, improbable beside a native [sandpiper]{.vocab tabindex="0" data-def="sandpiper · n. 鹬科；矶鹬"} picking its way along the mudflat. Near the water's edge, [quicksand]{.vocab tabindex="0" data-def="quicksand · n. 流沙,敏捷,危险而捉摸不定的事物"} made the ground treacherous; a sign warned walkers off the soft margin. Out beyond the surf break, a solitary [swordfish]{.vocab tabindex="0" data-def="swordfish · n. 旗鱼"} finned through the chop, and a [bluebottle]{.vocab tabindex="0" data-def="bluebottle · n. 反吐丽蝇; 葡萄牙军舰; 矢车菊; 警察"} jellyfish drifted just beneath the surface like a bruise in the water. Farther inland, in the humid canyon, someone had planted a [heliotrope]{.vocab tabindex="0" data-def="Heliotrope 天芥菜属"} against a stone wall, its purple clusters tracking the sun.
 
-The afternoon revealed subtler dramas. Bright strands of **mistletoe** hung from an oak — **parasitic**, yes, yet part of a larger web: the berries fed the **fledgling** thrushes just learning flight. That web was **ecological** **mutualism** at its most visible, one organism's cost becoming another's advantage. A research station at the trailhead displayed jars of minerals and bones: a **vestigial** hind-limb from a whale, a tank holding a sleepy lizard mid-**estivation**, and behind glass, a scale model of the historic **menagerie** that once occupied these grounds before the **orangutan** enclosure was dismantled. Outside, a bin labeled **recycling** stood beside a panel explaining why the valley's shale held no viable **petroleum** — and why that, in the long run, was the luckiest thing that ever happened to it.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **fertility** <span class="wpos">n.</span> | 肥沃；肥力；丰产; 繁殖力; 丰富 |
-| **fledgling** <span class="wpos">n.</span> | 幼鸟; 无经验的人 |
-| **herbivore** <span class="wpos">n.</span> | 食草动物 |
-| **magnetite** <span class="wpos">n.</span> | 磁铁矿 |
-| **megafauna** <span class="wpos">n.</span> | 巨型动物 |
-| **menagerie** <span class="wpos">n.</span> | 动物园；动物展览；兽群 |
-| **meteorite** <span class="wpos">n.</span> | 陨星 |
-| **mistletoe** <span class="wpos">n.</span> | 槲寄生 |
-| **mutualism** <span class="wpos">n.</span> | 互助论,互利共生 |
-| **orangutan** <span class="wpos">n.</span> | 猩猩 |
-| **parasitic** <span class="wpos">adj.</span> | 寄生的;寄生虫的; 由寄生虫引起的; 寄生地;由寄生虫引起地 |
-| **petroleum** <span class="wpos">n.</span> | 石油 |
-| **pine cone** <span class="wpos">n.</span> | 松果；松球 |
-| **quicksand** <span class="wpos">n.</span> | 流沙,敏捷,危险而捉摸不定的事物 |
-| **recycling** <span class="wpos">n.</span> | 再循环 |
-| **sagebrush** <span class="wpos">n.</span> | 灌木蒿; 灌木蒿丛 |
-| **sandpiper** <span class="wpos">n.</span> | 鹬科；矶鹬 |
-| **sandstone** <span class="wpos">n.</span> | 砂岩 |
-| **swordfish** <span class="wpos">n.</span> | 旗鱼 |
-| **tectonics** <span class="wpos">n.</span> | 建筑构造学; 构造地质学, 大地构造学 |
-| **vestigial** <span class="wpos">adj.</span> | 残留的; 残余的; 退化的 |
-| **angiosperm** <span class="wpos">n.</span> | 被子植物 |
-| **bluebottle** <span class="wpos">n.</span> | 反吐丽蝇; 葡萄牙军舰; 矢车菊; 警察 |
-| **budgerigar** <span class="wpos">n.</span> | 相思鹦鹉 |
-| **confluence** <span class="wpos">n.</span> | 汇合处，汇流处，交汇处; 汇合，会聚，汇集；汇流 |
-| **cretaceous** <span class="wpos">adj.</span> | 白垩的,白垩纪的; 白垩纪,白垩系 Cretaceousadj. 〈地〉白垩纪的 |
-| **deposition** <span class="wpos">n.</span> | 罢免；沉积物; 宣誓作证；证词，证言 |
-| **ecological** <span class="wpos">adj.</span> | 生态的 |
-| **estivation** <span class="wpos">n.</span> | 夏眠 |
-| **Heliotrope** | 天芥菜属 |
-:::
-:::
-::::
+The afternoon revealed subtler dramas. Bright strands of [mistletoe]{.vocab tabindex="0" data-def="mistletoe · n. 槲寄生"} hung from an oak — [parasitic]{.vocab tabindex="0" data-def="parasitic · adj. 寄生的;寄生虫的; 由寄生虫引起的; 寄生地;由寄生虫引起地"}, yes, yet part of a larger web: the berries fed the [fledgling]{.vocab tabindex="0" data-def="fledgling · n. 幼鸟; 无经验的人"} thrushes just learning flight. That web was [ecological]{.vocab tabindex="0" data-def="ecological · adj. 生态的"} [mutualism]{.vocab tabindex="0" data-def="mutualism · n. 互助论,互利共生"} at its most visible, one organism's cost becoming another's advantage. A research station at the trailhead displayed jars of minerals and bones: a [vestigial]{.vocab tabindex="0" data-def="vestigial · adj. 残留的; 残余的; 退化的"} hind-limb from a whale, a tank holding a sleepy lizard mid-[estivation]{.vocab tabindex="0" data-def="estivation · n. 夏眠"}, and behind glass, a scale model of the historic [menagerie]{.vocab tabindex="0" data-def="menagerie · n. 动物园；动物展览；兽群"} that once occupied these grounds before the [orangutan]{.vocab tabindex="0" data-def="orangutan · n. 猩猩"} enclosure was dismantled. Outside, a bin labeled [recycling]{.vocab tabindex="0" data-def="recycling · n. 再循环"} stood beside a panel explaining why the valley's shale held no viable [petroleum]{.vocab tabindex="0" data-def="petroleum · n. 石油"} — and why that, in the long run, was the luckiest thing that ever happened to it.
 
 ### Wandering the Wild: From Deep Earth to Treetop
 
-:::: {.columns}
-::: {.column width="57%"}
-The trail began at the edge of **timberland**, where centuries-old conifers rose from **stratified** layers of rock and soil — a visible record of the slow forces that had shaped the valley. Geologists had mapped the ridge above as a **subduction** zone, and its gradual **subsidence** had left the creek bed lower every decade. Underfoot, last autumn's **chrysanthemum** stalks lay pressed into the mud beside sprays of **meadowsweet** and clumps of **willow-herb**, all working their way back into the earth through the quiet chemistry of **biodegradable** decay.
+The trail began at the edge of [timberland]{.vocab tabindex="0" data-def="timberland · n. 森林地"}, where centuries-old conifers rose from [stratified]{.vocab tabindex="0" data-def="stratified · adj. 成层了的,层积了的,分层的"} layers of rock and soil — a visible record of the slow forces that had shaped the valley. Geologists had mapped the ridge above as a [subduction]{.vocab tabindex="0" data-def="subduction · n. 减去;减法"} zone, and its gradual [subsidence]{.vocab tabindex="0" data-def="subsidence · n. 沉淀,陷没,下沉"} had left the creek bed lower every decade. Underfoot, last autumn's [chrysanthemum]{.vocab tabindex="0" data-def="chrysanthemum · n. 〈植〉菊花"} stalks lay pressed into the mud beside sprays of [meadowsweet]{.vocab tabindex="0" data-def="meadowsweet · n. 绣线菊属的灌木,绣线菊草属的草"} and clumps of [willow-herb]{.vocab tabindex="0" data-def="willow-herb 柳兰"}, all working their way back into the earth through the quiet chemistry of [biodegradable]{.vocab tabindex="0" data-def="biodegradable · adj. 能进行生物降解的,能起生物递解分解作用的"} decay.
 
-A **conservationist** from the regional trust had spent the morning cataloguing **pollination** patterns in the old **plantation** downstream, where introduced flowering species were drawing native bees away from the surrounding meadow. She paused to watch a **mockingbird** run through its borrowed repertoire overhead, then crouched to photograph a **salamander** half-hidden under a mossy shelf of stone. Nearby, an **invertebrate** survey had turned up rare aquatic larvae — small proof that **contamination** levels in the feeder stream had finally begun to fall.
+A [conservationist]{.vocab tabindex="0" data-def="conservationist · n. 自然资源保护者,生态环境保护者"} from the regional trust had spent the morning cataloguing [pollination]{.vocab tabindex="0" data-def="pollination · n. 授粉"} patterns in the old [plantation]{.vocab tabindex="0" data-def="plantation · n. 种植园, 大农场"} downstream, where introduced flowering species were drawing native bees away from the surrounding meadow. She paused to watch a [mockingbird]{.vocab tabindex="0" data-def="mockingbird · n. 嘲鸟"} run through its borrowed repertoire overhead, then crouched to photograph a [salamander]{.vocab tabindex="0" data-def="salamander · n. 火蜥蜴,火怪,耐火的人"} half-hidden under a mossy shelf of stone. Nearby, an [invertebrate]{.vocab tabindex="0" data-def="invertebrate · adj. 无脊椎的; 无脊椎动物"} survey had turned up rare aquatic larvae — small proof that [contamination]{.vocab tabindex="0" data-def="contamination · n. 污染；弄脏；毒害; 玷污; 致污物"} levels in the feeder stream had finally begun to fall.
 
-The afternoon light caught a display board the trust had installed near the trailhead. It traced the deep history of animal diet and behavior: an artist's reconstruction of **Ambulocetus**, the ancient walking whale, suggested an **omnivorous** early phase before full marine **domestication** of a body plan; a panel on **herbivorous** browsers showed how grazing shaped entire landscapes; another explained **parasitism** among woodland fungi, noting that the damp walls of the equipment shed had developed their own **domestic fungus** colony. A diagram of **plate tectonics** framed it all, reminding visitors that the meadow they stood in had once been seafloor. A small exhibit on **archaeopteryx** anchored the evolutionary arc from feathered theropod to the birds calling above, while a tank of **Poeciliidae** — small, adaptable livebearers — illustrated adaptive radiation in miniature. The board ended with a gentle pitch for **back-to-nature** education programs, urging a culture less indifferent to the **hingganite**-bearing outcrops and the ten thousand ordinary miracles surrounding them.
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="40%"}
-::: {.wordbox}
-| 词 | 释义 |
-|:--|:--|
-| **hingganite** | 兴安石 |
-| **omnivorous** <span class="wpos">adj.</span> | 杂食性的，肉草兼食的; 对任何事物均感兴趣的；什么书都看的 |
-| **parasitism** <span class="wpos">n.</span> | 寄生状态；寄生病 |
-| **plantation** <span class="wpos">n.</span> | 种植园, 大农场 |
-| **salamander** <span class="wpos">n.</span> | 火蜥蜴,火怪,耐火的人 |
-| **stratified** <span class="wpos">adj.</span> | 成层了的,层积了的,分层的 |
-| **subduction** <span class="wpos">n.</span> | 减去;减法 |
-| **subsidence** <span class="wpos">n.</span> | 沉淀,陷没,下沉 |
-| **timberland** <span class="wpos">n.</span> | 森林地 |
-| **Ambulocetus** |  |
-| **herbivorous** <span class="wpos">adj.</span> | 食草的 |
-| **meadowsweet** <span class="wpos">n.</span> | 绣线菊属的灌木,绣线菊草属的草 |
-| **mockingbird** <span class="wpos">n.</span> | 嘲鸟 |
-| **Poeciliidae** | 杂色鱼科 |
-| **pollination** <span class="wpos">n.</span> | 授粉 |
-| **willow-herb** | 柳兰 |
-| **invertebrate** <span class="wpos">adj.</span> | 无脊椎的; 无脊椎动物 |
-| **archaeopteryx** <span class="wpos">n.</span> | 始祖鸟 |
-| **biodegradable** <span class="wpos">adj.</span> | 能进行生物降解的,能起生物递解分解作用的 |
-| **chrysanthemum** <span class="wpos">n.</span> | 〈植〉菊花 |
-| **contamination** <span class="wpos">n.</span> | 污染；弄脏；毒害; 玷污; 致污物 |
-| **domestication** <span class="wpos">n.</span> | 驯养；教化 |
-| **back-to-nature** <span class="wpos">adj.</span> | 回归自然的 |
-| **conservationist** <span class="wpos">n.</span> | 自然资源保护者,生态环境保护者 |
-| **domestic fungus** |  |
-| **plate tectonics** | 板块结构学 |
-:::
-:::
-::::
+The afternoon light caught a display board the trust had installed near the trailhead. It traced the deep history of animal diet and behavior: an artist's reconstruction of [Ambulocetus]{.vocab tabindex="0" data-def="Ambulocetus"}, the ancient walking whale, suggested an [omnivorous]{.vocab tabindex="0" data-def="omnivorous · adj. 杂食性的，肉草兼食的; 对任何事物均感兴趣的；什么书都看的"} early phase before full marine [domestication]{.vocab tabindex="0" data-def="domestication · n. 驯养；教化"} of a body plan; a panel on [herbivorous]{.vocab tabindex="0" data-def="herbivorous · adj. 食草的"} browsers showed how grazing shaped entire landscapes; another explained [parasitism]{.vocab tabindex="0" data-def="parasitism · n. 寄生状态；寄生病"} among woodland fungi, noting that the damp walls of the equipment shed had developed their own [domestic fungus]{.vocab tabindex="0" data-def="domestic fungus"} colony. A diagram of [plate tectonics]{.vocab tabindex="0" data-def="plate tectonics 板块结构学"} framed it all, reminding visitors that the meadow they stood in had once been seafloor. A small exhibit on [archaeopteryx]{.vocab tabindex="0" data-def="archaeopteryx · n. 始祖鸟"} anchored the evolutionary arc from feathered theropod to the birds calling above, while a tank of [Poeciliidae]{.vocab tabindex="0" data-def="Poeciliidae 杂色鱼科"} — small, adaptable livebearers — illustrated adaptive radiation in miniature. The board ended with a gentle pitch for [back-to-nature]{.vocab tabindex="0" data-def="back-to-nature · adj. 回归自然的"} education programs, urging a culture less indifferent to the [hingganite]{.vocab tabindex="0" data-def="hingganite 兴安石"}-bearing outcrops and the ten thousand ordinary miracles surrounding them.
