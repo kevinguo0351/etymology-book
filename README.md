@@ -1,38 +1,39 @@
-# 词根解码 (etymology-book) 
-https://kevinguo0351.github.io/etymology-book/
+# 词根解码 (etymology-book)
+
+🌐 在线阅读：https://kevinguo0351.github.io/etymology-book/
+
 用构词法（词根 + 词缀 + 词源故事 + 语境）快速扩充英语**阅读/被动词汇**的 Quarto 书。
 
 - 目标读者：词汇量 ~9k、想高效啃下学术/科技长尾词的中文母语者。
 - 形式：Quarto book，HTML 优先；中文讲解 + 英文词例。
-- 第一轮：~60 章（每章一个词根簇），每天一章 + 间隔复习，约两个月。
+- 用法：每天读固定章节 + 间隔复习（每章末有"今日复习"，按 N−1/−2/−4/−8/−16 回看）。
+
+## 状态：已全部完成 ✅
+
+- **正文 · 词根章节：80 章全部上线**（拉丁/希腊交替，每章一个词根簇 + 词源故事 + 派生词表 + 生动语境 + 助记 + 陷阱 + 今日复习；标题带「第N章」便于查阅）。
+- **旧词复习 · 语境唤醒：已上线**——把约 6600 个旧生词按 22 个场景，编成 232 篇语境短文，每个加粗词**鼠标悬停（触屏点按）即弹出释义**，覆盖率 6632/6635。
+- 附录：词缀速查表、复习日历。
+- CI 在每次 push 后自动 `quarto render` 并发布到 GitHub Pages（本地无需安装 Quarto）。
 
 ## 结构
 
 ```
-_quarto.yml            # Quarto book 配置（HTML）
-index.qmd              # 前言（含诚实预期）
-chapters/method.qmd    # 学习方法 + 间隔复习
-chapters/chNN-*.qmd    # 每章一个词根簇
-appendix/affixes.qmd   # 词缀速查表
-appendix/review-calendar.qmd
-spine.md               # 全书骨架：词根清单 + 频率排序 + 60 章映射
-scripts/               # 工具链（Node）：频率排序 / Anki / Eudic 导出
-.github/workflows/     # CI：quarto render → GitHub Pages（本地无需装 Quarto）
+_quarto.yml              # Quarto book 配置（HTML，含两个部分）
+index.qmd / chapters/method.qmd
+chapters/chNN-*.qmd      # 80 章词根教学
+review/                  # 旧词复习：22 个主题页 + index（悬停弹释义）
+appendix/                # 词缀表、复习日历
+styles.css               # 含 .vocab 悬停气泡、词源块样式
+scripts/                 # Node 工具链：生成 / 拼装 / 导出
+.github/workflows/       # CI：render → Pages
 ```
 
-## 工具链（Node，非 Python）
+## 工具链（Node）
 
-> 原计划用 Python，但本机未安装 Python（仅 MS Store 占位），而 Node v24 已就绪、且 Eudic 调用逻辑本就是 JS——故改用 Node。
+> 本机未装 Python，故全用 Node。章节与旧词复习均由并行 sub-agent workflow 生成，脚本负责解析/分桶/拼装。
 
-- `npm run rank` — 按词频给词根排序（`scripts/rank_roots.mjs`）
-- `npm run anki` — 生成每章 Anki `.apkg`（`scripts/build_anki.mjs`，待内容定稿后实现）
-- `npm run eudic` — 把每章词表推送到欧路生词本（`scripts/export_eudic.mjs`，复用 context-vocab 的 Eudic 接口）
+这套方法已抽象成可复用的 Claude Code 技能：[vocabulary-builder](https://github.com/kevinguo0351/vocabulary-builder)。
 
-## 渲染
+## 本地预览（可选）
 
-本地未装 Quarto；推送到 GitHub 后由 Actions 自动 `quarto render` 并发布到 Pages。
-如需本地预览，安装 Quarto 后运行 `quarto preview`。
-
-## 当前状态
-
-Phase 1（脊柱 + 2 样章）已完成，等待审定后批量产章。
+安装 Quarto 后 `quarto preview`；否则推送到 GitHub 由 CI 渲染。
