@@ -1,0 +1,371 @@
+# Day 33 · 抢夺是rob，膨胀的是ball {.unnumbered}
+
+::: {.root-banner}
+Day 33 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p291–p298
+
+<!-- p.276 -->
+
+每当提起“足球”的时候，是不是觉得football和soccer很容易混淆？首先讲一下football这个词，在英国它指的是“足球”，而在美国却指的是图片所示的“美式足球American football”。如果经常混淆这两个词的话，我建议大家直接背football指的是“美式足球”，而soccer指的则是“足球”。切入主题，美式足球比赛的核心是抢对方的球rob a ball，联想到这一点，让我们一起来看一下今天我们要学的与rob抢夺和ball球相关的词汇吧！
+
+**Voca Map：rob 抢夺**
+- **rob** 抢夺
+  - ← **rape** 强奸
+  - ← **ravage** 抢夺，破坏
+  - → **rapture** 欢天喜地，欢喜
+  - → **rapt** 热衷
+
+**Voca Map：ball 球**
+- **ball** 球
+  - ← **ballot** 投票用纸
+  - ← **belly** 肚子，腹部
+  - → **bloom** 花；盛开
+  - → **bolster** 支撑，加固
+
+<!-- p.277 -->
+
+## 1. 抢夺的 rob 抢夺
+
+::: {.etymo}
+学习rob这个单词的时候需要注意一个很重要的语法知识点，即rob A of B 将B从A抢夺过来。大家听说过吗？这里使用的介词of是“去除、剥夺的of”。从现在开始我们将要学习的单词都是跟rob相关的词汇，它们基本basically都带有“抢夺”之意。
+:::
+
+- **rob** [rɒb] *vt.* 抢夺，盗窃 = seize
+  - rob A of B 将B从A抢夺过来
+  - rob a bank 抢劫银行
+- **robbery** [ˈrɒbərɪ] *n.* 抢劫
+  - armed robbery 武装抢劫
+
+::: {.mnemonic}
+**温馨小贴士**
+
+注意 **rob A of B** 是一个很重要的语法点，请大家把它当作一个词组来记！
+:::
+
+> The illness **robbed** him of happiness with his wife.
+> 疾病夺去了他和妻子的欢乐。
+
+> He got five years in jail for **robbing** a gas station.
+> 因为抢劫加油站他被判入狱5年。
+
+> The police picked up five bank **robbers** last week.
+> 上个星期警察逮捕了5名银行抢劫犯。
+> （pick up 逮捕 (=arrest)）
+
+## 2. 抢夺别人的性被称为作 rape 强奸
+
+::: {.etymo}
+单词rob抢夺和rape强奸之间到底有什么关系呢？**rape**的词根**rap**是rob的发音加重后的拼写，在这里加上动词后缀-e组成的单词就是rape。所谓“强奸”是指将性“用强制性的形式抢过来的行为”，这样一来两个单词之间的关系就不难理解了吧！rapist的意思是“强奸犯”。类似的单词还有molest性骚扰，这个单词经常以词组chlid molestation儿童性骚扰的形式出现。sexual harassment调戏这个词组也经常使用，希望大家一并将其它记下来！rapid快的，迅速的也源自于单词rape。请大家试想一下抢别人东西的情景！手的动作非常“快”吧？
+:::
+
+- **rape** [reɪp] *n.* 强奸 *vt.* 强奸
+  - be accused of raping his ex-girlfriend 被控强奸他前女友
+- **rapist** [ˈreɪpɪst] *n.* 强奸犯
+  - child molestation 儿童猥亵，儿童性骚扰
+  - sexual harassment 性骚扰
+
+<!-- p.278 -->
+
+> He was recently charged with **rape**.
+> 他最近被诉强奸。
+
+> The woman was **raped** and then murdered by the robber.
+> 这个女人被强盗奸杀。
+
+## 3. 比 rob 抢的规模更大的话，就是 ravage 掠夺［破坏］
+
+::: {.etymo}
+其实，rob掠夺和ravage掠夺在意义上的差别不大。只不过是拼写稍微有些不同罢了。rob的拼写变成rav再加上-age组成的单词就是ravage掠夺［破坏］。用英语解释ravage的意思就是“to damage something very badly将某物损伤得很严重”。像这样，将ravage和rob联系起来就很容易记忆了。
+:::
+
+- **ravage** [ˈrævɪdʒ] *vt.* 掠夺［破坏］= destroy, wreck havoc on
+  *n.* 破坏，蹂躏
+  - the building ravaged by fire 被火灾损坏的建筑
+  - a country ravaged by civil war 被内战蹂躏的国家
+
+::: {.mnemonic}
+**温馨小贴士**
+
+rob 抢别人的东西
+rape 抢别人的性 → 强奸
+ravage 胡乱抢别人的东西 → “掠夺”
+:::
+
+> The historic temple was **ravaged** by fire.
+> 被火灾破坏了的古老庙宇。
+
+> The country suffers from the **ravages** of the war.
+> 那个国家遭受了战争的蹂躏。
+
+## 4. 魂儿完全被勾走的状态 rapture 欢天喜地，欢喜
+
+<!-- 插图：人们欢呼庆祝的场景 -->
+
+::: {.etymo}
+乍一看，大家一定觉得rob抢夺和rapture欢天喜地之间没有任何关系correlation。那为什么还要说rapture 是从rob发展而来的单词呢？请大家试着想象一下！当听到自己上了理想中的大学的消息时，当爱的人接受自己的求婚时，当自己的队获胜时，心情如何呢？会大声欢呼wow吧？大声欢呼，瞬间失去常态而发狂的状态就是rapture！rap也是rob的变形，rapture原本是指“（因为太兴奋）失去常态的状态”的意思，其引申义即为“欢天喜地，欢喜”。
+:::
+
+- **rapture** [ˈræptʃə(r)] *n.* 欢天喜地，欢喜 = delight, felicity, bliss, ecstasy
+  - go into raptures 欣喜若狂
+  - shouts of rapture 高兴地欢呼
+- **rupture** [ˈrʌptʃə(r)] *n.* 破裂；断裂 ※ 注意与rapture 比较一下，两者的拼写是不一样的！
+
+<!-- p.279 -->
+
+> Looking at a beautiful sunset gives me a feeling of **rapture**.
+> 看到美丽的夕阳，我满心欢喜。
+
+> The last minute goal sent the fans into **raptures**.
+> 最后一分钟的进球让球迷们欣喜若狂。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 rapture 的意思为欢喜，而 rupture 的词根 rup 是“破裂”的意思，其引申义是 burst（爆炸）！
+:::
+
+## 5. 被某些东西深深吸引的 rapt 热衷的、埋头的
+
+<!-- 插图：一人戴耳机坐在电脑前专注地打游戏 -->
+
+::: {.etymo}
+如果去掉rapture的后缀-ure的话，那就剩下rapt了吧。如果说因为太高兴而失去理智的状态是rapture的话，那么rapt后缀的意思就从“被……深深地吸引”变成了“热衷的”。玩电脑游戏或者看TV电视剧的时候，旁若无人的样子就是被rapt了吧？如果一个人用一生的时间rapt于某件事上，那不就是件让其rapture欢喜的事吗？
+:::
+
+- **rapt** [ræpt] *adj.* 热衷的，埋头的 =engrossed, immersed
+  - listen with rapt attention 全神贯注地听
+  - the student's rapt expression 学生着迷的表情
+
+::: {.mnemonic}
+**温馨小贴士**
+
+短语 be rapt in... 的意思是“热衷于……，埋头于”。
+:::
+
+> He sat with a **rapt** expression reading her book.
+> 他坐着，陶醉地读着她的书。
+
+> The audience listened with **rapt** attention to the excellent speaker.
+> 观众们着迷地听着发言者出色的演讲。
+
+## 6. 膨胀起来的 ball 球
+
+<!-- 插图：足球 -->
+
+::: {.etymo}
+大家应该都知道ball是“球”的意思吧，在这里让我们先一起来看一下ball的词源义。请仔细观察左图中的球！如果球中的气体全部漏掉的话，它就不再是一个球了。只有膨胀起来才能称得上是一个球。单词ball的词源是swell膨胀，由此我们也可以看出ball的意思是“膨胀起来的物体”。
+:::
+
+前面我们已经了解了ball的词源意义，这里我为大家挑选了两个与ball相关的重点俗语。第一个是on the ball严密的、警惕性高的。不管是足球、棒球还是排球，运动员们都应该一直“把注意力放在球上”。另一个是have a ball度过一段愉快的时光。该短语中的ball不是“球”的意思，而是“舞会”的意思。它与ballet芭蕾的词源相同。因此，have a ball即“兴奋地（跳舞）玩儿”，引申为“度过一段愉快的时光”。
+
+<!-- p.280 -->
+
+- **ball** [bɔːl] *n.* 球；舞会
+  - inflate a ball 给气球充气
+  - on the ball 留神，警觉 = alert, cautious
+  - have a ball 狂欢
+
+> My sister is an assistant who's really **on the ball**.
+> 我姐姐是个警惕性很高的助理。
+
+> Last Sunday we **had a ball** on the beach.
+> 上个星期我们在沙滩上狂欢。
+
+## 7. 以前在不记名投票中使用的小球 ballot 投票用纸；投票，投票总数
+
+::: {.etymo}
+前面我们已经讲过ball的词源是swell膨胀，接下来我们再深入地研究一下这个词。单词ballon意为“气球，热气球”，让人一下子就能感觉到它源自于单词ball。那ballot又是什么呢？ballot的词源本是“小球”的意思，但它的意思却是“投票用纸”，两者之间的差别是不是太大了呢？其实不然。据说在远古的罗马时代是没有纸的，人们制作一个能握在手里的小球ballot，然后将其放在缸里进行不记名投票secret voting。由此，ballot这个单词从很久以前就被习惯性地customarily解释为“投票用纸”，后来甚至还解释为“投票，投票总数”。
+:::
+
+<!-- 插图：将选票投入投票箱 -->
+
+- **ballot** [ˈbælət] *n.* 投票用纸；投票，投票总数
+  - the ballot 投票
+  - secret ballot 不记名投票，匿名投票
+  - cast one's ballot 投下选票
+
+> The chairman is chosen by **secret ballot**.
+> 主席由不记名投票产生。
+
+> Please fold the ballot paper twice and put it in the **ballot** box.
+> 请将投票纸折叠两下后投进投票箱。
+
+> It is the duty as well as the right of the people to **cast their ballot** on election day.
+> 在大选日把选票投进投票箱既是人民的责任也是权利。
+
+## 8. 像球一样膨胀起来的 belly 腹部，肚子
+
+::: {.etymo}
+将ball的元音变化形成单词bell后，再添加后缀-y所形成的单词就是belly腹部，肚子。实际上，当我们的身体开始长赘肉的时候，最先凸出来的部分就是“肚子”。大家之所以对belly这个单词比较熟悉，大概是因为
+:::
+
+<!-- p.281 -->
+
+belly dance肚皮舞这个单词吧！这个舞是通过晃动肚子跳出来的舞，因此取名为“肚皮舞”。你知道这个舞蹈对减掉腹部的赘肉很有效果outstanding effect吗？
+
+- **belly** [ˈbelɪ] *n.* 肚子，腹部 = abdomen
+  - belly dance 肚皮舞
+  - bellyache 肚子痛
+  - belly laugh 捧腹大笑
+  - beer belly 啤酒肚
+  - go belly up 垮台，失败
+
+> My husband has a **beer belly**.
+> 我丈夫有啤酒肚。
+
+> We had **belly laughs** at the sight.
+> 看到那场景后我们捧腹大笑。
+
+> The **belly** has no ears.
+> 食欲不长耳。（人肚子饿了就听不进道理。）
+
+## 9. 花苞绽放的状态 bloom 花；花绽放，盛开
+
+<!-- 插图：盛开的白花 -->
+
+::: {.etymo}
+寒冷的冬天过后，就会迎来万紫千红的春天。山上和田野里百花齐放。天气渐暖，花儿们也都争先恐后地开放了。仔细观察，绽放的花苞，很明显地apparently一下子就映入眼帘。单词bloom的bl也是源自于“swell”的意思。因此，bloom这个词就有了“花的绽放和盛开盛开的花儿”这两个义项。语义相近、拼写相似的单词还有blossom。
+:::
+
+- **bloom** [bluːm] *n.* 花 = flowers；花的绽放，盛开 = blossom
+  *vi.* 花开
+  - in full bloom (blossom) 开着花，顶盛时期
+  - the roses in bloom 盛开的玫瑰
+  - his business in full bloom 他的事业处于顶盛期
+
+::: {.mnemonic}
+**温馨小贴士**
+
+blossom 和 bloom 的区别：
+blossom 指的是单纯的“花开”，bloom 的意思则是“花绽放，盛开”。
+与 blossom 相比，bloom 的状态更美吧！
+:::
+
+> The flowers in the garden are **in full bloom**.
+> 花园里的花全开了。
+
+> When spring comes, the flowers **bloom**.
+> 春天到了，花儿开了。
+
+<!-- p.282 -->
+
+## 10. 就像个枕头垫儿一样，从下面将头托起来的 bolster 支撑，加固
+
+<!-- 插图：一人躺在枕头上，对话框：“用这个垫着的话可就舒服多了~” -->
+
+::: {.etymo}
+单词 bolster 用作名词的时候是“靠枕，衬垫”的意思，也可以译作“枕头垫”。睡觉的时候就是这个 bolster 支撑着我们的头部。由此，bolster 枕头垫儿作为动词使用的话就是“（从下面托起来）支撑，加固”的意思。在这里词根 bol 的意思是“swell”。bolster 不仅在考试中经常出现，而且在新闻报道中也经常出现，是一个很重要的单词。大家一定要牢记哦！
+:::
+
+- **bolster** [ˈbəʊlstə(r)] *vt.* 支持，支撑，加固 = boost, reinforce, beef up
+  - his efforts to bolster his success 他努力巩固他的成功
+  - my parents' praise to bolster my confidence 父母的称赞加强了我的信心
+
+> Falling interest rates may help to **bolster up** the economy.
+> 降低利率有利于振兴经济。
+
+> Additional soldiers were sent to **bolster** the defenses at the front line.
+> 增援兵力去加强前沿的防线。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 抢夺
+   → 抢夺 ______
+2. 抢别人的性
+   → 强奸 ______
+3. 比 rob 抢的规模更大
+   → 掠夺，破坏 ______
+4. 魂儿完全被勾走的状态
+   → 欢天喜地，欢喜 ______
+5. 被某些东西深深地吸引
+   → 热衷的，埋头的 ______
+6. 膨胀起来的东西
+   → 球 ______
+7. 以前在不记名投票中使用的小球
+   → 投票用纸；投票；投票总数 ______
+8. 像球一样膨胀起来的部分
+   → 腹部，肚子 ______
+9. 花苞绽放的状态
+   → 花；花绽放，盛开 ______
+10. 就像个枕头垫子一样，从下面将头托起来
+    → 支撑，加固 ______
+:::
+
+答案 1. rob 2. rape 3. ravage 4. rapture 5. rapt 6. ball 7. ballot 8. belly 9. bloom 10. bolster
+
+<!-- p.283 -->
+
+## 确认并攻克下列单词
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. rape ______
+2. ravage ______
+3. rapt ______
+4. ballot ______
+5. bloom ______
+6. bolster ______
+:::
+
+## 二、请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 他因为涉嫌**强奸**受到了处罚。______
+2. 日本从韩国**掠夺**了很多文化遗产。______
+3. 她顺产生了个儿子，一家人都**欢天喜地**。______
+4. 她那**如痴如醉**的表情。______
+5. **投票**结果还没公布。______
+6. 随着年龄的增长，容易出现**大肚腩**。______
+7. 田野里各种花儿**争相绽放**。______
+8. 征集后备兵力以**保持**战斗力。______
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. He gazed at the woman in **rapture**.
+   A. bless
+   B. bliss
+   C. rupture
+:::
+
+2. The country has been ______ by the war.
+   A. renounced
+   B. revised
+   C. ravaged
+
+3. She cast her **ballot** in the presidential election.
+   A. identification
+   B. ballet
+   C. vote
+
+4. We asked the government to ______ security.
+   A. foster
+   B. bolster
+   C. protect
+
+---
+
+## 本日词汇速查（12 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [rob]{.headword} | rɒb | vt | 抢夺，盗窃 = seize |
+| [ball]{.headword} | bɔːl | n | 球；舞会 |
+| [robbery]{.headword} | ˈrɒbərɪ | n | 抢劫 |
+| [rape]{.headword} | reɪp | n | 强奸 *vt.* 强奸 |
+| [rapist]{.headword} | ˈreɪpɪst | n | 强奸犯 |
+| [ravage]{.headword} | ˈrævɪdʒ | vt | 掠夺［破坏］= destroy, wreck havoc on |
+| [rapture]{.headword} | ˈræptʃə(r) | n | 欢天喜地，欢喜 = delight, felicity, bliss, ecstasy |
+| [rapt]{.headword} | ræpt | adj | 热衷的，埋头的 =engrossed, immersed |
+| [ballot]{.headword} | ˈbælət | n | 投票用纸；投票，投票总数 |
+| [belly]{.headword} | ˈbelɪ | n | 肚子，腹部 = abdomen |
+| [bloom]{.headword} | bluːm | n | 花 = flowers；花的绽放，盛开 = blossom |
+| [bolster]{.headword} | ˈbəʊlstə(r) | vt | 支持，支撑，加固 = boost, reinforce, beef up |
+

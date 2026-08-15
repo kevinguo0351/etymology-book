@@ -1,0 +1,409 @@
+# Day 44 · 表示向下坠落脱离的de- {.unnumbered}
+
+::: {.root-banner}
+Day 44 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p388–p396
+
+<!-- p.373 -->
+
+前缀de-基本义是“下面down”。这点可从单词degrade降低等级，depress使沮丧看出来。de-还有一个意思是“分离，脱离away”。试想一下柿子树上的柿子熟透了后掉下来的情景：柿子向下“down”的同时也是它与树“away分离，脱离”的过程。单词detach是“（将粘在上面的东西）取下，使分离”的意思，这里的de-就是“分离，脱离”的意思。
+
+<!-- 插图：熟透掉落的柿子，上面写着 DE -->
+
+**Voca Map：de-是down, away**
+
+- de-强调 + clare明确的(clear)（使明确）→ **declare** 宣言，宣布
+- de-下面(down) + cad落下(fall) + -ence名词后缀（(道德)向下落）→ **decadence** 堕落
+- de-下面(down) + clin(e)折弯(bend)（向下弯曲）→ **decline** 衰退
+- de-下面(down) + ple填充(fill) + -te动词后缀（将填充的量拉出来，拽出来）→ **deplete** 使枯竭
+- de-下面(down) + fic制作(make) + -(i)ent形容词后缀（在(所需要量)之下的）→ **deficient** 不足的
+- de-下面(down) + preci价格(price) + -ate动词后缀（降低价值）→ **depreciate** 降低价值
+- de-分离(away) + priv(e)个人所有的(private)（从个人所有中分离出来）→ **deprive** 抢夺
+- de-下面(down) + scribe写文章(write)（写下(文章)）→ **describe** 叙述，描写
+- de-分离(away) + tach触碰(touch)（(将粘在一起的东西)分开）→ **detach** 分开
+- de-分离(away) + ter使害怕(frighten)（使某人因感到害怕而不能做某事）→ **deter** 阻止，妨碍
+
+<!-- p.374 -->
+
+## 1. 明确的 de- 阐述 clare，declare ①宣言，宣布；②申报（纳税物、所得）
+
+<!-- 插图：宣布/宣言插图 -->
+
+::: {.etymo}
+单词declare中的clare是clear明确的的变形，前缀de-在这里起“强调”的作用，这一点大家应该知道。我们只要记住一些主要的前缀除了本身意义外，一般还可以表示强调。因此，declare的词义从词源义“明确阐述”变成了“宣言，宣布state officially and publicly”。declare war宣战是一个很典型的表达，请大家一定要记住。
+:::
+
+那么，“申报（纳税物、所得）”这条词义又是怎么回事呢？虽然乍一看这种表达好像很生疏，其实当我们明确地阐述“我从外国买回了这个东西！”或“我赚了这么多钱！”的时候，就是一个“申报（纳税物、所得）”的过程。“海关”用英语表示是customs，大家要一起记住哦！
+
+- **declare** [dɪˈkleə] *vt.* ①宣言，宣布 = announce, proclaim; ②申报（纳税物，所得）
+  - declare a strike 宣布罢工
+- **declaration** [ˌdekləˈreɪʃn] *n.* 宣言，宣布，申报
+
+> A state of emergency has been **declared**.
+> 宣布进入紧急状态。
+
+> All income must be **declared**.
+> 所有收入都要申报。
+
+> Do you have anything to **declare**?
+> 你有什么要申报的吗？
+
+## 2. 向下 de- 倾斜的话 clin (e)，decline ①衰退、减少；②（郑重地）拒绝、推辞
+
+<!-- 插图：向下倾斜的柱状图与曲线 -->
+
+::: {.etymo}
+从右图可以看出坡度slope是向下倾斜的，这就是decline。看了这幅图，自然而然能让人想到“衰退，减少”这层含义，decline也可以用作名词，意思是“衰退，减少”。短语a decline in unemployment的意思是“失业率下降”。
+:::
+
+单词decline还有一个很重要的词义，就是“（郑重地）拒绝、推辞”。将对方的邀请或提议向下倾斜的话，即可引申为“拒绝”。turn down也是“拒绝”的意思。
+
+<!-- p.375 -->
+
+- **decline** [dɪˈklaɪn] *n.* 衰退，减少 *v.* ① 衰退，减少 =decrease, run down ②（郑重地）拒绝，推辞 =refuse, reject, turn down
+  - on the decline 倾斜中；衰退中
+  - decline to comment on the problem 拒绝对该问题发表评论
+
+::: {.mnemonic}
+**温馨小贴士**
+
+decline作动词，意为“①衰退；②（郑重地）拒绝”，但作名词使用时，只含有“衰退，减少”的意思，没有“拒绝”之义。
+:::
+
+> The population of the rural area has **declined**.
+> 农村地区人口减少了。
+
+> The minister **declined** to answer the sensitive question.
+> 首相拒绝回答这个敏感问题。
+
+## 3. 在所需量fic之下de-，deficient不足的，缺乏的
+
+::: {.etymo}
+单词deficient的前缀de-很容易理解，是“下面down”的意思。达不到所需的量的状态就是deficient不足。干旱drought就是水不足deficient的状态。此外，如果身体维他命缺乏的deficient话就会出现很多问题。请大家同时记住deficient的反义词sufficient充分的。
+:::
+
+<!-- 插图：龟裂干旱的土地 -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+作为“……不足”之义时，deficient后面必须跟介词in（表示增加的介词），这是一个非常重要的语法点！
+同样，作为“……的增加或减少”之义时，它以increase / rise in or decrease / fall in的固定搭配出现。大家一定要记住哦！
+:::
+
+- **deficient** [dɪˈfɪʃənt] *adj.* 不足的，缺乏的 =scanty, scarce, lacking
+  - deficient in vitamin 缺少维他命
+  - deficient in common sense 缺乏常识
+- **deficiency** [dɪˈfɪʃənsi] *n.* 缺乏，不足
+- **deficit** [ˈdefɪsɪt] *n.* 赤字，亏空
+
+> He is **deficient** in common sense.
+> 他缺乏常识。
+
+> I think of Cambell as **deficient** in cooperation.
+> 我认为坎贝尔缺乏合作意识。
+
+> One of the symptoms of vitamin C **deficiency** is extreme tiredness.
+> 缺少维他命C的症状之一就是非常疲倦。
+
+## 4. 从个人所有中priv(e)分离de-，deprive从……抢夺，剥夺
+
+::: {.etymo}
+单词deprive中前缀de-的意思是“分离，脱离away”。如果瓜分某人的个人所有物priv的话就应该是“抢夺，剥夺”了。关于deprive的短语“deprive A of B从A抢夺B”比较常用，在这里介词of可以称得上是“消除和剥夺的”of。与该语法点相似的其他表达“rob A of B抢夺A的B物品”、“get rid of除去，摆脱”！
+:::
+
+<!-- p.376 -->
+
+- **deprive** [dɪˈpraɪv] *vt.* 抢夺，剥夺 =rob, divest
+  - deprive A of B 从A抢夺B
+  - deprive him of his money 抢了他的钱
+- **deprivation** [ˌdeprɪˈveɪʃn] *n.* 剥夺，丧失
+- **deprived** [dɪˈpraɪvd] *adj.* 缺乏的；贫乏的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+大家还记得我们曾学过的“the+形容词=复数名词”这一语法点吗？例如，the rich富人们，the poor穷人们。那么the deprived的意思是什么呢？对了，是“不幸的邻居们”。例如：
+Let's help the deprived! 让我们一起来帮助那些不幸的邻居们吧！
+:::
+
+> The military regime **deprived** the people **of** freedom.
+> 军事政权剥夺了人们的自由。
+> （regime [reɪˈʒiːm] *n.* 政治制度，政权）
+
+> **Deprived** children tend to do less well at school.
+> 家境不好的孩子有不能好好上学的倾向。
+
+## 5. 将粘在一起的东西分开detach分开，分离
+
+<!-- 插图：小人指着衣服说“我，是分离式帽子” -->
+
+::: {.etymo}
+单词attach和detach是一对反义词。在这里，词根tach是touch接触为了发音方便而变形的结果，因此attach是“粘在……上”的意思，而detach是“（将粘上去的东西）取下来，分离”的意思。想一下“便利贴”就能记住这两个单词的词义了！
+:::
+
+由detach过去分词所构成的形容词detached很重要。detached不仅有“分开的”意思，还有“公正的，超然的”意思。如果不受事情的牵连not involved，将关系分得很清的话，也就是说在那件事情中很公正。
+
+- **detach** [dɪˈtætʃ] *vt.* 分开，分离 ↔ attach 贴上，附着
+  - detach A from B 把A从B中分离
+  - detach a coupon from the ad paper 从广告宣传纸上撕下优惠券
+- **detached** [dɪˈtætʃt] *adj.* ①分离的；②超然的，公平的 =fair
+
+> You can **detach** the hood **from** this winter jacket.
+> 你可以把棉袄上的帽子拆下来。
+
+> He described what had happened in a cold and **detached** manner.
+> 他用冷酷和超然的态度描述着发生了什么。
+
+<!-- p.377 -->
+
+## 6. 道德向下de降cad，decadence堕落，衰败
+
+<!-- 插图：宴会上奢靡享乐的人们 -->
+
+::: {.etymo}
+单词decadence是“堕落，衰败”的意思。该词义源于其词源义“（道德）向下降的状态”。
+:::
+
+- **decadence** ['dekədəns] *n.* 堕落，衰败
+  - the decadence of modern society 现代社会的衰败
+- **decay** [dɪ'keɪ] *vi.* 腐烂；衰落
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词decadence源于decay（腐烂），道德上的腐烂就是decadence。
+:::
+
+> The new film reflects the **decadence** of our society.
+> 这个电影反应了我们社会的衰败。
+> （reflect [rɪ'flekt] *v.* 反映；反射）
+
+> The collapse of the Roman Empire resulted from the **decadence** of the noble class.
+> 贵族们的堕落导致了罗马帝国的瓦解。
+
+## 7. 将填充的ple量拉下来de-，deplete使减少，使枯竭
+
+<!-- 插图：两人在挖空的枯竭矿坑里，气泡对话“哎、一点资源都挖不出来”，旁边立牌“资源” -->
+
+::: {.etymo}
+学习deplete这个单词之前，我们需要熟悉deplete的词根ple填充（fill）。含有词根ple-的单词非常多，如plentiful，complete，replenish；plentiful由“填满的”转化成“充分的”的意思，complete由“完全填充的”转化成了“完全的”的意思，replenish的词义由“再一次填充”转化成了“补充”。单词deplete由其词源义“将填充的量拉出来、揪出来”转化成了“减少，枯竭”。值得注意的是，deplete比同义词reduce减少的使用更加正式formal！
+:::
+
+- **deplete** [dɪ'pliːt] *vt.* 减少，枯竭 =reduce, exhaust, consume
+  - deplete natural resources 使自然资源减少
+  - deplete one's ability 削弱了某人的能力
+- **depletion** [dɪ'pliːʃn] *n.* 耗尽，枯竭
+
+::: {.mnemonic}
+**温馨小贴士**
+
+环境污染的灾难之一是the depletion of ozone layer（臭氧层变薄），这个词组现在已经默认作为一个整体来使用了。
+:::
+
+<!-- p.378 -->
+
+> Over the last few years, forests have been steadily **depleted**.
+> 在过去的几年，森林在不断地减少。
+
+> These chemicals are thought to **deplete** the ozone layer.
+> 人们认为这些化学元素削薄了臭氧层。
+
+## 8. 价值 preci 下降 de-，depreciate 降低价值
+
+<!-- 插图：破旧的小汽车在行驶 -->
+
+::: {.etymo}
+就像我们前面已经学过的 attach 和 detach 的关系一样，appreciate 与 depreciate 也是一对反义词。词根 preci 是 price 价值的变形，appreciate 由其词源义“赋予……价值”发展成了“①欣赏，理解；②感谢；③（价格）上升”等意思，而 depreciate 的词义就是基本义“降低……的价值”之解。不过，depreciate 还有一个专业 technical 术语义，即会计学 accounting 中的“折旧”，随着时间的流逝，现已逐渐转化成降低物品的价值（价格）来计算的意思了。
+:::
+
+- **depreciate** [dɪˈpriːʃieɪt] *vi. & vt.* ①降低……的价值 ②折旧
+  - **depreciate share prices** 降低股票的价格
+- **depreciation** [dɪˌpriːʃiˈeɪʃn] *n.* 贬值；轻视
+- **appreciate** [əˈpriːʃieɪt] *vt. & vi.* ①欣赏，赏识；②感激，领会；③增值
+  - **appreciate the significance of the situaion** 意识到情况的重要性
+- **appreciation** [əˌpriːʃiˈeɪʃn] *n.* 评价；感激
+
+**Voca Map**
+- appreciate ↔ depreciate
+  - appreciate: ①欣赏，理解 ②感谢 ③(价格)上升
+  - depreciate: ①降低价值 ②折旧
+
+> A new car **depreciates** in value more quickly than a second-hand one.
+> 一台新的汽车比二手车贬值更快。
+
+> Company computers are **depreciated** at 50% per year.
+> 公司的电脑每年折旧百分之五十。
+
+## 9. 将文章 cribe 写下 de-，describe 叙述，描写
+
+<!-- 插图：老师在指导学生写文章 -->
+
+::: {.etymo}
+不管是谁，在学校的时候大概都写过文章 essay。写文章通常都是先写好绪论、本论，最后再写结论。像这样，“一步一步将文章写下去”就是 describe 叙述，描写。
+:::
+
+这里出现的词根 scribe 写文章（write）很重要。我们再看几个例子：
+
+<!-- p.379 -->
+
+ascribe 是“归咎于”的意思，inscribe 则由“写在……里”变成了“雕刻（文字）”的意思，prescribe 由“先写好”变成了“规定；开处方”的意思，proscribe 由“写在前面”变成了“禁止”的意思，subscribe 由“（在文书的）下面写上（名字）”变成了“署名；订阅”的意思。词根scribe是不是很有用啊？像这种由前缀与词组组合在一起的派生词占英语词汇的一半左右，这已是一个“公开的秘密”啦！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含有词根“scribe（写）”的词汇：
+describe将文章写下去 → “叙述，描写”；
+ascribe写好…… → “归咎于”；
+inscribe写在……里 → “雕刻，篆刻”；
+prescribe先写好 → “规定；写处方”；
+proscribe 写在前面 → 禁止；
+subscribe（在文书的）下面写上（名字） → “署名；订阅”。
+:::
+
+- **describe** [dɪ'skraɪb] *vt.* 叙述，描写，说明=delineate, depict, portray
+  - describe the criminal 描述罪犯的相貌，衣着
+- **description** [dɪ'skrɪpʃn] *n.* 描写，形容
+  - beyond description 难以形容
+
+> Can you **describe** the man to me?
+> 你能给我描述一下那个男人吗？
+
+> The police asked the witness to **describe** the accident.
+> 警察让目击者详细地描述这场事故。
+
+> It's difficult to **describe** how I feel.
+> 我很难形容我的感受。
+
+## 10. 使某人因感到害怕ter而不能做de-某事，deter阻止，妨碍
+
+<!-- 插图：断壁残垣与监控测速摄像头 -->
+
+::: {.etymo}
+大家都知道 terror恐怖 这个单词吧？terror 的词源是“恐怖”。胡乱杀人、引爆建筑或飞机的行为都是让人非常恐怖的吧！“911·恐怖事件”后，受到严重冲击的美国政府The U.S Administration 立即宣布要开展反恐战war on terror。与 terror 词根相同的 deter 由词源义“（使对方）因感到害怕而不能做某事”发展成了“（使某人不能做某事）阻止，妨碍”之义。高速公路安装的电子眼就是一种通过监控超速车并对其进行罚款fine来阻止司机超速的代表性装置。
+:::
+
+综上所述，terror 和 deter 这两个词的词源相同，因此通过“deter terror”来记的话，会更容易。
+
+<!-- p.380 -->
+
+- **deter** [dɪ'tɜː] *vt.* 阻止，妨碍 =prevent, discourage, inhibit
+  - deter A from doing 使A决定不做某事
+  - deter a thief from invading 阻止小偷入侵
+- **deterrent** [dɪ'terənt] *n.* 威慑物，制止物 =obstacle
+
+> The security camera was installed to **deter** people from stealing.
+> 安装摄像头是为了阻止小偷行窃。
+
+> The company's financial difficulties have **deterred** potential investors.
+> 公司的财政困难使潜在的投资者不敢投资。
+
+**Voca Map**
+- terror
+  - ①恐惧
+    - ↓
+    - terrible 可怕的
+    - ↓
+    - terrific 非常优秀的
+  - ②恐怖
+    - ↓
+    - deter (恐怖) 阻止
+    - ↓
+    - deterrent 威慑物
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 明确的阐述
+   → ①宣言，宣布 ②申报（纳税物、所得）______
+2. 向下倾斜的话
+   → ①衰退、减少 ②（郑重地）拒绝、推辞 ______
+3. 在所需量之下的
+   → 不足的，缺乏的 ______
+4. 从个人所有中分离
+   → 从……抢夺，剥夺 ______
+5. 将粘在一起的东西分开
+   → 分开，分离 ______
+6. 道德向下降
+   → 堕落，衰败 ______
+7. 将填充的量拉下来、拉出来
+   → 使减少，使枯竭 ______
+8. 价值下降
+   → 降低价值 ______
+9. 写文章
+   → 叙述，描写 ______
+10. 使某人因感到害怕而不能做某事
+    → 阻止，妨碍 ______
+:::
+
+> **答案** 1. declare 2. decline 3. deficient 4. deprive 5. detach 6. decadence 7. deplete 8. depreciate 9. describe 10. deter
+
+<!-- p.381 -->
+
+## 确认并攻克下列单词
+
+### 请写出下面单词的词义。
+
+1. declare `______`
+2. decline `______`
+3. deprive `______`
+4. deplete `______`
+5. describe `______`
+6. deter `______`
+
+### 请写出下列阴影标识部分的单词。
+
+1. 日本向中国**宣** `______` **战**了。
+2. **严重缺乏** `______` 维生素的人可能会得重病。
+3. 那次事故**夺走** `______` 了他的幸福。
+4. 我们公司已经**衰败** `______` 到了很严重的地步。
+5. 应该限制**减少** `______` 臭氧层的化学物质。
+6. 他郑重地**拒绝** `______` 了我的招待。
+7. 请你详细地**说明** `______` 一下发生的事情。
+8. 那个老师**阻止** `______` 学生抄袭。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The government **deprived** him of his property.
+   A. rubbed        B. robbed        C. ripped
+
+2. I can't fully **describe** the beauty of the view.
+   A. depict        B. desert        C. depreciate
+
+3. That country has `______` its natural resources completely.
+   A. declared      B. replenished   C. depleted
+
+4. The doctor `______` the patient from drinking.
+   A. encouraged    B. hindered      C. deterred
+
+---
+
+## 本日词汇速查（20 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [declare]{.headword} | dɪˈkleə | vt | ①宣言，宣布 = announce, proclaim; ②申报（纳税物，所得） |
+| [declaration]{.headword} | ˌdekləˈreɪʃn | n | 宣言，宣布，申报 |
+| [decline]{.headword} | dɪˈklaɪn | n | 衰退，减少 *v.* ① 衰退，减少 =decrease, run down ②（郑重地）拒绝，推辞 =refuse, reject, turn down |
+| [deficient]{.headword} | dɪˈfɪʃənt | adj | 不足的，缺乏的 =scanty, scarce, lacking |
+| [deficiency]{.headword} | dɪˈfɪʃənsi | n | 缺乏，不足 |
+| [deficit]{.headword} | ˈdefɪsɪt | n | 赤字，亏空 |
+| [deprive]{.headword} | dɪˈpraɪv | vt | 抢夺，剥夺 =rob, divest |
+| [deprivation]{.headword} | ˌdeprɪˈveɪʃn | n | 剥夺，丧失 |
+| [deprived]{.headword} | dɪˈpraɪvd | adj | 缺乏的；贫乏的 |
+| [detach]{.headword} | dɪˈtætʃ | vt | 分开，分离 ↔ attach 贴上，附着 |
+| [detached]{.headword} | dɪˈtætʃt | adj | ①分离的；②超然的，公平的 =fair |
+| [decadence]{.headword} | 'dekədəns | n | 堕落，衰败 |
+| [decay]{.headword} | dɪ'keɪ | vi | 腐烂；衰落 |
+| [depreciate share prices]{.headword} |  |  | 降低股票的价格 |
+| [appreciate]{.headword} | əˈpriːʃieɪt | vt. & vi | ①欣赏，赏识；②感激，领会；③增值 |
+| [appreciate the significance of the situaion]{.headword} |  |  | 意识到情况的重要性 |
+| [describe]{.headword} | dɪ'skraɪb | vt | 叙述，描写，说明=delineate, depict, portray |
+| [description]{.headword} | dɪ'skrɪpʃn | n | 描写，形容 |
+| [deter]{.headword} | dɪ'tɜː | vt | 阻止，妨碍 =prevent, discourage, inhibit |
+| [deterrent]{.headword} | dɪ'terənt | n | 威慑物，制止物 =obstacle |
+

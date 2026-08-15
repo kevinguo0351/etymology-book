@@ -1,0 +1,391 @@
+# Day 14 · 旋转、改变、变化是vert {.unnumbered}
+
+::: {.root-banner}
+Day 14 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p128–p135
+
+<!-- p.113 -->
+
+驾驶的过程中会经常看到右图中的指示牌吧？右图中的指示牌是u-turn的标识。如果u-turn掉头的话，车的行驶方向就会变为反方向。当然也可以左转弯或者右转弯。这里我们要学习的词根vert是“改变，变化”的意思，具有单词turn之义。今天我们要学习的单词与“向这儿或向那儿改变方向”有关。接下来我们一起来看看由词根vert所构成的词语吧。
+
+<!-- 插图：U形掉头指示牌与行驶的小轿车 -->
+
+**Voca Map：vert, vers是turn**
+
+- **vert 系列**
+  - ad-向 + vert转(turn) + -ise动词后缀（把关心）转到 → advertise 做广告、做宣传
+  - a(b)-远远 + vert转(turn) 转向别的地方 → avert 转移(目光等)避免、防止
+  - con-强调 + vert转(turn) 完全改变 → convert (使)转变
+  - di(s)-别的地方 + vert转(turn) 转向别的地方 → divert 使转移，转换(方向)
+  - per-完全的 + vert转(turn) 完全变成(不好的) → pervert 使堕落
+
+- **vers 系列**
+  - con-强调 + vers(e)转(turn) 完全反转的 → converse 相反的，逆的
+  - re-向后 + vers(e)转(turn) 向后转的 → reverse 反面的，颠倒的
+  - di(s)-不同的 + vers(e)改变(turn) 变成别的 → diverse 不同的，多种多样的
+  - uni-一个 + vers转(turn) + -al形容词后缀 按照一个体系运行的 → universal 普遍的，通用的
+  - vers(a)转(turn) + -tile容易~ (能力、用途)易改变的 → versatile 多才多艺的
+
+<!-- p.114 -->
+
+## 1. （使关心）转vert向ad-～，advertise广告
+
+::: {.etymo}
+打开电视，大家会看到各种各样的广告。做广告的最大目的purpose就是吸引人们的注意attention。可以说广告就是“（把人们的关心）转向……的东西”。这也正是advertise的词源义。如果总看到同一广告的话，说不定就会对那个广告的产品product感兴趣了。
+:::
+
+<!-- 插图：时代广场的广告牌和街景 -->
+
+- **advertise** [ˈædvətaɪz] *vt.* 做广告，做宣传
+  - advertise the new product 广告宣传新商品
+  - begin to advertise on the radio 开始在收音机里做广告
+  - corporate advertising 企业广告
+  - advertising strategy 广告策略
+  - an advertising agency 广告商，广告公司
+- **advertisement** [ˌædvərˈtaɪzmənt] *n.* 广告，宣传（简写ad.）
+- **advertiser** [ˈædvətaɪzə(r)] *n.* 广告客户，登广告者
+
+> We plan to **advertise** our new product extensively.
+> 我们打算大力宣传我们的新产品。
+
+> We need to cut our **advertising** costs.
+> 我们有必要削减广告费用。
+
+> The concert was **advertised** in all the national newspapers.
+> 音乐会在所有向全国发行的报纸上都登了广告。
+
+## 2. 转向vert别的地方a (b) -，avert（脸、视线）转移，躲避
+
+<!-- 插图：一家人看着电视广告把头转向别处 -->
+
+::: {.etymo}
+看电视的时候，如果是插播广告advertisement时间，很多人就会不喜欢看而转到别的频道。这种因为讨厌或者要避开什么而把脸或者视线转向别的地方的行为，正是avert。avert 由其词源义“转向别的地方”引申出“转移（脸、视线），避免（事故）”的意思。其同义词为avoid避免。
+:::
+
+- **avert** [əˈvɜːt] *vt.* 转移（视线），避免（事故）=avoid
+  - avert the disaster 避免灾难
+  - avert one's eyes 避开……的视线
+- **averse** [əˈvɜːs] *adj.* 反对的，不乐意的
+- **aversion** [əˈvɜːʃn] *n.* 厌恶，讨厌的人或东西
+
+<!-- p.115 -->
+
+> The diplomatic talks narrowly **averted** a war.
+> 外交对话避免了一场战争。
+
+> The accident could have been **averted** if he had followed safety standards.
+> 如果他遵守了交通规则，可能会避免这场事故。
+
+## 3. 完全con-改变vert，convert转变
+
+::: {.etymo}
+左图中的车叫做什么？呵呵，自信地confidently回答“open car”的人知道自己答错了吗？在美国，open car是把车门打开的意思！所以，正确答案应该是convertible敞篷车。即，汽车的顶篷roof既可折叠又可打开的车。动词convert由其词源义“完全改变”引申出“转换”之义。
+:::
+
+<!-- 插图：敞篷汽车 -->
+
+- **convert** [kənˈvɜːt] *v.* 转变，改变 =change
+  - a sofa that converts into a bed 一张可以变成床的沙发
+  - convert foreign currency into dollars 把外币换成美元
+- **conversion** [kənˈvɜːrʒn] *n.* 转换，变换
+- **convertible** [kənˈvɜːtəbl] *adj.* 可改变的，可变换的
+  - *n.* 敞篷车
+
+> The stocks can be easily **converted** to cash.
+> 股票很容易兑换成现金。
+
+> They had many chances to score, but they couldn't **convert** their opportunities.
+> 他们本来有很多机会得分，但是总是错失机会。
+
+> My rich boy friend wants to give me a **convertible**.
+> 我富有的男友想送我一辆敞篷汽车。
+
+## 4. 转vert向别的地方di(s)-，divert改变（方向）
+
+::: {.etymo}
+事实上，convert和divert是两个很容易混淆的单词。我们还是通过举例来具体说明吧。大家小时候是不是都有拿着变形机器人玩的经历experience？好，机器人变成motorcycle了。这种“形态上完全发生改变的”是convert。机器人前行的过程中，突然改变了前行的方向，拐向了左侧。这种“改变方向和用途”的是divert。动词divert与形容词diverse多样的的词义很重要，请大家要牢记哦。后面的单词讲解中我们还会在遇到diverse，等到那时我们再具体进行说明。
+:::
+
+<!-- p.116 -->
+
+- **divert** [daɪ'vɜːt] *vt.* 转移，改变（方向·用途），（使）转向
+  - divert the river water into the lake 把河水引入湖里
+- **diversion** [daɪ'vɜːrʒn] *n.* 转移，消遣，分散注意力
+
+> The corporation should **divert** more resources into research.
+> 公司应该把更多的资源用在研发上。
+
+> The crime crackdown is an attempt to **divert** attention from social problems.
+> 为了把人们的注意力从社会问题上转移开来，（政府）大力打击犯罪行为。
+> （crackdown ['krækdaʊn] 镇压，打击，制裁）
+
+## 5. 完全的 per-（不好地）改变 vert，pervert 使变质
+
+<!-- 插图：老妇人引诱小女孩 -->
+
+::: {.etymo}
+最近的电视或电影、电脑游戏中有太多的性暗示suggestive或暴力violent场面。很难说这对孩子们的心理健康mental health不会产生不良影响。如果总接触这些东西的话，孩子们可能往不好的方向“变质”。表达该语义时所使用的单词正是pervert。pervert由其词源义“完全per向坏的改变vert”产生了“使变质”的意思。pervert用作名词时，是“变态，性变态者”的意思，大家将这个词义也一起记下来吧！
+:::
+
+- **pervert** ['pəvɜːt] *vt.* 使堕落，使变质，滥用
+  - pervert the truth 颠倒是非
+  - people who pervert their religion 那些曲解他们宗教的人
+- **perverse** [pə'vɜːs] *adj.* 不正当的，堕落的，故意作对的，有悖常情的
+
+> Computer games can **pervert** the minds of young children.
+> 电脑游戏会将小孩引入歧途。
+
+> I really hate him. He's a **pervert**.
+> 我确实很恨他，他是个变态。
+
+## 6. 完全地 con-转变 verse，converse 相反的，逆向的；对话
+
+<!-- 插图：两人坐着面对面交谈 -->
+
+::: {.etymo}
+大家都有缝着converse标志的衣服或者鞋子吗？converse是通过新颖设计design赢得年轻人喜爱的品牌brand之一。converse由其词源义“完全转变”变为“颠倒的，逆向的”意思。与之词义相同的identical单词还有adverse。
+:::
+
+虽然converse主要用作形容词，但它偶尔也在惯用句型“converse with somebody”中作为不及物动词使用，是“和……对话”的意
+
+<!-- p.117 -->
+
+思。converse的名词形式是我们非常熟悉的conversation对话！
+
+- **converse** [kənˈvɜːs] *adj.* 相反的，颠倒的，逆的
+  - a converse opinion 相反的意见
+  - converse with 与……交谈
+  - converse with foreign dignitaries 与外国政要交谈
+- **adverse** [ˈædvɜːs] *adj.* 不利的，相反的，逆的
+  - adverse effect 反作用，反效应
+- **adversity** [ədˈvɜːsɪti] *n.* 逆境，不幸，灾难
+- **adversary** [ˈædvəsəri] *n.* 敌手，对手
+
+> The professor showed us a **converse** example.
+> 教授给我们举了个反例。
+
+> The conference gave me an opportunity to **converse with** VIPs in relaxed surroundings.
+> 这个会议给了我一个机会在轻松环境下和VIP客户交谈。
+
+> The drug may cause an **adverse** effect.
+> 这种药有可能会产生反作用。
+
+**Voca Map**
+- converse（*adj.* 相反的，逆的，颠倒的 / *v.* 与……交谈（和with搭配））
+  - ↓
+  - conversation（交谈，会话）
+- adverse（*adj.* 不利的，相反的）
+  - ↓
+  - adversity（*n.* 逆境，不幸）
+  - ↓
+  - adversary（*n.* 敌手，对手）
+
+## 7. 向后 re- 转 verse、reverse 反面的，颠倒的
+
+::: {.etymo}
+与converse词义相似，用作形容词的还有reverse一词。估计有读者会问：“为什么这两个词的前缀不同，但词义却一样呢？”这是因为词根vers是“转”，即“turn”的意思。所以，reverse由其词源义“向后转”引申出了“相反的，逆的”意思。向后转的话自然也就与现在的方向正相反了。reverse用在汽车上的话便是“倒车”之义的名词，请大家一起记住吧！
+:::
+
+- **reverse** [rɪˈvɜːs] *adj.* 反面的，颠倒的 = adverse, opposite
+  - *n.* 1. 反向，倒转 2.（使车）倒退
+  - *vt.* 1.（使）反转，（使）颠倒 2.（使车）倒退
+  - reverse the car into a side road 把车倒到旁路停下来
+- **reversal** [rɪˈvɜːsl] *n.* 逆转，反转，颠倒
+  - a sudden reversal of the movie 电影突然反转
+
+> Husband and wife have **reversed** roles.
+> 调换丈夫和妻子的角色（丈夫在家操持家务，妻子赚钱养家）。
+
+> It will take years to **reverse** the damage done by pollution.
+> 要恢复由污染破坏的原生态需要很多年。
+
+<!-- p.118 -->
+
+## 8. 改变 verse 成别的东西 di(s) 所以 diverse 多种多样的
+
+::: {.etymo}
+前面我们已经学过divert改变（方向）这个单词了。由divert派生出的形容词是diverse。其词义是从词源义“变成别的东西”中引申出的“多样的”。记diverse的同时，请将其同义词various及其名词diversity多样性和动词diversify多样化放在一起记。
+:::
+
+**Voca Map**
+- diverse 多种多样的，不同的
+  ↓
+- diversity 名词）多样性，多样化
+  ↓
+- diversify 动词）使多样化，多样化
+  ↓
+- diversification 名词）多样化，变化
+
+- **diverse** [daɪˈvɜːs] *adj.* 多种多样的，不同的 = various
+  - diverse political views 不同的政见
+- **diversity** [daɪˈvɜːsɪti] *n.* 多样性，多样化
+  - a diversity of opinions 各种不同的意见
+- **diversify** [daɪˈvɜːsɪfaɪ] *vt.* 使多样化，多样化
+  - diversified products 多样化的产品
+
+> I like to experience **diverse** cultures.
+> 我喜欢体验不同的文化。
+
+> The country is **diversifying** its energy sources.
+> 那个国家正在使能源资源多样化。
+
+## 9. 围绕一个 uni- 体系运转 verse, universal 普遍的
+
+::: {.etymo}
+英语表达“宇宙”的单词是universe。从词源上来看，universe是“通过一个uni体系运转verse”的意思。universal是从universe派生而成的形容词，所以词义由词源义“宇宙的”变为“在全世界都通用的”，即“普遍的”意思。
+:::
+
+- **universal** [ˌjuːnɪˈvɜːsl] *adj.* 普遍的，通用的，一般的 = general
+  - a universal truth 普遍的真理
+- **universality** [ˌjuːnɪvɜːˈsæləti] *n.* 普遍性，通用性，一般性
+- **universe** [ˈjuːnɪvɜːs] *n.* 宇宙
+- **university** [ˌjuːnɪˈvɜːsɪti] *n.* 大学
+
+> Money is a topic of **universal** interest.
+> 金钱是人们普遍关注的话题。
+
+> The theory was **universally** accepted in the nineteenth century.
+> 在19世纪，这个理论被人们广泛接受。
+
+<!-- p. 119 -->
+
+## 10. (能力, 用途) 改变起来versa容易tile所以versatile多才多艺的，万能的
+
+<!-- 插图：多功能瑞士军刀 -->
+
+::: {.etymo}
+右图中的刀叫什么？是瑞士军刀？错了！这种刀叫做 **versatile knife** 或者 **multipurpose tool**。也就是“多功能刀（工具）”的意思！versatile 源于“（能力，用途）很容易-ile改变”之义，修饰人的话就是“多才多艺的”，修饰物体就是“多功能的”multipurpose意思。大家如果有歌唱得好、舞跳得也好，同时还很擅长运动，画也画得不错的朋友，那这位朋友就可以称得上是 **versatile** 了。
+:::
+
+- **versatile** ['vɜːsətaɪl] *adj.* 多才多艺的，多用途的，多功能的 =protean
+  - a versatile actor 多才多艺的演员
+  - a versatile work table 多功能办公桌
+- **versatility** ['vɜːsə'tɪlətɪ] *n.* 多才多艺，多用途
+
+> The potato is an extremely **versatile** vegetable.
+> 土豆是能够做出多种料理的蔬菜。
+
+> She is a **versatile** athlete who participates in many different sports.
+> 她参加了多种不同体育项目比赛，是个多才多艺的运动员。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. (使关心) 转向……  
+   → 广告 ______
+:::
+
+2. 转向别的地方  
+   → 转移（脸，视线），躲避 ______
+
+3. 完全地改变  
+   → 转变 ______
+
+4. 转向别的地方  
+   → 改变（方向） ______
+
+5. 完全地（不好地）改变  
+   → 使变质，使堕落 ______
+
+6. 完全地转变  
+   → 相反的，逆的 ______
+
+7. 向后转  
+   → 相反的，颠倒的 ______
+
+8. 改变成别的东西  
+   → 多种多样的 ______
+
+9. 围绕一个体系运转  
+   → 普遍的 ______
+
+10. (能力, 用途) 改变起来容易  
+    → 多才多艺的，多功能的 ______
+
+> 答案 1. advertise 2. avert 3. convert 4. divert 5. pervert 6. adverse 7. reverse 8. diverse 9. universal 10. versatile
+
+<!-- p.120 -->
+
+## 单词检测
+
+### 一、请写出下列单词的词义。
+
+1. avert ______
+2. convert ______
+3. divert ______
+4. converse ______
+5. diverse ______
+6. versatile ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 人们对广告 ______ 产生了兴趣。
+2. 那个年轻演员真多才多艺 ______。
+3. 为了避免 ______ 事故，他转了方向盘。
+4. 舆论歪曲 ______ 了事件的本质。
+5. 我觉得倒 ______ 车是件难事。
+6. 各种各样的 ______ 意见促使（我们）得出了好的结论。
+7. 地球运转是普遍的 ______ 真理。
+8. 竹子是种用途广泛的 ______ 草本植物。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. He will ______ the spare space into a repository.
+   - A. avert
+   - B. convert
+   - C. controvert
+
+2. We should regard **diverse** political views.
+   - A. variety
+   - B. variable
+   - C. various
+
+3. A democracy is based on **universal** suffrage.
+   - A. general
+   - B. generous
+   - C. genetic
+
+4. If a person is ______ , he is a master of all trades.
+   - A. versed
+   - B. versatile
+   - C. vertical
+
+---
+
+## 本日词汇速查（28 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [advertise]{.headword} | ˈædvətaɪz | vt | 做广告，做宣传 |
+| [advertisement]{.headword} | ˌædvərˈtaɪzmənt | n | 广告，宣传（简写ad.） |
+| [advertiser]{.headword} | ˈædvətaɪzə(r) | n | 广告客户，登广告者 |
+| [avert]{.headword} | əˈvɜːt | vt | 转移（视线），避免（事故）=avoid |
+| [averse]{.headword} | əˈvɜːs | adj | 反对的，不乐意的 |
+| [aversion]{.headword} | əˈvɜːʃn | n | 厌恶，讨厌的人或东西 |
+| [convert]{.headword} | kənˈvɜːt | v | 转变，改变 =change |
+| [conversion]{.headword} | kənˈvɜːrʒn | n | 转换，变换 |
+| [convertible]{.headword} | kənˈvɜːtəbl | adj | 可改变的，可变换的 |
+| [divert]{.headword} | daɪ'vɜːt | vt | 转移，改变（方向·用途），（使）转向 |
+| [diversion]{.headword} | daɪ'vɜːrʒn | n | 转移，消遣，分散注意力 |
+| [pervert]{.headword} | 'pəvɜːt | vt | 使堕落，使变质，滥用 |
+| [perverse]{.headword} | pə'vɜːs | adj | 不正当的，堕落的，故意作对的，有悖常情的 |
+| [converse]{.headword} | kənˈvɜːs | adj | 相反的，颠倒的，逆的 |
+| [adverse]{.headword} | ˈædvɜːs | adj | 不利的，相反的，逆的 |
+| [adversity]{.headword} | ədˈvɜːsɪti | n | 逆境，不幸，灾难 |
+| [adversary]{.headword} | ˈædvəsəri | n | 敌手，对手 |
+| [reverse]{.headword} | rɪˈvɜːs | adj | 反面的，颠倒的 = adverse, opposite |
+| [reversal]{.headword} | rɪˈvɜːsl | n | 逆转，反转，颠倒 |
+| [diverse]{.headword} | daɪˈvɜːs | adj | 多种多样的，不同的 = various |
+| [diversity]{.headword} | daɪˈvɜːsɪti | n | 多样性，多样化 |
+| [diversify]{.headword} | daɪˈvɜːsɪfaɪ | vt | 使多样化，多样化 |
+| [universal]{.headword} | ˌjuːnɪˈvɜːsl | adj | 普遍的，通用的，一般的 = general |
+| [universality]{.headword} | ˌjuːnɪvɜːˈsæləti | n | 普遍性，通用性，一般性 |
+| [universe]{.headword} | ˈjuːnɪvɜːs | n | 宇宙 |
+| [university]{.headword} | ˌjuːnɪˈvɜːsɪti | n | 大学 |
+| [versatile]{.headword} | 'vɜːsətaɪl | adj | 多才多艺的，多用途的，多功能的 =protean |
+| [versatility]{.headword} | 'vɜːsə'tɪlətɪ | n | 多才多艺，多用途 |
+

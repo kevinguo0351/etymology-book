@@ -1,0 +1,374 @@
+# Day 50 · 仅次于……的sub- {.unnumbered}
+
+::: {.root-banner}
+Day 50 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p441–p448
+
+<!-- p.426 -->
+
+大城市常用的交通工具是地铁subway。单词subway是在地上的路way下面sub-运行的，所以就被称为“地铁”了，subway 的前缀sub-是“……的下面under”的意思。不过，前缀sub-经常根据后面所接辅音的不同而发生拼写上的变化，以方便发音。succumb，supplant就是sub-转化成了suc-和sup-的典型例子。
+
+<!-- 插图：地铁进站与等车的乘客 -->
+
+**Voca Map：sub- 表示 under**
+
+- sub-下面(under) + due拉（向下拉）→ **subdue** 镇压、遏制
+- sub-下面(under) + merge潜入水中（潜入水下面）→ **submerge** 潜水
+- sub-下面(under) + tle面纱（面纱下面的……）→ **subtle** 微妙的
+- sub-下面(under) + urb城市（城市周围的地方）→ **suburb** 郊外，近郊
+- suc-下面(under) + cumb躺(lie)（躺在……的下面）→ **succumb** 输，屈服
+- sus-下面(under) + pend系（系……的下面）→ **suspend** 系、挂
+- sus-下面(under) + cept贴 + -ible能……（被贴在……下面的）→ **susceptible** 容易受……的影响
+- sup-下面(under) + plant种（代替种植在……下面）→ **supplant** 代替，取代
+- sup-下面(under) + ple弯曲（身体向下弯曲）→ **supple** 柔软的
+- sur-下面(under) + rep(t)抓住 + -(i)tious形容词后缀（抓住后藏在下面）→ **surreptitious** 秘密的
+
+<!-- p.427 -->
+
+## 1. 向下 sub- 拉 due，subdue ①镇压；②遏制（感情）
+
+::: {.etymo}
+前面我们已经提到过流氓hooligan这个单词了。它主要指比赛后引起骚乱commotion的足球流氓。当流氓们理直气壮地引起骚乱时，警察就会立即出动进行镇压，首先得压下这些流氓们的气势。这时候使用的单词就是subdue。subdue的“镇压（反叛、暴动等行为）”意思源于词源义“拉下来”。另外，它还可以解释为“遏制（感情）”，该义项来源于“拉下（感情）”。
+:::
+
+<!-- 插图：警察在街头镇压骚乱 -->
+
+- **subdue** [səbˈdjuː] *vt.* ①镇压（反叛、暴动）=suppress ②遏制（感情）=repress
+  - subdue the rebellion / riot 镇压叛乱/暴动
+- **subdued** [səbˈdjuːd] *adj.* 减弱的，被抑制的，被制服的
+
+> Government forces have managed to **subdue** the rebels.
+> 政府力量设法镇压了反叛者。（manage to do sth. 设法做某事）
+
+> She couldn't **subdue** her excitement.
+> 她抑制不住自己的兴奋。
+
+## 2. 潜入 merge 水下 sub-，submerge 潜水、潜入水下
+
+<!-- 插图：潜水员在水下潜水探索 -->
+
+::: {.etymo}
+大家都知道merge的意思是“合并”，但其实它的词源义是“跳入dive水中”。因此，submerge的词源义即为“潜入水下面”，即“潜水，潜入水中”。在这里，我们想象一下submarine潜水艇如何？marine的意思是“大海”，submarine的意思就是“在大海下面行驶的船”，即“潜水艇”。图片中的人就是在submerge哦！
+:::
+
+- **submerge** [səbˈmɜːdʒ] *vi. & vt.* 潜水，潜入水底 =immerse
+  - submerge oneself in 淹没在，沉浸在
+- **submerged** [səbˈmɜːdʒd] *adj.* 在水下的，在水中的
+  - submerged rocks 水下岩石
+- **submarine** [ˌsʌbməˈriːn] *n.* 潜水艇
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含词根-merge（sink in 潜入水中）的词语如下：merge某个物潜入水中 → A公司潜入B公司 → “合并”
+\*M&A: Mergers & Acquisitions 公司并购
+emerge沉没后出来 → “突然出现”
+immerse潜入水中 → “浸泡，使埋头于……”
+:::
+
+<!-- p.428 -->
+
+> The tunnel entrance was **submerged** by rising sea water.
+> 隧道的入口被上涨的海水淹没了。
+
+> Alice **submerged herself** in work to forget about Tom.
+> 爱丽丝埋头于工作中为了忘记汤姆。
+
+## 3. 在面纱 tle 下面 sub-，subtle 微妙的
+
+<!-- 插图：戴面纱的新娘和思考的男子，男子头顶气泡：“若隐若现很难描述哦~” -->
+
+::: {.etymo}
+我想也许很多人会问：“这里要讲的是 subtle，为什么图画中画了一位新娘？”好，请大家仔细看一下图画中新娘美丽的脸蛋吧！是不是因为她的脸上遮着一层薄薄的面纱 veil 而看不清她的脸呢？像这样，差别不大但又有着微妙区别的状态就是 subtle 微妙的。subtle 的语义变化过程为“蒙着薄薄的面纱 weaved thin fabric 下面的 sub-”→“差别不大的→微妙的”。从“微妙的”又发展成了“巧妙的，绝妙的”等意思。
+:::
+
+- **subtle** [ˈsʌtəl] *adj.* ① 微妙的，难以把握的 =delicate ② 巧妙的，绝妙的 =clever
+  - subtle difference (change) 细微的差别（改变）
+  - a subtle hint (plan) 巧妙地暗示（计划）
+- **subtlety** [ˈsʌbtlti] *n.* 精妙，巧妙
+
+> Did you pick up that **subtle** smile on her face?
+> 你注意到她脸上浅浅的微笑了吗？
+
+> The two pictures are similar, but there are **subtle** differences between them.
+> 这两幅图片很相似，但两者之间有细微的差别。
+
+> I think we need a more **subtle** approach to the issue.
+> 我认为我们需要一个更巧妙的方法来对待这个问题。
+
+## 4. 城市 urb 周围的 sub- 地方，suburb 郊外，近郊
+
+<!-- 插图：郊区带草坪和树木的房子 -->
+
+::: {.etymo}
+这次我们要学的单词 suburb 郊外，近郊的词根 urb 城市 (city) 很容易引起大家的注意。因为 urban 城市的这个单词大家都都很熟悉，甚至可能还会想起它的反义词 rural 乡村的。但是 suburb 的前缀 sub- 的“下面”之义更接近于“周围，周边”的意思。其实从大范围来看，在“下面”的东西本来就是在“周边”的东西。这个周末跟家人一起去 suburb 玩，怎么样啊？
+:::
+
+<!-- p.429 -->
+
+- **suburb** [ˈsʌbɜːb] *n.* 郊外，近郊
+  - a suburb of London (New York) 伦敦（纽约）的一个郊区
+- **suburban** [səˈbɜːbən] *adj.* 郊外的，近郊的
+- **urban** [ˈɜːbən] *adj.* 城市的 $\leftrightarrow$ **rural** [ˈrʊərəl] *adj.* 乡下的
+
+> More and more people are moving to the **suburbs** every year.
+> 每年都有很多人迁居到郊区。
+
+> She lives with her twin daughters in the **suburb** of New York.
+> 她与她的双胞胎女儿居住在纽约的周边区域。
+
+## 5. 躺在 cumb- 对方的下面 suc-, succumb 输，屈服
+
+::: {.etymo}
+在拳击中，有一种说法是“被KO”了，KO是knock out的缩写，意思是“将……打倒，使……摔得四脚朝天”。这种情况下，联想到的词汇就是succumb。succumb是“输，屈服”的意思，该词义源于其词源义“躺在……下面”。在拳击中，如果其中的一个选手受到强击后躺在了地上，那么这个选手就算是在比赛中输了。succumb作为一个不及物动词，后面一定要跟上介词to。请大家一定要记住这一点哦！
+:::
+
+<!-- 插图：拳击比赛中被击倒躺在地上的拳击手 -->
+
+- **succumb** [səˈkʌm] *vi.* 输，屈服 = give in
+  - succumb to 屈服于，让步
+  - succumb to temptation / pressure 禁不住诱惑 / 屈服于压力
+
+> Jessy **succumbed** to temptation and had a piece of cake.
+> 杰西禁不住诱惑，吃了一块蛋糕。
+
+> We are not going to **succumb** to any pressure from any other country.
+> 我们不会屈服于其他任何国家的任何压力。
+
+## 6. 系 pend 在下面 sus-, suspend ① 悬挂；② 使（暂时）中断
+
+::: {.etymo}
+suspend的词源分析是：sus-下面+pend系 $\rightarrow$ 系在……下面，其词义是“吊、悬挂”。悬吊某物也就是“（暂时）中断”某物的活动。联想一下将衣服挂在衣服架上的情景就很容易理解了。suspend的第二个义项“使（暂时）中断”非常重要，大家一定
+:::
+
+<!-- 插图：衣服挂在绳子上，旁边裁判对犯规的足球队员说：“你犯规了，下场比赛禁赛~” -->
+
+<!-- p.430 -->
+
+**要注意！**
+
+suspend这个单词的派生词很多。例如，常作外来词使用的suspence是“紧张状态，兴奋”的意思，suspension的意思是“（暂时）中止，休学，停职”，suspender的意思是为了防止下落而紧紧抓住的“背带”、“吊带裤”、“悬挂物”。
+
+- **suspend** [səˈspend] *vt.* ①挂在（下面）；②使（暂时）中断
+  - suspend a student /worker 使学生休学/使工人停工
+- **suspense** [səˈspens] *n.* 悬疑，悬念
+- **suspension** [səˈspenʃn] *n.* 悬浮，暂停，停职
+- **suspender** [səˈspendə(r)] *n.* 悬挂物
+
+::: {.mnemonic}
+**温馨小贴士**
+
+虽然suspend的词源义是“挂在（下面）”，但“使（暂时）中断”这个义项更为重要！
+:::
+
+> Talks between the two countries have now been **suspended**.
+> 两个国家之间的会谈现已被暂时中断。
+
+> Dave was **suspended** from school for two weeks.
+> 戴夫被勒令停学两周。
+
+> The **suspense** is killing me.
+> 这件悬而未决的事快把我急死了。
+
+## 7. 被抓在cept下面sus-，susceptible易受影响的，易受感染的
+
+::: {.etymo}
+susceptible的词根cept是“抓住，带走take”的意思。只要了解该词根的意思，前缀sus-下面和后缀-ible就很容易掌握了。单词susceptible的词义“易受影响的”源于其词源义“能被抓在……下面的”。如果被抓在某物下面的话，就得跟着上面的晃动而晃动，这就是“受影响”的状态。与susceptible相关的词组“be susceptible to”是一个很重要的用法，大家一定要牢记哦！
+:::
+
+- **susceptible** [səˈseptəbl] *adj.* 易受……影响的 = liable, subject
+  - be susceptible to +*n.* 易受影响的
+  - be susceptible to disease 易感染疾病
+  - be susceptible to temptation 易受诱惑
+- **susceptibility** [səˌseptəˈbɪləti] *n.* 易受感染的状态，易受影响的状态
+
+> Older people are more **susceptible** to infections.
+> 老人更易感染传染病。
+
+> She is very **susceptible** to flattery.
+> 她容易受到恭维的影响。
+> （flattery [ˈflætəri] 恭维）
+
+<!-- p.431 -->
+
+## 8. 代替种plant在下面sup-，supplant代替，取代
+
+::: {.etymo}
+在英语中，displace，replace，substitute，supersede等单词都是表示“代替，取代”的动词，这类词有很多。接下来我们要学习的单词supplant就是“代替，取代”的意思。supplant中的sup-是为了发音的方便，将b变成了p，其语义也从“……下面”变成了“代替……下面”。再加上动词plant的“种植”义，就形成了单词supplant。请大家注意：前缀sup-不是单纯的“下面”，而是“代替”的意思。
+:::
+
+- **supplant** [səˈplɑːnt] *vt.* 代替，取代=replace, displace, substitute, supersede
+  - be supplanted by 被……取代
+  - supplant the old system 取代旧的系统
+- **supplantation** [ˌsʌplɑːnˈteɪʃn] *n.* 取而代之
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含 plant（种植）的词汇：
+① implant 将……（的想法）埋在心里；（出于医学目的，将人工物质植入体内），植入、注入
+② transplant 移植、迁移
+:::
+
+> The old manager was **supplanted** by a younger man.
+> 这个老经理被一个年轻人取代了。
+
+> Will online dictionaries ever **supplant** paper dictionaries?
+> 在线词典会取代纸质词典吗？
+
+## 9. 身体易向下sup-弯曲ple，supple柔软的
+
+::: {.etymo}
+让身子变柔软的的最佳方法应该是练瑜伽yoga。图片中的女子看上去身子真是又轻盈又柔软啊！表示身体“柔软”的单词就是supple。该词义源于其词源义“（身体）易向下弯曲”。前缀suc-是sub-的变形，词根ple是plic弯曲（bend）为了方便发音的缩略语。
+:::
+
+- **supple** [ˈsʌpl] *adj.* 柔软的=lithe
+  - her supple body 她柔软的身躯
+  - supple and durable leather 柔软又耐用的皮革
+- **suppleness** [ˈsʌplnɪs] *n.* 柔软
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与 supple 词根相同的 supplicate：supple（身体）可以很好地向下弯曲 → “柔软的”
+supplicate（身体）向下弯曲 → “恳求、哀求”
+:::
+
+> She exercises everyday to keep herself **supple**.
+> 她每天锻炼来保持身体的柔韧。
+
+> Yoga will help you to be **supple**.
+> 瑜伽能助你身体变柔软。
+
+<!-- p.432 -->
+
+## 10. 抓住rep(t)后藏在下面sur-, surreptitious秘密的
+
+<!-- 插图：男人正在数私房钱，妻子突然开门进来，男人赶紧把钱藏在桌子下面 -->
+
+::: {.etymo}
+男人晚上在房间里背着妻子偷偷地数自己小金库slush fund时，妻子突然开门进来了，这时他的反应肯定是赶紧把手里的钱藏到下面吧！该情景，我们联想到的单词就是surreptitious秘密的、隐秘的。其前缀sur-是sub-为了方便发音后的变形，这一点大家一定要注意！surreptitious的意思是“秘密的，隐秘的”，该词义源于其词源义，为了不让对方知道而“抓住后藏在下面”。图片中把钱藏到桌子下面under the table的场景就是所谓的surreptitious隐秘的吧。
+:::
+
+- **surreptitious** [ˌsʌrəpˈtɪʃəs] *adj.* 秘密的，隐秘的 = clandestine, cryptic, furtive
+  - his surreptitious action 他的私密行动
+- **surreptitiousness** [ˌsʌrəpˈtɪʃəsnɪs] *n.* 隐秘
+  - under the table 隐秘的，私底下
+
+::: {.mnemonic}
+**温馨小贴士**
+
+短语under the table的本意是“在桌子下面”，在这里又出现了比喻意义“隐秘的，私底下”。
+:::
+
+> Rosy sneaked a **surreptitious** glance at his watch.
+> 罗斯偷偷地看了一下自己的手表。
+
+> The couple made a **surreptitious** attempt to leave town.
+> 这对夫妇偷偷地尝试着离开这个城镇。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 向下拉
+   → ①镇压；②遏制（感情）______
+2. 潜入水下
+   → 潜水、潜入水下 ______
+3. 在面纱下面
+   → 微妙的 ______
+4. 城市周围的地方
+   → 郊外，近郊 ______
+5. 躺在对方的下面
+   → 输，屈服 ______
+6. 系在下面
+   → ①系；②使（暂时）中断 ______
+7. 被贴在下面
+   → 易受影响的 ______
+8. 代替种在下面
+   → 代替，取代 ______
+9. 身体易向下弯曲
+   → 柔软的 ______
+10. 抓住后藏在下面
+    → 秘密的 ______
+:::
+
+> 答案 1. subdue 2. submerge 3. subtle 4. suburb 5. succumb 6. suspend 7. susceptible 8. supplant 9. supple 10. surreptitious
+
+<!-- p.433 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. subdue ______
+2. suburb ______
+3. succumb ______
+4. susceptible ______
+5. supple ______
+6. surreptitious ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 警察镇压______了引起暴力活动的嫌疑人。
+2. 两个单词之间有微妙的______差异。
+3. 我奶奶住在城市近郊______。
+4. 在考试中作弊的学生，按照学校的规定被勒令退学______了。
+5. 我们应该用新系统代替______旧系统。
+6. 孩子比大人更容易生病______。
+7. 通过运动，她僵硬的身体变得柔软______了。
+8. 她察觉到了他隐秘的______视线。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Police managed to subdue the angry crowd.
+   A. depress
+   B. compress
+   C. suppress
+
+2. He is susceptible to persuasion.
+   A. subject
+   B. sensible
+   C. dejected
+
+3. Sales of the drug will be ______ until more tests are completed.
+   A. expended
+   B. responded
+   C. suspended
+
+4. Exercise will help keep your joints and muscles ______.
+   A. stiff
+   B. sturdy
+   C. supple
+
+---
+
+## 本日词汇速查（21 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [subdue]{.headword} | səbˈdjuː | vt | ①镇压（反叛、暴动）=suppress ②遏制（感情）=repress |
+| [subdued]{.headword} | səbˈdjuːd | adj | 减弱的，被抑制的，被制服的 |
+| [submerge]{.headword} | səbˈmɜːdʒ | vi. & vt | 潜水，潜入水底 =immerse |
+| [submerged]{.headword} | səbˈmɜːdʒd | adj | 在水下的，在水中的 |
+| [submarine]{.headword} | ˌsʌbməˈriːn | n | 潜水艇 |
+| [subtle]{.headword} | ˈsʌtəl | adj | ① 微妙的，难以把握的 =delicate ② 巧妙的，绝妙的 =clever |
+| [subtlety]{.headword} | ˈsʌbtlti | n | 精妙，巧妙 |
+| [suburb]{.headword} | ˈsʌbɜːb | n | 郊外，近郊 |
+| [suburban]{.headword} | səˈbɜːbən | adj | 郊外的，近郊的 |
+| [succumb]{.headword} | səˈkʌm | vi | 输，屈服 = give in |
+| [suspend]{.headword} | səˈspend | vt | ①挂在（下面）；②使（暂时）中断 |
+| [suspense]{.headword} | səˈspens | n | 悬疑，悬念 |
+| [suspension]{.headword} | səˈspenʃn | n | 悬浮，暂停，停职 |
+| [suspender]{.headword} | səˈspendə(r) | n | 悬挂物 |
+| [susceptibility]{.headword} | səˌseptəˈbɪləti | n | 易受感染的状态，易受影响的状态 |
+| [supplant]{.headword} | səˈplɑːnt | vt | 代替，取代=replace, displace, substitute, supersede |
+| [supplantation]{.headword} | ˌsʌplɑːnˈteɪʃn | n | 取而代之 |
+| [supple]{.headword} | ˈsʌpl | adj | 柔软的=lithe |
+| [suppleness]{.headword} | ˈsʌplnɪs | n | 柔软 |
+| [surreptitious]{.headword} | ˌsʌrəpˈtɪʃəs | adj | 秘密的，隐秘的 = clandestine, cryptic, furtive |
+| [surreptitiousness]{.headword} | ˌsʌrəpˈtɪʃəsnɪs | n | 隐秘 |
+

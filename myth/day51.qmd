@@ -1,0 +1,388 @@
+# Day 51 · 分离并脱离出来的ab- {.unnumbered}
+
+::: {.root-banner}
+Day 51 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p450–p457
+
+<!-- p.435 -->
+
+前缀ab-含有表示“分离，脱离”，即“away”的意思。大家想象一下纽扣从衣服上掉下的场面，就可以很容易地理解前缀了。要注意ab-也可以变形为a-或abs-哦！
+
+<!-- 插图：纽扣从衣服上掉下 -->
+
+## 1. ab-表示away之义
+
+- **abnormal** 非正常的 ← ab-分开的(away) + normal 普通的（脱离正常的）
+- **abolish** 废止 ← ab-分开的(away) + ol(d) 很久的 + -ish 动词后缀（将很久的东西清除掉）
+- **absolute** 绝对性的，完全的 ← ab-分开的(away) + solut 解决(solve) + -e 形容词后缀（(从所有的限制中) 摆脱出来）
+- **abhor** 憎恶 ← ab-分开的(away) + hor 远离（远离……）
+- **absorb** 吸收 ← ab-分开的(away) + sorb 吸进去（吸收）
+- **abortion** 堕胎 ← a-分开的(away) + bor 出生 + -tion 名词后缀（将想要出生的东西清除掉）
+- **abuse** 滥用，虐待 ← ab-分开的(away) + use 使用（远离了原来的目的，错误地使用）
+- **abstain** 阻止，节制 ← abs-分开的(away) + tain 放，维持（使自己远离……）
+- **abundant** 丰富的 ← ab-分开的(away) + und 溢出（溢出）
+- **absurd** 愚蠢的 ← ab-分开的(away) + surb 耳朵聋的（因为分开所以听不清的）
+
+<!-- p.436 -->
+
+## 1. 脱离ab-正常noraml的abnormal非正常的
+
+::: {.etymo}
+单词abnormal非正常的是一个相对来说比较简单的词，normal是“正常的”的意思，因此在其前加上前缀ab-分开的（away），就变成了“脱离正常的，与正常不同的”，即“非正常的”意思。
+:::
+
+与normal相关的另一个经常使用的单词是enormous。在这里norm是“基准，标准”的意思，其词源分析是：e(x)向外（out）+norm标准+ -ous形容词后缀→脱离标准的。因此，enormous的词义是“巨大的，相当大的”。
+
+- **abnormal** [æb'nɔːməl] *adj.* 非正常的
+  - abnormal behavior 反常的行为
+- **abnormality** [ˌæbnɔː'mæləti] *n.* 异常，畸形
+- **enormous** [ɪ'nɔːməs] *adj.* 巨大的，凶暴的
+- **enormity** [ɪ'nɔːmɪti] *n.* 巨大，暴行
+
+::: {.mnemonic}
+**温馨小贴士**
+
+我们经常称那些精神不正常的人是“psycho”，psycho这个词源于掌管人类精神（spirit）的希腊女神普赛克（psyche）。要注意发音的时候“p”虽不发音，但书写的时候可不要忘了写上它哦！
+:::
+
+> Is he merely a brutal murderer or **abnormal** psycho?
+> 难道他仅仅是一个凶残的杀人犯？还是非正常的变态？
+> （brutal ['bruːtəl] 残忍的，残酷的；murderer ['mɜːdərə(r)] 杀人犯）
+
+> She showed **abnormal behavior** that may be a sign of mental illness.
+> 她表现出的反常行为可能是精神病的征兆。
+> （mental illness 精神病）
+
+## 2. 从所有的限制中释放solve脱离ab-、absolute绝对的，完全的
+
+<!-- 插图：骑马的皇帝雕像 -->
+
+::: {.etymo}
+秦始皇、尼罗皇帝、亚历山大帝的共同点是什么呢？他们都是拥有绝对王权的皇帝emperor！“绝对的”本身指的就是“不附加任何条件或限制”。这也正是由“从所有的限制中摆脱出来”的词源义中产生的单词absolute绝对的，完全的。
+:::
+
+在对话中，如果回答“absolutely！”，那就是说“对，那是当然！”，是一种强烈的肯定语气。
+
+- **absolute** ['æbsəluːt] *adj.* 绝对性的，完全的 = complete
+- **absolutely** ['æbsəluːtli] *adv.* 绝对地，完全地
+
+> His office is an **absolute** mess.
+> 他的办公室一片狼藉。
+> （mess [mes] 混乱，脏乱）
+
+> My answer to your proposal is an unequivocal and **absolute** “No.”
+> 对于你的提议，我的答案是既明确又坚决的“不可以”。
+> （unequivocal [ˌʌnɪ'kwɪvəkəl] 明确的，不含糊的）
+
+> It’s **absolutely** out of the question.
+> 这是完全不可能的。
+> （out of the question 不可能的 = impossible）
+
+<!-- p.437 -->
+
+## 3. 将分开的东西ab-吸收sorb，absorb吸收
+
+<!-- 插图：两位女士在电影院看电影吃惊地捂着嘴 -->
+
+::: {.etymo}
+当场面上有水的时候，如果拿纸巾擦，那么纸巾就会把水一下子吸进去。新生儿的必需品necessaries尿布diaper是吸收孩子尿urine的重要工具。这里我们联想到的单词就是absorb吸收。
+:::
+
+不过，我们不要认为absorb只可以表示“吸收（水）”，因为它还可以用于“吸收（知识，信息）”，甚至还可以表示“（某人）埋头做（某事）”。如果说“完全陷到电影中了！”，意思就是完全被电影吸引了。另外，大家还要知道，absorb可以以不同的形态来使用。
+
+- **absorb** [əb'sɔːb] *vt.* ①吸收 =soak up ②埋头于=engross, immerse
+  - be absorbed in 专心于
+  - absorb new information 吸收新信息
+  - absorb shock 缓冲，减震
+- **absorption** [əb'sɔːpʃn] *n.* 吸收，全神贯注，专心致志
+- **absorbing** [əb'sɔːbɪŋ] *adj.* 吸引人的，极有趣的
+
+> He was **absorbed** in the movie.
+> 他专注于这部电影。
+
+> His capacity to **absorb** new information is amazing.
+> 他吸收新信息的能力是惊人的。
+> （nutrient ['njuːtrɪənt] *n.* 营养物，滋养物）
+
+## 4. 偏离原来的目的ab-使用use的话，abuse①滥用；②虐待
+
+<!-- 插图：生气的家长拿着木棒斥责吓哭的孩子 -->
+
+::: {.etymo}
+单词abuse是在单词use前加上前缀ab-组成的。比方说，牙膏本来应该是刷牙的时候用的，但如果把牙膏涂在正在睡觉的朋友眼角上，那他可就惨啦！也就是说，偏离事物本来的目的，错误使用的话就是abuse，它是“滥用，误用”的意思。
+:::
+
+另外，abuse用在人身上时，意思是“对人不好”，也就是“虐待”。abuse既可以用作名词也可以用作动词，两个词性的意思相同。左图就是child abuse虐待儿童的场景。这种事可是绝对不应该发生的。
+
+<!-- p.438 -->
+
+- **abuse** [ə'bju:z] *vt.* ①滥用，误用 =misuse ②虐待 =maltreat *n.* ①滥用 ②虐待
+  - drug abuse 毒品滥用
+  - child abuse 虐待儿童
+  - verbal abuse 语言暴力
+  - racial abuse 种族虐待
+  - abuse of power 滥用权力
+- **abusive** [ə'bju:sɪv] *adj.* 滥用的，虐待的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+还有两个表达方式，大家可以一起记住哦！一个是racial abuse（种族虐待），另一个是racial discrimination（种族歧视）。
+:::
+
+> Many children suffer **racial abuse** at school.
+> 很多儿童在学校里遭受种族虐待。
+
+> He **abused** his position as principal by giving jobs to his friends.
+> 他滥用自己作为校长的职权，将工作安排给朋友们。
+> （principal ['prɪnsəpl] 校长，委托人，主要的）
+
+> I can't understand why some people **abuse** animals.
+> 我不明白为什么有些人会虐待动物。
+
+## 5. 横溢 unda 溢出 ab-, abundant 丰富的
+
+::: {.etymo}
+与动词abound盛产相关的“Fish abound in the sea.大海里有很多鱼。”是个很有名的例句。动词abound的形容词是abundant，abundant的词根unda含“water，wave”的意思。因此，abundant词源义是“溢出的”，其词义是“丰富的”。单词abundant的使用频率很高，因此大家一定要牢牢记住！对了，abundant丰富的反义词是scanty不足的！
+:::
+
+- **abundant** [ə'bʌndənt] *adj.* 丰富的 =plentiful, copious
+- **abundance** [ə'bʌndəns] *n.* 丰富
+  - abound in 富于
+
+> Latin America has an **abundant** labor force and natural resources.
+> 拉丁美洲有丰富的劳动力资源和自然资源。
+> （labor force 劳动力；natural resources 自然资源）
+
+> We need an **abundant** supply of fresh water.
+> 我们需要充足的淡水供应。
+
+## 6. 将很久的 old 东西清除掉 ab-, abolish 废止
+
+::: {.etymo}
+单词abolish的词根-ol是old很久的的缩略语，在它的前面加上前缀ab-所形成的词语就是abolish，abolish多用于表达“废除陈旧的法律或制
+:::
+
+<!-- p.439 -->
+
+度”之义。
+
+大家还要一起记住另一个与其语义相同但相对比较难的词语abrogate。虽然这个词看上去很生硬，但它经常在英文报纸中出现，可是一个非常重要的词汇哦！
+
+<!-- 插图：写着 CONTRACT 的合同被撕成两半 -->
+
+- **abolish** [əˈbɒlɪʃ] *vt.* 废止，取消 =abrogate, repeal
+  - abolish the treaty 废除条约
+  - abolish racial discrimination law 废除种族歧视的法律
+- **abolition** [ˌæbəˈlɪʃn] *n.* 废止
+
+> Slavery was **abolished** in the US in the 19th century.
+> 19世纪美国废除了奴隶制。
+> （slavery [ˈsleɪvəri] *n.* 奴役，奴隶制度）
+
+> They have kept insisting on the **abolition** of death penalty.
+> 他们一直主张废除死刑。
+> （keep doing 坚持做；death penalty 死刑）
+
+## 7. 战栗着hor脱离，远离ab-，abhor十分讨厌，憎恶
+
+<!-- 插图：一个人看着电视里恐怖的恶魔在发抖，旁边写着 horror movie -->
+
+::: {.etymo}
+在汉语中，有“战栗”、“义愤填膺”的说法。那该是有多么厌恶才会“让身体或牙齿打哆嗦”啊？英语中也有类似的说法，即abhor很讨厌，憎恶，abhor也是从词源义“远离ab-……身体发抖hor”生成的单词。含有词根hor-发抖的单词很多，其中我们很熟悉的单词有horror，其“恐怖”之义来源于其词源义“使发抖”。大家都知道horror movie恐怖电影。因为害怕身体不由自主地发抖就是horror恐怖啦！
+:::
+
+**Voca Map**
+- horror 惊骇，极端厌恶
+  - ↓
+  - abhor 讨厌，厌恶
+    - ↓
+      - abhorrence 痛恨，厌恶
+    - ↓
+      - abhorrent 厌恶的
+
+- **abhor** [əbˈhɔː] *vt.*（很）讨厌，厌恶 =abominate, detest
+  - abhor racism /sexism 痛恨种族歧视 / 痛恨性别歧视
+- **abhorrence** [əbˈhɒrəns] *n.* 痛恨，厌恶
+- **abhorrent** [əbˈhɒrənt] *adj.* 厌恶的
+
+> The great majority of the people have always **abhorred** violence.
+> 大多数人一直痛恨暴力。
+> （majority [məˈdʒɒrəti] 多数；violence [ˈvaɪələns] 暴力）
+
+> Many universities absolutely **abhor** government intervention.
+> 许多大学非常厌恶政府的介入。
+> （government [ˈɡʌvənmənt] 政府；intervention [ˌɪntəˈvenʃn] 介入）
+
+<!-- p.440 -->
+
+## 8. 将要出生 born 的东西清除掉 ab-，abortion 堕胎
+
+::: {.etymo}
+单词 **abortion** 是“堕胎”的意思。无论何时，堕胎始终是一个易造成社会混乱的话题 controversial issue。要注意的是该词应与表示“流产”的 **miscarriage** 区分开来。另外，动词 **abort** 除了“堕胎”之义外，还有“使中断”的意思。形容词 **abortive** 是“失败的 unsuccessful”的意思。
+:::
+
+- **abortion** [əˈbɔːʃn] *n.* 堕胎 = termination
+  - have an abortion 堕胎
+- **abort** [əˈbɔːt] *vt.* ①使流产；②使终止
+- **abortive** [əˈbɔːtɪv] *adj.* 流产的，失败的
+- **miscarriage** [mɪsˈkærɪdʒ] *n.* 流产
+
+**Voca Map**
+- abort
+  - ①使流产 ↓
+    - abortion 堕胎
+  - ②使终止 ↓
+    - abortive 失败的
+
+> She decided to **have an abortion**.
+> 她决定堕胎。
+
+> **Abortion** is always a controversial issue in our society.
+> 堕胎始终是我们社会一个有争议的问题。
+> （controversial [ˌkɒntrəˈvɜːʃəl] 有争议的，被争论的）
+
+> We had to abandon our **abortive** attempts.
+> 我们不得不放弃没有任何结果的尝试。
+
+---
+
+## 9. 保持 tain 远离的 abs- 状态，abstain ①阻止，节制；②弃权
+
+<!-- 插图：禁止吸烟、饮酒、赌博的图标 -->
+
+::: {.etymo}
+有个词语叫“中庸”，表示既不会太过分，也不会不足，不会偏重于某一个方向。酒或游戏、赌博之类 dance 的东西都容易让人上瘾 addiction，要是太沉迷其中的话，这些东西就会变成毁掉自己人生的毒品。因此，我们应该有所节制。想做到这一点就需要有能够克制 abstain 自己的美德。
+:::
+
+另外，我们还要注意 **abstain** 作为不及物动词一定要以“abstain from 阻止……，节制……”的形式出现。此外，如果在投票 voting 中说 **abstain** 的话，那就是“弃权”了。
+
+- **abstain** [əbˈsteɪn] *vi.* ①阻止，节制 = refrain；②弃权
+  - abstain from drinking /smoking 戒酒/戒烟
+  - abstain from voting 放弃投票
+- **abstinent** [ˈæbstɪnənt] *adj.* 有节制的，饮食有度的
+- **abstinence** [ˈæbstɪnəns] *n.* 节制
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 abstain，refrain 一定要与介词 from 一起使用！虽然有时口语也用 abstain alcohol（控制饮酒）这种表达方式，但 abstain from alcohol 才是完整正确的表达方式。
+:::
+
+> Pilots must **abstain from** alcohol for 24 hours before flying.
+> 飞行员在起飞前24小时不得饮酒。
+
+<!-- p.441 -->
+
+> Six members voted for the agenda, five voted against, and two **abstained**.
+> 6名成员投票支持该议程，5名反对，2名弃权。
+> （for [fə] 支持；agenda [ə'dʒendə] 议程，日常工作事项；against [ə'geinst] 反对）
+
+## 10. 因为分开 ab- 所以听不清 surd，absurb 可笑的，愚蠢的
+
+<!-- 插图：卡通人物说话“我看上去很好笑吗？记着absurd吧” -->
+
+::: {.etymo}
+在韩国，动画片《西游记》中最受欢迎的角色不是孙悟空，也不是猪八戒，而是沙僧。沙僧作为总是听错别人话的代表人物，甚至引起了一场“沙僧综合症”，成了“耳背人士”的代名词。单词absurb指的并不是真的耳聋deaf，而是说“听错（不理解）别人的话”，后来就变成了“愚蠢”的意思。
+:::
+
+- **absurd** [əb'sɜːd] *adj.* 可笑的，愚蠢的 = ridiculous, ludicrous
+  - an absurd idea 荒谬的主意
+  - an absurd plot 可笑的情节
+- **absurdity** [əb'sɜːdɪti] *n.* 谬论，荒谬的言行
+
+> Don't give **absurd** answers.
+> 不要给愚蠢的答案。
+
+> It was **absurd** of you to suggest such a thing.
+> 你真可笑，建议做这样的事。
+
+> It was only later that she could see the **absurdity** of the situation.
+> 事后她才看到事态的荒谬。
+
+## 单词回顾
+
+1. 脱离正常的 ______ 非正常的 ______
+2. 从所有的限制中脱离 ______ 绝对性的，完全的 ______
+3. 吸进去 ______ 吸收 ______
+4. 偏离原来的目的使用 ______ ①滥用；②虐待 ______
+5. 溢出的 ______ 丰富的 ______
+6. 将很久的东西清除掉 ______ 废止 ______
+7. 战栗着远离 ______ 十分讨厌 ______
+8. 将要出生的东西清除掉 ______ 堕胎 ______
+9. 保持远离的状态 ______ ①阻止，节制；②弃权 ______
+10. 因为分开所以听不清 ______ 可笑的，愚蠢的 ______
+
+> 答案 1. abnormal 2. absolute 3. absorb 4. abuse 5. abundant 6. abolish 7. abhor 8. abortion 9. abstain 10. absurd
+
+<!-- p.442 -->
+
+## 确认并攻克下列单词
+
+::: {.etymo}
+● 请写出下面单词的词义。
+:::
+
+1. abnormal ______
+2. abundant ______
+3. abolish ______
+4. abhor ______
+5. abstain ______
+6. absurd ______
+
+● 请写出下列阴影标识部分的单词。
+
+1. 他**非正常的** ______ 行为让人大为震惊。
+2. 法律应该明文规定禁止**虐待儿童** ______ 。
+3. 那个国家拥有**丰富的** ______ 天然资源。
+4. 应该**废除** ______ 诱发性别歧视的法律。
+5. 我很**厌恶** ______ 他那种卑劣的态度。
+6. **堕胎** ______ 是一种杀人行为，还是一种无可奈何的选择呢？
+7. 那个患者应该**戒** ______ 酒。
+8. 他做出了一个**愚蠢的** ______ 选择，一生都毁了。
+
+● 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. She was **absorbed** in her study.
+   A. enclosed    B. engrossed    C. entitled
+
+2. The patient is supposed to ______ from meat.
+   A. absolve    B. abolish    C. abstain
+
+3. The old tax system should be ______ .
+   A. abolished    B. imposed    C. disposed
+
+4. It seems an **absurd** idea.
+   A. lucid    B. ludicrous    C. discreet
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [abnormal]{.headword} | æb'nɔːməl | adj | 非正常的 |
+| [abolish]{.headword} | əˈbɒlɪʃ | vt | 废止，取消 =abrogate, repeal |
+| [absolute]{.headword} | 'æbsəluːt | adj | 绝对性的，完全的 = complete |
+| [absorb]{.headword} | əb'sɔːb | vt | ①吸收 =soak up ②埋头于=engross, immerse |
+| [abortion]{.headword} | əˈbɔːʃn | n | 堕胎 = termination |
+| [abuse]{.headword} | ə'bju:z | vt | ①滥用，误用 =misuse ②虐待 =maltreat *n.* ①滥用 ②虐待 |
+| [abundant]{.headword} | ə'bʌndənt | adj | 丰富的 =plentiful, copious |
+| [absurd]{.headword} | əb'sɜːd | adj | 可笑的，愚蠢的 = ridiculous, ludicrous |
+| [abnormality]{.headword} | ˌæbnɔː'mæləti | n | 异常，畸形 |
+| [absolutely]{.headword} | 'æbsəluːtli | adv | 绝对地，完全地 |
+| [absorption]{.headword} | əb'sɔːpʃn | n | 吸收，全神贯注，专心致志 |
+| [absorbing]{.headword} | əb'sɔːbɪŋ | adj | 吸引人的，极有趣的 |
+| [abusive]{.headword} | ə'bju:sɪv | adj | 滥用的，虐待的 |
+| [abundance]{.headword} | ə'bʌndəns | n | 丰富 |
+| [abolition]{.headword} | ˌæbəˈlɪʃn | n | 废止 |
+| [abhor]{.headword} | əbˈhɔː | vt | （很）讨厌，厌恶 =abominate, detest |
+| [abhorrence]{.headword} | əbˈhɒrəns | n | 痛恨，厌恶 |
+| [abhorrent]{.headword} | əbˈhɒrənt | adj | 厌恶的 |
+| [abort]{.headword} | əˈbɔːt | vt | ①使流产；②使终止 |
+| [abortive]{.headword} | əˈbɔːtɪv | adj | 流产的，失败的 |
+| [miscarriage]{.headword} | mɪsˈkærɪdʒ | n | 流产 |
+| [absurdity]{.headword} | əb'sɜːdɪti | n | 谬论，荒谬的言行 |
+

@@ -1,0 +1,420 @@
+# Day 10 · 走了是ced，来了是ven {.unnumbered}
+
+::: {.root-banner}
+Day 10 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p94–p101
+
+<!-- p.79 -->
+
+请看右图，图上右边的人是要去某地的样子吧？与“走”对应的英语单词是go。意思同go的词根就是ced(e)。也就是说，单词里有ced这个词根的话就表示“go”的意思。反之，图片中左边的人是朝这边走的样子吧？英语中的“来”即为“come”，与之相对应的词根是ven。为了便于背诵，请大家用如下顺口溜来记：来是ven（come），去是ced（go）。
+
+<!-- 插图：两个人分别走向左右路标，路标分别写着 Ced 和 Ven -->
+
+---
+
+## ced (e) 是go
+
+- pro- 向前 + ceed 走（向前走）→ **proceed** 进行、前进
+- pre- 在前 + cede 走（走在前面）→ **precede** 在……之前发生或出现、先于
+- re- 向后 + cede 走（向后走）→ **recede** 后退、走开
+- ac- 向一边 + cede 走（向……边走）→ **accede** 同意、答应
+- ex- 向外 + ceed 走（向外超出）→ **exceed** 超过、超越
+
+---
+
+## ven是come
+
+- ven- 来 + -ue 地点（[人们]来的地方）→ **venue** 会场、体育比赛场所
+- con- 一起 + vene 来（[多个人]一起来）→ **convene** 聚集、召集
+- re- 再次 + ven 来 + -ue 名词后缀（重新返回来的）→ **revenue** 收益
+- sou- 向上 + ven 来 + -ir 名词后缀（[记忆、想法]浮现）→ **souvenir** 纪念品
+- inter- 之间 + vene 来（进入……中间）→ **intervene** 介入、出面
+
+<!-- p.80 -->
+
+## 1. 向前pro-走ceed，proceed前进，向前走
+
+<!-- 插图：交通路牌，写有 PROCEED 1 VEHICLE AT A TIME -->
+
+::: {.etymo}
+听到“go！”的话，大家会下意识向前走吧？含有“向前走”之义的单词就是proceed。在词根ceed走（go）的前面加上前缀pro-向前就产生了单词“proceed”。
+:::
+
+proceed虽然是高考水平的基础词汇，但我们仍要注意它的名词派生词。如，legal procedure合法程序或者a process of manufacture制作过程等表达基本以惯用词组的形式出现，这类词组表达很重要，请大家一定要记住！
+
+- **proceed** [prə'si:d] *vi.* 前进，进行 = continue
+- **procedure** [prə'si:dʒə] *n.* 程序，过程，工序
+  - follow the safety procedure 遵守安全程序
+- **process** ['prəʊses] *n.* 过程，工序，工艺流程
+- **procession** [prə'seʃn] *n.* 队伍，行列
+  - a funeral procession 送葬行列，出丧
+
+**Voca Map**
+- proceed 前进，进行
+  - → procedure 程序，工序，过程
+  - → process 过程，工序
+  - → procession 队伍，行列
+
+> The project is **proceeding** according to plan.
+> 那个项目正按计划进行。
+
+> What's the **procedure** for applying for a passport?
+> 申请护照是怎样一个程序？
+
+> The **process** of applying to a college is often very time-consuming.
+> 大学的申请过程通常非常耗费时间。（apply to 向……申请）
+
+## 2. 向前pre-走的ede，precede先行于，领先
+
+::: {.etymo}
+易与proceed相混淆的词是precede。两者最明显的差别就是前缀不同。pro-是“向前”的意思，而pre-是“之前”的意思。precede虽然是指在空间上“比……靠前”，但事实上它是指某个案件或事情要比其他的发生得早，即“先发生的，先行”的意思。precede是英语写作中常用的一个动词，大家一定要把它背下来哦！另外，名词precedent先例，前例也是需要大家留意的一个单词，请不要忘了哦。
+:::
+
+<!-- 插图：几个人在讨论，旁边有人说“在这之前” -->
+
+**Voca Map**
+- precede 先于，在……之前发生或出现
+  - ↓ precedent 先例，前例
+    - ↕ unprecedented 无前例的，前所未有的 ‖ all-time 空前的
+  - ↓ preceding （时间或地点上）在先的，在前的
+
+<!-- p.81 -->
+
+- **precede** [prɪ'siːd] *vt.* 在……之前，先于
+- **precedent** ['presɪdənt] *n.* 先例 ↔ unprecedented 史无前例的
+  - create a dangerous precedent 开创了一个危险的先例
+- **preceding** [prɪ'siːdɪŋ] *adj.* 在前的，在先的 = previous
+  - refer to the diagram on the preceding page 参考前页的图表
+
+> The verification of the documents should **precede** any formal investigation.
+> 对文件的确认应该在任何正式调查之前进行。
+> （investigation [ɪnˌvestɪ'geɪʃn] 调查、研究）
+
+> We should follow the legal **precedent**.
+> 我们应该遵守法律判例。
+
+> Margaret Mitchell's book *Gone with the Wind* was an **unprecedented** success.
+> 玛格丽特·米切尔的《飘》获得了史无前例的成功。
+
+## 3. 向后re-走cede、recede后退
+
+::: {.etymo}
+如果向前走是proceed，那么向后走就是recede。其中，前缀re-表示“向后back”的意思。因此，可以说recede是从其词源义“向后走”中派生出的“后退”之意。recede的名词recession当然也含有“后退”之意，但是主要用作“经济后退，不景气”。大家记这个词的时候，与其反义概念“经济繁荣the economic boom”一起记，效果会更好。
+:::
+
+<!-- 插图：士兵在炮火中后退撤退 -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+recession（不景气）与 recess（休息时间）的词义都是源于同一个动词recede（后退），但两者的词义完全不同的，请大家一定要明确区分开来！
+:::
+
+- **recede** [rɪ'siːd] *v.* 后退，退出 = go back
+- **recession** [rɪ'seʃn] *n.* 经济衰退，不景气 = depression
+- **recess** [rɪ'ses] *n.* 休息时间
+
+> The memory for him gradually **receded**.
+> 他的记忆力逐渐减退。
+
+> We must make a suitable response to the global **recession**.
+> 鉴于全球经济衰退，我们必须制定出一个适当的对策。
+
+> **Recess** is too short.
+> 休息时间太短了。
+
+<!-- p.82 -->
+
+## 4. 向……边接近 cede，accede 同意
+
+<!-- 插图：两个人举着“赞成”的牌子 -->
+
+::: {.etymo}
+如果有人给各位拿来一个特别棒的提案 offer，你应该会同意吧？表示“同意”之义的表达是 accede to。accede 的词源义为“向……边接近”的意思。由于 accede 是不及物动词，所以通常要在它的后面加上助词 to。熟知这种动词与助词固定搭配的用法 usage 非常重要。只有这样，在考试中的写作、口语部分才能准确地灵活使用。
+:::
+
+- **accede** [ək'si:d] *vi.* 同意，应允 =agree
+  - accede to his request 同意他的要求
+  - accede to the investigation 加入调查
+- **accession** [æk'seʃn] *n.*（对同盟、国际条约等的）正式加入，就职
+- **access** ['ækses] *n.* 入口，出口；接近，进入
+
+> Many people would **accede to** his policy.
+> 很多人都会同意他的政策。
+
+> The department store has improved **access** for disabled visitors.
+> 百货商店改进了残疾人出入口的便利性。
+> （disabled [dɪs'eɪbld] 残废的，有缺陷的）
+
+> He was a key player in Korea's **accession** to the OECD in 1996.
+> 他是1996年韩国加入 OECD（经济与合作组织）的关键人物。
+
+## 5. 向外 ex 超出 ceed，exceed 超越（范围），超过
+
+<!-- 插图：汽车里的人说话：“你得按照限制的速度不能超速 exceed 行驶。” -->
+
+::: {.etymo}
+虽然这仅仅是我个人的希望，但如果这本书能够大卖 bonanza 并超出预期的销售的话，那真可谓是 exceed 了。前缀 ex- 向外和词根 ceed 走结合在一起是“超越（范围），超过”的意思。exceed our expectations 超乎我们的期望是使用频率较高的惯用表达，请大家一定要记住。而形容词 excessive 过度的也是不能忽视的重要单词。
+:::
+
+- **exceed** [ɪk'si:d] *vi.* 超越，超过 =surpass
+  - exceed one's expectation 超出……的期望
+  - exceed the speed limit 超出速度极限
+- **excess** [ɪk'ses] *n.* 超过，超额量
+- **excessive** [ɪk'sesɪv] *adj.* 过度的，极度的 =superfluous
+
+> The result of the book **exceeded** our expectations.
+> 这本书的结局超出了我们的预想。
+
+> The campaign is trying to stop the **excessive** use of chemicals.
+> 这个团体试图阻止化学药品的过度使用。
+
+<!-- p.83 -->
+
+## 6. 很多人来ven的地方，venue演出场地，举办地
+
+<!-- 插图：演唱会现场照片 -->
+
+::: {.etymo}
+请大家看左侧的图片，图片中的地方是正在举行大型演唱会concert的地方吧？像这种举行某活动的场所便是“演出场地，举办地”venue。只要知道venue里的词根ven是“来”也就是come之意的话，是不是马上就能理解这个词了？
+:::
+
+1988年奥林匹克运动会、2002年世界杯、2010年G20峰会summit的venue是在哪里呢？对了，在韩国。
+
+- **venue** [ˈvenjuː] *n.* 会场，（尤指）体育比赛场所
+  - a 2500 seat concert venue 可容纳2500人的音乐厅
+  - book a conference venue 预订会议场馆
+  - the venue for the party 召开派对的会所
+
+::: {.mnemonic}
+**温馨小贴士**
+
+summit *n.* 1. 顶点，顶；2. 高峰会谈
+hold a summit 举行高峰会谈
+*不要忘了，summit原本就有“高峰会谈”的意思。
+:::
+
+> Busan is the **venue** of the ASEAN summit.
+> 釜山是召开东南亚国家联盟峰会的地方。
+
+> The **venue** of the music performance is the Hilton hotel.
+> 音乐会在希尔顿酒店举行。
+
+## 7. 每个人一起con来ven，convene聚集，集合
+
+::: {.etymo}
+大家都有去演唱会现场concert venue看演唱会的经历吧？为了亲眼看到自己喜欢的歌手singer，很多人聚在某一场所，这个场所便是convene。convene的名词形式convention也是一个非常重要的单词。convention不仅含有从“人们聚集”的词源义中引申出的“1. 集会”的意思，同时还含有从词源义“和过去的东西一起流传下来”中引申出的“2. 传统”之意。形容词conventional基本用作“传统的”意思。这些词语都是经常出现的词汇，一定要熟记！
+:::
+
+- **convene** [kənˈviːn] *v.* 召集，聚集，传唤 =assemble, convoke
+- **convention** [kənˈvenʃn] *n.* 1. 会议，集会；2. 惯例，习俗
+  - the city's new convention center 那个城市的新会议中心
+  - the conventional wisdom 传统的智慧
+- **conventional** [kənˈvenʃənl] *adj.* 传统的，习用的，平常的 =traditional
+
+::: {.mnemonic}
+**温馨小贴士**
+
+convention的词义中“传统，习惯”之意经常被大家所忽略，请大家一定要记住该词义哦！另外，形容词conventional的词义“传统的”也非常重要哦！
+:::
+
+> The committee members **convened** for a meeting at 9:00 a.m.
+> 委员会成员在上午9点召开了会议。
+
+> The handshake is a kind of social **convention**.
+> 握手是一种社会习俗。
+
+> A microwave cooks food much faster than a **conventional** oven.
+> 微波炉比传统烤炉弄熟食物的速度快多了。
+
+<!-- p.84 -->
+
+## 8. 再次 re 来 ven，revenue 收益
+
+::: {.etymo}
+企业的目标就是追求利润。简单地说就是“赚钱！”想要赚钱，就要卖产品product，而消费者consumer要为自己所购买的product付钱。从公司的立场来看，卖出product进来money就会有revenue收益。现在可以理解revenue的词源义“回来”了吧？revenue还有“（政府的）税收”的意思。从政府government立场来看，为国民people提供各种行政服务，再向其征税tax，这也正是“返回来”的意思哦。
+:::
+
+- **revenue** [ˈrevənjuː] *n.* 1. 收益，利润=profit 2. 税收
+  - the movie's total revenue 影片的总收入
+  - an increase in tax revenue 税收的增长
+
+::: {.mnemonic}
+**温馨小贴士**
+
+一目了然的revenue 词义图
+企业 ──产品──> 消费者
+企业 <──卖产品、收钱企业的立场是收益── 消费者
+收益
+:::
+
+> Tourist **revenue** declined by 11.2 percent.
+> 旅游收入降低了11.2个百分点。
+
+> To collect more tax **revenue**, the government is considering imposing excise taxes on liquor and cigars.
+> 为了获得更多的税收，政府正考虑面向酒类和香烟征收消费税。（excise tax 消费税，特许权税）
+
+## 9. 使（记忆、想法）出 sou 来 ven，souvenir 纪念品
+
+<!-- 插图：埃菲尔铁塔模型等纪念品 -->
+
+::: {.etymo}
+大家都与家人一起去旅行foreign travel过吧？游览sightseeing了几处风景名胜tourist attraction后，去逛逛纪念品商店也是一种观光路线。这里我们要学的souvenir正是“纪念品”的意思。旅行回来就算过了好几年，但看到买回来的“纪念品”，那时的记忆也会不断地浮现在脑海里。能表达“勾起过去记忆”之义的单词正是souvenir！
+:::
+
+- **souvenir** [ˌsuːvəˈnɪə] *n.* 纪念品，礼物=momento
+  - a souvenir shop 纪念品商店
+  - put on souvenir T-shirts 穿上纪念T恤
+
+::: {.mnemonic}
+**温馨小贴士**
+
+搬家前，整理抽屉时发现了三年前分手的男朋友送的礼物——项链（necklace）。如果necklace勾起了以前的回忆，那么该项链就可以称为souvenir。
+:::
+
+> I bought a model of the Effel Tower as a **souvenir** of Paris.
+> 我买了一个埃菲尔铁塔的模型作为巴黎旅游的纪念。
+
+> People take **souvenir** photos in front of the statue.
+> 人们在雕像前拍照纪念。（statue [ˈstætʃuː] 雕像，雕塑）
+
+<!-- p.85 -->
+
+## 10. 进入 ven……中间 inter，intervene 介入
+
+<!-- 插图：交警在堵塞的十字路口指挥交通 -->
+
+::: {.etymo}
+北京的交通堵塞gridlock比世界上任何城市都严重。特别是在十字路口intersection，一旦堵车，就措手无策。只能等交警traffic police亲自指挥十字路口的车辆，使车从堵塞中解脱出来。像这种为了改善某种困境或棘手的情况而进入到某事或者情况之中的正是intervene介入。请大家将intervene与介词in一起以惯用短语intervene in介入……之中的形式来记忆。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+intervene与intercede的比较
+intervene in 在……（方面）进行干预，调节    intercede with 向……求情
+He **interceded with** the authorities on my behalf. 他代表我向当局求情。
+:::
+
+- **intervene** [ɪntəˈviːn] *vi.* 介于……之间，介入
+  - intervene in the crisis 干预危机
+  - intervene to deal with the problem 通过调停来解决问题
+- **intervention** [ɪntəˈvenʃn] *n.* 干涉，介入，干预
+
+> I won't intend to **intervene in** the dispute between them.
+> 我不打算干预他们之间的争议。
+
+> The police will have to **intervene** to prevent further fighting.
+> 如果想阻止争斗的升级必须有警察的介入。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 向前走
+   → 前进 ______
+2. 走在……前面
+   → 先行于……，领先 ______
+3. 向后走
+   → 后退 ______
+4. 向……边靠近
+   → 同意 ______
+5. 向外超出
+   → 超出（范围），超过 ______
+6. 很多人来的地方
+   → 演出场地，举办地 ______
+7. 很多人一起来
+   → 聚集，召集 ______
+8. 返回来的
+   → 收益 ______
+9. 使（记忆 想法）浮现
+   → 纪念品 ______
+10. 进入……中间
+    → 介入 ______
+:::
+
+**答案** 1. proceed 2. precede 3. recede 4. accede 5. exceed 6. venue 7. convene 8. revenue 9. souvenir 10. intervene
+
+<!-- p.86 -->
+
+## 单词检测
+
+## ㈠ 请写出下列单词的词义。
+
+::: {.etymo}
+1. proceed ______
+2. recede ______
+3. exceed ______
+4. venue ______
+5. revenue ______
+6. intervene ______
+:::
+
+## ㈡ 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 头痛**慢慢消失**了。 ______
+2. 不应该留下这样的**先例**。 ______
+3. 出生率**超过**了死亡率。 ______
+4. 圣诞节演唱会的**地点**是奥林匹克体操竞技场。 ______
+5. 今年**收益**增加了 30%。 ______
+6. 我们在那个旅游景点买了**纪念品**。 ______
+7. 警察**介入**了这个事件。 ______
+:::
+
+## ㈢ 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. The fire was ______ by a loud explosion.
+   A. preceded
+   B. proceeded
+   C. interceded
+:::
+
+2. You should **accede** to his right offer.
+   A. concede
+   B. agree
+   C. recede
+
+3. Total **revenue** of the year is expected to increase.
+   A. benefit
+   B. profit
+   C. souvenir
+
+4. The President won't ______ in party affairs.
+   A. interrupt
+   B. interfere
+   C. intervene
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [proceed]{.headword} | prə'si:d | vi | 前进，进行 = continue |
+| [procedure]{.headword} | prə'si:dʒə | n | 程序，过程，工序 |
+| [process]{.headword} | 'prəʊses | n | 过程，工序，工艺流程 |
+| [procession]{.headword} | prə'seʃn | n | 队伍，行列 |
+| [precedent]{.headword} | 'presɪdənt | n | 先例 ↔ unprecedented 史无前例的 |
+| [preceding]{.headword} | prɪ'siːdɪŋ | adj | 在前的，在先的 = previous |
+| [recede]{.headword} | rɪ'siːd | v | 后退，退出 = go back |
+| [recession]{.headword} | rɪ'seʃn | n | 经济衰退，不景气 = depression |
+| [recess]{.headword} | rɪ'ses | n | 休息时间 |
+| [accede]{.headword} | ək'si:d | vi | 同意，应允 =agree |
+| [accession]{.headword} | æk'seʃn | n | （对同盟、国际条约等的）正式加入，就职 |
+| [access]{.headword} | 'ækses | n | 入口，出口；接近，进入 |
+| [exceed]{.headword} | ɪk'si:d | vi | 超越，超过 =surpass |
+| [excess]{.headword} | ɪk'ses | n | 超过，超额量 |
+| [excessive]{.headword} | ɪk'sesɪv | adj | 过度的，极度的 =superfluous |
+| [venue]{.headword} | ˈvenjuː | n | 会场，（尤指）体育比赛场所 |
+| [convene]{.headword} | kənˈviːn | v | 召集，聚集，传唤 =assemble, convoke |
+| [convention]{.headword} | kənˈvenʃn | n | 1. 会议，集会；2. 惯例，习俗 |
+| [conventional]{.headword} | kənˈvenʃənl | adj | 传统的，习用的，平常的 =traditional |
+| [revenue]{.headword} | ˈrevənjuː | n | 1. 收益，利润=profit 2. 税收 |
+| [souvenir]{.headword} | ˌsuːvəˈnɪə | n | 纪念品，礼物=momento |
+| [intervention]{.headword} | ɪntəˈvenʃn | n | 干涉，介入，干预 |
+

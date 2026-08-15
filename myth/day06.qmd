@@ -1,0 +1,375 @@
+# Day 6 · 扣动trigger扳机子弹就发射了，trigger引发其他事件 {.unnumbered}
+
+::: {.root-banner}
+Day 6 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p59–p66
+
+<!-- p.44 -->
+
+为什么图片里有枪？这是因为接下来我们要学的单词是源自事物或地名的单词。这和枪有什么关系呢？今天要学的前两个单词trigger和caliber就是跟枪相关的单词！除此之外，源于灯塔的beckon，源于马克杯mug的“拦路抢劫”……源于事物、地名的单词数不胜数。
+
+<!-- 插图：持枪歹徒在门外威胁房间里的人 -->
+
+## 源于事物
+
+- 1. **trigger** 发射子弹的装置“扳机” → **trigger** （叛乱、暴动、疾病等）引发其他事件
+- 2. **caliber** 决定子弹大小的“枪口” → **caliber** 能力，水准
+- 3. **barge** “驳船”进来的话就完成交易和买卖 → **bargain** 契约，交易，便宜货
+- 4. **beacon** 像挥手示意让人过来的“灯塔” → **beckon** （用头或手的动作）示意，召唤，诱惑
+- 5. **vessel** （盛液体用的）容器、器皿 → **vessel** 大船，容器，血管
+- 6. **brace** 支持……不松懈的“护带” → **bracing** 令人振奋的
+- 7. **brass** 脸上有层“黄铜” → **brazen** 无耻的，厚脸皮的
+- 8. **burg** 入侵别人“村子”的 → **burglar** 入室盗窃者，窃贼
+- 9. **mug** 在路上打别人的“脸”拦路抢劫 → **mug** 路上行凶抢劫
+- 10. **colossus** 巨大的雕像 → **colossal** 巨大的
+
+<!-- p.45 -->
+
+## 1. 扣动扳机 trigger 子弹就发射了，trigger 触发，引发
+
+<!-- 插图：手枪扳机特写 -->
+
+::: {.etymo}
+如左图所示，枪的扳机用英语说就是 trigger。扣动扳机，子弹 bullet 就发射了。也就是说，扳机引发子弹发射，所以 trigger 便有了“触发，引发”的意思。或许是源于枪这个词的原因，所以 tigger 一词多用于引起叛乱 rebellion、暴动 riot、疾病 disease 等不好的东西上。
+:::
+
+- **trigger** [ˈtrɪɡə(r)] *n.* 扳机
+  *v.* 引发，引起（叛乱、暴动、疾病等）= cause, touch off
+  - pull / squeeze the trigger 扣动扳机
+  - trigger a civil war 发动内战
+
+> The assassination of the politician **triggered off** a wave of rioting.
+> 暗杀政治家的行动掀起了一场暴动风潮。
+> （assassination [əˌsæsɪˈneɪʃn] 暗杀）
+
+> Smoking and mental stress can **trigger** a chronic migraine.
+> 吸烟和精神压力会导致慢性偏头痛。
+> （migraine [ˈmaɪɡreɪn] 偏头痛；一般性头痛，用 headache）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+trigger 是动词，常以惯用词组 trigger off 的形式出现。（off 是副词）
+:::
+
+## 2. 因为枪口 caliber 决定子弹的大小，所以 caliber 能力
+
+<!-- 插图：手枪枪口正面 -->
+
+::: {.etymo}
+如右图所示，枪的最前端部分是枪口 caliber。枪口的大小决定了子弹 bullet 的大小。所以，caliber 除了“枪口”的意思外，还有“能力”之意。实际中，caliber 多作“能力”之意使用。
+:::
+
+- **caliber** [ˈkælɪbə(r)] *n.* 1. 口径；2. 能力，气量 = ability, capacity, capability
+  英式英语中，该词的拼写为 calibre
+  - musicians of the highest caliber 顶级水平的音乐家
+  - the high caliber of the player 演奏者的高水平
+
+> The university tries to attract a high **caliber** of students.
+> 大学尝试着吸引高水平的学生。
+
+> Her skating **caliber** is now internationally acknowledged.
+> 她的滑冰技能得到了全世界的认可。
+
+<!-- p.46 -->
+
+## 3. 驳船 barge 进来完成的 bargain 交易、契约、便宜货
+
+<!-- 插图：驳船 barge 运送货物 -->
+
+::: {.etymo}
+海上贸易 sea trade 发达的西方国家多通过运河 canal 或江河来进行贸易，这就需要可以装载货物的大船。有这种用途的船正是 barge boat 驳船。装载在 barge boat 上的物品正是 bargain。当装着货物的 barge boat 来到港口 harbor，围绕这些物品的“交易和买卖契约”就完成了。因此，bargain 有“1. 交易，契约 2. 特价商品”的意思。
+:::
+
+- **bargain** [ˈbɑːɡɪn] *n.* 1. 买卖契约，贸易 = deal；2. 便宜货；*vi.* 讨价还价 = compromise
+  - strike /make a bargain 达成交易，成交
+  - a bargain hunter 寻求低价的人
+  - drive /strike a hard bargain 艰难地讨价还价
+  - It's a real bargain. 真便宜。
+  - in(to) the bargain 另外，而且
+
+::: {.mnemonic}
+**温馨小贴士**
+
+听说过 bargain sale（大减价）吧？bargain sale 一般为“大促销、折价出售”的意思。
+如：The product is on sale. 那个产品正在打折。
+:::
+
+> This used car is a real **bargain**.
+> 这辆二手车确实很合算。
+
+> There are no **bargains** in the clothes shops at the moment.
+> 现在服装店里没有便宜的商品。
+
+> Management and unions have **struck a bargain** over wage increases.
+> 管理层与工会签署了关于涨工资的协议。
+> （management and union 管理层和工会；union [ˈjuːnjən] 工会）
+
+## 4. 像招手说来这边的灯塔 beacon、beckon 招手示意；吸引
+
+<!-- 插图：灯塔 beacon 发光，小船上的人向灯塔划去 -->
+
+::: {.etymo}
+你曾试过在漆黑的茫茫大海航行吗？在伸手不见五指的黑暗中，突然前面灯塔 beacon 射出一束光，使你错觉 delusion 这光就像在招手呼唤你一样。由变化 beacon 的发音而生成的单词正是 beckon 1. 招手示意 2. 吸引。这个词用在就餐招手叫服务员时再合适不过了。请大家记住 beckon a waiter 招手示意服务员这个惯用表达。
+:::
+
+<!-- p.47 -->
+
+- **beckon** [ˈbekən] *v.* 1. (用头或手的动作) 示意，召唤 2. 吸引，诱惑 =attract, mesmerize
+  - beckon (to) the waitress to come over 打手势示意服务员过来
+  - my friend beckoning to me 朋友招手叫我过来
+- **beacon** [ˈbiːkən] *n.* 灯塔，
+
+> She **beckoned** (to) the waitress to bring more water.
+> 她招手让服务员再拿一些水。
+
+> He **beckoned** me to come nearer.
+> 他招手让我走近些。
+
+## 5. 什么都能盛载的容器 vessel 大船；容器，碗；血管
+
+::: {.etymo}
+vessel在词源上指装东西的容器或碗container。从这个角度来看，它与vase花瓶的拼写是不是很像？在英语中，拼写相似的单词也有可能词义一致coincidence，大部分还是因为词源相同。vase是装花的“容器”，即“花瓶”。而vessel是1. 输送货物的“大船”；2. 装食物的“容器，碗”；3. 承载血液的“血管blood vessel”的意思。按照词汇形成法来记忆单词，学习方法才日臻完善。
+:::
+
+<!-- 插图：轮船、烧瓶、静脉注射 -->
+
+**Voca Map**
+- vessel
+  - → 装东西的大船
+  - → 装食物的容器，碗
+  - → 血管 (blood vessel)
+
+- **vessel** [ˈvesl] *n.* 1. 大船 2. 容器，碗 =container 3. 血管 → blood vessel
+  - one of the largest commercial vessels afloat 漂浮在水面上的巨大贸易商船之一
+
+> The captain has three fishing **vessels**.
+> 那位船长有3艘渔船。
+
+> The patient has to undergo a **blood vessel** transplant operation.
+> 病人已经进行了血管移植手术。
+
+> Empty **vessels** make the most sound.
+> 半桶水的人叫得最欢。（满瓶子不荡，半瓶子起波浪。）
+
+## 6. 不松懈的、紧绷的护带 brace、bracing 令人振奋的、爽快的
+
+::: {.etymo}
+在运动中，为防止关节受伤，我们会使用保护关节joint的绷带。这个
+:::
+
+<!-- p.48 -->
+
+<!-- 插图：佩戴运动护膝的膝盖照片 -->
+
+起支撑保护作用的护带叫做brace。它可以用于保护腰、手腕、膝盖、脚腕等各个部位。甚至在矫正牙齿的时候所使用的牙齿矫正器也是tooth brace。在关节处使用brace，由于它能起支撑作用，所以可以让我们更好地用力。这样便产生了形容词bracing，它是“令人振奋的，爽快的”的意思。brace用作动词时，通常表“做好心理准备，紧张不放松”之意。
+
+- **brace** [breɪs] *n.*（关节）护带，牙齿矫正器，牙箍
+  *vt.* 做好心理准备，保持紧张状态
+  - brace oneself for + 名词 做好准备，做好心理准备
+- **bracing** [ˈbreɪsɪŋ] *adj.* 令人振奋的，令人心旷神怡的 = refreshing
+
+> The athlete **braced himself for** the Olympic Games.
+> 运动员为参加奥运会比赛而做好心理准备。
+
+> We enjoyed a **bracing** sea breeze at the beautiful beach.
+> 我们在美丽的海滩上享受着清新的海风。
+
+## 7. 脸上有层黄铜brass，brazen厚脸皮
+
+<!-- 插图：三个神情各异的卡通人物，其中一人显得厚颜无耻 -->
+
+::: {.etymo}
+我们通常称有些人为“厚颜无耻的人”。brazen与汉语中的“厚脸皮，厚颜无耻”相对应。brazen是brass黄铜、铜管乐器的形容词形式。因此，“用黄铜制做的”就变成了“厚脸皮的，厚颜无耻的”意思。这与汉语的词义是相同的，是不是听到这个全身一下子起了鸡皮疙瘩goose-bumps？
+:::
+
+- **brazen** [ˈbreɪzn] *adj.* 无耻的，厚脸皮的 = insolent, impudent, impertinent
+  - a brazen lie 无耻的谎言
+  - her brazen admission that she has cheated on him 她厚颜无耻地承认了自己出轨的事情
+
+::: {.mnemonic}
+**温馨小贴士**
+
+cheat on + 人 对……不忠
+:::
+
+> He has carried on his **brazen** love affair.
+> 他在继续着他无耻的风流韵事。
+> （carry on 继续做……；love affair 风流韵事）
+
+> She's making **brazen** excuses for her mistake.
+> 她为她的过错进行着厚颜无耻的辩解。
+
+<!-- p.49 -->
+
+## 8. 入侵别人村子 burg 的人，burglar 窃贼，夜贼
+
+<!-- 插图：小偷潜入房间偷东西 -->
+
+::: {.etymo}
+德国的港口城市汉堡Hamburg，位于德国、比利时、法国之间的国家卢森堡Luxemburg，俄罗斯的著名城市圣彼得堡Saint Petersburg，这三个词的相同点是什么呢？对了，都是以-burg为后缀的！burg本是德语词汇，含有中世纪城堡castle的意思。过去以这样的城堡为中心，周围的小城town得以发展，所以便产生了该词。过去，人们很少迁移，所以基本上都知道有哪些人住在自己的城市或村子burg里。在当时，入侵别人村子（家）的人大都是外地人，所以就衍生出了“窃贼、夜贼”这一词义。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+各种“坏人”的英语表达
+- thief 小偷
+- robber=hold-up 强盗
+- bandit=mugger 劫匪
+- outlaw 歹徒，无法无天者
+- burglar 窃贼
+- larcenist 盗贼
+:::
+
+- **burglar** [ˈbɜːɡlə(r)] *n.* 强盗，窃贼 = robber, break-in, thief
+  - burglar alarm 防盗报警器
+  - anticipate the appearance of a burglar 推测一名盗贼会出现
+
+> Police believe the **burglar** got in through the kitchen window.
+> 警察认为盗贼是从厨房窗户进入室内的。
+
+> A new **burglar** alarm and ventilation have been installed.
+> 一个新的防盗报警器和通风设施已经装好了。
+> （ventilation [ˌventɪˈleɪʃn] 通风装置）
+
+## 9. 在路上打别人耳光，mug 拦路抢劫
+
+<!-- 插图：街头蒙面劫匪袭击女子 -->
+
+::: {.etymo}
+众所周知，mug是马克杯的意思。mug在俗语slang中，还有“脸face”的意思，相当于我们平时所说的“脸盘，脸蛋”。因此，mug作动词使用时，是strike a face打（别人）巴掌的意思。由此又产生了“1. 做鬼脸 2. 拦路抢劫”的意思。因此，mugger就是“抢劫犯”，而拍下犯人脸的照片即为mug shot。
+:::
+
+- **mug** [mʌɡ] *n.* 1. 马克杯；2.（俗语）脸 *v.* 1.（淘气）做鬼脸；2. 打劫
+  - mug shot（警察识别犯人用的）脸部照片
+  - mug up 突击式学习
+- **mugger** [ˈmʌɡə(r)] *n.* 强盗
+- **mugging** [ˈmʌɡɪŋ] *n.* 行凶抢劫，暴力
+  - the victim of a violent mugging 遭受暴力抢劫的受害者
+
+<!-- p.50 -->
+
+> All the kids were **mugging** for the camera.
+> 所有的孩子都在摄像机前做鬼脸。
+
+> A lot of people won’t go out alone at night because they’re afraid of being **mugged**.
+> 很多人晚上都不敢单独出去，因为害怕会被抢劫。
+
+## 10. 源于巨大雕像 colossus 的 colossal 巨大的、非常的
+
+<!-- 插图：罗马圆形斗兽场 -->
+
+::: {.etymo}
+埃及最著名的建筑之一是狮身人面像 Sphinx。事实上，它是一座可以用奇迹 wonder 来形容的“巨像”。此外，还有大家非常熟悉的罗马圆形斗兽场 colosseum。这个单词的词源本身就是“巨大的地方”的意思。colossus 是名词，为“巨像”，其形容词是 colossal 巨大的，非常的，意为“非常非常大的”。
+:::
+
+- **colossal** [kəˈlɒsl] *adj.* 巨大的，非常的 = huge, vast, immense, enormous
+  - a colossal statue of the King 国王的巨大雕塑
+  - a colossal waste of money 对金钱的巨大浪费
+- **colossus** [kəˈlɒsəs] *n.* 巨大塑像
+
+> The actor earns a **colossal** amount of money.
+> 那个演员挣了很多钱。
+
+> Each year a **colossal** number of students are dropping out of their school.
+> 每年都有大量的学生辍学。
+> （drop out of 辍学）
+
+## 单词回顾
+
+::: {.etymo}
+1. 扣动扳机子弹就发射了
+   → 触发 ______
+2. 源于枪口决定子弹的大小
+   → 能力 ______
+3. 驳船进来完成的
+   → 交易契约；便宜货 ______
+4. 源于招手示意的灯塔
+   → 招手示意；吸引 ______
+5. 什么都能装的容器
+   → 容器，碗；血管 ______
+6. 源于不松懈的、紧绷的护带
+   → 令人振奋 ______
+7. 脸上贴了黄铜
+   → 厚脸皮 ______
+8. 入侵别人村子的人
+   → 窃贼，夜贼 ______
+9. 在路上打了别人耳光
+   → 拦路抢劫 ______
+10. 源于巨大的雕像
+   → 巨大的，非常的 ______
+:::
+
+**答案** 1. trigger 2. caliber 3. bargain 4. beckon 5. vessel 6. bracing 7. brazen 8. burglar 9. mug 10. colossal
+
+<!-- p.51 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. trigger ______
+2. caliber ______
+3. beckon ______
+4. bracing ______
+5. burglar ______
+6. colossal ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 警察对两名黑人的暴行**引发** ______ 了黑人暴动。
+2. 他的**能力** ______ 超乎想象。
+3. 姐姐说了**鼓励** ______ 我的话。
+4. 那件大衣真**便宜** ______ ！
+5. 他**厚颜无耻的** ______ 态度真让我生气。
+6. 假期要小心**入室盗窃犯** ______ 。
+7. **抢劫犯** ______ 抢走了我的手提包。
+8. **非常** ______ 多的人为了看那个明星而来到机场。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. A tsunami is ______ by a distant earthquake.  
+   A. responded  
+   B. triggered  
+   C. happened  
+
+2. Where will we find another man of his **caliber**?  
+   A. capacity  
+   B. capaciousness  
+   C. courage  
+
+3. The travel was a **colossal** waste of money.  
+   A. terrible  
+   B. huge  
+   C. great  
+
+4. His wife could no longer tolerate his ______ love affairs.  
+   A. selfish  
+   B. altruistic  
+   C. brazen
+
+---
+
+## 本日词汇速查（15 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [trigger]{.headword} | ˈtrɪɡə(r) | n | 扳机 |
+| [caliber]{.headword} | ˈkælɪbə(r) | n | 1. 口径；2. 能力，气量 = ability, capacity, capability |
+| [bargain]{.headword} | ˈbɑːɡɪn | n | 1. 买卖契约，贸易 = deal；2. 便宜货；*vi.* 讨价还价 = compromise |
+| [beckon]{.headword} | ˈbekən | v | 1. (用头或手的动作) 示意，召唤 2. 吸引，诱惑 =attract, mesmerize |
+| [beacon]{.headword} | ˈbiːkən | n | 灯塔， |
+| [vessel]{.headword} | ˈvesl | n | 1. 大船 2. 容器，碗 =container 3. 血管 → blood vessel |
+| [brace]{.headword} | breɪs | n | （关节）护带，牙齿矫正器，牙箍 |
+| [bracing]{.headword} | ˈbreɪsɪŋ | adj | 令人振奋的，令人心旷神怡的 = refreshing |
+| [brazen]{.headword} | ˈbreɪzn | adj | 无耻的，厚脸皮的 = insolent, impudent, impertinent |
+| [burglar]{.headword} | ˈbɜːɡlə(r) | n | 强盗，窃贼 = robber, break-in, thief |
+| [mug]{.headword} | mʌɡ | n | 1. 马克杯；2.（俗语）脸 *v.* 1.（淘气）做鬼脸；2. 打劫 |
+| [mugger]{.headword} | ˈmʌɡə(r) | n | 强盗 |
+| [mugging]{.headword} | ˈmʌɡɪŋ | n | 行凶抢劫，暴力 |
+| [colossal]{.headword} | kəˈlɒsl | adj | 巨大的，非常的 = huge, vast, immense, enormous |
+| [colossus]{.headword} | kəˈlɒsəs | n | 巨大塑像 |
+

@@ -1,0 +1,374 @@
+# Day 60 · 算钱、脑海中的计算都是account {.unnumbered}
+
+::: {.root-banner}
+Day 60 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p529–p537
+
+<!-- p.514 -->
+
+在词典里查找accommodate和account、address、figure这类单词的话，你会发现词典里罗列了很多不同的义项，这时最重要的就是理解这些词的“原意the original meaning”。单词account有“账户，说明，理由，重要性，考虑”等各种不同的词义，但这些词义都是源于其原意“计算”！
+
+<!-- 插图：报纸、计算器、疑问的人 -->
+
+**Voca Map：account**
+- 原意：数，计算
+  - 计算好钱的存取状况 → ❶（银行）账户
+  - 对某事的计算结果 → ❷ 说明
+  - 头脑中进行的计算 → ❸ 理由；重要性
+  - 头脑中计算好了的 → ❹ 考虑
+
+**Voca Map：address**
+- 原意：（一直）朝向
+  - 信要寄去的地方 → ❶ 地址
+  - 将自己的想法讲给听众 → ❷ 演说、演讲
+  - 让自己朝向工作 → ❸ 正式着手（做事情）、处理
+
+**Voca Map：accommodate**
+- 原意：完全适应
+  - 按照建筑的大小调整人员数量 → ❶ 容纳（人），提供（住宿）
+  - 满足对方的意见和要求 → ❷ 迎合、迁就
+  - 使自己适应新环境 → ❸（调整以）适应
+
+**Voca Map：figure**
+- 原意：制成的
+  - 在脑海中想象物体的大小 → ❶ 数值，数字
+  - 具有某种形态 → ❷（重要）人物，人
+  - 塑造出的模样 → ❸ 身材，模样
+  - 在脑海中勾画出的画面（模样） → ❹ 想、想象
+
+<!-- p.515 -->
+
+## 1. 数，计算 account ①账户；②说明，记事；③理由；重要性；④考虑
+
+::: {.etymo}
+单词 **account** 是一个词义丰富的多义词，因此在文章中看到这个词的时候时常不知道该如何理解，**account** 是源于 **count** 数的名词，其原意是“数，计算”。在 **account** 的众多义项里，最重要的就是“计算”这个本义。接下来我们一起来学习一下 **account** 的各种义项吧。
+:::
+
+### (1) 计算好钱的存取状况的 → 账户
+
+我们每个人都有银行账户吧？不管里面钱多钱少，重要的是我们在哪家银行存 deposit 了多少钱，取 withdraw 了多少钱，而计算钱的存取状况的地方就是“账户”。
+
+> I've opened an **account** with Hana Bank.
+> 我已经在韩亚银行开了一个账户。
+
+> $200 credit was paid into my **account**.
+> 我往账户里存了200美元。
+
+### (2) 对某事的计算结果 → 说明
+
+听新闻时，当听到有关重大事故 accident 的报道时，通常都会听到好几十人在事故中死亡或负伤 injury 的语句。看事故严不严重，只要数一下 count 事故中伤亡人数就可以了。换句话说，数字的统计计算就是对事故的一种“说明”。这里还衍生了一个词义，即“（报纸的）报道”。
+
+需要注意的是，**account** 不仅可用作名词，它还可以用作动词，词组“account for”是“①说明；②占有”的意思。
+
+> He gave an **account** of the accident.
+> 他说明了一下这起事故。
+
+> Recent pressure at work may **account for** his behavior.
+> 最近工作上所受到的压力可以解释他的行为。
+
+### (3) 头脑中进行的计算 → 理由；重要性
+
+<!-- 插图：男子拿着计算器，女子心想：这男的拿着计算器算什么呢？ -->
+
+单词 **account** 的义项“理由，重要性”在汉语中也能常用到，比如：“那个人之所以对你那么好肯定是有原因的！”“对于他来说，钱是选择工作的重要条件。”由此可见，**account** 的“理由”之义也可视为“重要性”的意思。
+
+<!-- p.516 -->
+
+> The picnic was postponed **on account of** the rain.  
+> 野餐活动因下雨被推迟了。
+
+> Money **was of great account** to her.  
+> 钱对她来说很重要。
+
+(4) 头脑中算好了的 → 考虑
+
+单词account的“考虑”这个义项在汉语中也较常用。比如：“选基金的时候应该把收益率考虑（计算）在内进行选择。”这个句子中“计算”也可视为“考虑”的意思。词组“take...into account”这个熟语在我们的日常生活中经常能用到，大家一定要记住哦！
+
+<!-- 插图：一个人看着写着“目标：及格！”的本子，脑海里想着“要拿第一名，要拿第二名” -->
+
+> I will **take account of** your objections.  
+> 我将考虑大家的反对应见。
+
+> He didn't **take** his family's wishes **into account** when deciding to change jobs.  
+> 当他决定换工作的时候，他没把家庭的期望考虑进去。
+
+**Voca Map**
+- account 本义：数、计算
+  - 计算好钱的存取状况的 → (银行)账户
+  - 对某事的计算结果 → 说明
+  - 头脑中进行的计算 → 理由、重要性
+  - 头脑中算计好了的 → 考虑
+
+- **account** [əˈkaʊnt] *n.* ①计算，账户；②说明，记事；③理由；重要性；④考虑
+  - account for ①说明；②占有
+  - on account of 由于，因为
+  - be of account 重要的
+  - take...into account 把……考虑进去
+- **accountable** [əˈkaʊntəbl] *adj.* 有责任的 =responsible
+- **accounting** [əˈkaʊntɪŋ] *n.* 会计学
+- **accountant** [əˈkaʊntənt] *n.* 会计师
+
+## 2. 朝向……address ①地址；②演说；③（正式）着手
+
+::: {.etymo}
+单词address的前缀ad-是“朝……方向”的意思，词根dress是“指向direct”的意思。看看address与“衣服”没有任何关系吧？不过不管怎么样，address一定含有“朝向……”之义。我们知道了address的原意便能一眼就了解它的其他义项了。比如，普通信封上都会写有address，只有这样才能知道这封信将要发往什么地方。
+:::
+
+(1) 信要寄去的地方 → 地址
+
+单词address的第一个义项“地址”，即“将信寄往……”。只有写上地址，信才能寄到那儿，对不对？
+
+<!-- 插图：几封写有地址和贴着邮票的信封 -->
+
+<!-- p.517 -->
+
+> What's the best way to get to this **address**?
+> 去这个地方的最好路径是什么？
+
+> Please notify us of any change of **address**.
+> 如果地址有变化，请通知我们。
+
+(2) 将自己的想法讲给听众 → 演说、演讲
+
+提到“演说”，我们头脑中首先浮现的单词是speech。可要是看到“make an address”这种表达时，我们可能就不知道是什么意思了。短语make an address就是“演讲”的意思。前面我们已经讲过，address的原意是“朝向……”。“演说”可以解释为“将自己的想法讲给听众audience”。好了，从现在开始，提到“演说”的时候，除了speech，大家还要想起address来哦！
+
+<!-- 插图：正在发表演讲的人 -->
+
+> The new President delivered his inaugural **address**.
+> 新任总统发表了他的就职演说。
+
+> We listened to the President's **address** on the radio.
+> 我们在广播中听了总统的演说。
+
+(3) 让自己朝向工作 → 正式着手（做事情）
+
+让我们接着再来了解一下address作为动词的义项吧。首先，address作为动词经常以反身代词短语“address oneself to+事情”的形式出现。即address从其词源义“让自己朝向工作”演变成了“（正式）着手（做某事）”。事实上，当开始着手做某件事情的时候，我们不都是把其他琐碎的travial事情放在一边，只做那一件事情吗？
+
+> We'll soon have to **address ourselves to** the problem.
+> 我们将立即着手解决这个问题。
+
+> The policeman **addressed himself to** the task of investigating the crime.
+> 警察着手调查这起犯罪案件。
+
+- **address** [əˈdres] *n.* ①地址 ②演说
+  *vt.* (正式开始)着手，处理=start trying to solve it
+  - make an address 开始演说、演讲
+  - address oneself to 着手做某事
+  - address him as "Mr. President" 尊称他为总统先生
+
+**Voca Map：address**
+- 本义：（一直）朝向……
+  - → 信要寄去的地方 → 地址
+  - → 将自己的想法讲给听众 → 演说、演讲
+  - → 让自己朝向工作 → 正式着手（做事情）、处理
+
+<!-- p.518 -->
+
+## 3. 完全适应 accommodate ①容纳；②迎合；③（调整以）适应
+
+::: {.etymo}
+为了找到 accommodate 的原意，我们事先来分析一下它的词源。分析 accommodate 的词源是：ac-<sub>表方向</sub>+com-<sub>完全的</sub>+mod<sub>适应</sub>+-ate<sub>动词后缀</sub> → 完全适应。在句子中，accommodate 经常以词组“A accommodate B”的形式出现，译为“不管B是什么，A都要试着去适应B”。
+:::
+
+(1) 按照建筑的大小调整人员数量 → 容纳（人），提供（住宿）
+
+<!-- 插图：双人床 -->
+跟朋友一起出门去旅行。虽然去哪儿很重要，但选择住酒店还是民宿也很重要吧？按照人数，如果是4个人的话就选择4人间，如果是8个人的话就选择8人间。按照建筑的大小来调整人员的数量就是“（建筑）容纳（人），提供住宿”的意思。
+
+> The main hall can **accommodate** 400 people.
+> 这个大厅能容纳400人。
+
+> The cottages were used to **accommodate** refugees.
+> 农舍被用来容纳难民。
+
+(2) 满足对方的意见和要求 → 迎合，迁就
+
+单词 accommodate 的第二个义项是对第一个义项的延伸。其义为原封不动的“适应、满足”对方的意见或要求requirement。
+
+> She is always **accommodating**.
+> 她总是迁就别人。
+
+> The new bus is designed to **accommodate** disabled passengers.
+> 新的公共汽车是为了残疾人乘客而设计的。
+
+(3) 使自己适应新环境 → （调整以）适应
+
+<!-- 插图：两人来到海岛，一人说：“得适应新的环境啊！” -->
+人生就是一个不断变化的过程。状况situation和环境environment无时无刻不在发生着变化。状况或环境发生变化的时候，我们应该调整自己，使自己适应变化了的状况或环境。而适应新环境就是“（调整以）适应”的意思。
+
+大家要注意，accommodate 的这个义项主要用于反身代词短语中。比如，accommodate oneself to the new surrounding<sub>适应新环境</sub>。
+
+<!-- p.519 -->
+
+> Tanya easily **accommodated herself** to the new environment.
+> 塔尼亚很轻松地适应了新环境。
+
+> Her eyes took a while to **accommodate to** the darkness.
+> 她花了一段时间让自己的眼睛来适应黑暗。
+
+最后，请记住名词“accommodation”由“容纳人的地方”引申出：“①住处，住所，旅馆”之义；由“相互调整的意见”引申出：“②调和，调节”之义。请大家牢记这两个词义。
+
+- **accommodate** [əˈkɒmədeɪt] *vt.* ①容纳，提供住宿 ②迎合，迁就 ③（调整以）适应 = adapt, adjust
+  - accommodate to/accommodate oneself to 适应
+- **accommodation** [əkɒməˈdeɪʃn] *n.* ①住处 ②和解 = agreement
+- **accommodating** [əˈkɒmədeɪtɪŋ] *adj.* 乐于助人的，随和的
+
+> **Voca Map：accommodate**
+> - 本义：完全适应
+>   - 按照建筑的大小调整人员数量 → 容纳（人），提供（住宿）
+>   - 满足对方的意见和要求 → 迎合，迁就
+>   - 使自己适应新的环境 → （调整以）适应
+
+## 4. 制成的东西 figure ① 数值，数字；②（重要）人物，人；③ 身材，模样；④ 想
+
+<!-- 插图：花样滑冰运动员在冰面上滑冰 -->
+
+::: {.etymo}
+单词figure有很多不同的义项，其词根figur是“模样shape、制作make”的意思，因此figure的原意是“制成的”，figure从原意中又派生出了很多不同的various义项。
+:::
+
+请仔细观察一下figure skating的场面！真的可以说是“在冰面上做出了美丽的模样figure吧！
+
+### (1) 在脑海中想象物体的大小 → 数值，数字
+
+<!-- 插图：包含各种数字（12.99, 7.45, 10.78, 11.12 等）的图片 -->
+
+现在请大家在脑海中想一下10个人和10万个人的场面。完全不同的感觉吧？单词figure的第一个义项“数值，数字”就是源自于“在脑海中想象物体的大小”这个意思；figure作为“数字，数值”讲时，主要用作复数形式figures，请大家一定要注意这一点哦！
+
+> No precise **figures** are available yet.
+> 还没有精确的数据可以用。
+
+> Government **figures** show that unemployment is rising again.
+> 政府数据表明失业率又上升了。
+
+<!-- p.520 -->
+
+## (2) 具有某种形态 → 人物，人
+
+<!-- 插图：一群商务/政界人物合影 -->
+
+::: {.etymo}
+单词**figure**的第二个义项“拥有某种形态”的“人物，人”，**figure**所指的“人物”不是单纯的person，而是具有重量级人物色彩的“重要人物”。请大家一定要注意这一点哦！
+:::
+
+> Yuna Kim is one of the great sports **figures** of this century.
+> 金妍儿是本世纪最伟大的体育明星之一。
+
+> Several leading **figures** resigned from the party.
+> 几个领袖级人物从党派中辞职了。
+
+## (3) 塑造出的模样 → 身材，模样
+
+<!-- 插图：展示身材的女性 -->
+
+**figure**的原意是“制成的东西”。它的第三个义项“身材，模样”依旧保留了**figure**原意的语气色彩，因为“身材”是人所塑造出的身体模样。让我们通过例句来理解吧。
+
+> Silvia really has a terrific **figure**.
+> 西尔维亚的身材真是棒极了。
+
+> The vase is decorated with **figures** of birds and fish.
+> 这个花瓶上装饰着鸟和鱼。
+
+## (4) 在脑海中勾画出的画面（模样）→ 想
+
+<!-- 插图：画家在画板前构思画面 -->
+
+::: {.etymo}
+我们有时会说“在脑海中构图（想象……模样）”吧？这就与**figure**的第四个义项“想”联系在一起了。在这里有一个关于**figure**的重要词组“**figure out**（理解、弄明白）”，该词组在考试中经常出现，大家要引起重视哦！截至目前为止，我们不仅了解了**figure**的名词词义，还了解了它的动词词义。现在不论**figure**出现在什么句子中，大家都能马上理解了吧？
+:::
+
+> I can't **figure out** how to do it.
+> 我想不出如何去做这件事。
+
+> The debate over tax rates **figured** prominently in the last election.
+> 在上届选举中，最重要的就是关于税率的争论。
+
+<!-- p.521 -->
+
+- **figure** [ˈfɪɡə] *n.* ①数值，数字；②（重要）人物，人；③身材，模样 *vt.* 想
+  - unemployment figures 失业人数
+  - sales figures 销售数字
+  - figure out 理解=understand
+
+> **Voca Map：figure**
+> 本义：制成的
+> - 在脑海中想象物体的大小 → 数值、数字
+> - 具有某种形态 → （重要）人物、人
+> - 塑造出的模样 → 身材、模样
+> - 在脑海中勾画出的画面（模样） → 想
+
+## 单词回顾
+
+1. account的原意：数，计算
+   ①计算钱的存取状况的 → ______
+   ②对某事的计算结果 → ______
+   ③头脑中进行的计算 → ______
+   ④头脑中算计好了的 → ______
+
+2. address的原意：（一直）朝向
+   ①信要寄去的地方 → ______
+   ②将自己的想法讲给听众 → ______
+   ③让自己朝向工作 → ______
+
+3. accommodate的原意：完全适应……
+   ①按照建筑的大小调整人员数量 → ______
+   ②满足对方的意见和要求 → ______
+   ③使自己适应新环境 → ______
+
+4. figure原意：制成的
+   ①在脑海中想象物体的大小 → ______
+   ②具有某种形态 → ______
+   ③塑造出的模样 → ______
+   ④在脑海中勾画出的画面（模样） → ______
+
+答案 1. ①账户 ②说明 ③理由，重要性 ④考虑 2. ①地址 ②演说，演讲 ③正式着手（做事情） 3. ①容纳（人），提供（住宿） ②迎合，迁就 ③（调整以）适应 4. ①数值，数字 ②人物，人 ③身材，模样 ④想
+
+<!-- p.522 -->
+
+## 确认并攻克下列单词
+
+### 请写出下面单词的词义。
+
+1. account ① 账户 ② ______ ③ ______ ④ ______
+2. address ① 地址 ② ______ ③ ______
+3. accommodate ① ______ ② 迎合 ③ ______
+4. figure ① 数值、数字 ② ______ ③ 身材，模样 ④ ______
+
+### 请写出下列阴影标识部分的单词。
+
+1. 那间教室能**容纳** 120 人。
+2. 老师给我们**说明**了那个题的解答过程。
+3. 新任议长**演说**了自己的目标。
+4. 我开始正式**着手处理**那个问题了。
+5. 他以自己是男人为**理由**没哭。
+6. 这个**数值**显示了失业率的增加。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. He gave an **account** of his experience.
+   A. calculation    B. explanation    C. prescription
+2. We need to take the fact into ______.
+   A. account    B. thought    C. counting
+3. Can you **figure out** how to do it?
+   A. dissolve    B. understand    C. apprise
+4. This article ______ the problems of famine of the country.
+   A. addicts    B. addresses    C. redresses
+
+---
+
+## 本日词汇速查（9 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [account]{.headword} | əˈkaʊnt | n | ①计算，账户；②说明，记事；③理由；重要性；④考虑 |
+| [accountable]{.headword} | əˈkaʊntəbl | adj | 有责任的 =responsible |
+| [accounting]{.headword} | əˈkaʊntɪŋ | n | 会计学 |
+| [accountant]{.headword} | əˈkaʊntənt | n | 会计师 |
+| [address]{.headword} | əˈdres | n | ①地址 ②演说 |
+| [accommodate]{.headword} | əˈkɒmədeɪt | vt | ①容纳，提供住宿 ②迎合，迁就 ③（调整以）适应 = adapt, adjust |
+| [accommodation]{.headword} | əkɒməˈdeɪʃn | n | ①住处 ②和解 = agreement |
+| [accommodating]{.headword} | əˈkɒmədeɪtɪŋ | adj | 乐于助人的，随和的 |
+| [figure]{.headword} | ˈfɪɡə | n | ①数值，数字；②（重要）人物，人；③身材，模样 *vt.* 想 |
+

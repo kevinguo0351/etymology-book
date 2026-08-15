@@ -1,0 +1,408 @@
+# Day 16 · 移动、搬运是fer和port {.unnumbered}
+
+::: {.root-banner}
+Day 16 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p148–p156
+
+<!-- p.133 -->
+
+右图中的男子是不是在搬书？词根fer和port都是“搬运carry”或“运送bear”的意思，在语义上并没有大的差别。这两个词根通常无拼写形式上的变化，所以在单词中可以很容易地找出。接下来我们一起来了解下含有词根fer和port的单词吧！
+
+<!-- 插图：男子搬着厚厚的一摞书，摇摇晃晃地走 -->
+
+**Voca Map：fer是carry**
+
+- of-(ob-)给~ + fer搬运（给……（想法）搬运）→ offer 提供，给予
+- dif-(dis-)各自分开 + fer移动（分离并运送）→ differ 不同，相异
+- pre-首先 + fer搬运（首先（选择）移动）→ prefer 更喜欢
+- suf-(sub-)下面 + fer承受（在下面承受）→ suffer 忍受，遭受
+- con-一起 + fer移动（一起移动）→ confer 授予
+
+**Voca Map：port是carry, bear**
+
+- im-向里 + port运送（向（国家）里面运送）→ import 进口，输入
+- sup-(sub-)在下面 + port承受（在下面支撑）→ support 支撑，支持
+- trans-从这边往那边 + port移动（从这边移动到那边）→ transport 运送，运输
+- port移动 + -able可以~（可移动的）→ portable 手提的，轻便的
+- de-远远 + port运送（送得远远的）→ deport 把……驱逐出境
+
+<!-- p.134 -->
+
+## 1. 运送 fer 想法给某人 of-, offer 提议，提供
+
+<!-- 插图：破格录用插画，上面写有“这可是破格录用哦！” -->
+
+::: {.etymo}
+如果某公司给各位现在薪水2倍的年薪，外加升职promotion的特别工作邀请special offer，大家会怎么办？马上就transfer跳槽了吧？这种把自己的想法转移给别人的词正是 **offer**。offer不仅可用作动词，也经常用作名词。如，在“offer him a good job给他提供一份好工作”这句话中，offer是动词，而在“give offer of help提供帮助”中，offer是名词。无论是日常生活还是考试中，offer都是一个出现频繁frequently的词，请大家一定要记下来！
+:::
+
+- **offer** [ˈɔfə] *vt.* 提议，提供；*n.* 提议，提供
+  - job offer 工作机会，工作邀请
+  - make an offer 出价，发价，提供
+  - peace offering 和解的礼物，谢罪之礼
+
+::: {.mnemonic}
+**温馨小贴士**
+
+offer表“提供，提议”之义时，既可以写作offer sb. sth.，也可写作offer sth. to sb.，两者语义相同。例如：offer him a job提供给他一份工作
+offer a job to him提供一份工作给他
+:::
+
+> Can I **offer** you something to drink?
+> 我给你拿点儿喝的东西？
+
+> I won't accept his **offer**.
+> 我不接受他的提议。
+
+> I'm **offering** you a choice.
+> 我给你提供了一个选择的机会。
+
+> I **offered** my seat to an elderly person.
+> 我把自己的座位让给了一个老人。
+
+## 2. 先 pre- 选择，然后移动，prefer（两个中）更喜欢
+
+<!-- 插图：从一排苹果中挑选拿走一个 -->
+
+::: {.etymo}
+世界上有很多职业occupation，如教师teacher、运动员athlete、企业家entrepreneur等。这些职业的共同点是什么？这些职业都是人们preference偏爱的职业。preference的动词是prefer，如果说在大家的面 前摆着咖啡和绿茶，那你们会先选择哪一种呢？想来大家都会按着自己的口味taste做出选择selection。而先选择拿走的就是自己prefer的。
+:::
+
+prefer以惯用句型“prefer A to B”表示“与B相比，更喜欢A”。虽然是表示比较，但要注意惯用句型中使用to而不是than!
+
+<!-- p.135 -->
+
+- **prefer** [prɪ'fɜː] *vt.* 更喜欢，偏好
+  - prefer coffee to green tea 与绿茶相比，更喜欢喝咖啡
+- **preference** ['prefərəns] *n.* 偏爱，偏好，喜好
+- **preferable** ['prefərəbl] *adj.* 更好的，更可取的，更合适的
+- **preferably** ['prefərəbli] *adv.* 宁可，更好地，更可取地
+
+::: {.mnemonic}
+**温馨小贴士**
+
+注意：惯用句型“prefer A to B（与B相比更喜欢A）”中，表示“比……”之义的是to而不是than!
+:::
+
+> I **prefer** milk coffee to black.
+> 与纯咖啡相比，我更喜欢喝牛奶咖啡。
+
+> Delay is **preferable** to error.
+> 迟做总比做错好。（亡羊补牢，为时未晚。）
+
+> Would you **prefer** an aisle or a window seat?
+> 你要靠通道的座位还是靠窗的座位？
+> （aisle [aɪl] 狭长的通路，过道，通道）
+
+## 3. 分离 dif 并搬运 fer，differ 不同
+
+<!-- 插图：电影胶卷中的两名角色 -->
+
+::: {.etymo}
+前面我们已经学过动词prefer了。不过就算是看电影，人们喜欢看的电影种类也有所不同。有的人喜欢类似于“星球大战”那样的科幻片science fiction movie（sci-fi movie），有的人喜欢惊悚电影thriller。由此，人们喜欢的东西differ也是必然的。
+:::
+
+differ是不及物动词，要与介词结合在一起使用。但值得注意的是：在表达“与……不同”时所使用的介词不是with，而是from。也就是说“differ from”才是“与……不同”的意思。differ的形容词different不同的，大家早就知道这个词了吧？这里我们来学一句话：I'm different from you. 我和你不同。
+
+- **differ** ['dɪfə] *vi.* 不同
+- **difference** ['dɪfərəns] *n.* 差异，差别
+- **different** ['dɪfərənt] *n.* 不同的，各式各样的 ↔ same 相同的
+- **differentiate** [,dɪfə'renʃieɪt] *vi. vt.* 区别，区分，辨别
+- **differential** [,dɪfə'renʃəl] *adj.* 差别的，特意的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+注意：表达“与……不同”之义时，differ后面的介词不是with，而是from，这点很重要哦！
+:::
+
+> Korean culture **differs from** Japanese culture in many respects.
+> 韩国文化与日本文化在很多方面都不一样。
+
+> It's easy to **differentiate** the male birds **from** the female birds.
+> 要区分雄性鸟和雌性鸟很容易。
+
+<!-- p.136 -->
+
+## 4. 在下面 suf- 忍受 fer，suffer 1.经历、经受（不好的事情） 2.承受-苦痛、受难
+
+::: {.etymo}
+suffer的词素构成中，词根fer除了“运送”外，还有“承受”的意思。suffer的词源义是“在下面承受”的意思。看右图，大家可以轻松地理解suffer的意思。在与奥林匹斯Olympus神对抗、斗争中，阿特拉斯Atlas失败了，宙斯以扰乱天庭的罪名罚他用双肩支撑苍天。为了支撑重重压在自己肩上的苍天的重量，他在下面得受多大的suffering苦痛呢？动词suffer既可用作及物动词也可用作不及物动词。如，在suffer difficulty经历困难中，suffer是及物动词，而在suffer from headache受头痛之苦中，它是不及物动词。请大家一定要熟记哦！
+:::
+
+<!-- 插图：阿特拉斯用双肩支撑苍天 -->
+
+- **suffer** [ˈsʌfə] *vt.* 遭受，容忍，经历 = experience；*vi.* 遭受，受痛苦
+  - suffer from 受（某种病痛）折磨
+- **suffering** [ˈsʌfərɪŋ] *n.* 受苦，遭难，苦楚
+
+> She **suffered** head injuries in the car accident.
+> 她在车祸中头部撞伤。
+
+> He is **suffering from** jet lag.
+> 他正忍受着时差带来的痛苦。
+> （jet lag 时差）
+
+> Residents in the region were **suffering from** a water shortage.
+> 这个区的居民忍受着缺水的痛苦。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+suffer既可用作不及物动词，也可用作及物动词，请大家一定要注意这一点哦！
+suffer mental illness 患了精神病（及物动词）
+suffer from chronic constipation 因慢性便秘而受苦（不及物动词）
+:::
+
+## 5. 一起 con- 运送 fer，confer 1.授予 2.协商
+
+::: {.etymo}
+克服重重困难suffering，出战奥林匹克运动会并获得冠军的运动员会被授予荣誉的glorious金牌。这里让我们联想到的词语就是本次我们要学习的confer。confer作及物动词时，以惯用句型“confer A on B”表示“把A授予B”；作不及物动词时，以惯用句型“confer with +人”表示“与……协商”。其名词conference会议，讨论也较常使用。
+:::
+
+<!-- 插图：授奖仪式与商务协商会议 -->
+
+<!-- p.137 -->
+
+- **confer** [kənˈfɜː] *vt.* 授予，颁与=bestow；*vi.* 商议，磋商=consult with
+  - confer A on B 把A授予B
+  - confer with 和……商谈
+- **conference** [ˈkɒnfərəns] *n.* 会议，讨论
+  - international conference 国际会议
+  - attend the conference 参加会议
+
+**Voca Map**
+- confer
+  - 1.(A on B)把A授予B ‖ bestow
+  - 2.(with) 和……商谈 ↓
+    - conference 会议，讨论
+
+> The university **conferred** an honorary degree **on** the former president.
+> 学校授予前总统名誉学位。（an honorary degree 名誉学位）
+
+> I should **confer with** my lawyer about the contract.
+> 我应该和我的律师商讨一下合同。
+
+## 6. 向（国家）里面 im-移动 port，import 进口
+
+<!-- 插图：女性人物正在交谈 -->
+
+::: {.etymo}
+说到词根 port，我们最先想到的单词有 import 和 export。import 直接延续了其词源义“（物品从国外）进入”，即“进口”的意思，而 export 也延续了其词源义“（把国内的物品）运出去”。即，“出口”的意思。我国自然资源 natural resources 不足，石油 petroleum 全部都要靠进口 import。但我们通过出口 export 半导体 semiconductor 或手机 cellular phone 等产品赚了很多外汇 foreign currency。
+:::
+
+- **import** [ɪmˈpɔːt] *n.* 进口商品，进口；*vt.* 进口，输入
+  - a ban on beef imports 有关牛肉进口的禁令
+- **export** [ɪkˈspɔːt] *n.* 出口，输出，输出（出口）物；*vt.* 出口，输出
+  - the production of goods for export 出口产品的生产
+
+> The semiconductor is one of Korea's chief **exports**.
+> 半导体是韩国的主要出口产品之一。
+
+> Korea **exports** more cars than it **imports**.
+> 韩国出口的汽车要比进口的汽车多。
+
+## 7. 从这边往那边 trans 运送 port，transport 运输（物品，人）
+
+::: {.etymo}
+城里人可以吃到产自于农村的新鲜农产品 produce 或在海里捕捉的海产品 seafood，这全都靠完善的运输系统 transportation system。transport 由其词源义“（把物品、人）从这边运送到那边”引申出“运输”的意思。
+:::
+
+<!-- p.138 -->
+
+air transport航空运输，rail transport铁路运输以及means of transport运输工具等都是非常常见的词语。不过需要注意的是，transport既可用作动词又可用作名词，而美国人更倾向于tendency使用transportation作名词。
+
+<!-- 插图：卡车运载人群，对话框：“哎，哎，做运输真是辛苦啊！” -->
+
+- **transport** [træn'spɔːt] *n.* 运输；*vt.* 运输，运送 = convey
+  - public transport 公共交通，公共交通工具
+  - transport system 运输系统
+- **transportation** [trænspɔː'teɪʃn] *n.* 运输，运送
+
+> The mayor encouraged the citizens to switch from private cars to **public transport**.
+> 市长鼓励市民从私家车转为公共交通工具出行。
+> （mayor [meə] 市长；switch A to B 从A转换到B）
+
+> We have to enhance the efficiency of the **transportation system**.
+> 我们必须提高运输系统的效率。
+> （enhance [ɪn'hɑːns] *v.* 加强、提高）
+
+## 8. 在下面 sup- 支撑 port，support 支撑 [支持]
+
+<!-- 插图：众人合力抬着巨木 -->
+
+::: {.etymo}
+事实上，经济发展economic development与高速公路的建设是紧密相关也不为过。很多商品被transport，这是经济有活力的好兆头auspicious sign。另外，贸易trade的活跃也会给经济提供support。从词源上来看，support是“从下面支撑”，即“支撑，支持”的意思。
+:::
+
+support既可用作名词也可用作动词。类似于表达“柱子pillar支撑着建筑物”之义时，就可使用support。不过，它更多用于表达“支持”某人的意见opinion或某位候补candidate。
+
+- **support** [sə'pɔːt] *n.* 支持，支撑，维持；*vt.* 支撑，支持
+  - win the support 赢得支持
+  - financial support 财政支持
+  - child support（子女）抚养费
+
+> Your **support** can make miracles happen.
+> 你的支持能够创造奇迹。
+
+<!-- p.139 -->
+
+> The government will provide cheap houses and **financial support** to low-income citizens.
+> 政府会给低收入阶层提供廉价的房子和财政上的支持。（low-income citizens 低收入阶层）
+
+> The bill was **supported** by a large majority in Congress.
+> 这个法案得到了大多数国会议员的支持。（majority [məˈdʒɒrɪti] 多数人）
+
+## 9. 可以移动port的话，portable携带用的，手提的
+
+::: {.etymo}
+手机是可以随身携带的电话，这里我们要学的单词是portable。portable沿用了其词源义“可随身携带的”，即“手提的，轻便的”意思。可以称得上是portable的东西有手机、MP3、电脑、上网本等。随着科学技术的发达，可portable的东西也会越来越多。
+:::
+
+<!-- 插图：便携设备照片（MP3、手机、便携电脑） -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+1. portable 手提的，轻便的
+2. potable 可饮用的
+potable 可以喝的=drinkable
+要注意：portable（手提的，携带用的）与potable（可以喝的）的拼写十分相似，容易搞混，大家记忆时要额外注意哦！
+:::
+
+- **portable** [ˈpɔːtəbl] *adj.* 携带用的，手提的，轻便的
+  - portable radio 便携式收音机
+  - portable TV 便携式电视
+  - portable device 便携设备
+
+> How much should I expect to pay for a good **portable** radio?
+> 要买一台好的便携式收音机，大概需要多少钱？
+
+> Rechargeable batteries are mainly used in notebook computers, cell phones, MP3 music players, and other **portable** devices.
+> 可充电电池主要用于笔记本电脑、移动电话、MP3，以及其他一些便携设备。
+
+## 10. 远远de-移开port，deport放逐
+
+::: {.etymo}
+最近在报纸上经常会看到有人偷卖手机制造技术manufacturing techniques给商业间谍industrial spy的新闻article。为了利益而偷走别人花了数年时间研究出来的技术，这种人真应该deport才行。deport由其词源义“远远移开”引申出“放逐”的意思。前缀de-除了down的意思外，还有away的意思。而deport中的de-正是away的意思。
+:::
+
+<!-- 插图：商业间谍被放逐的漫画 -->
+
+<!-- p.140 -->
+
+- **deport** [dɪˈpɔːt] *vt.* 把……驱逐出境=expel, banish
+  - deport the industrial spy 驱逐工业间谍
+- **deportation** [ˌdiːpɔːˈteɪʃn] *n.* 驱逐出境，放逐
+  - the deportation of illegal immigrants 对非法移民的驱逐
+
+> He was **deported** from America when his visa expired.
+> 签证过期了，他被美国驱逐出境。
+
+> The foreign journalists who reported the protests were **deported**.
+> 报道抗议事件的外国记者被驱逐了。
+> （protest [ˈprəʊtest] 抗议，反对）
+
+## 单词回顾
+
+::: {.etymo}
+1. 运送想法给某人
+   → 提议，提供 ______
+2. 先选择然后移走
+   →（两个中）更喜欢 ______
+3. 分离并搬运
+   → 不同 ______
+4. 在下面承受
+   → ①经历，经受（不好的事情）
+      ②承受苦痛，受难 ______
+5. 一起移动
+   → ①授予 ②协商 ______
+6. 向（国家）里移动
+   → 进口 ______
+7. 从这边往那边运送
+   → 运输（物品、人） ______
+8. 在下面支撑
+   → 支撑，支持 ______
+9. 可以移动的
+   → 携带的，手提的，轻便的 ______
+10. 远远移开
+    → 放逐 ______
+:::
+
+答案 1. offer 2. prefer 3. differ 4. suffer 5. confer 6. import 7. transport 8. support 9. portable 10. deport
+
+<!-- p.141 -->
+
+## 确认并攻克下列单词
+
+**一、请写出下列单词的词义。**
+
+1. prefer ______
+2. suffer ______
+3. confer ______
+4. transport ______
+5. portable ______
+6. deport ______
+
+**二、请写出下列阴影标识部分的单词。**
+
+1. 比起摇滚乐，我**更喜欢**______古典音乐。
+2. 每个人的想法都**不同**______。
+3. 政府**授予**______了勋章给那个勇敢的市民。
+4. 地铁每天**运送**______很多市民。
+5. 很多国民**支持**______我们的政策。
+6. MP3是典型的**便携式**______播放器。
+7. 法院决定**驱逐**______那个罪犯。
+
+**三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。**
+
+1. The two leaders will **confer** on North Korea.
+   A. discuss
+   B. debate
+   C. defer
+
+2. Children ______ their imaginary world to reality.
+   A. proffer
+   B. infer
+   C. prefer
+
+3. The company **transports** meat across the country.
+   A. conveys
+   B. convoys
+   C. transfers
+
+4. The government decided to ______ the illegal foreign immigrants.
+   A. consider
+   B. deport
+   C. export
+
+---
+
+## 本日词汇速查（21 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [offer]{.headword} | ˈɔfə | vt | 提议，提供；*n.* 提议，提供 |
+| [prefer]{.headword} | prɪ'fɜː | vt | 更喜欢，偏好 |
+| [preference]{.headword} | 'prefərəns | n | 偏爱，偏好，喜好 |
+| [preferable]{.headword} | 'prefərəbl | adj | 更好的，更可取的，更合适的 |
+| [preferably]{.headword} | 'prefərəbli | adv | 宁可，更好地，更可取地 |
+| [differ]{.headword} | 'dɪfə | vi | 不同 |
+| [difference]{.headword} | 'dɪfərəns | n | 差异，差别 |
+| [different]{.headword} | 'dɪfərənt | n | 不同的，各式各样的 ↔ same 相同的 |
+| [differentiate]{.headword} | ,dɪfə'renʃieɪt | vi. vt | 区别，区分，辨别 |
+| [differential]{.headword} | ,dɪfə'renʃəl | adj | 差别的，特意的 |
+| [suffer]{.headword} | ˈsʌfə | vt | 遭受，容忍，经历 = experience；*vi.* 遭受，受痛苦 |
+| [suffering]{.headword} | ˈsʌfərɪŋ | n | 受苦，遭难，苦楚 |
+| [confer]{.headword} | kənˈfɜː | vt | 授予，颁与=bestow；*vi.* 商议，磋商=consult with |
+| [conference]{.headword} | ˈkɒnfərəns | n | 会议，讨论 |
+| [import]{.headword} | ɪmˈpɔːt | n | 进口商品，进口；*vt.* 进口，输入 |
+| [export]{.headword} | ɪkˈspɔːt | n | 出口，输出，输出（出口）物；*vt.* 出口，输出 |
+| [transport]{.headword} | træn'spɔːt | n | 运输；*vt.* 运输，运送 = convey |
+| [transportation]{.headword} | trænspɔː'teɪʃn | n | 运输，运送 |
+| [support]{.headword} | sə'pɔːt | n | 支持，支撑，维持；*vt.* 支撑，支持 |
+| [portable]{.headword} | ˈpɔːtəbl | adj | 携带用的，手提的，轻便的 |
+| [deportation]{.headword} | ˌdiːpɔːˈteɪʃn | n | 驱逐出境，放逐 |
+

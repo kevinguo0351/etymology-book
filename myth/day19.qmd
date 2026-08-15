@@ -1,0 +1,376 @@
+# Day 19 · 呼吸是spir，心是anim {.unnumbered}
+
+::: {.root-banner}
+Day 19 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p173–p180
+
+<!-- p.158 -->
+
+<!-- 插图：一个人张开手臂在做深呼吸 -->
+
+请看右图中的人是不是在做深呼吸运动呢？英语中，词根spir（e）具有breathe，即“呼吸”的意思。能呼吸着的也就是“活着的”。世上只有活着的人才具有思想mind和精神soul。词根anim是由“呼吸”引申为“思想、精神”之义。animation卡通片一词正源于词根anim。
+
+**spir(e)是breathe**
+
+- a-(ad-)向……边 + spire呼吸（朝着……方向呼吸）→ **aspire** 渴望，追求
+- con-一起 + spire呼吸（（对不好的事情）一起配合）→ **conspire** 搞阴谋，阴谋策划
+- in-向里面 + spire呼吸（往……里面放入呼吸（生命））→ **inspire** 鼓舞，激励
+- ex-向外 + (s)pire呼吸（呼（生命）出到外面）→ **expire** 断气，期满
+- re-反复 + spire呼吸（反复呼吸）→ **respire** 呼吸，呼气和吸气
+
+**anim是alive, mind**
+
+- anim生命 + -ate形容词后缀（活着的状态）→ **animate** 有生气的，生气勃勃的
+- anim(o)感情 + -sity名词后缀（情绪（心情）复杂的状态）→ **animosity** 憎恨，敌意
+- un(i)-一个 + anim思想 + -ous具有（万众一心的）→ **unanimous** 全体一致的，一致同意的
+- magn-大 + anim思想 + -ous具有（有宽阔的心）→ **magnanimous** 宽宏大量的，有雅量的
+- equ(a)-一样的 + anim思想 + -ity状态（找到均衡的心理状态）→ **equanimity** 平和，镇静
+
+<!-- p.159 -->
+
+## 1. 朝着 a-……呼吸 spire，aspire 渴望
+
+::: {.etymo}
+人们不是为了吃饭而活着，而是为了梦想而活着。心怀梦想也就是渴望aspiration能成为什么。aspire的词源义为“a-向……边+spire呼吸”，引申为“渴望”的意思。这也正是因为从人们呼吸（生活）的取向就可以看到其内心“渴望”的缘故。
+:::
+
+需要注意的是，aspire是不及物动词，要以惯用句型“aspire to do sth.”的形式来使用！
+
+- **aspire** [ə'spaɪə] *vi.* 渴望，立志，追求 = crave, long for
+  - aspire to do sth. 渴望……，希望……
+  - aspire to go to Rome 期望去罗马
+  - aspiring young singers 有抱负的年轻歌手们
+- **aspiration** [ˌæspə'reɪʃn] *n.* 强烈的愿望，抱负，志向
+- **aspiring** [ə'spaɪərɪŋ] *adj.* 有抱负的，有志气的
+
+> My sister **aspires to be** an actress.
+> 我姐姐渴望成为一名演员。
+
+> The candidate **aspires to be** a President.
+> 候选者渴望成为总统。
+
+> She has a strong **aspiration** for success.
+> 她对成功有强烈的期望。
+
+## 2. 向里 in-呼吸 spire，inspire 鼓舞；使产生灵感
+
+::: {.etymo}
+称赞praise是能够鼓舞inspire人的最大魔力spell。inspire的词源分析为“in-向里+spire呼吸”，“把呼吸（生命）吹进去”也就是“鼓舞、使产生灵感”的意思。inspire多以惯用句型“inspire A to do sth. 鼓舞A做某事”来使用。
+:::
+
+另外，表达某作家或电影导演director因某事获得灵感的时候，也要用inspire。请大家一定要记下来哦！
+
+<!-- 插图：一位正在弹琴谱写乐谱的人物，周围飞舞着乐谱与音符 -->
+
+- **inspire** [ɪn'spaɪə] *vt.* 1. 鼓舞，激励 = encourage 2. 赋予灵感
+  - inspire confidence 鼓舞信心，振奋士气
+- **inspiration** [ˌɪnspə'reɪʃn] *n.* 鼓舞人心的人或事，灵感
+  - provide inspiration 提供灵感
+- **inspiring** [ɪn'spaɪərɪŋ] *adj.* 鼓舞人心的，激励的
+
+<!-- p.160 -->
+
+> She has **inspired** many young people through music.
+> 她通过音乐给很多年轻人以灵感。
+
+> I got a sudden flash of **inspiration**.
+> 突然灵光一闪，我有了灵感。
+
+> The sound of martial music is always **inspiring**.
+> 雄壮威武的乐声总是很激励人。
+> （martial [ˈmɑːʃəl] 战争的，好战的）
+
+## 3. 一起 con- 配合 spire 不好的事情，conspire 共谋，计划阴谋
+
+<!-- 插图：几人密谋，对话框：“借这个机会把社长赶走！” -->
+
+::: {.etymo}
+请看左图。他们在计划什么阴谋？表达一起谋划坏事的单词是conspire。从词源上来分析的话，conspire由“con-一起+spire呼吸”构成，意为“一起配合着做（不好的事情）”，即“共谋，计划阴谋”的意思。conspire的名词是conspiracy阴谋。conspiracy theory即为阴谋理论。
+:::
+
+- **conspire** [kənˈspaɪə] *vi.* 搞阴谋，协力促成 =collude
+  - conspire to steal a car 密谋偷车
+- **conspiracy** [kənˈspɪrəsi] *n.* 阴谋，反叛，共谋
+  - a conspiracy against the boss 密谋反对老板
+
+> The two men **conspired** to set fire to the building.
+> 这两个人密谋要放火烧了那个建筑。
+
+> He was charged with **conspiracy** to the crime.
+> 他被指控共谋犯罪。（be charged with 被控告，承担）
+
+## 4. 如果呼吸 (s)pire 到外面 ex- 的话，expire 1. 死亡 2. (期限) 结束，到期
+
+<!-- 插图：夕阳下的人影 -->
+
+::: {.etymo}
+expire的词源分析为“ex-外+ (s) pire呼吸”，是“呼吸（生命）到外面”的意思，由此引申为“1. 死亡 2. (期限) 结束，到期”之义。不过，相比第一个词义，expire的第二个词义“期满，结束”使用频率更高。而其名词expiration期满，终了则更是考试中频频出现的一个词语！
+:::
+
+- **expire** [ɪkˈspaɪə] *vi.* 1. 死亡 2. 到期，期满
+  - players whose contracts expire this winter 这个冬天合同就到期的运动员
+- **expiration** [ˌekspɪˈreɪʃn] *n.* 满期，截止 =expiry
+  - the expiration of the contract 合同到期
+
+<!-- p.161 -->
+
+> My driver's license **expires** next month.
+> 我的驾照下个月到期。
+
+> the **expiration** of temporary tax reduction for new car purchases
+> 针对购买新车的临时减税活动已结束
+
+## 5. 反复 re- 呼吸 spire，respire 呼吸
+
+::: {.etymo}
+respire由其词源义“re-反复+spire呼吸”，可知为“呼吸”的意思。如果说breathe是表达“呼气吸气”比较直白简单的单词，那么respire就是表达“呼吸”较为郑重的一个单词。大家猜猜！救出溺水drowned的人的时候，如果溺水者已经昏过去了的话，首先要做出什么？当然是要做人工呼吸了。“人工呼吸”用英语表达就是“artificial respiration”。
+:::
+
+<!-- 插图：正在对溺水者进行心肺复苏/人工呼吸 -->
+
+- **respire** [rɪ'spaɪə] *vi.* 呼吸
+- **respiration** [ˌrespə'reɪʃn] *n.* 呼吸
+  - respiration equipment 呼吸设备
+- **respiratory** ['respərətɔːrɪ] *adj.* 呼吸的
+  - respiratory organs 呼吸器官 / respiratory disease 呼吸道疾病
+
+> Plants photosynthesize during the day more rapidly than they **respire** at night.
+> 植物白天光合作用比夜晚的呼吸作用速度快得多。
+> （photosynthesize [ˌfəʊtəʊ'sɪnθɪsaɪz] 进行光合作用）
+
+> The patient has symptoms of a **respiratory** infection.
+> 病人有呼吸器官感染的症状。
+> （infection [ɪn'fekʃən] 感染）
+
+## 6. 活着 anim 的状态 -ate，animate 活着；增添生命力
+
+::: {.etymo}
+动画片用英语说是animation。animation是使漫画图片像现实世界中的人或物一样动起来的影像。animation的形容词是animate，该词沿用其词源义“活着的”，即“活着，增添生命力”的意思。在animate前面加上前缀in-否定（not）所构成单词inanimate无生物的、死的（dead）是其反义词。请大家将其一起记下来。需要注意的是，animate既可用作形容词，又可用作动词。
+:::
+
+<!-- 插图：小男孩和小女孩在欢快地唱歌跳舞 -->
+
+**Voca Map**
+- animate (*adj.* 活的；有生命的；*v.* 使有生气，使动作栩栩如生的) $\leftrightarrow$ inanimate (*adj.* 无生命的，无生气的)
+  - ↓
+- animation (*n.* 活泼，生气，动画片制作)
+  - ↓
+- animated (*adj.* 活生生的)
+
+<!-- p.162 -->
+
+- **animate** ['ænɪmeɪt] *adj.* 活的，有生命的，有生气的 =alive, living / *vt.* 使有生气，使动作栩栩如生的 =invigorate
+  - animate beings 生物
+- **animation** [ænɪ'meɪʃn] *n.* 活泼，生气，动画片制作
+- **animated** ['ænɪmeɪtɪd] *adj.* 活生生的，有生气的 =lively
+
+> As I talked about her, his face became **animated**.
+> 当我和他谈起她时，他的脸上绽放出光彩。
+
+> At this age, children are still unable to distinguish between **animate** and inanimate objects.
+> 这个年龄，孩子还不能区分什么是生物，什么是非生物。
+> （inanimate [ɪn'ænɪmət] 无生命的、无生气的）
+
+## 7. 思想anim成为一个un，unanimous全体一致
+
+<!-- 插图：多只手叠放在一起 -->
+
+::: {.etymo}
+很久没看电影了，我决定和朋友们一起去看电影。正想着看什么片呢，朋友们异口同声地说要看最新上映的动画片newly released animation。看看，大家的想法是一致的吧？英语里叫做unanimous。记这个单词时要注意它的发音pronounciation！因为该单词的前缀uni-一个（one）中，“i”被省略成了un-，所以提醒大家要额外注意哦。也正因如此，un-不是“否定”的意思，而是“一个”的意思。另外，请大家将其名词unanimity全体一致也一起记下来吧！
+:::
+
+- **unanimous** [juː'nænɪməs] *adj.* 全体一致的，一致同意的，无异议的
+  - reach a unanimous agreement 达成一致意见
+- **unanimity** [juːnə'nɪmɪtɪ] *n.* 全体一致，一致同意
+- **unanimously** [juː'nænɪməsli] *adv.* 全体一致地，无异议地
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词unanimous（全体一致）的前缀un-不是“反对”，而是uni-（one）中省略“i”，一定要注意这点哦！
+:::
+
+> It was decided by a **unanimous** vote that the factory should close.
+> 投票一致决定工厂应该关闭。
+
+> The representatives reached **unanimity** on the core national issues.
+> 代表们在国家核心问题上达成了一致。
+
+## 8. 很多情绪anim的状态，animosity怨恨，敌意
+
+<!-- 插图：两人争吵 -->
+
+::: {.etymo}
+一旦大家对某个人说“我对你有很多情绪（不满）！”的话，这里的“情绪（不满）”就一定是“（不好的）感情”吧。这让我们想到的单词就是animosity。
+:::
+
+<!-- p.163 -->
+
+animosity由其词源义 “情绪（想法）很多的状态” 引申为 “怨恨，敌意” 的意思。
+
+- **animosity** [ˌænɪˈmɒsɪti] *n.* 憎恨，仇恨，敌意=enmity, hostility, grudge
+  - conceal a personal animosity 消除个人仇恨
+- **animus** [ˈænɪməs] *n.* 仇恨，意图
+
+> There is strong **animosity** between the two countries.
+> 这两个国家之间有很强的敌意。
+
+> **Animosity** toward North Korea in South Korea is growing.
+> 韩国对朝鲜的敌意在增长。
+
+## 9. 因为拥有宽广 magn 的心 anim，magnanimous 宽大的，有雅量的
+
+::: {.etymo}
+总是怀着宽厚magnanimity之心对待别人的话，就不会有被人怨恨animosity的事情。magnanimous由其词源义 “拥有宽广的心” 引申为 “宽大的，有雅量的” 意思。那么，从今天开始，让我们magnanimity宽厚地对待身边的人吧。
+:::
+
+- **magnanimous** [mæɡˈnænɪməs] *adj.* 宽宏大量的，有雅量的=tolerant
+  - a magnanimous gesture 大方的举止
+  - a magnanimous character 宽宏大量的性格
+- **magnify** [ˈmæɡnɪfaɪ] *vt.* 放大
+- **magnificent** [mæɡˈnɪfɪsənt] *adj.* 高尚的，壮丽的，华丽的
+
+> He is more **magnanimous** than he may appear.
+> 实际上，他比看起来要慷慨多了。
+
+> Korean corporations made **magnanimous** contributions to support damage recovery.
+> 韩国公司慷慨捐资以助重建。
+
+## 10. 抓住均衡 equ(a-) 的心理 anim 状态，equanimity 平静，镇定
+
+::: {.etymo}
+如果突然遇到困难，无论是谁都会慌张embarrassed。越是这种时候，越是不能失去镇定equanimity。equanimity由其词源义 “抓住均衡的心理状态” 引申出 “平静，镇定” 的意思。所谓 “镇定” 就是不论悲伤还是难过，都不向任何一边倾斜的 “平衡的心理状
+:::
+
+<!-- 插图：走钢丝平衡的人，说话气泡：“啊！心情好极了！” -->
+
+<!-- p.164 -->
+
+态”。请大家将稍有些难度的单词equilibrium均衡，（心的）平静也一起记住吧。
+
+- **equanimity** [ˈekwəˈnɪmɪti] *n.* 平和，镇定 = composure, self-possession
+  - with equanimity 沉着，泰然
+- **equivocal** [ɪˈkwɪvəkəl] *adj.* 模棱两可的，模糊的，意义不明的
+- **equivalent** [ɪˈkwɪvələnt] *adj.* 相等的，等价的，等效的
+
+> She heard the news with surprising **equanimity**.
+> 她听到这个消息的时候平静得让人吃惊。
+
+> He faced death with great **equanimity** and dignity.
+> 他平静而有尊严地面对死亡。
+> （dignity [ˈdɪgnɪtɪ] *n.* 尊严，高尚，自豪）
+
+## 单词回顾
+
+::: {.etymo}
+1. 向着……呼吸
+   → 渴望：______
+2. 向里面呼吸
+   → 鼓舞；使产生灵感：______
+3. 一起配合着做不好的事情
+   → 共谋，计划阴谋：______
+4. 呼出到外面
+   → ① 死亡 ②（期限）结束，到期：______
+5. 反复呼吸
+   → 呼吸：______
+6. 活着的状态
+   → 活着；增添生命力：______
+7. 想法一样
+   → 全体一致：______
+8. 情绪很多的状态
+   → 怨恨，敌意：______
+9. 拥有宽广的心
+   → 宽大的，有雅量的：______
+10. 抓住均衡的心理状态
+    → 镇定，平静：______
+:::
+
+> 答案 1. aspire 2. inspire 3. conspire 4. expire 5. respire 6. animate 7. unanimous 8. animosity 9. magnanimous 10. equanimity
+
+<!-- p.165 -->
+
+## 确认并攻克下列单词
+
+### 请写出下列单词的词义。
+
+1. aspire ______
+2. conspire ______
+3. expire ______
+4. animate ______
+5. unanimous ______
+6. animosity ______
+
+### 请写出下列阴影标识部分的单词。
+
+1. 她**渴望**成为有名的演员。 ______
+2. 教练为失败的选手们**鼓舞**士气。 ______
+3. 三名越狱的囚犯**共同策划**了犯罪。 ______
+4. 我的驾照下个月就**到期**了。 ______
+5. 我们**全体一致**同意了那个案件。 ______
+6. 他对我抱有**怨恨**的情绪。 ______
+7. 我的爷爷真是**宽宏大量**。 ______
+8. 即使在困境中，她也没有失去**镇定**。 ______
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词
+
+1. They **conspired** to abduct the Japanese tourists.
+   A. collided
+   B. colluded
+   C. deluded
+
+2. The contract will be ______ next month.
+   A. aspired
+   B. inspired
+   C. expired
+
+3. His words **animated** my drooping spirit.
+   A. encouraged
+   B. discouraged
+   C. encountered
+
+4. He won ______ support as a candidate in the party.
+   A. unanimous
+   B. magnanimous
+   C. inanimate
+
+---
+
+## 本日词汇速查（32 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [aspire]{.headword} | ə'spaɪə | vi | 渴望，立志，追求 = crave, long for |
+| [aspiration]{.headword} | ˌæspə'reɪʃn | n | 强烈的愿望，抱负，志向 |
+| [aspiring]{.headword} | ə'spaɪərɪŋ | adj | 有抱负的，有志气的 |
+| [inspire]{.headword} | ɪn'spaɪə | vt | 1. 鼓舞，激励 = encourage 2. 赋予灵感 |
+| [inspiration]{.headword} | ˌɪnspə'reɪʃn | n | 鼓舞人心的人或事，灵感 |
+| [inspiring]{.headword} | ɪn'spaɪərɪŋ | adj | 鼓舞人心的，激励的 |
+| [conspire]{.headword} | kənˈspaɪə | vi | 搞阴谋，协力促成 =collude |
+| [conspiracy]{.headword} | kənˈspɪrəsi | n | 阴谋，反叛，共谋 |
+| [expire]{.headword} | ɪkˈspaɪə | vi | 1. 死亡 2. 到期，期满 |
+| [expiration]{.headword} | ˌekspɪˈreɪʃn | n | 满期，截止 =expiry |
+| [respire]{.headword} | rɪ'spaɪə | vi | 呼吸 |
+| [respiration]{.headword} | ˌrespə'reɪʃn | n | 呼吸 |
+| [respiratory]{.headword} | 'respərətɔːrɪ | adj | 呼吸的 |
+| [animate]{.headword} | 'ænɪmeɪt | adj | 活的，有生命的，有生气的 =alive, living / *vt.* 使有生气，使动作栩栩如生的 =invigorate |
+| [animation]{.headword} | ænɪ'meɪʃn | n | 活泼，生气，动画片制作 |
+| [animated]{.headword} | 'ænɪmeɪtɪd | adj | 活生生的，有生气的 =lively |
+| [unanimous]{.headword} | juː'nænɪməs | adj | 全体一致的，一致同意的，无异议的 |
+| [unanimity]{.headword} | juːnə'nɪmɪtɪ | n | 全体一致，一致同意 |
+| [unanimously]{.headword} | juː'nænɪməsli | adv | 全体一致地，无异议地 |
+| [animosity]{.headword} | ˌænɪˈmɒsɪti | n | 憎恨，仇恨，敌意=enmity, hostility, grudge |
+| [animus]{.headword} | ˈænɪməs | n | 仇恨，意图 |
+| [magnanimous]{.headword} | mæɡˈnænɪməs | adj | 宽宏大量的，有雅量的=tolerant |
+| [magnify]{.headword} | ˈmæɡnɪfaɪ | vt | 放大 |
+| [magnificent]{.headword} | mæɡˈnɪfɪsənt | adj | 高尚的，壮丽的，华丽的 |
+| [equanimity]{.headword} | ˈekwəˈnɪmɪti | n | 平和，镇定 = composure, self-possession |
+| [equivocal]{.headword} | ɪˈkwɪvəkəl | adj | 模棱两可的，模糊的，意义不明的 |
+| [equivalent]{.headword} | ɪˈkwɪvələnt | adj | 相等的，等价的，等效的 |
+| [collide]{.headword} |  |  | 相撞、碰撞 |
+| [delude]{.headword} |  |  | 欺骗，哄骗 |
+| [discourage]{.headword} |  |  | 使气馁，使沮丧 |
+| [encounter]{.headword} |  |  | 遭遇，对抗 |
+| [inanimate]{.headword} |  |  | 无生命的，无精打采的 |
+

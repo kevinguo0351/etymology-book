@@ -1,0 +1,382 @@
+# Day 57 · 不管男女，抑或事情，被缠住了就是 engage {.unnumbered}
+
+::: {.root-banner}
+Day 57 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p504–p511
+
+<!-- p.489 -->
+
+今天我们要学习的engage等多义词也很重要。单词engage除了“约定，使订婚”的意思外，还有“雇用”、“吸引”、“交战”的意思！咱们一起来看一下今天要学的多义词。
+
+<!-- 插图：多义词示意图 -->
+
+**engage**
+原意：从事
+- 被某事缠上；男女之间约定结婚 → ① 从事；使订婚
+- 约定支付费用留住某人 → ② 雇用
+- 使……离不开的 → ③ 吸引或引起（注意、兴趣）
+- 跟敌人交锋 → ④ 交战
+
+**regard**
+原意：注视、留意
+- 将……看作 → ① 看作……视为
+- 仔细看 → ② 注视，凝视
+- 关心并仔细地看 → ③ 尊重；注意，注目
+
+**check**
+原意：使……陷入死路
+- 在chess中将对方逼入死路，使其不能动弹 → ① 阻止，遏制
+- 在chess中小心翼翼地出招 → ② 调查，检查
+- 为了确保现金不被盗走或受损失而做的事情 → ③ 支票
+
+**accident**
+原意：掉到……
+- 突然发生在某人身上的事情 → ① 事故
+- （从上面）掉下来 → ② 偶然（的事情）
+
+<!-- p.490 -->
+
+## 1. 从事 engage ①从事；使订婚；②雇用；③吸引或引起（注意、兴趣）；④交战
+
+::: {.etymo}
+单词 engage 的词义非常多，而且词义变化较大，让人看着就头疼。不过，越是这样的词语我们就越应该掌握它的原意。
+:::
+
+分析 engage 的词源是：en-制作（make）+ gage 誓约（pledge）→（誓约）结合。当出现“A engage B”这种表达时，我们在脑海中联想一下 A 与 B 结合在一起的场面就可以了。
+
+**(1) 被某事缠上 → 从事，做男女之间约定结婚 → 使订婚**
+
+<!-- 插图：男人想着“那家伙怎么找到那么漂亮的女孩订婚的？”，看着订婚的情侣 -->
+
+当某人跟某件事情联系在一起时，通常指他在做那件事情。比如，engage in prayer 指的是“祈祷”，engage in business 指的是“从事商业”。惯用句型“A engage in B 与 B 这件事联系在了一起”，就是“正在做那件事”或“正在从事某件事”。
+
+男女之间结合在一起就意味着他们要结婚生活在一起，即“订婚”，engage 的这个义项主要用作被动态“A is engaged to B”，意为“A 被 B 连接在一起”，即“处于订婚的状态”。
+
+> Only 15% of Korean adults **engage in** regular exercise.
+> 韩国成年人中，只有15%的人定期运动。
+
+> He thinks I'm **engaged**.
+> 他以为我订婚了。
+
+> My brother is **engaged to** a beautiful woman.
+> 我弟弟和一个漂亮的女士订婚了。
+
+**(2) 约定支付费用以留住某人 → 雇用**
+
+当我们提起“雇用”这个词的时候，首先想到的单词大概是 employ 吧？不过，在英国主要用 engage，engage 主要指在某件特别的事情 a particular job 中，“跟某人联系在了一起”，即“雇用”。如，engage a plumber 是“雇用管道修理工”的意思。
+
+> My mother **engaged** a tutor to improve my math.
+> 我妈妈雇用了一位家教来提高我的数学成绩。
+
+> We'd able to **engage** local people as volunteers.
+> 我们可以雇用当地人当志愿者。
+
+**(3) 使……离不开的 → 吸引**
+
+<!-- 插图：丘比特天使与男子 -->
+
+义项“引起……注意”源于词组“A engage B”，表示“A 与 B 紧密结合在一起”。比如，如果说她的微笑使我不能自拔，那就是说她的微笑深深
+
+<!-- p.491 -->
+
+地吸引了我，即“对我来说她的微笑是非常有魅力的”。由此，派生出的形容词**engaging**（有魅力的）是一个非常重要的词语，请大家一定要牢牢记住哦！
+
+> The new toy didn't **engage** his interest for long.
+> 这个新玩具没有能吸引他多长时间。
+
+> Her **engaging** personality has helped make her television's favorite talk-show hostess.
+> 她富有魅力的个性使她成为最受欢迎的脱口秀节目主持人。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词engage（交战）既可以用作不及物动词也可以用作及物动词，engage the enemy/engage with the enemy两种表达方式都是正确的。
+:::
+
+(4) 跟敌人交锋 → 交战
+
+<!-- 插图：两军交战打仗的场景 -->
+
+在古代，打仗的时候都是在宽广的野外跟敌人交锋进行一场肉搏。也就是说，我军和敌军如果在野外相遇，就意味着一场“交战，打仗”。比如，**engage with the enemy**就是“与敌人交战”的意思。
+
+> The two armies **engaged** at dawn.
+> 两军在黎明交战。
+
+> The troops prepared to **engage** with the enemy.
+> 军队做好与敌军交战的准备。
+
+- **engage** [ɪn'geɪdʒ] *vi. &vt.* ① 约定，订婚；② 雇用；③ 吸引；④ 交战
+  - engage in 从事于，忙于，参加
+- **engaged** [ɪn'geɪdʒd] *adj.* 占线的，忙碌的 = busy
+  - The line is engaged /busy. 电话占线。
+- **engaging** [ɪn'geɪdʒɪŋ] *adj.* 迷人的 = attractive, inviting, fascinating
+- **engagement** [ɪn'geɪdʒmənt] *n.* 订婚，约定，雇用，契约
+
+**Voca Map：engage**
+- 本义：从事
+  - 被某事缠上 → 从事，在做
+  - 男女之间约定结婚 → 使订婚
+  - 约定支付费用以留住某人 → 雇佣
+  - 使……离不开的 → 吸引
+  - 与敌人交锋 → 交战
+
+## 2. 注视、留意regard ①看作；②注视，凝视；③尊重；注意，注目
+
+::: {.etymo}
+分析**regard**的词源是：**re-**强调+**gard**仔细看 → 仔细看……。与该词源相同的词语有**guard**一词，从其词义“仔细看的人”变成了“警备，警卫员”。对我们来说，**bodyguard**保镖这个词是再熟悉不过了的。
+:::
+
+我们已经学习了**regard**这个单词的词源义，接下来我们来一起看一下它的各种不同义项是如何产生的。
+
+(1) 将……看作 → 看作
+
+“看作”这个义项是**regard**的词义中最重要的一个，主要以“**regard A as B**将A看作B，看作”的形式出现。
+
+<!-- p.492 -->
+
+> I don't **regard** him as a great scholar.
+> 我不认为他是一个伟大的学者。
+
+> He **regards** money as the most important thing in life.
+> 他认为钱是世界上最重要的东西。
+
+(2) 仔细看 → 注视，凝视
+
+单词regard的原意是“仔细看……”，它的第二个义项“注视，凝视”也不难理解，因为“仔细看”的汉语表达就是“注视，凝视”。
+
+> The police officer **regarded** the group of teenagers with suspicion.
+> 警官带着怀疑的眼光仔细地盯着这群十几岁的少年。
+
+> She stood back and **regarded** him coldly.
+> 她站在后面冷冷地看着他。
+
+(3) 关心并仔细地看 → 尊重；注意，注目
+
+<!-- 插图：警官怀疑地盯着一群年轻人，头顶气泡写着“嗯，很可疑” -->
+
+单词regard不仅可以用作名词，还可以用作动词。名词是由动词派生而来，因此其动词的词义原封不动地保留下来了。这里我们要讲的“尊重；注意，注目”就是由其第二个义项“关心并仔细看”派生而来的。在这里只要知道regard这个词可用作名词就可以了。不过，还有一个惯用表达方式需要学习一下“with/in regard to”，意为“关于……”。另外，regard的复数形式regards是“问候”的意思，短语“send my regards to your parents”就是“向你的父母传达我的问候”的意思。
+
+> We have high **regard** for our economics professor.
+> 我们非常尊敬我们的经济学教授。
+
+> She has no **regard** for other people's feelings.
+> 她不顾及别人的感受。
+
+> Please give my best **regards** to your sister.
+> 请代我向你姐姐问好。
+
+- **regard** [rɪˈɡɑːd] *vi.&vt.* ①看作 ②注视，凝视；*n.* 尊重；注意，注目
+  - regard A as B 把A当做B
+  - with /in regard to 关于，至于
+  - regardless of 不管，不顾
+- **regarding** [rɪˈɡɑːdɪŋ] *prep.* 关于，至于 =about, as regards
+
+**Voca Map**
+- regard
+  - 本义：注视，留意
+  - 将……看做 → 视为，看做
+  - 仔细看 → 注视，凝视
+  - 关心并仔细地看 → 尊重；注意，注目
+
+## 3. 制止 check ①阻止，遏制；②调查，检查；③支票
+
+::: {.etymo}
+check这个词的由来很奇特unique。大家都知道chess国际象棋。以
+:::
+
+<!-- p.493 -->
+
+前，check在chess中指的是“攻打将军”，也就是说使出招数堵住对方的king王，使其动弹不得。check的“使……陷入死路”这层意思派生出了很多其他的义项，check跟chess两者之间的关系非常密切，大家一定不要忘记哦！
+
+(1) 在chess中将对方逼入死路，使其不能动弹→阻止，遏制
+
+就算我们没下过chess，但总该知道象棋。这可是代表着楚汉相争的东方代表性棋盘游戏board game啊。不管是西方的chess，还是东方的象棋，只要是将对方的王置于死地就算赢了。check的第一个义项“阻止，遏制”就是源于chess中“将对方的king置于死地”这层意思。在冰球比赛中，用身体阻止、遏制对方选手的行为就是body check。
+
+<!-- 插图：冰球比赛中阻截防守 -->
+
+> The police have taken strong measures to **check** the growth in crime.
+> 警察已经采取了强有力的措施以阻止犯罪的增长。
+
+> High taxes will act as a **check** on economic development.
+> 高税收将阻碍经济发展。
+
+(2) 在chess中小心翼翼地出招→调查，检查
+
+象棋chess可谓是一种“斗智”的头脑brain游戏，它可不是一般的费脑筋。如果在chess中想赢的话，得一招一招小心翼翼地下棋。这里就出现了check的第二个义项“调查，检查”。我们做事的时候也是一样，总是想着现在处理的事情到底能不能成功，这就是所谓的一种“检查”。在象棋中，每下一步棋就得好好“调查，检查”一下到底应该如何出棋。
+
+> My wife **checked** her makeup in the mirror.
+> 我妻子照镜子检查她的妆容。
+
+> What can I do to **check out** this book?
+> 我怎么做才能借这本书？
+
+> The patient should keep a careful **check** on his blood pressure.
+> 要仔细地检查这个病人的血压。
+
+(3) 为了确保现金不被盗走或受损失而做的事情→支票
+
+<!-- 插图：一张支票 -->
+
+买东西或者享受服务，我们需要支付金钱。可是，我们总是会处于怕钱丢失或者被盗的忧虑中。现在有信用卡credit card可以代替现金使用，但以前
+
+<!-- p.494 -->
+
+哪有这种东西啊？于是就发明了支票check。也就是说，支票之所以会产生，就是为了防止现金的丢失和被盗。除了credit card，大家还听说过check card支票保证卡吧！现在大家知道为什么会有支票卡了。
+
+> Do you want to pay in cash, by **check**, or by credit card?
+> 你想用现金、支票，还是信用卡支付？
+
+> I lost my traveler's **check** and need to order it again.
+> 我丢了旅行支票，需要重新申请。
+> （traveler's check 旅行支票）
+
+- **check** [tʃek] *vt.* ①阻止，遏制；② 调查，检查 *n.* 支票
+  - check in/out (在旅馆，机场等)登记，报到/结账后离开
+  - rain check 延期，留作下次继续使用的票根
+  - blood-pressure check 血压检查
+  - door check 门制，自动关门机（使门慢慢关上的装置）
+  - check over 仔细检查，核对
+
+**Voca Map**
+- chess 原意：陷入死路
+  - 在chess中将对方逼入死路，使其不能动弹 → 阻止，遏制
+  - 在chess中小心翼翼地出招 → 调查，检查
+  - 为了确保现金不被盗走或受损失而做的事情 → 支票
+
+## 4. （意想不到）突然发生的事情accident ①事故；②偶然的事
+
+::: {.etymo}
+分析**accident**的词源为：ac-意想不到的+cid掉下+-ent名词后缀→突然发生的事情。将这个词源义稍微扩展一下就变成了“某人发生了（意想不到的）事情，偶然发生的事情”之义。那么accident以词源义为基础，又出现了哪些其他义项呢，现在就让我们一起来了解一下吧！
+:::
+
+<!-- 插图：两人看着一辆撞毁报废的汽车，对话“哎”“这事故是怎么发生的？” -->
+
+(1) 突然发生在某人身上的事情→事故
+
+上侧的图片里发生了一起很严重的交通事故，一辆汽车完全报废了！虽然事故有可能发生在每个人身上，但没有人能预测事故发生的时间、地点和对象。“偶然发生的事情”就是accident的第一个义项“事故”。
+
+> My close friend was injured in an **accident** at work.
+> 我的密友在一次工作事故中受伤了。
+
+> Seat belts reduce the risk of death or injury in an **accident**.
+> 安全带降低了交通事故中的死亡和受伤的风险。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+汽车安全带用英语表示不是safety belt而是seat belt哦！
+:::
+
+<!-- p.495 -->
+
+(2) (从上面) 掉下来→偶然 (的事情)
+
+走在乡村的小路上，突然脚下踩到柿子一下子就被滑倒了。真的是偶然发生的事情啊。当我们缺钱的时候总会说这样的话：“天上要是能掉下钱来该有多好啊？”。这些都是accident的第二个义项“偶然”的意思。所谓“偶然”，指的不是预先定好的，而是“突然降临到某人身上的”。这样理解就能把accident的两个义项“事故”和“偶然”联系在一起了。
+
+> I met her **by accident** rather than by design.
+> 我绝非故意设计而是偶然遇到了她。
+
+> My third baby was an **accident**.
+> 我的第三个孩子是意外怀上的（不是有计划地怀孕）。
+
+- **accident** [ˈæksɪdənt] *n.* ①事故；②偶然（的事）
+  - by accident 偶然地
+  - car accident 车祸
+  - traffic accident 交通事故
+  - fatal accident 死亡事故
+  - tragic accident 悲惨的事故
+  - an accidental meeting with a friend 偶然遇到一位朋友
+- **accidental** [ˌæksɪˈdentəl] *adj.* 偶然的
+- **accidentally** [ˌæksɪˈdentəlɪ] *adv.* 偶然地 ↔ deliberately 故意地
+
+**Voca Map：accident**
+- accident
+  - 本义：（未意料到的）突然降临的事情
+    - 突然发生在某人身上的事情 → 事故
+    - （从上面）掉下来 → 偶然（的事情）
+
+## 单词回顾
+
+1. engage 的原意：从事……
+   ①被某事缠上；男女之间约定结婚 → ______
+   ②约定支付费用留住某人 → ______
+   ③使……离不开的 → ______
+   ④跟敌人交锋 → ______
+
+2. regard 的原意：注视、留意……
+   ①将……看作 → ______
+   ②仔细看 → ______
+   ③关心并仔细地看 → ______
+
+3. check 的原意：陷入死路
+   ①在 chess 中将对方逼入死路，使其不能动弹 → ______
+   ②在 chess 中小心翼翼地出招 → ______
+   ③为了确保现金不被盗走或受损失而做的事情 → ______
+
+4. accident 的原意：（意想不到）发生的事
+   ①突然发生在某人身上的事情 → ______
+   ②（从上面）掉下来 → ______
+
+答案 1. ①从事做，使订婚 ②雇用 ③吸引 ④交战 2. ①看作 ②注视，凝视 ③尊重；注意；注目 3. ①阻止，遏制 ②调查、检查 ③支票 4. ①事故 ②偶然（的事情）
+
+<!-- p.496 -->
+
+## 确认并攻克下列单词
+
+## 一 请写出下面单词的词义。
+
+::: {.etymo}
+1. engage ① 从事……；使订婚  ② ______
+   ③ ______  ④ 交战
+2. regard ① ______  ② 注视，凝视  ③ ______
+3. check ① ______  ② 调查，检查
+   ③ ______
+4. accident ① ______  ② 偶然的事
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 我**雇**______了一名汽车司机。
+2. 她的身材超级**有魅力**______。
+3. 我**觉得**______现在的情况很严重。
+4. 警察正在**制止**______足球场的骚乱场面。
+5. 请**检查**______一下那个计算结果是否正确。
+6. 他因为出乎意料的**事故**______失去了左腿。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. We're going to **engage** local people for the new factory.
+   A. exploit    B. employ    C. deploy
+:::
+
+2. People ______ him as an idiot.
+   A. respect    B. regard    C. disregard
+
+3. Their passports were ______ by immigration officers at the airport.
+   A. observed    B. searched    C. checked
+
+4. Take out an insurance that covers **accidental** damage.
+   A. incidental    B. casual    C. coincident
+
+---
+
+## 本日词汇速查（10 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [engage]{.headword} | ɪn'geɪdʒ | vi. &vt | ① 约定，订婚；② 雇用；③ 吸引；④ 交战 |
+| [engaged]{.headword} | ɪn'geɪdʒd | adj | 占线的，忙碌的 = busy |
+| [engaging]{.headword} | ɪn'geɪdʒɪŋ | adj | 迷人的 = attractive, inviting, fascinating |
+| [engagement]{.headword} | ɪn'geɪdʒmənt | n | 订婚，约定，雇用，契约 |
+| [regard]{.headword} | rɪˈɡɑːd | vi.&vt | ①看作 ②注视，凝视；*n.* 尊重；注意，注目 |
+| [regarding]{.headword} | rɪˈɡɑːdɪŋ | prep | 关于，至于 =about, as regards |
+| [check]{.headword} | tʃek | vt | ①阻止，遏制；② 调查，检查 *n.* 支票 |
+| [accident]{.headword} | ˈæksɪdənt | n | ①事故；②偶然（的事） |
+| [accidental]{.headword} | ˌæksɪˈdentəl | adj | 偶然的 |
+| [accidentally]{.headword} | ˌæksɪˈdentəlɪ | adv | 偶然地 ↔ deliberately 故意地 |
+

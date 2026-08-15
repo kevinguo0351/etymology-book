@@ -1,0 +1,398 @@
+# Day 55 · 既是木板又是委员会的board {.unnumbered}
+
+::: {.root-banner}
+Day 55 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p484–p492
+
+<!-- p.469 -->
+
+现在在滑雪场滑“滑板”的人特别多。在学校，老师会在blackboard黑板上写字。机场常用的“boarding”是“登机”的意思。除此之外，board还有“膳食，委员会，膳宿”等多种意思。想要记住这种看上去很难的多义词，就得先理解它的原意original meaning，因为这些词义就像是从一个树干上分出了多个枝干一样。
+
+<!-- 插图：board 词义树 -->
+
+**board**
+原意：板子，木板
+- 把木板挂起来，在上面写字 → ① 板子，黑板
+- 给木板加上四条腿脚做成的饭桌 → ② 膳食
+- 给木板加上腿脚做成的桌子 → ③ 委员会
+- 让人坐在用木板做成的马车上；用木板（木头）盖房子，让人住进来 → ④ 搭乘；膳宿
+
+**book**
+原意：书，账簿
+- 与原意相同 → ① 书
+- 把一张一张的纸像书一样装订起来 → ② [复数] (会计) 账簿
+- 在账簿上写上名字 → ③ 预约
+
+**authority**
+原意：作者的权力
+- 给作家的权力 → ① 权威、权力
+- 拥有权力的地方 → ② 当局，机关
+
+**command**
+原意：命令
+- 与原意相同 → ① 命令
+- 因为身处下命令的地位，所以受到尊敬 → ② 受到（尊敬，评价）
+- 因为下达命令的地位很高，所以要从上往下看 → ③ 俯瞰（展望）
+- 自由使用语言的能力 → ④ (语言的) 运用能力，水平
+
+<!-- p.470 -->
+
+## 1. 板子、木板 board ①木板；黑板；②膳食；③委员会；④搭乘、膳宿
+
+<!-- 插图：木板/黑板 -->
+
+::: {.etymo}
+单词board有很多不同的词义，既可以作“板子”讲，又可以作“膳食”讲，甚至还可以作“委员会”讲，那么这些词义之间有什么联系呢？另外，“搭乘”和“膳宿”又是什么意思呢？虽然board的词义很多，但它最原本的意思还是“板子”。它的各词义都是源于木板的各种不同用途。让我们一起来看一下board都有哪些不同的义项吧！
+:::
+
+(1) 把木板挂起来，在上面写字 → 黑板
+
+黑板用英语怎么说呢？就是blackboard！以前的黑板是黑色的，于是起名为“黑板”。后来，考虑到保护视力又将其变成了草绿色。不管怎么样，将宽大的木板挂在墙上，在上面写字，那么它就不再是一块单纯的木板，而是“公告板，黑板”了。
+
+> I'll put a list of names up on the **board**.
+> 我将一串名字写在黑板上。
+
+> I saw a notice on the **board** calling for volunteers.
+> 我看到布告栏上有招募志愿者的通知。
+
+(2) 给木板加上四条腿脚做成的饭桌 → 吃饭
+
+<!-- 插图：人们在餐桌前用餐 -->
+
+多数国家的大部分人都是围着饭桌吃饭。饭桌又是怎样做成的呢？对了，是将四条腿脚固定在一个大木板上做成的。做成饭桌后，在上面摆上食物吃就叫做“吃饭”。由此，木板就衍生出“饮食、吃饭”的意思了。
+
+> The student will have to pay for room and **board**.
+> 学生们不得不支付食宿费用。
+
+> The landlord provides **board** and lodging.
+> 那个房东提供食宿。
+
+(3) 给木板加上腿脚做成的桌子 → 委员会
+
+<!-- 插图：人们围坐在会议桌旁开会 -->
+
+刚才我们一起学习了在用木板做成的“桌子”上“吃饭”的义项，现在我们要学习的义项是“委员会”。这个义项也是从用木板做成的“桌子”衍生出来的。人们若想聚集在一起开会的
+
+<!-- p.471 -->
+
+话，就需要一张宽大的桌子，以桌子为中心，人们围坐在一起针对某个议事日程agenda展开讨论discussion，这样聚集在一起的一群人就是所谓的“委员会”。“委员会”这个义项同样不能摆脱“用木板做成的东西”这个原意。
+
+> There is a **board** meeting every Monday.
+> 每周一有委员会会议。
+
+> The parole **board** has decided that the prisoner is not yet ready for release.
+> 假释裁决委员会已经决定还不能释放这个囚犯。
+
+## (4) 让人坐在用木板做成的马车上→搭乘
+
+::: {.etymo}
+用木板（木头）盖房子，让人住进来→膳宿，使寄宿
+:::
+
+<!-- 插图：人们正在登机 -->
+
+用木板做成的东西其用处数不胜数innumerably，不管是过去还是现在，最重要的两个用途就是住与行。以前，在西方用木板做成马车carriage载人，其实就是让人坐在木板上面，后来发展成了“搭乘”的意思。现在，在机场将登机称作boarding。同样，也出现了用木板（木头）盖房子让人住进来“使住宿”这一新的义项。该义项主要指的是大学生们在学校周围付钱租住管吃管住的房子，即boarding house寄宿房。
+
+> He **boarded** a plane bound for New York.
+> 他搭乘一架飞往纽约的飞机。
+
+> My son **boarded** with several classmates near the university.
+> 我儿子和几个同学一起在大学附近租房住。
+
+如上所示，board的多个义项都来自于“木板”的用途。snowboard滑雪板，kickboard浮板也都源自于board。
+
+最后，我们要一起来学习一下俗语“across the board全体的，全体人员都包括在内”！这个俗语在考试中经常出现，大家一定要牢记于心哦！
+
+- **board** [bɔːd] *n.* ①木板，公告牌；②膳食；③委员会 *vi.& vt.* 搭乘；膳宿
+  - bulletin board 布告栏
+  - boarding house 寄宿房
+  - boarding school 寄宿学校
+  - across the board 全体的，全部
+- **boarding** [ˈbɔːdɪŋ] *n.* 搭乘
+- **boarder** [ˈbɔːdə] *n.* 寄宿生，寄膳者
+- **aboard** [əˈbɔːd] *prep.& adv.* 在（船，飞机）上，上船
+
+**Voca Map**
+- board
+  - 原意：板，木板
+  - 把木板挂起来，在上面写字 → 黑板
+  - 给木板加上四条腿脚做成的饭桌 → 吃饭
+  - 给木板加上腿脚做成的桌子 → 委员会
+  - 让人坐在用木板做成的马车上 → 搭乘
+  - 用木板（木头）盖房子，让人住进来 → 膳宿
+
+<!-- p.472 -->
+
+## 2. 书，账簿 book ①书；②（会计）账簿；③预约
+
+::: {.etymo}
+单词book，我想肯定很多人会说“这是一个再简单不过的单词了”。那么booking是什么意思呢？呃，那是晚上男女之间的约会？要是这么想的话，就大错特错了。从语法上来看，booking是动词book预约的名词形式，是“预约reservation”的意思。为什么会出现这么多不同的义项呢，现在就让我们一起来探究一下吧！
+:::
+
+**(1) 与原意相同 → 书**
+
+<!-- 插图：立着的书本 -->
+
+单词book我们已经再熟悉不过了，在这里没必要再去探究它的词源。只要知道它的词义是“书”就可以了。不过，在这里有一个很重要的俗语“**go by the book**按原则办事”，按照书中写的办事，就是按照原则（规定）办事。
+
+> The shelves in my office are filled with many famous **books**.
+> 我办公室的书架上摆满了著名的书籍。
+
+> That's one of the best **books** I've read in a long time.
+> 那是我长久以来读过的最好的书之一。
+
+**(2) 把一张一张的纸像书一样装订起来 →（会计）账簿**
+
+“书”和“账簿”之间在语义上没什么大的区别，因为无论是书还是账簿都是将一张一张的纸a piece of paper装订起来。不过，大家一定要注意，book这个词作“账簿”之意讲时，一般以复数形式“books”出现。
+
+<!-- 插图：架子上的文件夹与账簿 -->
+
+> An accountant will examine the company's **books**.
+> 会计会检查公司的账簿。
+
+**(3) 在账簿上写入名字 → 预约**
+
+<!-- 插图：前台工作人员在账簿上记录 -->
+
+动词book是“预约”的意思。以前，不管是在饭店还是在旅馆，预约的时候都要直接在预约簿上写上自己的名字。由此，“在账簿上面写上名字”代表的就是“预约”的意思，。booking是动词book“预约”的名词，其词义也是“预约reservation。该义项在日常生活中经常使用，大家一定要记住哦！
+
+<!-- p.473 -->
+
+> I'm all **booked up** this weekend—can we get together Friday?
+> 我这个周末排满了，我们周五聚聚？（get together（亲近的人之间的）见面）
+
+> The real asset course quickly got **booked up**.
+> 实体资产课程很快被预定一空。
+
+- **book** [bʊk] *n.* ① 书 ② [复数]（会计）账簿 *vt.* 预约 = reserve
+  - be fully booked 订满
+  - book in advance 提前预定
+- **booking** [ˈbʊkɪŋ] *n.* 预定 = reservation
+
+**Voca Map：book**
+- 本义：书，账簿
+  - 原意 → 书
+  - 把一张一张的纸像书一样装订起来 → （会计）账簿
+  - 在账簿上写上名字 → 预约
+
+## 3. 作者的权力 authority ①权力，权威；②（复数）当局，机关
+
+::: {.etymo}
+单词authority来自于author作家，作者，author作家当然应该享有copyright著作权，以及相关的“作家的权力”。接下来我们来看一下authority的两个义项吧。
+:::
+
+(1) 给作家的权力 → 权威，权力
+
+<!-- 插图：绝对权威 -->
+
+在单词author作家后面添加名词后缀-ity就形成了新单词authority，该词的词源义是“给作家的东西”，词义是“权力，权威”。需要注意的是，authority指的是某领域的专家expert，即“权威人士”。此时，如果跟介词on一起使用的话，比如，an authority on Italian food，意思就是“意大利美食专家”。
+
+> The boss has the **authority** to dismiss employees.
+> 老板有解雇雇员的权力。
+
+> My father is an **authority** on international law.
+> 我父亲是国际法的权威人士。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+大家请注意，第二个例句中authority的意思不是“权威”，而是“权威人士”。
+:::
+
+(2) 拥有权力的地方 → 当局，机关
+
+前面我们已经学习了单词authority是“权力，权威”的意思，接着又从“拥有权威的人”，派生出了“权威人士，专家”之义。单词authority的第二个意思“当局”也是源于“拥有权力的地方（机关）”。这里我们需要注意的是，authority用作“当局”讲时，因为是多种权力集中使用，多用其复数形式authorities。
+
+<!-- p.474 -->
+
+> I'm reporting the theft to the **authorities**.
+> 我正向警察报告这次被盗事件。
+
+> Local traffic **authorities** are investigating the accident.
+> 当地的交通局正在调查这起事故。
+
+> The health **authorities** will reinforce the new regulation of smoking.
+> 卫生当局会加强对吸烟的新管理。
+
+- **authority** [ɔːˈθɒrəti] *n.* ① 权威，权力 = power；② [复数] 当局，机关（人）
+- **authoritative** [ɔːˈθɒrətətɪv] *adj.* 有权威的，当局的
+- **authoritarian** [ɔːˌθɒrɪˈteəriən] *n.* 专制主义者
+- **authoritarianism** [əˌθɒrəˈteəriənɪzm] *n.* 独裁主义，权力主义
+
+**Voca Map**
+- authority
+  - 本义：作者的权力
+  - 给作者的权力 → 权力、权威
+  - 拥有权力（力）的地方 → 当局[复数]
+
+## 4. 命令，指挥 command ① 命令；② 受到（尊敬，评价）；③ 俯瞰（展望）；④（语言的）运用能力
+
+::: {.etymo}
+分析 **command** 的词源，即：**com-** 强调 + **mand** 命令 →（强烈）命令。喜欢玩“星际争霸 StarCraft”游戏的人肯定听说过 Command Center 下命令的指挥中心吧。单词 **command** 并不只是单纯的“命令”的意思，它还有很多其他词义。不过其他词义也都是以“命令”为中心的。那就让我们在它的中心义的基础上再看看其它义项吧。
+:::
+
+(1) 与本义相同 → 命令，指挥
+
+<!-- 插图：长官拿喇叭指挥士兵喊“攻击！” -->
+
+看左图，你一眼就能理解 **command** 这个词。图片中一个长官 officer 正从上往下看，边看边指挥士兵们。单词 **command** 的原意是“命令”。
+
+> The General **commanded** that the troops attack at once.
+> 将军命令军队立刻进攻。
+
+> troops under the **command** of General Gibbson
+> 受吉布森将军指挥的军队
+
+<!-- p.475 -->
+
+(2) 因为身处下命令的地位，所以受到尊敬→受到（尊敬，评价）
+
+下命令或者指挥别人的人多是上级，因此自然而然要“受到（下级的）尊敬，评价”。这个词义与“命令”差别不大，比较容易理解。
+
+> David was a outstanding teacher, able to **command** attention.
+> 大卫是一名出色的教师，值得尊敬。
+
+> Which graduates **command** the highest salaries?
+> 哪些毕业生得到了最高的工资？
+
+(3) 因为下达命令的地位很高，所以要从上往下看→俯瞰（展望）
+
+<!-- 插图：山峰与缆车风景照 -->
+
+正如第一幅画所示，下命令的人要站在相对较高的地方。所以，command的另一个词义是“俯瞰（展望）”，要想理解这个词义就得联想一下我们站在山顶往下看的情景。因为是站在下达命令的位置，因此就有了“俯瞰下面”的意思。
+
+> The highest room in the hotel **commands** a fantastic view of Seoul.
+> 站在该酒店最高层的房间，首尔的美景尽收眼底。
+
+4. 自由使用语言的能力→（语言的）运用能力，水平
+
+<!-- 插图：同声传译员在会议现场翻译，气泡文字：“这个什么都不是，就一堆线条，没有意思”“哔哔” -->
+
+下命令的人一般都是能随意指使下级的人。同样，自由使用语言language的状态指的就是“语言的运用能力”。右图中的女人就是一位对外语command运用能力很出色的同声传译员simultaneous interpreter。
+
+还有一点需要注意，“语言的运用能力”用英语表示就是“command of+语言”。
+
+> I like to have a good **command** of English.
+> 我想学好英语。
+
+> She's studied in France and has a good **command** of French.
+> 她在法国学习，具有良好的法语运用能力。
+
+<!-- p.476 -->
+
+- **command** *vi. & vt.* ① 命令；② 受到（尊敬，评价）；③ 俯瞰（展望）  
+  *n.*（语言的）运用能力
+  - chain of command 指挥系统
+  - have a good command of English 良好的英语能力
+  - command a fine view 俯瞰美景
+- **commander** [kəˈmɑːndə] *n.* 指挥官，司令官
+- **commanding** [kəˈmɑːndɪŋ] *adj.* 指挥的，居高临下的
+
+> **Voca Map**
+> - command
+>   - 原意：命令，指挥
+>     - 与本义相同 → 命令，指挥
+>     - 因为身处下命令的地位，所以受到尊敬 → 受到（尊敬、评价）
+>     - 因为下达命令的地位很高，所以要从上往下看 → 俯瞰（展望）
+>     - 自由使用语言的能力 → （语言的）运用能力，水平
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. board 的原意：板子，木板
+   ① 可以挂起来写字的东西 → ______
+   ② 给木板加上四条腿脚做成的饭桌 → ______
+   ③ 给木板加上腿脚做成的桌子 → ______
+   ④ 让人坐在用木板做成的马车上 → ______
+   ⑤ 用木板（木头）盖房子，让人住进来 → 膳宿
+:::
+
+2. book 的原意：书，账簿
+   ① 与原意相同 → ______
+   ② 把一张一张的纸像书一样装订起来 → ______
+   ③ 在账簿上写上名字 → ______
+
+3. authority 的原意：作者的权力
+   ① 给作家的权利 → ______
+   ② 拥有权力的地方 → ______
+
+4. command 的原意：命令，指挥
+   ① 与原意相同 → 命令，指挥，命令权
+   ② 因为身处下命令的地位，所以受到尊敬 → ______
+   ③ 因为下达命令的地位很高，所以要从上往下看 → ______
+   ④ 自由使用语言的能力 → ______
+
+答案 1. ①黑板 ②吃饭 ③委员会 ④搭乘 2. ②（会计）账簿 ③预约 3. ①权威、权力 ②当局，机关 4. ②受到（尊敬、评价）③俯瞰（展望）④（语言的）运用能力，水平
+
+<!-- p.477 -->
+
+## 确认并攻克下列单词
+
+## 一 请写出下面单词的词义。
+
+::: {.etymo}
+1. board　①木板；黑板　②______　③______　④搭乘，膳食
+2. book　①书　②______　③______
+3. authority　①权力、权威　②______
+4. command　①命令　②受到（尊敬、评价）　③______　④______
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 那所大学是一所**寄宿学校**______。
+2. 我为了见朋友，**坐上**______了去釜山的火车。
+3. 她对法语的**运用能力**______很强。
+4. 那种退休金制度**前景真的很好**______。
+5. **警察当局**______发布命令说，要强化对酒后驾驶的管理力度。
+6. **我预定了**______这次休假要住的那家酒店。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. A week later he ______ a ship bound for New York.
+   A. fixed
+   B. got off
+   C. boarded
+:::
+
+2. He's studied in German and has a good **command** of German.
+   A. fluency
+   B. affluence
+   C. master
+
+3. Several countries claim ______ over the islands.
+   A. authorization
+   B. authority
+   C. authorities
+
+4. To get tickets, you have to **book** in advance.
+   A. conserve
+   B. preserve
+   C. reserve
+
+---
+
+## 本日词汇速查（13 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [board]{.headword} | bɔːd | n | ①木板，公告牌；②膳食；③委员会 *vi.& vt.* 搭乘；膳宿 |
+| [boarding]{.headword} | ˈbɔːdɪŋ | n | 搭乘 |
+| [boarder]{.headword} | ˈbɔːdə | n | 寄宿生，寄膳者 |
+| [aboard]{.headword} | əˈbɔːd | prep.& adv | 在（船，飞机）上，上船 |
+| [book]{.headword} | bʊk | n | ① 书 ② [复数]（会计）账簿 *vt.* 预约 = reserve |
+| [booking]{.headword} | ˈbʊkɪŋ | n | 预定 = reservation |
+| [authority]{.headword} | ɔːˈθɒrəti | n | ① 权威，权力 = power；② [复数] 当局，机关（人） |
+| [authoritative]{.headword} | ɔːˈθɒrətətɪv | adj | 有权威的，当局的 |
+| [authoritarian]{.headword} | ɔːˌθɒrɪˈteəriən | n | 专制主义者 |
+| [authoritarianism]{.headword} | əˌθɒrəˈteəriənɪzm | n | 独裁主义，权力主义 |
+| [command]{.headword} |  | vi. & vt | ① 命令；② 受到（尊敬，评价）；③ 俯瞰（展望） |
+| [commander]{.headword} | kəˈmɑːndə | n | 指挥官，司令官 |
+| [commanding]{.headword} | kəˈmɑːndɪŋ | adj | 指挥的，居高临下的 |
+

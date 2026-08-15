@@ -1,0 +1,394 @@
+# Day 13 · 清空是van，填满是ple {.unnumbered}
+
+::: {.root-banner}
+Day 13 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p120–p127
+
+<!-- p.105 -->
+
+有这样一句名言：“清空了才能填满！”想要填充新东西的话，当然要把既存的东西清空了。接下来我们要学习些与清空和填满相关的词语。
+
+表“清空”之义的词根是van，而表“填满”之义的词根是ple。二者不仅是一对语义相反的词根，同时也是构成许多重要词语的词根。
+
+<!-- 插图：水龙头与倒水容器 -->
+
+**Voca Map：① van是empty**
+
+- van清空(empty) + -ity名词后缀（(心里) 清空的状态）→ vanity 虚荣，浮华
+- van清空(empty) + -ish动词后缀（(位置) 空）→ vanish 消失，消亡
+- vac清空(empty) + -ant名词后缀（清空的）→ vacant 空虚的，空缺的
+- vacu清空(empty) + -um名词后缀（清空的状态）→ vacuum 真空，空白
+- e-向外(ex-) + vac(u)清空(empty) + -ate动词后缀（放走（人们）腾空）→ evacuate 撤离，疏散
+
+**Voca Map：② ple是fill**
+
+- com-强调 + ple填满(fill) + -te名词后缀（填满的，没有空余，全部填充）→ complete 完全的，完整的
+- com-强调 + ple填满(fill) + -ment名词后缀（(不足的地方) 全部填满）→ complement 补充
+- de-失去 + ple填满(fill) + -te动词后缀（消除填满的东西）→ deplete 减少，使枯竭
+- im-里面 + ple填满 + -ment名词后缀（填进去）→ implement 工具，实施，执行
+- plen填满(fill) + ary[?]（(位置) 全部被占满）→ plenary 全体出席的
+
+<!-- p.106 -->
+
+## 1. 把（心）清空van的状态，vanity虚荣，虚荣心
+
+::: {.etymo}
+含有词根van的词语中最先需要背诵的vain1. 徒劳的，2. 虚荣的。请大家顺便将熟语in vain徒然一起记下来！vain的名词是vanity虚荣。“虚荣”原本就是“没有内容（空的）、徒有外表”的意思。所以，将vain与vanity联系起来记忆会更有效。
+:::
+
+<!-- 插图：照镜子的女士 -->
+
+- **vain** [veɪn] *adj.* 1. 徒劳的 =futile；2. 自负的 =too proud, conceited
+  - a vain effort 徒劳的努力
+  - a vain attempt 徒劳的尝试
+  - in vain 白费地，无用的
+- **vanity** [ˈvænɪtɪ] *n.* 虚荣，浮华，自负 =conceit
+
+> She's full of **vanity**.
+> 她虚荣心强。
+
+> I'm afraid all my efforts were in **vain**.
+> 恐怕我所有的努力都是徒劳的。
+
+## 2. 位置空了van，vanish消失
+
+<!-- 插图：如烟雾般消散 -->
+
+::: {.etymo}
+如果说“消失”的话，大家的脑海里会浮现出单词disappear吧？disappear是在appear出现前面加上前缀dis-后变成其反义词“消失”的，而vanish则因词根van空的缘故，从词根义“（位置）空了”产生了“消失”的意思。此外，由vanish所构成的稍难一点的词汇中有evanescent容易消散的这个词，其词义为“像烟雾一样易消失的”。请大家将这两个词义相似的单词一起记下来吧。
+:::
+
+- **vanish** [ˈvænɪʃ] *vi.* 消失，突然不见 =disappear
+  - vanish without a trace 消失得无影无踪
+  - vanish into thin air 消失在空气中
+- **evanescent** [ˌiːvəˈnesnt] *adj.* 容易消散的
+
+> The bird **vanished** from sight.
+> 鸟儿在视野中消失了。
+
+> The ship **vanished** beyond the horizon.
+> 船只消失在地平线处。
+
+<!-- p.107 -->
+
+> Cassandra Williamson **vanished** from her home yesterday morning.
+> 昨天上午，卡桑德拉·威廉姆森从家里消失了。
+
+## 3. 因为空着 vac，所以 vacant 空的，空着的
+
+<!-- 插图：空无一人的会议室 -->
+
+::: {.etymo}
+虽然vacant空的，空着的是普通的基础词，但这些词就像我们成为英语高手之路上的垫脚石stepping stone一样不可或缺。正因为是基础词，所以不进行词源分析就可以知道vacant的词义。vacant多用作空间上的“空荡荡”之义，也可表示工作或职位空缺的。
+:::
+
+vacant的名词vacancy有“1.（工作或职位）空职位 2.（酒店的）空房间”两种意思。此外，夏天去vacance休假（英语是vacation假期）也源于把房间、居住地“腾空”的意思吧。
+
+- **vacant** [ˈveɪkənt] *adj.* 空闲的，空缺的 = empty, void
+  - fall vacant 出现空位，空的
+- **vacancy** [ˈveɪkənsi] *n.* 1. 空缺；2. 空房间
+- **vacation** [vəˈkeɪʃn] *n.* 假期
+
+**Voca Map**
+- vacant 空闲的，空缺的
+  - ↓
+- vacancy 空位，空房间
+  - ‖
+- vacation 假期
+
+> Is this seat **vacant**?
+> 这个座位是空的吗？
+
+> He was offered the position of headmaster when it fell **vacant**.
+> 当校长这一职位出现空缺时，他被任命了。
+
+> — Do you have any **vacancy**? — I'm sorry. No vacancy.
+> ——有空房间吗？——抱歉，没有了。
+
+## 4. 空着 vacu 的状态是 vacuum 1. 真空 2. 空白
+
+<!-- 插图：拿着吸尘器打扫的人 -->
+
+::: {.etymo}
+物理学physics中，真空就是“不存在物质的空间”。vacuum的词源义正是“空着的状态”。记vacuum的词义并不困难，但是它发音有些不太好发。注意！不是“[ˈvækjum]”而是“[ˈvækjuəm]”！
+:::
+
+我们之所以熟悉单词vacuum也许是因为真空吸尘器vacuum cleaner的广泛使用吧。vacuum作动词使用时，是“用真空吸尘器打扫”的意思。如：She's vacuuming. 她正用真空吸尘器打扫卫生。
+
+<!-- p.108 -->
+
+- **vacuum** [ˈvækjuəm] *n.* 1. 真空 2. 空白；*vt.* 用真空吸尘器清扫
+  - vacuum cleaner 真空吸尘器
+  - vacuum a room 用真空吸尘器清扫房间
+  - the power vacuum in the country 国家的权力处于空白状态
+
+> Her husband's death left a **vacuum** in her life.
+> 她丈夫的死给她的生活留下了一段空白。
+
+> Have you **vacuumed** the carpets?
+> 你用真空吸尘器清理地毯了吗？
+
+## 5. 把人们送走 e- 清空 vacu 就是 evacuate 疏散，避难
+
+<!-- 插图：人们正在疏散/避难 -->
+
+::: {.etymo}
+含有词根vac的词语中，级别最高的算是evacuate了。evacuate由其词源义“（把人们）送走清空”引申出“躲避[避难]”的意思。譬如，发生地震earthquake、洪水flood等自然灾害natural disaster或者火灾、战争等时，要把人们快速地rapidly转移到别的地方，这时可使用的单词正是evacuate！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与自然灾害相关的词语
+earthquake 地震
+flood 洪水
+deluge 暴雨
+avalanche 雪崩
+landslide 山崩
+tsunami 海啸
+:::
+
+- **evacuate** [ɪˈvækjuet] *v.* 疏散，避难，撤离
+  - be ordered to evacuate the building 被命令从楼里撤离
+- **evacuation** [ɪˌvækjuˈeɪʃn] *n.* 疏散，撤离，撤空
+
+> During the war he was **evacuated** to the island.
+> 战争期间，他到岛上避难。
+
+> If the fire alarm sounds, all students should **evacuate** immediately.
+> 如果火警响起，所有学生都应立即撤离。
+
+## 6. 没有不足 com- 充满 pel 的，complete 完全的，完整的，彻底的，填写（表格）
+
+::: {.etymo}
+大家知道为什么complete是“完全的”的意思吗？这是因为全部充满，也就是没有不足的，所以是“完整”的。词源上来分析的话也是如此：complete是从“充满”的词源义引申出的“完整的”意思。但是，我们仅知道complete作形容词
+:::
+
+<!-- 插图：铅笔在表格复选框中打勾 -->
+
+<!-- p.109 -->
+
+来使用的话还是不够的。complete也可作动词使用，其义为“完成，收尾”。请大家注意：英语单词不一定只是用作一种词性的，有的单词有两种、甚至三种词性，同一词性下的单词可能会有多个词义。譬如，动词complete的第二个词义是“完成、填写（表格）（=fill out）”，大家也要把这个词义记住哦！
+
+- **complete** [kəm'pli:t] *adj.* 完全的=whole, entire；*vt.* 1. 完成，结束=finish；2. 填写（表格）=fill out
+  - complete the immigration form 填写移民表格
+- **completion** [kəm'pli:ʃn] *n.* 完成，结束
+
+::: {.mnemonic}
+**温馨小贴士**
+
+bachelor学士
+master硕士
+doctor博士（Ph.D）
+questionnaire问卷，调查表
+:::
+
+> We assemble the parts and produce the **complete** products.
+> 我们从事的是把零件组装成成品的工作。
+
+> She's just **completed** a master's degree in law.
+> 她刚修完法学硕士学位不久。
+
+> A lot of customers **completed** our questionnaire.
+> 很多顾客填写了我们的调查问卷。
+
+## 7. 填满 ple 不足部分 com-, complement 补充；补足
+
+<!-- 插图：鞋子 -->
+
+::: {.etymo}
+complement是“把不足的deficient地方填满”的意思。事实上，complement与前面学过的complete是同一词源。只是complement的构成中有后缀-ment，使其看起来像名词。但事实上，complement不仅可用作名词，同时也可用作动词。另外，在学习语法grammar的过程中，大家听过“补语”这个词吧？与“补语”相对应的英语单词是complement，请大家一起记住。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**complement与compliment的比较**
+complement 把不足的部分填满 → 补充
+compliment 使人一下子精神焕发的话语 → 称赞 → complimentary称赞；免费的
+:::
+
+- **complement** ['kɒmplɪmənt] *n.* 1. 补充，补足 2. 补语；*vt.* 补足，补助，补充
+- **complementary** [kɒmplɪ'mentərɪ] *adj.* 补足的，补充的，互补的
+
+> The shirt **complements** the suit nicely.
+> 这件衬衫和这套正装搭配得很漂亮。
+
+> A good wine is a **complement** to a good meal.
+> 一瓶好的红酒会使丰盛的餐宴相得益彰。
+
+> The team needs players who **complement** each other.
+> 那个队需要技能互补的选手。
+
+<!-- p.110 -->
+
+## 8. 清除掉 de- 填满的 ple 部分，deplete 使减少，枯竭
+
+::: {.etymo}
+在含有词根 ple 填满 的词语中，deplete 是考试中常考的一个单词。deplete 由其词源义“把填满的部分清空”引申出“使减少，枯竭”的意思。试想一下，给汽车加油并行驶的话，注满的汽油会慢慢变少吧！这是能联想 association 到 deplete 的一个很好的例子 good example。大家一定要记下来哦！
+:::
+
+<!-- 插图：加油枪给汽车加油 -->
+
+- **deplete** [dɪ'pliːt] *vt.* 耗尽，使衰竭 =exhaust
+  - deplete our natural resources 耗尽我们的自然资源
+  - deplete his life savings 耗尽他一生的积蓄
+- **depletion** [dɪ'pliːʃn] *n.* 消耗，耗减，用尽
+
+> These chemicals are thought to **deplete** the ozone layer.
+> 这类化学物质被认为会破坏臭氧层。
+
+> Salmon populations have been severely **depleted**.
+> 鲑鱼的数量急剧减少。
+> （salmon ['sæmən] 鲑鱼，大马哈鱼；population [pɒpju'leɪʃn] 人口）
+
+## 9. 把时间和努力放进去 im- 并充满 ple，implement 执行；工具
+
+::: {.etymo}
+与 deplete 使减少、枯竭一样，经常出现在考试中的另一个单词就是 implement。虽然这个单词看起来像名词，但实际上它多用作动词，这一点请大家一定要牢记哦！从词源来分析的话，该词由词源义“填满的……”引申为“道具”的意思；从词源义“填满”又生成“执行”的意思。实际上，在接受并执行某任务 mission 时，所付出时间和努力正是可以看做是“执行”吧？“执行”的同义词 fulfill 也是源于“填充”义的单词。
+:::
+
+- **implement** ['ɪmplɪmənt] *v.* 实施，执行 =fulfill, carry out；*n.* 工具 =tool
+  - implement policies (reforms) 执行政策（改革）
+  - agricultural implements 农具
+- **implementation** [ˌɪmplɪmen'teɪʃn] *n.* 执行，履行
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请注意！implement 多用作动词，意为“执行”。
+:::
+
+> I am unwilling to **implement** this plan.
+> 我不想执行这个计划。
+
+> It is increasingly difficult to **implement** the agreement.
+> 履行这份合约越来越难。
+
+> the **implementation** of the peace plan
+> 对和平计划的履行。
+
+<!-- p.111 -->
+
+## 10. （位置）全部被占满 plen，plenary 1. 全员出席的 2. 完整的
+
+<!-- 插图：第三次全体会议上众人围坐开会 -->
+
+::: {.etymo}
+成员们全部聚在一起进行讨论discussion的会议叫做全体会议吧！这个“全体大会”用英语说就是a plenary session。在这里，plenary是“全员出席”的意思。从词源上分解plenary是“完整的，全体的”意思。所以全体人员都参加的会议正是plenary session。此外，plenary还有“完整的”意思，这个词义同样也源于刚才讲过的词源义哦。总之，请大家记住plenary是从full这一词义出发的单词。
+:::
+
+- **plenary** [ˈpliːnəri] *adj.* 1. 全体出席的 2. 完整的，完全的 = complete
+  - hold a plenary session 举行全体会议
+  - have plenary power 有全权
+
+::: {.mnemonic}
+**温馨小贴士**
+
+说“举行，举办”聚会的时候，绝不能使用open，一定要使hold!
+hold a party 举办宴会
+hold a meeting 开会
+:::
+
+> The party will **hold a plenary session** in April.
+> 本党将于4月份举行全体会议。
+
+> He was given **plenary powers** to negotiate with the rebels.
+> 他被授予全权与叛乱者进行谈判。
+> （rebel [ˈrebl] 反叛者，造反者）
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 把心清空的状态  
+   → 虚荣，虚荣心 ______
+2. 位置空了  
+   → 消失 ______
+3. 空着的  
+   → 空的，空着的 ______
+4. 空着的状态  
+   → ① 真空，② 空白 ______
+5. 把人们送走、清空  
+   → 躲避，避难 ______
+6. 没有不足，填满的  
+   → 完整的；完成，收尾；填写（表格） ______
+7. 把不足的部分填满  
+   → 补充；补充，补足 ______
+8. 把填满的东西清除掉  
+   → 使减少，枯竭 ______
+9. 把时间和努力放进去充满  
+   → 执行；道具 ______
+10. 把位置都占满  
+    → ① 全员出席的，② 完整的 ______
+:::
+
+答案 1. vanity 2. vanish 3. vacant 4. vacuum 5. evacuate 6. complete 7. complement 8. deplete 9. implement 10. plenary
+
+<!-- p.112 -->
+
+## 单词检测
+
+### 一 请写出下列单词的词义。
+
+1. vanity ______
+2. vanish ______
+3. evacuate ______
+4. deplete ______
+5. implement ______
+6. plenary ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 应该丢掉那没有用的**虚荣心** ______。
+2. 有关他的记忆从我的记忆中**消失** ______了。
+3. 他的**空白期** ______实在是太长了。
+4. 让人们快**躲避** ______起来！
+5. 我们来相互**补充** ______不足的地方吧。
+6. 我们正在让地球的自然资源不断**枯竭** ______。
+7. 我们要**执行** ______收到的任务。
+8. 所有的词题会在**全体大会** ______上讨论。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. All hopes of finding the boy have **vanished**.
+   A. disinterested    B. disappeared    C. displeased
+
+2. In case of fire, use the stairs to ______ .
+   A. invade    B. evacuate    C. evaluate
+
+3. Algae can block light and ______ oxygen from the water.
+   A. deplete    B. replenish    C. implement
+
+4. The candidate has pledged to **implement** broad political reforms.
+   A. carry off    B. carry out    C. carry on
+
+---
+
+## 本日词汇速查（19 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [vain]{.headword} | veɪn | adj | 1. 徒劳的 =futile；2. 自负的 =too proud, conceited |
+| [vanity]{.headword} | ˈvænɪtɪ | n | 虚荣，浮华，自负 =conceit |
+| [vanish]{.headword} | ˈvænɪʃ | vi | 消失，突然不见 =disappear |
+| [evanescent]{.headword} | ˌiːvəˈnesnt | adj | 容易消散的 |
+| [vacant]{.headword} | ˈveɪkənt | adj | 空闲的，空缺的 = empty, void |
+| [vacancy]{.headword} | ˈveɪkənsi | n | 1. 空缺；2. 空房间 |
+| [vacation]{.headword} | vəˈkeɪʃn | n | 假期 |
+| [vacuum]{.headword} | ˈvækjuəm | n | 1. 真空 2. 空白；*vt.* 用真空吸尘器清扫 |
+| [evacuate]{.headword} | ɪˈvækjuet | v | 疏散，避难，撤离 |
+| [evacuation]{.headword} | ɪˌvækjuˈeɪʃn | n | 疏散，撤离，撤空 |
+| [complete]{.headword} | kəm'pli:t | adj | 完全的=whole, entire；*vt.* 1. 完成，结束=finish；2. 填写（表格）=fill out |
+| [completion]{.headword} | kəm'pli:ʃn | n | 完成，结束 |
+| [complement]{.headword} | 'kɒmplɪmənt | n | 1. 补充，补足 2. 补语；*vt.* 补足，补助，补充 |
+| [complementary]{.headword} | kɒmplɪ'mentərɪ | adj | 补足的，补充的，互补的 |
+| [deplete]{.headword} | dɪ'pliːt | vt | 耗尽，使衰竭 =exhaust |
+| [depletion]{.headword} | dɪ'pliːʃn | n | 消耗，耗减，用尽 |
+| [implement]{.headword} | 'ɪmplɪmənt | v | 实施，执行 =fulfill, carry out；*n.* 工具 =tool |
+| [implementation]{.headword} | ˌɪmplɪmen'teɪʃn | n | 执行，履行 |
+| [plenary]{.headword} | ˈpliːnəri | adj | 1. 全体出席的 2. 完整的，完全的 = complete |
+

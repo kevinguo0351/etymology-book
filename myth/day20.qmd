@@ -1,0 +1,371 @@
+# Day 20 · 破碎是frag，爆炸是rupt {.unnumbered}
+
+::: {.root-banner}
+Day 20 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p181–p188
+
+<!-- p.166 -->
+
+哐啷！啪！这是什么东西摔碎的声音？玻璃破碎或物品爆炸是非常危险的，所以要额外小心才可以。词根frag与rupt分别是“破碎break”和“爆炸burst”的意思。今天我们要学的单词都与这两个词根有关，而且还是考试中频出的考点，所以大家一定要记下来哦！
+
+<!-- 插图：物体摔碎与爆炸，标注 frag、rupt -->
+
+**Voca Map：frag是break**
+- frag 破碎(break) + -ile 容易做（容易碎的） → fragile 易碎的，脆的
+- fragile 的缩略语 frail（容易碎的） → frail 脆弱的，虚弱的
+- frag 破碎(break) + -ment 名词后缀（碎掉的） → fragment 碎片，片段
+- in- 向里面 + fringe 破碎(break)（打破后进到里面） → infringe 违反(规章等)
+- fract 破碎(break) + -(i)ous 带着（(精神上的)不协调） → fractious 易怒的，急躁的
+
+**Voca Map：rupt是burst, break**
+- bank 桌子(bench) + rupt 碎掉(broken)（(放债的)桌子塌了） → bankrupt 破产的，倒闭的
+- cor-(com-) 强调 + rupt 碎掉(broken)（(道德)完全被粉碎） → corrupt 堕落的，道德败坏的
+- dis- 散散 + rupt 砸碎(break)（砸成碎片使其不能使用） → disrupt 破坏、使中断
+- e(x)- 向外 + rupt 爆炸(burst)（爆发出来） → erupt 爆发，喷发
+- rupt 爆炸(burst) + -ure 名词后缀（爆炸的，破碎的） → rupture 破裂，断裂
+
+<!-- p.167 -->
+
+## 1. 容易-ile破碎的frag，fragile易碎的
+
+<!-- 插图：印有易碎品高脚杯标志的包装箱 -->
+
+::: {.etymo}
+大家看到过左图中的那个标志吧？这个标志多被印在包装箱的侧面。箱子里放的如果是玻璃之类的“易碎fragile”物品，那么包装箱上就会印有这个标志。fragile的后缀-ile是“容易做……”的意思。所以fragile沿用了其词源义，即“易破碎的”的意思。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+形容词后缀-ile是“容易……”的意思
+**agile** 容易移动的 → “敏捷的，灵巧的”；**docile** 容易教的 → “温顺的，驯服的”；**fertile** 容易收获谷物的 → “肥沃的”；**futile**（涨满了）容易撒的 → “无用的，无效的”；**versatile**（能力）容易变化的 → “多才多艺的，多功能的”
+:::
+
+- **fragile** [ˈfrædʒaɪl] *adj.* 易碎的，脆的，虚弱的 =brittle
+  - a fragile vase 易碎的花瓶
+  - a fragile child 脆弱的孩子
+- **fragility** [frəˈdʒɪləti] *n.* 易碎性，脆弱性，虚弱
+
+> It's **fragile**. Please be careful carrying it.
+> 这个很容易碎，搬运时请注意点。
+
+> The **fragile** package had to be treated with extra care.
+> 易碎包裹需要额外小心对待。
+
+> Relations between the two countries are in a **fragile** state.
+> 两个国家的关系处于濒临破裂的边缘。
+
+## 2. fragile的缩略语frail脆弱的，易碎的
+
+::: {.etymo}
+看frail的时，大家会不会有“frail和fragile的意思一样嘛！”的想法？确实，这两词的意思完全一样。事实上，frail是省略掉了fragile中的g和e而成的单词。英语单词中还有不少类似省略掉现有单词中某个字母而形成新单词现象。总之，从结论上来讲，fragile与frail词义相同。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+Frailty, thy name is woman.
+女人啊，你的名字叫弱者。
+Shakespeare（莎士比亚）的名言！
+:::
+
+- **frail** [freɪl] *adj.* 脆弱的，易碎的 =weak, feeble
+  - frail health 身体虚弱
+  - a small and frail ship 一条又小又单薄的船
+- **frailty** [ˈfreɪlti] *n.* 虚弱，脆弱
+
+> We should support **frail** elderly people in our community.
+> 我们应该扶助社区里的那些虚弱的老人。
+
+> It seemed impossible that these **frail** boats could survive in such a storm.
+> 这些单薄的小船居然能够抵挡这样的风暴，这看起来简直是不可能的。
+
+<!-- p.168 -->
+
+## 3. 碎掉的frag是fragment碎片，碎块
+
+::: {.etymo}
+“哐当！”玻璃碎了的话，地面上就会洒满fragment碎片。fragment由其词源义“碎掉的”引申为“碎片，碎块”之解。看看，只要能准确地理解词源，学习这些词也没那么难。不过，需要注意的是，看起来只作名词使用的fragment也可用作动词，其义为“破碎，裂开”。
+:::
+
+- **fragment** [ˈfræɡmənt] *n.* 碎片，碎块=shred ; *vi. vt.* 破碎，破裂，分裂
+  - the fragments of the broken cup 破杯子的碎片
+- **fragmentary** [ˈfræɡməntəri] *adj.* 碎片的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+fragmentary（碎片的）是“不延伸到全部，仅限于局部”的意思。
+:::
+
+> The **fragments** of the precious vase were found on the floor.
+> 在地板上找到了那个昂贵花瓶的碎片。
+
+> a **fragmented** society.
+> 一个支离破碎的社会。
+
+## 4. 打破fringe并进入到里面in-，infringe违法（法律），侵害（权利）
+
+::: {.etymo}
+infringe这个词看起来有些生疏吧？这时就需要我们从词源上来进行分析了。infringe由其词源义“打破并进入里面”引申为“违反，侵害”。我们来联想一下：破坏法律law并进入其中的话，就是违反（法律），破坏别人的权利right并进入到人家的权力中，那就侵害了权利。乍一看，这像是两个词义，但都是由“打破并进入”这个词源义引申而来。
+:::
+
+- **infringe** [ɪnˈfrɪndʒ] *vi. vt.* 违法（规章等），侵害（某人的权利）=violate, transgress
+  - infringe on 侵犯，侵害，破坏=trespass on
+  - infringe the patent 侵犯专利
+  - the infringement of human rights 侵犯人权
+
+::: {.mnemonic}
+**温馨小贴士**
+
+infringe既可以用作及物动词，也可以用作不及物动词。用作不及物动词时，要使用惯用句型“infringe on+名词”。
+:::
+
+> A backup copy of a computer program does not **infringe** copyright.
+> 电脑程序的备份拷贝并不侵犯版权。
+
+> Most students argued that the rule **infringed on** their right to free speech.
+> 大多数的学生认为这个规则侵犯了他们的言论自由。
+
+<!-- p.169 -->
+
+## 5. 有（精神上的）不协调 fringe，fractious 易怒的
+
+::: {.etymo}
+与其他词语相比，fractious 格外需要进行准确的词源分析。从词源上来看，它是“打破安定的精神状态”之义。意为“精神上的不协调”。由该词源义引申出其“易怒的”意思。前面讲过，fractious 属于词源比较复杂的 intricate 单词。我们可以将其理解为“一点也不能忍，总是打破情绪，不平和的”，而这样的人就是“易怒的”吧？
+:::
+
+- **fractious** [ˈfrækʃəs] *adj.* 易怒的，急躁的 =irritable
+  - a fractious wife 易怒的老婆
+- **fractiousness** [ˈfrækʃəsnɪs] *n.* 易怒，性情暴戾
+
+> Children become **fractious** when they are tired.
+> 当孩子们累了的时候，就爱发脾气。
+
+> She grew **fractious** about his selfish attitude.
+> 对于他自私的态度，她很生气。
+
+## 6. 放债的桌子 bank 被砸坏 rupt，bankrupt 破产
+
+::: {.etymo}
+单词 bankrupt 有一个我们不知道的有趣由来 origin。1500年，在意大利，首先出现了通过借钱给别人获取利息 interest 的金融业者。这些金融业者放债时所用的工作台用意大利语说就是 banca 银行。英语单词 bank 就源于该词。（所以，现在的 bank 作“银行”之义使用。）不过，这些金融业者因为使用金钱不当，不能再继续维持下去，那些把钱放在这儿而遭受损失的受害者们找上门来，用斧子 axe 把放债用的桌子 bank 砍烂 rupt。由此，便诞生了单词 bankrupt 破产的。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+bank 被称为“桌子”，确切的来说是“长长的（木）桌子、椅子”的意思。bench（长板凳）正源于 bank 这个词。
+:::
+
+- **bankrupt** [ˈbæŋkrʌpt] *adj.* 破产的，倒闭的 =insolvent
+  - attack the government as morally bankrupt 攻击政府道德沦丧
+- **bankruptcy** [ˈbæŋkrʌptsi] *n.* 破产，倒闭
+
+<!-- p.170 -->
+
+> Do you want to see me go **bankrupt**?
+> 你想看到我破产吗？
+
+> Last year the company was declared **bankrupt**.
+> 去年公司宣布了破产。
+
+> His business is **bankrupt**, and he is in dire trouble.
+> 他破产了，处境很艰难。
+> （dire [daɪə] 可怕的，严重的）
+
+## 7. 道德完全cor-被破坏rupt，corrupt堕落的，腐败的
+
+<!-- 插图：法官收受贿赂，头上写着“无罪” -->
+
+::: {.etymo}
+单词corrupt的使用频率绝不亚于bankrupt。corrupt officials腐败官员、a corrupt society腐败的社会，这些都是频繁出现的词吧。corrupt由其词源义“（道德）完全破坏”引申为“堕落的，腐败的”意思。用作动词时，corrupt是“使堕落，使肮脏”的意思，这点请大家在使用时多加留意。
+:::
+
+- **corrupt** [kəˈrʌpt] *adj.* 堕落的，腐败的 = immoral, depraved
+  *vt.* 使腐败，使堕落 = pervert
+  - corrupt judges 腐败的法官
+- **corruption** [kəˈrʌpʃn] *n.* 腐败，堕落，腐化
+
+> **Corrupt** officials already have taken millions of dollars in bribes.
+> 一些腐败的官员已经收受了数百万美元的贿赂。
+> （bribe [braɪb] 贿赂，诱惑物；bribery [ˈbraɪbəri] 受贿，行贿）
+
+> Some children have been **corrupted** by violent computer games.
+> 一些孩子因为暴力的电脑游戏而堕落了。
+
+## 8. 砸成rupt碎片不能dis-用，disrupt阻止，阻碍
+
+<!-- 插图：一把剪刀剪胶卷/带子 -->
+
+::: {.etymo}
+disrupt是从“碎成碎片”的词源意思中产生的单词，其义为“阻止（不能做），妨碍”。虽然源自于“（把物品）砸成碎片使其不能用”的词源义，但实际使用中，disrupt多用于描述事情或者情况，是“使事情、情况不能再继续进行”的意思。
+:::
+
+<!-- p.171 -->
+
+- **disrupt** [dɪsˈrʌpt] *vt.* 阻止，破坏，使混乱 = prevent, hinder, deter
+- **disruption** [dɪsˈrʌpʃn] *n.* 毁坏，瓦解，分裂
+- **disruptive** [dɪsˈrʌptɪv] *adj.* 破坏的，分裂性的，扰乱的
+
+> The earthquake **disrupted** the telephone service.
+> 地震阻断了电话业务。
+
+> Moving schools frequently can **disrupt** a child's education.
+> 转学太频繁会扰乱孩子的教育。
+
+> The strike caused widespread **disruption** to flight schedules.
+> 罢工导致了大量航班的紊乱。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家一起记住与disrupt词义相近的interrupt（打断，突然中断）！
+:::
+
+## 9. 打破rupt出来ex-, erupt喷出
+
+<!-- 插图：火山喷发景象 -->
+
+**emergency**紧急情况！**volcano**火山喷出了**lava**火山熔岩！快去**evacuation**避难！这里我们要学单词就是erupt喷发。erupt由其词源义“（向外）爆发”引申为“喷发”。看左图，红色的火山岩浆正从山顶向外喷发吧？这正是erupt。
+
+- **erupt** [ɪˈrʌpt] *vi.* 爆发，喷出
+  - a volcano erupting lava and ash 正在喷发熔浆和火山灰的火山
+- **eruption** [ɪˈrʌpʃn] *n.* 爆发，喷发
+
+> The volcano could **erupt** at any time.
+> 火山任何时候都有可能喷发。
+
+> Violence **erupted** outside the embassy gate.
+> 大使馆正门外发生了暴动。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+embassy是“大使馆”，ambassador是“大使”的意思。
+:::
+
+## 10. 爆破rupt就是rupture 1. 破裂; 2. 分裂, 不合
+
+::: {.etymo}
+如果准确地按照词源进行分析的话，可以很容易地记住rupture这个词。这是由于其词源义为“爆炸，破碎”，由此可引申为“1. 破裂 2. 不合”的意思。爆炸了的话，就会立即“破裂”。关系破裂的话，马上就“分裂，不合”。看看，分析词源是不是准确轻松背诵单词的捷径shortcut？
+:::
+
+<!-- 插图：岩石裂缝 -->
+
+<!-- p.172 -->
+
+- **rupture** [ˈrʌptʃə] *n.* 1. 破裂 2. 分裂，不合，友好关系的决裂 = conflict
+  - the rupture of a blood vessel 血管破裂
+  - a rupture of an artery 动脉破裂
+
+> The **rupture** with his father was inevitable.
+> 他与父亲关系的破裂是不可避免的。
+> （inevitable [ɪnˈevɪtəbl] 必然发生的，不可避免的）
+
+> The conflict caused a **rupture** in relations between the former allies.
+> 这次冲突导致了这对前盟友关系的破裂。
+
+## 单词回顾
+
+::: {.etymo}
+1. 容易碎的
+   → 易碎的 ______
+2. fragile 的缩略语
+   → 脆弱的，易碎的 ______
+3. 破碎的
+   → 碎片，碎块 ______
+4. 打破并进到里面
+   → 违反（法律），侵害（权利） ______
+5. 有（精神上的）的不协调
+   → 易怒的 ______
+6. 放债的桌子被砸烂
+   → 破产的 ______
+7. 道德完全被破坏
+   → 堕落的，腐败的 ______
+8. 碎成碎片不能用
+   → 阻止，妨碍 ______
+9. 爆破出来
+   → 喷出 ______
+10. 爆炸破裂
+    → 1. 破裂；2. 分裂，不合 ______
+:::
+
+答案 1. fragile 2. frail 3. fragment 4. infringe 5. fractious 6. bankrupt 7. corrupt 8. disrupt 9. erupt 10. rupture
+
+<!-- p.173 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. fragile ______
+2. fragment ______
+3. infringe ______
+4. corrupt ______
+5. disrupt ______
+6. erupt ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 是**易碎的**______物品，请小心。
+2. 到处都是锋利的**玻璃碎片**______。
+3. 他并不是故意**违反了**______法律。
+4. 他属于**爱生气**______的人。
+5. 去年**破产的**______公司又增加了。
+6. 我们生活在**堕落的**______世界。
+7. 因为发生了大型事故，交通**被阻塞了**______。
+8. 据推测，火山马上就要**喷发**______了。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The relationship between them is **fragile**.
+   A. brittle
+   B. bristle
+   C. sparse
+
+2. I can't control his **fractious** personality anymore.
+   A. irritating
+   B. irritable
+   C. frail
+
+3. When a corporation becomes ______ , its stock is of no value anymore.
+   A. bankrupt
+   B. corrupt
+   C. erupt
+
+4. Traffic was ______ by the serious accident.
+   A. disrupted
+   B. interrupted
+   C. dispersed
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [fragile]{.headword} | ˈfrædʒaɪl | adj | 易碎的，脆的，虚弱的 =brittle |
+| [fragility]{.headword} | frəˈdʒɪləti | n | 易碎性，脆弱性，虚弱 |
+| [frail]{.headword} | freɪl | adj | 脆弱的，易碎的 =weak, feeble |
+| [frailty]{.headword} | ˈfreɪlti | n | 虚弱，脆弱 |
+| [fragment]{.headword} | ˈfræɡmənt | n | 碎片，碎块=shred ; *vi. vt.* 破碎，破裂，分裂 |
+| [fragmentary]{.headword} | ˈfræɡməntəri | adj | 碎片的 |
+| [infringe]{.headword} | ɪnˈfrɪndʒ | vi. vt | 违法（规章等），侵害（某人的权利）=violate, transgress |
+| [fractious]{.headword} | ˈfrækʃəs | adj | 易怒的，急躁的 =irritable |
+| [fractiousness]{.headword} | ˈfrækʃəsnɪs | n | 易怒，性情暴戾 |
+| [bankrupt]{.headword} | ˈbæŋkrʌpt | adj | 破产的，倒闭的 =insolvent |
+| [bankruptcy]{.headword} | ˈbæŋkrʌptsi | n | 破产，倒闭 |
+| [corrupt]{.headword} | kəˈrʌpt | adj | 堕落的，腐败的 = immoral, depraved |
+| [corruption]{.headword} | kəˈrʌpʃn | n | 腐败，堕落，腐化 |
+| [disrupt]{.headword} | dɪsˈrʌpt | vt | 阻止，破坏，使混乱 = prevent, hinder, deter |
+| [disruption]{.headword} | dɪsˈrʌpʃn | n | 毁坏，瓦解，分裂 |
+| [disruptive]{.headword} | dɪsˈrʌptɪv | adj | 破坏的，分裂性的，扰乱的 |
+| [erupt]{.headword} | ɪˈrʌpt | vi | 爆发，喷出 |
+| [eruption]{.headword} | ɪˈrʌpʃn | n | 爆发，喷发 |
+| [rupture]{.headword} | ˈrʌptʃə | n | 1. 破裂 2. 分裂，不合，友好关系的决裂 = conflict |
+| [bristle]{.headword} |  |  | （猪等的）鬃毛，刚毛 |
+| [sparse]{.headword} |  |  | 稀疏的，稀少的 |
+| [irritating]{.headword} |  |  | 气人的，使人不愉快的 |
+

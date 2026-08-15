@@ -1,0 +1,386 @@
+# Day 29 · 喝是 drink，掉是 drop {.unnumbered}
+
+::: {.root-banner}
+Day 29 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p258–p265
+
+<!-- p.243 -->
+
+剧烈运动之后必然会觉得嗓子干渴thirsty，这时候就要找喝的东西。今天我们一起来学习一下与drink喝相关的词汇。大家都知道，喝水或饮料等液体liquid是从上往下滴落的吧！所以，我们还要一起学习与drink相关的drop滴落词群。
+
+<!-- 插图：打完篮球喝水的小孩 -->
+
+**Voca Map：drink 喝**
+- drink 喝
+  - drunk 喝醉
+  - drown 淹没
+  - drench 浸湿
+  - beverage 饮料
+
+**Voca Map：drop 滴落**
+- drop 滴落
+  - drip （一滴一滴地）滴落
+  - dribble （液体）往下滑，运球
+  - droop 突然下垂
+  - drool 流口水，垂涎
+
+<!-- p.244 -->
+
+## 1. 喝水或喝酒的 drink 喝
+
+<!-- 插图：男子大口喝酒 -->
+
+::: {.etymo}
+单词drink的意思是“喝”。需要注意的是，当我们说“喝酒”的时候，只能用drink这个单词来表达。我们来看看下面这个句子是什么意思：
+:::
+
+I don't drink. 世界上没有不喝任何东西还能活的人吧！所以“I don't drink”的意思是“我不喝酒”。
+
+跟drink相关的词汇还有swallow吞咽，quaff痛饮，sip啜饮，同学们应该背过这些单词吧？最后不要忘了单词potable可饮用的。接下来所列举的单词都是跟drink相关的单词，要知道提起drink，能带出一连串的单词呢。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与“喝”相关的词汇：
+- swallow 吞咽
+- quaff 痛饮
+- sip 啜饮
+- potable 可饮用的
+:::
+
+- **drink** [drɪŋk] *v.* 喝，喝（酒） *n.* 饮料，喝的东西；（一杯）酒
+  - drink like a fish 大口大口地喝，豪饮
+
+> **Drink** up your milk.
+> 喝光你的牛奶。
+
+> Anything to **drink**?
+> 有什么饮料吗？
+
+> He always **drinks** a lot.
+> 他通常都喝得很多。
+
+> Let's go for a **drink** after work.
+> 工作之后，咱们去喝一杯。
+
+## 2. drink 的过去分词 drunk 喝醉了的
+
+<!-- 插图：醉汉靠着车 -->
+
+::: {.etymo}
+单词drunk喝醉了的是drink喝酒的过去分词形式（drink—drank—drunk），意为“喝醉了的”，也可以写成drunken，不过通常写成drunk。我们还要记住drunk的反义词sober没喝醉的，清醒的。“酒鬼”在英语中用drunkard表达，“酒后驾驶”是drunk driving，要记住：不管发生什么事，绝不能drunk driving。
+:::
+
+- **drunk** [drʌŋk] *adj.* 喝醉了的 *n.* 酒鬼 = drunkard
+  - get drunk 喝醉
+  - be drunk on beer 喝啤酒喝醉了
+  - drunk with happiness 陶醉在幸福中
+
+**Voca Map**
+- drunk, drunken 喝醉的 ↔ sober 清醒的
+  ↓
+  drunkard 醉汉
+
+<!-- p.245 -->
+
+> I don't like being around **drunk** people.
+> 我不喜欢和喝醉的人待在一起。
+
+> My girl friend was so **drunk** that she could barely walk.
+> 我的女朋友醉得很厉害，几乎不能走路了。
+
+> Driving while **drunk** is a serious offense.
+> 醉驾是一项严重的罪行。
+
+## 3. 淋了一身水叫做 drench 湿透
+
+<!-- 插图：雨中浑身湿透的两人 -->
+
+::: {.etymo}
+将drink中的元音“i”换成“e”，“k”换成“ch”就形成了新单词drench湿透。试想一下，衣服被水浸透的样子。尤其是当没带雨伞umbrella时，却突然下起雷阵雨shower，浑身被雨淋湿就可以用这个单词来表达。I'm totally drenched.我浑身都被雨水淋透了。这是不是一定要记下来的表达方式呀？
+:::
+
+- **drench** [drentʃ] *vt.* 湿透 =saturate,soak
+- **drenched** [drentʃɪd] *adj.* 湿透的
+  - be drenched with sweat 被汗水湿透
+  - rain-drenched clothes 被雨水湿透的衣服
+
+> I forgot my umbrella and got **drenched**.
+> 我忘了带雨伞，被雨淋透了。
+
+> We were **drenched** by the sudden rainstorm.
+> 我们被突然而至的暴雨给淋透了。
+
+## 4. 掉进水里呛了水 drown 掉进了水里，溺死
+
+::: {.etymo}
+你以前有在游泳场或海水浴场溺水被呛的经历吗？呛了水却没注意的话，会很容易有生命危险。与drink相关的另一个重要单词就是drown掉进了水里，溺死。值得注意caution的是，drown既可以用作不及物动词也可以用作及物动词。比如，“他掉进河里淹死了”的表达方式有“He drowned in a river（主动语态）”和“He was drowned in a river（被动语态）”两种表达方式，这两种表达法都是正确的。
+:::
+
+- **drown** [draʊn] *vi.& vt.* 掉进了水里，溺死
+  - fall in the river and drown 掉进河里淹死了
+  - drowned in debt 债务缠身
+
+::: {.mnemonic}
+**温馨小贴士**
+
+drown 是不及物动词，还是及物动词呢？
+正确答案是它既是不及物动词又是及物动词。Don't forget it!
+:::
+
+<!-- p.246 -->
+
+> A **drowning** man will catch at a straw.
+> 快要淹死的人会抓住救命的稻草。
+
+> Many people **drowned** when the boat overturned.
+> 船翻了，很多人被淹死了。
+
+> The loud music **drowned** the sound of their conversation.
+> 音乐声很大，都盖过了他们的讨论声。
+
+## 5. drink 的东西是 beverage 喝的东西，饮料
+
+<!-- 插图：各种瓶装与罐装饮料 -->
+
+::: {.etymo}
+请大家一并记住跟drink相关的词汇beverage喝的东西，饮料。形容词potable表示“可饮用的”。在各种beverage中，可乐、汽水之类的碳酸饮料被称为soda。juice果汁是一个众所周知的单词，其形容词juicy是“多汁的”的意思。举例来说，a juicy steak是“肉汁丰富的牛排”。“酒”在英语里被称为alcohol，洋酒之类的烈酒strong alcohol被称为liquor。
+:::
+
+- **beverage** [ˈbevərɪdʒ] *n.* 喝的东西，饮料
+- **potable** [ˈpəʊtəbl] *adj.* 适于饮用的 =drinkable
+- **juicy** [ˈdʒuːsi] *adj.* 多汁液的 =succulent
+- **alcohol** [ˈælkəhɒl] *n.* 酒精
+- **liquor** [ˈlɪkə(r)] *n.* 烈酒
+
+> What kind of **beverage** do you drink?
+> 你要喝什么样的饮料？
+
+> **Beverages** are listed on the back of the menu.
+> 饮料列在菜单的最后面。
+
+## 6. 向下掉落的 drop 掉落，降低
+
+<!-- 插图：水滴掉落产生的水波纹 -->
+
+::: {.etymo}
+表达某物往下掉落或者降低时，使用的动词是drop，它用作名词时是“（滴落的）一滴，少量；下落”的意思。由drop衍生出来的词汇都包含向下落的意思。
+:::
+
+让我们一起来看一下由drop衍生出来的两个俗语吧。短语drop off是“（从车上）把某人放下”的意思，drop by/in是“顺便拜访，来访”的意思。它们都是经常使用的俗语，请一定要记住哦！
+
+<!-- p.247 -->
+
+- **drop** [drɒp] *vi. & vt.* 滴落、使降落
+  *n.* 一滴，少量；下落
+  - drop off 让……下车，下降
+  - drop by/in 顺便来访
+
+> I'll **drop** you **off** at the department store.
+> 我会在百货商店那里把你放下车。
+
+> Why don't you **drop in** for a drink in the evening?
+> 你晚上过来喝一杯吧？
+
+> My son **dropped** the vase, and it shattered into pieces.
+> 我儿子没拿住花瓶，花瓶落在地上摔成了碎片。
+> （shatter [ˈʃætə] 使破碎，使破裂）
+
+> His name was **dropped** from the list.
+> 他的名字从名单中漏掉了。
+
+> A **drop** of sweat ran down his forehead and into his eye.
+> 一滴汗水从他的额头掉下来，落进眼睛里。
+> （forehead [ˈfɒrɪd] 前额）
+
+## 7. 将 drop 的一个元音替换后变成 drip 一滴一滴地滴落
+
+<!-- 插图：水滴滴落 -->
+
+::: {.etymo}
+将drop中的元音“o”换成“i”，就会得到一个新单词drip。drop的意思是“滴落，使降落”，而drip的意思则是“一滴一滴地滴落”。大家有在医院注射点滴的经历吗？注射液是一滴一滴慢慢滴落下来的吧？在实验室laboratory使用的器具instrument中有一个叫做玻璃吸管的，那个器具也是在液体liquid一滴一滴往下drip的时候使用的。像这样理解了drop和drip两个单词之间的关系后再去记，是不是会容易些了呢？
+:::
+
+- **drip** [drɪp] *vi.* (一滴一滴地)滴落
+  *n.* (慢慢滴落的)水滴
+  - drip through the ceiling 从天花板上滴落下来
+  - the bucket on the flood to catch the drips 放在地上接掉落下来的水滴（漏水）的水桶
+
+> The tap's **dripping**.
+> 水龙头在滴水。
+
+> Constant **dripping** wears away the stone.
+> 水滴石穿。
+
+> The blood was still **dripping** from the cut on his arm.
+> 血从他手臂上的伤口处往下滴。
+
+<!-- p.248 -->
+
+## 8. 在 drop 中多加一个 o 就变成了 droop 突然下垂，向下垂
+
+<!-- 插图：低垂耷拉的花朵 -->
+
+::: {.etymo}
+在drop中多加一个o形成的单词就是droop。试想一下，水滴落的情景！当然是自上而下滴落的。单词droop的意思即是“突然下垂，向下垂”。发音是[dru:p]的长音，给人一种向下垂的感觉。我们一定要记住droop除了表示像稻穗一样成熟后“低垂、下垂”的意思之外，还可以表示人“精神萎靡，没有精神”的意思！
+:::
+
+- **droop** [dru:p] *vi.* 突然下垂，向下垂
+  - droop one's head 垂下头
+  - his drooping spirits 他情绪低落
+- **droopy** [ˈdru:pi] *adj.* 下垂的，无精打采的
+
+> Her eyelids began to **droop**.
+> 她的眼皮开始下垂了。
+
+> The tree's branches **drooped** under the weight of the snow.
+> 树枝被雪的重量给压弯了（向下耷拉了）。
+
+## 9. 由 drop 变形而成的新单词 dribble（足球、篮球）运球
+
+<!-- 插图：运篮球的动作 -->
+
+::: {.etymo}
+drop变形产生了新单词dribble。dribble运球是我们经常能听到的一个词，它一般用在打篮球或者踢足球的运球中。将球往下压送即是dribble，只要将drop记在脑子里，记其他单词就一点儿都不难。不过，请大家记住dribble的基本意思是“（液体）往下滴，淌”。
+:::
+
+- **dribble** [ˈdrɪbl] *v.*（液体）往下滴，淌；（足球、篮球中）运球
+  - dribble a little olive oil over a salad 在色拉上滴一点儿橄榄油
+  - dribble cream in the coffee 咖啡里加入奶油
+
+> Mullin **dribbled** the ball down the floor.
+> 穆林运球时，球掉到了地板上。
+
+> The baby is **dribbling** on your shirt!
+> 婴儿往你的衬衫上流口水。
+
+<!-- p.249 -->
+
+## 10. 形像 drop、义似 dribble 的单词 drool 流口水
+
+<!-- 插图：流口水的小孩 -->
+
+::: {.etymo}
+将 drop 中的 p 去掉，由 dro 所生成的单词就是 drool。依旧未变的是 drool 还含有“往下……，向下……”的意义。因此，drool 的意思是“口水不住地（往下）流”。跟前面我们刚学的新单词 dribble 液体往下淌没有什么区别吧？此外，drool 除了有“流口水”的意思之外，还有“垂涎；胡说”之意。
+:::
+
+- **drool** [druːl] *v.* 流口水 = slobber, dribble
+  - drool over 垂涎于……
+  - drool over a Porsche 对一辆保时捷青睐已久
+
+> The dog was **drooling** at the mouth.
+> 那只狗在流口水。
+
+> The dog **drooled** when we put the steak down on the floor.
+> 我们把一块牛排放到地板上时，小狗在流口水。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 喝水或喝酒
+:::
+
+   - 喝 ______
+
+2. drink 的过去分词
+   - 喝醉了的 ______
+
+3. 淋了一身水
+   - 浑身湿透 ______
+
+4. 掉进水里呛了水
+   - 掉进水里，溺死 ______
+
+5. drink 的东西，喝的东西
+   - 饮料 ______
+
+6. 向下掉
+   - 滴落，使降落 ______
+
+7. 将 drop 的一个元音替换后而生成的单词
+   - （一滴一滴地）滴落 ______
+
+8. 在 drop 中多加一个 o 后生成的单词
+   - 突然下垂，向下垂 ______
+
+9. 由 drop 变形而成的新单词
+   - （足球、篮球中）运球 ______
+
+10. 形像 drop、义似 dribble 的单词
+    - 流口水 ______
+
+答案 1. drink 2. drunk 3. drench 4. drown 5. beverage 6. drop 7. drip 8. droop 9. dribble 10. drool
+
+<!-- p.250 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. drunk ______
+2. drench ______
+3. drown ______
+4. drip ______
+5. droop ______
+6. drool ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 他**喝醉了** ______，走得踉踉跄跄。
+2. 我没带伞，浑身被雨**淋透了** ______。
+3. 醉酒后游泳容易**溺死** ______。
+4. 我家店铺出售各种用新鲜的水果制成的**饮料** ______。
+5. 树叶上落下**一滴水** ______。
+6. 他的肩膀一下子**垂了下去** ______。
+7. 请将油**慢慢地倒到** ______ 平底锅上。
+8. 我老公看着比基尼照片**流了口水** ______。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. More rains are expected to ______ the nation.
+   A. drown
+   B. drench
+   C. drip
+
+2. My nephew was ______ in water.
+   A. dribbled
+   B. drooped
+   C. drowned
+
+3. The skin around her eyes is starting to **droop**.
+   A. sag
+   B. sap
+   C. sip
+
+4. Non-alcoholic **beverages** will be on sale in the bar.
+   A. drink
+   B. drunk
+   C. drunkard
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [drink]{.headword} | drɪŋk | v | 喝，喝（酒） *n.* 饮料，喝的东西；（一杯）酒 |
+| [drunk]{.headword} | drʌŋk | adj | 喝醉了的 *n.* 酒鬼 = drunkard |
+| [drench]{.headword} | drentʃ | vt | 湿透 =saturate,soak |
+| [drenched]{.headword} | drentʃɪd | adj | 湿透的 |
+| [drown]{.headword} | draʊn | vi.& vt | 掉进了水里，溺死 |
+| [beverage]{.headword} | ˈbevərɪdʒ | n | 喝的东西，饮料 |
+| [potable]{.headword} | ˈpəʊtəbl | adj | 适于饮用的 =drinkable |
+| [juicy]{.headword} | ˈdʒuːsi | adj | 多汁液的 =succulent |
+| [alcohol]{.headword} | ˈælkəhɒl | n | 酒精 |
+| [liquor]{.headword} | ˈlɪkə(r) | n | 烈酒 |
+| [drop]{.headword} | drɒp | vi. & vt | 滴落、使降落 |
+| [drip]{.headword} | drɪp | vi | (一滴一滴地)滴落 |
+| [droop]{.headword} | dru:p | vi | 突然下垂，向下垂 |
+| [droopy]{.headword} | ˈdru:pi | adj | 下垂的，无精打采的 |
+| [dribble]{.headword} | ˈdrɪbl | v | （液体）往下滴，淌；（足球、篮球中）运球 |
+| [drool]{.headword} | druːl | v | 流口水 = slobber, dribble |
+

@@ -1,0 +1,2973 @@
+# 词源主题索引 {.unnumbered}
+
+把 1200 个词条按原书的 **547** 个词源故事聚类——同一个故事下的词一起记，是这一部分的核心方法。
+
+## Day 1
+
+**1. 源于 Ceres 谷物女神的 cereal 谷物**
+
+- [cereal]{.headword} [ˈsɪəriəl] *n.* 1. 谷物；2.（可代替早餐的）谷物产品
+
+**2. 源于 Chaos 创造天地未出现前的混沌世界，chaos 混沌，混乱**
+
+- [chaos]{.headword} [ˈkeɪɒs] *n.* 混乱，混沌 = confusion, disorder
+- [chaotic]{.headword} [keɪˈɒtɪk] *adj.* 混乱的，无秩序的
+
+**3. 源于 Cronos 时间之神的 chronic 慢性的，长时间的**
+
+- [chronic]{.headword} [ˈkrɒnɪk] *adj.* 长期的，慢性的
+- [chronologically]{.headword} [ˌkrɒnəˈlɒdʒɪkli] *adv.* 按年代的
+- [anachronism]{.headword} [əˈnækrənɪzəm] *n.* 不合时宜的人或物
+- [synchronous]{.headword} [ˈsɪŋkrənəs] *adj.* 同时的，同步的
+
+**4. 源于 Cupid 欲望之神的 cupidity 物质上的贪欲，贪心**
+
+- [cupidity]{.headword} [kjuːˈpɪdətɪ] *n.* （物质上的）贪欲，贪心
+- [covet]{.headword} [ˈkʌvɪt] *vt.&vi.* 贪婪
+- [covetous]{.headword} [ˈkʌvətəs] *adj.* 贪婪的
+- [erotic]{.headword} [ɪˈrɒtɪk] *adj.* 色情的
+
+**5. 源于 Gigantes 巨人族的 gigantic 巨大的**
+
+- [gigantic]{.headword} [dʒaɪˈɡæntɪk] *adj.* 巨大的=huge, vast, enormous, immense, colossal
+- [giant]{.headword} [ˈdʒaɪənt] *n.* 巨人
+
+**6. 源于健康女神 Hygeia 的 hygiene 卫生**
+
+- [hygiene]{.headword} [ˈhaɪdʒiːn] *n.* 卫生保健
+- [hygienic]{.headword} [haɪˈdʒiːnɪk] *adj.* 卫生的 =sanitary
+- [panacea]{.headword} [ˌpænəˈsiːə] *n.* 万能药 =cure-all
+
+**7. 源于睡眠之神 Hypnos 许普诺斯的 hypnotize 催眠，使着迷**
+
+- [hypnotize]{.headword} [ˈhɪpnətaɪz] *vt.* 使催眠，使着迷 =mesmerize
+- [hypnosis]{.headword} [hɪpˈnəʊsɪs] *n.* 催眠状态
+- [hypnotic]{.headword} [hɪpˈnɒtɪk] *adj.* 催眠的，易被催眠的 *n.* 安眠药
+- [insomnia]{.headword} [ɪnˈsɒmnɪə] *n.* 失眠症
+- [somnolent]{.headword} [ˈsɒmnələnt] *adj.* 使人瞌睡的，催眠的
+
+**8. 源于嫉妒之神 Zelos 泽洛斯的 jealousy 嫉妒**
+
+- [jealousy]{.headword} [ˈdʒeləsi] *n.* 妒忌
+- [jealous]{.headword} [ˈdʒeləs] *adj.* 嫉妒的
+- [zeal]{.headword} [ziːl] *n.* 激情 = passion
+- [zealot]{.headword} [ˈzelət] *n.* 狂热分子
+
+**9. 来自于青春女神 Juventas 尤瑞特斯的 juvenile 年轻的，青少年的**
+
+- [juvenile]{.headword} [ˈdʒuːvənaɪl] *adj.* 年轻的，青少年的 = adolescent
+- [rejuvenate]{.headword} [rɪˈdʒuːvəneɪt] *v.* 使年轻，使复原 = revive
+
+**10. 源于隔开生死的忘却之河Lethe忘河，lethal致命的，致死的**
+
+- [lethal]{.headword} [ˈliːθl] *adj.* 致命的，危险的
+- [lethargic]{.headword} [leˈθɑːdʒɪk] *adj.* 昏睡的，无生气的，困倦的
+
+## Day 2
+
+**1. 源于 Luna 让人疯狂的月亮女神 的 lunatic 疯了**
+
+- [lunatic]{.headword} [ˈluːnətɪk] *adj.* 疯的 = mad, crazy, insane, maniacal
+- [lunar]{.headword} [ˈluːnə] *adj.* 农历的
+
+**2. 源于黑夜女神 Nyx 尼克斯 的 nocturnal 在夜间的，夜间发生的**
+
+- [nocturnal]{.headword} [nɒkˈtɜːnl] *adj.* 夜的，夜间的
+- [diurnal]{.headword} [daɪˈɜːnl] *adj.* 每日的，白天的
+
+**3. 源于混淆神智的医生 Mesmer 麦斯默，mesmerize 使着迷**
+
+- [mesmerize]{.headword} [ˈmezməraɪz] *vt.* 施催眠术，迷惑 = captivate, hypnotize, enthrall
+- [mesmerizing]{.headword} [ˈmezməraɪzɪŋ] *adj.* 迷惑人的
+
+**4. 源于令人怕得发抖的牧神 Pan 潘的 panic （茫然的）恐怖**
+
+- [panic]{.headword} [ˈpænɪk] *n.* 恐慌，惊慌 =fear, fright
+
+**5. 源于无人匹敌的战争之神 Mars 马尔斯的 martial 战争的**
+
+- [Mars]{.headword} [mɑːz] *n.* 火星
+- [martial]{.headword} [ˈmɑːʃl] *adj.* 军事的，好战的 =hostile
+
+**6. 源于支配灵魂、精神的女神 Psyche 普赛克的 psychiatrist 精神科医生**
+
+- [psychiatrist]{.headword} [saɪˈkaɪətrɪst] *n.* 精神病医生
+- [psychiatric]{.headword} [ˌsaɪkɪˈætrɪk] *adj.* 精神病学的，治疗精神病的
+- [psychology]{.headword} [saɪˈkɒlədʒi] *n.* 心理学
+- [psychic]{.headword} [ˈsaɪkɪk] *adj.* 心灵的，灵魂的
+- [psychiatry]{.headword} [saɪˈkaɪətri] *n.* 精神病学
+
+**7. 源于饱受饥渴之苦的 Tantalus 坦塔罗斯，tantalize 吊胃口，逗弄**
+
+- [tantalize]{.headword} [ˈtæntəlaɪz] *v.* 逗弄，使干着急 = tease
+- [tantalizing]{.headword} [ˈtæntəlaɪzɪŋ] *adj.* 逗人的，惹人的，煽情的
+
+**8. 源于巨神族 Titan 泰坦的 titanic 巨大的**
+
+- [titanic]{.headword} [taɪˈtænɪk] *adj.* 巨大的 = enormous, immense, gigantic
+
+**9. 源于爱情与美丽女神 Venus 维纳斯的 venerate 尊敬**
+
+- [venerate]{.headword} [ˈvenəreɪt] *vt.* 尊敬，崇拜 = respect, esteem
+- [veneration]{.headword} [ˌvenəˈreɪʃən] *n.* 尊敬，崇拜
+- [venerable]{.headword} [ˈvenərəbl] *adj.* 值得尊敬的
+
+**10. 源于火和锻冶之神 Vulcan 伏尔甘的 volcano 火山**
+
+- [volcano]{.headword} [vɒlˈkeɪnəʊ] *n.* 火山
+- [volcanic]{.headword} [vɒlˈkænɪk] *adj.* 火山的
+- [lava]{.headword} [ˈlɑːvə] *n.* 熔岩
+
+## Day 3
+
+**Day 3 不容易剥皮、酸了吧唧的lemon是次品**
+
+- [lemon]{.headword} [ˈlemən] *n.* 1. 柠檬；2. 柠檬色
+- [mushroom]{.headword} [ˈmʌʃruːm] *n.* 蘑菇
+- [sporadic]{.headword} [spəˈrædɪk] *adj.* 偶尔发生的，零散的 =intermittent
+- [eclipse]{.headword} 像月亮挡住太阳的日食一样，被遮住光芒（荣誉） ← **eclipse** （名誉的）丧失，失去
+- [insular]{.headword} 送到“岛”上 ← **insulate** 使隔离，使孤立
+- [landslide]{.headword} [ˈlændslaɪd] *n.* 1. 滑坡；2.（选举中）大获全胜，一面倒的胜利
+- [streamline]{.headword} [ˈstriːmlaɪn] *v.* 使流线型，使合理化
+- [palate]{.headword} 食物紧贴在上颚 → **palatable** 美味的、可口的
+- [mercury]{.headword} [ˈmɜːkjʊri] *n.* 1. 水银 = quicksilver；2. Mercury 水星
+- [curb]{.headword} [kɜːb] *n.* 1. 勒马绳；2. 控制，勒住；3. 人行道的镶边
+
+**3. 像spore孢子一样四处散开的sporadic分散的**
+
+- [sporadically]{.headword} [spəˈrædɪkəlɪ] *adv.* 偶发地
+
+**5. 送到 insular 岛上，insulate 隔离**
+
+- [isolate]{.headword} ['aɪsəleɪt] *v.* 使隔离（孤立）= insulate, seclude, segregate
+
+**7. 像河水的轮廓线蜿蜒流长、streamlined 流线型的，效率的**
+
+- [streamlined]{.headword} [ˈstriːmlaɪnd] *adj.* 流线型的，有效率的 =efficient
+
+**8. 食物紧紧贴在 palate 上颚，palatable 好吃的**
+
+- [palatable]{.headword} [ˈpælətəbl] *adj.* 1. 美味的，可口的 = delicious, yummy；2. 合意的，认可的 = acceptable
+- [unpalatable]{.headword} [ʌnˈpælətəbl] *adj.* 不好吃的，不适口的
+
+**9. 像 mercury 水银一样敏感的变化、mercurial 善变的**
+
+- [mercurial]{.headword} [mɜːˈkjʊəriəl] *adj.* 善变的 = capricious, fickle
+
+## Day 4
+
+**1. 像slug鼻涕虫一样缓慢，sluggish缓慢的**
+
+- [sluggish]{.headword} [ˈslʌgɪʃ] *adj.* 偷懒的，迟钝的，缓慢的 =moving slowly, tardy
+- [sluggishness]{.headword} [ˈslʌgɪʃnɪs] *n.* 惰性，停滞
+- [sluggard]{.headword} [ˈslʌgəd] *n.* 懒汉，懒惰
+
+**2. 源于像cynic犬一样到处流浪，轻视规矩的cynical冷笑的**
+
+- [cynical]{.headword} [ˈsɪnɪkl] *adj.* 愤世嫉俗的，冷嘲的=sardonic
+
+**3. 源于像daw没事做的寒鸦，混日子的dawdle游手好闲**
+
+- [dawdle]{.headword} [ˈdɔːdl] *vi.* 游手好闲，闲逛=dally, fool around
+
+**4. 源于放狗追hare野兔的harass欺负**
+
+- [harass]{.headword} [həˈræs] *vt.* 使疲乏，骚扰 = afflict, pester, molest
+- [harassment]{.headword} [həˈræsmənt] *n.* 骚扰
+
+**5. 像机灵敏捷的 shrew 地鼠一样，shrewd 聪明的、机敏的**
+
+- [shrewd]{.headword} [ʃruːd] *adj.* 精明的，机灵的 = astute, canny
+
+**6. 躲在 bush 树丛，草丛后面 ambush 1. 埋伏 2. 奇袭**
+
+- [ambush]{.headword} [ˈæmbʊʃ] *n.* 1. 埋伏 2. 突袭 = sudden attack *v.* 伏击
+
+**7. 从香脂树 balsam 上提取的成分 balm 香脂**
+
+- [balm]{.headword} [bɑːm] *n.* 1. 香膏；2. 安慰 = solace, consolation
+
+**8. 像膨胀起来的棉花 bombace 一样说大话，bombastic 夸张的**
+
+- [bombastic]{.headword} [bɒmˈbæstɪk] *adj.* 夸大的，言过其实的 = exaggerate, pompous
+- [bombast]{.headword} [ˈbɒmbæst] *n.* 夸大的言语
+
+**9. 应拔掉杂草 weed，weed out 根除**
+
+- [weed]{.headword} [wiːd] *n.* 杂草 = a wild plant
+- [seaweed]{.headword} [ˈsiːwiːd] *n.* 海草，海藻
+
+**10. 就像砍剩的残根 stub 一样，stubby 矮胖的**
+
+- [stubby]{.headword} [ˈstʌbi] *adj.* 短粗的，短而硬的
+- [stub]{.headword} [stʌb] *n.* 1. 残端；2. 票根
+
+## Day 5
+
+**源于事物**
+
+- [flask]{.headword} [flɑːsk] *n.* 细颈瓶，烧瓶
+- [knot]{.headword} [nɒt] *n.* 结
+- [film]{.headword} （像“胶片”一样薄）→ **flimsy** 1.薄的；2.（证据、逻辑）不足信的
+- [maul]{.headword} [mɔːl] *v.* 1. 狠狠地批评，粗暴地对待 = criticize strongly  2. 轻松获胜，压倒性胜利 = defeat very easily, beat overwhelmingly
+- [helm]{.headword} [helm] *n.* 1. 船舵，舵柄；2. 实权，支配权 =control, clout
+- [puppet]{.headword} [ˈpʌpɪt] *n.* 傀儡，木偶
+- [hinge]{.headword} [hɪndʒ] *n.* 铰链
+- [slash]{.headword} [slæʃ] *v.* 1. 砍；2. 大幅度削减，减少 =reduce greatly
+
+**源于地名**
+
+- [Laconia]{.headword} 拉哥尼亚（古希腊一王国，位于伯罗奔尼撒半岛南部）以说话简洁而闻名 → **laconic** 话少的，话语简洁
+- [Lesbos]{.headword} 来兹波斯岛（在爱琴海中，位于土耳其西北，属希腊）几乎没有男人，允许女人同性恋的岛 → **lesbian** 女同性恋的
+
+**1. 源于荒年里只剩下装葡萄酒的瓶子 flask，fiasco (票房) 失败**
+
+- [fiasco]{.headword} [fɪ'æskəʊ] *n.* (票房) 惨败，大失败 = failure, disaster
+
+**2. 像 film 胶片一样非常薄，flimsy 1. 薄的 2. (逻辑、证据) 不足信**
+
+- [flimsy]{.headword} ['flɪmzi] *adj.* 1. (衣服) 薄的 = thin 2. (逻辑，证据) 不足信的 = meager
+
+**5. 像绳结 knot 一样、线和线复杂地缠在一起，knotty 复杂的**
+
+- [knotty]{.headword} [ˈnɒti] *adj.* 复杂的 = complex, complicated
+
+**9. 源于因语言简洁而闻名的 Laconia，laconic 话少、（话）短**
+
+- [laconic]{.headword} [lə'kɒnɪk] *adj.* 简洁的，简明的 =taciturn, reticent
+
+**10. 源于女人之间爱恋的岛 Lesbos，lesbian（女性间的）同性恋**
+
+- [lesbian]{.headword} [ˈlezbiən] *n.* (女性间的)同性恋；*adj.* 女同性恋的
+- [gay]{.headword} *n.* 男同性恋
+- [homosexual]{.headword} *n.* 同性恋者 *adj.* 同性恋的
+
+## Day 6
+
+**1. 扣动扳机 trigger 子弹就发射了，trigger 触发，引发**
+
+- [trigger]{.headword} [ˈtrɪɡə(r)] *n.* 扳机
+
+**2. 因为枪口 caliber 决定子弹的大小，所以 caliber 能力**
+
+- [caliber]{.headword} [ˈkælɪbə(r)] *n.* 1. 口径；2. 能力，气量 = ability, capacity, capability
+
+**3. 驳船 barge 进来完成的 bargain 交易、契约、便宜货**
+
+- [bargain]{.headword} [ˈbɑːɡɪn] *n.* 1. 买卖契约，贸易 = deal；2. 便宜货；*vi.* 讨价还价 = compromise
+
+**4. 像招手说来这边的灯塔 beacon、beckon 招手示意；吸引**
+
+- [beckon]{.headword} [ˈbekən] *v.* 1. (用头或手的动作) 示意，召唤 2. 吸引，诱惑 =attract, mesmerize
+- [beacon]{.headword} [ˈbiːkən] *n.* 灯塔，
+
+**5. 什么都能盛载的容器 vessel 大船；容器，碗；血管**
+
+- [vessel]{.headword} [ˈvesl] *n.* 1. 大船 2. 容器，碗 =container 3. 血管 → blood vessel
+
+**6. 不松懈的、紧绷的护带 brace、bracing 令人振奋的、爽快的**
+
+- [brace]{.headword} [breɪs] *n.* （关节）护带，牙齿矫正器，牙箍
+- [bracing]{.headword} [ˈbreɪsɪŋ] *adj.* 令人振奋的，令人心旷神怡的 = refreshing
+
+**7. 脸上有层黄铜brass，brazen厚脸皮**
+
+- [brazen]{.headword} [ˈbreɪzn] *adj.* 无耻的，厚脸皮的 = insolent, impudent, impertinent
+
+**8. 入侵别人村子 burg 的人，burglar 窃贼，夜贼**
+
+- [burglar]{.headword} [ˈbɜːɡlə(r)] *n.* 强盗，窃贼 = robber, break-in, thief
+
+**9. 在路上打别人耳光，mug 拦路抢劫**
+
+- [mug]{.headword} [mʌɡ] *n.* 1. 马克杯；2.（俗语）脸 *v.* 1.（淘气）做鬼脸；2. 打劫
+- [mugger]{.headword} [ˈmʌɡə(r)] *n.* 强盗
+- [mugging]{.headword} [ˈmʌɡɪŋ] *n.* 行凶抢劫，暴力
+
+**10. 源于巨大雕像 colossus 的 colossal 巨大的、非常的**
+
+- [colossal]{.headword} [kəˈlɒsl] *adj.* 巨大的，非常的 = huge, vast, immense, enormous
+- [colossus]{.headword} [kəˈlɒsəs] *n.* 巨大塑像
+
+## Day 7
+
+**1. 源于熄火后让人睡觉的curfew宵禁**
+
+- [curfew]{.headword} [ˈkɜːfjuː] *n.* 宵禁
+
+**2. 源于通过看飞起来的鸟来占卜的auspicious吉兆**
+
+- [auspicious]{.headword} [ɔːˈspɪʃəs] *adj.* 吉兆的，吉利的 = favorable
+- [auspice]{.headword} [ˈɔːspɪs] *n.* 帮助，支持 = help, support
+
+**3. 源于将宝剑放在骑士脖子上的仪式 accolade 荣誉，表彰**
+
+- [accolade]{.headword} [ˈækəleɪd] *n.* 荣誉，表彰=prize, compliment, citation
+
+**4. 引发叛乱的人中，10个人有1个被砍头，decimate 很多人被杀**
+
+- [decimate]{.headword} [ˈdesɪmeɪt] *vt.* 成批杀死，大量毁坏
+- [decimation]{.headword} [ˌdesɪˈmeɪʃn] *n.* 大批杀死
+
+**5. 洞穴 grotto 中可怕而又奇怪的壁画，grotesque 奇怪的，古怪的**
+
+- [grotesque]{.headword} [grəʊˈtesk] *adj.* 不自然的，奇怪的，可笑的 = unnatural, ugly
+
+**6. 在 Goldsmiths' hall 上做出保证金银纯度的标记 mark，hallmark（显著的）特征**
+
+- [hallmark]{.headword} [ˈhɔːlmɑːk] *n.* （显著的，典型的）特征
+
+**7. 源于英国佃户抵制的人物 Boycott，boycott 联合抵制**
+
+- [boycott]{.headword} [ˈbɔɪkɒt] *n.* （对某特定商品）联合抵制，拒绝参加 *vt.* 联合抵制
+
+**8. 源于穿着木屐 sabot 踩庄稼的事件，sabotage 故意破坏**
+
+- [sabotage]{.headword} [ˈsæbətɑːdʒ] *n.* 故意损坏机器，捣乱，怠工
+
+**9. 神圣sanc的话就认可，不神圣的话就制裁，sanction认可，制裁**
+
+- [sanction]{.headword} [ˈsæŋkʃn] *n.* 1. 批准=approval；2.（复数形式）制裁=restriction
+
+**10. 源于陶片驱逐制 ostracism 的 ostracize 驱逐**
+
+- [ostracize]{.headword} [ˈɒstrəsaɪz] *vt.* 放逐，排斥 = banish, expel, deport
+- [ostracism]{.headword} [ˈɒstrəsɪzəm] *n.* 流放，放逐，排斥
+
+## Day 8
+
+**1. 词根 manu 的形容词形式 manual 手工的，手动的**
+
+- [manual]{.headword} [ˈmænjuəl] *adj.* 手工的，手动的 *n.* 使用说明书
+
+**2. 用手 manu 制作 fac 的是 manufacture 制作，加工，生产**
+
+- [manufacture]{.headword} [ˌmænjuˈfæktʃə(r)] *v.* 制造，捏造 *n.* 制造业，产品
+- [manufacturer]{.headword} [ˌmænjuˈfæktʃərə(r)] *n.* 制造商
+
+**3. 用手mani握住后，移动pul，manipulate操纵，操作**
+
+- [manipulate]{.headword} [məˈnɪpjuleɪt] *v.* 操纵，操作
+- [manipulation]{.headword} [məˌnɪpjuˈleɪʃn] *n.* 操作，操纵
+
+**4. 直接用手mani写的文章script，manuscript（亲笔）原稿**
+
+- [manuscript]{.headword} [ˌmænjuːskrɪpt] *n.* 手稿
+
+**5. 放在手上 manu 触碰 fest，manifest 明显的**
+
+- [manifest]{.headword} [ˈmænəfest] *adj.* 显然的，明白的=evident, obvious *v.* 表明=articulate
+- [manifestation]{.headword} [ˌmænəfeˈsteɪʃn] *n.* 显示
+- [manifesto]{.headword} [ˌmænəˈfestəʊ] *n.* （政党的）宣言，声明
+
+**6. 用脚行走 pedestri 的人 -ian 是 pedestrian 步行者**
+
+- [pedestrian]{.headword} [pɪ'destrɪən] *n.* 行人 =walker
+
+**7. 脚 pede 被锁在脚镣里 im-，所以 impede 妨碍**
+
+- [impede]{.headword} [ɪm'pi:d] *vt.* 妨碍 = hinder, block, hamper
+- [impediment]{.headword} [ɪm'pedɪmənt] *n.* 阻碍 =obstacle
+
+**8. 在总统的脚 peach 上拴上 im- 脚镣，impeach 弹劾**
+
+- [impeach]{.headword} [ɪmˈpiːtʃ] *vt.* 弹劾
+- [impeachment]{.headword} [ɪmˈpiːtʃmənt] *n.* 弹劾
+
+**9. 解开 ex- 拴在脚 ped 上的脚镣，expedite 使进展（促进）**
+
+- [expedite]{.headword} [ˈekspədaɪt] *vt.* 使加速完成，促进
+- [expedient]{.headword} [ɪkˈspiːdiənt] *n.* 权宜之计，应急办法 *adj.* 权宜之计的，便利的
+- [expediency]{.headword} [ɪkˈspiːdiənsi] *n.* 方便，适宜
+- [expedition]{.headword} [ˌekspəˈdɪʃn] *n.* 考察，远征军
+
+**10. 把脚 pat 向远 dis- 伸 dispatch 送，派遣**
+
+- [dispatch]{.headword} [dɪsˈpætʃ] *vt.* 1. 配送，派遣；2. 迅速击败，战胜 = beat；*n.* 急件，派遣
+
+## Day 9
+
+**1. 向前 pro-推进 pel，propel 促进**
+
+- [propel]{.headword} [prəˈpel] *vt.* 推进，驱使
+- [propulsion]{.headword} [prəˈpʌlʃn] *n.* 推进，推进力
+- [propeller]{.headword} [prəˈpelə(r)] *n.* 螺旋桨，推进器
+
+**2. 用力 com-推出去 pel，compel 强迫**
+
+- [compel]{.headword} [kəmˈpel] *vt.* 强迫，迫使 = force
+- [compulsory]{.headword} [kəmˈpʌlsəri] *adj.* 强制的
+- [compulsion]{.headword} [kəmˈpʌlʃn] *n.* 强迫
+
+**3. 使推pel进im-，impel驱使~**
+
+- [impel]{.headword} [ɪmˈpel] *vt.* 推进，推动或敦促某人做某事
+- [impulse]{.headword} [ˈɪmpʌls] *n.* 冲动=urge
+- [instinct]{.headword} [ˈɪnstɪŋkt] *n.* 本能
+
+**4. 向外ex推pel，expel驱逐**
+
+- [expel]{.headword} [ɪkˈspel] *v.* 驱逐，赶走 = banish, deport
+- [expulsion]{.headword} [ɪkˈspʌlʃn] *n.* 驱逐，开除
+
+**5. 向后 re- 推 pel，repel 击退，使不愉快**
+
+- [repel]{.headword} [rɪˈpel] *vt.* 击退，使厌恶，使不愉快 = repulse
+- [repellent]{.headword} [rɪˈpelənt] *adj.* 令人厌恶的，令人排斥的 = repulsive, repugnant
+
+**6. 向……边 at- 拽 tract，attract 引起（关心），吸引**
+
+- [attract]{.headword} [ə'trækt] *vt.* 引起（好感或兴趣），吸引
+- [attraction]{.headword} [ə'trækʃn] *n.* 吸引，魅力，（吸引人的）名胜
+- [attractive]{.headword} [ə'træktɪv] *adj.* 有魅力的，引人注目的 = engaging, fascinating
+
+**7. 引 tract 到别的地方 dis-，distract 转移（注意力，关心）到别处**
+
+- [distract]{.headword} [dɪ'strækt] *vt.* 使分心；使混乱
+- [distraction]{.headword} [dɪ'strækʃn] *n.* 注意力分散；心烦意乱
+- [distraught]{.headword} [dɪ'strɔːt] *adj.* 心神错乱的，忧心如焚的
+
+**8. 向外ex-拉tract，extract抽出，抽取**
+
+- [extract]{.headword} [ɪkˈstrækt] *vt.* 提取，选取，获得
+- [extraction]{.headword} [ɪksˈtrækʃn] *n.* 提炼物，浓缩物
+
+**9. 一起con-拉出来tract，contract订约，收缩**
+
+- [contract]{.headword} [ˈkɒntrækt] *n.* 合同 *vi.& vt.* 订契约 *vi.* 收缩=shrink↔expand 膨胀
+- [contraction]{.headword} [kənˈtrækʃn] *n.* 收缩，缩减
+
+**10. 向后 re- 拽 tract、retract 取消、撤回**
+
+- [retract]{.headword} [rɪˈtrækt] *v.* 1. 撤回，撤销 = withdraw 2. 取消
+- [retraction]{.headword} [rɪˈtrækʃn] *n.* 收回，缩回
+
+## Day 10
+
+**1. 向前pro-走ceed，proceed前进，向前走**
+
+- [proceed]{.headword} [prə'si:d] *vi.* 前进，进行 = continue
+- [procedure]{.headword} [prə'si:dʒə] *n.* 程序，过程，工序
+- [process]{.headword} ['prəʊses] *n.* 过程，工序，工艺流程
+- [procession]{.headword} [prə'seʃn] *n.* 队伍，行列
+
+**2. 向前pre-走的ede，precede先行于，领先**
+
+- [precedent]{.headword} ['presɪdənt] *n.* 先例 ↔ unprecedented 史无前例的
+- [preceding]{.headword} [prɪ'siːdɪŋ] *adj.* 在前的，在先的 = previous
+
+**3. 向后re-走cede、recede后退**
+
+- [recede]{.headword} [rɪ'siːd] *v.* 后退，退出 = go back
+- [recession]{.headword} [rɪ'seʃn] *n.* 经济衰退，不景气 = depression
+- [recess]{.headword} [rɪ'ses] *n.* 休息时间
+
+**4. 向……边接近 cede，accede 同意**
+
+- [accede]{.headword} [ək'si:d] *vi.* 同意，应允 =agree
+- [accession]{.headword} [æk'seʃn] *n.* （对同盟、国际条约等的）正式加入，就职
+- [access]{.headword} ['ækses] *n.* 入口，出口；接近，进入
+
+**5. 向外 ex 超出 ceed，exceed 超越（范围），超过**
+
+- [exceed]{.headword} [ɪk'si:d] *vi.* 超越，超过 =surpass
+- [excess]{.headword} [ɪk'ses] *n.* 超过，超额量
+- [excessive]{.headword} [ɪk'sesɪv] *adj.* 过度的，极度的 =superfluous
+
+**6. 很多人来ven的地方，venue演出场地，举办地**
+
+- [venue]{.headword} [ˈvenjuː] *n.* 会场，（尤指）体育比赛场所
+
+**7. 每个人一起con来ven，convene聚集，集合**
+
+- [convene]{.headword} [kənˈviːn] *v.* 召集，聚集，传唤 =assemble, convoke
+- [convention]{.headword} [kənˈvenʃn] *n.* 1. 会议，集会；2. 惯例，习俗
+- [conventional]{.headword} [kənˈvenʃənl] *adj.* 传统的，习用的，平常的 =traditional
+
+**8. 再次 re 来 ven，revenue 收益**
+
+- [revenue]{.headword} [ˈrevənjuː] *n.* 1. 收益，利润=profit 2. 税收
+
+**9. 使（记忆、想法）出 sou 来 ven，souvenir 纪念品**
+
+- [souvenir]{.headword} [ˌsuːvəˈnɪə] *n.* 纪念品，礼物=momento
+
+**10. 进入 ven……中间 inter，intervene 介入**
+
+- [intervention]{.headword} [ɪntəˈvenʃn] *n.* 干涉，介入，干预
+
+## Day 11
+
+**1. 站 sist 在……一边，assist 帮助，搭手帮忙**
+
+- [assist]{.headword} [ə'sɪst] *vt.* 帮助，援助=help, aid
+- [assistance]{.headword} [ə'sɪstəns] *n.* 援助，辅助
+- [assistant]{.headword} [ə'sɪstənt] *n.* 助手，助教
+
+**2. 站在 sist 一起 con-，consist 构成**
+
+- [consistency]{.headword} [kən'sɪstənsi] *n.* 一致性
+- [consistent]{.headword} [kən'sɪstənt] *adj.* 一致的
+
+**3. 分开 de- 站 sist，desist 停止，终止**
+
+- [desist]{.headword} [dɪˈsɪst] *vi.* 停止，终止 =stop
+
+**4. 站在 sist 自己想法里 in-，insist 主张，坚持**
+
+- [insist]{.headword} [ɪnˈsɪst] *v.* 坚持，强调，坚决要求
+- [insistent]{.headword} [ɪnˈsɪstənt] *adj.* 坚持的，引人注意的
+
+**5. 在后面re-支撑站着sist，resist抵抗**
+
+- [resist]{.headword} [rɪ'zɪst] *vt.* 抵抗，抗拒=withstand
+- [resistance]{.headword} [rɪ'zɪstəns] *n.* 抵抗，阻力，抗力
+- [resistant]{.headword} [rɪ'zɪstənt] *n.* 有抵抗力的，抵抗的
+
+**6. 坐着sed，sedentary坐着，坐着工作**
+
+- [sedentary]{.headword} ['sedntərɪ] *adj.* 1. 坐着的，(指工作等)坐着干的；2. 定居的，不想移居的
+
+**7. 在 as-~（一直）坐着 sid，assiduous 勤勉的，诚实的**
+
+- [assiduous]{.headword} [ə'sɪdjuəs] *adj.* 刻苦的，勤勉的 =diligent, industrious
+- [assiduity]{.headword} [ˌæsɪ'djuːɪtɪ] *n.* 勤勉，刻苦
+
+**8. 遗留 sid 在后面 re-，residue 剩余，残余**
+
+- [residue]{.headword} [ˈrezɪdjuː] *n.* 残渣，剩余 =remnant, remainder
+
+**9. 坐在 sid 旁边 sub-给予帮助，subsidy 补贴**
+
+- [subsidy]{.headword} [ˈsʌbsɪdɪ] *n.* 补贴，津贴 =benefit
+- [subsidize]{.headword} [ˈsʌbsɪdaɪz] *vt.* 以津贴补助，支援 =support
+
+**10. 代替 super-坐上 sede，supersede 代替，取代**
+
+- [supersede]{.headword} [ˌsjuːpəˈsiːd] *v.* 取代，代替 = replace, substitute, supplant
+
+## Day 12
+
+**Day 12 折起来是plic，展开是tend**
+
+- [com-]{.headword} 一起 + **plic** 折(fold) + **-ated** 成为（折成很多层） → **complicated** 结构复杂的，混乱的
+- [dis-]{.headword} 相反 + **play** 折(fold)（将折起的东西展开） → **display** 展开，伸展，显示
+- [ex-]{.headword} 向外 + **plic** 折(fold) + **-it** 名词（向外折、展开的） → **explicit** 明确的、清楚的
+- [em-]{.headword} 里 + **ploy** 折(fold)（把（人）放在里面） → **employ** 雇用、利用
+- [du-]{.headword} 双 + **plic** 折(fold) + **-ate** 名词后缀（折成两层以使两部分相同） → **duplicate** 复制，使成双
+- [in-]{.headword} 里 + **tend** 展开(stretch)（在心里展开思考） → **intend** 意欲，计划
+
+**1. 折成plic很多层com-，complicated复杂的**
+
+- [complicated]{.headword} [ˈkɒmplɪkeɪtɪd] *adj.* 复杂的 = complex, knotty
+- [complication]{.headword} [ˌkɒmplɪˈkeɪʃn] *n.* 错杂，并发症
+- [complicate]{.headword} [ˈkɒmplɪkeɪt] *vt.* 使复杂化 ↔ simplify 使简单化
+
+**2. 把折叠plic的反过来dis-展开，display显示，展示**
+
+- [display]{.headword} [dɪˈspleɪ] *v.* 展览，展示 = show
+
+**3. 向外 ex- 折叠 plic 后展开，explicit 清楚的**
+
+- [explicit]{.headword} [ɪk'splɪsɪt] *adj.* 清楚的，明确的 = evident, obvious
+- [implicit]{.headword} [ɪm'plɪsɪt] *adj.* 不言明（含蓄）的，内含的 = implied
+
+**4. 把人放 ploy 在里面 im，employ 雇用**
+
+- [employ]{.headword} [ɪmˈplɔɪ] *vt.* 1. 雇用 =hire, engage ; 2. 使用，利用 =use
+- [employment]{.headword} [ɪmˈplɔɪmənt] *n.* 雇用，职业 ↔unemployment 失业
+- [employer]{.headword} [ɪmˈplɔɪə(r)] *n.* 雇主，老板，雇用者
+- [employee]{.headword} [ɪmˈplɔɪiː] *n.* 雇员，职工
+
+**5. 折plic成两层du-、使两部分一样，duplicate复制、复印**
+
+- [duplicate]{.headword} [ˈdjuːplɪkeɪt] *vt.* 复制；拷贝 =copy ; *adj.* 复制的，二倍的，副本的 *n.* 副本，复制品，复印件 =replica
+- [duplication]{.headword} [ˌdjuːplɪˈkeɪʃn] *n.* 复制，复本，重复
+
+**6. 在心里in-展开思考tend，intend打算**
+
+- [intend]{.headword} [ɪnˈtend] *vt.* 意欲，计划
+- [intention]{.headword} [ɪnˈtenʃn] *n.* 意图，目的
+- [intentional]{.headword} [ɪnˈtenʃənl] *adj.* 故意的，有意的 =deliberate
+- [intent]{.headword} [ɪnˈtent] *n.* 意图，目的
+
+**7. 身体向……边at-伸展tend，attend 1. 出席；2. 照顾**
+
+- [attend]{.headword} [əˈtend] *vt.* 出席，参加；*vi.* 照顾，致力于（与 on, to 搭配）
+- [attendance]{.headword} [əˈtəndəns] *n.* 出席，参加
+- [attentive]{.headword} [əˈtentɪv] *adj.* 注意的，周到的
+- [attendant]{.headword} [əˈtəndənt] *n.* 服务人员，随从，侍者
+
+**8. （想法或行动）向……展开tend，tendency倾向**
+
+- [tendency]{.headword} [ˈtendənsi] *n.* 倾向，趋势=trend
+- [tend to do sth.]{.headword} 倾向于做某事
+
+**10. （为了得到……）一起 com- 伸手 tend，contend 竞争**
+
+- [contend]{.headword} [kənˈtend] *vi.* 竞争，争夺 = compete
+- [contention]{.headword} [kənˈtenʃn] *n.* 竞争，争论，争夺
+- [contentious]{.headword} [kənˈtenʃəs] *adj.* 爱争论的，爱议论的 = quarrelsome；引起争论的，有争论的 = controversial
+
+**9. 向外ex-伸展tend，extend扩大，延伸**
+
+- [extend]{.headword} [ɪkˈstend] *vt.* 延伸，扩大
+- [extension]{.headword} [ɪkˈstenʃn] *n.* 延长，延期
+- [extensive]{.headword} [ɪkˈstensɪv] *adj.* 广大的，广阔的
+
+## Day 13
+
+**1. 把（心）清空van的状态，vanity虚荣，虚荣心**
+
+- [vain]{.headword} [veɪn] *adj.* 1. 徒劳的 =futile；2. 自负的 =too proud, conceited
+- [vanity]{.headword} [ˈvænɪtɪ] *n.* 虚荣，浮华，自负 =conceit
+
+**2. 位置空了van，vanish消失**
+
+- [vanish]{.headword} [ˈvænɪʃ] *vi.* 消失，突然不见 =disappear
+- [evanescent]{.headword} [ˌiːvəˈnesnt] *adj.* 容易消散的
+
+**3. 因为空着 vac，所以 vacant 空的，空着的**
+
+- [vacant]{.headword} [ˈveɪkənt] *adj.* 空闲的，空缺的 = empty, void
+- [vacancy]{.headword} [ˈveɪkənsi] *n.* 1. 空缺；2. 空房间
+- [vacation]{.headword} [vəˈkeɪʃn] *n.* 假期
+
+**4. 空着 vacu 的状态是 vacuum 1. 真空 2. 空白**
+
+- [vacuum]{.headword} [ˈvækjuəm] *n.* 1. 真空 2. 空白；*vt.* 用真空吸尘器清扫
+
+**5. 把人们送走 e- 清空 vacu 就是 evacuate 疏散，避难**
+
+- [evacuate]{.headword} [ɪˈvækjuet] *v.* 疏散，避难，撤离
+- [evacuation]{.headword} [ɪˌvækjuˈeɪʃn] *n.* 疏散，撤离，撤空
+
+**6. 没有不足 com- 充满 pel 的，complete 完全的，完整的，彻底的，填写（表格）**
+
+- [complete]{.headword} [kəm'pli:t] *adj.* 完全的=whole, entire；*vt.* 1. 完成，结束=finish；2. 填写（表格）=fill out
+- [completion]{.headword} [kəm'pli:ʃn] *n.* 完成，结束
+
+**7. 填满 ple 不足部分 com-, complement 补充；补足**
+
+- [complement]{.headword} ['kɒmplɪmənt] *n.* 1. 补充，补足 2. 补语；*vt.* 补足，补助，补充
+- [complementary]{.headword} [kɒmplɪ'mentərɪ] *adj.* 补足的，补充的，互补的
+
+**8. 清除掉 de- 填满的 ple 部分，deplete 使减少，枯竭**
+
+- [deplete]{.headword} [dɪ'pliːt] *vt.* 耗尽，使衰竭 =exhaust
+- [depletion]{.headword} [dɪ'pliːʃn] *n.* 消耗，耗减，用尽
+
+**9. 把时间和努力放进去 im- 并充满 ple，implement 执行；工具**
+
+- [implement]{.headword} ['ɪmplɪmənt] *v.* 实施，执行 =fulfill, carry out；*n.* 工具 =tool
+- [implementation]{.headword} [ˌɪmplɪmen'teɪʃn] *n.* 执行，履行
+
+**10. （位置）全部被占满 plen，plenary 1. 全员出席的 2. 完整的**
+
+- [plenary]{.headword} [ˈpliːnəri] *adj.* 1. 全体出席的 2. 完整的，完全的 = complete
+
+## Day 14
+
+**1. （使关心）转vert向ad-～，advertise广告**
+
+- [advertise]{.headword} [ˈædvətaɪz] *vt.* 做广告，做宣传
+- [advertisement]{.headword} [ˌædvərˈtaɪzmənt] *n.* 广告，宣传（简写ad.）
+- [advertiser]{.headword} [ˈædvətaɪzə(r)] *n.* 广告客户，登广告者
+
+**2. 转向vert别的地方a (b) -，avert（脸、视线）转移，躲避**
+
+- [avert]{.headword} [əˈvɜːt] *vt.* 转移（视线），避免（事故）=avoid
+- [averse]{.headword} [əˈvɜːs] *adj.* 反对的，不乐意的
+- [aversion]{.headword} [əˈvɜːʃn] *n.* 厌恶，讨厌的人或东西
+
+**3. 完全con-改变vert，convert转变**
+
+- [convert]{.headword} [kənˈvɜːt] *v.* 转变，改变 =change
+- [conversion]{.headword} [kənˈvɜːrʒn] *n.* 转换，变换
+- [convertible]{.headword} [kənˈvɜːtəbl] *adj.* 可改变的，可变换的
+
+**4. 转vert向别的地方di(s)-，divert改变（方向）**
+
+- [divert]{.headword} [daɪ'vɜːt] *vt.* 转移，改变（方向·用途），（使）转向
+- [diversion]{.headword} [daɪ'vɜːrʒn] *n.* 转移，消遣，分散注意力
+
+**5. 完全的 per-（不好地）改变 vert，pervert 使变质**
+
+- [pervert]{.headword} ['pəvɜːt] *vt.* 使堕落，使变质，滥用
+- [perverse]{.headword} [pə'vɜːs] *adj.* 不正当的，堕落的，故意作对的，有悖常情的
+
+**6. 完全地 con-转变 verse，converse 相反的，逆向的；对话**
+
+- [converse]{.headword} [kənˈvɜːs] *adj.* 相反的，颠倒的，逆的
+- [adverse]{.headword} [ˈædvɜːs] *adj.* 不利的，相反的，逆的
+- [adversity]{.headword} [ədˈvɜːsɪti] *n.* 逆境，不幸，灾难
+- [adversary]{.headword} [ˈædvəsəri] *n.* 敌手，对手
+
+**7. 向后 re- 转 verse、reverse 反面的，颠倒的**
+
+- [reverse]{.headword} [rɪˈvɜːs] *adj.* 反面的，颠倒的 = adverse, opposite
+- [reversal]{.headword} [rɪˈvɜːsl] *n.* 逆转，反转，颠倒
+
+**8. 改变 verse 成别的东西 di(s) 所以 diverse 多种多样的**
+
+- [diverse]{.headword} [daɪˈvɜːs] *adj.* 多种多样的，不同的 = various
+- [diversity]{.headword} [daɪˈvɜːsɪti] *n.* 多样性，多样化
+- [diversify]{.headword} [daɪˈvɜːsɪfaɪ] *vt.* 使多样化，多样化
+
+**9. 围绕一个 uni- 体系运转 verse, universal 普遍的**
+
+- [universal]{.headword} [ˌjuːnɪˈvɜːsl] *adj.* 普遍的，通用的，一般的 = general
+- [universality]{.headword} [ˌjuːnɪvɜːˈsæləti] *n.* 普遍性，通用性，一般性
+- [universe]{.headword} [ˈjuːnɪvɜːs] *n.* 宇宙
+- [university]{.headword} [ˌjuːnɪˈvɜːsɪti] *n.* 大学
+
+**10. (能力, 用途) 改变起来versa容易tile所以versatile多才多艺的，万能的**
+
+- [versatile]{.headword} ['vɜːsətaɪl] *adj.* 多才多艺的，多用途的，多功能的 =protean
+- [versatility]{.headword} ['vɜːsə'tɪlətɪ] *n.* 多才多艺，多用途
+
+## Day 15
+
+**1. 放在pose一起com-，compose 1. 构成，2. 编曲，写作，3.（使心情）平静**
+
+- [compose]{.headword} [kəmˈpəʊz] *vt.* 1. 构成，2. 编曲，写作，3.（使心情）平静
+- [component]{.headword} [kəmˈpəʊnənt] *n.* 成分，零件
+- [composition]{.headword} [kɒmpəˈzɪʃn] *n.* 作文，作曲，构成
+- [composer]{.headword} [kəmˈpəʊzə(r)] *n.* 作曲家
+- [composure]{.headword} [kəmˈpəʊʒə] *n.* 镇静，沉着
+
+**2. 放在pose外面ex-，expose 暴露**
+
+- [expose]{.headword} [ɪkˈspəʊz] *vt.* 揭露，揭发，使暴露，使曝光 *n.* 暴露
+- [exposure]{.headword} [ɪkˈspəʊʒə] *n.* 暴露，揭发，公开
+- [exposition]{.headword} [ekspəˈzɪʃn] *n.* 博览会，展览会
+
+**3. （把行李）放在 pose……的里面 im-，impose 征收**
+
+- [impose]{.headword} [ɪmˈpəʊz] *vt.* 征收（税金，罚金），征税 =levy, charge, fine
+- [imposition]{.headword} [ɪmpəˈzɪʃn] *n.* 税收，强加，过分的要求
+- [imposing]{.headword} [ɪmˈpəʊzɪŋ] *adj.* 壮观的，宏伟的，印象深刻的
+
+**4. 提出 pose 反对 op-（意见），oppose 反对**
+
+- [oppose]{.headword} [ə'pəʊz] *vt.* 反对，抵制，抗争 =object to, disagree with
+- [opposition]{.headword} [ɒpə'zɪʃn] *n.* 反对，敌对
+- [opponent]{.headword} [ə'pəʊnənt] *n.* 对手，敌手，反对者
+- [opposed]{.headword} [ə'pəʊzd] *adj.* 相反的，敌对的
+- [opposite]{.headword} ['ɒpəzɪt] *adj.* 对立的，相对的，对面的
+
+**5. （把想法）放在 pose 前面 pro-，propose 建议**
+
+- [propose]{.headword} [prə'pəʊz] *vt.* 提议、建议 =offer
+- [proposition]{.headword} [prɒpə'zɪʃn] *n.* 建议，主张，提案
+- [proponent]{.headword} [prə'pəʊnənt] *n.* 支持者，提倡者，拥护者
+- [proposal]{.headword} [prə'pəʊzl] *n.* 提议，建议，求婚
+
+**6. 各自分开 dis- 放 pose，dispose 1. 排列[分配]，2. 处理**
+
+- [disposition]{.headword} [dɪspə'zɪʃn] *n.* 性格，性情
+- [disposal]{.headword} [dɪ'spəʊzl] *n.* (事情的) 处置，清理
+- [disposable]{.headword} [dɪ'spəʊzəbl] *adj.* 一次性的，用后就抛弃的，可任意处理的
+- [dispose]{.headword} [dɪ'spəʊz] *vt.* 处置，安排 =arrange
+
+**7. （直接）表示 posi 意见，所以只能 positive 肯定的**
+
+- [positive]{.headword} ['pɒzətɪv] *adj.* 1. 积极的 ↔ negative 消极的 2. 肯定的 =certain
+
+**8. 把日子向后 post 移 pone，postpone 延期，推后**
+
+- [postpone]{.headword} [pəʊstˈpəʊn] *vt.* 使延期，延缓，推后 = delay, put off
+- [postponement]{.headword} [pəʊstˈpəʊnmənt] *n.* 延期，推迟
+
+**9. （把隐藏在里面的意思）放到 pound 外面 ex-，expound 说明**
+
+- [expound]{.headword} [ɪkˈspaʊnd] *v.* 详细讲解，解释 = explain, explicate
+
+**10. 衡量 pond（什么比较重要），ponder 仔细考虑**
+
+- [ponder]{.headword} [ˈpɒndə] *v.* 仔细考虑，沉思 = consider, muse, meditate, contemplate
+- [ponderous]{.headword} [ˈpɒndərəs] *adj.* （主题）沉重的
+
+## Day 16
+
+**1. 运送 fer 想法给某人 of-, offer 提议，提供**
+
+- [offer]{.headword} [ˈɔfə] *vt.* 提议，提供；*n.* 提议，提供
+
+**2. 先 pre- 选择，然后移动，prefer（两个中）更喜欢**
+
+- [prefer]{.headword} [prɪ'fɜː] *vt.* 更喜欢，偏好
+- [preference]{.headword} ['prefərəns] *n.* 偏爱，偏好，喜好
+- [preferable]{.headword} ['prefərəbl] *adj.* 更好的，更可取的，更合适的
+- [preferably]{.headword} ['prefərəbli] *adv.* 宁可，更好地，更可取地
+
+**3. 分离 dif 并搬运 fer，differ 不同**
+
+- [differ]{.headword} ['dɪfə] *vi.* 不同
+- [difference]{.headword} ['dɪfərəns] *n.* 差异，差别
+- [different]{.headword} ['dɪfərənt] *n.* 不同的，各式各样的 ↔ same 相同的
+- [differentiate]{.headword} [,dɪfə'renʃieɪt] *vi. vt.* 区别，区分，辨别
+- [differential]{.headword} [,dɪfə'renʃəl] *adj.* 差别的，特意的
+
+**4. 在下面 suf- 忍受 fer，suffer 1.经历、经受（不好的事情） 2.承受-苦痛、受难**
+
+- [suffer]{.headword} [ˈsʌfə] *vt.* 遭受，容忍，经历 = experience；*vi.* 遭受，受痛苦
+- [suffering]{.headword} [ˈsʌfərɪŋ] *n.* 受苦，遭难，苦楚
+
+**5. 一起 con- 运送 fer，confer 1.授予 2.协商**
+
+- [confer]{.headword} [kənˈfɜː] *vt.* 授予，颁与=bestow；*vi.* 商议，磋商=consult with
+- [conference]{.headword} [ˈkɒnfərəns] *n.* 会议，讨论
+
+**6. 向（国家）里面 im-移动 port，import 进口**
+
+- [import]{.headword} [ɪmˈpɔːt] *n.* 进口商品，进口；*vt.* 进口，输入
+- [export]{.headword} [ɪkˈspɔːt] *n.* 出口，输出，输出（出口）物；*vt.* 出口，输出
+
+**7. 从这边往那边 trans 运送 port，transport 运输（物品，人）**
+
+- [transport]{.headword} [træn'spɔːt] *n.* 运输；*vt.* 运输，运送 = convey
+- [transportation]{.headword} [trænspɔː'teɪʃn] *n.* 运输，运送
+
+**8. 在下面 sup- 支撑 port，support 支撑 [支持]**
+
+- [support]{.headword} [sə'pɔːt] *n.* 支持，支撑，维持；*vt.* 支撑，支持
+
+**9. 可以移动port的话，portable携带用的，手提的**
+
+- [portable]{.headword} [ˈpɔːtəbl] *adj.* 携带用的，手提的，轻便的
+
+**10. 远远de-移开port，deport放逐**
+
+- [deportation]{.headword} [ˌdiːpɔːˈteɪʃn] *n.* 驱逐出境，放逐
+
+## Day 17
+
+**1. 三番五次地ad-说-dict，addict上瘾；有瘾的人**
+
+- [addict]{.headword} [ˈædɪkt] *vt.* 使沉溺，使上瘾；*n.* 有瘾的人，入迷的人
+
+**2. 预言dica到未来pre-的困难，predicament困境，苦难**
+
+- [predicament]{.headword} [prɪˈdɪkəmənt] *n.* 困境，窘况 = hardship, plight, impasse
+
+**3. 发出 dicta 指示和命令的人 -tor，dictator 独裁者**
+
+- [dictator]{.headword} [dɪkˈteɪtə] *n.* 独裁者，发号施令者 = despot, autocrat, tyrant
+- [dictatorship]{.headword} [dɪkˈteɪtəʃɪp] *n.* 专政，独裁，独裁权
+
+**4. 反对 contra- 说 dict，contradict 反驳，和……矛盾**
+
+- [contradict]{.headword} [ˌkɒntrəˈdɪkt] *vi. vt.* 反驳，否认，驳斥 = rebut, refute
+- [contradiction]{.headword} [ˌkɒntrəˈdɪkʃn] *n.* 矛盾，反驳，否认
+- [contradictory]{.headword} [ˌkɒntrəˈdɪktəri] *adj.* 矛盾的，反驳的
+
+**5. 说 dicate…… in- 表示，indicate 指……，表示**
+
+- [indicate]{.headword} [ˈɪndɪkeɪt] *vt.* 指示，象征，表明 = represent
+- [indication]{.headword} [ɪndɪˈkeɪʃn] *n.* 指示，象征
+- [indicator]{.headword} [ˈɪndɪkeɪtə] *n.* 指示器，指标 = sign
+
+**6. 话脱fabul口而出的程度，fabulous非常优秀的，帅气的**
+
+- [fabulous]{.headword} [ˈfæbjʊləs] *adj.* 极好的，极妙的 = wonderful, marvelous
+
+**7. 接近 af-容易搭话 fable 所以 affable 和蔼可亲的**
+
+- [affable]{.headword} [ˈæfəbl] *adj.* 和蔼可亲的，友善的 = admiable, friendly
+- [affability]{.headword} [ˌæfəˈbɪlətɪ] *n.* 亲切，和蔼
+
+**8. 说了又说 loqua，loquacious 啰嗦的，多话的**
+
+- [loquacious]{.headword} [ləˈkweɪʃəs] *adj.* 爱说话的，多嘴的 = talkative, garrulous
+
+**9. 为了除去 apo-（错误）而说的话 log，apologize 道歉**
+
+- [apologize]{.headword} [əˈpɒlədʒaɪz] *vi.* 道歉，认错
+- [apology]{.headword} [əˈpɒlədʒi] *n.* 道歉
+
+**10. 把想法很好地表达 logu 出来 e-，eloquent 雄辩的、有说服力的**
+
+- [eloquent]{.headword} [ˈeləkwənt] *adj.* 雄辩的，有说服力的，有口才的
+- [eloquence]{.headword} [ˈeləkwəns] *n.* 口才，雄辩，辩才
+
+## Day 18
+
+**1. 从……边a-看到的面spect，aspect方面，面貌**
+
+- [aspect]{.headword} [ˈæspekt] *n.* 方面，面貌=facet
+
+**2. 环circum顾spect周围，circumspect慎重的，小心的**
+
+- [circumspect]{.headword} [ˈsɜːkəmspekt] *adj.* 谨慎小心的，周到的=careful, cautious
+- [circumspection]{.headword} [ˌsɜːkəmˈspekʃn] *n.* 细心，慎重
+
+**3. 向下 de- 看 spi，despise 轻视、蔑视**
+
+- [despise]{.headword} [dɪˈspaɪz] *vt.* 鄙视，看不起 = look down on, scorn
+- [despicable]{.headword} [dɪˈspɪkəbl] *adj.* 卑劣的，可鄙的 = contemptible
+
+**4. 向 ex-（前）眺望 (s)pect，expect 预期 [期待]**
+
+- [expect]{.headword} [ɪkˈspekt] *vt.* 1. 预期，期待 2. 怀孕
+- [expectation]{.headword} [ˌekspekˈteɪʃn] *n.* 预期，期待
+- [expectancy]{.headword} [ɪkˈspektənsi] *n.* 期望
+- [expectant]{.headword} [ɪkˈspektənt] *adj.* 期待的，预期的，期望的
+
+**5. 看spect里面in，inspect调查**
+
+- [inspect]{.headword} [ɪnˈspekt] *n.* 检查，调查 = look into, examine, investigate
+- [inspection]{.headword} [ɪnˈspekʃn] *n.* 检查，检验
+- [inspector]{.headword} [ɪnˈspektə] *n.* 检查员
+
+**6. 露在外面e-看得到vid，evident明显的，明白的**
+
+- [evident]{.headword} [ˈevɪdənt] *adj.* 明显的，明白的 = clear, obvious, distinct, manifest
+- [evidence]{.headword} [ˈevɪdəns] *n.* 证据
+- [evidential]{.headword} [ˌevɪˈdenʃəl] *adj.* 证据的，可作证据的，提供证据的
+
+**7. 不im-提前pro-看vise，improvise即兴创作，即兴表演**
+
+- [improvise]{.headword} [ˈɪmprəvaɪz] *v.* 即兴创作，即兴表演，临时做
+- [improvisation]{.headword} [ˌɪmprəvaɪˈzeɪʃn] *n.* 即兴创作，即兴演说，即兴作品
+
+**8. 再一次re-看vise既存的东西，revise改正，修正**
+
+- [revise]{.headword} [rɪˈvaɪz] *vt.* 改正，修正，修订=amend
+- [revision]{.headword} [rɪˈvɪʒn] *n.* 改正，修正，修改
+
+**9. 从上面向下 super- 看 vise，supervise 管理，监督**
+
+- [supervise]{.headword} [ˈsjuːpəvaɪz] *v.* 管理，监督 = manage, oversee
+- [supervision]{.headword} [ˌsjuːpəˈvɪʒən] *n.* 监督，管理
+
+**10. 可以看到远方的 vis 景色，vista 远景，前景**
+
+- [vista]{.headword} [ˈvɪstə] *n.* 远景，狭长的街景 = panorama
+
+## Day 19
+
+**1. 朝着 a-……呼吸 spire，aspire 渴望**
+
+- [aspire]{.headword} [ə'spaɪə] *vi.* 渴望，立志，追求 = crave, long for
+- [aspiration]{.headword} [ˌæspə'reɪʃn] *n.* 强烈的愿望，抱负，志向
+- [aspiring]{.headword} [ə'spaɪərɪŋ] *adj.* 有抱负的，有志气的
+
+**2. 向里 in-呼吸 spire，inspire 鼓舞；使产生灵感**
+
+- [inspire]{.headword} [ɪn'spaɪə] *vt.* 1. 鼓舞，激励 = encourage 2. 赋予灵感
+- [inspiration]{.headword} [ˌɪnspə'reɪʃn] *n.* 鼓舞人心的人或事，灵感
+- [inspiring]{.headword} [ɪn'spaɪərɪŋ] *adj.* 鼓舞人心的，激励的
+
+**3. 一起 con- 配合 spire 不好的事情，conspire 共谋，计划阴谋**
+
+- [conspire]{.headword} [kənˈspaɪə] *vi.* 搞阴谋，协力促成 =collude
+- [conspiracy]{.headword} [kənˈspɪrəsi] *n.* 阴谋，反叛，共谋
+
+**4. 如果呼吸 (s)pire 到外面 ex- 的话，expire 1. 死亡 2. (期限) 结束，到期**
+
+- [expire]{.headword} [ɪkˈspaɪə] *vi.* 1. 死亡 2. 到期，期满
+- [expiration]{.headword} [ˌekspɪˈreɪʃn] *n.* 满期，截止 =expiry
+
+**5. 反复 re- 呼吸 spire，respire 呼吸**
+
+- [respire]{.headword} [rɪ'spaɪə] *vi.* 呼吸
+- [respiration]{.headword} [ˌrespə'reɪʃn] *n.* 呼吸
+- [respiratory]{.headword} ['respərətɔːrɪ] *adj.* 呼吸的
+
+**6. 活着 anim 的状态 -ate，animate 活着；增添生命力**
+
+- [animate]{.headword} ['ænɪmeɪt] *adj.* 活的，有生命的，有生气的 =alive, living / *vt.* 使有生气，使动作栩栩如生的 =invigorate
+- [animation]{.headword} [ænɪ'meɪʃn] *n.* 活泼，生气，动画片制作
+- [animated]{.headword} ['ænɪmeɪtɪd] *adj.* 活生生的，有生气的 =lively
+
+**7. 思想anim成为一个un，unanimous全体一致**
+
+- [unanimous]{.headword} [juː'nænɪməs] *adj.* 全体一致的，一致同意的，无异议的
+- [unanimity]{.headword} [juːnə'nɪmɪtɪ] *n.* 全体一致，一致同意
+- [unanimously]{.headword} [juː'nænɪməsli] *adv.* 全体一致地，无异议地
+
+**8. 很多情绪anim的状态，animosity怨恨，敌意**
+
+- [animosity]{.headword} [ˌænɪˈmɒsɪti] *n.* 憎恨，仇恨，敌意=enmity, hostility, grudge
+- [animus]{.headword} [ˈænɪməs] *n.* 仇恨，意图
+
+**9. 因为拥有宽广 magn 的心 anim，magnanimous 宽大的，有雅量的**
+
+- [magnanimous]{.headword} [mæɡˈnænɪməs] *adj.* 宽宏大量的，有雅量的=tolerant
+- [magnify]{.headword} [ˈmæɡnɪfaɪ] *vt.* 放大
+- [magnificent]{.headword} [mæɡˈnɪfɪsənt] *adj.* 高尚的，壮丽的，华丽的
+
+**10. 抓住均衡 equ(a-) 的心理 anim 状态，equanimity 平静，镇定**
+
+- [equanimity]{.headword} [ˈekwəˈnɪmɪti] *n.* 平和，镇定 = composure, self-possession
+- [equivocal]{.headword} [ɪˈkwɪvəkəl] *adj.* 模棱两可的，模糊的，意义不明的
+- [equivalent]{.headword} [ɪˈkwɪvələnt] *adj.* 相等的，等价的，等效的
+
+## Day 20
+
+**1. 容易-ile破碎的frag，fragile易碎的**
+
+- [fragile]{.headword} [ˈfrædʒaɪl] *adj.* 易碎的，脆的，虚弱的 =brittle
+- [fragility]{.headword} [frəˈdʒɪləti] *n.* 易碎性，脆弱性，虚弱
+
+**2. fragile的缩略语frail脆弱的，易碎的**
+
+- [frail]{.headword} [freɪl] *adj.* 脆弱的，易碎的 =weak, feeble
+- [frailty]{.headword} [ˈfreɪlti] *n.* 虚弱，脆弱
+
+**3. 碎掉的frag是fragment碎片，碎块**
+
+- [fragment]{.headword} [ˈfræɡmənt] *n.* 碎片，碎块=shred ; *vi. vt.* 破碎，破裂，分裂
+- [fragmentary]{.headword} [ˈfræɡməntəri] *adj.* 碎片的
+
+**4. 打破fringe并进入到里面in-，infringe违法（法律），侵害（权利）**
+
+- [infringe]{.headword} [ɪnˈfrɪndʒ] *vi. vt.* 违法（规章等），侵害（某人的权利）=violate, transgress
+
+**5. 有（精神上的）不协调 fringe，fractious 易怒的**
+
+- [fractious]{.headword} [ˈfrækʃəs] *adj.* 易怒的，急躁的 =irritable
+- [fractiousness]{.headword} [ˈfrækʃəsnɪs] *n.* 易怒，性情暴戾
+
+**6. 放债的桌子 bank 被砸坏 rupt，bankrupt 破产**
+
+- [bankrupt]{.headword} [ˈbæŋkrʌpt] *adj.* 破产的，倒闭的 =insolvent
+- [bankruptcy]{.headword} [ˈbæŋkrʌptsi] *n.* 破产，倒闭
+
+**7. 道德完全cor-被破坏rupt，corrupt堕落的，腐败的**
+
+- [corrupt]{.headword} [kəˈrʌpt] *adj.* 堕落的，腐败的 = immoral, depraved
+- [corruption]{.headword} [kəˈrʌpʃn] *n.* 腐败，堕落，腐化
+
+**8. 砸成rupt碎片不能dis-用，disrupt阻止，阻碍**
+
+- [disrupt]{.headword} [dɪsˈrʌpt] *vt.* 阻止，破坏，使混乱 = prevent, hinder, deter
+- [disruption]{.headword} [dɪsˈrʌpʃn] *n.* 毁坏，瓦解，分裂
+- [disruptive]{.headword} [dɪsˈrʌptɪv] *adj.* 破坏的，分裂性的，扰乱的
+
+**9. 打破rupt出来ex-, erupt喷出**
+
+- [erupt]{.headword} [ɪˈrʌpt] *vi.* 爆发，喷出
+- [eruption]{.headword} [ɪˈrʌpʃn] *n.* 爆发，喷发
+
+**10. 爆破rupt就是rupture 1. 破裂; 2. 分裂, 不合**
+
+- [rupture]{.headword} [ˈrʌptʃə] *n.* 1. 破裂 2. 分裂，不合，友好关系的决裂 = conflict
+
+## Day 21
+
+**1. 很多种一起 con- 倾倒 fuse 的话，confuse 混乱，困惑**
+
+- [confuse]{.headword} [kənˈfjuːz] *vt.* 使混乱，使困窘，使困惑 =confound
+- [confusion]{.headword} [kənˈfjuːʒən] *n.* 混乱，混淆，困惑
+- [confusing]{.headword} [kənˈfjuːzɪŋ] *adj.* 令人困惑的，混乱的，混淆的
+
+**2. 向各个方向 dif 洒落 fuse，diffuse（光、热等）扩散，分散**
+
+- [diffuse]{.headword} [dɪˈfjuːs] *vi. vt.* （光、热、液体等）扩散，使分散 =spread, scatter, disperse
+- [diffusion]{.headword} [dɪˈfjuːʒən] *n.* 扩散，传播
+
+**3. 向里面 in-倒 fuse，infuse 注入、灌输**
+
+- [infuse]{.headword} [ɪn'fjuːz] *vt.* 注入，灌输，使充满 =imbue
+- [infusion]{.headword} [ɪn'fjuːʒən] *n.* 注入，灌输，泡制
+
+**4. 过了量，向前边 pro-洒出来 fuse，profuse（量）多的，过多的**
+
+- [profuse]{.headword} [prə'fjuːs] *adj.* （量）多的，毫不吝惜的，慷慨的 =excessive
+- [profusion]{.headword} [prə'fjuːʒən] *n.* 丰富，充沛，慷慨，大方
+
+**5. 用过的东西再re-倒掉fuse，refuse垃圾；拒绝**
+
+- [refuse]{.headword} [rɪˈfjuːz] *n.* 废物，垃圾 = garbage, trash, rubbish
+
+**6. 话说得像流水flu水一样，fluent流畅的**
+
+- [fluent]{.headword} [ˈfluːənt] *adj.* 流畅的，流利的 = glib
+- [fluency]{.headword} [ˈfluːənsi] *n.* （尤指外语）流畅，流利
+
+**7. 很多水的流动 floo-、flood 1. 洪水 2. 一大批**
+
+- [flood]{.headword} [flʌd] *n.* 1. 洪水 = deluge 2. 大批涌入 = avalanche
+- [flooding]{.headword} [ˈflʌdɪŋ] *n.* 泛滥
+
+**8. (钱)从 af-~流出 flu 的话 affluent 富裕的，富有的**
+
+- [affluent]{.headword} [ˈæfluənt] *adj.* 富裕的，富足的 = rich, wealthy
+- [affluence]{.headword} [ˈæfluəns] *n.* 富裕，生活优裕
+
+**9. 流 flu 到里面 in- 去，influence 影响；产生影响**
+
+- [influence]{.headword} [ˈɪnfluəns] *n.* 影响 = impact
+
+**10. 向上super-溢出来flu，superfluous多余的，不必要的**
+
+- [superfluous]{.headword} [suːˈpɜːfluəs] *adj.* 多余的，不必要的，过多的 = unnecessary, redundant
+- [superfluity]{.headword} [ˌsuːpəˈfluːəti] *n.* 过多，过剩，剩余物
+
+## Day 22
+
+**1. tag, tac是touch**
+
+- [con-]{.headword} 一起 + **tac(t)** 接触(touch)（一起（相互）接触）→ **contact** 接触、联系
+- [tang]{.headword} 接触(touch) + **-ible** 可以（可以抚摸的）→ **tangible** 可触知的，确实的
+
+**2. 相互con-接触tag转移，contagious（接触）传染性的**
+
+- [contagious]{.headword} [kənˈteɪdʒəs] *adj.* （接触）传染性的，传染病的，有感染力的
+- [contagion]{.headword} [kənˈteɪdʒən] *n.* 传染，接触传染
+- [contagiousness]{.headword} [kənˈteɪdʒəsnɪs] *n.* 接触传染性
+- [infectious]{.headword} [ɪnˈfekʃəs] *adj.* 传染的，易传染的，有传染性的
+
+**3. 很多人con-（乱）摸的话tamin，contaminate弄脏**
+
+- [contaminate]{.headword} [kənˈtæmɪneɪt] *vt.* 弄脏，污染，损害 = pollute, taint
+- [contamination]{.headword} [kənˌtæmɪˈneɪʃn] *n.* 污染，弄脏
+- [contaminant]{.headword} [kənˈtæmɪnənt] *n.* 污染物
+
+**4. 手没in-碰到tac，intact未受损伤的，（原封不动）完整的**
+
+- [intact]{.headword} [ɪnˈtækt] *adj.* 完整无缺的，未受损伤的，原封不动的 = undamaged
+
+**5. 可以-ible摸tang的，tangible具体的，切实的**
+
+- [tangible]{.headword} [ˈtændʒɪbl] *adj.* 具体的，实际的，可触知的 = evident, obvious, manifest
+- [tangibility]{.headword} [ˌtændʒəˈbɪlətɪ] *n.* 确切性
+
+**6. 心思向sent……处as-，assent同意；同意赞成**
+
+- [assent]{.headword} [əˈsent] *n.* 同意，赞同；*vi.* 赞成，赞同 = agree to
+- [consent]{.headword} [kənˈsent] *n.* 同意，赞同，准许；*vi.* 同意，赞成
+
+**7. 感觉sent不同dis-，dissent反对**
+
+- [dissent]{.headword} [dɪˈsent] *n.* 异议，意见的分歧；*vi.* 不同意，持异议 = disagree
+- [dissension]{.headword} [dɪˈsenʃn] *n.* 纠纷，不合，争吵
+
+**8. 感受到sent强烈的re-情绪，resent对……生气，愤慨**
+
+- [resentment]{.headword} [rɪˈzentmənt] *n.* 愤恨，不满
+
+**9. 形成sent相同的con-意见，consensus（意见的）一致，合意**
+
+- [consensus]{.headword} [kənˈsensəs] *n.* （意见的）一致，合意，舆论=agreement
+
+**10. 可以-ible（准确地）感知sens，sensible 1.明智的 2.可感觉的**
+
+- [sensible]{.headword} [ˈsensɪbl] *adj.* 1. 明智的 =wise, sagacious 2. 能感觉到的，意识到的，明显的 =noticeable
+- [sensibility]{.headword} [ˌsensɪˈbɪlɪtɪ] *n.* 敏感性，灵敏度，情感
+
+## Day 23
+
+**Day 23 呼喊是claim，发表是nounce**
+
+- [exclaim]{.headword} [ɪkˈskleɪm] *v.* 呼喊，惊叫，大声说 = cry, yell, shout
+- [proclaim]{.headword} [prəˈkleɪm] *vt.* 1. (正式的) 宣告，宣告，公布 = declare 2. 表明 = show clearly
+- [disclaim]{.headword} [dɪsˈkleɪm] *vt.* 否认 = deny
+- [reclaim]{.headword} [rɪˈkleɪm] *vt.* 要求收回，收回；开拓；开垦；回收利用
+- [pronounce]{.headword} [prəˈnaʊns] *vt.* 1. 发音 2. 表达（意见），发表
+- [denounce]{.headword} [dɪˈnaʊns] *vt.* 1. 公开指责 = criticize 2. 告发
+- [enunciate]{.headword} [ɪˈnʌnsieɪt] *vt.* 1. (清楚地) 发音 2. (明确地) 说明
+- [renounce]{.headword} [rɪˈnaʊns] *vt.* 放弃，断绝想法 =give up, abandon
+
+**1. 向外 ex- 呼喊 claim，exclaim 呼喊**
+
+- [exclamation]{.headword} [ˌekskləˈmeɪʃn] *n.* 叫喊，感叹
+
+**2. 向前 pro- 呼喊 claim，proclaim 1. (正式的) 宣布，宣告 2. 表明**
+
+- [proclamation]{.headword} [ˌprɒkləˈmeɪʃn] *n.* 公告，宣告，公布
+
+**3. 向着 ac 呼喊 claim，acclaim 欢呼，喝彩**
+
+- [acclaimed]{.headword} [əˈkleɪmd] *adj.* 受到称赞的、受到欢呼的
+
+**4. 喊 claim 着说不是 dis-，disclaim 否认**
+
+- [disclaimer]{.headword} [dɪsˈkleɪmə] *n.* 否认声明，免责声明
+
+**5. 要求claim重新回来re-，reclaim要求归还；找回；开垦；回收利用**
+
+- [reclamation]{.headword} [ˌrekləˈmeɪʃn] *n.* 开垦，开拓，改造
+
+**6. 发表nounce了an-，announce通知，宣布**
+
+- [announce]{.headword} [əˈnaʊns] *vt.* 述说，宣布，声称 =declare
+- [announcement]{.headword} [əˈnaʊnsmənt] *n.* 通告，布告，宣告
+
+**7. 向前 pro- 发表 nounce，pronounce 1.发音 2.表达（意见），发表**
+
+- [pronunciation]{.headword} [prəˌnʌnsiˈeɪʃn] *n.* 发音，读法
+- [pronouncement]{.headword} [prəˈnaʊnsmənt] *n.* 声明，宣告，公告
+
+**8. 向下 de- 贬低发表 nounce，denounce（公然）抨击**
+
+- [denunciation]{.headword} [dɪˌnʌnsiˈeɪʃn] *n.* 谴责，弹劾，指责
+
+**9. 向外ex-（明确地）宣布nunci，enunciate 1.清晰地发音2.（明确地）说明**
+
+- [enunciation]{.headword} [ɪˌnʌnsiˈeɪʃn] *n.* 表明，宣言
+
+**10. 发表nounce说要退到后面re-，renounce放弃，断绝想法**
+
+- [renunciation]{.headword} [rɪˌnʌnsiˈeɪʃn] *n.* 放弃，抛弃；自我克制
+
+## Day 24
+
+**1. ject 是 throw**
+
+- [ab-]{.headword} 远远地 + **ject** 扔(throw)（身份）被扔得远远的 → **abject**（指境况）凄惨的
+- [pro-]{.headword} 向前 + **ject** 扔(throw) 向前扔 → **project** 发射
+- [re-]{.headword} 向后 + **ject** 扔(throw) 向后扔 → **reject** 拒绝，抛弃
+
+**2. mit, mis 是 send**
+
+- [e(x)-]{.headword} 向外 + **mit** 送(send) 向外放出 → **emit** 发出（光，热等），发射
+
+**1. 身份被扔得ject远远的ab-，abject 1.悲惨的 2.卑屈的**
+
+- [abject]{.headword} [ˈæbdʒekt] *adj.* 1. 凄惨的 = miserable, wretched 2. 卑屈的，下贱的 = servile
+
+**2. 心情被向下de-扔jected，dejected 沮丧的，失望的**
+
+- [dejected]{.headword} [dɪˈdʒektɪd] *adj.* 沮丧的，失望的 = depressed, despondent, downcast
+- [dejection]{.headword} [dɪˈdʒekʃn] *n.* 沮丧，失意
+
+**3. 把想法一起 con- 扔出来 ject 看看，conjecture (名) 推测；(动) 推测**
+
+- [conjecture]{.headword} [kənˈdʒektʃə] *n.* 推测，猜想 = assumption
+
+**4. 向前 pro- 扔 ject，project 1.发射；映射 2.计划；预测 3.突出**
+
+- [project]{.headword} [ˈprɒdʒekt] *vt.* 1. 发射（导弹，火箭等）；放映，投射 2. 计划；预测
+- [projection]{.headword} [prəˈdʒekʃn] *n.* 预测；投射；突起物
+- [projector]{.headword} [prəˈdʒektə] *n.* 放映机，幻灯机，投影仪
+
+**5. 向后re-扔ject，reject拒绝**
+
+- [reject]{.headword} [rɪˈdʒekt] *vt.* 拒绝 =refuse, turn down
+- [rejection]{.headword} [rɪˈdʒekʃn] *n.* 拒绝；摒弃；剔除物
+
+**6. 把……一起（完全）com-送走mit，commit 1.犯（罪）2.承诺（一心一意）3.托付**
+
+- [commitment]{.headword} [kəˈmɪtmənt] *n.* 承诺，许诺；委任，委托，献身 = devotion
+- [committee]{.headword} [kəˈmɪti] *n.* 委员会，全体委员 = board
+- [commission]{.headword} [kəˈmɪʃn] *n.* 委员会；委任；手续费
+
+**7. 远远地 dis-送走 miss，dismiss 1. 不理睬；断然拒绝（提案、刁难） 2. 解雇**
+
+- [dismiss]{.headword} [dɪsˈmɪs] *vt.* 1. 不理睬；断然拒绝（提案、指责） 2. 解雇 = fire
+- [dismissal]{.headword} [dɪsˈmɪsl] *n.* 解雇，免职
+
+**8. 向外 e- 放出 mit，emit (光、热、气体等) 发出，散发**
+
+- [emit]{.headword} [ɪ'mɪt] *vt.* (光、热、气体等) 发出，散出 =give off
+- [emission]{.headword} [ɪ'mɪʃn] *n.* 排放物，散发物 (尤指气体)
+- [emissary]{.headword} ['emɪsəri] *n.* 使者，特使
+
+**9. 向后 re- 送回来 mit，remit 1. 汇款 2. 免除 (债务，处罚)**
+
+- [remit]{.headword} [rɪ'mɪt] *vt.* 1. 汇款 =wire ; 2. 免除 (债务、处罚) =absolve ; 3. 宽恕，原谅
+- [remittance]{.headword} [rɪ'mɪtəns] *n.* 汇款，汇款额
+- [remiss]{.headword} [rɪ'mɪs] *adj.* 玩忽职守的，马虎 =negligent
+
+**10. 送到mit……的下面sub-，submit 1.提交 2.遵从，服从**
+
+- [submit]{.headword} [səb'mɪt] *vt.* 提交 =tender, hand in
+- [submission]{.headword} [səb'mɪʃn] *n.* 服从，提交
+- [submissive]{.headword} [səb'mɪsɪv] *adj.* 唯命是从的，顺从的 =obedient
+
+## Day 25
+
+**1. 可以盛 cap 的大小 -city，capacity 1.容量 2.能力**
+
+- [capacity]{.headword} [kəˈpæsɪtɪ] *n.* 1. 容量；生产能力 2. 能力 =ability, capability, caliber
+- [at full capacity]{.headword} 满功率，满负载，以全部力量
+- [capacious]{.headword} [kəˈpeɪʃəs] *adj.* 宽敞的，气度宏大的 =spacious, commodious
+
+**2. 使之成为爱情的俘虏 captiv，captivate 迷惑**
+
+- [captivate]{.headword} [ˈkæptɪveɪt] *vt.* 迷惑，迷住 =allure, enchant, mesmerize
+- [captivating]{.headword} [ˈkæptɪveɪtɪŋ] *adj.* 迷人的，有魅力的，有吸引力的 =attractive
+- [captive]{.headword} [ˈkæptɪv] *n.* 俘虏，战俘
+
+**3. 提前anti-有了想法cip，anticipate预期、预测**
+
+- [anticipate]{.headword} [ænˈtɪsɪpeɪt] *vt.* 预料，期待 = expect, predict, foresee
+- [anticipation]{.headword} [æntɪsɪˈpeɪʃn] *n.* 预期，期待
+
+**4. 心里怀着ceit的认为自己优秀con-的想法，conceit自负，狂妄**
+
+- [conceit]{.headword} [kənˈsiːt] *n.* 自负，自大 = self-importance
+- [conceited]{.headword} [kənˈsiːtɪd] *adj.* (人) 自负的 ↔ humble 谦虚的
+
+**5. 明确地找到感觉ceive，perceive认知，感知**
+
+- [perceive]{.headword} [pəˈsiːv] *vt.* 认知，感知
+- [perception]{.headword} [pəˈsepʃn] *n.* 知觉，觉察（力）
+- [perceptive]{.headword} [pəˈseptɪv] *adj.* 感知的，有理解力的，有知觉力的
+- [perceptible]{.headword} [pəˈseptɪbl] *adj.* 可感觉（感受）到的，可理解的，可认识的
+
+**6. 一起con-抓着tain，contain 1. 装着，含有 2. 抑制（感情）**
+
+- [contain]{.headword} [kənˈteɪn] *vt.* 1. 包含，容纳 2. 抑制（感情）= suppress
+- [container]{.headword} [kənˈteɪnə] *n.* 集装箱，容器，货柜
+- [containment]{.headword} [kənˈteɪnmənt] *n.* 牵制，包含，容量
+
+**7. 抓住 tain 从……掉落 abs- 的自己，abstain 1. 节制，自制 2. 放弃**
+
+- [abstain]{.headword} [əbˈsteɪn] *vi.* 1. 戒（尤指酒），戒除 2. 弃权
+- [abstinence]{.headword} [ˈæbstɪnəns] *n.* 节制，节欲，戒酒
+- [abstinent]{.headword} [ˈæbstɪnənt] *adj.* 有节制的，饮食有度的，禁欲的
+
+**8. 紧紧地抓着 tain 使之不能离开，detain 拘留，拘禁**
+
+- [detain]{.headword} [dɪˈteɪn] *vt.* 拘留，拘禁，扣留 =confine
+- [detention]{.headword} [dɪˈtenʃn] *n.* 拘留，扣押
+- [detainee]{.headword} [ˌdiːteɪˈniː] *n.* 被拘留者，未判决囚犯
+
+**9. 一直抓tain在手里main，maintain 1.维持 2.主张**
+
+- [maintain]{.headword} [meɪnˈteɪn] *vt.* 1. 维持，保持 2. 主张 =assert
+- [maintenance]{.headword} [ˈmeɪntənəns] *n.* 维修，维护
+
+**10. 紧紧地抓着tena自己的意见，tenacious固执的，顽固的**
+
+- [tenacious]{.headword} [tɪˈneɪʃəs] *adj.* 固执的，坚决的，顽强的 =stubborn, obstinate
+- [tenacity]{.headword} [tɪˈnæsɪtɪ] *n.* 固执，坚持，不屈不挠
+
+## Day 26
+
+**1. 因为有尽头 fin，finite 有限的**
+
+- [finite]{.headword} [ˈfaɪnaɪt] *adj.* 有限的 =limited
+
+**2. 因为没有 in- 尽头 finite，infinite 无限的**
+
+- [infinite]{.headword} [ˈɪnfɪnɪt] *adj.* 无限的，无穷的，无数的 =endless, unlimited
+- [infinity]{.headword} [ɪnˈfɪnɪti] *n.* 无穷大
+
+**3. 明确地 con- 定下尽头 fine，confine 限制，禁闭**
+
+- [confine]{.headword} [kənˈfaɪn] *vt.* 限制，局限于，禁闭 = limit, restrict
+- [confined]{.headword} [kənˈfaɪnd] *adj.* 受限制的，（指空间）有限的
+- [confinement]{.headword} [kənˈfaɪnmənt] *n.* 限制，监禁
+
+**4. 确定（意思的）结尾 fine，define 下定义，规定**
+
+- [define]{.headword} [dɪˈfaɪn] *vt.* 下定义，规定
+- [definition]{.headword} [ˌdefɪˈnɪʃn] *n.* 定义，规定
+- [definite]{.headword} [ˈdefɪnɪt] *adj.* 确切的，一定的，肯定
+
+**5. 使之更re-好的fine，refine精制，改善**
+
+- [refine]{.headword} [rɪˈfaɪn] *vt.* 提炼，改善 =improve, enhance
+- [refined]{.headword} [rɪˈfaɪnd] *adj.* 精炼的，精制的
+
+**6. 结束termin-掉，terminate结束，终结**
+
+- [terminate]{.headword} [ˈtɜːmɪneɪt] *vt.* 结束、终结 =end
+- [termination]{.headword} [ˌtɜːmɪˈneɪʃn] *n.* 结束，终止 =abortion
+
+**7. 无法in结束termin，interminable无止境的，冗长的**
+
+- [interminable]{.headword} [ɪnˈtɜːmɪnəbl] *adj.* 无止境的，冗长的，没完没了 = endless, boring
+- [terminator]{.headword} （名词）终结者、终结器
+
+**8. 由termin缩略而成的单词term 1.期限 2.术语，用语 3.（复数）关系，条件**
+
+- [term]{.headword} [tɜːm] *n.* 1. 期限 2. 术语，用语 3. (复数) 关系，条件
+
+**9. 明确地 de- 结束 termin（心里所想的），determine 决定 [下决心]**
+
+- [determine]{.headword} [dɪˈtɜːmɪn] *vt.* 确定，(使)做出决定，下决心 = decide
+- [determination]{.headword} [dɪˌtɜːmɪˈneɪʃn] *n.* 决定，决心
+- [determined]{.headword} [dɪˈtɜːmɪnd] *adj.* 坚定的，毅然的，确定的
+
+**10. 赶到外面 ex- 消除 termin，exterminate 消灭，杀灭（害虫等）**
+
+- [exterminate]{.headword} [ɪkˈstɜːmɪneɪt] *vt.* 消灭，根除（害虫等）= eradicate, extirpate
+- [extermination]{.headword} [ɪkˌstɜːmɪˈneɪʃn] *n.* 消灭，根绝
+- [exterminator]{.headword} *n.* 杀虫剂，灭鼠药；灭鼠的人
+
+## Day 27
+
+**1. 反复 re- 明确地 co- 知道 gn (o)，recognize 认出；识别；认证**
+
+- [recognize]{.headword} [ˈrekəɡnaɪz] *vt.* 1. 认出，识别 = notice 2. 承认，确认 = acknowledge formally
+- [recognition]{.headword} [ˌrekəɡˈnɪʃn] *n.* 识别，认识；承认，认可
+- [recognizable]{.headword} [ˌrekəɡˈnaɪzəbl] *adj.* 可识别的，可认识的，可承认的
+
+**2. 明确地 co- 知道 gn (i)，cognizant 理解的，认识到的**
+
+- [cognizant]{.headword} [ˈkɒɡnɪzənt] *adj.* 理解的，认识到的 = aware, conscious, mindful
+- [cognizance]{.headword} [ˈkɒɡnɪzəns] *n.* 认识，审理，认定
+- [cognizable]{.headword} [ˈkɒɡnɪzəbl] *adj.* 可辨识的，可以审理的
+
+**3. 明确地 dia- 了解 gno，diagnose 诊断，判断**
+
+- [diagnose]{.headword} [ˈdaɪəɡnəʊz] *vt.* 诊断，判断
+- [diagnosis]{.headword} [ˌdaɪəɡˈnəʊsɪs] *n.* 诊断
+
+**4. 提前 pro- 知道 gno 的，prognosis 预知，预测**
+
+- [prognosis]{.headword} [prɒɡˈnəʊsɪs] *n.* 预知，预测，预后 = prediction, prophecy, forecasting
+- [prognosticate]{.headword} [prɒɡˈnɒstɪkeɪt] *v.* 预言，预示
+
+**5. 告知的 not 是 notice 布告，通知；注意到**
+
+- [notice]{.headword} [ˈnəʊtɪs] *n.* 布告，通知
+- [noticeable]{.headword} [ˈnəʊtɪsəbl] *adj.* 显而易见的，明显的，显著的 = marked, salient
+
+**6. 让 -ify 知道 not 的，notify 告知，通知**
+
+- [notify]{.headword} [ˈnəʊtɪfaɪ] *vt.* 告知，通知 = apprise, inform
+- [notification]{.headword} [ˌnəʊtɪfɪˈkeɪʃn] *n.* 通知，通知单，布告
+
+**7. 被知道not，noted著名的**
+
+- [noted]{.headword} [ˈnəʊtɪd] *adj.* 著名的，闻名的 = famous, eminent
+
+**8. （在不好的方面）有声誉not，notorious臭名昭著的**
+
+- [notorious]{.headword} [nəʊ'tɔːrɪəs] *adj.* 臭名昭著的，臭名远扬的，声名狼藉的 =infamous
+- [notoriety]{.headword} [nəʊtə'raɪɪtɪ] *n.* 恶名，丑名，臭名昭著
+
+**9. 明确地 con- 知道 sci，conscious 意识到的，知道的**
+
+- [conscious]{.headword} ['kɒnʃəs] *adj.* 有意识的，神志清醒的，自觉的 =knowing, aware, mindful
+- [consciousness]{.headword} ['kɒnʃəsnɪs] *n.* 意识，观念，知觉
+
+**10. 自己明确 con- 知道 sci 的，conscience 良心**
+
+- [conscience]{.headword} ['kɒnʃəns] *n.* 良心，道德心=scruple
+- [conscientious]{.headword} [ˌkɒnʃi'enʃəs] *adj.* 本着良心的，认真负责的
+
+## Day 28
+
+**1. 名词指“市场”、动词指“推出”的 market 市场，推出商品，宣传**
+
+- [market]{.headword} [ˈmɑːkɪt] *n.* 市场 *v.* 推出（商品），宣传
+
+**2. market 的形容词 marketable 商品畅销的**
+
+- [marketable]{.headword} [ˈmɑːkɪtəbl] *adj.* 畅销的，有市场发展潜力的
+- [marketability]{.headword} [ˌmɑːkɪtəˈbɪləti] *n.* 适销性，可销售性
+- [marketing]{.headword} [ˈmɑːkɪtɪŋ] *n.* 销售，市场学
+- [sell like hot cakes]{.headword} 热销
+
+**3. market的mark变成merch之义的单词merchant商人**
+
+- [merchant]{.headword} [ˈmɜːtʃənt] *n.* 商人
+- [merchandise]{.headword} [ˈmɜːtʃəndaɪz] *n.* 商品，货物 = goods, commodity
+- [merchandising]{.headword} [ˈmɜːtʃəndaɪzɪŋ] *n.* 销售规划，促销
+
+**4. 在market所进行的相互活动commerce商业、交易**
+
+- [commerce]{.headword} [ˈkɒmɜːs] *n.* 商业，交易
+- [commercial]{.headword} [kəˈmɜːʃl] *adj.* 商业的，商业性的 *n.* 商业广告
+
+**5. 像 merchant 一样追求钱财的 mercenary 追求钱财；佣兵**
+
+- [mercenary]{.headword} [ˈmɜːsɪnəri] *adj.* 赚钱，只对钱感兴趣 *n.* 佣兵
+
+**6. 物品交易时的价钱 price 价值、价格**
+
+- [price]{.headword} [praɪs] *n.* 价值，价格
+
+**7. 无法估量的 price，priceless 无价的**
+
+- [priceless]{.headword} [ˈpraɪslɪs] *adj.* 无价的 =invaluable
+- [precious]{.headword} [ˈpreʃəs] *adj.* 珍贵的 ※ priceless 无价的 > precious 珍贵的
+
+**8. 估量某物的 price 叫做 appraise 评价**
+
+- [appraise]{.headword} [əˈpreɪz] *vt.* 评价=evaluate, assess, estimate
+- [appraisal]{.headword} [əˈpreɪzl] *n.* 评价，鉴定
+
+**9. 赋予……价值的 appreciate 承认……的价值，感激**
+
+- [appreciation]{.headword} [əˌpriːʃiˈeɪʃn] *n.* 1. (书面的) 鉴定，欣赏，鉴赏 2. 感激 3. (价值) 增加
+- [appreciative]{.headword} [əˈpriːʃiətɪv] *adj.* 1. 有鉴赏力的 2. 感激的
+- [appreciable]{.headword} [əˈpriːʃəbl] *adj.* 可察觉的，可观的=significant
+
+**10. 降低 price 的 depreciate 跌价，降低……的价值**
+
+- [depreciate]{.headword} [dɪˈpriːʃieɪt] *v.* 价值降低，折价 ↔ appreciate 认证
+- [depreciation]{.headword} [dɪˌpriːʃiˈeɪʃn] *n.* 1. 贬值 2. 轻视
+
+## Day 29
+
+**1. 喝水或喝酒的 drink 喝**
+
+- [drink]{.headword} [drɪŋk] *v.* 喝，喝（酒） *n.* 饮料，喝的东西；（一杯）酒
+
+**2. drink 的过去分词 drunk 喝醉了的**
+
+- [drunk]{.headword} [drʌŋk] *adj.* 喝醉了的 *n.* 酒鬼 = drunkard
+
+**3. 淋了一身水叫做 drench 湿透**
+
+- [drench]{.headword} [drentʃ] *vt.* 湿透 =saturate,soak
+- [drenched]{.headword} [drentʃɪd] *adj.* 湿透的
+
+**4. 掉进水里呛了水 drown 掉进了水里，溺死**
+
+- [drown]{.headword} [draʊn] *vi.& vt.* 掉进了水里，溺死
+
+**5. drink 的东西是 beverage 喝的东西，饮料**
+
+- [beverage]{.headword} [ˈbevərɪdʒ] *n.* 喝的东西，饮料
+- [potable]{.headword} [ˈpəʊtəbl] *adj.* 适于饮用的 =drinkable
+- [juicy]{.headword} [ˈdʒuːsi] *adj.* 多汁液的 =succulent
+- [alcohol]{.headword} [ˈælkəhɒl] *n.* 酒精
+- [liquor]{.headword} [ˈlɪkə(r)] *n.* 烈酒
+
+**6. 向下掉落的 drop 掉落，降低**
+
+- [drop]{.headword} [drɒp] *vi. & vt.* 滴落、使降落
+
+**7. 将 drop 的一个元音替换后变成 drip 一滴一滴地滴落**
+
+- [drip]{.headword} [drɪp] *vi.* (一滴一滴地)滴落
+
+**8. 在 drop 中多加一个 o 就变成了 droop 突然下垂，向下垂**
+
+- [droop]{.headword} [dru:p] *vi.* 突然下垂，向下垂
+- [droopy]{.headword} [ˈdru:pi] *adj.* 下垂的，无精打采的
+
+**9. 由 drop 变形而成的新单词 dribble（足球、篮球）运球**
+
+- [dribble]{.headword} [ˈdrɪbl] *v.* （液体）往下滴，淌；（足球、篮球中）运球
+
+**10. 形像 drop、义似 dribble 的单词 drool 流口水**
+
+- [drool]{.headword} [druːl] *v.* 流口水 = slobber, dribble
+
+## Day 30
+
+**1. 用于描述各种风的单词 wind 风**
+
+- [wind]{.headword} [wɪnd] *n.* 风
+- [windmill]{.headword} [ˈwɪndmɪl] *n.* 风车
+- [windfall]{.headword} [ˈwɪndfɔːl] *n.* 被风吹落的果子，横财
+
+**2. 挡住 wind 的盾牌 windshield 挡风玻璃**
+
+- [windshield]{.headword} [ˈwɪndʃiːld] *n.* （汽车的）挡风玻璃 =windscreen
+
+**3. 像 wind 一样到处飘荡 wander (到处) 游荡**
+
+- [wander]{.headword} [ˈwɒndə(r)] *v.* (到处) 游荡，流浪，徘徊
+
+**4. 轻飘的谷壳被 wind 吹走，只剩下沉沉的谷粒 winnow 分开，拣选**
+
+- [winnow]{.headword} [ˈwɪnəʊ] *vt.* 分开，挑选 =screen
+
+**5 由 wind 变形而来表示“排风的地方”是 vent 通风口、排气口；表露感情**
+
+- [vent]{.headword} [vent] *n.* 1. 排气口 2.（感情的）表达
+- [ventilation]{.headword} [ˌventɪˈleɪʃən] *n.* 换气、通风
+
+**6 摇晃或者使摇晃的 swing 摇晃、使摇晃**
+
+- [swing]{.headword} [swɪŋ] *v.* (向前后、左右) 摇晃，使摇晃；*n.* 摇晃；秋千；挥棒动作；(意见、方向等的) 旋回，变化
+
+**7. 缩短 swing 发音的单词 sway 使摇晃**
+
+- [sway]{.headword} [sweɪ] *vi.* 使摇晃 = swing
+
+**8. 从 swing 的行为中派生出的单词 sweep 清扫灰尘、打扫**
+
+- [sweep]{.headword} [swiːp] *vt.* 1. 清扫，打扫 = brush, wipe 2. 横扫，连胜
+
+**9. 从 swing 的速度衍生出的单词 swift 快的、迅速的**
+
+- [swift]{.headword} [swɪft] *adj.* 快的，迅速的 = fast, quick, rapid
+- [swiftness]{.headword} [ˈswɪftnəs] *n.* 迅速
+
+**10. 由 sweep 元音变化后形成的单词 swoop 突然下降，突然袭击**
+
+- [swoop]{.headword} [swuːp] *vt.* 突然下降，突然袭击 *n.* 突然袭击
+- [swoon]{.headword} [swuːn] *n.* 陶醉，晕厥
+
+## Day 31
+
+**1. 众所周知的 food 食物，食品**
+
+- [food]{.headword} [fu:d] *n.* 食物
+
+**2. 单词 food 的动词是 feed 喂**
+
+- [well-fed]{.headword} ['wel'fed] *adj.* 营养充足的，肥胖的
+- [under-fed]{.headword} ['ʌndə(r)'fed] 营养不好的 = poorly-fed
+
+**3. 由 food 派生的名词 fodder 家畜的饲料；作品的素材**
+
+- [fodder]{.headword} ['fɒdə(r)] *n.* 1.（家畜的）饲料，草料
+
+**4. 表示“给 food”的动词 foster 喂养，养育，培养**
+
+- [foster]{.headword} ['fɒstə(r)] *vt.* 喂养，养育，培养 = encourage, promote
+
+**5. 到处找 food 的 forage 到处寻找（食物）**
+
+- [forage]{.headword} ['fɒrɪdʒ] *vi.* 到处找（吃的东西）= search for food
+
+**6. 世界上最重要的东西 health 健康**
+
+- [health]{.headword} [helθ] *n.* 健康
+- [healthy]{.headword} [ˈhelθɪ] *adj.* 健康的
+- [healthful]{.headword} [ˈhelθfl] *adj.* 有益健康的
+
+**7. 单词 health 的动词形式是 heal 治病，痊愈**
+
+- [heal]{.headword} [hiːl] *vi.* (病) 痊愈
+- [healing]{.headword} [ˈhiːlɪŋ] *n.* 康复，痊愈 = treatment
+
+**8. 跟 heal 词源相同的单词 holy 神圣的，虔诚的**
+
+- [holy]{.headword} [ˈhəʊli] *adj.* 神圣的，虔诚的 = sacred, religious
+
+**9. 由 heal 经过元音变化后形成的单词 hail 欢呼、（举着手）招呼车**
+
+- [hail]{.headword} [heɪl] *vt.* 1. 欢呼 = acclaim 2. （举着手）招呼车 *n.* 冰雹
+
+**10. 身体完全处于健康状态 wholesome 有益健康的**
+
+- [whole]{.headword} [həʊl] *adj.* 全体的，完全的
+- [wholesome]{.headword} [ˈhəʊlsəm] *adj.* 有益健康的 =healthful
+
+## Day 32
+
+**Day 32 低洼凹陷的洞穴cave，黑暗中发光的蜡烛candle**
+
+- [cave]{.headword} [keɪv] *n.* 洞穴
+- [cavern]{.headword} [ˈkævən] *n.* 巨大的洞穴
+- [cage]{.headword} [keɪdʒ] *n.* 鸟笼，栏 *vt.* 关在鸟笼（栏）里
+- [cavity]{.headword} [ˈkævəti] *n.* 空空的空间，洞；蛀牙 = decayed tooth
+- [concave]{.headword} [kɒn'keɪv] *adj.* 凹陷的 = hollow ↔ convex 凸起的
+- [candle]{.headword} ['kændl] *n.* 蜡烛
+- [candid]{.headword} ['kændɪd] *adj.* 坦率的 = frank, outspoken, straightforward
+- [incendiary]{.headword} [ɪnˈsendiəri] *adj.* 1. 惹火，放火的 2. 煽动，惹人生气 = inflammatory
+- [candidate]{.headword} [ˈkændɪdət] *n.* 候选，竞选人，参选人 = applicant
+- [kindle]{.headword} 引火
+
+**1. 低洼凹陷的 cave 洞穴**
+
+- [excavate]{.headword} [ˈekskəveɪt] *vt.* 挖洞穴，发掘
+- [excavation]{.headword} [ˌekskəˈveɪʃn] *n.* 挖地，挖掘
+
+**2. 给 cave 添上一个尾巴组成新单词 cavern 巨大的洞穴**
+
+- [cavernous]{.headword} [ˈkævənəs] *adj.* 多洞穴的，（眼睛等）凹陷的
+
+**7. 像蜡烛一样明朗 candid 坦率的**
+
+- [candor]{.headword} ['kændə(r)] *n.* 坦率
+
+**8. 穿着白色衣服的人 candidate 候选**
+
+- [candidacy]{.headword} [ˈkændɪdəsi] *n.* 候选人资格
+
+**9. 在心里点火 incendiary 煽动**
+
+- [incense]{.headword} [ˈɪnsens] *vt.* 使激怒 = enrage, infuriate
+
+## Day 33
+
+**Day 33 抢夺是rob，膨胀的是ball**
+
+- [rob]{.headword} [rɒb] *vt.* 抢夺，盗窃 = seize
+- [ball]{.headword} [bɔːl] *n.* 球；舞会
+
+**1. 抢夺的 rob 抢夺**
+
+- [robbery]{.headword} [ˈrɒbərɪ] *n.* 抢劫
+
+**2. 抢夺别人的性被称为作 rape 强奸**
+
+- [rape]{.headword} [reɪp] *n.* 强奸 *vt.* 强奸
+- [rapist]{.headword} [ˈreɪpɪst] *n.* 强奸犯
+
+**3. 比 rob 抢的规模更大的话，就是 ravage 掠夺［破坏］**
+
+- [ravage]{.headword} [ˈrævɪdʒ] *vt.* 掠夺［破坏］= destroy, wreck havoc on
+
+**4. 魂儿完全被勾走的状态 rapture 欢天喜地，欢喜**
+
+- [rapture]{.headword} [ˈræptʃə(r)] *n.* 欢天喜地，欢喜 = delight, felicity, bliss, ecstasy
+
+**5. 被某些东西深深吸引的 rapt 热衷的、埋头的**
+
+- [rapt]{.headword} [ræpt] *adj.* 热衷的，埋头的 =engrossed, immersed
+
+**7. 以前在不记名投票中使用的小球 ballot 投票用纸；投票，投票总数**
+
+- [ballot]{.headword} [ˈbælət] *n.* 投票用纸；投票，投票总数
+
+**8. 像球一样膨胀起来的 belly 腹部，肚子**
+
+- [belly]{.headword} [ˈbelɪ] *n.* 肚子，腹部 = abdomen
+
+**9. 花苞绽放的状态 bloom 花；花绽放，盛开**
+
+- [bloom]{.headword} [bluːm] *n.* 花 = flowers；花的绽放，盛开 = blossom
+
+**10. 就像个枕头垫儿一样，从下面将头托起来的 bolster 支撑，加固**
+
+- [bolster]{.headword} [ˈbəʊlstə(r)] *vt.* 支持，支撑，加固 = boost, reinforce, beef up
+
+## Day 34
+
+**Day 34 招待的人是 host，不能独自生存的是 human**
+
+- [host]{.headword} [həʊst] *n.* 主人；主持人 *v.* 主办；举行
+- [hospitable]{.headword} [hɒˈspɪtəbl] *adj.* 1. 好客，殷勤招待 = welcoming；2.（气候、环境）爽快，舒适 = agreeable
+- [hospitality]{.headword} [ˌhɒspɪˈtæləti] *n.* 1. 款待，接待 2. (免费) 食物，茶点
+- [hostage]{.headword} [ˈhɒstɪdʒ] *n.* 人质
+- [hospice]{.headword} [ˈhɒspɪs] *n.* 临终关怀医院，安养院，救济院
+- [human]{.headword} [ˈhjuːmən] *n.* 人类，人
+- [humble]{.headword} [ˈhʌmbl] *adj.* 1. 谦逊的= modest 2. 卑贱的
+- [humiliate]{.headword} [hjuːˈmɪlieɪt] *vt.* 使丢脸 = mortify
+- [homage]{.headword} [ˈhɒmɪdʒ] *n.* 尊敬（的表示），敬意
+- [homicide]{.headword} [ˈhɒmɪsaɪd] *n.* 杀人，杀害 = murder
+
+**1. 招待的人 host 主人；主持人；主办**
+
+- [hostess]{.headword} [ˈhəʊstɪs] *n.* 女主人
+
+**2. host 迎接的样子 hospitable 好客，殷勤招待**
+
+- [inhospitable]{.headword} [ˌɪnhɒˈspɪtəbl] *adj.* 冷淡的
+
+**4. 交给 host 保管的人 hostage 人质**
+
+- [abduction]{.headword} [æbˈdʌkʃn] *n.* 诱拐 = kidnapping
+- [ransom]{.headword} [ˈrænsəm] *n.* 赎金
+
+**5 host 给客人准备的家 hospice 临终关怀医院，安养院，救济院**
+
+- [hospital]{.headword} [ˈhɒspɪtl] *n.* 医院
+
+**6 泥土造人 human 人类，人**
+
+- [humane]{.headword} [hjuːˈmeɪn] *adj.* 人道的，有人性的
+- [humanity]{.headword} [hjuːˈmænəti] *n.* 人类 = humankind; 人性
+- [humanism]{.headword} [ˈhjuːmənɪzəm] *n.* 人道主义，人文主义
+
+**7. 因为泥土在低的地方，所以 humble 谦逊的；卑贱的**
+
+- [humility]{.headword} [hjuːˈmɪləti] *n.* 谦逊
+
+**8. 让对方变得很卑贱 humiliate 使丢脸，使没面子**
+
+- [humiliation]{.headword} [hjuːˌmɪlɪˈeɪʃn] *n.* 丢脸，蒙羞
+- [humiliating]{.headword} [hjuːˈmɪlieɪtɪŋ] *adj.* 丢脸的，蒙羞的
+
+**10. 杀人 homicide 杀人、杀害**
+
+- [homicidal]{.headword} [ˌhɒmɪˈsaɪdl] *adj.* 杀人的
+
+## Day 35
+
+**1. 生命中必需的物质 vitamin 维生素**
+
+- [vitamin]{.headword} [ˈvaɪtəmɪn] *n.* 维生素
+- [vital]{.headword} [ˈvaɪtl] *adj.* 生命的，重要的
+- [viva]{.headword} [ˈvaɪvə] *n.* 万岁！好！
+
+**2. 如果能活下去的话，viable 能生存的，可实施的**
+
+- [viable]{.headword} [ˈvaɪəbl] *adj.* ①能生存的 ②可实施的 = feasible, practicable
+- [viability]{.headword} [ˌvaɪəˈbɪləti] *n.* 生存能力；可行性
+
+**3. 活着本身 vivid 有生机的**
+
+- [vivid]{.headword} [ˈvɪvɪd] *adj.* 生动的，鲜明的 = lively
+- [vividness]{.headword} [ˈvɪvɪdnɪs] *n.* 生动鲜明
+
+**4. 拥有生命力的 vivacious 活泼的，快活的**
+
+- [vivacious]{.headword} [vɪˈveɪʃəs] *adj.* （女子）活泼的，快活的 = cheerful, lively, sprightly
+- [vivaciousness]{.headword} [vɪˈveɪʃəsnɪs] *n.* 活泼，快活
+
+**5. 比……活得更久，survive 在……幸存下来，比……活得更久**
+
+- [survival]{.headword} [səˈvaɪvl] *n.* 生存
+- [survivor]{.headword} [səˈvaɪvə(r)] *n.* 幸存者
+
+**6. 将各种东西混合在一起 blend 混合**
+
+- [blend]{.headword} [blend] *v.* 混合 = combine
+
+**7. 由 blend 的元音变化后形成的单词，bland 清淡的；单调的；冷漠的**
+
+- [bland]{.headword} [blænd] *adj.* ① 清淡的 = tasteless
+
+**8. 将各种东西混合起来的话，blind 瞎的，盲的；盲目的**
+
+- [blind]{.headword} [blaɪnd] *adj.* ①瞎的，盲的 ②盲目的
+
+**9. 闭着眼睛做事，blunder 大过错**
+
+- [blunder]{.headword} [ˈblʌndə(r)] *n.* 大过错 = fault, mistake
+- [blundering]{.headword} [ˈblʌndərɪŋ] *adj.* 浮躁的，粗笨的 = careless, inadvertent
+
+**10. 从变得灰白的头发发展而来的单词 blonde 金发的（女子）**
+
+- [blonde]{.headword} [blɒnd] *adj. & n.* 金发的（女子）
+
+## Day 36
+
+**Day 36 刮风是blow，小鸟扑腾是flap**
+
+- [blow]{.headword} [bləu] *vi. & vt.* 刮风，(用嘴)吹风
+- [blast]{.headword} [blɑːst] *n.* ①狂风 = gust ②爆发 = explosion
+- [breeze]{.headword} [bri:z] *n.* ①微风，和风 ②容易的事儿 = cinch
+- [bloated]{.headword} [ˈbləʊtɪd] *adj.* ①膨胀的，肿胀的 = swollen ②（肚子）像要炸开了一样；（组织）臃肿的，人浮于事的
+- [blizzard]{.headword} ['blizəd] *n.* ①暴风雪，暴雪 ②蜂拥而至，横行 = flood, deluge, avalanche
+- [flap]{.headword} [flæp] *v.* 扇动（翅膀），拍打（羽毛）
+- [flag]{.headword} [flæɡ] *n.* 旗，旗帜 = ensign *vi.* 突然下垂 = droop
+- [flabby]{.headword} [ˈflæbɪ] *adj.* ① (因为长肉) 晃荡，(肌肉) 松垮 ② 贫弱的，虚弱的 = weak
+- [flip]{.headword} [flɪp] *vi. & vt.* 突然转动 *n.* 空中倒立
+- [flop]{.headword} [flɒp] *vi.* 扑通坐下，扑通一声倒下；*n.* 失败 = failure
+
+**7. 跟 flap 长相相似的单词 flag 旗，旗帜；突然下垂**
+
+- [flagging]{.headword} [flæɡɪŋ] 衰弱的，萎靡的 = flaccid
+
+**8. flap 变化元音后形成的单词 flip 突然转动**
+
+- [flippant]{.headword} [ˈflɪpənt] *adj.* 轻率的；无礼的
+
+## Day 37
+
+**1. 首位的 prime 第一的，主要的；（品质）最好的**
+
+- [prime]{.headword} [praɪm] *adj.* ① 首要的，主要的 ②（品质）最好的 = best
+
+**2. 由 prime 派生而来的形容词 primary 首要的，主要的；初级教育的**
+
+- [primary]{.headword} [ˈpraɪməri] *adj.* ① 首要的，主要的 = main ② 初级教育的 = elementary *n.* 预备选举
+
+**3. 人类初始时代 primitive 原始的、原始性的**
+
+- [primitive]{.headword} [ˈprɪmətɪv] *adj.* 原始的，原始性的；最初的
+
+**4. 完整地保存 pristine 原来（自然）的；很干净的状态**
+
+- [pristine]{.headword} [ˈprɪstiːn] *adj.* ① 原来（自然）的 ② 很干净的 = pure, immaculate
+
+**5. 时间之初的 primeval 太古的**
+
+- [primeval]{.headword} [praɪˈmiːvəl] *adj.* ①原始的，早期的 = very ancient ②处于原始本能的
+
+**6. 首都 capital 首都；资本；大写字母**
+
+- [capital]{.headword} [ˈkæpɪtl] *n.* ①首都 ②资本 ③大写字母 ↔ lower case letter 小写字母
+- [capitalism]{.headword} [ˈkæpɪtəlɪzəm] *n.* 资本主义
+- [communism]{.headword} [ˈkɒmjʊnɪzəm] *n.* 共产主义 \ **socialism** [ˈsəʊʃəlɪzəm] *n.* 社会主义
+
+**8. （下落时）头向前伸 precipitate 催促；触发**
+
+- [precipitate]{.headword} [prɪ'sɪpɪteɪt] *vt.* ①催促 = hasten ②触发 = trigger
+- [precipitation]{.headword} [prɪ'sɪpɪ'teɪʃən] *n.* 降雨量；急促
+- [precipice]{.headword} ['presɪpɪs] *n.* 悬崖 = cliff
+- [precipitous]{.headword} [prɪ'sɪpɪtəs] *adj.* 陡峭的；仓促的 = steep
+
+**9. 重复讲重要的事情 recapitulate 重复要点；简述**
+
+- [recapitulate]{.headword} [ˌriːkə'pɪtʃuleɪt] *vt.* 重复（要点），简述 = summarize
+- [recapitulation]{.headword} [ˌriːkəpɪtʃu'leɪʃn] *n.* 重述要点，概括
+
+**10. 船头翻了的话 capsize 使船翻，颠覆**
+
+- [capsize]{.headword} [kæpˈsaɪz] *v.* 打翻船；使颠覆
+- [subvert]{.headword} [sʌbˈvɜːt] *vt.* 破坏，颠覆
+
+## Day 38
+
+**Day 38 种田产出的culture，源于city的civilization**
+
+- [culture]{.headword} [ˈkʌltʃə] *n.* 文化 *vt.* 培养（微生物、细胞等）
+- [cult]{.headword} [kʌlt] *n.* （集团性）追随，崇拜；（追随特殊东西的）集团
+- [cultivate]{.headword} [ˈkʌltɪveɪt] *v.* 耕作，栽培；磨砺，修炼
+- [agriculture]{.headword} [ˈæɡrɪkʌltʃə] *n.* 农业
+- [colony]{.headword} [ˈkɒləni] *n.* 殖民地；（同种的）群，群落
+- [civilization]{.headword} [ˌsɪvəlaɪˈzeɪʃn] *n.* 文明
+- [civil]{.headword} [ˈsɪvl] *adj.* 市民的，民间的；民法的；世俗的
+- [citadel]{.headword} [ˈsɪtədəl] *n.* 城堡，堡垒，要塞 =fortress
+- [urban]{.headword} [ˈɜːbən] *adj.* 城市的 ↔ rural[形]乡村的
+- [rural]{.headword} [ru:rəl] *adj.* 乡村的，田园的 ↔ urban 城市的
+
+**3. 耕地 cultivate 耕作 [栽培]；磨砺 [修炼]**
+
+- [cultivation]{.headword} [ˌkʌltɪˈveɪʃn] *n.* 耕作；培养
+
+**4. 耕地的活动 agriculture 农业**
+
+- [agricultural]{.headword} [ˌæɡrɪˈkʌltʃərəl] *adj.* 农业的
+- [agriculturalist]{.headword} [ˌæɡrɪˈkʌltʃəlɪst] *n.* 农学家
+- [farming]{.headword} [ˈfɑːmɪŋ] *n.* 农业
+
+**5. 成片的土地 colony 侨居地，殖民地，聚居地，聚居人群**
+
+- [colonial]{.headword} [kəˈləʊniəl] *adj.* 殖民地的
+- [colonialism]{.headword} [kəˈləʊniəlizəm] *n.* 殖民主义，殖民政策
+
+**6. 从繁华的 city 都市发展而来的 civilization 文明**
+
+- [civilized]{.headword} [ˈsɪvəlaɪzd] *adj.* 文明的；有礼貌的；品味举止优雅的
+
+**7. 扎根于 city 的 civil 市民的；世俗的**
+
+- [civic]{.headword} [ˈsɪvɪk] *adj.* 城市的；市民的
+
+**9. city 的形容词形式 urban 城市的**
+
+- [urbane]{.headword} [ɜːˈbeɪn] *adj.* 温文尔雅的，懂礼的 =sophisticated
+- [urbanity]{.headword} [ɜːˈbænɪti] *n.* 有礼貌，文雅 =elegance
+
+**10. 宽广开阔的土地 rural 乡村的**
+
+- [rustic]{.headword} [ˈrʌstɪk] *adj.* 乡村的，淳朴的
+
+## Day 39
+
+**Day 39 建立是found，树根、问题的根源是root**
+
+- [fund]{.headword} [fʌnd] *n.* 资金；基金
+- [fundamental]{.headword} [ˌfʌndəˈmentl] *adj.* 基础的，根本的 = basic, rudimentary
+- [profound]{.headword} [prəˈfaʊnd] *adj.* 深的，深奥的 = deep, recondite；强的 = strong
+- [bottom]{.headword} [ˈbɑːtəm] *n.* 底部，最下面的部分；*adj.* 最下端，底部的
+- [ray]{.headword} [reɪ] *n.* 光线
+- [race]{.headword} [reɪs] *n.* 人种
+- [radical]{.headword} [ˈrædɪkəl] *adj.* 激进的，彻底的；基本的 ↔ conservative 保守的
+- [radish]{.headword} [ˈrædɪʃ] *n.* 萝卜
+
+**1. 置于地上 found 设立**
+
+- [found]{.headword} [faʊnd] *vt.* 建立，设立 = establish
+- [foundation]{.headword} [faʊnˈdeɪʃn] *n.* 基础；基金会；建立；(复数) 地基
+
+**2. 作为基础的钱 fund 资金；基金**
+
+- [finance]{.headword} [faɪˈnæns] *n.* 财政，金融
+
+**3. 源于“底部的”的单词 fundamental 基础的，根本的**
+
+- [fundamentals]{.headword} [ˌfʌndəˈmentlz] *n.* 基本原则，基本因素
+- [fundamentalist]{.headword} [ˌfʌndəˈmentlist] *n.* 信奉正统派基督教的人，原教旨主义者
+
+**4. 慢慢沉到底 profound 深奥的；强的**
+
+- [profundity]{.headword} [prəˈfʌndəti] *n.* 深奥；深奥之物
+
+**6. 树根、问题的根源 root 根，原因，起源**
+
+- [root]{.headword} [ruːt] *n.* （植物的）根，（问题的）原因，（制度、习惯的）起源，根源，（词汇的）词根
+- [eradicate]{.headword} [ɪˈrædɪkeɪt] *vt.* 根除
+
+**7. 像根一样向四面八方伸展 ray 光线**
+
+- [radiation]{.headword} [ˌreɪdiˈeɪʃn] *n.* 放射物，辐射能；辐射
+- [radioactive]{.headword} [ˌreɪdiəʊˈæktɪv] *adj.* 放射性的
+- [irradiate]{.headword} [ɪˈreɪdieɪt] *v.* 照耀，辐射，(使)灿烂，(使)明亮
+
+**8. 从最初的人类开始向各地蔓延的人们 race 人种**
+
+- [racial]{.headword} [ˈreɪʃl] *adj.* 种族的 = ethnic
+- [racism]{.headword} [ˈreɪsɪzəm] *n.* 种族歧视
+- [racist]{.headword} [ˈreɪsɪst] *n.* 种族主义者
+
+**9. 源于“根”的单词 radical 根本的；激进的**
+
+- [radicalism]{.headword} [ˈrædɪkəlɪzəm] *n.* 激进主义
+
+**10. 根埋在地里的蔬菜 radish 蔬菜类中的萝卜**
+
+- [vegetable]{.headword} [ˈvedʒɪtəbl] *n.* 蔬菜，植物
+- [vegetarian]{.headword} [ˌvedʒɪˈteəriən] *n.* 素食主义者
+
+## Day 40
+
+**1. 无法 un- 雇佣 employment 的状态 unemployment 失业**
+
+- [unemployment]{.headword} [ˌʌnɪmˈplɔɪmənt] *n.* 失业
+- [unemployed]{.headword} [ˌʌnɪmˈplɔɪd] *adj.* 失业的，没有工作的
+
+**2. 不像 un- 要发生的 likely, unlikely 似乎不会发生的，没有指望的**
+
+- [unlikely]{.headword} [ʌnˈlaɪkli] *adj.* 不太可能的，未必的 = impossible, improbable
+- [likely]{.headword} [ˈlaɪkli] *adj.* 似乎会发生的，有可能的 = possible, probable
+
+**3. 不un-上锁lock, unlock把（锁上的东西）打开**
+
+- [unlock]{.headword} [ʌnˈlɒk] *vt.* 把（锁上的东西）打开=untie, unfasten
+
+**4. 不un-普通usual, unusual不常见的，异样的**
+
+- [unusual]{.headword} [ʌnˈjuːʒuəl] *adj.* 不寻常的，异样的=strange
+- [usual]{.headword} [ˈjuːʒuəl] *adj.* 普通的，平凡的，平常的
+- [unusually]{.headword} [juːˈʒuəli] *adv.* ①很，十分；②（与平常）不同地，特别地
+
+**5. 不 un- 愿意 willing，unwilling 不情愿的，勉强的**
+
+- [willing]{.headword} [ˈwɪlɪŋ] *adj.* 愿意做
+- [willingness]{.headword} [ˈwɪlɪŋnɪs] *n.* 乐意
+- [unwilling]{.headword} [ʌnˈwɪlɪŋ] *adj.* 不情愿做的，勉强的 = reluctant
+- [unwillingness]{.headword} [ʌnˈwɪlɪŋnɪs] *n.* 不情愿
+
+**6. 没有 un- 偏见 bias，unbiased 没有偏见的，公正的**
+
+- [unbiased]{.headword} [ʌnˈbaɪəst] *adj.* 没有偏见的，公正的 =impartial
+- [unprejudiced]{.headword} [ʌnˈpredʒʊdɪst] *adj.* 没有成见的，公正的 =fair
+
+**7. 没有 un- 系上缰绳 bridle，unbridled 不受控制的**
+
+- [unbridled]{.headword} [ʌnˈbraɪdld] *adj.* 不受控制的 =not controlled
+- [unfettered]{.headword} [ʌnˈfetəd] *adj.* 自由的，不受约束的 =not restricted
+
+**8. 没有 un- 疑问 question 的 unquestionable 毫无疑问的，确实的**
+
+- [unquestionable]{.headword} [ʌnˈkwestʃənəbl] *adj.* 毫无疑问的，确实的
+- [indisputable]{.headword} [ɪndɪˈspjuːtəbl] *adj.* 无可争辩的，确实的
+- [incontrovertible]{.headword} [ˌɪnkɒntrəˈvɜːtɪbl] *adj.* 不可辩驳的，确实的
+
+**9. 不能un-安定rest的状态unrest(社会、政治)不安定，动荡**
+
+- [unrest]{.headword} [ʌnˈrest] *n.* (社会、政治)不安定，动荡 = agitation, turmoil, tumult
+- [uneasiness]{.headword} [ʌnˈiːzɪnɪs] *n.* (心理上) 不安 = nervousness
+
+**10. 无法 un-统治 rule，unruly 难驾驭的，任性的**
+
+- [unruly]{.headword} [ʌnˈruːli] *adj.* 难驾驭的，任性的 = wayward, willful, uncontrollable
+- [ruler]{.headword} [ˈruːlə] *n.* ① 统治者 ② (量长度的) 尺子
+
+## Day 41
+
+**Day 41 否定的in-**
+
+- [im-]{.headword} 否定(not) + **medi**中间 + **-ate**形容词后缀（在中间没有任何时间的）→ **immediate** 立即的
+- [il-]{.headword} 否定(not) + **literate**识字的（不识字的）→ **illiterate** 文盲的
+
+**1. 中间medi没有im-时间的immediate立即的**
+
+- [immediate]{.headword} [ɪˈmiːdiət] *adj.* 即时的，及时的 = instant, prompt
+- [immediately]{.headword} [ɪˈmiːdiətli] *adv.* 立刻，马上
+- [immediacy]{.headword} [ɪˈmiːdiəsi] *n.* 迅速
+
+**2. 没有im-礼貌polite的impolite无礼的，没有礼貌的**
+
+- [impolite]{.headword} [ɪmpəˈlaɪt] *adj.* 无礼的，没有礼貌的 =rude, discourteous
+
+**3. 不管是这个还是那个，没有in-不同的different indifferent 无关紧要的**
+
+- [indifferent]{.headword} [ɪnˈdɪfərənt] *adj.* 无关紧要的
+- [indifference]{.headword} [ɪnˈdɪfərəns] *n.* 不在意
+
+**4. 还不能in-说话fa的孩子infant幼儿**
+
+- [infant]{.headword} [ˈɪnfənt] *n.* 幼儿
+- [infantry]{.headword} [ˈɪnfəntri] *n.* （军队的）步兵
+- [fable]{.headword} [ˈfeɪbl] *n.* 寓言
+- [Aesop's Fables]{.headword} 伊索寓言
+
+**5. 太多了，数numer不in-过来，innumerable无数的**
+
+- [innumerable]{.headword} [ɪˈnjuːmərəbl] *adj.* 无数的 = countless, incalculable
+- [numerous]{.headword} [ˈnjuːmərəs] *adj.* 很多的 = many
+
+**6. 不il识字的literate-, illiterate文盲的，无知的**
+
+- [illiterate]{.headword} [ɪ'lɪtərət] *adj.* 文盲的，无知的 =ignorant
+- [illiteracy]{.headword} [ɪ'lɪtərəsi] *n.* 文盲，无知
+- [illegible]{.headword} [ɪ'ledʒɪbl] *adj.* 不识（字）的
+- [literal]{.headword} ['lɪtərəl] *adj.* 照字面的
+- [literally]{.headword} ['lɪtərəli] *adv.* 照字面地
+
+**7. 无法im-测量mense的程度immense巨大的，无边际的**
+
+- [immense]{.headword} [ɪ'mens] *adj.* 巨大的，无边际的 = huge, vast, enormous, gigantic
+- [immensity]{.headword} [ɪ'mensəti] *n.* 巨量
+
+**8. 不im-偏袒的partial，impartial公正的**
+
+- [impartial]{.headword} [ɪm'pɑːʃəl] *adj.* 公正的 = fair, unbiased, unprejudiced, detached
+- [impartiality]{.headword} [ˌɪm'pɑːʃi'æləti] *n.* 公正
+
+**10. 不能 in- 解决经济问题 solvent，insolvent 破产的，无力还债的**
+
+- [insolvent]{.headword} [ɪnˈsɒlvənt] *adj.* 破产的，无力还债的 = bankrupt
+- [insolvency]{.headword} [ɪnˈsɒlvənsi] *n.* 破产
+
+**9. 无法 in- 避开 evit，inevitable 不可避免的，必然发生的**
+
+- [inevitable]{.headword} [ɪnˈevɪtəbl] *adj.* 不可避免的 = unavoidable
+- [inevitability]{.headword} [ɪnˌevɪtəˈbɪləti] *n.* 必然性
+
+## Day 42
+
+**1. 投入到监狱 prison 里 im-，imprison 关押**
+
+- [imprison]{.headword} [ɪmˈprɪzn] *vt.* 关押 = put sb. in jail
+- [imprisonment]{.headword} [ɪmˈprɪznmənt] *n.* 监禁，下狱
+- [sentence]{.headword} [ˈsentəns] *n.* 句子；判决，宣判 *vt.* 宣判，判决
+
+**2. 进入到核心 in- 看 sight，insight 洞察力**
+
+- [insight]{.headword} [ˈɪnsaɪt] *n.* 洞察力 = intuition
+- [insightful]{.headword} [ˈɪnsaɪtfʊl] *adj.* 有深刻见解的
+
+**3. 立 stall 在里面 in- 的话，install 设置、使就职**
+
+- [install]{.headword} [ɪnˈstɔːl] *vt.* ① 设置 = put in，② 使就职 = inaugurate
+- [installation]{.headword} [ˌɪnstəˈleɪʃən] *n.* 安装，装置
+- [installment]{.headword} [ɪnˈstɔːlmənt] *n.* 分期付款
+
+**4. 进入到 vade 里面 in-, invade 侵入，进攻**
+
+- [invade]{.headword} [ɪnˈveɪd] *vt.* 侵入，进攻=attack, assail, assault
+- [invasion]{.headword} [ɪnˈveɪʒən] *n.* 入侵，侵略=incursion
+
+**5. 卷 vol 在里面 in-, involve 陪伴，包含；关联，受牵连**
+
+- [involve]{.headword} [ɪnˈvɒlv] *vt.* ①伴随，包含=include, entail ②关联，受牵连
+- [involvement]{.headword} [ɪnˈvɒlvmənt] *n.* 卷入，牵连；参与
+
+**6. 迁移migrate到里面in-来，immigrate迁移**
+
+- [immigrate]{.headword} [ˈɪmɪɡreɪt] *vt.* 迁移 $\leftrightarrow$ emigrate 迁移（到别的国家）
+- [immigration]{.headword} [ˌɪmɪˈɡreɪʃn] *n.* 移民入境
+- [immigrant]{.headword} [ˈɪmɪɡrənt] *n.* 移民，侨民
+
+**7. 进入gred到里面in-，ingredient材料，成分**
+
+- [ingredient]{.headword} [ɪnˈɡriːdiənt] *n.* ① 材料，成分 = component ② 要素，资质 = quality
+
+**8. 天生 gen 身体里面 in- 就具有某种才能 ingenious 灵巧的，超群的**
+
+- [ingenious]{.headword} [ɪnˈdʒiːniəs] *adj.* 灵巧的，超群的 = clever, astute, shrewd
+- [ingenuity]{.headword} [ˌɪndʒəˈnjuːəti] *n.* 独创性，巧妙
+- [ingenuous]{.headword} [ɪnˈdʒenjuəs] *adj.* 天真的，单纯的 = naive, frank, honest
+
+**9. 在里面 in- 紧紧地抓住 hibit 使其不能出去 inhibit 阻止，遏制**
+
+- [inhibit]{.headword} [ɪn'hɪbɪt] *vt.* 阻止（成长，发展） = prevent, impede, hamper
+- [inhibition]{.headword} [ˌɪnhɪ'bɪʃn] *n.* 拘谨，禁止
+- [inhibited]{.headword} [ɪn'hɪbɪtɪd] *adj.* 羞怯的，抑制情感的 = shy
+- [prohibit]{.headword} [prə'hɪbɪt] *vt.* 禁止，不准 = ban, proscribe
+
+**10. 水向陆地里 in- 流去的话，inundate 泛滥，淹没**
+
+- [inundate]{.headword} [ˈɪnʌndeɪt] *vt.* 泛滥，淹没
+- [inundation]{.headword} [ˌɪnʌnˈdeɪʃn] *n.* 淹没，泛滥；洪水，充满
+
+## Day 43
+
+**1. 正安静地呆着merge突然出来e(x)-, emerge出现、露出**
+
+- [emerge]{.headword} [ɪ'mɜːdʒ] *vi.* 出现，（模样）露出
+- [emergency]{.headword} [ɪ'mɜːdʒənsɪ] *n.* 紧急情况
+- [emergence]{.headword} [ɪ'mɜːdʒəns] *n.* 出现
+- [emergent]{.headword} [ɪ'mɜːdʒənt] *adj.* 出现的，紧急的，新兴的
+- [emerging]{.headword} [ɪ'mɜːdʒɪŋ] *adj.* 新兴的
+
+**3. 提高ex- 累积agger exaggerate 夸张，话语的意义**
+
+- [exaggerate]{.headword} [ɪg'zædʒəreɪt] *vt.* 夸张 =overstate
+- [exaggeration]{.headword} [ɪg'zædʒəreɪʃn] *n.* 夸张
+- [exaggerated]{.headword} [ɪg'zædʒəreɪtɪd] *adj.* 言过其实的
+
+**4. 向外ex- 拉出来hau，exhaust ①力竭 ②使枯竭**
+
+- [exhaust]{.headword} [ɪg'zɔːst] *vt.* ①力竭；②使枯竭 *n.* (气)排出口
+- [exhaustion]{.headword} [ɪg'zɔːstʃən] *n.* 疲惫，耗尽
+- [exhausted]{.headword} [ɪg'zɔːstɪd] *adj.* 用完的，精疲力竭的
+- [exhausting]{.headword} [ɪg'zɔːstɪŋ] *adj.* 疲倦的，筋疲力尽的
+- [exhaustive]{.headword} [ɪg'zɔːstɪv] *adj.* 彻底的，详尽的 = thorough
+
+**5. 向外ex-放hibit，exhibit展示**
+
+- [exhibit]{.headword} [ɪg'zɪbɪt] *vi.* 展示，陈列 = display, show
+- [exhibition]{.headword} [ˌeksɪ'bɪʃn] *n.* 展览，展示
+- [habit]{.headword} ['hæbɪt] *n.* 习惯
+- [inhabitant]{.headword} [ɪn'hæbɪtənt] *n.* 居民
+- [habitat]{.headword} ['hæbɪtæt] *n.* 栖息地
+
+**6. 费力 labor 将事情做好 ex-，elaborate ①费力的，精心的；②复杂的**
+
+- [elaborate]{.headword} [ɪˈlæbəreɪt] *adj.* ①费力的，精心的；②复杂的 = complicated, knotty
+
+**7. 从标准 norm 大小中摆脱出来 e(x)-，enormous 巨大的，相当多的**
+
+- [enormous]{.headword} [ɪˈnɔːməs] *adj.* 相当多的，巨大的 = huge, vast, immense
+- [enormity]{.headword} [ɪˈnɔːməti] *n.* 极恶，暴行
+
+**8. 拔出 e(x)- 根 radic、eradicate 根除**
+
+- [eradication]{.headword} [ɪˌrædɪˈkeɪʃn] *n.* 根除，消灭
+
+**9. 就像熄了灯 extinguish 一样不能活动，extinct ①熄灯的；②灭绝的**
+
+- [extinct]{.headword} [ɪkˈstɪŋkt] *adj.* ①熄灯的，不能活动的；②灭绝的，消灭的 = nonexistent
+- [extinction]{.headword} [ɪkˈstɪŋkʃn] *n.* 熄灭，消灭
+
+**10. 将折起来的 ploi(t) 东西展开 ex-，exploit 1.开发，利用 2.剥削**
+
+- [exploit]{.headword} [ˈeksplɔɪt] *vt.* ①开发利用（资源）=develop ②剥削（劳动力）
+- [exploitation]{.headword} [ˌeksplɔɪˈteɪʃən] *n.* 开发，开采；剥削
+
+## Day 44
+
+**1. 明确的 de- 阐述 clare，declare ①宣言，宣布；②申报（纳税物、所得）**
+
+- [declare]{.headword} [dɪˈkleə] *vt.* ①宣言，宣布 = announce, proclaim; ②申报（纳税物，所得）
+- [declaration]{.headword} [ˌdekləˈreɪʃn] *n.* 宣言，宣布，申报
+
+**2. 向下 de- 倾斜的话 clin (e)，decline ①衰退、减少；②（郑重地）拒绝、推辞**
+
+- [decline]{.headword} [dɪˈklaɪn] *n.* 衰退，减少 *v.* ① 衰退，减少 =decrease, run down ②（郑重地）拒绝，推辞 =refuse, reject, turn down
+
+**3. 在所需量fic之下de-，deficient不足的，缺乏的**
+
+- [deficient]{.headword} [dɪˈfɪʃənt] *adj.* 不足的，缺乏的 =scanty, scarce, lacking
+- [deficiency]{.headword} [dɪˈfɪʃənsi] *n.* 缺乏，不足
+- [deficit]{.headword} [ˈdefɪsɪt] *n.* 赤字，亏空
+
+**4. 从个人所有中priv(e)分离de-，deprive从……抢夺，剥夺**
+
+- [deprive]{.headword} [dɪˈpraɪv] *vt.* 抢夺，剥夺 =rob, divest
+- [deprivation]{.headword} [ˌdeprɪˈveɪʃn] *n.* 剥夺，丧失
+- [deprived]{.headword} [dɪˈpraɪvd] *adj.* 缺乏的；贫乏的
+
+**5. 将粘在一起的东西分开detach分开，分离**
+
+- [detach]{.headword} [dɪˈtætʃ] *vt.* 分开，分离 ↔ attach 贴上，附着
+- [detached]{.headword} [dɪˈtætʃt] *adj.* ①分离的；②超然的，公平的 =fair
+
+**6. 道德向下de降cad，decadence堕落，衰败**
+
+- [decadence]{.headword} ['dekədəns] *n.* 堕落，衰败
+- [decay]{.headword} [dɪ'keɪ] *vi.* 腐烂；衰落
+
+**8. 价值 preci 下降 de-，depreciate 降低价值**
+
+- [depreciate share prices]{.headword} 降低股票的价格
+- [appreciate]{.headword} [əˈpriːʃieɪt] *vt. & vi.* ①欣赏，赏识；②感激，领会；③增值
+- [appreciate the significance of the situaion]{.headword} 意识到情况的重要性
+
+**9. 将文章 cribe 写下 de-，describe 叙述，描写**
+
+- [describe]{.headword} [dɪ'skraɪb] *vt.* 叙述，描写，说明=delineate, depict, portray
+- [description]{.headword} [dɪ'skrɪpʃn] *n.* 描写，形容
+
+**10. 使某人因感到害怕ter而不能做de-某事，deter阻止，妨碍**
+
+- [deter]{.headword} [dɪ'tɜː] *vt.* 阻止，妨碍 =prevent, discourage, inhibit
+- [deterrent]{.headword} [dɪ'terənt] *n.* 威慑物，制止物 =obstacle
+
+## Day 45
+
+**1. 祖先们给di流传tra-下来的东西-tion，tradition传统**
+
+- [tradition]{.headword} [trə'dɪʃn] *n.* 传统 =convention, custom
+- [traditional]{.headword} [trə'dɪʃənl] *adj.* 传统的
+
+**2. 从这边向那边trans-移动fer的transfer搬运，移动**
+
+- [transfer]{.headword} [træns'fɜː] *vi. & vt.* 搬运，移动 *n.* 迁移，跳槽
+
+**3. 形成 form 别的模样 trans，transform 使变形**
+
+- [transform]{.headword} [trænsˈfɔːm] *vt.* 变换（模样、形态），使变形
+- [transformation]{.headword} [ˌtrænsfəˈmeɪʃn] *n.* 转型，转化
+
+**4. 穿过去 trans- 看 par，transparent 透明的**
+
+- [transparent]{.headword} [træns'pærənt] *adj.* ①透明的 =pellucid ↔opaque 不透明的 ②明了的，容易理解的 =clear
+- [transparency]{.headword} [træns'pærənsi] *n.* 透明度
+
+**5. 从这边移向那边 trans-种植 plant，transplant 移动位置种植，移植**
+
+- [transplant]{.headword} [træns'plɑːnt] *vt. & n.* 移植
+- [transplantation]{.headword} [træns'plɑːnteɪʃn] *n.* 移植
+
+**6. 全体都 tran- 很安静 qiut，tranquil 安静的，平稳的**
+
+- [tranquil]{.headword} [ˈtræŋkwɪl] *adj.* 安静的，平稳的 = calm, placid, serene, peaceful
+- [tranquility]{.headword} [træŋˈkwɪlətɪ] *n.* 安静，平静
+
+**7. 从这边向那边 trans- 移动 action，transaction 交易，处理**
+
+- [transaction]{.headword} [trænˈzækʃn] *n.* 交易，处理 = deal, trade
+
+**8. 从准许范围越过 trans去gress，transgress 越过限度，违反**
+
+- [transgress]{.headword} [trænzˈɡres] *vt.* 越过（准许范围），违反 = breach, infringe
+- [transgression]{.headword} [trænsˈɡreʃn] *n.* 违反 = violation
+- [transcend]{.headword} [trænˈsend] *vt.* 超出，超越（理性等）的范围 = exceed
+
+**10. 越过 tres- 别人的土地后通过 pass，trespass 入侵，侵害**
+
+- [trespass]{.headword} [ˈtrespəs] *vi.* 入侵，侵害 = infringe, encroach
+
+**9. 一下子 trans-经过it去-ory，transitory 暂时的**
+
+- [transitory]{.headword} [ˈtrænsɪtərɪ] *adj.* 暂时的，虚无的 = temporary, passing, transient
+- [transit]{.headword} [ˈtrænsɪt] *v.* 转运 *n.* 运输
+
+## Day 46
+
+**1. 一起col-做事情labor，collaborate合力，合作**
+
+- [collaborate]{.headword} [kəˈlæbəreɪt] *vi.* 合力，合作=cooperate
+- [collaboration]{.headword} [kəˌlæbəˈreɪʃn] *n.* 合作，协作
+- [collaborative]{.headword} [kəˈlæbərətɪv] *adj.* 协作的，合作的
+
+**2. 强烈的com-推压pel，compel强迫**
+
+- [compelling]{.headword} [kəmˈpelɪŋ] *adj.* 令人信服的，令人心悦诚服、不可抗拒的
+
+**3. （为了得到某物）互相com-费心pete，compete竞争**
+
+- [compete]{.headword} [kəmˈpiːt] *vi.* 竞争，较量 =contend
+- [competition]{.headword} [ˌkɒmpəˈtɪʃn] *n.* 竞争
+- [competitive]{.headword} [kəmˈpetətɪv] *adj.* 竞争的
+- [competence]{.headword} [ˈkɒmpɪtəns] / **competency** [ˈkɒmpɪtənsi] *n.* 能力，技能
+- [competent]{.headword} [ˈkɒmpɪtənt] *adj.* 有能力的 ↔ **incompetent** *adj.* 无能力的
+- [competitor]{.headword} [kəmˈpetɪtə] *n.* 竞争者
+
+**4. 很多东西一起com-倒进去fus，confuse使混乱，使困惑**
+
+- [confused]{.headword} [kən'fju:zd] *adj.* 困惑的
+
+**5. 在寺院temple里沉静地con-呆着，contemplate冥思苦想**
+
+- [contemplate]{.headword} ['kɔntəmpleɪt] *vt.* 冥思苦想 =consider
+- [contemplation]{.headword} [ˌkɔntəm'pleɪʃn] *n.* 沉思
+- [contemplative]{.headword} [kən'təmplətɪv] *adj.* 沉思的
+
+**6. 强烈的com移动motion，commotion混乱，骚乱**
+
+- [commotion]{.headword} [kə'məʊʃn] *n.* 混乱，骚乱 = agitation, hurly-burly
+
+**7. 称重pens均衡两边com-的重量，compensate赔偿**
+
+- [compensate]{.headword} ['kɒmpenseɪt] *vt.* 赔偿，补偿 = recompense, make up for
+- [compensation]{.headword} [ˌkɒmpen'seɪʃn] *n.* 补偿（或赔偿）的款物；补偿，赔偿
+
+**8. 完全 com- 掌握 prehend 意思，comprehend 理解，把握**
+
+- [comprehend]{.headword} [ˌkɑmprɪˈhend] *vt.* 理解，掌握 = understand, figure out
+- [comprehension]{.headword} [ˌkɑmprɪˈhenʃn] *n.* 理解，理解力
+- [comprehensive]{.headword} [ˌkɑmprɪˈhensɪv] *adj.* 全面的，广泛的
+
+**9. 看上去 spic 很清楚的 con-，conspicuous 显眼的**
+
+- [conspicuous]{.headword} [kənˈspɪkjuəs] *adj.* 显眼的 = prominent
+
+**10. 完全 con- 到达顶峰 summ 的话，consummate 完成的、完美的**
+
+- [consummate]{.headword} [ˈkɒnsəmeɪt] *adj.* 完成的，完美的 = complete, accomplished
+
+## Day 47
+
+**1. 星星 aster 在远方 dis- 坠落后发生的事情 disaster 灾难，灾害**
+
+- [disaster]{.headword} [dɪˈzɑːstə] *n.* ① 灾难，灾害 =calamity, catastrophe ② 巨大的失败 =fiasco
+- [disastrous]{.headword} [dɪˈzɑːstrəs] *adj.* 灾难性的
+
+**2. “关上 close”的反义（否定）dis-，disclose 阐明，公开**
+
+- [disclose]{.headword} [dɪs'kləʊz] *vt.* 阐明，公开=reveal, divulge
+- [disclosure]{.headword} [dɪs'kləʊʒə] *n.* 揭发，败露
+
+**3. 解开 solve 变松 dis-, dissolve 使溶解，使融化**
+
+- [dissolve]{.headword} [dɪ'zɒlv] *vt.* 使溶化，使溶解
+- [dissolution]{.headword} [dɪsə'luːʃn] *n.* 溶解；取消
+- [dissolute]{.headword} ['dɪsəluːt] *adj.* 放荡的，放纵的
+- [resolve]{.headword} [rɪ'zɒlv] *vt.* ①解决；②表决
+- [resolution]{.headword} [rezə'luːʃn] *n.* 决心，决定；解决，决议
+- [resolute]{.headword} ['rezəluːt] *adj.* 坚决的，果断的 ↔ irresolute 犹豫不决的
+
+**4. 劝说 suade 别人不要做 dis- 某事，dissuade 劝阻**
+
+- [dissuade]{.headword} [dɪˈsweɪd] *vt.* （说服）劝阻
+- [dissuasion]{.headword} [dɪˈsweɪʒən] *n.* 劝止
+- [persuade]{.headword} [pəˈsweɪd] *vt.* 说服，劝说
+- [persuasive]{.headword} [pəˈsweɪsɪv] *adj.* 有说服力的
+
+**5. 将其变得完全 dis- 无秩序的 turb，disturb 妨碍**
+
+- [disturb]{.headword} [dɪˈstɜːb] *vt.* ①妨碍=hinder ②使（心）变得不安=upset
+- [disturbance]{.headword} [dɪˈstɜːbəns] *n.* 扰乱，打扰；骚乱
+- [disturbed]{.headword} [dɪˈstɜːbd] *adj.* 有心理疾病的；不安的
+
+**6. 渐渐mini分开di-，diminish缩减、减少**
+
+- [diminish]{.headword} [dɪˈmɪnɪʃ] *vi. & vt.* 减少，缩减 =reduce, dwindle
+- [diminutive]{.headword} [dɪˈmɪnjʊtɪv] *adj.* 小的
+- [diminution]{.headword} [ˌdɪmɪˈnjuːʃn] *n.* 减少
+
+**7. 会区分辨别creet，discreet慎重的，有分辨能力的**
+
+- [discreet]{.headword} [dɪˈskriːt] *adj.* 慎重的，有分辨能力的 =prudent, judicious
+- [discretion]{.headword} [dɪˈskreʃn] *n.* 谨慎；随意处理
+- [discrete]{.headword} [dɪˈskriːt] *adj.* 不连续的，分离的 =separate, distinct
+- [discreteness]{.headword} [dɪˈskriːtnɪs] *n.* 不连续性，离散性
+
+**8. 可能性may变没dis-的话，dismay使惊慌，使沮丧**
+
+- [dismay]{.headword} [dɪsˈmeɪ] *vt.* 使惊慌，使沮丧 =embarrass, disappoint
+
+**10. 切开 dis- 弄断 sect，dissect 剖析；分析**
+
+- [dissect]{.headword} [dɪ'sekt] *vt.* ① 剖析 = anatomize ② 分析 = analyze, break down
+- [dissection]{.headword} [dɪ'sekʃn] *n.* 解剖；仔细分析
+- [section]{.headword} ['sekʃn] *n.* 部分；章节
+- [bisect]{.headword} [baɪ'sekt] *vt.* 平分
+- [insect]{.headword} ['ɪnsekt] *n.* 昆虫
+
+**9. 稀稀落落 perse 地散开 dis-, disperse 散开，解散**
+
+- [disperse]{.headword} [dɪ'spɜ:s] *v.* 散开，解散 = scatter, dissipate
+- [dispersion]{.headword} [dɪ'spɜ:ʃn] *n.* 散布
+
+## Day 48
+
+**1. 预先 pre- 小心的事情 caution，precaution 预防，预防策略**
+
+- [precaution]{.headword} [prɪ'kɔːʃn] *n.* 预防，预防策略=prevention
+- [precautious]{.headword} [prɪ'kɔːʃəs] *adj.* 有防备的，戒备的
+- [caution]{.headword} ['kɔːʃn] *n.* 警告，慎重 *vt.* 劝告
+
+**2. 预先 pre- 判断的事情，prejudice 成见，偏见**
+
+- [prejudiced]{.headword} [ˈpredʒʊdɪst] *adj.* 有偏见的
+
+**3. 在起跑线 limin 前面 pre-，preliminary 预备的，准备的**
+
+- [preliminary]{.headword} [prɪˈlɪmɪnərɪ] *adj.* 预备（准备）的，事前的=preparatory, previous *n.* 事前作业，准备活动
+
+**4. 预先 pre- 持有 sum 某种想法，presume ①推测，推定；②竟敢做……**
+
+- [presumption]{.headword} [prɪ'zʌmpʃn] *n.* 假设；推测
+- [presumptive]{.headword} [prɪ'zʌmptɪv] *adj.* 根据推定的
+- [presumptuous]{.headword} [prɪ'zʌmptʃuəs] *adj.* 放肆的
+
+**5. 比 -or 某些东西在先 pri- 的，priority 比……在先的，优先顺序**
+
+- [priority]{.headword} [praɪˈɒrəti] *n.* 优先权，优先
+
+**6. 担心cari在前pre-的话，precarious不安定的，危险的**
+
+- [precarious]{.headword} [prɪˈkeəriəs] *adj.* 不安定的，危险的 =unstable, insecure
+- [precariousness]{.headword} [prɪˈkeəriəsnɪs] *n.* 不稳定，可疑
+
+**7. 先前pre-去ced存在的东西，precedent先例，前例**
+
+- [unprecedented]{.headword} [ʌnˈpresɪdentɪd] *adj.* 空前的
+
+**8. 比正常的时间提前 pre- 成熟 mature 的话，premature 时机尚早的，太早的**
+
+- [premature]{.headword} [ˈpremətʃə] *adj.* 时机尚早的，太早的 = too early
+- [immature]{.headword} [ˌɪməˈtjʊə] *adj.* 不成熟的 = unfledged
+
+**10. 名字前面pre-连接stig，prestige名声，评判**
+
+- [prestige]{.headword} [pre'sti:ʒ] *n.* 名声、判断=reputation, renown, fame, celebrity
+- [prestigious]{.headword} [pre'stidʒəs] *adj.* 享有声望的，声望很高的
+
+**9. 前面pre-的东西在后面poster的话，preposterous前后颠倒的，不着边际的**
+
+- [preposterous]{.headword} [pri'pɔstərəs] *adj.* 前后颠倒的，不着边际的=far-fetched, absurd
+- [preposterousness]{.headword} [pri'pɔstərəsnis] *n.* 荒谬，可笑
+
+## Day 49
+
+**1. pro-表示forth**
+
+- [pur-]{.headword} 向前(forth) + **pose**放下（（向前）放下的意思）→ **purpose** 目的，意图
+
+**1. 向前pro-推进mot，promote①促进，奖励；②升职，宣传**
+
+- [promote]{.headword} [prəˈməʊt] *vt. & vi.* ①促进，奖励=encourage ②升职，宣传
+- [promotion]{.headword} [prəˈməʊʃn] *n.* 提升；促进；促销宣传
+
+**2. 事先pro-约好mis的，promising（未来）有希望的，有前途的**
+
+- [promise]{.headword} [ˈprɒmɪs] *n.* 约定 *v.* 约定
+- [promising]{.headword} [ˈprɒmɪsɪŋ] *adj.* 有希望的，有前途的=hopeful, auspicious, up-and-coming
+
+**3. 向前 pro- 成功 sper，prosper 昌盛，繁荣**
+
+- [prosper]{.headword} [ˈprɒspə] *vi.* 繁荣，昌盛 = thrive, flourish
+- [prosperity]{.headword} [prɒˈsperəti] *n.* 兴旺
+- [prosperous]{.headword} [ˈprɒspərəs] *adj.* 繁荣的，兴旺的
+
+**4. 向前 pro- 提出 pose，purpose 目的，意图**
+
+- [purpose]{.headword} [ˈpɜːpəs] *n.* 目的，意图 = aim, objective, intention
+- [purposeful]{.headword} [ˈpɜːpəsfl] *adj.* 有目的的，有决心的
+
+**5. 朝某方向追赶sue，pursue追赶……，追求**
+
+- [pursuit]{.headword} [pəˈsjuːt] *n.* 追求；追逐
+- [ensue]{.headword} [ɪnˈsjuː] *v.* 跟着发生，继起，因而产生
+- [ensuing]{.headword} [ɪnˈsjuːɪŋ] *adj.* 继而发生的，接下来的
+
+**6. 向前pro-制作fic，proficient熟练的，娴熟的**
+
+- [proficient]{.headword} [prəˈfɪʃnt] *adj.* 熟练的，娴熟的 = adept, adroit, deft, dextrous
+- [proficiency]{.headword} [prəˈfɪʃnsi] *n.* 熟练，精通
+
+**7. 量多得溢出来，向前 pro-倾泻 fus，profuse 量非常多的，慷慨的**
+
+- [profuseness]{.headword} [prəˈfjuːsnɪs] *n.* 非常丰富（慷慨）
+
+**8. 向前 pro-凸出 min显眼的，prominent ①重要的；②显眼的，突出的**
+
+- [prominent]{.headword} [ˈprɒmɪnənt] *adj.* ① 重要的 = important, significant, crucial ② 显眼的，突出的 = outstanding, noticeable, conspicuous
+- [prominence]{.headword} [ˈprɒmɪnəns] *n.* 声望 = eminence, prestige
+- [eminent]{.headword} [ˈemɪnənt] *adj.* 著名的，卓越的 = famous, celebrated
+
+**9. 说phe前面的pro-事情的人，prophet预言者**
+
+- [prophet]{.headword} [ˈprɒfɪt] *n.* 预言者
+- [prophesy]{.headword} [ˈprɒfɪsaɪ] *v.* 预言 = predict, foretell
+- [prophecy]{.headword} [ˈprɒfɪsi] *n.* 预言
+
+**10. 将意思向前pro-移动port，purport宗旨，要旨；主张**
+
+- [purport]{.headword} [pəˈpɔːt] *n.* 宗旨，要旨 = meaning, intent, tenor *vt.* 主张 = allege
+
+## Day 50
+
+**1. 向下 sub- 拉 due，subdue ①镇压；②遏制（感情）**
+
+- [subdue]{.headword} [səbˈdjuː] *vt.* ①镇压（反叛、暴动）=suppress ②遏制（感情）=repress
+- [subdued]{.headword} [səbˈdjuːd] *adj.* 减弱的，被抑制的，被制服的
+
+**2. 潜入 merge 水下 sub-，submerge 潜水、潜入水下**
+
+- [submerge]{.headword} [səbˈmɜːdʒ] *vi. & vt.* 潜水，潜入水底 =immerse
+- [submerged]{.headword} [səbˈmɜːdʒd] *adj.* 在水下的，在水中的
+- [submarine]{.headword} [ˌsʌbməˈriːn] *n.* 潜水艇
+
+**3. 在面纱 tle 下面 sub-，subtle 微妙的**
+
+- [subtle]{.headword} [ˈsʌtəl] *adj.* ① 微妙的，难以把握的 =delicate ② 巧妙的，绝妙的 =clever
+- [subtlety]{.headword} [ˈsʌbtlti] *n.* 精妙，巧妙
+
+**4. 城市 urb 周围的 sub- 地方，suburb 郊外，近郊**
+
+- [suburb]{.headword} [ˈsʌbɜːb] *n.* 郊外，近郊
+- [suburban]{.headword} [səˈbɜːbən] *adj.* 郊外的，近郊的
+
+**5. 躺在 cumb- 对方的下面 suc-, succumb 输，屈服**
+
+- [succumb]{.headword} [səˈkʌm] *vi.* 输，屈服 = give in
+
+**6. 系 pend 在下面 sus-, suspend ① 悬挂；② 使（暂时）中断**
+
+- [suspend]{.headword} [səˈspend] *vt.* ①挂在（下面）；②使（暂时）中断
+- [suspense]{.headword} [səˈspens] *n.* 悬疑，悬念
+- [suspension]{.headword} [səˈspenʃn] *n.* 悬浮，暂停，停职
+- [suspender]{.headword} [səˈspendə(r)] *n.* 悬挂物
+
+**7. 被抓在cept下面sus-，susceptible易受影响的，易受感染的**
+
+- [susceptibility]{.headword} [səˌseptəˈbɪləti] *n.* 易受感染的状态，易受影响的状态
+
+**8. 代替种plant在下面sup-，supplant代替，取代**
+
+- [supplant]{.headword} [səˈplɑːnt] *vt.* 代替，取代=replace, displace, substitute, supersede
+- [supplantation]{.headword} [ˌsʌplɑːnˈteɪʃn] *n.* 取而代之
+
+**9. 身体易向下sup-弯曲ple，supple柔软的**
+
+- [supple]{.headword} [ˈsʌpl] *adj.* 柔软的=lithe
+- [suppleness]{.headword} [ˈsʌplnɪs] *n.* 柔软
+
+**10. 抓住rep(t)后藏在下面sur-, surreptitious秘密的**
+
+- [surreptitious]{.headword} [ˌsʌrəpˈtɪʃəs] *adj.* 秘密的，隐秘的 = clandestine, cryptic, furtive
+- [surreptitiousness]{.headword} [ˌsʌrəpˈtɪʃəsnɪs] *n.* 隐秘
+
+## Day 51
+
+**1. ab-表示away之义**
+
+- [abnormal]{.headword} [æb'nɔːməl] *adj.* 非正常的
+- [abolish]{.headword} [əˈbɒlɪʃ] *vt.* 废止，取消 =abrogate, repeal
+- [absolute]{.headword} ['æbsəluːt] *adj.* 绝对性的，完全的 = complete
+- [absorb]{.headword} [əb'sɔːb] *vt.* ①吸收 =soak up ②埋头于=engross, immerse
+- [abortion]{.headword} [əˈbɔːʃn] *n.* 堕胎 = termination
+- [abuse]{.headword} [ə'bju:z] *vt.* ①滥用，误用 =misuse ②虐待 =maltreat *n.* ①滥用 ②虐待
+- [abundant]{.headword} [ə'bʌndənt] *adj.* 丰富的 =plentiful, copious
+- [absurd]{.headword} [əb'sɜːd] *adj.* 可笑的，愚蠢的 = ridiculous, ludicrous
+
+**1. 脱离ab-正常noraml的abnormal非正常的**
+
+- [abnormality]{.headword} [ˌæbnɔː'mæləti] *n.* 异常，畸形
+
+**2. 从所有的限制中释放solve脱离ab-、absolute绝对的，完全的**
+
+- [absolutely]{.headword} ['æbsəluːtli] *adv.* 绝对地，完全地
+
+**3. 将分开的东西ab-吸收sorb，absorb吸收**
+
+- [absorption]{.headword} [əb'sɔːpʃn] *n.* 吸收，全神贯注，专心致志
+- [absorbing]{.headword} [əb'sɔːbɪŋ] *adj.* 吸引人的，极有趣的
+
+**4. 偏离原来的目的ab-使用use的话，abuse①滥用；②虐待**
+
+- [abusive]{.headword} [ə'bju:sɪv] *adj.* 滥用的，虐待的
+
+**5. 横溢 unda 溢出 ab-, abundant 丰富的**
+
+- [abundance]{.headword} [ə'bʌndəns] *n.* 丰富
+
+**6. 将很久的 old 东西清除掉 ab-, abolish 废止**
+
+- [abolition]{.headword} [ˌæbəˈlɪʃn] *n.* 废止
+
+**7. 战栗着hor脱离，远离ab-，abhor十分讨厌，憎恶**
+
+- [abhor]{.headword} [əbˈhɔː] *vt.* （很）讨厌，厌恶 =abominate, detest
+- [abhorrence]{.headword} [əbˈhɒrəns] *n.* 痛恨，厌恶
+- [abhorrent]{.headword} [əbˈhɒrənt] *adj.* 厌恶的
+
+**8. 将要出生 born 的东西清除掉 ab-，abortion 堕胎**
+
+- [abort]{.headword} [əˈbɔːt] *vt.* ①使流产；②使终止
+- [abortive]{.headword} [əˈbɔːtɪv] *adj.* 流产的，失败的
+- [miscarriage]{.headword} [mɪsˈkærɪdʒ] *n.* 流产
+
+**10. 因为分开 ab- 所以听不清 surd，absurb 可笑的，愚蠢的**
+
+- [absurdity]{.headword} [əb'sɜːdɪti] *n.* 谬论，荒谬的言行
+
+## Day 52
+
+**Day 52 靠近、接近的ad-**
+
+- [accumulate]{.headword} [əˈkjuːmjʊleɪt] *vi. & vt.* 累积，积聚 = amass, hoard, garner
+- [acquit]{.headword} [əˈkwɪt] *vt.* 释放，宣布无罪 = absolve
+- [allow]{.headword} [əˈlaʊ] *vt.* 允许、容许
+- [assert]{.headword} [əˈsɜːt] *vt.* （强烈）主张
+
+**1. 与……ac-同行company，accompany与……同行**
+
+- [company]{.headword} [ˈkʌmpəni] *n.* 同行，同伴，公司
+- [companion]{.headword} [kəmˈpænjən] *n.* 朋友，同伴
+- [accompaniment]{.headword} [əˈkʌmpənɪmənt] *n.* 伴随物，(音乐) 伴奏
+
+**2. 向……ac-提起诉讼cuse，accuse①告发 ②非难**
+
+- [accuse]{.headword} [əˈkjuːz] *vt.* ①告发=charge ②非难=criticize, blame
+- [accusation]{.headword} [ˌækjuˈzeɪʃn] *n.* 控告，指控
+
+**3. 不后退、向前af-前进ford、afford有做……的空余**
+
+- [affordable]{.headword} [əˈfɔːdəbl] *adj.* 负担得起的，买得起的
+
+**4. 鼓励low做……al-、allow允许、容许**
+
+- [allowance]{.headword} [əˈlaʊəns] *n.* 允许，容许；零用钱；斟酌，考虑
+
+**5. as-确定sert地说的事情，assert强烈主张**
+
+- [assertion]{.headword} [əˈsɜːʃn] *n.* 坚持，断言
+
+**6. 向ac-积聚起来cumul，accumulate累积，积聚**
+
+- [accumulation]{.headword} [əkjuːmjʊˈleɪʃn] *n.* 积聚，累积
+- [accumulative]{.headword} [əˈkjuːmjʊlətɪv] *adj.* 累积的，积聚的
+
+**7. 放弃 quit 对…… ac- 的处罚，acquit 释放，宣布无罪**
+
+- [acquittal]{.headword} [əˈkwɪtəl] *n.* 无罪释放
+
+**8. 右撇子用右手 roit 做…… ad-，adroit 熟练的，谙熟的**
+
+- [adroit]{.headword} [əˈdrɔɪt] *adj.* 熟练的，谙熟的 =adept, dexterous, proficient
+- [adroitness]{.headword} [əˈdrɔɪtnɪs] *n.* 熟练，机敏
+
+**9. 向……ap-鼓掌plaud，applaud鼓掌喝彩，助威叫好**
+
+- [applaud]{.headword} [əˈplɔːd] *v.* 鼓掌喝彩 =clap
+- [applause]{.headword} [əˈplɔːz] *n.* 鼓掌喝彩 =plaudit
+- [acclaim]{.headword} [əˈkleɪm] *vt.* 称赞，喝彩
+
+**10. 抓住prehend确定ap-，apprehend①逮捕；②理解**
+
+- [apprehend]{.headword} [æprɪˈhend] *vt.* ① 逮捕 =arrest ② 理解 =understand, grasp, figure out
+- [apprehension]{.headword} [æprɪˈhenʃn] *n.* 逮捕；恐惧，忧虑 =anxiety
+- [apprehensive]{.headword} [æprɪˈhensɪv] *adj.* 忧虑的，不安的 =concerned
+
+## Day 53
+
+**1. 向后 re- 倒 fuse，refuse 垃圾；拒绝**
+
+- [refusal]{.headword} [rɪˈfjuːzəl] *n.* 拒绝，否决
+
+**2. 向后 re- 使……变松的 lease，release 释放；上映电影；发行、发布唱片或小说**
+
+- [release]{.headword} [rɪˈliːs] *vt.* ①释放；②上映，发行；③排出，散发
+
+**3. 因为反对re-而挣扎luct，reluctant不情愿做某事，勉强的**
+
+- [reluctance]{.headword} [rɪˈlʌktəns] *n.* 勉强，不情愿
+- [reluctantly]{.headword} [rɪˈlʌktəntli] *adv.* 勉强地
+
+**4. 签名sign表示向后re-转身离开的话，resign辞职**
+
+- [resign]{.headword} [rɪˈzaɪn] *v.* 辞职
+- [resignation]{.headword} [ˌrezɪɡˈneɪʃn] *n.* 辞职，放弃
+- [resigned]{.headword} [rɪˈzaɪnd] *adj.* 逆来顺受的，顺从的
+
+**5. 将面纱veal掀到后面re-，reveal揭露，露出**
+
+- [reveal]{.headword} [rɪˈviːl] *vt.* 揭露，露出 =disclose, divulge, unveil
+- [revelation]{.headword} [ˌrevəˈleɪʃn] *n.* 揭露，被揭露的真相
+
+**6. 前 pro- 后 re(ci)- 收送 reciprocal 相互间的**
+
+- [reciprocal]{.headword} [rɪˈsɪprəkl] *adj.* 相互间的 =mutual
+- [reciprocate]{.headword} [rɪˈsɪprəkeɪt] *vi.* *vt.* 交换，交流 =exchange
+- [reciprocity]{.headword} [ˌresɪˈprɒsəti] *n.* 相互作用
+
+**7. 将缰绳 frain 向后 re- 拉、refrain 拒绝、节制**
+
+- [refrain]{.headword} [rɪˈfreɪn] *vi.* 拒绝，节制 =abstain
+
+**8. 留在身后 re- 自己独立离开 linqu，relinquish 抛弃/让步**
+
+- [relinquish]{.headword} [rɪˈlɪŋkwɪʃ] *vt.* 抛弃，让步 = renounce, surrender, give up
+- [delinquent]{.headword} [dɪˈlɪŋkwənt] *n.* 行为不良的人 = wrongdoer
+
+**9. 经过后 re- 被咬 mors 觉得很疼，remorse 后悔，悔悟**
+
+- [remorse]{.headword} [rɪˈmɔːs] *n.* 后悔，悔悟 = regret, compunction, contrition
+- [remorseful]{.headword} [rɪˈmɔːsfʊl] *adj.* 悔恨的，懊悔的
+
+**10. 不能 re- 靠近，接近 proach，reproach 非难，责备；指责**
+
+- [reproach]{.headword} [rɪˈprəʊtʃ] *vt.* 非难，责备 = blame, scold, chide, reprove
+
+## Day 54
+
+**1. 重新re-构成form，reform改革，改善**
+
+- [reform]{.headword} [rɪˈfɔːm] *v.* 改革，革新 =improve, revamp ; *n.* 改革，革新
+
+**3. 重新re-注入in-力量force，reinforce强化，加固**
+
+- [reinforce]{.headword} [,riːɪn'fɔːs] *vt.* 强化，加固 = strengthen, fortify, beef up
+- [reinforcement]{.headword} [,riːɪn'fɔːsmənt] *n.* 加强，加固
+- [enforce]{.headword} [ɪn'fɔːs] *vt.* ①实施，执行；②强迫 = compel
+- [enforcement]{.headword} [ɪn'fɔːsmənt] *n.* 执行，强制
+
+**4. 重新re-想起来mind，remind使……重新想起来，使……记起来**
+
+- [reminder]{.headword} [rɪˈmaɪndə] *n.* 提醒的人或物，催单
+
+**6. 重新 re-纠正 dress，redress 纠正，改正；赔偿金**
+
+- [redress]{.headword} [rɪˈdres] *vt.* 纠正，改正=correct, rectify ; *n.* 赔偿金=compensation, reparations
+- [remedy]{.headword} [ˈremɪdi] *vt.* 改正，纠正；*n.* ①治疗=therapy ; ②解决方案=solution
+
+**7. 不停地 re-，溢出 dund，redundant 过剩的，剩余的**
+
+- [redundant]{.headword} [rɪˈdʌndənt] *adj.* 过剩的，剩余的=superfluous
+- [redundancy]{.headword} [rɪˈdʌndənsi] *n.* 不必要的重复，解雇，裁员=layoff
+
+**8. 重新、再 re- 重复 iterate，reiterate 重复**
+
+- [reiterate]{.headword} [rɪˈɪtəreɪt] *vt.* 重复（要点）=repeat, restate
+- [reiteration]{.headword} [rɪˌɪtəˈreɪʃn] *n.* 重复
+
+**9. 经常 re- 提到的名字 nown，renown 名望、声望**
+
+- [renown]{.headword} [rɪˈnaʊn] *n.* 名望、声望 =prestige, reputation
+- [renowned]{.headword} [rɪˈnaʊnd] *adj.* 著名的 =famous, prestigious
+
+**10. 将丢失的东西重新 re- 找回来 trieve，retrieve 重新找到；挽回，修复**
+
+- [retrieve]{.headword} [rɪˈtriːv] *vt.* ① 重新找到，挽回，修复 = recover, regain, bring back ② 检索（信息）= find out
+- [retrievable]{.headword} [rɪˈtriːvəbl] *adj.* 可补偿的 ↔ irretrievable 不能弥补的
+
+## Day 55
+
+**(4) 让人坐在用木板做成的马车上→搭乘**
+
+- [board]{.headword} [bɔːd] *n.* ①木板，公告牌；②膳食；③委员会 *vi.& vt.* 搭乘；膳宿
+- [boarding]{.headword} [ˈbɔːdɪŋ] *n.* 搭乘
+- [boarder]{.headword} [ˈbɔːdə] *n.* 寄宿生，寄膳者
+- [aboard]{.headword} [əˈbɔːd] *prep.& adv.* 在（船，飞机）上，上船
+
+**2. 书，账簿 book ①书；②（会计）账簿；③预约**
+
+- [book]{.headword} [bʊk] *n.* ① 书 ② [复数]（会计）账簿 *vt.* 预约 = reserve
+- [booking]{.headword} [ˈbʊkɪŋ] *n.* 预定 = reservation
+
+**3. 作者的权力 authority ①权力，权威；②（复数）当局，机关**
+
+- [authority]{.headword} [ɔːˈθɒrəti] *n.* ① 权威，权力 = power；② [复数] 当局，机关（人）
+- [authoritative]{.headword} [ɔːˈθɒrətətɪv] *adj.* 有权威的，当局的
+- [authoritarian]{.headword} [ɔːˌθɒrɪˈteəriən] *n.* 专制主义者
+- [authoritarianism]{.headword} [əˌθɒrəˈteəriənɪzm] *n.* 独裁主义，权力主义
+
+**4. 命令，指挥 command ① 命令；② 受到（尊敬，评价）；③ 俯瞰（展望）；④（语言的）运用能力**
+
+- [command]{.headword} *vi. & vt.* ① 命令；② 受到（尊敬，评价）；③ 俯瞰（展望）
+- [commander]{.headword} [kəˈmɑːndə] *n.* 指挥官，司令官
+- [commanding]{.headword} [kəˈmɑːndɪŋ] *adj.* 指挥的，居高临下的
+
+## Day 56
+
+**Day 56 不管是负担、行李，还是费用，只要填满了，就是charge**
+
+- [charge]{.headword} [tʃɑːdʒ] *vi. & vt.* ①要求付款(付钱)；②揭发，非难；③充电，装上实弹；④攻击
+- [conduct]{.headword} [kənˈdʌkt] *vt.* ①实施；②指挥（介绍）；③行动；④传导 *n.* ①行动；②（事情的）执行
+- [custom]{.headword} [ˈkʌstəm] *n.* ①习惯，惯性；②[复数]关税、海关 *adj.* 定制的，定做的=custom-made
+- [agent]{.headword} [ˈeɪdʒənt] *n.* ①代理人，中介；②（政府）要员；③作用剂；要因
+
+**2. 带领一起向前，conduct ①实施；②指挥；带领；③执行**
+
+- [conductor]{.headword} [kənˈdʌktə] *n.* ①指挥者；②领导者；③导体
+- [conductivity]{.headword} [ˌkɒndʌkˈtɪvɪti] *n.* 导电性，传导性
+
+**3. 完全熟悉 custom ①习惯；惯性 ②[复]关税**
+
+- [customize]{.headword} [ˈkʌstəmaɪz] *vt.* 定做
+
+**4. 行动着的人（事）agent ①代理人，中介；②（政府）要员；③作用剂、要因**
+
+- [agency]{.headword} [ˈeɪdʒənsi] *n.* ①代理，中介；②（政府）机关、部门
+- [detergent]{.headword} [dɪˈtɜːdʒənt] 清洁剂
+
+## Day 57
+
+**1. 从事 engage ①从事；使订婚；②雇用；③吸引或引起（注意、兴趣）；④交战**
+
+- [engage]{.headword} [ɪn'geɪdʒ] *vi. &vt.* ① 约定，订婚；② 雇用；③ 吸引；④ 交战
+- [engaged]{.headword} [ɪn'geɪdʒd] *adj.* 占线的，忙碌的 = busy
+- [engaging]{.headword} [ɪn'geɪdʒɪŋ] *adj.* 迷人的 = attractive, inviting, fascinating
+- [engagement]{.headword} [ɪn'geɪdʒmənt] *n.* 订婚，约定，雇用，契约
+
+**2. 注视、留意regard ①看作；②注视，凝视；③尊重；注意，注目**
+
+- [regard]{.headword} [rɪˈɡɑːd] *vi.&vt.* ①看作 ②注视，凝视；*n.* 尊重；注意，注目
+- [regarding]{.headword} [rɪˈɡɑːdɪŋ] *prep.* 关于，至于 =about, as regards
+
+**3. 制止 check ①阻止，遏制；②调查，检查；③支票**
+
+- [check]{.headword} [tʃek] *vt.* ①阻止，遏制；② 调查，检查 *n.* 支票
+
+**4. （意想不到）突然发生的事情accident ①事故；②偶然的事**
+
+- [accident]{.headword} [ˈæksɪdənt] *n.* ①事故；②偶然（的事）
+- [accidental]{.headword} [ˌæksɪˈdentəl] *adj.* 偶然的
+- [accidentally]{.headword} [ˌæksɪˈdentəlɪ] *adv.* 偶然地 ↔ deliberately 故意地
+
+## Day 58
+
+**Day 58 不管账单还是法案，盖了印章的纸都是bill**
+
+- [bill]{.headword} [bɪl] *n.* ①账单，通知书；②纸币=note；③法案
+- [commit]{.headword} （原意：完全托付）
+- [brand]{.headword} [brænd] *vt.* 打烙印 *n.* 商标
+- [blunt]{.headword} [blʌnt] *adj.* ①钝的 ↔ sharp 锋利的；②（过分的）直率的，单刀直入的
+
+**3. 打烙印 brand ① 打烙印；② 商标，品牌**
+
+- [brand-new]{.headword} [ˈbrændˈnjuː] *adj.* 崭新的
+
+**4. 因为眼瞎，所以感觉迟钝 blunt ①迟钝的；②直率的，直言不讳的**
+
+- [bluntly]{.headword} [ˈblʌntli] *adv.* 坦率地，直率地，迟钝地
+
+## Day 59
+
+**1. (在意想不到的情况下) 发生的 casual ①偶然的，不经意的；②不定期的，偶尔的；③随意的**
+
+- [casual]{.headword} [ˈkæʒuəl] *adj.* ①偶然的，不经意间的；②不定期的，偶尔的；③随意的
+- [casualty]{.headword} [ˈkæʒuəlti] *n.* 意外事故，伤亡人员
+
+**3. 用手艺来蒙蔽别人的眼睛 → 骗术**
+
+- [craft]{.headword} [krɑːft] *n.* ①手艺，手工艺（品）；（专门）职业；②（小）船，飞机，宇宙飞船；③骗术
+- [crafty]{.headword} [ˈkrɑːfti] *adj.* 狡猾的 = sly, cunning
+
+**3. 雕刻的记号 character ①性格，特性；②（电影或小说中出场的）人物；③人格**
+
+- [character]{.headword} [ˈkærəktə] *n.* ①性格，特征；②（出场）人物；③人格，品性
+- [characterized]{.headword} [ˈkærəktəraɪzd] *adj.* 有特点的
+- [characteristic]{.headword} [ˌkærəktəˈrɪstɪk] *n.* 特征，特性（feature） *adj.* 典型的
+- [charaterize]{.headword} [ˈkærəktəraɪz] *v.* 描绘特性，塑造人物
+
+## Day 60
+
+**1. 数，计算 account ①账户；②说明，记事；③理由；重要性；④考虑**
+
+- [account]{.headword} [əˈkaʊnt] *n.* ①计算，账户；②说明，记事；③理由；重要性；④考虑
+- [accountable]{.headword} [əˈkaʊntəbl] *adj.* 有责任的 =responsible
+- [accounting]{.headword} [əˈkaʊntɪŋ] *n.* 会计学
+- [accountant]{.headword} [əˈkaʊntənt] *n.* 会计师
+
+**2. 朝向……address ①地址；②演说；③（正式）着手**
+
+- [address]{.headword} [əˈdres] *n.* ①地址 ②演说
+
+**3. 完全适应 accommodate ①容纳；②迎合；③（调整以）适应**
+
+- [accommodate]{.headword} [əˈkɒmədeɪt] *vt.* ①容纳，提供住宿 ②迎合，迁就 ③（调整以）适应 = adapt, adjust
+- [accommodation]{.headword} [əkɒməˈdeɪʃn] *n.* ①住处 ②和解 = agreement
+- [accommodating]{.headword} [əˈkɒmədeɪtɪŋ] *adj.* 乐于助人的，随和的
+
+**(4) 在脑海中勾画出的画面（模样）→ 想**
+
+- [figure]{.headword} [ˈfɪɡə] *n.* ①数值，数字；②（重要）人物，人；③身材，模样 *vt.* 想
+
+## Day 17
+
+**Day 17**
+
+- [additive]{.headword} 添加剂，添加物
+- [defy]{.headword} 不服从，公然反抗
+- [contravene]{.headword} 违反，违背
+- [brusque]{.headword} 粗鲁的，莽撞的
+
+## Day 18
+
+**Day 18**
+
+- [respective]{.headword} 各自的，分别的
+- [descend]{.headword} 下来，向下倾斜
+- [ascend]{.headword} 攀登，上升
+- [devise]{.headword} 想出，图谋
+
+## Day 19
+
+**Day 19**
+
+- [collide]{.headword} 相撞、碰撞
+- [delude]{.headword} 欺骗，哄骗
+- [discourage]{.headword} 使气馁，使沮丧
+- [encounter]{.headword} 遭遇，对抗
+- [inanimate]{.headword} 无生命的，无精打采的
+
+## Day 20
+
+**Day 20**
+
+- [bristle]{.headword} （猪等的）鬃毛，刚毛
+- [sparse]{.headword} 稀疏的，稀少的
+- [irritating]{.headword} 气人的，使人不愉快的
+

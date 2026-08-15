@@ -1,0 +1,365 @@
+# Day 35 · 生命必需的是vitamin，多种物质掺杂在一起的是blend {.unnumbered}
+
+::: {.root-banner}
+Day 35 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p307–p314
+
+<!-- p.292 -->
+
+最近，很多人为了维持身体健康开始吃维生素。虽然可以通过蔬菜和水果摄取维生素，但最近很多人吃保健品supplement来摄取维生素。vitamin有A、B、C、D、E等多个不同种类，当然也有将各种维生素混合blended在一起的复合维生素。均匀地摄取复合维生素对我们的健康是非常有益的。今天让我们一起来学习一下与vitamin维生素和blend混合相关的词汇吧！
+
+**Voca Map：vitamin 维生素**
+- vitamin 维生素
+  - viable ①能养活的 ②可实施的
+  - vivacious 有生机的
+  - vivid 有生机的
+  - survive 从……中幸存
+
+**Voca Map：blend 混合**
+- blend 混合
+  - bland 清淡的；冷漠的
+  - blunder 大过错
+  - blind 眼瞎的；盲人的
+  - blonde 金发的（女子）
+
+<!-- p.293 -->
+
+## 1. 生命中必需的物质 vitamin 维生素
+
+<!-- 插图：维生素药瓶 -->
+
+::: {.etymo}
+可能是最近人们对健康的关注度越来越高的缘故，vitamin这个外来词的使用频率也越来越高。这个词在日常生活中经常使用，了解一下它的词源，你会觉得更有意思！将vitamin进行词源分析如下：vit生命（life）+amin有机化合物，意为“对生命必需的胺”，即是“对生命必需的物质”，这样就容易多了。还有一点很重要，词根vit，vit是“生命life”的意思。vital的意思是“（对维持生命）必需的，必不可少的”，viva是感叹词，意为“万岁，做得好”。
+:::
+
+- **vitamin** [ˈvaɪtəmɪn] *n.* 维生素
+  - lack of vitamin C 缺乏维生素C
+- **vital** [ˈvaɪtl] *adj.* 生命的，重要的
+  - Exercise is vital for health. 运动对健康很重要。
+- **viva** [ˈvaɪvə] *n.* 万岁！好！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+我们经常使用的“维他命”的正确发音是 [ˈvaɪtəmɪn]，大家不要忘记哦！
+:::
+
+> Try to eat foods that are rich in **vitamins** and minerals.
+> 试着吃些富含维生素和矿物质的食物。
+
+> These measures are **vital** to national security.
+> 这些措施对于国家安全很重要。
+> （measure [ˈmeʒə(r)] 措施，尺寸，方法）
+
+## 2. 如果能活下去的话，viable 能生存的，可实施的
+
+<!-- 插图：父母看着婴儿保温箱，对话框：孩子的状况已经好转，可以viable活下去了！ -->
+
+::: {.etymo}
+单词viable也是一个在考试中经常出现的重复词汇。将viable进行词源分析如下：vi（v）生命（life）+-able可以……的，意为“能生存的”。孩子出生后viable的话，就是“能生存的”的意思；计划plan制定后的话，就是viable“可实施的”。大家不要忘记应该根据后面出现的名词来决定viable的意义哦！
+:::
+
+- **viable** [ˈvaɪəbl] *adj.* ①能生存的 ②可实施的 = feasible, practicable
+  - a viable baby 能养活的小孩
+  - a viable proposition/alternative 可行的提议/代行方案
+- **viability** [ˌvaɪəˈbɪləti] *n.* 生存能力；可行性
+
+<!-- p.294 -->
+
+> Unfortunately, the baby was not **viable**.
+> 不幸的是，孩子没能活下来。
+
+> Do you think this is a **viable** proposition?
+> 你觉得这是个可行的提案吗？
+
+> The committee will come up with a **viable** solution.
+> 委员会会想出一个可行的解决方案。
+> （come up with 提出，想出）
+
+## 3. 活着本身 vivid 有生机的
+
+::: {.etymo}
+“清晰的回忆”、“生动的画面”是我们经常表达的吧？在这里，与汉语“生动的”相对应的英文单词是vivid。拆分vivid进行词源分析，即为：viv生命（life）+-id形容词结尾词，其义为“活着的，生动的”。其中viv（生命、活生生的）是词根root，通过它还可以生成很多单词。
+:::
+
+- **vivid** [ˈvɪvɪd] *adj.* 生动的，鲜明的 = lively
+  - vivid memories 鲜活的记忆
+  - a vivid picture 一幅生动的图画
+- **vividness** [ˈvɪvɪdnɪs] *n.* 生动鲜明
+
+> My mother's image is still **vivid** in my mind.
+> 我妈妈的样子在我的脑海里依然生动鲜明。
+
+> I still have **vivid** memories of the incident.
+> 我对事故的印象依然鲜明。
+
+## 4. 拥有生命力的 vivacious 活泼的，快活的
+
+<!-- 插图：两位面带笑容、活泼开朗的女子 -->
+
+::: {.etymo}
+看着图片中的女子，你会不会觉得她们很活泼、很快活呢？这时候我们用到的单词就是vivacious，vivacious的词源义是“拥有生命力的”，而该词也就随之派生出“活泼的，快活的”意思。实际上，vivacious是一个经常用于描述活泼明朗的女子，且多用于正面的positive评价。当你遇到让人觉得心情开朗的人时，也可以试着用这个单词来赞扬他哦！
+:::
+
+- **vivacious** [vɪˈveɪʃəs] *adj.*（女子）活泼的，快活的 = cheerful, lively, sprightly
+  - a vivacious personality 活泼的性格
+- **vivaciousness** [vɪˈveɪʃəsnɪs] *n.* 活泼，快活
+
+<!-- p.295 -->
+
+> She had always been **vivacious** and sparkling.
+> 她总是很活泼，充满生气。
+
+> The outgoing, **vivacious** girl became a successful sales woman.
+> 那个外向、活泼的女孩成为一个成功的销售人员。
+
+> As she was beautiful and **vivacious**, he was naturally attracted to her.
+> 她美丽活泼，他自然被她吸引了。
+
+## 5. 比……活得更久，survive 在……幸存下来，比……活得更久
+
+<!-- 插图：记者采访空难幸存者，气泡文字：“航空事故唯一的survivor幸存者啊！” -->
+
+::: {.etymo}
+大家经常听到存活survival这个单词吧？它常用于词组“survival game”，“survival meeting”。survival的动词形式是survive，你知道有survive的句子解释起来比较困难吗？拆分survive进行词源分析的话，就是：sur向下(beyond)+viv（e）活着(live)，其义为“比……活的更久”。比如，survive the war的意思是“比战争活得更久”，即“在战争中存活下来，生存”；suivive her husband的意思是“比丈夫活得更久（丈夫先死去）”。另外，大家还要记住suivive作不及物动词时也是“活下来，生存”的意思。
+:::
+
+- **survive** [səˈvaɪv] *vt.* 在……中存活下来，比……活得更久
+  *vi.* 生存
+- **survival** [səˈvaɪvl] *n.* 生存
+  - a chance of survival 生存的可能性
+  - survival rate 生存率
+- **survivor** [səˈvaɪvə(r)] *n.* 幸存者
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**She survived her husband.**=Her husband is survived by her.
+她比丈夫活得更久。
+**A survive B=B is survived by A** 的意思是“A比B活的更久”。
+尤其是“be survived by”的被动表达方式大家一定要记住哦！
+:::
+
+> More and more people are **surviving** cancer.
+> 患了癌症还活着的人越来越多。
+
+> Only the companies with a competitive edge can **survive** in the world market.
+> 有竞争优势的公司才能在世界市场上生存。
+> （competitive edge 竞争优势）
+
+> He is the only **survivor** of the plane crash.
+> 他是那次空难唯一的幸存者。
+
+## 6. 将各种东西混合在一起 blend 混合
+
+<!-- 插图：泡咖啡搅拌调匀 -->
+
+::: {.etymo}
+大家喜欢喝咖啡吗？在热水里加上咖啡、咖啡伴侣、糖之后，再用勺子搅拌一下，这些物质就会融为一体。像这样，将各种不同物质“混合为一体”的动词就是“blend”。词组“blend
+:::
+
+<!-- p.296 -->
+
+whiskey”中的“blend”直接理解为“混合（的）”就OK了！
+
+- **blend** [blend] *v.* 混合 = combine
+  *n.* 混合物
+  - blend in with 与……十分协调
+  - blend flour and egg 把面粉和鸡蛋混合
+
+> She **blends** psychology and crime well in her new novel.
+> 在她的新小说里，她把心理和犯罪结合得很好。
+
+> The old cottage **blends in** perfectly **with** the peaceful rural scene.
+> 古老的小屋和宁静的乡村景色完美地融合在一起。
+
+## 7. 由 blend 的元音变化后形成的单词，bland 清淡的；单调的；冷漠的
+
+::: {.etymo}
+将前面学过的单词blend的一个元音替换后组成的单词就是bland清淡的；单调的。为什么会出现这个意思呢？试想一下，如果咖啡太浓的话，大家会怎么做呢？得再掺点儿水！可是如果水掺得太多的话，咖啡就会变得太过清淡。这种状态就是bland。也就是说，bland是从“掺（水）”转换成了“清淡的；单调的”意思。味道可以用清淡来描述，但是如果电影或者谈话内容清淡的话就应该是“单调；无聊”。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+从 bland 发展而来的单词 blandishment（奉承）是“只跟对方说好话”的意思。
+:::
+
+- **bland** [blænd] *adj.* ① 清淡的 = tasteless
+  ② 单调的，无聊的 = dull, uninteresting
+  - bland soup 清汤
+  - a bland story 无聊的故事
+
+> This soup tastes a little **bland** to me.
+> 我尝这汤有点淡。
+
+> The story of the film is **bland** and boring.
+> 电影的故事情节单调乏味。
+
+## 8. 将各种东西混合起来的话，blind 瞎的，盲的；盲目的
+
+<!-- 插图：戴着眼罩或闭着眼睛的人物肖像 -->
+
+::: {.etymo}
+乍一看，大家可能很难理解blind瞎的，盲的是源自于blend混合吧？虽然现在视力eyesight变差的话可以戴眼镜，纠正correction视力，但在以前，视力变差的话就只能任其发展，没有什么解决办法method。当视力慢慢变差的时候，肉眼naked eye看到的东西就会模糊。由blend变化元音后形成的单词blind，其词义由最初的“（事物）看
+:::
+
+<!-- p.297 -->
+
+起来混合在一起的”发展成了“瞎的，盲的”。另外，还有一个不能忽视的表达，就是blind date初次约会。大屋门上挂着的“遮阳板”也是blind这个词。
+
+- **blind** [blaɪnd] *adj.* ①瞎的，盲的 ②盲目的
+  *vt.* 使看不见
+  *n.* 遮阳板
+  - blind loyalty to the king 对国王盲目的忠诚
+
+> The **blind** man groped his way to the door.
+> 盲人摸索着走到门口。（grope one's way 摸索着道路）
+
+> Don't turn a **blind** eye to the problem.
+> 不要对问题忽略不见。
+
+> **Blind** loyalty sent thousands of people to a pointless war.
+> 盲目的忠诚让成千上万的人陷入到无意义的战争中。
+> （pointless [ˈpɔɪntlɪs] 没有意义）
+
+## 9. 闭着眼睛做事，blunder 大过错
+
+<!-- 插图：滑冰滑倒的人摔了个大屁蹲儿 -->
+
+::: {.etymo}
+blunder是从我们刚才学的单词blind发展而来的词。拆分该词进行词源分析，即为：blund眼睛瞎的(blind)+-er名词词性结尾词，指“闭着眼睛做事”，引申为“大过错”。不管做什么事情，如果闭着眼睛的话肯定会犯很大的过错的。花样滑冰选手在表演的过程中有时候会摔了个大屁蹲儿falling on one's hips，这就是blunder。
+:::
+
+- **blunder** [ˈblʌndə(r)] *n.* 大过错 = fault, mistake
+  *v.* 犯大过错；笨拙地说出
+  - fix a minor blunder in the advertising flyer 修改了广告传单中的一些小错误
+- **blundering** [ˈblʌndərɪŋ] *adj.* 浮躁的，粗笨的 = careless, inadvertent
+
+> She was infected as a result of a hospital **blunder**.
+> 她的感染源于医院的过失。
+
+> The defense made a **blunder** that cost the team the game.
+> 防御失误导致这个队丢掉了比赛。
+
+## 10. 从变得灰白的头发发展而来的单词 blonde 金发的（女子）
+
+::: {.etymo}
+原来 blonde 的意思是黑色的头发里长出了白发，于是黑发变成灰白的头发 gray-haired。后来，这个词慢慢演变为“有颜色的”意思，不知
+:::
+
+<!-- p.298 -->
+
+从什么时候开始，它主要用作“金发的”的意思。电影“*Legally Blonde*《律政俏佳人》”的人气是相当的高。大家还要记得在美国，金发还被描述 description 为愚蠢的 stupid 意思！
+
+<!-- 插图：金发女性照片 -->
+
+**Voca Map**
+- blend 混合
+  - → blonde 金黄色的
+  - → bland 清淡的
+  - → blind 盲的
+  - → blunder 过错
+
+- **blonde** [blɒnd] *adj. & n.* 金发的（女子）
+  - his pretty blonde sister 他妹妹是金发美女
+  - her hair dyed blonde 她的头发染成了金黄色
+  - platinum blonde 银灰色的头发
+
+> She has **blonde** hair and big blue eyes.
+> 她有金黄色的头发和蓝色的大眼睛。
+
+> She was unfairly caricatured as a dumb **blonde**.
+> 她被漫画不公平地讽刺为愚蠢的金发女郎。
+
+## 单词回顾
+
+::: {.etymo}
+1. 生命中必需的物质
+   → 维生素 ______
+2. 如果能活下去的话
+   → 能生存的，可实施的 ______
+3. 活着本身
+   → 有生机的 ______
+4. 拥有生命力
+   → 活泼的，快活的 ______
+5. 比……活得更久
+   → 在……幸存下来，比……活得更久 ______
+6. 将各种东西混合在一起
+   → 混合 ______
+7. blend 的变化元音后形成的单词
+   → 清淡的；单调的；冷漠的 ______
+8. 将各种东西混合起来
+   → 瞎的，盲的；盲目的 ______
+9. 遮住眼睛做事
+   → 大过错 ______
+10. 从变得灰白的头发发展而来的单词
+    → 金发的（女子） ______
+:::
+
+答案 1. vitamin 2. viable 3. vivid 4. vivacious 5. survive 6. blend 7. bland 8. blind 9. blunder 10. blonde
+
+<!-- p.299 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. viable ______
+2. vivid ______
+3. vivacious ______
+4. bland ______
+5. blind date ______
+6. blunder ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 让我们试着制定一个**可实施的**计划吧！______
+2. 那件事情我至今仍**记忆犹新**。______
+3. 我喜欢那个女孩儿**活泼开朗的**样子。______
+4. 他是怎么从那么恐怖的事故中**幸存下来**的呢？______
+5. 要是觉得**清淡**的话就再放点儿盐吧！______
+6. **盲目的**信任只会带来惨淡的结果。______
+7. 她犯了**大过错**。______
+8. 我喜欢**金发女子**。______
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. His proposition is the only **viable** solution.
+   A. feeble    B. feasible    C. frail
+
+2. The traffic accident is ______ in my memory.
+   A. vivid    B. viable    C. vivacious
+
+3. He always pays ______ loyalty to his boss.
+   A. bland    B. blind    C. blended
+
+4. That was the greatest **blunder** in his life.
+   A. blind    B. mistake    C. trial
+
+---
+
+## 本日词汇速查（17 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [vitamin]{.headword} | ˈvaɪtəmɪn | n | 维生素 |
+| [vital]{.headword} | ˈvaɪtl | adj | 生命的，重要的 |
+| [viva]{.headword} | ˈvaɪvə | n | 万岁！好！ |
+| [viable]{.headword} | ˈvaɪəbl | adj | ①能生存的 ②可实施的 = feasible, practicable |
+| [viability]{.headword} | ˌvaɪəˈbɪləti | n | 生存能力；可行性 |
+| [vivid]{.headword} | ˈvɪvɪd | adj | 生动的，鲜明的 = lively |
+| [vividness]{.headword} | ˈvɪvɪdnɪs | n | 生动鲜明 |
+| [vivacious]{.headword} | vɪˈveɪʃəs | adj | （女子）活泼的，快活的 = cheerful, lively, sprightly |
+| [vivaciousness]{.headword} | vɪˈveɪʃəsnɪs | n | 活泼，快活 |
+| [survival]{.headword} | səˈvaɪvl | n | 生存 |
+| [survivor]{.headword} | səˈvaɪvə(r) | n | 幸存者 |
+| [blend]{.headword} | blend | v | 混合 = combine |
+| [bland]{.headword} | blænd | adj | ① 清淡的 = tasteless |
+| [blind]{.headword} | blaɪnd | adj | ①瞎的，盲的 ②盲目的 |
+| [blunder]{.headword} | ˈblʌndə(r) | n | 大过错 = fault, mistake |
+| [blundering]{.headword} | ˈblʌndərɪŋ | adj | 浮躁的，粗笨的 = careless, inadvertent |
+| [blonde]{.headword} | blɒnd | adj. & n | 金发的（女子） |
+

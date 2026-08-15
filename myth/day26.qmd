@@ -1,0 +1,380 @@
+# Day 26 · 结束是fin和termin {.unnumbered}
+
+::: {.root-banner}
+Day 26 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p231–p238
+
+<!-- p.216 -->
+
+在大家所熟悉的单词中，有finish结束这个词吧！从现在开始，请不要将思维停留在该词的“结束”之义上。请大家一起来了解该词中含有“结束end”之义的词根fin。
+
+熟悉单词的词根，你就可以较易地掌握很多单词的词义。大家都知道那部让阿诺德·施瓦辛格声名鹊起的电影《终结者》（*terminator*）吧？这里的termin也是含有“结束”之义的词根！
+
+<!-- 插图：拿着写有 fin、termin 横幅的人物 -->
+
+**Voca Map：fin是end**
+
+- fin尽头(end) + -ite形容词后缀（有尽头的） → **finite** 有限的，限定的
+  - in-否定 + finite有限的（没有尽头的 (finite的反义词)） → **infinite** 无限的，无穷的
+- con-明确的 + fine定下尽头（明确地结束） → **confine** 限制，局限于
+- de-完全的 + fine表示结束（确定（意思的）结尾） → **define** 规定，使明确
+- re-再次 + fine好的（更好地） → **refine** 提炼，改善
+
+**Voca Map：termin是end**
+
+- termin结束(end) + -ate动词后缀（结束掉） → **terminate** 使结束
+  - in-否定 + terminable可以结束的（不结束的） → **interminable** 没完没了，冗长的
+- termin缩略而成的单词term（（时间，想法等的）结束） → **term** 学期，术语
+- de-强调 + termin(e)结束(end)（明确地结束（心里所想的）） → **determine** 决定
+- ex-向外 + terminate结束（赶到外面消除） → **exterminate** 消灭，根除
+
+<!-- p.217 -->
+
+## 1. 因为有尽头 fin，finite 有限的
+
+<!-- 插图：沙漏 -->
+
+::: {.etymo}
+世上大多数事物都是有始有终的，生命尤为如此。再过时日，我们会度过青年 youth 时代，时间再往前推，我们也会变老。正因如此，我们的寿命 life span 是有限的。这样已经限定下了结局 fin 的就是“有限的 finite”。
+:::
+
+- **finite** [ˈfaɪnaɪt] *adj.* 有限的 =limited
+  - finite resources 有限的资源
+  - finite life span 有限的寿命
+
+> Petroleum is a **finite** resource.
+> 石油是有限的资源。
+
+> We have to conserve our **finite** resources.
+> 我们必须保护好有限的资源。
+
+## 2. 因为没有 in- 尽头 finite，infinite 无限的
+
+<!-- 插图：小地球看着星星说“宇宙真是无限啊” -->
+
+::: {.etymo}
+很多东西随着时光流逝，这不免让人伤感 sorrow，幸好有些东西是永恒的，没有尽头的。譬如母爱，是没有尽头的爱 infinite love。而宇宙是无边无际的，所以才会有“无限的宇宙 an infinite universe”之说。infinite 与我们前面所学的 finite 有限的是反义词，即“没有尽头的，无限的”的意思。日产车中，有一种叫 Infiniti 英菲尼迪的汽车，该车名正源自于 infinite 的名词形式 infinity。
+:::
+
+- **infinite** [ˈɪnfɪnɪt] *adj.* 无限的，无穷的，无数的 =endless, unlimited
+  - her infinite patience 她无限的耐心
+  - his infinite potential 他无限的潜力
+- **infinity** [ɪnˈfɪnɪti] *n.* 无穷大
+
+**Voca Map**
+- finite（形容词）有限的 $\leftrightarrow$ infinite（形容词）无限的，无穷的
+  - $\downarrow$
+  - infinity（名词）无穷大
+
+> It's really difficult to imagine an **infinite** universe.
+> 想象无限的宇宙是件非常困难的事情。
+
+> Mothers are women of **infinite** patience.
+> 母亲都是有着无限耐心的女人。
+
+<!-- p.218 -->
+
+## 3. 明确地 con- 定下尽头 fine，confine 限制，禁闭
+
+<!-- 插图：被关在牢房里的男人 -->
+
+::: {.etymo}
+右图中男人被关了起来，他可以自由活动的范围（尽头）是有明确限定的。可以看出，那是监狱。这个人被 confine 紧闭，限制起来。confine 的前缀 con- 是“强调”的意思。confine 由其词源义“明确地定下尽头”引申为把人“禁闭”起来或“限定”范围的意思。
+:::
+
+- **confine** [kənˈfaɪn] *vt.* 限制，局限于，禁闭 = limit, restrict
+  - confine A to B 把 A 限制在 B 内
+  - confine the sale of cigarettes 限制香烟的销售
+- **confined** [kənˈfaɪnd] *adj.* 受限制的，（指空间）有限的
+- **confinement** [kənˈfaɪnmənt] *n.* 限制，监禁
+
+> Low interest loans are **confined** to college students.
+> 低利率贷款对象仅限于大学生。
+
+> All the illegal immigrants were **confined** to the small island.
+> 所有非法移民都被监禁在那个小岛上。
+> （immigrant [ˈɪmɪɡrənt] 移民，侨民）
+
+> The rebel was ultimately captured and **confined** to jail.
+> 叛乱者最终被抓住，囚禁在监狱里。
+
+---
+
+## 4. 确定（意思的）结尾 fine，define 下定义，规定
+
+::: {.etymo}
+英语中“define your dream”意为“给你的梦想下一个定义”。我们买火车票时，要定下终点站才能买，更何况是我们的人生。这样，源自于“明确地确定事物的结尾”之义的 define 就生成了“下定义”的意思。
+:::
+
+- **define** [dɪˈfaɪn] *vt.* 下定义，规定
+  - define A as B 把 A 定义成 B
+  - define the concept of freedom 定义自由的概念
+- **definition** [ˌdefɪˈnɪʃn] *n.* 定义，规定
+- **definite** [ˈdefɪnɪt] *adj.* 确切的，一定的，肯定
+
+> When do you think you’ll have something **definite** on it?
+> 你什么时候能做出明确的决定？
+
+> He has no **definite** plans for his future.
+> 他对自己的未来没有明确的规划。
+
+> The authority of the President is clearly **defined** in the Constitution.
+> 宪法明确地规定了总统的权限。
+
+**Voca Map**
+- constitute ↔ compose
+  - constitute (及物动词) 构成，组成
+  - compose (及物动词) 组成，构成
+  - ↓
+  - **constitution**
+    - (名词) 建立；体格；宪法
+    - *若大写 constitution 的首个字母，即“Constitution”，则是“宪法”的意思
+
+<!-- p.219 -->
+
+## 5. 使之更re-好的fine，refine精制，改善
+
+<!-- 插图：提炼石油的机器与工人，对话：“这就是完全提炼过的石油啊！” -->
+
+::: {.etymo}
+从海底涌上来的油被称为crude oil原油。原油不能直接使用，需要提炼。这时所使用的表达就是refine crude oil精炼原油。想要理解refine一词，首先要先从fine好的着手。
+:::
+
+在fine前加上表“再次”之义的前缀re-所构成的单词就是refine精制，改善，是“把现有的东西变得更好”的意思。
+
+- **refine** [rɪˈfaɪn] *vt.* 提炼，改善 =improve, enhance
+  - refine petroleum 提炼石油
+  - refine the company's image 改善公司的形象
+- **refined** [rɪˈfaɪnd] *adj.* 精炼的，精制的
+
+> Oil has to be **refined** before it can be used.
+> 石油在使用之前要提炼。
+
+> The company has a special technology to **refine** crude oil.
+> 那家公司拥有特殊的原油提炼技术。
+
+> Engineers are working on developing and **refining** car engines.
+> 工程师致力于开发、改进汽车引擎。
+
+## 6. 结束termin-掉，terminate结束，终结
+
+<!-- 插图：持枪的终结者，对话：“我就是terminator终结者！” -->
+
+::: {.etymo}
+由左图中的画面，大家也能猜出是那部电影吧？这部电影也是编者非常喜欢的一部电影—*Terminator*。不过，terminator是什么意思呢？该词由其词源义“结束掉的人”引申为“终结者”之义。需要注意的是，该词的词根termin是“结束end”的意思，而我们要学的第一个含有词根termin的单词就是terminate结束，终结。
+:::
+
+- **terminate** [ˈtɜːmɪneɪt] *vt.* 结束、终结 =end
+  - terminate a discussion (meeting) 结束讨论（会议）
+  - terminate the long war 停止长期战乱
+- **termination** [ˌtɜːmɪˈneɪʃn] *n.* 结束，终止 =abortion
+  - the termination of marriages 婚姻终止
+  - the termination of the Ice Ages 冰河世纪的终结
+
+<!-- p.220 -->
+
+> The contract will be **terminated** next year.
+> 那份合同于明年终止。
+
+> Is it possible to **terminate** the contract before its term is up?
+> 在合同期满前，可以解除合同吗？
+
+## 7. 无法in结束termin，interminable无止境的，冗长的
+
+<!-- 插图：台上人喋喋不休“interminably long speech呀~”，台下听众困倦无聊 -->
+
+::: {.etymo}
+在电影 *Terminator 2* 中，阿诺德·施瓦辛格“I'll be back.”后就消失了。事实上，电影 Terminator 还有续集。这里我们要学的单词 interminable，其具有否定义的前缀 in- 是理解该词的核心。如果说 terminable 是“可以结束的”，那么 interminable 就是“没有尽头的”。举例来说，interminable speech 是指“冗长的演讲”。试想一下，看起来好像要结束却拖着一直不结束的演讲、
+:::
+
+- **interminable** [ɪnˈtɜːmɪnəbl] *adj.* 无止境的，冗长的，没完没了 = endless, boring
+  - interminable delays 无限期推迟
+  - the interminable movie 枯燥乏味的电影
+
+> **Interminable** delays at the airport annoyed us.
+> 没完没了的航班延误让我们很烦。
+
+> The head teacher delivered an **interminably** long speech.
+> 校长做了一个冗长乏味的演讲。
+
+**Voca Map**
+- **terminate** （动词）结束、终结，明暗界限
+  ↓
+  - **terminator** （名词）终结者、终结器
+    ↓
+    - **termination** （名词）1. 结束，结局 2. 终止妊娠 ‖ **abortion**
+    - ↔ **interminable** （形容词）冗长的，无止境的
+
+## 8. 由termin缩略而成的单词term 1.期限 2.术语，用语 3.（复数）关系，条件
+
+::: {.etymo}
+term 这个词稍有些复杂，它是由词根 termin 掉 -in 后的名词，在词源上具有“结束”的意思。时间上有尽头的话，就是“期限”；给想法做个了结的话，就是“术语，用语”；在彼此的关系上做个结（扣）的话，就是“关系，条件”的意思。在这三个词义中，作“关系，条件”之解的词义尤为重要。举例来说，a long term contract 是“长期合约”，computer terms 是“计算机术语”，the terms of the contract 是“合约条款”的意思。
+:::
+
+<!-- p.221 -->
+
+- **term** [tɜːm] *n.* 1. 期限 2. 术语，用语 3. (复数) 关系，条件
+  - come to terms with 与……达成协议，忍受
+  - his second term of office 他的第二个任期
+  - confirm one's terms of employment 确定某人的聘用条款
+  - in terms of 就……而言
+
+::: {.mnemonic}
+**温馨小贴士**
+
+term 1. 时间有尽头 → “期限” 2. 给想法做个了结 → “术语，用语” 3. 在彼此的关系上做个结 → “条件，关系”（常用复数形式terms）。
+:::
+
+> We made a long **term** contract with the company.
+> 我们与该公司签订了长期合同。
+
+> Legal **terms** are really difficult.
+> 法律术语真难。
+
+> I'm on good **terms** with her.
+> 我和她关系很好。
+
+## 9. 明确地 de- 结束 termin（心里所想的），determine 决定 [下决心]
+
+<!-- 插图：人物指着字母 A，气泡中文字为“我决定了一定要去那所大学！” -->
+
+::: {.etymo}
+有这样一句话：Life is a series of choices。意思是“人生是一系列的选择”。虽说做选择的时候会苦恼，但一旦做了决定，就不要再后悔regret。这里我们要学的单词determine由其词源义“在心里明确地做出了断”引申为“决定”。俗话说，考虑consideration要多方面，决定determination要迅速！
+:::
+
+- **determine** [dɪˈtɜːmɪn] *vt.* 确定，(使)做出决定，下决心 = decide
+  - determine the cause of death 确定死亡的原因
+  - determine the new product's name 确定新产品的名称
+- **determination** [dɪˌtɜːmɪˈneɪʃn] *n.* 决定，决心
+- **determined** [dɪˈtɜːmɪnd] *adj.* 坚定的，毅然的，确定的
+
+> What **determines** success in life?
+> 人生中，决定成功的要素是什么？
+
+> The aim of the inquiry was to **determine** what had caused the accident.
+> 调查的目的就是确定导致事故的原因。
+
+> The age of a wine is a **determining** factor as to how it tastes.
+> 葡萄酒的年份（哪年生产的）是其味道的决定性因素。
+
+## 10. 赶到外面 ex- 消除 termin，exterminate 消灭，杀灭（害虫等）
+
+::: {.etymo}
+据新闻article报道：韩国气候转变为亚热带气候subtropical climate的同时，各地受到了多种害虫pest的袭击。这些该死的害虫本应全部消灭……
+:::
+
+<!-- p.222 -->
+
+要不然意为“欺负”的单词pester的词源怎么会是pest害虫呢？
+
+在这种情况下，让我们联想到单词exterminate。单词exterminate由其词源义“把害虫赶到外面（完全）消除掉”引申为“消灭”的意思。那么专门做这种事情的人就是exterminator驱虫从业人员，exterminator还有“杀虫剂，灭鼠药”之解。
+
+<!-- 插图：工作人员在喷洒药剂灭虫 -->
+
+- **exterminate** [ɪkˈstɜːmɪneɪt] *vt.* 消灭，根除（害虫等）= eradicate, extirpate
+  - exterminate moles and rabbits 消灭老鼠和兔子
+- **extermination** [ɪkˌstɜːmɪˈneɪʃn] *n.* 消灭，根绝
+- **exterminator** *n.* 杀虫剂，灭鼠药；灭鼠的人
+
+> They **exterminated** the mice from the village.
+> 他们消灭了村里的老鼠。
+
+> The mayor introduced an anti-mosquito system to **exterminate** mosquitoes in the city.
+> 为了消灭城市里的蚊虫，市长引进了一套驱蚊系统。
+
+## 单词回顾
+
+::: {.etymo}
+1. 有尽头的
+   → 有限的 ______
+2. 没有尽头的
+   → 无限的 ______
+3. 明确地下定尽头
+   → 限制，紧闭 ______
+4. 定下（意思的）结尾
+   → 下定义，规定 ______
+5. 使之更好的
+   → 精制，改善 ______
+6. 结束掉
+   → 结束，终结 ______
+7. 没有结束
+   → 没有尽头的；无聊的 ______
+8. 由 termin 缩略而成的单词
+   → ① 期限 ② 术语，用语 ③ (复数) 关系，条件 ______
+9. 明确地结束（心里所想）
+   → 决定，决心 ______
+10. 赶到外面消灭掉
+    → 杀灭，消灭 ______
+:::
+
+答案 1. finite 2. infinite 3. confine 4. define 5. refine 6. terminate 7. interminable 8. term 9. determine 10. exterminate
+
+<!-- p.223 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. finite ______
+2. define ______
+3. refine ______
+4. terminate ______
+5. determine ______
+6. exterminate ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 宇宙是**无限的** ______。
+2. **把他关在** ______ 精神病院里。
+3. **规定** ______ 预算的使用地方。
+4. **终结** ______ 劳资双方的纷争。
+5. 对政治**无限的** ______ 不信任。
+6. 专家**确定** ______，那个签名是伪造的。
+7. **消灭** ______ 对农作物有害的害虫。
+8. 应该按照**合约条款** ______ 履行权利和义务。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Useable raw materials and energy are **finite**.
+   A. finished　　B. limited　　C. logical
+
+2. The court ______ the money as a bribe.
+   A. defined　　B. confined　　C. refined
+
+3. The company had the right to **terminate** his employment.
+   A. ignore　　B. end　　C. activate
+
+4. There is ______ hostility between the two countries.
+   A. hospitable　　B. intermediate　　C. interminable
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [finite]{.headword} | ˈfaɪnaɪt | adj | 有限的 =limited |
+| [infinite]{.headword} | ˈɪnfɪnɪt | adj | 无限的，无穷的，无数的 =endless, unlimited |
+| [infinity]{.headword} | ɪnˈfɪnɪti | n | 无穷大 |
+| [confine]{.headword} | kənˈfaɪn | vt | 限制，局限于，禁闭 = limit, restrict |
+| [confined]{.headword} | kənˈfaɪnd | adj | 受限制的，（指空间）有限的 |
+| [confinement]{.headword} | kənˈfaɪnmənt | n | 限制，监禁 |
+| [define]{.headword} | dɪˈfaɪn | vt | 下定义，规定 |
+| [definition]{.headword} | ˌdefɪˈnɪʃn | n | 定义，规定 |
+| [definite]{.headword} | ˈdefɪnɪt | adj | 确切的，一定的，肯定 |
+| [refine]{.headword} | rɪˈfaɪn | vt | 提炼，改善 =improve, enhance |
+| [refined]{.headword} | rɪˈfaɪnd | adj | 精炼的，精制的 |
+| [terminate]{.headword} | ˈtɜːmɪneɪt | vt | 结束、终结 =end |
+| [termination]{.headword} | ˌtɜːmɪˈneɪʃn | n | 结束，终止 =abortion |
+| [interminable]{.headword} | ɪnˈtɜːmɪnəbl | adj | 无止境的，冗长的，没完没了 = endless, boring |
+| [terminator]{.headword} |  |  | （名词）终结者、终结器 |
+| [term]{.headword} | tɜːm | n | 1. 期限 2. 术语，用语 3. (复数) 关系，条件 |
+| [determine]{.headword} | dɪˈtɜːmɪn | vt | 确定，(使)做出决定，下决心 = decide |
+| [determination]{.headword} | dɪˌtɜːmɪˈneɪʃn | n | 决定，决心 |
+| [determined]{.headword} | dɪˈtɜːmɪnd | adj | 坚定的，毅然的，确定的 |
+| [exterminate]{.headword} | ɪkˈstɜːmɪneɪt | vt | 消灭，根除（害虫等）= eradicate, extirpate |
+| [extermination]{.headword} | ɪkˌstɜːmɪˈneɪʃn | n | 消灭，根绝 |
+| [exterminator]{.headword} |  | n | 杀虫剂，灭鼠药；灭鼠的人 |
+

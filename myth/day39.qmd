@@ -1,0 +1,412 @@
+# Day 39 · 建立是found，树根、问题的根源是root {.unnumbered}
+
+::: {.root-banner}
+Day 39 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p341–p349
+
+<!-- p.326 -->
+
+只有根深蒂固，大树才能长得高。根是树能站直的基础。英语中，“根”是root，“建立”是found。今天，我们一起来学习一下关于root和found的词汇。本书的魅力就在于，由易渐难、由浅渐深、层层深入，轻松地、有趣地学习英语单词。！
+
+<!-- 插图：大树根部卡通图，配字“根一定要扎实了才行哦！” -->
+
+**Voca Map**
+
+- **found 设立**
+  - **fund** 资金
+  - **fundamental** 根本[基础]的
+  - **profound** 深奥的
+  - **bottom** 底面
+- **root 根**
+  - **ray** 光线
+  - **race** 人种
+  - **radical** 根本性的；激进的
+  - **radish** （蔬菜的种类中的）萝卜
+
+<!-- p.327 -->
+
+## 1. 置于地上 found 设立
+
+<!-- 插图：建筑奠基 -->
+
+::: {.etymo}
+在学习单词found前，我们先看一下它的词根fund。词根fund的意思是“底部bottom”。在词根中加入元音“o”所组成的单词就是found，其词义也从词根“放在地上”变成了“建立、设立”。但是，大家需要注意的是，这个单词跟find找的过去式found找到了容易混淆。found作为一个及物动词，主要指的是“建立、设立”学校、公司、组织等。其名词foundation设立；基础；财团也经常出现，请大家一起将其记住。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+两个动词的过去式与过去分词
+find 找—found—found
+found 设立—founded—founded
+:::
+
+- **found** [faʊnd] *vt.* 建立，设立 = establish
+  - be founded on the fact 建立在事实的基础上
+  - found a new company 设立一个新公司
+- **foundation** [faʊnˈdeɪʃn] *n.* 基础；基金会；建立；(复数) 地基
+
+> Eton College was **founded** by Henry VI in 1440.
+> 伊顿大学由亨利六世创建于 1440 年。
+
+> Their marriage was **founded** on love and mutual respect.
+> 他们的婚姻建立在爱情和相互尊重的基础上。
+> （mutual [ˈmjuːtʃuəl] 互相的）
+
+## 2. 作为基础的钱 fund 资金；基金
+
+<!-- 插图：救济基金派对 -->
+
+::: {.etymo}
+前面我们已经提到过，词根fund的意思是“底儿bottom”。将该词源的意思“底部（基础）”原封不动地解释为“资金，基金”的单词就是fund。跟fund相似却稍有些差别的另一个词是finance，是“财政，财务”的意思，请大家一定要区分好这两个词。还有一点需要记住的是，fund和finance这两个词作动词时，都含有“为……提供资金”的意思。
+:::
+
+- **fund** [fʌnd] *n.* 资金；基金
+  *vt.* 为……提供资金
+  - raise funds for the poor 为穷人筹集资金
+  - a charity funded by private donations 个人捐款成立的慈善机构
+- **finance** [faɪˈnæns] *n.* 财政，金融
+  *vt.* 提供（筹措）资金
+
+<!-- p.328 -->
+
+> The politician claimed that ministers had misused public **funds**.
+> 政客们声称首相滥用公款。
+
+> The museum is **funded** by the local corporation.
+> 这家博物馆是由当地公司出资建立的。
+
+> It's tough to get **financing** nowadays.
+> 近来，筹集资金是困难的事儿。
+
+## 3. 源于“底部的”的单词 fundamental 基础的，根本的
+
+<!-- 插图：桥墩下部基础结构 -->
+
+::: {.etymo}
+最近，看经济类报纸会发现类似这样的表达：“股价的基础是企业的业绩！”这里所说的fundamental是“基础的，根本的”的意思，也就是说“股价是以企业的业绩为基础的！”。股价stock price随着企业业绩的上升而上升，随着企业业绩的下降而下降。不管怎样，fundamental的词根fund还是“bottom（底部的）”的意思，因此也就不难理解该词是“基础的，根本的”意思了。
+:::
+
+- **fundamental** [ˌfʌndəˈmentl] *adj.* 基础的，根本的 = basic, rudimentary
+  - fundamental science 基础科学
+  - a fundamental difference in opinion 观点上的根本不同
+  - Water is fundamental to survival. 水是生存的根本。
+- **fundamentals** [ˌfʌndəˈmentlz] *n.* 基本原则，基本因素
+- **fundamentalist** [ˌfʌndəˈmentlist] *n.* 信奉正统派基督教的人，原教旨主义者
+
+> We have to tackle the **fundamental** cause of the problem.
+> 我们必须解决问题的根本原因。
+
+> There is a **fundamental** distinction between these two methods.
+> 这两种方法有根本的差别。
+
+## 4. 慢慢沉到底 profound 深奥的；强的
+
+<!-- 插图：潜水员潜入深海中思考，气泡文字：“要成为一个profound的思想家一定要在深的地方思考才行~” -->
+
+::: {.etymo}
+对profound进行词源分析，即为：pro强调+found底→慢慢沉到底边。在这里“底边”指的就是“下面、下方”，慢慢下沉的同时，也会慢慢变深，也就更加“深奥”了。另外，当profound跟effect效果、impact影响这类单词结合的时候，应该解释为“强的”。因为“根深蒂固的影响”肯定是“强烈的影响”。
+:::
+
+<!-- p.329 -->
+
+响”。虽然profound是一个相对比较难的词汇，但它是英语学习中必须要掌握的重要词汇，大家一定要牢记哦。
+
+- **profound** [prəˈfaʊnd] *adj.* 深的，深奥的 = deep, recondite；强的 = strong
+  - a profound question 深奥的问题
+  - a profound thinker 学识渊博的思想家
+  - a profound sense of guilt 强烈的负罪感
+- **profundity** [prəˈfʌndəti] *n.* 深奥；深奥之物
+
+> Her books offer **profound** insights into the true nature of courage.
+> 她在著作中深刻地阐述了自己对勇气本质的精辟见解。
+
+> The mother's behavior has a **profound** impact on the developing child.
+> 母亲的行为对成长中的孩子有很大的影响。
+
+## 5. 最下面的部分 bottom 底部
+
+::: {.etymo}
+前面我们已经学过词根fund是“底部bottom”的意思。单词bottom是指“某物体最下面的部分the lowest part of something”。有两个跟bottom相关的重要表达。在喝酒的时候我们经常说的“干杯！”，用英语表示就是“Bottom up！”，原意是“将酒杯底bottom翻过来向上up举起！”，即“一滴不剩地全喝掉！”。另一个表达是the bottom line，直译为“最末端的线”。该词义源于簿记bookkeeping，即计算收入和支出的全部结果，不管是收入profit多，还是损失loss多，都会在账簿的底线bottom line写上结果，因此这个单词的意思就是“最终计算结果”或“最重要的东西”。
+:::
+
+- **bottom** [ˈbɑːtəm] *n.* 底部，最下面的部分；*adj.* 最下端，底部的
+  - the bottom line 底线，最低标准
+  - the bottom of the league 在社团的最底层
+  - start work at the bottom 从最底层的工作干起
+  - Bottoms up! 干杯！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+get the bottom of 连……的底都给挖开 → “揭开真相”
+get the bottom of the bribery case 揭开受贿事件的真相
+:::
+
+> The company's new CEO started at the **bottom** and worked his way up.
+> 这个公司新的 CEO 是从最底层开始干起，而升到今天这个位置的。
+
+> The **bottom line** is that we have to make a decision today.
+> 最重要的是我们今天不得不做出决定了。
+
+> Twenty dollars is our **rock bottom price**.
+> 20 美元是我们的最低价。
+
+<!-- p.330 -->
+
+## 6. 树根、问题的根源 root 根，原因，起源
+
+<!-- 插图：盘根错节的树根 -->
+
+::: {.etymo}
+单词root是“根”的意思，在这里就不再做多余的说明explanation了。不过，大家需要注意的是，这个“根”不仅仅是指的树的根，还可以用于比喻问题的“原因cause”，而比喻习惯或者制度时，是“起源，根源origin”的意思。
+:::
+
+另外，root的词根可以标记为radic，需要一起记住的单词还有radical根本的，激进的，eradicate根绝。
+
+- **root** [ruːt] *n.*（植物的）根，（问题的）原因，（制度、习惯的）起源，根源，（词汇的）词根
+  *v.* 生根，扎根，根除
+  - be rooted in 扎根于
+  - root for 给某人打气；全力支持某人
+  - the root of the problem 问题的根源
+  - the root of jazz 爵士乐的起源
+- **radical** [ˈrædɪkəl] *adj.* 激进的，彻底的；基本的 ↔ conservative 保守的
+- **eradicate** [ɪˈrædɪkeɪt] *vt.* 根除
+
+**Voca Map**
+- root 根，起源
+  - ↓ radical 激进的，基本的 ↔ conservative 保守的
+    - ↓ eradicate 根除
+
+> The love for money is the **root** of all evil.
+> 对金钱的贪婪是万恶之源。
+
+> Which team are you **rooting for**?
+> 你支持哪个队？
+
+> The country's economic troubles **are rooted in** a string of global financial crises.
+> 国家的经济困难是由一连串的全球经济危机所致。
+
+## 7. 像根一样向四面八方伸展 ray 光线
+
+<!-- 插图：放射出光线的人像 -->
+
+::: {.etymo}
+大家有在医院检查拍X-ray的经历吗？在这里，ray的意思是“光线”，那么它跟root根之间到底有什么关系呢？就像root根会在地下向四面八方随意伸展一样，ray光线也是“向四面八方伸展的东西”。ray的词根是radia，含有这个词根的词还有：radiation放射线，radioactive放射性的，irradiate放射性处理；使明亮。这几个单词都很重要，请大家一定要记住。
+:::
+
+<!-- p.331 -->
+
+- **ray** [reɪ] *n.* 光线
+  - the rays of the sun 太阳的光线
+- **radiation** [ˌreɪdiˈeɪʃn] *n.* 放射物，辐射能；辐射
+- **radioactive** [ˌreɪdiəʊˈæktɪv] *adj.* 放射性的
+  - radioactive contamination 放射性污染
+- **irradiate** [ɪˈreɪdieɪt] *v.* 照耀，辐射，(使)灿烂，(使)明亮
+
+> I had my **X-ray** taken.
+> 我照了X光。
+
+> The new medicine will offer a **ray** of hope for cancer sufferers.
+> 这个新药给深陷癌症之痛苦的患者带来一线希望。
+
+> We are confronted with the problem of how to dispose of **radioactive** waste.
+> 我们面临着如何清除放射性垃圾的问题。（be confronted 遭遇 dispose of 处理，解决）
+
+## 8. 从最初的人类开始向各地蔓延的人们 race 人种
+
+<!-- 插图：几个不同肤色的年轻人在使用笔记本电脑 -->
+
+::: {.etymo}
+黄种人the yellow、黑种人the black、白种人the white、褐色人种the brown……世界上有各种不同肤色的人种。实际上，所谓race人种，就是最初从人类开始向世界各地蔓延，适应各地的环境environment生存survival下来的人。在这里，有一点值得注意。race还有“比赛，花边”的意思。最后，race人种的形容词是racial人种的。racial discrimination种族歧视是一个非常重要的惯用表达。大家一定要记住哦！
+:::
+
+- **race** [reɪs] *n.* 人种
+  - a person of mixed race 一个混血儿
+- **racial** [ˈreɪʃl] *adj.* 种族的 = ethnic
+  - racial discrimination 种族歧视
+  - racial prejudice 种族偏见
+  - a victim of racial discrimination 一个种族歧视的受害者
+- **racism** [ˈreɪsɪzəm] *n.* 种族歧视
+- **racist** [ˈreɪsɪst] *n.* 种族主义者
+
+::: {.mnemonic}
+**温馨小贴士**
+
+racism 种族歧视主义
+sexism 性别歧视主义
+ageism 对老年人的歧视
+:::
+
+<!-- p.332 -->
+
+> The school welcomes children of all **races**.
+> 学校欢迎各个种族的孩子。
+
+> The government has promised to continue the fight against **racism**.
+> 政府许诺要继续和种族歧视作斗争。
+
+## 9. 源于“根”的单词 radical 根本的；激进的
+
+::: {.etymo}
+单词radical的词根radic是“根”的意思。因此radical词源义是“根的”。这样就可以很容易理解radical的意思是“根本的”了。可当radical用作政治用语political term时，指“激进的”，具体指某种理念ideology根深蒂固的状态。其反义词是conservative保守的。
+:::
+
+与理念相关的其他表达还有left wing左翼和right wing右翼，“左翼”指的是“激进的，具有社会主义倾向的”，“右翼”指的是“保守的或者具有极端主义倾向的”。因此，radical和conservative还可以作为名词使用，分别是“激进主义者”和“保守主义的”意思。
+
+<!-- 插图：两人争辩：“你也太保守了！”“你太激进料了！” -->
+
+- **radical** [ˈrædɪkəl] *adj.* 根本的，彻底的；激进的 $\leftrightarrow$ **conservative** 保守的
+  *n.* 激进主义者
+  - a radical reform of the tax system 彻底的税收改革
+  - put forward some very radical ideas 提出一些非常激进的想法
+- **radicalism** [ˈrædɪkəlɪzəm] *n.* 激进主义
+
+> **Voca Map**
+> - radical 激进的 $\leftrightarrow$ conservative 保守的
+>   - ↓ left wing 左翼
+>   - ↓ right wing 右翼
+
+> There are some **radical** differences between the two proposals.
+> 这两个提议有几个根本不同的地方。
+
+> The new president has made some **radical** changes to the company.
+> 新总裁对公司做了彻底的改变。
+
+## 10. 根埋在地里的蔬菜 radish 蔬菜类中的萝卜
+
+::: {.etymo}
+我们要学习的与root根相关的最后一个词是radish萝卜。萝卜在韩国是一种人气popularity很高的蔬菜vegetable，radish的词根radi就是root的意思。“萝卜”指的就是埋在地里面的“根”。将根挖来吃的蔬菜就被称为root vegetable。根茎类蔬菜有potato土豆、carrot胡萝卜等。在这里，考一下大家，“素食主义者”用英语应该如何表达呢？正确答案是vegetarian。我们只有多吃vegetable蔬菜才能变得更健康哦！
+:::
+
+<!-- p.333 -->
+
+- **radish** [ˈrædɪʃ] *n.* 萝卜
+  - a bunch of radishes 一捆胡萝卜
+- **vegetable** [ˈvedʒɪtəbl] *n.* 蔬菜，植物
+- **vegetarian** [ˌvedʒɪˈteəriən] *n.* 素食主义者
+  - get used to the vegetarian diet 习惯吃素食
+
+> I'm thinking about becoming a **vegetarian**.
+> 我正考虑成为一个素食主义者。
+
+> Susan, would you please slice the **radishes** thinly?
+> 苏珊，你能把胡萝卜切成薄片吗？
+
+> The last typhoon that hit Korea made the price of vegetables such as celery and **radish** the same as that of gold.
+> 上次台风袭击韩国，使得芹菜和胡萝卜的价格与黄金一样贵。
+
+## 单词回顾
+
+::: {.etymo}
+1. 置于地上  
+   → 设立 ______
+:::
+
+2. 作为基础的钱  
+   → 资金；基金 ______
+
+3. 底部的  
+   → 基础的，根本的 ______
+
+4. 慢慢沉到底  
+   → 深奥的；强的 ______
+
+5. 最下面的部分  
+   → 底 ______
+
+6. 树根、问题的根源  
+   → 根 ______
+
+7. 像根一样向四面八方伸展的东西  
+   → 光线 ______
+
+8. 从最初的人类开始向各地蔓延的人们  
+   → 人种 ______
+
+9. 根的  
+   → 根本的；激进的 ______
+
+10. 根埋在地里面的蔬菜  
+    →（蔬菜种类中的）萝卜 ______
+
+答案 1. found 2. fund 3. fundamental 4. profound 5. bottom 6. root 7. ray 8. race 9. radical 10. radish
+
+<!-- p.334 -->
+
+## 确认并攻克下列单词
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. fundamental ______
+2. profound ______
+3. bottom line ______
+4. racial discrimination ______
+5. radical ______
+6. radish ______
+:::
+
+## 二、请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 那个企业家设立了**财团**______援助了很多孤儿。
+2. 韩国需要政治体系的**根本性**______改革。
+3. 他的哲学理论相当**深奥**______。
+4. **最重要的**______是公司的收益。
+5. 那个国家的少数民族受到了严重的**种族歧视**______。
+6. **激进的**______改革政策引起了国家的内部多元化/分化。
+7. 他的政治倾向是**保守的**______。
+8. 最近**素食主义者**______慢慢变得越来越多了。
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. The Constitution ensures our **fundamental** rights.
+   A. credulous    B. crude    C. rudimentary
+:::
+
+2. His knowledge of history is **profound**.
+   A. deep    B. shallow    C. prolific
+
+3. We launched the campaign for ______ equality.
+   A. racial    B. affable    C. crucial
+
+4. The ______ line is that people want to improve their living conditions.
+   A. ceiling    B. bottom    C. barrier
+
+---
+
+## 本日词汇速查（25 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [fund]{.headword} | fʌnd | n | 资金；基金 |
+| [fundamental]{.headword} | ˌfʌndəˈmentl | adj | 基础的，根本的 = basic, rudimentary |
+| [profound]{.headword} | prəˈfaʊnd | adj | 深的，深奥的 = deep, recondite；强的 = strong |
+| [bottom]{.headword} | ˈbɑːtəm | n | 底部，最下面的部分；*adj.* 最下端，底部的 |
+| [ray]{.headword} | reɪ | n | 光线 |
+| [race]{.headword} | reɪs | n | 人种 |
+| [radical]{.headword} | ˈrædɪkəl | adj | 激进的，彻底的；基本的 ↔ conservative 保守的 |
+| [radish]{.headword} | ˈrædɪʃ | n | 萝卜 |
+| [found]{.headword} | faʊnd | vt | 建立，设立 = establish |
+| [foundation]{.headword} | faʊnˈdeɪʃn | n | 基础；基金会；建立；(复数) 地基 |
+| [finance]{.headword} | faɪˈnæns | n | 财政，金融 |
+| [fundamentals]{.headword} | ˌfʌndəˈmentlz | n | 基本原则，基本因素 |
+| [fundamentalist]{.headword} | ˌfʌndəˈmentlist | n | 信奉正统派基督教的人，原教旨主义者 |
+| [profundity]{.headword} | prəˈfʌndəti | n | 深奥；深奥之物 |
+| [root]{.headword} | ruːt | n | （植物的）根，（问题的）原因，（制度、习惯的）起源，根源，（词汇的）词根 |
+| [eradicate]{.headword} | ɪˈrædɪkeɪt | vt | 根除 |
+| [radiation]{.headword} | ˌreɪdiˈeɪʃn | n | 放射物，辐射能；辐射 |
+| [radioactive]{.headword} | ˌreɪdiəʊˈæktɪv | adj | 放射性的 |
+| [irradiate]{.headword} | ɪˈreɪdieɪt | v | 照耀，辐射，(使)灿烂，(使)明亮 |
+| [racial]{.headword} | ˈreɪʃl | adj | 种族的 = ethnic |
+| [racism]{.headword} | ˈreɪsɪzəm | n | 种族歧视 |
+| [racist]{.headword} | ˈreɪsɪst | n | 种族主义者 |
+| [radicalism]{.headword} | ˈrædɪkəlɪzəm | n | 激进主义 |
+| [vegetable]{.headword} | ˈvedʒɪtəbl | n | 蔬菜，植物 |
+| [vegetarian]{.headword} | ˌvedʒɪˈteəriən | n | 素食主义者 |
+

@@ -1,0 +1,387 @@
+# Day 38 · 种田产出的culture，源于city的civilization {.unnumbered}
+
+::: {.root-banner}
+Day 38 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p332–p340
+
+<!-- p.317 -->
+
+古中国、古巴比伦、古印度、古埃及是世界四大文明civilization的发祥地。这四大文明发祥地带动了相关国家地区经济与文化culture的发展。civilization文明和culture文化之间存在着不可分割的inseparable关系。在词汇层面，有很多跟这两个单词相关联的词。让我们一起在提高词汇理解、使用能力的同时，也增加些常识吧。这可是一举两得killing two birds with one stone哦！
+
+**Voca Map**
+
+- **culture** 文化
+  - **cult** 崇拜
+  - **cultivate** 耕作
+  - **agriculture** 农业
+  - **colony** 殖民地
+- **civilization** 文明
+  - **civil** 市民的；有礼貌的
+  - **citadel** 城堡，堡垒
+  - **urban** 都市的
+  - **rural** 乡村的
+
+<!-- p.318 -->
+
+## 1. 就像农夫耕地一样自然出现的 culture 文化
+
+<!-- 插图：农夫耕地与劳作图景 -->
+
+::: {.etymo}
+不管是哪个国家都有其固有的文化吧。所谓文化，指的是代表该国家特性 identity 的东西。但是文化并不是一朝一夕形成的。分析 **culture** 文化 这个单词的词源就不难理解了。culture 中词根 cult 是“耕（地）till”的意思，就像农夫耕地一样通过教育教化人，自然而然出现的，就是“文化”。在这里，有一个很重要的表达方式，即 **culture shock** 文化冲击。最后，大家还要注意 **culture** 还可以作动词，意为“培养微生物、细胞等”。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+新西兰土著居民毛利族见面后打招呼的方式是互相摩擦鼻子，其目的是互相之间交换呼吸。可是对于那些第一次接触这种文化的人来说简直就是一种 culture shock。
+:::
+
+- **culture** [ˈkʌltʃə] *n.* 文化 *vt.* 培养（微生物、细胞等）
+  - culture shock 文化冲击
+  - respect different cultures 尊重不同文化
+  - learn about other cultures
+  - suffer from culture shock 受文化冲击的困扰
+
+> I want to experience more **culture**.
+> 我想经历不同的文化环境。
+
+> The company's corporate **culture** is focused on increasing profits.
+> 这家公司的企业文化重点集中在增加利润上。
+
+> In our **culture**, it is rude to ask someone how much they earn.
+> 在我们的文化圈中，问人家收入是不礼貌的。
+
+## 2. 源于“对……表示关心、追逐的崇拜 cultus”的单词 cult 集团性的追随，崇拜；追逐特殊事物的集团
+
+<!-- 插图：古代宗教雕像与崇拜人物 -->
+
+::: {.etymo}
+大家之所以对 **cult** 这个单词不陌生，应该归功于大喊“出乎您意料了吧！”的偶像大叔们。喜欢看电影的人应该都听说过 **cult movie** 喜爱的电影 这种说法。cult 来源于拉丁语 cultus，意思是表示关心和追随的“崇拜 worship”，只要知道 cult movie 这个词组是什么意思，就很容易推断 cult 这个单词的意思了。最后让我们一起来看个固有表达方式吧。**personality cult**，主要指对特定政治领导者 political leader 的“个人崇拜”。
+:::
+
+<!-- p.319 -->
+
+- **cult** [kʌlt] *n.*（集团性）追随，崇拜；（追随特殊东西的）集团
+  - personality cult 个人崇拜
+  - a cult band (figure) 崇拜的对象
+  - dozens of religious cults 几十个宗教分子
+
+> Long after it had gone off the air, the TV series continued to have a **cult** following.
+> 在终映后的很长一段时间里，这部电视剧依旧有很多铁杆粉丝。
+
+> The actor James Dean acquired the status of a **cult** hero.
+> 演员詹姆斯·迪恩被粉丝崇拜为英雄。
+
+## 3. 耕地 cultivate 耕作 [栽培]；磨砺 [修炼]
+
+<!-- 插图：拖拉机在田间耕作 -->
+
+::: {.etymo}
+词根cult是“耕地till”的意思，单词cultivate的词义自然而然也就是“耕地，耕作”了。可悬有一点需要注意：不一定只有土地需要耕作，由“磨练技术水平、人格”等衍生出的“研磨（修炼、磨砺）”之义多用抽象意义。由此看来，cultivate这个单词的使用范围range相当广。不过，不论是“耕作”还是“磨砺”，其语义中都含有“削去”粗糙和不合格的东西，使其变得更加完美光滑的意思。
+:::
+
+- **cultivate** [ˈkʌltɪveɪt] *v.* 耕作，栽培；磨砺，修炼
+  - a highly cultivated man 一个素养很高的人
+  - cultivate maize and watermelons 种植玉米和西瓜
+  - cultivate new skill 培养新技能
+- **cultivation** [ˌkʌltɪˈveɪʃn] *n.* 耕作；培养
+
+> I will **cultivate** a habit of early rising.
+> 我要养成早起的习惯。
+
+> Prehistoric peoples settled the area and began to **cultivate** the land.
+> 史前时代的人类在这个区域定居，然后开始开垦这片土地。
+> （prehistoric [priːhɪˈstɒrɪk] 史前的，陈旧的）
+
+> The musician has spent years **cultivating** knowledge and talent of music.
+> 这个音乐家花了数年时间提高自己的音乐知识与才能。
+
+## 4. 耕地的活动 agriculture 农业
+
+::: {.etymo}
+对于人类而言，农业可以说是最根本fundamental最重要的产业。首先让我们一起来分析一下agriculture农业这个单词的词源义：agri田野(field)+cult耕地(till)+-ure名词性结尾词→耕地的活动。有趣的是，词根agri的
+:::
+
+<!-- p.320 -->
+
+意思是“地，田野field”，其拼写原本是agora。**agriculture**的意思是“农业”，**farming**的意思是“农事”，大家一定要记准确哦！
+
+- **agriculture** [ˈæɡrɪkʌltʃə] *n.* 农业
+- **agricultural** [ˌæɡrɪˈkʌltʃərəl] *adj.* 农业的
+  - agricultural products 农产品
+  - agricultural implements 农具
+- **agriculturalist** [ˌæɡrɪˈkʌltʃəlɪst] *n.* 农学家
+- **farming** [ˈfɑːmɪŋ] *n.* 农业
+
+> More than 75% of the land in the area is used for **agriculture**.
+> 这个地区 75% 以上的土地用于农业。
+
+> The number of people employed in **agriculture** has fallen in the last decade.
+> 在过去的十年里，农业从业人数一直在减少。
+
+## 5. 成片的土地 colony 侨居地，殖民地，聚居地，聚居人群
+
+<!-- 插图：殖民者登陆与海豹群 -->
+
+::: {.etymo}
+如果说人类通过开垦土地种庄稼来获得食物是农业agriculture的话，那么侵略别的国家将其变为自己国家的领土就是colony殖民地。**colony**的词源分析为：**colo**耕地＋**-ny**名词性结尾词 →（将别的国家变成自己国家的一部分）开垦的土地。自称“日不落帝国”的英国曾率领多个国家对外进行过殖民侵略，并达到了鼎盛时期heyday。**colony**还有一个很重要的义项，即同类别、种类sort的人或动植物的“群，群落”。
+:::
+
+海豹seal是聚集成群一起生活的。这种动物群就被称作colony。
+
+<!-- p.321 -->
+
+- **colony** [ˈkɒləni] *n.* 殖民地；（同种的）群，群落
+  - former British colonies 以前英国的殖民地
+  - an ant /a seal colony 蚁 / 海豹群
+- **colonial** [kəˈləʊniəl] *adj.* 殖民地的
+  - achieve independence from colonial rule 摆脱殖民统治并独立自主
+- **colonialism** [kəˈləʊniəlizəm] *n.* 殖民主义，殖民政策
+
+::: {.mnemonic}
+**温馨小贴士**
+
+colony 的意思除了“殖民地”外，还经常用作“（动植物的）群，群落”，同学们一定要注意哦！
+:::
+
+> The **colony** declared independence.
+> 这个殖民地宣布独立。
+
+> The United States was once a **colony** of Great Britain.
+> 美国以前是英国的殖民地。
+
+> We visited Boulders Beach where there is a **colony** of African penguins.
+> 我们在巨石海滩游览，这里是非洲企鹅的聚集地。
+
+## 6. 从繁华的 city 都市发展而来的 civilization 文明
+
+::: {.etymo}
+人类创造的物质文明、技术文明以及社会结构的变化与发展，使人们逐渐摆脱自然原始的生活，逐步进入先进、便利的生活状态。这就是“文明”。从词源来看，civilization 文明这个单词源于 city 都市，正如上文定义 definition 所述，所谓“文明”，就是从原始生活 primitive life 中摆脱出来，人们在一个地方定居 settlement 生活，自然而然就形成了 city 城市。由此可见，“文明”的形成跟“城市”的形成是一致的。还有一点大家要注意：形容词 civilized 的意思是“（人）有教养的，（气氛）安乐的，帅气的”。
+:::
+
+- **civilization** [ˌsɪvəlaɪˈzeɪʃn] *n.* 文明
+  - the ancient civilizations of Greece and Rome 古希腊和古罗马文明
+  - the dawn of civilization 文明的开始
+- **civilized** [ˈsɪvəlaɪzd] *adj.* 文明的；有礼貌的；品味举止优雅的
+  - a civilized conversation 文明对话
+
+> The book explores the relationship between religion and **civilization**.
+> 这本书研究了宗教和文明之间的关系。
+
+> Breakfast on the terrace — how **civilized**!
+> 在草坪上吃早饭实在太惬意啦！
+
+> We spent a rather **civilized** evening.
+> 我们度过了一个相当惬意的晚上。
+
+<!-- p.322 -->
+
+## 7. 扎根于 city 的 civil 市民的；世俗的
+
+::: {.etymo}
+与 civil 相似的词汇有 civic 市的，市民的。不管是 civil 还是 civic，这两个单词都扎根于 city 都市，虽然后缀的拼写有些不同，但词义差别不大。不过，civil 除了有“市民的”的意思外，当跟法律 law 一起使用时，其语义就变成了“民事的”，当用于描述人的态度 attitude 时，是“世俗的”意思。因为城市是很多人聚集在一起生活的地方，所以不管你喜不喜欢都应该有礼貌 manners。
+:::
+
+- **civil** [ˈsɪvl] *adj.* 市民的，民间的；民法的；世俗的
+  - civil law 民法 ↔ criminal/penal law 刑法
+  - civil unrest 国内动乱
+  - a civil war 内战
+  - a civil defense drill 民防练习
+- **civic** [ˈsɪvɪk] *adj.* 城市的；市民的
+
+> For years the country was torn apart by **civil** conflict.
+> 很多年来，民间冲突把这个国家弄得四分五裂。
+
+> Many **civil** cases can be settled out of court.
+> 很多民事案件都可以在庭外解决。
+
+> It's a **civil** defense drill.
+> 这是一场民防练习。
+
+## 8. 围在城市周围的 citadel 城堡，堡垒，要塞
+
+::: {.etymo}
+以前，为了抵御外部的侵略 invasion，在城市外围建造了城堡（城墙和要塞），与之相对应的英文单词是 citadel。citadel 的词源分析为：cita city + del 聚集的东西 → 围在城市周围。
+:::
+
+大家听过“……最后的堡垒”这种说法吗？在这里，“堡垒”是对一定守护对象的一种比喻，比喻要像守护城市的“城堡、堡垒”一样。这是一个级别较高的词，记住并能灵活地使用它，会让你显得很有学问哦。
+
+<!-- 插图：站在城堡上的士兵说：“只要呆在这座 citadel 城堡里就是安全的~” -->
+
+<!-- p.323 -->
+
+- **citadel** [ˈsɪtədəl] *n.* 城堡，堡垒，要塞 =fortress
+  - a citadel overlooking the river 俯瞰河流的堡垒
+  - the Inca citadel of Machu Picchu 印加的马丘比丘要塞
+  - the last citadel of our freedom 我们自由的最后堡垒
+
+> The city has a 14th century **citadel** overlooking the beautiful river.
+> 这座城市有一个可以俯瞰美丽的河流的城堡，它建于 14 世纪。
+
+> Peru is rich in archaeological treasures, including the Inca **citadel** of Machu Picchu in the Andes.
+> 秘鲁有丰富的考古学上的珍宝，这包括位于安第斯山脉的马丘比丘要塞、印加要塞。
+> （archaeological [ˌɑːkɪəˈlɒdʒɪkəl] *adj.* 考古学的）
+
+## 9. city 的形容词形式 urban 城市的
+
+::: {.etymo}
+“城市”是名词“city”，形容词“城市的”是“urban”。在这里，词根urb是“城市city的意思，请大家一定要记住。知道了这点，也就不难推测单词suburb的词源义是“城市的周边地区”，suburb是“郊外，近郊”的意思。
+:::
+
+源于urban的词中有一个单词是urbane，它也源于“城市urb”，因此其词义是“城市的，干练的”。urban和urbane的词源虽然相同，但词义却有很大的区别，大家一定不要混淆confusion哦！
+
+- **urban** [ˈɜːbən] *adj.* 城市的 ↔ rural[形]乡村的
+  - unemployment in urban areas 城市地区的失业率
+  - an enormous growth in urban population 城市人口的大量增长
+- **urbane** [ɜːˈbeɪn] *adj.* 温文尔雅的，懂礼的 =sophisticated
+- **urbanity** [ɜːˈbænɪti] *n.* 有礼貌，文雅 =elegance
+
+> Rapid **urban** growth has had a negative effect on birds and animals.
+> 快速增长的城市人口对鸟类和动物有负面的影响。
+
+> The problem of air pollution is especially serious in **urban** areas.
+> 空气污染在城市地区特别严重。
+
+## 10. 宽广开阔的土地 rural 乡村的
+
+::: {.etymo}
+刚才我们已经学习了urban城市的这个词，接下来我们一起来学它的反义词antonym。rural的词源是：rur开阔的土地(open land)＋-al形容词后缀→义为开阔宽广的土地（开阔地）。虽然城市到处都是高楼林立，但是乡村却有着
+:::
+
+<!-- p.324 -->
+
+<!-- 插图：开阔的乡村风光 -->
+
+宽广开阔的土地。也正因为如此，去乡村心情也会豁然开朗。
+
+还有一个词，rustic虽然拼写比rural难，但词义却几乎完全一样，都是“乡村的，乡村风的”。
+
+- **rural** [ru:rəl] *adj.* 乡村的，田园的 ↔ urban 城市的
+  - a magazine about rural life 一本关于乡村生活的杂志
+  - a rural development plan 农村发展计划
+- **rustic** [ˈrʌstɪk] *adj.* 乡村的，淳朴的
+  - a rustic charm 质朴的魅力
+
+**Voca Map**
+- urban 城市的
+  ↓
+  urbane 懂礼的
+  ↓
+  suburb 郊区
+- rural 乡村的
+  ↓
+  rustic 淳朴的
+
+> My grandparents preferred **rural** life rather than urban life.
+> 比起城市生活，我爷爷更喜欢乡村生活。
+
+> The **rural** area will be developed on a large scale.
+> 农村地区将会得到大规模开发。（on a large scale 大规模地）
+
+> Many people living in **rural** areas have lower incomes and fewer job opportunities than those in cities.
+> 比起居住在城市地区的人，居住在农村地区的人，其收入和工作机会要少很多。
+
+## 单词回顾
+
+::: {.etymo}
+1. 就像农夫耕地一样自然出现的
+   → 文化 ______
+2. 源于“对……感兴趣、崇拜 (cultus)”的单词
+   → (集团性的) 追随，崇拜；(追逐特殊事物的) 集团 ______
+3. 耕地
+   → 耕作，栽培；磨砺，修炼 ______
+4. 耕地活动
+   → 农业 ______
+5. 开垦的土地
+   → 殖民地；同种的群，群落 ______
+6. 从繁华的 city (城市) 发展而来的单词
+   → 文明 ______
+7. 扎根于 city 的单词
+   → 市民的；世俗的 ______
+8. 围在城市周围的
+   → 城堡，堡垒，要塞 ______
+9. city 的形容词形式
+   → 城市的 ______
+10. 宽广开阔的土地
+    → 乡村的 ______
+:::
+
+> 答案 1. culture 2. cult 3. cultivate 4. agriculture 5. colony 6. civilization 7. civil 8. citadel 9. urban 10. rural
+
+<!-- p.325 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. cult `______`
+2. cultivate `______`
+3. colony `______`
+4. citadel `______`
+5. urban `______`
+6. rural `______`
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 我在初次旅行的那个国家里受到了文化冲击 `______`。
+2. 那些10多岁的小粉丝们盲目地崇拜 `______` 那个组合。
+3. 他们耕作着 `______` 看上去荒芜的土地，将其变成了一片沃土。
+4. 不管在哪个国家，农业 `______` 都是最重要的产业。
+5. 英国是世界上殖民地 `______` 最多的国家。
+6. 那个国家因为内战 `______` 导致国力衰弱了。
+7. 城市 `______` 地区的人并不比在乡村 `______` 地区的人生活得好。
+8. 那个城市的外廓被坚固的城堡 `______` 围住了。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The land was too rocky to cultivate.
+   A. sow
+   B. till
+   C. spawn
+
+2. In 1607, England founded the first `______` at Jamestown in Virginia.
+   A. colony
+   B. citadel
+   C. column
+
+3. I expect a civil answer when I ask you a question.
+   A. civilized
+   B. urban
+   C. polite
+
+4. Crime is a concern in both `______` and urban areas.
+   A. civil
+   B. rural
+   C. local
+
+---
+
+## 本日词汇速查（21 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [culture]{.headword} | ˈkʌltʃə | n | 文化 *vt.* 培养（微生物、细胞等） |
+| [cult]{.headword} | kʌlt | n | （集团性）追随，崇拜；（追随特殊东西的）集团 |
+| [cultivate]{.headword} | ˈkʌltɪveɪt | v | 耕作，栽培；磨砺，修炼 |
+| [agriculture]{.headword} | ˈæɡrɪkʌltʃə | n | 农业 |
+| [colony]{.headword} | ˈkɒləni | n | 殖民地；（同种的）群，群落 |
+| [civilization]{.headword} | ˌsɪvəlaɪˈzeɪʃn | n | 文明 |
+| [civil]{.headword} | ˈsɪvl | adj | 市民的，民间的；民法的；世俗的 |
+| [citadel]{.headword} | ˈsɪtədəl | n | 城堡，堡垒，要塞 =fortress |
+| [urban]{.headword} | ˈɜːbən | adj | 城市的 ↔ rural[形]乡村的 |
+| [rural]{.headword} | ru:rəl | adj | 乡村的，田园的 ↔ urban 城市的 |
+| [cultivation]{.headword} | ˌkʌltɪˈveɪʃn | n | 耕作；培养 |
+| [agricultural]{.headword} | ˌæɡrɪˈkʌltʃərəl | adj | 农业的 |
+| [agriculturalist]{.headword} | ˌæɡrɪˈkʌltʃəlɪst | n | 农学家 |
+| [farming]{.headword} | ˈfɑːmɪŋ | n | 农业 |
+| [colonial]{.headword} | kəˈləʊniəl | adj | 殖民地的 |
+| [colonialism]{.headword} | kəˈləʊniəlizəm | n | 殖民主义，殖民政策 |
+| [civilized]{.headword} | ˈsɪvəlaɪzd | adj | 文明的；有礼貌的；品味举止优雅的 |
+| [civic]{.headword} | ˈsɪvɪk | adj | 城市的；市民的 |
+| [urbane]{.headword} | ɜːˈbeɪn | adj | 温文尔雅的，懂礼的 =sophisticated |
+| [urbanity]{.headword} | ɜːˈbænɪti | n | 有礼貌，文雅 =elegance |
+| [rustic]{.headword} | ˈrʌstɪk | adj | 乡村的，淳朴的 |
+

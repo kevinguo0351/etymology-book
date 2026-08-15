@@ -1,0 +1,446 @@
+# Day 12 · 折起来是plic，展开是tend {.unnumbered}
+
+::: {.root-banner}
+Day 12 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p111–p119
+
+<!-- p.96 -->
+
+右图中的人在折fold纸。与“fold”对应的词根是plic。作动词使用时，词根plic的拼写会变成ploy或play。“折”的反义词是“展开，伸展stretch”。运动之前要把身体完全展开做stretch。词根tend即为“伸展stretch”的意思。接下来，我们一起来了解一下含有词根plic和tend的词汇。
+
+<!-- 插图：折纸(plic)与伸展身体(tend)的小人插图 -->
+
+**Voca Map：plic 是 fold**
+
+- **com-** 一起 + **plic** 折(fold) + **-ated** 成为（折成很多层） → **complicated** 结构复杂的，混乱的
+- **dis-** 相反 + **play** 折(fold)（将折起的东西展开） → **display** 展开，伸展，显示
+- **ex-** 向外 + **plic** 折(fold) + **-it** 名词（向外折、展开的） → **explicit** 明确的、清楚的
+- **em-** 里 + **ploy** 折(fold)（把（人）放在里面） → **employ** 雇用、利用
+- **du-** 双 + **plic** 折(fold) + **-ate** 名词后缀（折成两层以使两部分相同） → **duplicate** 复制，使成双
+
+**Voca Map：tend 是 stretch**
+
+- **in-** 里 + **tend** 展开(stretch)（在心里展开思考） → **intend** 意欲，计划
+- **at-** 向(ad) + **tend** 展开(stretch)（（身体）向……边伸展） → **attend** 出席，照顾
+- **tend** 展开(stretch) + **-ency** 名词后缀（（想法 行动）向……展开） → **tendency** 倾向，趋势
+- **ex-** 向外 + **tend** 展开(stretch)（向外伸展） → **extend** 扩大，推广、延伸
+- **con-** 一起 + **tend** 展开(stretch)（（为了得到）……一起伸手） → **contend** 竞争
+
+<!-- p.97 -->
+
+## 1. 折成plic很多层com-，complicated复杂的
+
+<!-- 插图：折纸 -->
+
+::: {.etymo}
+大家都玩过折纸paper folding游戏吧？折纸鹤，折纸花……原本是薄薄的纸，折了很多层后就慢慢变复杂了吧？在这里能让大家联想到的单词是complicated复杂的。complicated由其词源义“折成很多层”引申出“复杂的”意思。与大家都已知道的单词complex相比，complicated算是难度稍高些的单词。
+:::
+
+- **complicated** [ˈkɒmplɪkeɪtɪd] *adj.* 复杂的 = complex, knotty
+  - a complicated voting system 复杂的投票体系
+- **complication** [ˌkɒmplɪˈkeɪʃn] *n.* 错杂，并发症
+- **complicate** [ˈkɒmplɪkeɪt] *vt.* 使复杂化 ↔ simplify 使简单化
+
+::: {.mnemonic}
+**温馨小贴士**
+
+complication由其词源义“疾病变复杂的状态”引申出“并发症”的意思！
+:::
+
+> The machine has a very **complicated** system.
+> 这台机器的系统非常复杂。
+
+> The government did away with the **complicated** import procedures.
+> 政府取消了复杂的进口程序。
+> （do away with 废除，去掉，消灭）
+
+> Pneumonia is a common **complication** among influenza patients.
+> 肺炎是流感患者中最容易出现的并发症。
+> （pneumonia [njuːˈməʊniə] 肺炎）
+
+## 2. 把折叠plic的反过来dis-展开，display显示，展示
+
+<!-- 插图：在画廊欣赏展出画作的人 -->
+
+::: {.etymo}
+display作为外来语在日常生活中经常使用，大家是不是也很熟悉？display不仅含有大家所知道的产品“展示”之义，而且还可以与emotion感情、attitude态度、quality特性等词语组合使用。另外，当表达电脑画面上显示出某些信息时，同样也可使用display。由此可见display的使用范围还挺广的吧！
+:::
+
+- **display** [dɪˈspleɪ] *v.* 展览，展示 = show
+  *n.* 显示，展览品 = exhibition
+  - display no emotion 面无表情
+  - display one's excellent talent 展现了过人的天赋
+
+> She **displayed** no emotion on him.
+> 她对他没有任何表情。
+
+> A beautiful floral **display** is taking place at the hotel.
+> 宾馆里正在举行漂亮的花展。
+> （take place 发生，举行）
+
+<!-- p.98 -->
+
+## 3. 向外 ex- 折叠 plic 后展开，explicit 清楚的
+
+<!-- 插图：折叠的书页/信件展开 -->
+
+::: {.etymo}
+正如左图所示，折在里面的文字展露在外面，于是我们就可以清楚地看到藏在里面的文字letter了。explicit由其词源义“向外展开”引申出“露在外面 → 清楚的”的意思。
+:::
+
+explicit的反义词是implicit。其词源义为“折叠在里面的”，由此引申出“暗含的，含蓄的”意思。implicit的词源义与explicit正相反，将两者联系在一起记，效果会更好。
+
+- **explicit** [ɪk'splɪsɪt] *adj.* 清楚的，明确的 = evident, obvious
+  - explicit knowledge 显性知识
+  - explicit instructions 明确的指示
+- **implicit** [ɪm'plɪsɪt] *adj.* 不言明（含蓄）的，内含的 = implied
+
+> The health trainer gave **explicit** instructions to me.
+> 健身教练给了我明确的运动命令。
+
+> His words contained an **implicit** threat.
+> 他的话暗含着威胁。
+
+**Voca Map**
+- explicit 清楚的、明确的 ‖ implicit 不言明(含蓄)的、内含的
+  - ↓
+  - explicate 说明、解释 ‖ implicate 牵涉、涉及(某人)
+
+---
+
+## 4. 把人放 ploy 在里面 im，employ 雇用
+
+<!-- 插图：握手的职场女性与雇主 -->
+
+::: {.etymo}
+如果大家开公司的话，是不是要雇用一起工作的人？这时您要使用的employ一词就是从词源义“（把人）放在里面”引申出“雇用”义的词语。请大家想象一下公司里的employee职员吧！
+:::
+
+另外，employer是“雇主”，即“经理”的意思。而employee是“被雇用的人”，即“职员”的意思。若名词是以-ee后缀，那就是“被……的人”的意思。employment是“雇用，职业”的意思，其反义词unemployment是“失业”的意思。
+
+**Voca Map**
+- **employ**
+  - 1. 雇用 (hire)
+  - 2. 使用、利用 (use)
+  - → employment 雇用 ↔ unemployment 失业
+  - → employed 被雇用的 ↔ unemployed 失业的、被解雇的
+  - → employer 雇主、老板 ↔ employee 雇工、雇员
+
+<!-- p.99 -->
+
+- **employ** [ɪmˈplɔɪ] *vt.* 1. 雇用 =hire, engage ; 2. 使用，利用 =use
+  - employ various teaching methods 采用各种教学方法
+- **employment** [ɪmˈplɔɪmənt] *n.* 雇用，职业 ↔unemployment 失业
+- **employer** [ɪmˈplɔɪə(r)] *n.* 雇主，老板，雇用者
+- **employee** [ɪmˈplɔɪiː] *n.* 雇员，职工
+
+> I'm not **employed** now.
+> 我现在是失业人员。
+
+> The corporation **employs** over 10,000 people.
+> 公司雇用了1万多人。
+
+> Europe has suffered chronic **unemployment**.
+> 欧洲经历了长期性失业。
+
+## 5. 折plic成两层du-、使两部分一样，duplicate复制、复印
+
+<!-- 插图：对折印花蝴蝶图示 -->
+
+::: {.etymo}
+左图的工艺原来是移画印花法decalcomanie。在样板的一侧涂上颜料，对准中线折成两折后样板的另一侧就会完整地粘上颜料并形成相同的图案。其实，这就是duplicate的基本概念。过去，没有复印机copy machine，在纸的一面沾上墨水之后，把它一模一样印在另一张纸上，这就是duplicate的词源义。请大家注意duplicate可用作动词、名词、形容词等。
+:::
+
+- **duplicate** [ˈdjuːplɪkeɪt] *vt.* 复制；拷贝 =copy ; *adj.* 复制的，二倍的，副本的 *n.* 副本，复制品，复印件 =replica
+  - an illegally duplicated video tape 非法拷贝影带
+- **duplication** [ˌdjuːplɪˈkeɪʃn] *n.* 复制，复本，重复
+
+> The computer program was **duplicated** illegally.
+> 电脑程序被非法复制。
+
+> You need to make a **duplicate** key.
+> 你应该再配一把钥匙。
+
+> Oysters have a unique flavor which no other seafood can **duplicate**.
+> 牡蛎拥有其他海鲜所不能比拟的独特味道。
+
+## 6. 在心里in-展开思考tend，intend打算
+
+::: {.etymo}
+本书读者一定都有“把英语学好”的想法吧？这就是intend打算学好英语。intend由其词源义“在心里展开某种想法”引申为“打算”的意思。
+:::
+
+<!-- p.100 -->
+
+intend主要以惯用句型intend to do sth.下决心做……，打算的形式使用。例如，intend to study English就是“下决心要学习英语”的意思。另外，形容词intentional故意的的使用频率也很高，请大家一起记住该单词。
+
+- **intend** [ɪnˈtend] *vt.* 意欲，计划
+  - intend to meet him 打算见他
+- **intention** [ɪnˈtenʃn] *n.* 意图，目的
+- **intentional** [ɪnˈtenʃənl] *adj.* 故意的，有意的 =deliberate
+- **intent** [ɪnˈtent] *n.* 意图，目的
+  - *adj.* 专心的，专注的
+
+> My father **intends** to set up his new business.
+> 我父亲打算创建新公司。
+
+> If it is fine tomorrow, I **intend** to visit the art exhibition.
+> 如果明天天气好，我打算去看艺术展。
+
+> He was charged with an **intentional** violation of the tax laws.
+> 他被诉故意违反税法。
+
+## 7. 身体向……边at-伸展tend，attend 1. 出席；2. 照顾
+
+::: {.etymo}
+为了努力学好英语，有的人买了书，有的人去了英语辅导班。当然还要参加辅导班的英语课English class吧！描述该情况所使用的动词就是attend。attend由其词源义“（把身体）向……伸展”引申出“出席……，参加……”之义，是及物动词。
+:::
+
+词组attend an English class指“参加英语学习”。而护士nurse守在病人旁照顾病人也是attend，但该用法时attend是不及物动词，照顾病人为“attend on the patient”。attend作及物动词和不及物动词时的用法不一样，各位要多加注意！
+
+**Voca Map**
+- intend（意欲，计划）
+  - ↓
+  - intention, intent（意图，目的）
+  - ↓
+  - intentional（故意的，有意的）
+  - ↓
+  - intentionally（故意地，有意地）‖ deliberately
+- attend
+  - 1. 出席，参加
+    - ↓
+    - attendance（出席，参加）
+  - 2.（与to, on搭配）照顾，致力于
+    - ↓
+    - attendant（服务人员，随从，侍者）
+  - ↓
+  - attention（注意，注意力）
+    - ↓
+    - attentive（注意的，周到的）
+      - ↕
+      - inattentive（不注意的，疏忽的）
+
+<!-- 插图：上课出席与看护病人的场景照片 -->
+
+<!-- p.101 -->
+
+- **attend** [əˈtend] *vt.* 出席，参加；*vi.* 照顾，致力于（与 on, to 搭配）
+  - attend the meeting 参加会议
+  - attend to the matter 处理这件事
+- **attendance** [əˈtəndəns] *n.* 出席，参加
+- **attentive** [əˈtentɪv] *adj.* 注意的，周到的
+- **attendant** [əˈtəndənt] *n.* 服务人员，随从，侍者
+
+> Many people **attended** the funeral.
+> 很多人出席了葬礼。
+> （funeral [ˈfjuːnərəl] 葬礼）
+
+> She **attends on** her sick father.
+> 她照顾生病的父亲。
+
+> The professor is very strict about **attendance**.
+> 教授对出席要求非常严格。
+
+> The best teacher always has to be **attentive** to students' needs.
+> 最优秀的老师经常要关注学生的需求。
+
+## 8. （想法或行动）向……展开tend，tendency倾向
+
+::: {.etymo}
+韩国人有“急性子”的倾向 typical tendency 是出了名的。这里出现的单词 tendency 是从词源“（人们的想法或行动）向……展开”中引申出的“倾向”的意思。大家也可以把它看做是与 trend 趋势，倾向相似的词汇。tendency 倾向的动词“tend”常加 to 做宾语，请大家不要忽视了这个重要的语法点哦。
+:::
+
+- **tendency** [ˈtendənsi] *n.* 倾向，趋势=trend
+  - a tendency to exaggerate 夸大的倾向
+  - inherit a tendency to alcoholism 继承了酗酒的倾向
+- **tend to do sth.** 倾向于做某事
+
+> Korean people **have a hasty tendency**.
+> 韩国人的性格比较急。
+
+> People **tend to** need less sleep as they get older.
+> 随着年龄的增长，人们睡眠时间有变短的倾向。
+
+## 9. 向外ex-伸展tend，extend扩大，延伸
+
+<!-- 插图：展开的地图向四个方向延伸出箭头 -->
+
+::: {.etymo}
+前面提到的韩国人多为“急性子”，这也astronaut/不一定就是不好的。正因为急性子倾向的作用，才使韩国有超高速网络普及率。即便是现在，韩国企业也一直在继续扩
+:::
+
+<!-- p.102 -->
+
+大extend规模。这里所使用的单词“extend”是其词源义“向外伸展”而引申出的“扩大，延伸”之义。其形容词extensive广阔的，广大的，范围广泛的也是使用频率较高的单词，请大家一起记住该单词！
+
+- **extend** [ɪkˈstend] *vt.* 延伸，扩大
+  - extended family 大家庭（夫妻以外，包括近亲）
+  - nuclear family 核心家庭（夫妻和孩子）
+- **extension** [ɪkˈstenʃn] *n.* 延长，延期
+- **extensive** [ɪkˈstensɪv] *adj.* 广大的，广阔的
+
+> I am an **extensive** reader.
+> 我读书的范围很广。
+
+> Korean companies are **extending** their domains in the world.
+> 韩国企业拓展着他们在世界各国的业务领域。
+
+> The dictator plans to **extend** his term.
+> 那个独裁者打算延长自己的任期。
+
+## 10. （为了得到……）一起 com- 伸手 tend，contend 竞争
+
+<!-- 插图：很多人伸手争夺挂着的金牌 -->
+
+::: {.etymo}
+企业想要面向世界发展的话，不可避免inevitable要面临的就是竞争competition。接下来我们要学习的单词contend正是“竞争”的意思。
+:::
+
+名词contention主要用作“争论”的意思。其形容词contentious是“（人）好争斗”的意思。请大家注意这两个派生词的词义。
+
+- **contend** [kənˈtend] *vi.* 竞争，争夺 = compete
+  *vt.* 主张，声称 = assert
+  - contend for power 争夺权力
+  - contend with the problem 争论的问题
+- **contention** [kənˈtenʃn] *n.* 竞争，争论，争夺
+- **contentious** [kənˈtenʃəs] *adj.* 爱争论的，爱议论的 = quarrelsome；引起争论的，有争论的 = controversial
+
+**Voca Map**
+- contend 竞争，争夺 = compete
+  ↓
+- contention 竞争，争论，争夺
+  ↓
+- contentious 爱争论的，爱议论的 = quarrelsome
+
+<!-- p.103 -->
+
+> The three athletes **contend for** a gold medal.
+> 三个运动员竞争夺金牌。
+
+> The issue is no longer **in contention**.
+> 这件事情已经不在争论之中。
+
+> Abortion has always been a **contentious** subject.
+> 堕胎一直是个争议的话题。
+> （abortion [ə'bɔːʃn] 堕胎）
+
+## 单词回顾
+
+::: {.etymo}
+1. 折成很多层
+   → 复杂的 ______
+:::
+
+2. 把折叠的反过来展开
+   → 显示，展示 ______
+
+3. 向外折叠后，展开的
+   → 清楚的 ______
+
+4. 把人放在里面
+   → 雇用 ______
+
+5. 折成两层，使两部分完全相同
+   → 复制，复印 ______
+
+6. 在心里展开思考
+   → 打算 ______
+
+7. 身体向……边展开
+   → 1. 出席；2. 照顾 ______
+
+8. （想法，行动）向……展开
+   → 倾向 ______
+
+9. 向外伸展
+   → 扩大，延伸 ______
+
+10. （为了得到……）一起伸手
+    → 竞争 ______
+
+> 答案 1. complicated 2. display 3. explicit 4. employ 5. duplicate 6. intend 7. attend 8. tendency 9. extend 10. contend
+
+<!-- p.104 -->
+
+## 单词检测
+
+## 一 请写出下列单词的词义。
+
+::: {.etymo}
+1. complicated ______  2. explicit ______
+3. duplicate ______  4. intend ______
+5. extend ______  6. contend ______
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 数学是复杂的（______）学问。
+2. 我们要决定在展示会（______）上展出的产品。
+3. 老师做出了清楚的（______）说明。
+4. 请提交身份证复印件（______）。
+5. 我要参加（______）那个聚会。
+6. 那个老师说话偏（______）快。
+7. 延长（______）网络听课时间。
+8. 企业之间相互竞争（______）。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. We must solve the complicated problem.
+   A. concrete  B. duplicate  C. complex
+:::
+
+2. Please give your explicit intention to me.
+   A. luminous  B. manifest  C. implicit
+
+3. Employees are required to ______ the team meeting.
+   A. attend  B. intend  C. extend
+
+4. The two leaders are ______ for power.
+   A. contending  B. excluding  C. pretending
+
+---
+
+## 本日词汇速查（34 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [com-]{.headword} |  |  | 一起 + **plic** 折(fold) + **-ated** 成为（折成很多层） → **complicated** 结构复杂的，混乱的 |
+| [dis-]{.headword} |  |  | 相反 + **play** 折(fold)（将折起的东西展开） → **display** 展开，伸展，显示 |
+| [ex-]{.headword} |  |  | 向外 + **plic** 折(fold) + **-it** 名词（向外折、展开的） → **explicit** 明确的、清楚的 |
+| [em-]{.headword} |  |  | 里 + **ploy** 折(fold)（把（人）放在里面） → **employ** 雇用、利用 |
+| [du-]{.headword} |  |  | 双 + **plic** 折(fold) + **-ate** 名词后缀（折成两层以使两部分相同） → **duplicate** 复制，使成双 |
+| [in-]{.headword} |  |  | 里 + **tend** 展开(stretch)（在心里展开思考） → **intend** 意欲，计划 |
+| [complicated]{.headword} | ˈkɒmplɪkeɪtɪd | adj | 复杂的 = complex, knotty |
+| [complication]{.headword} | ˌkɒmplɪˈkeɪʃn | n | 错杂，并发症 |
+| [complicate]{.headword} | ˈkɒmplɪkeɪt | vt | 使复杂化 ↔ simplify 使简单化 |
+| [display]{.headword} | dɪˈspleɪ | v | 展览，展示 = show |
+| [explicit]{.headword} | ɪk'splɪsɪt | adj | 清楚的，明确的 = evident, obvious |
+| [implicit]{.headword} | ɪm'plɪsɪt | adj | 不言明（含蓄）的，内含的 = implied |
+| [employ]{.headword} | ɪmˈplɔɪ | vt | 1. 雇用 =hire, engage ; 2. 使用，利用 =use |
+| [employment]{.headword} | ɪmˈplɔɪmənt | n | 雇用，职业 ↔unemployment 失业 |
+| [employer]{.headword} | ɪmˈplɔɪə(r) | n | 雇主，老板，雇用者 |
+| [employee]{.headword} | ɪmˈplɔɪiː | n | 雇员，职工 |
+| [duplicate]{.headword} | ˈdjuːplɪkeɪt | vt | 复制；拷贝 =copy ; *adj.* 复制的，二倍的，副本的 *n.* 副本，复制品，复印件 =replica |
+| [duplication]{.headword} | ˌdjuːplɪˈkeɪʃn | n | 复制，复本，重复 |
+| [intend]{.headword} | ɪnˈtend | vt | 意欲，计划 |
+| [intention]{.headword} | ɪnˈtenʃn | n | 意图，目的 |
+| [intentional]{.headword} | ɪnˈtenʃənl | adj | 故意的，有意的 =deliberate |
+| [intent]{.headword} | ɪnˈtent | n | 意图，目的 |
+| [attend]{.headword} | əˈtend | vt | 出席，参加；*vi.* 照顾，致力于（与 on, to 搭配） |
+| [attendance]{.headword} | əˈtəndəns | n | 出席，参加 |
+| [attentive]{.headword} | əˈtentɪv | adj | 注意的，周到的 |
+| [attendant]{.headword} | əˈtəndənt | n | 服务人员，随从，侍者 |
+| [tendency]{.headword} | ˈtendənsi | n | 倾向，趋势=trend |
+| [tend to do sth.]{.headword} |  |  | 倾向于做某事 |
+| [extend]{.headword} | ɪkˈstend | vt | 延伸，扩大 |
+| [extension]{.headword} | ɪkˈstenʃn | n | 延长，延期 |
+| [extensive]{.headword} | ɪkˈstensɪv | adj | 广大的，广阔的 |
+| [contend]{.headword} | kənˈtend | vi | 竞争，争夺 = compete |
+| [contention]{.headword} | kənˈtenʃn | n | 竞争，争论，争夺 |
+| [contentious]{.headword} | kənˈtenʃəs | adj | 爱争论的，爱议论的 = quarrelsome；引起争论的，有争论的 = controversial |
+

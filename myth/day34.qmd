@@ -1,0 +1,372 @@
+# Day 34 · 招待的人是 host，不能独自生存的是 human {.unnumbered}
+
+::: {.root-banner}
+Day 34 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p299–p306
+
+<!-- p.284 -->
+
+<!-- 插图：聚会场景 -->
+
+搬到新家以后，大家一般都会举办一个乔迁宴会house-warming party来招待朋友。招待的人当然就是host主人。客人们三三两两地来到主人家里，气氛变得越来越热烈，主人用美食hospitality款待客人。human人是不能独自生存的，人应该多聚会，与别人融合到一起生活。
+
+**Voca Map**
+
+- **host** 主人
+  - **hospitable** 好客、殷勤招待
+  - **hospitality** 款待，(简单的) 茶点
+  - **hostage** 人质
+  - **hospice** 临终关怀医院
+
+- **human** 人
+  - **humble** 谦逊的、卑贱的
+  - **humiliate** 使丢脸
+  - **homage** 尊敬、敬意
+  - **homicide** 杀人
+
+<!-- p.285 -->
+
+## 1. 招待的人 host 主人；主持人；主办
+
+<!-- 插图：聚会聚餐的场景 -->
+
+::: {.etymo}
+大家应该都知道 host 是“主人”的意思吧？在其后面加上表示女性的后缀 -ess 就变成 hostess 女主人。
+:::
+
+host 既可以用作名词又可以用作动词。比如，host the World Cup 的意思是“举办世界杯足球比赛”，host a talk show 的意思是“脱口秀节目”。另外，the host city for the Olympic Games 是“奥运会主办城市”的意思，请大家一定要记住哦！
+
+- **host** [həʊst] *n.* 主人；主持人 *v.* 主办；举行
+  - host the World Cup 举办世界杯足球比赛
+  - host a talk show 主持脱口秀节目
+- **hostess** [ˈhəʊstɪs] *n.* 女主人
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 host 作为动词使用时，是“主持，主办，举行”的意思。
+:::
+
+> Which country is going to **host** the next Asian Games?
+> 哪个国家举办下一届的亚运会？
+
+> Leno replaced Johnny Carson as the **host** of "The Tonight Show".
+> 勒诺取代约翰尼·卡尔逊成为“今夜秀”的主持人。
+
+## 2. host 迎接的样子 hospitable 好客，殷勤招待
+
+<!-- 插图：身穿西装张开双臂欢迎客人的男士 -->
+
+::: {.etymo}
+前面我们一起学习了单词 host，大家应该都知道 host a party 是什么意思吧？对，是“举办一场聚会”的意思。要想举办一场聚会招待客人的话应该准备好食物，客人到的时候，主人应该热情地欢迎。这时所使用的单词就是 hospitable 好客，殷勤招待。怎么样？大家不想把它与 host 一起记住吗？
+:::
+
+- **hospitable** [hɒˈspɪtəbl] *adj.* 1. 好客，殷勤招待 = welcoming；2.（气候、环境）爽快，舒适 = agreeable
+  - a very hospitable girl 一个好客的女孩
+  - his attitude is hospitable to new ideas 他对新观点（新观念）持善意态度
+- **inhospitable** [ˌɪnhɒˈspɪtəbl] *adj.* 冷淡的
+
+<!-- p.286 -->
+
+> The country has a **hospitable** climate.
+> 这个国家气候宜人。
+
+> Korean people are very **hospitable** to foreigners.
+> 韩国人对外国人非常友好。
+
+## 3. hospitable 的名词形式 hospitality 款待；（免费提供的）简单食物，茶点
+
+::: {.etymo}
+hospitable 的名词形式是 hospitality，联想一下我们前面学过的 hospitable 就不难理解了。当被招待的人来到我们家的时候应该“殷勤招待”吧！然后，当然是把自己精心准备的食物免费拿给大家品尝啦！所以“简单的食物，茶点”这个词义就生成了。按照单词词义的生成过程来记忆单词是不是容易很多？
+:::
+
+- **hospitality** [ˌhɒspɪˈtæləti] *n.* 1. 款待，接待 2. (免费) 食物，茶点
+  - the company's hospitality suite 公司的酒店套房
+  - the hospitality industry 酒店业
+  - a cordial hospitality 热情款待
+
+> **Voca Map**
+> - hospitable（好客的）↔ inhospitable（不好客的）
+>   - ↓
+>   - hospitality（1. 款待，接待 2. (免费) 食物，茶点）
+
+> Thank you very much for your **hospitality** during my stay here.
+> 非常感谢您对我逗留此地期间的款待。
+
+> We are pleased with the **hospitality** provided by the hotel.
+> 酒店提供的服务很好，我们很开心。
+
+## 4. 交给 host 保管的人 hostage 人质
+
+<!-- 插图：拿着钱袋逃跑的小人与被胶带封口的人质照片 -->
+
+::: {.etymo}
+前面正说着“主人”，怎么突然又说 hostage 人质了呢？原来 hostage 的词源是“作为保证（担保）而交给主人保管的人”的意思。即为了阻止他不交钱就逃跑，向主人交一个人作为担保 mortgage。词源原来的意思是“（被主人）抓走了的人”，引申为“人质”。
+:::
+
+接下来我们再深入了解一下。abduction 是“诱拐”的意思，hostage 是“人质”的意思，ransom 是“赎金”的意思。将这三个单词放在一起记比较容易：abduction 诱拐孩子，将其作为 hostage 人质，索要 ransom 赎金。怎么样，有效果吧？
+
+<!-- p.287 -->
+
+- **hostage** [ˈhɒstɪdʒ] *n.* 人质
+  - The passengers were taken hostages. 乘客被抓作人质。
+- **abduction** [æbˈdʌkʃn] *n.* 诱拐 = kidnapping
+- **ransom** [ˈrænsəm] *n.* 赎金
+
+::: {.mnemonic}
+**温馨小贴士**
+
+三个单词一起记忆：abduction（诱拐）孩子，将其作为 hostage（人质），索要 ransom（赎金）。
+:::
+
+> The terrorists are holding two foreign tourists **hostage**.
+> 恐怖分子挟持了两名旅客作人质。
+
+> Taking a child **hostage** and asking for money is really mean.
+> 抓个孩子作为人质，要挟钱财，实在是太恶劣了（太卑鄙了）。
+
+## 5 host 给客人准备的家 hospice 临终关怀医院，安养院，救济院
+
+<!-- 插图：病房中护士关怀照料病人的场景 -->
+
+::: {.etymo}
+治病的“医院”就是 hospital。Hospital 的词源义是“host 给客人准备的家”，后来引申为“为病人准备的疗养院”，也就是“医院”。那么跟 hospital 的词源相同的 hospice 又是指什么呢？这个世界上可怕的 terrible 病实在是太多了：艾滋病 AIDS、癌症 cancer、白血病 leukemia 等，为了让那些得了不治之症、剩下时日不多 a time-limited life 的人能够安心闭上眼睛而设立的机构就是 hospice 临终关怀医院。“hospice”现在经常当作外来词使用，大家一定要记住哦！
+:::
+
+- **hospice** [ˈhɒspɪs] *n.* 临终关怀医院，安养院，救济院
+  - an AIDS hospice 一所艾滋临终关怀医院
+- **hospital** [ˈhɒspɪtl] *n.* 医院
+  - in the hospital 在医院
+  - out of the hospital 从医院出来
+  - maternity hospital 妇产医院
+
+> The **hospice** aims to ease the sufferings of the dying.
+> 缓解将死之人的痛苦是临终关怀医院的目的。
+
+> My mother, who was suffering from terminal cancer, spent her last few months in a **hospice**.
+> 我妈妈得了晚期癌症，最后的几个月是在一家临终关怀医院度过的。
+> （terminal cancer 晚期癌症）
+
+## 6 泥土造人 human 人类，人
+
+::: {.etymo}
+大家知道 human 人类的词源是什么吗？human 的词根 hum 是“土 soil”
+:::
+
+<!-- p.288 -->
+
+的意思，也就是说，人类就是“用泥土造的”。这种说法在圣经的创世纪Genesis出现过。
+
+如果我们能将跟human相关的一系列词汇同时记忆的话是不是会更有效呢？首先，形容词humane是“人类的，有人情味的”的意思，humanism是名词，意为“人文主义，人本主义”。humanity是“人类；人性”的意思。
+
+- **human** [ˈhjuːmən] *n.* 人类，人
+  - human resources 人力资源
+  - human race 人类=mankind
+- **humane** [hjuːˈmeɪn] *adj.* 人道的，有人性的
+- **humanity** [hjuːˈmænəti] *n.* 人类 = humankind; 人性
+- **humanism** [ˈhjuːmənɪzəm] *n.* 人道主义，人文主义
+
+> The war was a paradigm of the destructive side of **human nature**.
+> 这场战争就是人性具有破坏性的一面的典型例子。
+> （paradigm [ˈpærədaɪm] 示例）
+
+> Nuclear weapons may lead to the fall of the **human race**.
+> 核武器会导致人类的毁灭。
+
+## 7. 因为泥土在低的地方，所以 humble 谦逊的；卑贱的
+
+<!-- 插图：王妃与窃窃私语的侍女，气泡文字：“这样啊！王妃是出身于humble origin卑贱的家庭啊！” -->
+
+::: {.etymo}
+大家现在都知道human的词根hum是土soil了吧？将词根hum原封不动地照搬过来使用的单词是humble。泥土都在低的地方，因此humble的词源义就是“低的low”。在这里，humble从“降低自己”引申出“谦逊的”，从“天生身份低的”引申成了“卑贱的”释义。比如，humble attitude是“谦逊的态度”的意思，humble origin是“卑贱的家门”的意思。根据humble所结合使用的名词来推测其词义会比较容易。
+:::
+
+- **humble** [ˈhʌmbl] *adj.* 1. 谦逊的= modest 2. 卑贱的
+  *vt.* (过分) 自卑（※ 常用于短语 humble oneself）
+  - humble attitude 谦逊的态度，humble origin 出身卑微
+  - eat humble pie 忍气吞声
+- **humility** [hjuːˈmɪləti] *n.* 谦逊
+
+<!-- p.289 -->
+
+> She is a great athlete, but is **humble** about her accomplishments.
+> 她是个伟大的运动员，但对自己所取得的成就她却很谦虚。
+
+> The girl of **humble** condition ascended to the throne.
+> 条件卑微的女孩继承了王位。
+
+## 8. 让对方变得很卑贱 humiliate 使丢脸，使没面子
+
+<!-- 插图：男子在众人面前训斥女子 -->
+
+::: {.etymo}
+我们刚学习的humble有“卑贱的”的意思。humiliate的词源与humble相同，都是hum低的，因此词义差别不大。humiliate的词源义是“让……变得很卑贱”，而它本身是“使丢脸”的意思。在很多人面前训人就是典型性的humiliate。humiliate也是一个在考试中频繁frequently出现的词汇，因此可以说它是一个必须记住的单词哦！
+:::
+
+- **humiliate** [hjuːˈmɪlieɪt] *vt.* 使丢脸 = mortify
+  - humiliate him in public 让他 在公众面前蒙羞
+- **humiliation** [hjuːˌmɪlɪˈeɪʃn] *n.* 丢脸，蒙羞
+- **humiliating** [hjuːˈmɪlieɪtɪŋ] *adj.* 丢脸的，蒙羞的
+
+> The teacher **humiliated** her in front of her classmates.
+> 老师在全班同学面前羞辱了她。
+
+> I've never been so **humiliated** in my life!
+> 我一生中从未如此丢脸过！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 humiliate 的同义词是 mortify，其词源义是：mort (death) + -ify (make) → 使某人痛不欲生，该词是“使感到屈辱”的意思，它也是一个很重要的动词。
+:::
+
+## 9. 将身体向下压低 homage 尊敬，敬意
+
+::: {.etymo}
+单词homage是一个相对比较难的词，因此我们需要先从它的词源开始看起来。该词由词源义hom低+-age名词性后缀→将（自己）降低，引申指“尊敬（的表示），敬意”。见到长辈，我们应该怎么做呢？是不是要弯腰行礼呢？去寺庙temple给佛祖行礼bow的时候是不是也应该弯下身子呢？这就是homage。值得注意的是，homage一般以惯用表达pay homage to向……表达敬意的形式出现哦！
+:::
+
+<!-- 插图：男子向佛像下跪鞠躬行礼 -->
+
+- **homage** [ˈhɒmɪdʒ] *n.* 尊敬（的表示），敬意
+  - pay homage to 对……表示尊敬
+
+<!-- p.290 -->
+
+> The nobles **paid homage to** the king by bowing to him.
+> 贵族们向国王鞠躬以表敬意。
+
+> We **pay homage to** the genius of Mozart.
+> 我们向天才莫扎特表示敬意。
+
+## 10. 杀人 homicide 杀人、杀害
+
+<!-- 插图：一把带血的匕首和血迹 -->
+
+::: {.etymo}
+一提起杀人，大家脑海中浮现的单词一定是 murder 吧！其加上 -er 就变成了 murderer 杀人犯。在这里，我们把难度再稍微提高点儿，一起来学习一下新单词 homicide。这个单词是一个很正式 formal 的单词，主要在法庭 courtroom 上使用。来看一下它的词源构成：hom (i) 人类 + cide 杀 → 杀人，组合在一起即为“杀人”之义。还有一点很重要，那就是单词后面以 cide 结尾的话就是“杀 kill”的意思。suicide 是“自杀”，pesticide 是“杀虫剂”，genocide 是“集体屠杀”的意思。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+包含词根 cide 的词汇：
+**suicide** 自己 (sui) 死去 → “自杀”
+**pesticide** 杀死害虫 (pest) 的东西 → “杀虫剂”
+**genocide** 将诞生的生命 (gen) 全部杀掉 → “集体屠杀”
+**fratricide** 杀死自己的兄弟 (fratri) → “杀害兄弟”
+:::
+
+- **homicide** [ˈhɒmɪsaɪd] *n.* 杀人，杀害 = murder
+  - justifiable homicide 防卫杀人
+- **homicidal** [ˌhɒmɪˈsaɪdl] *adj.* 杀人的
+
+> Police booked him on a charge of **accidental homicide**.
+> 警察以涉嫌过失杀人罪约谈了他。
+
+> The scene of the **homicide** was covered with blood.
+> 凶案现场到处都是血。
+
+## 单词回顾
+
+1. 接待的人
+   → 主人；主持人；主办 ______
+2. host 迎接的样子
+   → 好客，殷勤招待 ______
+3. hospitable 的名词形式
+   → ①款待
+   ②（免费提供的）简单食物，茶点 ______
+4. 交给 host 保管的人
+   → 人质 ______
+5. host 给客人准备的家
+   → 临终关怀医院 ______
+6. 土造成的存在
+   → 人类，人 ______
+7. 像泥土一样低的
+   → 谦逊的；卑贱的 ______
+8. 让对方变得很卑贱
+   → 使丢脸，使没面子 ______
+9. 将身体向下压低
+   → 尊敬，敬意 ______
+10. 杀人
+   → 杀人，杀害 ______
+
+答案 1. host 2. hospitable 3. hospitality 4. hostage 5. hospice 6. human 7. humble 8. humiliate 9. homage 10. homicide
+
+<!-- p.291 -->
+
+## 确认并攻克下列单词
+
+### 请写出下列单词的词义。
+
+1. hospitable ______
+2. hostage ______
+3. hospice ______
+4. humble ______
+5. humiliate ______
+6. homage ______
+
+### 请写出下列阴影标识部分的单词。
+
+1. 我妈妈是一个善良**好客** ______ 的人。
+2. 奶奶**殷切招待** ______ 了我们。
+3. 那个犯人抓了一名女子作为**人质** ______。
+4. 我爷爷现在住在**临终关怀疗养院** ______ 里。
+5. 我高度评价了他**谦逊的** ______ 态度。
+6. 他让我在别人面前**丢脸** ______ 了。
+7. 对他的牺牲，我们表示**敬意** ______。
+8. 他被告发涉嫌**杀害** ______ 了自己的妻子。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. I found his wife **hospitable**.  
+   A. smooth  
+   B. unfriendly  
+   C. kind
+
+2. The terrorists kept the ______ in an underground room.  
+   A. hostage  
+   B. homage  
+   C. humanity
+
+3. You don't have to ______ yourself too much.  
+   A. mumble  
+   B. fumble  
+   C. humble
+
+4. Why do you always **humiliate** me in front of your friends?  
+   A. modify  
+   B. mortify  
+   C. mold
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [host]{.headword} | həʊst | n | 主人；主持人 *v.* 主办；举行 |
+| [hospitable]{.headword} | hɒˈspɪtəbl | adj | 1. 好客，殷勤招待 = welcoming；2.（气候、环境）爽快，舒适 = agreeable |
+| [hospitality]{.headword} | ˌhɒspɪˈtæləti | n | 1. 款待，接待 2. (免费) 食物，茶点 |
+| [hostage]{.headword} | ˈhɒstɪdʒ | n | 人质 |
+| [hospice]{.headword} | ˈhɒspɪs | n | 临终关怀医院，安养院，救济院 |
+| [human]{.headword} | ˈhjuːmən | n | 人类，人 |
+| [humble]{.headword} | ˈhʌmbl | adj | 1. 谦逊的= modest 2. 卑贱的 |
+| [humiliate]{.headword} | hjuːˈmɪlieɪt | vt | 使丢脸 = mortify |
+| [homage]{.headword} | ˈhɒmɪdʒ | n | 尊敬（的表示），敬意 |
+| [homicide]{.headword} | ˈhɒmɪsaɪd | n | 杀人，杀害 = murder |
+| [hostess]{.headword} | ˈhəʊstɪs | n | 女主人 |
+| [inhospitable]{.headword} | ˌɪnhɒˈspɪtəbl | adj | 冷淡的 |
+| [abduction]{.headword} | æbˈdʌkʃn | n | 诱拐 = kidnapping |
+| [ransom]{.headword} | ˈrænsəm | n | 赎金 |
+| [hospital]{.headword} | ˈhɒspɪtl | n | 医院 |
+| [humane]{.headword} | hjuːˈmeɪn | adj | 人道的，有人性的 |
+| [humanity]{.headword} | hjuːˈmænəti | n | 人类 = humankind; 人性 |
+| [humanism]{.headword} | ˈhjuːmənɪzəm | n | 人道主义，人文主义 |
+| [humility]{.headword} | hjuːˈmɪləti | n | 谦逊 |
+| [humiliation]{.headword} | hjuːˌmɪlɪˈeɪʃn | n | 丢脸，蒙羞 |
+| [humiliating]{.headword} | hjuːˈmɪlieɪtɪŋ | adj | 丢脸的，蒙羞的 |
+| [homicidal]{.headword} | ˌhɒmɪˈsaɪdl | adj | 杀人的 |
+

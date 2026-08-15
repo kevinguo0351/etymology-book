@@ -1,0 +1,368 @@
+# Day 5 · 像 film 胶片一样薄，所以是 flimsy！ {.unnumbered}
+
+::: {.root-banner}
+Day 5 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p50–p57
+
+<!-- p.35 -->
+
+英语单词是通过各种各样的方法生成的。举个例子，右图中的 film 就生成了新单词 flimsy。此外，fiasco 一词源于 flask（装的）瓶；laconic 源于意大利一个叫做 laconia 的地名。
+
+学习单词时，准确了解其来源就会减轻记单词的负担。
+
+<!-- 插图：拿着胶片看的小人 -->
+
+## 源于事物
+
+- **flask**（因为荒年，只剩下装葡萄酒的瓶子）→ **fiasco**（票房）惨败
+- **knot**（线和线复杂绕成的“绳结”）→ **knotty** 多结的，棘手的
+- **film**（像“胶片”一样薄）→ **flimsy** 1.薄的；2.（证据、逻辑）不足信的
+- **maul**（用“大锤子”用力砸）→ **maul** 1.粗暴地处理 2.猛烈攻击、重创
+- **helm**（操纵船的“舵”）→ **helm** 实权，支配权
+- **puppet**（按照绳子拉扯方向移动的“拉线木偶”）→ **puppet** 木偶，傀儡
+- **hinge**（把门固定在墙上的折页）→ **hinge** 用铰链连接，给…安装铰链
+- **slash**（用锋利的刀挥砍）→ **slash** 大幅消减
+
+## 源于地名
+
+- **Laconia** 拉哥尼亚（古希腊一王国，位于伯罗奔尼撒半岛南部）以说话简洁而闻名 → **laconic** 话少的，话语简洁
+- **Lesbos** 来兹波斯岛（在爱琴海中，位于土耳其西北，属希腊）几乎没有男人，允许女人同性恋的岛 → **lesbian** 女同性恋的
+
+<!-- p.36 -->
+
+## 1. 源于荒年里只剩下装葡萄酒的瓶子 flask，fiasco (票房) 失败
+
+<!-- 插图：农夫坐在空葡萄酒瓶旁发愁 -->
+
+::: {.etymo}
+fiasco是源于很久以前法国乡村农场的一个词汇。在以wine闻名的法国，人们预想着葡萄大丰收，提前定制了很多装葡萄酒的瓶子，但恰好赶上那年是荒年，葡萄欠收没办法酿制那么多的葡萄酒，最后只剩下花了很多钱定制的瓶子flask。这种“只剩下瓶子的状态”对于农夫们而言应该就是“（农活的）失败”吧。所以，以flask为词源生成了fiasco大失败一词。该词多用于表达做了很多准备，却没取得任何成果或遭遇失败。譬如，花费巨额制作费拍摄的电影，上映以后却无人观看，票房惨败。这时就可以用fiasco来表达这种(电影票房的)惨败。
+:::
+
+- **fiasco** [fɪ'æskəʊ] *n.* (票房) 惨败，大失败 = failure, disaster
+  - a fiasco of the movie 票房惨败的电影
+  - a complete fiasco of the show 彻底惨败的演出
+- **flask** [flɑːsk] *n.* 细颈瓶，烧瓶
+
+> The newly released movie ended in a **fiasco**.
+> 新上映的电影以惨败而告终。
+
+> The new shopping mall has been an economic **fiasco**.
+> 新建的购物中心是出经济上的败笔。
+
+## 2. 像 film 胶片一样非常薄，flimsy 1. 薄的 2. (逻辑、证据) 不足信
+
+<!-- 插图：胶卷底片 -->
+
+::: {.etymo}
+装在相机里的胶片film非常薄，flimsy正是源于该词的形容词。本来，它应写作filmsy，但为了发音上的方便就改变了字母的拼写顺序，变成了flimsy。其词义也由“像胶片一样的”变成“1.（衣服）薄的 2.（逻辑，证据）不足信”的意思。请不要犹豫到底要不要背flimsy这个词，只要知道它源自于film胶片一词，便可瞬间理解记忆了。
+:::
+
+- **flimsy** ['flɪmzi] *adj.* 1. (衣服) 薄的 = thin 2. (逻辑，证据) 不足信的 = meager
+  - flimsy cloth 轻而薄的衣料
+  - a flimsy excuse 牵强的理由
+  - the flimsy evidence 不足信的证据
+
+<!-- p.37 -->
+
+> It was impossible for me to sleep under a single **flimsy** blanket on such a cold night.
+> 这么冷的夜晚只盖了条薄毯子，我很难入睡。
+
+> The evidence against him is extremely **flimsy**.
+> 对他不利的那些证据实在不足为信。
+
+> Lives are at stake. I'll take **flimsy** over nothing.
+> 这是决定我生死的问题，哪怕是个小小的证据也会有用。（at stake 濒于险境，处于成败关头）
+
+## 3. 源于掌船之舵helm的helm实权，支配权
+
+<!-- 插图：轮船木制方向舵 -->
+
+::: {.etymo}
+就像汽车有方向盘steering wheel一样，船在水上行驶要靠操纵船舵helm才行。掌握住汽车的方向盘，我们便可以自由地驾车前行，而掌握好船舵的人也可以随意驾驶船只。所以“舵helm”的抽象义便是“实权，支配权”。需要注意的是，helm作为“实权，支配权”之意使用的时候，通常以take the helm的惯用形式出现。
+:::
+
+- **helm** [helm] *n.* 1. 船舵，舵柄；2. 实权，支配权 =control, clout
+  - take the helm 执掌实权
+  - be at the helm of the institution 执掌某机构的领导实权
+
+> James **took the helm** at the company.
+> 詹姆斯是公司的实际领导人。
+
+> Who will **take the helm** of state affairs?
+> 谁会执掌国家政权？
+
+## 4. 源于将门固定在墙壁上的铰链hinge，hinge依……而转移
+
+<!-- 插图：门铰链 -->
+
+::: {.etymo}
+图片中我们看到的正是将门固定在墙壁上的铰链hinge。实际上hinge是由hang改变元音成为hing后，再加上后缀-e所构成的，为“挂着”的意思。
+:::
+
+如果hinge与介词on结合，作为词组hinge on来使用的话，就是“取决于……，依靠”的意思。这与我们熟知的词组depend on同义。
+
+<!-- p.38 -->
+
+- **hinge** [hɪndʒ] *n.* 铰链
+  - hinge on 倚靠……、取决于 = depend on, rely on
+  - the outcome of the game hinged on a single play 比赛的结果仅取决于某一项比赛
+
+> His political future **hinges on** the result of this election.
+> 他的政治前途取决于这次选举的结果。
+
+> The case against him **hinges on** Lewen's testimony.
+> 卢恩的证词直接决定着是否对他提起诉讼。
+> （testimony [ˈtestɪməni] 证言）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在实际的阅读理解中，hinge 常以词组 hinge on 取决于……的形式出现，与我们所熟悉的 depend on 意思相同。不过，该词组更高级别的表达，记住这点即可。
+:::
+
+## 5. 像绳结 knot 一样、线和线复杂地缠在一起，knotty 复杂的
+
+<!-- 插图：绳结 -->
+
+::: {.etymo}
+如图所示，线（绳）与线（绳）复杂地缠在一起，叫做 knot 结扣。在我国，绳结也是一种艺术品。绳结的特点就是复杂地缠绕、纠缠在一起，所以形容词 knotty 就是“复杂的”的意思。相关的表达还有 tie the knot 结婚，将其理解为汉语中的“结下姻缘”即可。
+:::
+
+- **knot** [nɒt] *n.* 结
+  - tie the knot 结婚 = get married
+- **knotty** [ˈnɒti] *adj.* 复杂的 = complex, complicated
+  - a knotty problem 复杂的问题
+  - an array of knotty issues 一堆复杂的悬案
+
+> There were some **knotty** problems as you know.
+> 正如你所知道的，这里面有很多复杂的问题。
+
+> I don't want to meet someone to **tie the knot**.
+> 我不想以结婚为目的去见别人。
+
+> There are so many **complicated** regulations in Korea.
+> 韩国有如此多且复杂的制度。
+> （regulation [ˌreɡjʊˈleɪʃn] 规章，规定）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+以下为具有“复杂的”之意的词汇
+complex 复杂的，合成的
+complicated 结构复杂的，混乱的
+knotty （指木材）多结节的，棘手的
+intricate 错综复杂的
+:::
+
+## 6. 源于用大锤子 maul 用力砸的 maul 1. 严厉批评 2. 压倒性胜利
+
+<!-- 插图：拿大木槌用力砸书的人 -->
+
+::: {.etymo}
+maul 的基本义是“大木槌”。用大锤子来做什么呢？当然是用力砸东西！maul 由“用力砸”引申出“严厉批评、粗暴的对待”之意；从“用力敲打物体使之完全碎掉”引申为“体育比赛中轻易地打败对手”，即“轻松获胜、压倒性胜利”的意思。
+:::
+
+<!-- p.39 -->
+
+- **maul** [mɔːl] *v.* 1. 狠狠地批评，粗暴地对待 = criticize strongly  2. 轻松获胜，压倒性胜利 = defeat very easily, beat overwhelmingly
+  - the suspect who claims that he has been mauled by the police 嫌疑人声称自己被警察粗暴对待
+
+> His latest book was absolutely **mauled** by the critics.
+> 他最新出版的书遭到评论家严厉的批评。
+
+> The Korean soccer team **mauled** the Japanese soccer team last weekend.
+> 上个周末，韩国足球队轻而易举地战胜了日本队。
+
+## 7. 源于被绳子操控的拉线木偶 puppet，puppet 傀儡，木偶
+
+<!-- 插图：拉线木偶小人 -->
+
+::: {.etymo}
+像玩偶一样可爱的“小狗”用英语怎么说呢？当然是puppy。puppy小狗与puppet拉线木偶的词源同为doll玩偶，但puppet实际上多用来指按照别人的要求去做事的“傀儡，稻草人”，而不是“拉线木偶”。由“（拉线木偶的）拉线”又引申出了意为“在背后操纵”的词组“pull strings”。该词组与puppet语义相同。
+:::
+
+- **puppet** [ˈpʌpɪt] *n.* 傀儡，木偶
+  - hand puppet 手偶
+  - a puppet ruler 傀儡政权
+  - give her a puppet with strings for a gift 给她一个带绳子的木偶作为礼物
+  - pull strings 在背后操纵
+
+> He is no more than a **puppet**.
+> 他不过是个傀儡。
+
+> The government is in danger of becoming a mere **puppet** of the military.
+> 政府处在成为军队的傀儡的危机中。
+
+## 8. 源于用锋利的刀猛砍 slash，slash（大幅）削减
+
+<!-- 插图：拿着衣服看打折标牌的女士 -->
+
+::: {.etymo}
+你知道用电脑写文章时所使用的“/”符号叫什么吗？对了，是slash。是不是有点像用刀划开的符号？slash原本是“cut out something violently with a knife or sword（用刀猛划）”的意思，从这词义派生出“（大幅度）削减，减少”之意也不难理解吧？
+:::
+
+<!-- p.40 -->
+
+- **slash** [slæʃ] *v.* 1. 砍；2. 大幅度削减，减少 =reduce greatly
+  - slash prices in an effort to stimulate sales 为了刺激销售而大幅度降低价格
+  - slash airfares by over 50% 打5折以上的空运费
+
+> Someone had **slashed** my tires.
+> 有人用刀割了我的轮胎。
+
+> The company **slashed** the price of its old products.
+> 公司大幅度降低了积压品的价格。
+
+## 9. 源于因语言简洁而闻名的 Laconia，laconic 话少、（话）短
+
+<!-- 插图：Laconia 地貌风光 -->
+
+::: {.etymo}
+laconic 一词源于希腊南部一个叫做 Laconia 的地名。这个地方的人很久以前就以少说话为美德，所以以“话少”而闻名。
+:::
+
+- **laconic** [lə'kɒnɪk] *adj.* 简洁的，简明的 =taciturn, reticent
+  - have a reputation for being laconic 被人评价为寡言少语的人
+  - a laconic but intuitive commentary 简明直接的评论
+
+> He had a **laconic** sense of humor.
+> 他很有简洁的幽默感。
+
+> "She left," he said **laconically**.
+> 他简洁地说道：“她已经离开了。”
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在韩国，庆尚道的男人也以寡言而闻名。而意大利 Laconia 地区的人则因话少而闻名，所以被称为 laconic!
+:::
+
+## 10. 源于女人之间爱恋的岛 Lesbos，lesbian（女性间的）同性恋
+
+::: {.etymo}
+我们把女同性恋称为“蕾丝边”，该词源于爱琴海 the Aegean Sea 东北部一个叫做 Lesbos 的小岛。很久以前，Lesbos 岛上的男人很少，所以女性之间的同性恋被默许 tacitly permitted。事实上，lesbian 本来是“Lesbos 人的”意思，由于 Lesbos 岛独特的文化 peculiar culture，而用作
+:::
+
+<!-- p.41 -->
+
+<!-- 插图：海滩上两个手拉手的女性 -->
+
+“女同性恋者”。我们在大街小巷见到两女生手拉手，觉得习以为常，代表两人关系比较好而已，但在欧洲，女性朋友若牵手走路的话，容易被误以为 misunderstanding 是 lesbian。
+
+- **lesbian** [ˈlezbiən] *n.* (女性间的)同性恋；*adj.* 女同性恋的
+  - lesbian love 女同性恋
+  - come out as a lesbian 女同性恋出柜
+- **gay** *n.* 男同性恋
+- **homosexual** *n.* 同性恋者 *adj.* 同性恋的
+
+> I didn't realize I was a **lesbian** until I was in my twenties.
+> 直到20岁的时候，我才意识到我是一个女同性恋者。
+
+> Lang was the first major pop star to **come out as a lesbian**.
+> 郎是第一个出柜的女同性恋人气歌手。
+
+## 单词回顾
+
+::: {.etymo}
+1. 因为荒年、只剩下装葡萄酒的瓶子的遭遇
+   → (票房的)惨败 ______
+2. 像胶片一样非常薄
+   → ① 薄 ② (逻辑，证据)贫乏 ______
+3. 操纵船方向的舵
+   → 实权，支配权 ______
+4. 源于将门固定在墙壁上的铰链
+   → 取决于…… ______
+5. 像绳结一样，绳与绳复杂地缠在一起
+   → 复杂的 ______
+6. 用大锤子用力地砸
+   → ① 严厉的评论 ② 压倒性胜利 ______
+7. 被绳子操控的拉线木偶
+   → 傀儡，稻草人 ______
+8. 用锋利的刀猛砍
+   → (大幅)削减 ______
+9. 源于以语言简洁而闻名的 Laconia
+   → 话少、(话)短 ______
+10. 源于女人之间爱恋的岛 Lesbos
+    → (女性间的)同性恋 ______
+:::
+
+答案 1. fiasco 2. flimsy 3. helm 4. hinge 5. knotty 6. maul 7. puppet 8. slash 9. laconic 10. lesbian
+
+<!-- p.42 -->
+
+## 单词检测
+
+## 一 请写出下列单词的词义。
+
+::: {.etymo}
+1. fiasco ______
+2. flimsy ______
+3. knotty ______
+4. laconic ______
+5. maul ______
+6. puppet ______
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 我们的演出以**失败** ______ 告终。
+2. 用**证据不足的** ______ 理由是不能说服我的。
+3. 他为了能掌控那个公司的**实权** ______ 努力了很长时间。
+4. 我们公司的未来**取决于** ______ 今年的收益。
+5. 我们公司纠缠于**复杂的** ______ 人际关系。
+6. 那样**严厉地批评** ______ 他的作品，太过分了。
+7. 他是我的**傀儡** ______ 。
+8. **大幅度削减** ______ 了福利预算。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. For people who have not read the books, the film's plot may seem ______ and filled with loopholes.
+   A. flaming
+   B. flimsy
+   C. flashy
+:::
+
+2. His acceptance will **hinge on** the terms.
+   A. go on
+   B. turn on
+   C. depend on
+
+3. He easily solved the **knotty** problem.
+   A. compliant
+   B. complicated
+   C. complacent
+
+4. He was considered a ______ of the president.
+   A. puppy
+   B. puppet
+   C. publicity
+
+---
+
+## 本日词汇速查（17 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [flask]{.headword} | flɑːsk | n | 细颈瓶，烧瓶 |
+| [knot]{.headword} | nɒt | n | 结 |
+| [film]{.headword} |  |  | （像“胶片”一样薄）→ **flimsy** 1.薄的；2.（证据、逻辑）不足信的 |
+| [maul]{.headword} | mɔːl | v | 1. 狠狠地批评，粗暴地对待 = criticize strongly  2. 轻松获胜，压倒性胜利 = defeat very easily, beat overwhelmingly |
+| [helm]{.headword} | helm | n | 1. 船舵，舵柄；2. 实权，支配权 =control, clout |
+| [puppet]{.headword} | ˈpʌpɪt | n | 傀儡，木偶 |
+| [hinge]{.headword} | hɪndʒ | n | 铰链 |
+| [slash]{.headword} | slæʃ | v | 1. 砍；2. 大幅度削减，减少 =reduce greatly |
+| [Laconia]{.headword} |  |  | 拉哥尼亚（古希腊一王国，位于伯罗奔尼撒半岛南部）以说话简洁而闻名 → **laconic** 话少的，话语简洁 |
+| [Lesbos]{.headword} |  |  | 来兹波斯岛（在爱琴海中，位于土耳其西北，属希腊）几乎没有男人，允许女人同性恋的岛 → **lesbian** 女同性恋的 |
+| [fiasco]{.headword} | fɪ'æskəʊ | n | (票房) 惨败，大失败 = failure, disaster |
+| [flimsy]{.headword} | 'flɪmzi | adj | 1. (衣服) 薄的 = thin 2. (逻辑，证据) 不足信的 = meager |
+| [knotty]{.headword} | ˈnɒti | adj | 复杂的 = complex, complicated |
+| [laconic]{.headword} | lə'kɒnɪk | adj | 简洁的，简明的 =taciturn, reticent |
+| [lesbian]{.headword} | ˈlezbiən | n | (女性间的)同性恋；*adj.* 女同性恋的 |
+| [gay]{.headword} |  | n | 男同性恋 |
+| [homosexual]{.headword} |  | n | 同性恋者 *adj.* 同性恋的 |
+

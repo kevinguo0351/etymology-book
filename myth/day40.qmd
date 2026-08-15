@@ -1,0 +1,413 @@
+# Day 40 · 一味否定的un- {.unnumbered}
+
+::: {.root-banner}
+Day 40 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p352–p359
+
+<!-- p.337 -->
+
+英语中表否定的前缀大致分两种，即in-与un-。前缀in-的用法我们后面再详细介绍，现在让我们先来看看un-。否定前缀in-后多接形容词，而否定前缀un-后名词、动词、形容词统统都可以出现。一个单词只要在词头加上un-便有了否定的意思，很方便吧！
+
+**Voca Map：un-是not**
+
+- un- 否定(not) + employment 雇佣 → unemployment 失业（未受雇佣的状态）
+- un- 否定(not) + biased 有偏见的 → unbiased 没有偏见的，公正的（没有偏见的）
+- un- 否定(not) + likely 似要发生的 → unlikely 不太可能的（似乎不会发生的）
+- un- 否定(not) + bridled 系上缰绳的 → unbridled 不受控制的（没有系上缰绳的）
+- un- 否定(not) + lock 上锁 → unlock 把（锁上的东西）打开（把（锁上的东西）打开）
+- un- 否定(not) + questionable 有疑问的 → unquestionable 毫无疑问的，确实的（无法怀疑的）
+- un- 否定(not) + usual 普通的 → unusual 不寻常的、异样的（不普通的）
+- un- 否定(not) + rest 安定 → unrest （社会、政治）不安定，动荡（不稳定的状态）
+- un- 否定(not) + willing 愿意的 → unwilling 不愿意的（不情愿的）
+- un- 否定(not) + rul(e) 统治 + -y 形容词后缀 → unruly 难驾驭的，任性的（无法统治的）
+
+<!-- p.338 -->
+
+## 1. 无法 un- 雇佣 employment 的状态 unemployment 失业
+
+::: {.etymo}
+可以说是 unemployment 失业问题于每个国家来说都是相当严重的 serious 一个社会问题。政府会定期发布失业数据 unemployment figures，采取减少失业的措施 measures。单词 unemployment 就是在名词 employment 雇佣前面加上有 not 意思的否定前缀 un-，形成“未受雇佣的状态”，即“失业”的意思。
+:::
+
+**Voca Map**
+- employ（及物动词）雇佣
+  - ↓
+  - employment（名词）雇佣，职业 ↔ unemployment（名词）失业
+    - ↓
+    - unemployed（形容词）失业的，没有工作的
+
+- **unemployment** [ˌʌnɪmˈplɔɪmənt] *n.* 失业
+  - the unemployment rate 失业率
+  - unemployment figures /statistics 失业数据/统计
+  - unemployment benefit 失业救济
+- **unemployed** [ˌʌnɪmˈplɔɪd] *adj.* 失业的，没有工作的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请记住：unemployment在语法意义上来说是不可数名词 (uncountable noun)，因此它不能接不定冠词。
+:::
+
+> Closure of the plant will mean **unemployment** for 500 workers.
+> 工厂的关闭将意味着500名工人失业。
+
+> Youth **unemployment** is generally viewed as an important policy issue for many economies.
+> 青年失业被普遍认为是很多经济体的重要政策问题。
+
+> Experts are predicting that **unemployment** will fall slowly next year.
+> 专家预测明年失业率会逐渐降低。
+
+## 2. 不像 un- 要发生的 likely, unlikely 似乎不会发生的，没有指望的
+
+::: {.etymo}
+英语中还有比 like 更复杂 complicated 的单词吗？作动词用，它表示“喜欢”，而作前缀时，它又有“像……一样”的意思。另外，alike 是表语，意为“很像的”，liking 是名词，意为“喜欢、喜爱”，而 likeness 的意思不是“喜欢”而是“相像”。再扩展一下，likely 是形容词，意为“好像要发生的、有可能的”，likely 加上前缀 un- 就变成了 unlikely，unlikely 是 likely 的否定，意为“不太可能的，未必的”。要记住 likely 和 unlikely 这两个重要形容词的用法哦！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**like 相关词汇整理**
+- like *vt.* 喜欢 ↔ dislike 不喜欢
+- *prep.* 像……一样 ↔ unlike 和……不一样
+- liking *n.* 喜欢、喜爱
+- likely *adj.* 好像要……的，有可能……的 ↔ unlikely 似乎不可能发生的
+- alike *adj.* 相似 *adv.* 同样地 = likewise
+:::
+
+- **unlikely** [ʌnˈlaɪkli] *adj.* 不太可能的，未必的 = impossible, improbable
+  - be unlikely to do sth. 似乎不会做某事
+  - It is unlikely that... ……似乎不会发生
+- **likely** [ˈlaɪkli] *adj.* 似乎会发生的，有可能的 = possible, probable
+
+<!-- p.339 -->
+
+> The weather **is unlikely to** improve over the next few days.
+> 接下来的几天时间里天气似乎不会好转。
+
+> A small amount of the drug **is unlikely to** have any harmful effects.
+> 小剂量的这种药不会有任何有害的副作用。
+
+## 3. 不un-上锁lock, unlock把（锁上的东西）打开
+
+<!-- 插图：手用钥匙开锁 -->
+
+::: {.etymo}
+单词untie，unfasten，unlock的相同点是什么？单词tie和fasten都有“系”的意思。在它们前面加上前缀un-就是“把（系上的东西）打开”的意思。unlock也是这样，lock的意思是“锁上”，那么unlock就是与它相反“把（锁上的东西）打开”的意思。
+:::
+
+- **unlock** [ʌnˈlɒk] *vt.* 把（锁上的东西）打开=untie, unfasten
+  - unlock the secrets /mysteries 解开秘密/神秘
+
+> Which of these keys **unlocks** the safe?
+> 哪一把是开保险箱的钥匙？
+
+> The divers hoped to **unlock** some of the secrets of the seabed.
+> 那些潜水员们希望能解开一些海底的秘密。
+> （seabed [ˈsiːbed] 海底）
+
+## 4. 不un-普通usual, unusual不常见的，异样的
+
+<!-- 插图：一人站在另一人顶在头上的托盘上 -->
+
+::: {.etymo}
+要掌握**unusual**，我们需要先弄懂**usual**的意思。**usual**意为“普通的、平凡的、平常的”，它的反义词就是“不普通（寻常）的”，即“不寻常的，异样的”。形容词**unusual**很重要，它的副词**unusually**同样很常见，**unusually**是强调副词，意为“①很，十分；②（与平常）不同地，特别地”，是日常会话中经常出现的副词哦。
+:::
+
+- **unusual** [ʌnˈjuːʒuəl] *adj.* 不寻常的，异样的=strange
+- **usual** [ˈjuːʒuəl] *adj.* 普通的，平凡的，平常的
+  - as usual 像平时一样地、一如往日地
+  - than usual 比起平时
+- **unusually** [juːˈʒuəli] *adv.* ①很，十分；②（与平常）不同地，特别地
+
+<!-- p.340 -->
+
+> It's **unusual** for Dave to be late.
+> Dave迟到可不常见。
+
+> **unusually** high levels of pollution
+> 相当严重的污染程度
+
+> It's **unusually** warm for a winter day.
+> 对于冬天来说，今天天气异常暖和。
+
+## 5. 不 un- 愿意 willing，unwilling 不情愿的，勉强的
+
+<!-- 插图：小女孩在晾衣服 -->
+
+::: {.etymo}
+在说unwilling之前我们要知道名词will有“意志”的意思，因此，形容词willing便有“有做……的意愿”，即“愿意做……”的意思。如果在willing前加上否定前缀un-，那就变成了“没有做……的意愿”，即“不情愿的，勉强的”之意。还需要注意的是，使用unwilling时一定要用“be unwilling to do sth.”的句型！
+:::
+
+- **willing** [ˈwɪlɪŋ] *adj.* 愿意做
+- **willingness** [ˈwɪlɪŋnɪs] *n.* 乐意
+- **unwilling** [ʌnˈwɪlɪŋ] *adj.* 不情愿做的，勉强的 = reluctant
+  - be unwilling to do 不愿做
+- **unwillingness** [ʌnˈwɪlɪŋnɪs] *n.* 不情愿
+
+::: {.mnemonic}
+**温馨小贴士**
+
+be willing to do 乐意做
+be unwilling/reluctant to do 不愿意做，厌恶做
+:::
+
+> He was **unwilling** to pay the fine.
+> 他不愿意交罚金。
+
+> They are **unwilling** to invest any more money in the project.
+> 他们不愿再在那个项目上投入更多钱。
+
+## 6. 没有 un- 偏见 bias，unbiased 没有偏见的，公正的
+
+<!-- 插图：手提着天平秤 -->
+
+::: {.etymo}
+要弄懂unbiased，得先明白bias的意思，bias意为“偏见”。偏见就是指“不公正，偏向一方”。在 bias的形容词biased有偏见的前加上否定前缀un-就得到一个新单词unbiased，那么这个单词的意思就是“没有偏见的、公正的”。unbiased的同义词有unprejudiced，光看prejudice，它是“成见、偏见”的意思，加上否定前缀un-后变成unprejudiced，意思是“没有偏见的、公正的”。
+:::
+
+**Voca Map**
+- bias 偏见 ↔ unbiased 没有偏见的
+  - ↓
+  - biased 有偏见的
+- unbiased ‖ unprejudiced, impartial 公正的
+
+<!-- p.341 -->
+
+- **unbiased** [ʌnˈbaɪəst] *adj.* 没有偏见的，公正的 =impartial
+  - unbiased advice 公正的意见
+- **unprejudiced** [ʌnˈpredʒʊdɪst] *adj.* 没有成见的，公正的 =fair
+  - an unprejudiced point of view 公正的角度
+
+> We aim to provide a service that is balanced and **unbiased**.
+> 我们的目标就是提供和谐、公平的服务。
+
+> A good critic should be **unprejudiced**.
+> 好的批评家应该做到公正。
+
+## 7. 没有 un- 系上缰绳 bridle，unbridled 不受控制的
+
+::: {.etymo}
+单词 bridle 指的是套在马头的缰绳。只有系好缰绳，才能有效地控制 control 马儿。相反，unbridled 是指“没有系上缰绳的”，即“任性的，不受控制的”。如果说一个人像“脱缰的野马”，那就意味着这个人“不受控制”。与 unbridled 相近的词有 unfettered。fetter 是系在脚上的“脚镣”，那么加上 un- 后，unfettered 就是“解开脚镣”的意思。又因为脚镣是限制我们自由活动的东西，所以 unfettered 也就意味着“自由的、不受拘束的”。
+:::
+
+<!-- 插图：套着缰绳的马头 -->
+
+- **unbridled** [ʌnˈbraɪdld] *adj.* 不受控制的 =not controlled
+  - unbridled passion 肆无忌惮的激情
+- **unfettered** [ʌnˈfetəd] *adj.* 自由的，不受约束的 =not restricted
+  - unfettered economic activity 自由的经济活动
+
+::: {.mnemonic}
+**温馨小贴士**
+
+来看看以下词的语气的差异：
+unbridled 解开缰绳的 → “不受控制的”（否定语气）
+unfettered 解开脚镣的 → “自由的，不受约束的”（肯定语气）
+:::
+
+> He is driven by **unbridled** greed.
+> 他被肆无忌惮的贪婪所驱使。
+> （greed [ɡriːd] 贪婪）
+
+> My wife had a sudden fit of **unbridled** rage.
+> 我的妻子突然暴跳如雷。
+
+> We support an **unfettered** market economy.
+> 我们支持自由市场经济。
+
+## 8. 没有 un- 疑问 question 的 unquestionable 毫无疑问的，确实的
+
+::: {.etymo}
+想必大家都认识 question！其实，question 有两种意思：①疑问；②问题。正是产生了“怎么会这样？”的“疑问”，人们才会问“问题”。单词 unquestionable 中的 question 是“疑问”的意思，加上 un- 后就变成
+:::
+
+<!-- p.342 -->
+
+了“不能提出疑问的”，即“毫无疑问的，确实的”的意思。和它意思相近的词还有indisputable和incontrovertible，它们分别由dispute争论和controvert反驳生成，意思是“无可争辩的”，即“确实的”。
+
+- **unquestionable** [ʌnˈkwestʃənəbl] *adj.* 毫无疑问的，确实的
+  - unquestionable / indisputable / incontrovertible truth 毫无疑问的（不可辩驳的）真理
+- **indisputable** [ɪndɪˈspjuːtəbl] *adj.* 无可争辩的，确实的
+- **incontrovertible** [ˌɪnkɒntrəˈvɜːtɪbl] *adj.* 不可辩驳的，确实的
+
+**Voca Map**
+- question ①疑问 ②问题
+  - ↓
+  - questionable 有疑问的
+    - ↕
+    - unquestionable 毫无疑问的，确实的
+      - ‖
+      - indisputable
+      - ‖
+      - incontrovertible
+
+> Her competence as a secretary is **unquestionable**.
+> 作为秘书，她的能力是不容置疑的。
+> （competence [ˈkɒmpɪtəns] 能力，技能）
+
+> CCTV provided **incontrovertible** evidence that he was at the scene of the crime.
+> 闭路电视提供了他在犯罪现场的确凿证据。
+
+## 9. 不能un-安定rest的状态unrest(社会、政治)不安定，动荡
+
+<!-- 插图：抗议动荡场面，牌子上写着NO，横幅上写着“斗争”，周围文字“不安” -->
+
+::: {.etymo}
+单词rest表示“休息、安定”，rest前加否定前缀un-变为unrest。不过unrest不是指心理上的“不安”，它指的是“政治或社会的不安定”。那么如果要表现心理上的不安应该用哪个单词呢？nervousness和uneasiness都可以。特别要注意的是，形容词uneasy易被误认为是“不容易，困难”之解，但实际上它的意思是“心神不安的”。
+:::
+
+- **unrest** [ʌnˈrest] *n.* (社会、政治)不安定，动荡 = agitation, turmoil, tumult
+  - social /political unrest 社会不安定/政治动荡
+- **uneasiness** [ʌnˈiːzɪnɪs] *n.* (心理上) 不安 = nervousness
+  - a sense of uneasiness 不安的感觉
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词unrest主要是指“集体性的不安”，uneasiness则表示“个人的不安，焦躁”。
+:::
+
+> There is growing **unrest** throughout the country.
+> 全国范围的骚乱越发厉害。
+
+> The government's attempts to quell serious popular **unrest** led to civil war.
+> 政府试图平息动荡导致内战。
+> （quell [kwel] 压制，镇压）
+
+<!-- p.343 -->
+
+## 10. 无法 un-统治 rule，unruly 难驾驭的，任性的
+
+<!-- 插图：一个小男孩任性踢球，标注 unruly child -->
+
+::: {.etymo}
+很多人只知道 **rule** 是“规则”的意思。其实 **rule** 作动词时是“统治，管辖”的意思。因此，**ruler** 就是“统治者”。补一句，**ruler** 还有测量长度 length 的意思，即“尺子”。短语 **ruling party** 表示“执政党”，与它对应的 **opposition party** 表示“在野党”。再回头来看 **unruly**，它的意思就是“无法统治的”，即“难驾驭的，任性的”。
+:::
+
+- **unruly** [ʌnˈruːli] *adj.* 难驾驭的，任性的 = wayward, willful, uncontrollable
+  - unruly children 任性的孩子
+  - unruly behavior 任性的行为
+- **ruler** [ˈruːlə] *n.* ① 统治者 ② (量长度的) 尺子
+
+> As a child he was **unruly** and undisciplined.
+> 孩童时，他既不懂礼貌又任性。
+
+> His **unruly** behavior is getting worse and worse.
+> 他的任性越发厉害了。
+
+> The **unruly** child was expelled from school.
+> 这个顽劣的孩子被学校退学了。
+
+**Voca Map**
+- rule (名词) 规则；(及物动词) 统治，管辖；判定
+  - ↓ ruler 统治者；(量长度的) 尺子
+  - ↓ ruling 统治的；支配的
+  - ↨ unruly 难驾驭的，任性的
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 未雇佣的状态
+   → 失业 ______
+2. 似乎不会发生的
+   → 不太可能的，未必的 ______
+3. 把锁着的东西打开
+   → 把 (锁着的) 打开 ______
+4. 不普通
+   → 不寻常的，异样的 ______
+5. 不愿意的
+   → 不情愿的，勉强的 ______
+6. 没有偏见的
+   → 无偏见的，公正的 ______
+7. 没有系上缰绳的
+   → 不受控制的 ______
+8. 不能质疑的
+   → 不容置疑的，确实的 ______
+9. 不安定的状态
+   → (社会、政府) 不安定，动荡 ______
+10. 无法统治的
+    → 难驾驭的，任性的 ______
+:::
+
+> 答案 1. unemployment 2. unlikely 3. unlock 4. unusual 5. unwilling 6. unbiased 7. unbridled 8. unquestionable 9. unrest 10. unruly
+
+<!-- p.344 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. unlikely ______
+2. unwilling ______
+3. unbiased ______
+4. unbridled ______
+5. unrest ______
+6. unruly ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. **失业** ______ 数值是重要的经济指标之一。
+2. 那个修理工打开了 **锁** ______。
+3. 他那么生气真的很奇怪 ______。
+4. 审判要做出公正的 **判决** ______。
+5. 对贪欲不加抑制的 **代价非常大** ______。
+6. 我们确保了有明确的 **证据** ______。
+7. 政府把社会不稳定 ______ 作为潜在隐患。
+8. 我制止了他的任意 ______ 行为。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. His ideal is ______ to be realized.
+   A. alike
+   B. unlikely
+   C. like
+
+2. He was ______ to change his decision.
+   A. unusual
+   B. unchanging
+   C. unwilling
+
+3. Every effort is made to obtain an **unbiased** opinion.
+   A. judged
+   B. undecided
+   C. unprejudiced
+
+4. It is difficult to control his **unruly** behavior.
+   A. wayward
+   B. amiable
+   C. hostile
+
+---
+
+## 本日词汇速查（23 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [unemployment]{.headword} | ˌʌnɪmˈplɔɪmənt | n | 失业 |
+| [unemployed]{.headword} | ˌʌnɪmˈplɔɪd | adj | 失业的，没有工作的 |
+| [unlikely]{.headword} | ʌnˈlaɪkli | adj | 不太可能的，未必的 = impossible, improbable |
+| [likely]{.headword} | ˈlaɪkli | adj | 似乎会发生的，有可能的 = possible, probable |
+| [unlock]{.headword} | ʌnˈlɒk | vt | 把（锁上的东西）打开=untie, unfasten |
+| [unusual]{.headword} | ʌnˈjuːʒuəl | adj | 不寻常的，异样的=strange |
+| [usual]{.headword} | ˈjuːʒuəl | adj | 普通的，平凡的，平常的 |
+| [unusually]{.headword} | juːˈʒuəli | adv | ①很，十分；②（与平常）不同地，特别地 |
+| [willing]{.headword} | ˈwɪlɪŋ | adj | 愿意做 |
+| [willingness]{.headword} | ˈwɪlɪŋnɪs | n | 乐意 |
+| [unwilling]{.headword} | ʌnˈwɪlɪŋ | adj | 不情愿做的，勉强的 = reluctant |
+| [unwillingness]{.headword} | ʌnˈwɪlɪŋnɪs | n | 不情愿 |
+| [unbiased]{.headword} | ʌnˈbaɪəst | adj | 没有偏见的，公正的 =impartial |
+| [unprejudiced]{.headword} | ʌnˈpredʒʊdɪst | adj | 没有成见的，公正的 =fair |
+| [unbridled]{.headword} | ʌnˈbraɪdld | adj | 不受控制的 =not controlled |
+| [unfettered]{.headword} | ʌnˈfetəd | adj | 自由的，不受约束的 =not restricted |
+| [unquestionable]{.headword} | ʌnˈkwestʃənəbl | adj | 毫无疑问的，确实的 |
+| [indisputable]{.headword} | ɪndɪˈspjuːtəbl | adj | 无可争辩的，确实的 |
+| [incontrovertible]{.headword} | ˌɪnkɒntrəˈvɜːtɪbl | adj | 不可辩驳的，确实的 |
+| [unrest]{.headword} | ʌnˈrest | n | (社会、政治)不安定，动荡 = agitation, turmoil, tumult |
+| [uneasiness]{.headword} | ʌnˈiːzɪnɪs | n | (心理上) 不安 = nervousness |
+| [unruly]{.headword} | ʌnˈruːli | adj | 难驾驭的，任性的 = wayward, willful, uncontrollable |
+| [ruler]{.headword} | ˈruːlə | n | ① 统治者 ② (量长度的) 尺子 |
+

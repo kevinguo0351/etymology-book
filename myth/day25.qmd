@@ -1,0 +1,374 @@
+# Day 25 · 抓是cap，抓着是tain {.unnumbered}
+
+::: {.root-banner}
+Day 25 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p222–p229
+
+<!-- p.207 -->
+
+美式橄榄球American football是一种抓着球奔跑的游戏，但并非简单漫无目的的奔跑。首先，要抓好传给自己的球，然后尽力躲过对方的防守队员向前奔跑才可以。奔跑的过程中，球员也要一直抓着球才行。今天我们要学的两个词根是cap和tain。联想着我们前面说过的美式橄榄球，就可以很容易理解这两个词根了。词根“cap”和“tain”分别是“抓catch”和“抓着hold”的意思！
+
+<!-- 插图：抱着橄榄球奔跑的球员 -->
+
+**Voca Map：cap, ceive是catch**
+- cap抓(catch) + -city名词后缀（可以抓住（盛）的大小） → capacity 容量、生产能力
+- captiv(e)俘虏 + -ate动词后缀（使成为（爱情的）俘虏） → captivate 迷住、迷惑
+- anti-(ante)之前 + cip抓(take)（提前有了想法） → anticipate 预见，预料
+- con-强调 + ceit抓(take)（心里的想法） → conceit 自负
+- per-明确的 + ceive抓(take)（明确地找到感觉） → perceive 意识到，觉察
+
+**Voca Map：tain, ten是hold**
+- con-一起 + tain抓着(hold)（一起紧紧地抓着） → contain 一起紧紧地抓着
+- ab(s)-掉落 + tain抓着(hold)（抓住（从……失去的自我）） → abstain 戒除、戒（尤指酒）
+- de-掉落 + tain抓着(hold)（（使不能离开）紧紧地抓着） → detain 拘留，扣留
+- main-手 + tain抓着(hold)（（一直）抓在手里） → maintain 保持，维持
+- ten(a)-抓着(hold) + -(ci)ous形容词后缀（紧紧握着（自己的意见）） → tenacious 顽强的，坚决的
+
+<!-- p.208 -->
+
+## 1. 可以盛 cap 的大小 -city，capacity 1.容量 2.能力
+
+::: {.etymo}
+“capacity”是指器具、碗等容器或空间所能容纳的分量。capacity 由其词源义“可以抓（盛）的大小”引申为“容量”之义。用于人时，capacity 指做事的“能力 ability”。即，某人可以做成某事的能力。
+:::
+
+- **capacity** [kəˈpæsɪtɪ] *n.* 1. 容量；生产能力 2. 能力 =ability, capability, caliber
+  - **at full capacity** 满功率，满负载，以全部力量
+- **capacious** [kəˈpeɪʃəs] *adj.* 宽敞的，气度宏大的 =spacious, commodious
+- **capable of** 有……能力（或技能）的，能……的
+
+> The classroom has a seating **capacity** of 300.
+> 这间教室可容纳300个人。
+
+> The factory is working **at full capacity**.
+> 这家工厂满负荷运转。
+
+> The children have a remarkable **capacity** to learn language.
+> 孩子们学习语言的能力非常突出。
+
+## 2. 使之成为爱情的俘虏 captiv，captivate 迷惑
+
+<!-- 插图：被爱神丘比特迷住的人群 -->
+
+::: {.etymo}
+最近韩国音乐界的大趋势 general trend 是女子一组组合。清新活泼的女子组合表演着歌舞的同时，也深深地“迷住”了歌迷们。与“迷住”所对应的英语单词是 captivate。为了理解 captivate 一词，我们首先要理解含有“俘虏”之义的 captive。captive 的词源义是“被抓住的人”。即“俘虏”的意思。captivate 由“（使对方）成为爱情的俘虏”引申为“迷惑”之义。
+:::
+
+- **captivate** [ˈkæptɪveɪt] *vt.* 迷惑，迷住 =allure, enchant, mesmerize
+- **captivating** [ˈkæptɪveɪtɪŋ] *adj.* 迷人的，有魅力的，有吸引力的 =attractive
+- **captive** [ˈkæptɪv] *n.* 俘虏，战俘
+
+> I was **captivated** by her stunning beauty.
+> 我被她倾城美丽所迷倒。
+> （stunning [ˈstʌnɪŋ] 极好的，出色的，令人晕倒的，吃惊的）
+
+> The children were **captivated** by her stories.
+> 孩子们被她的故事给迷住了。
+
+<!-- p.209 -->
+
+## 3. 提前anti-有了想法cip，anticipate预期、预测
+
+**anticipate**由其词源义“提前有了想法”引申为“预测”之义。需要注意的是，前缀anti-虽含有“反对”之义，但在这里是ante-之前 (before) 的变形。而词根cip-虽含有take抓，拿之义，但就像我们所说的“抓住感觉”一样，也作为“思考，理解”之义来使用。
+
+- **anticipate** [ænˈtɪsɪpeɪt] *vt.* 预料，期待 = expect, predict, foresee
+  - It is anticipated that ……是可以预见的
+  - anticipated profit (loss) 预期利润（损失）
+- **anticipation** [æntɪsɪˈpeɪʃn] *n.* 预期，期待
+
+::: {.mnemonic}
+**温馨小贴士**
+
+1. anticipate的前缀anti-不是“反对”的意思，而是由ante-(之前)变形而来，请大家一定要记住这点。2. 请将unanticipated (想不到的，料不到的=unexpected) 也一起记下来！
+:::
+
+> Sales are better than **anticipated**.
+> 销售比预期要好。
+
+> **It is anticipated that** inflation will stabilize at 3%.
+> 据预测，通货膨胀会稳定在3%。（stabilize [ˈsteɪbəlaɪz] 稳定，稳固）
+
+---
+
+## 4. 心里怀着ceit的认为自己优秀con-的想法，conceit自负，狂妄
+
+::: {.etymo}
+人们在事情进展顺利的时候最需要警惕alert的就是“自负conceit”，因为自负会成为成功的绊脚石stumbling block。**conceit**是动词conceive构思的名词形式。也就是说，**conceit**由其词源义“心里怀着（认为自己优秀的）想法”生成了“自负”之义。
+:::
+
+<!-- 插图：拿着马雕塑自夸的人，对话框：“我的作品最完美了！” -->
+
+- **conceit** [kənˈsiːt] *n.* 自负，自大 = self-importance
+  - a foolish conceit 愚昧自负
+- **conceited** [kənˈsiːtɪd] *adj.* (人) 自负的 ↔ humble 谦虚的
+
+> Don't be so **conceited**.
+> 别这么自负。
+
+> I got sick of his excessive **conceit**.
+> 我对他过度的自负感到厌烦。
+
+> It's very **conceited** of you to assume that your work is always the best.
+> 如果你总认为自己的作品是最好的，那就是太过自负的想法。
+
+<!-- p.210 -->
+
+## 5. 明确地找到感觉ceive，perceive认知，感知
+
+::: {.etymo}
+表达明确地而不是模模糊糊地理解某事时，所使用的动词是 perceive。perceive 一词多用于书面语。记住 perceive 的关键是要知道其前缀 per- 含有“明确地”这层强调义。
+:::
+
+- **perceive** [pəˈsiːv] *vt.* 认知，感知
+- **perception** [pəˈsepʃn] *n.* 知觉，觉察（力）
+- **perceptive** [pəˈseptɪv] *adj.* 感知的，有理解力的，有知觉力的
+- **perceptible** [pəˈseptɪbl] *adj.* 可感觉（感受）到的，可理解的，可认识的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含有 -ceive (take) 的动词：
+conceive 1. 构思，想象，2. 怀孕；deceive 欺诈，误导；receive 收到，接到，接纳
+:::
+
+> Cats are not able to **perceive** color.
+> 猫不能识别颜色。
+
+> I **perceived** a change in his behavior.
+> 我感到他行为上的变化。
+
+> The government was widely **perceived** as corrupt.
+> 人们普遍认为政府腐败。（corrupt [kəˈrʌpt] 腐败的，贪污的，堕落的）
+
+---
+
+## 6. 一起con-抓着tain，contain 1. 装着，含有 2. 抑制（感情）
+
+::: {.etymo}
+大家都听过“container”这个词吧？说到“container”，总会让人想到停放在港口 harbor 容量 capacity 非常大的铁制集装箱 container。但事实上，container 并非只有“集装箱”之义。举例来说，打开冰箱 refrigerator，就会看到装着小咸菜的容器吧？这种容器也可称为 container。动词 contain 由其词源义“一起抓着”派生成了“装着；抑制”的意思。装东西的是 contain；将感情埋在心底，即“抑制（感情）”也可用 contain 来表达。
+:::
+
+<!-- 插图：港口堆叠的集装箱与厨房保鲜盒容器 -->
+
+- **contain** [kənˈteɪn] *vt.* 1. 包含，容纳 2. 抑制（感情）= suppress
+- **container** [kənˈteɪnə] *n.* 集装箱，容器，货柜
+- **containment** [kənˈteɪnmənt] *n.* 牵制，包含，容量
+
+<!-- p.211 -->
+
+> It is important to eat meat and eggs, as they **contain** protein and vitamins.
+> 吃鸡蛋和肉很重要，因为它们富含蛋白质和维生素。
+
+> I couldn't **contain myself** for her anymore.
+> 我再不能压抑对她的感情了。
+
+> I could hardly **contain** my excitement.
+> 我难以抑制兴奋之情。
+
+## 7. 抓住 tain 从……掉落 abs- 的自己，abstain 1. 节制，自制 2. 放弃
+
+<!-- 插图：一个人看着禁止高热量食物的叉号标志 -->
+
+::: {.etymo}
+玩游戏、饮酒、吸烟等都是应该“节制，自制”的。单词 abstain 正含有“节制，自制”的意思。需要注意的是，abstain 作为不及物动词一定要与 from 一起连用！所以，以固定词组 abstain from 有节制做……，自制的形式来记该单词会取得一石二鸟的效果。另外，在投票 voting 中，如果写作“abstain”的话，那就是“弃权”的意思。
+:::
+
+- **abstain** [əbˈsteɪn] *vi.* 1. 戒（尤指酒），戒除 2. 弃权
+  - abstain from 避免……，弃权，戒
+- **abstinence** [ˈæbstɪnəns] *n.* 节制，节欲，戒酒
+- **abstinent** [ˈæbstɪnənt] *adj.* 有节制的，饮食有度的，禁欲的
+
+> Obese children must **abstain from** fatty foods.
+> 肥胖儿童应节制对高脂肪食物的摄入。
+> （fatty food 高脂肪食物）
+
+> Three members of the committee **abstained**.
+> 委员会中三名成员弃权了。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请注意：abstain 与 refrain 应与介词 from 连用！
+:::
+
+## 8. 紧紧地抓着 tain 使之不能离开，detain 拘留，拘禁
+
+<!-- 插图：被关在牢房铁窗后的人 -->
+
+::: {.etymo}
+抓俘虏 captive 或逮捕嫌疑人 suspect 的话，首先要将其抓起来并不让他们回家。换句话说，就是“拘留，扣押”。我们将其理解为“抓起来”会更易理解。而表达该语义的单词正是 detain。detain 由其词源义“（使之不能离开）抓起来”引申为“拘留，拘禁”。
+:::
+
+<!-- p.212 -->
+
+- **detain** [dɪˈteɪn] *vt.* 拘留，拘禁，扣留 =confine
+  - detain a suspect 扣押嫌疑犯
+- **detention** [dɪˈtenʃn] *n.* 拘留，扣押
+- **detainee** [ˌdiːteɪˈniː] *n.* 被拘留者，未判决囚犯
+
+> The suspect has been **detained** by the police for questioning.
+> 警察扣押了嫌疑犯以进行审讯。
+
+> The boss is **detained** in Busan on urgent business.
+> 因为有急事，老板在釜山不能回来。
+
+## 9. 一直抓tain在手里main，maintain 1.维持 2.主张
+
+::: {.etymo}
+都说在某事上达到成功是困难的，但保持成功的状态更困难。接下来我们要学习的动词是含有“维持”之义的maintain。maintain由其词源义“（一直）抓在手里”引申为“维持”。除了“维持”之义外，maintain还有一个重要的词义——“主张”。该词义由“不管别人说什么，都能坚持自己的想法（意思）”引申为“（坚持）主张”之义。请记住，maintain多以惯用句型“maintain that”的形式出现。
+:::
+
+- **maintain** [meɪnˈteɪn] *vt.* 1. 维持，保持 2. 主张 =assert
+  - maintain one's family 养活家人（抚养）
+  - maintain that 主张……
+- **maintenance** [ˈmeɪntənəns] *n.* 维修，维护
+  - maintenance fees 维修费
+
+> The hotel has **maintained** a high level of service for many years.
+> 那家酒店多年来一直保持着高水平的服务。
+
+> He is too poor to **maintain his family**.
+> 他太穷了，不能养活家人。
+
+> Critics **maintain that** these reforms will lead to a decline in educational standards.
+> 批评家们坚持认为这样的改革会导致教育水平的降低。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+maintain后面接that从句，是一个非常重要的表达。
+:::
+
+## 10. 紧紧地抓着tena自己的意见，tenacious固执的，顽固的
+
+<!-- 插图：一人趴在桌前喊“绝对不行！”，双手紧紧按住桌上的书本 -->
+
+::: {.etymo}
+词根tain如果出现在单词的前面或中间的话，就会变为ten。含有ten这个词根的单词有tenacious。该词由其词源义“紧紧抓着（自己的想法），不松手”生成“固执的，顽固的”之
+:::
+
+<!-- p.213 -->
+
+义。事实上，“stubborn”也多作“固执”之义使用。与stubborn相比，tenacious是水平稍高一点的单词。它与汉语中的“顽固的”相对应。
+
+- **tenacious** [tɪˈneɪʃəs] *adj.* 固执的，坚决的，顽强的 =stubborn, obstinate
+  - a tenacious negotiator 顽强的谈判专家
+  - a tenacious advocate of civil rights 公民权利的坚决拥护者
+- **tenacity** [tɪˈnæsɪtɪ] *n.* 固执，坚持，不屈不挠
+
+> He is the most **tenacious** politician in South Korea.
+> 他是韩国最顽固的政治家。
+
+> She's a **tenacious** woman. She never gives up.
+> 她是个顽强的女人，从不言放弃。
+
+## 单词回顾
+
+::: {.etymo}
+1. 可以盛放的大小
+   → ① 容量 ② 能力 ______
+2. 使之成为爱情的俘虏
+   → 迷惑 ______
+3. 提前有了想法
+   → 预想，预测 ______
+4. 放在心里的（认为自己优秀的）想法
+   → 自负，狂妄 ______
+5. 明确地找到感觉
+   → 认知，感知 ______
+6. 一起抓着
+   → ① 装着，含有 ______
+   ② 抑制（感情） ______
+7. 抓住从……掉落的自己
+   → ① 节制，自制 ② 放弃 ______
+8. 紧紧抓着使之不能离开
+   → 拘留，拘禁 ______
+9. 一直抓在手里
+   → ① 维持 ② 主张 ______
+10. 紧紧地抓着自己的意见
+    → 固执，顽固的 ______
+:::
+
+答案 1. capacity 2. captivate 3. anticipate 4. conceit 5. perceive 6. contain 7. abstain 8. detain 9. maintain 10. tenacious
+
+<!-- p.214 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. captivate ______
+2. conceit ______
+3. perceive ______
+4. abstain ______
+5. detain ______
+6. tenacious ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 她的美貌**迷倒了** ______ 所有男性。
+2. 我们**预测了** ______ 明年的销售量。
+3. 他**狂妄自负** ______。
+4. 我**意识** ______ 到他在说谎。
+5. 那个患者应该**有节制** ______ 的喝酒。
+6. 我们**拘禁** ______ 着4个敌军俘虏。
+7. 这台机器花了**很多维护费** ______。
+8. 他是个**顽固的** ______ 谈判者。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. I was **captivated** by her smooth smile.
+   A. captured
+   B. attracted
+   C. conceived
+
+2. We couldn't **anticipate** any problems.
+   A. foresee
+   B. perceive
+   C. deceive
+
+3. Pilots must ______ from alcohol for 24 hours before flying.
+   A. abstain
+   B. contain
+   C. detain
+
+4. I was confronted with a **tenacious** opponent.
+   A. strong
+   B. tenable
+   C. stubborn
+
+---
+
+## 本日词汇速查（27 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [capacity]{.headword} | kəˈpæsɪtɪ | n | 1. 容量；生产能力 2. 能力 =ability, capability, caliber |
+| [at full capacity]{.headword} |  |  | 满功率，满负载，以全部力量 |
+| [capacious]{.headword} | kəˈpeɪʃəs | adj | 宽敞的，气度宏大的 =spacious, commodious |
+| [captivate]{.headword} | ˈkæptɪveɪt | vt | 迷惑，迷住 =allure, enchant, mesmerize |
+| [captivating]{.headword} | ˈkæptɪveɪtɪŋ | adj | 迷人的，有魅力的，有吸引力的 =attractive |
+| [captive]{.headword} | ˈkæptɪv | n | 俘虏，战俘 |
+| [anticipate]{.headword} | ænˈtɪsɪpeɪt | vt | 预料，期待 = expect, predict, foresee |
+| [anticipation]{.headword} | æntɪsɪˈpeɪʃn | n | 预期，期待 |
+| [conceit]{.headword} | kənˈsiːt | n | 自负，自大 = self-importance |
+| [conceited]{.headword} | kənˈsiːtɪd | adj | (人) 自负的 ↔ humble 谦虚的 |
+| [perceive]{.headword} | pəˈsiːv | vt | 认知，感知 |
+| [perception]{.headword} | pəˈsepʃn | n | 知觉，觉察（力） |
+| [perceptive]{.headword} | pəˈseptɪv | adj | 感知的，有理解力的，有知觉力的 |
+| [perceptible]{.headword} | pəˈseptɪbl | adj | 可感觉（感受）到的，可理解的，可认识的 |
+| [contain]{.headword} | kənˈteɪn | vt | 1. 包含，容纳 2. 抑制（感情）= suppress |
+| [container]{.headword} | kənˈteɪnə | n | 集装箱，容器，货柜 |
+| [containment]{.headword} | kənˈteɪnmənt | n | 牵制，包含，容量 |
+| [abstain]{.headword} | əbˈsteɪn | vi | 1. 戒（尤指酒），戒除 2. 弃权 |
+| [abstinence]{.headword} | ˈæbstɪnəns | n | 节制，节欲，戒酒 |
+| [abstinent]{.headword} | ˈæbstɪnənt | adj | 有节制的，饮食有度的，禁欲的 |
+| [detain]{.headword} | dɪˈteɪn | vt | 拘留，拘禁，扣留 =confine |
+| [detention]{.headword} | dɪˈtenʃn | n | 拘留，扣押 |
+| [detainee]{.headword} | ˌdiːteɪˈniː | n | 被拘留者，未判决囚犯 |
+| [maintain]{.headword} | meɪnˈteɪn | vt | 1. 维持，保持 2. 主张 =assert |
+| [maintenance]{.headword} | ˈmeɪntənəns | n | 维修，维护 |
+| [tenacious]{.headword} | tɪˈneɪʃəs | adj | 固执的，坚决的，顽强的 =stubborn, obstinate |
+| [tenacity]{.headword} | tɪˈnæsɪtɪ | n | 固执，坚持，不屈不挠 |
+

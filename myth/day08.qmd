@@ -1,0 +1,396 @@
+# Day 8 · 手是manu，脚是ped {.unnumbered}
+
+::: {.root-banner}
+Day 8 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p78–p85
+
+<!-- p.63 -->
+
+<!-- 插图：手和脚的护理 -->
+
+女生们都喜欢在手上涂指甲油manicure吧？manicure原本是“手部护理 a treatment for the hands”的意思。这是因manicure中的cure是care管理经过元音变化而成，而词根man（i）是“手hand”的意思。相反，pedicure是“足部护理”的意思。由此可知词根ped是“脚foot”的意思。
+
+**❶ manu是hand!**
+- manu手（hand）+ -al形容词后缀（手的）→ **manual** 手动的；手制的
+- mani手 + pu移动 + -ate动词后缀（用手移动）→ **manipulate** 操纵，处理
+- manu手 + fac制作 + -ture动词后缀（用手制作）→ **manufacture** 制造
+- manu手 + script文章（手写的）→ **manuscript** 原稿
+- mani手 + fest碰（struck）（用手触碰）→ **manifest** 明显的
+
+**❷ ped是foot!**
+- ped(estr)脚（foot）+ -ian人（用脚走路的人）→ **pedestrian** 步行者，行人
+- im-里面（in）+ peach脚（foot）（总统的脚上套脚镣）→ **impeach** 弹劾
+- im-里面（in）+ ped脚（foot）（脚上套（脚镣））→ **impede** 妨碍，阻碍
+- ex-向外（out）+ ped脚 + -ite动词后缀（打开脚上的（脚镣））→ **expedite** 加快进展
+- dis-远离 + pat脚 + -ch动词后缀（把脚伸远）→ **dispatch** 派遣，调度
+
+<!-- p.64 -->
+
+## 1. 词根 manu 的形容词形式 manual 手工的，手动的
+
+<!-- 插图：笔记本/手册 -->
+
+::: {.etymo}
+正如前面所提到的词根 mani，manu 是“hand”的意思。我们第一个要学的 manual 就是在 manu 的基础上添加形容词后缀 -al 而生成的词汇。其语义是“手工的，手动的”。虽然这个单词不难，但其用法多样化 diverse。其中，用手做体力 physical 活的人，我们称之为 manual workers 体力劳动者。当然，体力劳动者也可用 blue-collar 这个词来表示。manual 作名词使用时，是“记录机器使用方法的说明书”的意思，常作外来词使用。
+:::
+
+- **manual** [ˈmænjuəl] *adj.* 手工的，手动的 *n.* 使用说明书
+  - manual job (labor) 手工制作（劳动）
+  - the old manual system 老式的手动系统
+  - a car that has a manual transmission 有手动变速系统的车
+  - the computer manual 电脑使用说明书
+
+::: {.mnemonic}
+**温馨小贴士**
+
+表达“按照制定好的规则去做”时，我们使用的表达是“照FM做”！这里的FM是Field Manual（军队野战训练手册）的省略语。
+:::
+
+> They are skilled **manual** workers.
+> 他们是有技能的技工。
+
+> It would take too long to do a **manual** search of all the data.
+> 对所有数据进行手工检索需要花费很长时间。
+
+> Have you ever done any **manual** labor?
+> 你做过体力活吗？
+
+## 2. 用手 manu 制作 fac 的是 manufacture 制作，加工，生产
+
+::: {.etymo}
+人的手工技能 manual skill 是无穷无尽的，无论什么都几乎可以制作出来。在没有机器的过去，尤其是家庭作坊时代，很多东西都是用手做出来的。所以生成的词汇正是 manufacture 制作，加工，生产。看词义的话，manufacture 是名词，但实际上它也常作动词用。值得注意的是，如果是单纯地制作物品，那 manufacture 就是“制作、加工、生产”的意思；如果是编造事实，那就变成了“（虚假）捏造”的意思。
+:::
+
+<!-- 插图：两只手在制作物品 -->
+
+<!-- p.65 -->
+
+- **manufacture** [ˌmænjuˈfæktʃə(r)] *v.* 制造，捏造 *n.* 制造业，产品
+  - manufacture the drug 制药
+  - manufacture an untrue excuse 编造不实的理由
+- **manufacturer** [ˌmænjuˈfæktʃərə(r)] *n.* 制造商
+
+> The company **manufactured** a new car.
+> 那家公司生产了新型汽车。
+
+> He **manufactured** a false story.
+> 他编造了一个虚假的故事。
+
+> He works for a small company **manufacturing** aluminium products.
+> 他在一家小型工厂工作，生产铝制品。
+
+## 3. 用手mani握住后，移动pul，manipulate操纵，操作
+
+<!-- 插图：一个人看着选举结果展板，展板上A票数最多，旁边写着“选举结果是A当选！” -->
+
+::: {.etymo}
+大家都骑过自行车吧？当然也有开过车的人吧？骑自行车或开车的时候，要用手抓住自行车的车把handlebars或者握着汽车的方向盘steering wheel来移动。这样操作正是manipulate！从词源上来看，manipulate可以分解为用手握着移动—>（机器等）操纵。要注意的是manipulate常用在“（在人的背后）操纵”以及“操纵（结果）”等否定意义negative meaning的表达中。
+:::
+
+- **manipulate** [məˈnɪpjuleɪt] *v.* 操纵，操作
+  - manipulate A into B 把A篡改成B
+  - the politician that manipulated people 操纵民众的政治家
+  - manipulate the result of the election 操纵选举的结果
+- **manipulation** [məˌnɪpjuˈleɪʃn] *n.* 操作，操纵
+
+> The company sold the stocks to **manipulate** prices.
+> 那家公司卖了股票以便操纵股价。
+
+> His real intention is to **manipulate** public opinion.
+> 他真实的目的操纵公众舆论。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+manipulate the stock price（操纵股价）是非常常用的表达，一定要记下来哦！
+:::
+
+## 4. 直接用手mani写的文章script，manuscript（亲笔）原稿
+
+<!-- 插图：约翰·列侬和手写歌词原稿 -->
+
+::: {.etymo}
+不久前发表的一篇新闻报道article中，报道了披头士The Beatles前成员John Lennon亲笔手写的歌词原稿在竞拍auction中的价格接近513万元。真的是非常令人难以置信staggering！这种亲笔手写的稿件叫做manuscript亲笔原稿。
+:::
+
+<!-- p.66 -->
+
+- **manuscript** [ˌmænjuːskrɪpt] *n.* 手稿
+  - the original manuscript 初稿
+  - a collection of medieval manuscripts 中世纪手稿的收集
+
+> I read her novel in **manuscript**.
+> 我看了她小说的原手稿。
+
+> Parts of the important **manuscript** have been lost.
+> 部分重要手稿遗失了。
+
+> I have just finished reading the **manuscript** that you sent me.
+> 我刚刚读完了你发给我的手稿。
+
+## 5. 放在手上 manu 触碰 fest，manifest 明显的
+
+<!-- 插图：一人手持卷轴 Manifesto 宣讲 -->
+
+::: {.etymo}
+各位读者现在能明显地感觉到的是什么？对了，就是手里拿着的这本书。拆分manifest进行词源分析的话，该词就从“放在手上触碰”之意派生出“明显的”的意思。不管数目大小，自己手里拿着的钱manifest明显是自己的钱。不管是什么东西，只要在手里，就是明显存在的。manifest作动词时，是“明确标明”的意思。最近我们常用外来词manifesto，它是“政党的生命，宣言”的意思。知道这个词的话，会让人觉得您是很有学识的knowledgeable。
+:::
+
+- **manifest** [ˈmænəfest] *adj.* 显然的，明白的=evident, obvious *v.* 表明=articulate
+  - a manifest error of judgment 明显的判断错误
+- **manifestation** [ˌmænəfeˈsteɪʃn] *n.* 显示
+- **manifesto** [ˌmænəˈfestəʊ] *n.* （政党的）宣言，声明
+  - issue a manifesto 发表宣言
+
+::: {.mnemonic}
+**温馨小贴士**
+
+最近，election选举中，经常会用到宣言manifesto一词。该词指公开表示政党或者团体以后要怎么做的“声明、宣言”。
+:::
+
+> The educational system is a **manifest** failure.
+> 那个教育制度是个明显的失误。
+
+> The stockholders have **manifested** their intention to sell the stocks.
+> 股票持有者有明显出售股票的意图。
+
+> The Opposition **issued a manifesto** for political change.
+> 反对派发表了政治变革的宣言。
+> （the Opposition/Party 反对党）
+
+## 6. 用脚行走 pedestri 的人 -ian 是 pedestrian 步行者
+
+::: {.etymo}
+在市中心的街道上，人们朝着不同的方向行走着。无论是去见朋友，
+:::
+
+<!-- p.67 -->
+
+<!-- 插图：街道上行人的腿部特写 -->
+
+去运动，还是去买东西，人们都离不开步行。行走的人是pedestrian步行者。不过pedestrian还有个独特的unique词义。即作形容词表示“平凡的ordinary、无趣的uninteresting”。这是因为走路不仅速度慢，而且总是重复相同的行为，于是便产生了这个词义。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+pedestrian作形容词时指“平凡的”，很少人知道这个意思，请一定要记牢哦！
+:::
+
+- **pedestrian** [pɪ'destrɪən] *n.* 行人 =walker  
+  *adj.* 1. 徒步的；2. 普通的 =ordinary
+  - the sidewalk filled with pedestrians 挤满了行人的行人道
+  - a pedestrian writer 平凡的作家
+
+> Cyclists are asked to be aware of **pedestrians**.
+> 骑行者要注意行人。
+
+> He is a rather **pedestrian** student.
+> 他是一个非常普通的学生。
+
+## 7. 脚 pede 被锁在脚镣里 im-，所以 impede 妨碍
+
+<!-- 插图：脚上拴着铁球脚镣的奴隶 -->
+
+::: {.etymo}
+过去，奴隶主迫使奴隶slave白天工作，到了晚上，为了防止奴隶逃跑，奴隶主就将奴隶的双脚拴上fetters脚镣。impede是与脚镣紧密相关的单词。像右图所示，在双脚上拴上脚镣、就不能随意移动，阻碍移动即为impede。这个词如果仅通过前缀和词根的意义很难得出“妨碍”的意思。但如果从“把脚拴上脚镣”的角度来理解，很容易就可以得出“妨碍”的意思。
+:::
+
+- **impede** [ɪm'pi:d] *vt.* 妨碍 = hinder, block, hamper
+- **impediment** [ɪm'pedɪmənt] *n.* 阻碍 =obstacle
+  - impede our progress 阻碍我们进步
+  - impede fair society 妨碍社会公正
+
+> The large debt accumulation will **impede** long-run growth.
+> 大量债务累积会阻碍长期增长。
+> （accumulation [əˌkju:mju'leɪʃn] 累积）
+
+> The excessive use of these drugs may **impede** the patient's recovery.
+> 过度使用这些药物会影响病人康复。
+> （excessive [ɪk'sesɪv] 过度的）
+
+<!-- p.68 -->
+
+## 8. 在总统的脚 peach 上拴上 im- 脚镣，impeach 弹劾
+
+<!-- 插图：印有 IMPEACH! 的图牌 -->
+
+::: {.etymo}
+我们在前面刚学过 impede 妨碍这个词。事实上，impeach 这个词是通过改变 impede 的发音而生成的单词。从词源上来讲，就像将总统这样高级官员 top rank officials 的脚（职务）拴上脚镣一样，让他们不能正常行使自己的职责。即阻止其行使自己的职责。怎么样？是不是察觉到 impeach 与 impede 妨碍一词有着密切的关联性？impeach 偶尔 from time to time 出现在报纸或新闻报道中，记住这个词会很有用处的哦。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+unimpeachable 无可怀疑，无懈可击
+:::
+
+- **impeach** [ɪmˈpiːtʃ] *vt.* 弹劾
+  - be impeached for accepting bribery 因接受贿赂而被弹劾
+  - impeach the Supreme Court judge 弹劾高等法院法官
+- **impeachment** [ɪmˈpiːtʃmənt] *n.* 弹劾
+
+> Congress voted to **impeach** the President.
+> 国会投票弹劾总统。
+
+> An anonymous netizen started the online campaign to **impeach** the President.
+> 一匿名网民组织了一个在线弹劾总统的活动。（anonymous [əˈnɒnɪməs] 匿名的）
+
+## 9. 解开 ex- 拴在脚 ped 上的脚镣，expedite 使进展（促进）
+
+::: {.etymo}
+impede 指在脚上拴上脚镣以妨碍活动，其反义词 expedite 则指解开脚上的脚镣（限制）。解开拴在脚上的脚镣会怎样呢？双脚就自由了，可以快速地去任何地方了。能表达这个意思的单词正是 expedite，expedite 多用作正面意义的动词使用。如：expedite economic development 促进经济发展。将 impede 与 expedite 这对反义词放在一起学习，是不是提高记忆效率了？
+:::
+
+- **expedite** [ˈekspədaɪt] *vt.* 使加速完成，促进
+  - expedite the construction 加快建设的速度
+  - expedite social change 加快社会变革
+- **expedient** [ɪkˈspiːdiənt] *n.* 权宜之计，应急办法 *adj.* 权宜之计的，便利的
+- **expediency** [ɪkˈspiːdiənsi] *n.* 方便，适宜
+- **expedition** [ˌekspəˈdɪʃn] *n.* 考察，远征军
+
+**Voca Map**
+- expedite *vt.* 加快进程，迅速完成
+  - ↓
+  - expedient *adj.* 方便的，便利的，权宜之计的 *n.* 应急办法，权宜之计
+    - ↓
+    - expediency *n.* 适宜，方便
+  - expedition *n.* 考察，远征军
+
+> The strategies are to **expedite** the decision-making progress.
+> 这个策略是为了加快决策的进程。（strategy [ˈstrætədʒi] *n.* 战略、策略）
+
+> We have developed rapid order processing to **expedite** deliveries to customers.
+> 为了实现快速将货物配送给顾客，我们开发了订单快捷处理程序。
+
+<!-- p.69 -->
+
+## 10. 把脚 pat 向远 dis- 伸 dispatch 送，派遣
+
+<!-- 插图：快递员骑摩托车疾驰送信 -->
+
+::: {.etymo}
+本课要学习的最后一个与词根 ped 脚有关的单词是 dispatch。首先 dispatch 的词根 pa 是为了发音方便而从 ped 变形而来。将 dispatch 与送取快递的快递员联系在一起说明再合适不过了。大家想象一下，如果我需要尽快将材料送到某个地方，但在路上塞车严重的情况下，找快递员就可以轻松、圆满地解决这个问题了。dispatch 一词多用在紧急 urgent 的情况，所以有“快速送走”的意思。如果比赛中，迅速地送对方离场的话，就是“迅速击败、战胜”的意思。
+:::
+
+- **dispatch** [dɪsˈpætʃ] *vt.* 1. 配送，派遣；2. 迅速击败，战胜 = beat；*n.* 急件，派遣
+  - a dispatch from headquarters 来自总部的急件
+  - dispatch his opponent 6-1 以 6:1 的比分战胜对手
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请注意：impeach（弹劾）的词根 peach，diapatch（派遣，派送）的词根 patch，都是 ped（foot）的拼写变形！
+:::
+
+> Goods are normally **dispatched** within 2 days.
+> 货物一般在2天内妥投。
+
+> The company will soon **dispatch** a delegation to seek investment opportunities.
+> 公司很快会派遣一个代表团去寻求投资机会。
+
+## 单词回顾
+
+::: {.etymo}
+1. manu 的形容词
+   → 手工的，手动的 ______
+2. 手工制作
+   → 制造 ______
+3. 用手握住移动
+   → 操纵，操作 ______
+4. 直接用手写的文章
+   →（亲笔）原稿 ______
+5. 放在手上触碰
+   → 明显的 ______
+6. 用脚行走的人
+   → 步行者 ______
+7. 脚上拴脚镣
+   → 妨碍 ______
+8. 在总统的脚上拴上脚镣
+   → 弹劾 ______
+9. 解开拴在脚上的脚镣
+   → 使进展（促进） ______
+10. 把脚向远伸
+    → 送，派遣 ______
+:::
+
+答案 1. manual 2. manufacture 3. manipulate 4. manuscript 5. manifest 6. pedestrian 7. impede 8. impeach 9. expedite 10. dispatch
+
+<!-- p.70 -->
+
+## 单词检测
+
+## 一 请写出下列单词的词义。
+
+::: {.etymo}
+1. manual ______
+2. manufacture ______
+3. manifest ______
+4. pedestrian ______
+5. impede ______
+6. expedite ______
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 那个公司**制造**______钢铁产品。
+2. 对我们来说需要**明确的**______证据。
+3. 我阅读了他的**亲笔原稿**______。
+4. 驾车的司机要注意路上的**步行者**______。
+5. 他想**妨碍**______我执行权限。
+6. 应该解除限制，**促进**______企业投资。
+7. 那位将军向前线**派遣了**______兵力。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. He works for a small company **manufacturing** aluminium products.
+   A. producing
+   B. manipulating
+   C. maneuvering
+:::
+
+2. The large corporation tried to ______ public opinion by controlling broadcasters.
+   A. manufacture
+   B. manipulate
+   C. manuscript
+
+3. Rescue attempts were **impeded** by the storm.
+   A. expedited
+   B. impeached
+   C. hindered
+
+4. The summit will help ______ free trade between the two countries.
+   A. impede
+   B. expedite
+   C. dispatch
+
+---
+
+## 本日词汇速查（19 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [manual]{.headword} | ˈmænjuəl | adj | 手工的，手动的 *n.* 使用说明书 |
+| [manufacture]{.headword} | ˌmænjuˈfæktʃə(r) | v | 制造，捏造 *n.* 制造业，产品 |
+| [manufacturer]{.headword} | ˌmænjuˈfæktʃərə(r) | n | 制造商 |
+| [manipulate]{.headword} | məˈnɪpjuleɪt | v | 操纵，操作 |
+| [manipulation]{.headword} | məˌnɪpjuˈleɪʃn | n | 操作，操纵 |
+| [manuscript]{.headword} | ˌmænjuːskrɪpt | n | 手稿 |
+| [manifest]{.headword} | ˈmænəfest | adj | 显然的，明白的=evident, obvious *v.* 表明=articulate |
+| [manifestation]{.headword} | ˌmænəfeˈsteɪʃn | n | 显示 |
+| [manifesto]{.headword} | ˌmænəˈfestəʊ | n | （政党的）宣言，声明 |
+| [pedestrian]{.headword} | pɪ'destrɪən | n | 行人 =walker |
+| [impede]{.headword} | ɪm'pi:d | vt | 妨碍 = hinder, block, hamper |
+| [impediment]{.headword} | ɪm'pedɪmənt | n | 阻碍 =obstacle |
+| [impeach]{.headword} | ɪmˈpiːtʃ | vt | 弹劾 |
+| [impeachment]{.headword} | ɪmˈpiːtʃmənt | n | 弹劾 |
+| [expedite]{.headword} | ˈekspədaɪt | vt | 使加速完成，促进 |
+| [expedient]{.headword} | ɪkˈspiːdiənt | n | 权宜之计，应急办法 *adj.* 权宜之计的，便利的 |
+| [expediency]{.headword} | ɪkˈspiːdiənsi | n | 方便，适宜 |
+| [expedition]{.headword} | ˌekspəˈdɪʃn | n | 考察，远征军 |
+| [dispatch]{.headword} | dɪsˈpætʃ | vt | 1. 配送，派遣；2. 迅速击败，战胜 = beat；*n.* 急件，派遣 |
+

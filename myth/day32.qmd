@@ -1,0 +1,370 @@
+# Day 32 · 低洼凹陷的洞穴cave，黑暗中发光的蜡烛candle {.unnumbered}
+
+::: {.root-banner}
+Day 32 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p283–p290
+
+<!-- p.268 -->
+
+在黑漆漆的洞穴cave里有一支驱赶黑暗的蜡烛candle。大家想象一下，深深凹陷的洞穴里是不是一片漆黑？但如果点燃一只蜡烛的话，就可以照亮它的周围。今天我们将以cave洞穴中的candle蜡烛为主题学习以下几个单词。
+
+<!-- 插图：洞穴中点亮的蜡烛 -->
+
+**Voca Map：cave 洞穴**
+- **cave** 洞穴
+  - **cavern** 巨大的洞穴
+  - **cage** 鸟笼
+  - **cavity** 空洞
+  - **concave** 凹面的
+
+**Voca Map：candle 蜡烛**
+- **candle** 蜡烛
+  - **candid** 坦率的
+  - **incendiary** 煽动的
+  - **candidate** 候选人
+  - **kindle** 引火
+
+<!-- p.269 -->
+
+## 1. 低洼凹陷的 cave 洞穴
+
+::: {.etymo}
+请同学们轻轻地闭上眼睛想象一下洞穴的样子！先想一想洞穴里面是什么样子。是低洼凹陷的吧？单词cave的词根cav是“低洼的”，意思跟hollow语义相同。大家是不是觉得cave这个单词太简单了呢！那让我们一起来学习单词excavate吧。拆分excavate的分析结果是[ex+cav+-ate]，其义为“挖洞穴，发掘”。大家还要记住的另一个表达是cave in to败给……，屈服！
+:::
+
+**Voca Map**
+- cave 洞穴
+  - ↓ cave in to 败给，屈服
+  - ↓ excavate 挖洞穴，发掘
+
+- **cave** [keɪv] *n.* 洞穴
+  - cave in to 向……屈服
+- **excavate** [ˈekskəveɪt] *vt.* 挖洞穴，发掘
+  - excavate the ancient city 发掘古城
+- **excavation** [ˌekskəˈveɪʃn] *n.* 挖地，挖掘
+
+> We arrived at the entrance of the **cave**.
+> 我们到了洞口处。
+
+> The chairman is expected to **cave in to** pressure from shareholders.
+> 主席有望屈服于股东的压力。
+
+> The turtle **excavates** a hole in the sand and then lays its eggs in it.
+> 海龟在沙里挖了一个洞，然后把蛋产在了里面。（lay one's eggs 产蛋）
+
+## 2. 给 cave 添上一个尾巴组成新单词 cavern 巨大的洞穴
+
+<!-- 插图：巨大的洞穴 -->
+
+::: {.etymo}
+单词cave的意思是“洞穴”，而cavern则是比cave更大的洞穴a large cave。大家是不是觉得cavern很明显是来源于单词cave啊？我们需要注意这个单词的发音，是[ˈkævən]。其形容词是cavernous洞穴模样的，内部既宽又深的，这个单词也要记住哦！顶棚圆鼓鼓、既宽又深的空穴叫做cavernous hall。
+:::
+
+- **cavern** [ˈkævən] *n.* 巨大的洞穴
+  - a cavern with beautiful stalactites 有漂亮石钟乳的大洞穴
+- **cavernous** [ˈkævənəs] *adj.* 多洞穴的，（眼睛等）凹陷的
+
+> The bats leave the **caverns** at sunset each day to feed on insects.
+> 每当太阳下山的时候，蝙蝠就会离开洞穴去捕食昆虫。
+
+> The hotel has a **cavernous** dining hall.
+> 酒店有个像洞穴似的大餐厅。
+
+<!-- p.270 -->
+
+## 3. 像 cave 洞穴一样里面空洞洞的状态 cavity 空洞
+
+<!-- 插图：一个人看着地上的坑说“这是cavity吧！” -->
+
+::: {.etymo}
+察看词源，我们会发现cavity是“空空的状态”的意思。具体指“空旷的空间或洞”。还有一点比较有意思，大家有长蛀牙tooth decay的经历吗？蛀牙出现后，腐烂的牙齿慢慢凹陷下去，同时牙齿上就会出现一个小洞。在牙齿上出现的这种小洞也被称作cavity。牙齿上出现小洞后，我们需要补牙吧？短语have the cavity filled就是“治疗蛀牙”的意思。
+:::
+
+- **cavity** [ˈkævəti] *n.* 空空的空间，洞；蛀牙 = decayed tooth
+  - I have no cavities. 我没有蛀牙。
+
+> I think I need to **have my cavity filled in**.
+> 我好像需要补一下我的蛀牙。
+
+> Some birds nest in tree **cavities**.
+> 几只鸟儿在树洞里筑巢。
+
+## 4. 像洞穴 cave 一样里面空空如也的 cage 鸟笼，栏
+
+<!-- 插图：鸟笼 -->
+
+::: {.etymo}
+单词cage比较容易掌握，它也有物体的里面是空空的意思，这一点跟cave相同。但需要注意的是，cage除了作为名词译为“鸟笼，栏”之外，还可以作为动词译为“关在鸟笼（栏）里”。在英语中，有很多单词原本用作名词，但当需要表达动词功能时就会直接将名词用作动词。比如，skin皮肤，表皮也可以用作动词，解释为“脱皮”。相反，动词suspect怀疑也可以用作名词，是“嫌疑人，被怀疑的对象”的意思。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+词性变化的词汇整理：
+skin 表皮 → 脱皮
+suspect 怀疑 → 嫌疑人
+addict 使痴迷 → 痴迷者
+convict 判决……有罪 → 罪犯
+:::
+
+- **cage** [keɪdʒ] *n.* 鸟笼，栏 *vt.* 关在鸟笼（栏）里
+  - escape from the cage 从笼子逃脱
+  - put a bear in the cage 把熊关进笼子
+
+> The two birds were caught and placed inside a **cage**.
+> 两只鸟被抓住后关进了笼子里。
+
+> They managed to **cage** the savage animal.
+> 他们成功地把凶猛的动物关进了笼子。
+> （savage [ˈsævɪdʒ] 凶猛的，残忍的）
+
+<!-- p.271 -->
+
+## 5. 里面像洞穴一样低陷的 concave 凹陷的
+
+<!-- 插图：一个人物看着中间凹陷的瓶子 -->
+
+::: {.etymo}
+在cave前添加前缀con-组成的新单词是concave。对concave的词源进行拆分的话，会得出[con强调+cave凹陷]的结果，其语义也由“完全凹陷的”转化为“凹陷的，低洼的”。如果有concave凹陷的的话，那肯定也会有“凸起的”，是吧？convex就是“凸起的”意思。将两个反义词结合在一起记忆是一种很好的学习方法哦！
+:::
+
+- **concave** [kɒn'keɪv] *adj.* 凹陷的 = hollow ↔ convex 凸起的
+  - a concave lens 凹透镜
+  - a concave mirror 凹面镜
+
+> The inside of these eyeglasses is **concave**.
+> 这副眼镜的里侧镜面是凹形的。
+
+> There are basically two basic types of lenses, **concave**, and **convex**.
+> 有两种基本的透镜：凹透镜和凸透镜。
+
+## 6. 在黑暗中发光的 candle 蜡烛
+
+<!-- 插图：三根燃烧的蜡烛 -->
+
+::: {.etymo}
+单词candle蜡烛的形象很伟大吧？它是燃烧自己照亮别人的无私的altruistic典范paragon。只要知道candle这个单词就能记住一连串的词汇，从这点来看，它还是很有用的。首先，大家需要记住的是candle的词根cand，它是“发光shine，glow”的意思。记住了这一点，就能慢慢理解其他相关单词了。
+:::
+
+- **candle** ['kændl] *n.* 蜡烛
+  - hold a candle to 能与……相比，与……媲美
+  - burn the candle at both ends 蜡烛两头烧（过分耗费）
+  - candle in the wind 风中的蜡烛，风烛残年
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**burn the candle at both ends:**
+这个词语本身的意思是“点燃蜡烛的两端”，比喻“不要在无用的事情上面浪费精力”。
+:::
+
+> Be sure not to leave any **candles** burning before you go to bed.
+> 睡觉之前确保所有的蜡烛是否都已熄灭。
+
+> I don't want to **burn the candle at both ends** with such a trivial matter.
+> 我不想在这样的小事上浪费时间。
+
+<!-- p.272 -->
+
+## 7. 像蜡烛一样明朗 candid 坦率的
+
+<!-- 插图：两个人交谈的照片 -->
+
+::: {.etymo}
+单词candle蜡烛和candid坦率的之间有什么相关性correlation呢？分析candid的构成，[cand发光+-id被]，是“（内心）明朗”的意思，即“坦率的”。通常我们形容某人阴险毒辣sly的时候用“黑”。对不对？与此相反，把内心的想法全都说出来，这不就是“坦率的陈述”吗？在英语中也是如此，“把内心的想法全都表达出来”就是“坦率”。单词candid在各种考试中经常出现。大家可以一起记住它的名词candor坦率。
+:::
+
+- **candid** ['kændɪd] *adj.* 坦率的 = frank, outspoken, straightforward
+  - to be candid with you 坦率地说
+  - give one a candid opinion 给出一个直率的意见
+- **candor** ['kændə(r)] *n.* 坦率
+
+::: {.mnemonic}
+**温馨小贴士**
+
+candid about 对（某事）坦率
+candid with 对（某人）坦率
+:::
+
+> Lena is remarkably **candid** when she talks about the men.
+> 丽娜谈起男人时非常坦率。
+
+> He spoke with **candor** about his past.
+> 他坦率地谈起了他的过去。
+
+## 8. 穿着白色衣服的人 candidate 候选
+
+<!-- 插图：戴眼镜戴着候选2号挂牌的卡通人物 -->
+
+::: {.etymo}
+和candid相似的candidate实际上是“候选”的意思，跟“坦率的”没有任何关系。大家也许会问，那这个词义又是怎么来的呢？candidate的词根cand除了“发光shine”的意思外，还可以解释为“白色的white”。黑暗的东西容易让人联想起black这个单词，而活泼、明亮bright跟white相通，看到这里大家应该可以理解吧？那么white跟candidate之间又有什么关系呢？据说，在古罗马时代，参加选举election的候选人都要穿上白色的外套white robe在群众面前发言oration。这或许是因为白色的衣服容易给人一种“干净，纯洁，坦率”的感觉吧，于是candidate的意思就从“穿着白色外套的人”引申成了“候选人”。由此看来，candidate这个单词的由来还真蛮有意思的。
+:::
+
+<!-- p.273 -->
+
+- **candidate** [ˈkændɪdət] *n.* 候选，竞选人，参选人 = applicant
+  - candidate for ...... 的候选人
+  - a presidential candidate 总统候选人
+  - a candidate for governor 州长候选人
+  - candidate registration 候选人登记
+- **candidacy** [ˈkændɪdəsi] *n.* 候选人资格
+  - presidential candidacy 总统候选人
+
+> Eight **candidates** are expected to run for this presidential election.
+> 八名候选人有望参加这次总统选举。（run for 参加竞选，作为候选人出马）
+
+> The **candidate** failed to get across his message to the public
+> 候选人没有把他的信息清楚地表达给公众。
+
+> We support her **candidacy** for the post of chairman.
+> 我们支持她作为主席职位的候选人。
+
+## 9. 在心里点火 incendiary 煽动
+
+<!-- 插图：一人站在台上激昂演讲，台下群众被煽动 -->
+
+::: {.etymo}
+单词incendiary是一个不太容易掌握的词，因此我们需要先分析它的构成：[in里面+cend火+(i)ary形容词后缀]表示“在心里点火”，即“煽动”。单词incendiary指“点火，放火的”的意思。在这里赋予其在心里点火的意思，引申义为“煽动”。与其形成过程相同的单词还有incense让某人生气。这个词也是“在心里点火”的意思，引申为“让某人生气”。
+:::
+
+- **incendiary** [ɪnˈsendiəri] *adj.* 1. 惹火，放火的 2. 煽动，惹人生气 = inflammatory
+  - an incendiary device 一个引爆装置
+  - incendiary remarks 煽动性的讲话
+- **incense** [ˈɪnsens] *vt.* 使激怒 = enrage, infuriate
+
+> His **incendiary** speech was to enlarge the scope of support.
+> 他煽动性的演讲是为了扩大支持者的范围。
+
+> Spectators were **incensed** by the referee's decision.
+> 裁判的决定激怒了观众。（referee [ˌrefəˈriː] 裁判）
+
+<!-- p.274 -->
+
+## 10. 源于点燃 candle 蜡烛的单词 kindle 引火
+
+<!-- 插图：生火/燃烧的柴火 -->
+
+::: {.etymo}
+单从发音来看，candle ['kændl] 和 kindle ['kɪndl] 很相近。单词 candle 所对应的动词就是 kindle，意思是“引燃……，（热情）高昂起来”。
+:::
+
+世界最大的网上书店 amazon.com 制作的电子书 e-book 的名字就是 Kindle。现在通过 Kindle 能看报刊登载的书籍，非常方便。大家是不是觉得这个世界很神奇啊？无论如何希望大家一定要记住 candle 的动词形式 kindle 哦！
+
+- **kindle** ['kɪndl] *v.* 1. 引燃……，点燃 = ignite
+  2. （热情）高昂起来
+  - kindle a candle 点燃蜡烛
+  - kindle him with interest/passion 用兴趣（激情）点燃他
+
+> He used paper to **kindle** a fire in the stove.
+> 他用纸张点燃了炉子。
+
+> A love of music was **kindled** in him by his father.
+> 他父亲激起了他对音乐的爱慕之情。
+
+> Her teacher's praise **kindled** a spark of hope inside her.
+> 老师的鼓励在她的内心点燃了希望的火花。
+
+## 单词回顾
+
+::: {.etymo}
+1. 低洼凹陷的地方
+   → 洞穴______
+2. 给 cave 添上一个尾巴后所形成的新单词
+   → 巨大的洞穴______
+3. 像 cave 一样里面空洞洞的状态
+   → 空洞______
+4. 像洞穴 cave 一样里面空空如也的状态
+   → 鸟笼，栏______
+5. 里面像洞穴一样低陷的
+   → 凹陷的______
+6. 在黑暗中发光的东西
+   → 蜡烛______
+7. 像蜡烛一样内心明朗的
+   → 坦率的______
+8. 穿着白色衣服的人
+   → 候选人______
+9. 在心中点火
+   → 煽动______
+10. 蜡烛引火产生的单词
+    → 引火______
+:::
+
+> **答案** 1. cave 2. cavern 3. cavity 4. cage 5. concave 6. candle 7. candid 8. candidate 9. incendiary 10. kindle
+
+<!-- p.275 -->
+
+## 确认并攻克下列单词
+
+## 请写出下列单词的词义。
+
+::: {.etymo}
+1. cavern ______
+2. cavity ______
+3. concave ______
+4. candid ______
+5. candidate ______
+6. incendiary ______
+:::
+
+## 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 我们躲到了**巨大的洞穴**______里。
+2. 我嘴里出现了很多**蛀牙**______。
+3. 那些考古学者们**挖掘**______出了古代遗物。
+4. **凹镜**______照出来的东西很可笑。
+5. 我想听你**坦率的**______回答。
+6. 不能被他**煽动性的**______话所诱惑。
+7. 她无理的行为让我们**很生气**______。
+8. 把蛋糕上面的蜡烛**点燃**______。
+:::
+
+## 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. The dentist pulled relentlessly at my______.
+   A. cave
+   B. cavity
+   C. cavern
+:::
+
+2. They **excavated** the remains of killed soldiers.
+   A. dug up
+   B. discovered
+   C. expelled
+
+3. I want to hear your **candid** answer.
+   A. flank
+   B. frank
+   C. fluke
+
+4. ______ are not allowed to use a calculator in this exam.
+   A. Merchants
+   B. Mathematicians
+   C. Candidates
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [cave]{.headword} | keɪv | n | 洞穴 |
+| [cavern]{.headword} | ˈkævən | n | 巨大的洞穴 |
+| [cage]{.headword} | keɪdʒ | n | 鸟笼，栏 *vt.* 关在鸟笼（栏）里 |
+| [cavity]{.headword} | ˈkævəti | n | 空空的空间，洞；蛀牙 = decayed tooth |
+| [concave]{.headword} | kɒn'keɪv | adj | 凹陷的 = hollow ↔ convex 凸起的 |
+| [candle]{.headword} | 'kændl | n | 蜡烛 |
+| [candid]{.headword} | 'kændɪd | adj | 坦率的 = frank, outspoken, straightforward |
+| [incendiary]{.headword} | ɪnˈsendiəri | adj | 1. 惹火，放火的 2. 煽动，惹人生气 = inflammatory |
+| [candidate]{.headword} | ˈkændɪdət | n | 候选，竞选人，参选人 = applicant |
+| [kindle]{.headword} |  |  | 引火 |
+| [excavate]{.headword} | ˈekskəveɪt | vt | 挖洞穴，发掘 |
+| [excavation]{.headword} | ˌekskəˈveɪʃn | n | 挖地，挖掘 |
+| [cavernous]{.headword} | ˈkævənəs | adj | 多洞穴的，（眼睛等）凹陷的 |
+| [candor]{.headword} | 'kændə(r) | n | 坦率 |
+| [candidacy]{.headword} | ˈkændɪdəsi | n | 候选人资格 |
+| [incense]{.headword} | ˈɪnsens | vt | 使激怒 = enrage, infuriate |
+

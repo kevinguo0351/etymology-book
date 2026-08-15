@@ -1,0 +1,417 @@
+# Day 42 · 表示向里的in- {.unnumbered}
+
+::: {.root-banner}
+Day 42 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p370–p378
+
+<!-- p.355 -->
+
+词缀in-有两层意思。其一，因为它来源于介词in在里面，所以有“里面”的意思；其二当它接在形容词前时，主要表示“否定”not的意思。比如，input投入是“放在里面”的意思，反义词output产出，产量；impossible是在possible可能的前面加了否定前缀in-的变形im-，表示“不可能的”意思。在这里，先给大家说明一下表示“里面”的前缀in-！
+
+<!-- 插图：一个小人推开写着 IN 的门走进去 -->
+
+**Voca Map：in-是in**
+
+- im- 里面(in) + prison 监狱（把……投入监狱里面）→ **imprison** 关押
+- im- 里面(in) + migrate 迁移（迁移到……里）→ **immigrate** 迁移
+- in- 里面(in) + sight 看见的东西（看到里面（核心）的东西）→ **insight** 洞察力
+- in- 里面(in) + gred 去(go) + -ent 名词性后缀（包含在……里面的东西）→ **ingredient** 材料，成分
+- in- 里面(in) + stall 立（立在……里面）→ **install** 设置
+- in- 里面(in) + gen 出生(birth) + -(i)ous 拥有的（天生具有某种才能）→ **ingenious** 灵巧的，超群的
+- in- 里面(in) + vad(e) 去(go)（进入）→ **invade** 侵入
+- in- 里面(in) + hibit 抓住(hold)（抓住放在里面（使其不能出去））→ **inhibit** 阻止，遏制
+- in- 里面(in) + volv 滚动(roll)（卷到里面去）→ **involve** ①伴随；②受牵连
+- in- 里面(in) + und 水纹(wave) + -ate 动词性结尾词（(水向陆地)流去）→ **inundate** 使泛滥
+
+<!-- p.356 -->
+
+## 1. 投入到监狱 prison 里 im-，imprison 关押
+
+<!-- 插图：囚犯在监狱窗前的背影 -->
+
+::: {.etymo}
+英语表示“罪”有 sin 和 crime 两个单词。道德上的罪用 sin，而我们平常所说的“犯罪”用 crime。比如，杀人 murder、放火 arson、强奸 rape、暴力 assault、拐卖 abduction、欺诈 fraud、信用欺诈 scam 等都属于 crime。重罪叫做 felon，轻罪叫做 misdemeanor。犯了重罪的犯人 culprit 为了偿还罪责，就得被关进监狱里。分析 imprison 的词源，即为：前缀 im- 里面 + prison 监狱 → 投入到监狱里，也就是“关押”的意思。希望大家同时记住单词 sentence 作为动词时是“判决”的意思。
+:::
+
+- **imprison** [ɪmˈprɪzn] *vt.* 关押 = put sb. in jail
+  - imprison the thief 关押小偷、监禁小偷
+- **imprisonment** [ɪmˈprɪznmənt] *n.* 监禁，下狱
+- **sentence** [ˈsentəns] *n.* 句子；判决，宣判 *vt.* 宣判，判决
+  - be sentenced to three years in prison 被判入狱三年
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在英语中，表示“监狱”的词有 prison 和 jail，prison 指的是我们平常所说的“劳教所”，是一个比较正式（formal）的表达。而 prisoner 是指“关在劳教所里面的罪犯，囚犯”；imprisonment 是“关押、徒刑”的意思。比如，life imprisonment 无期徒刑。
+:::
+
+> The dictator **imprisoned** an innocent man.
+> 独裁者关押了一个无辜的人。
+> （dictator [dɪkˈteɪtə] 独裁者 = despot, autocrat, tyrant）
+
+> The military government **imprisoned** all opposition leaders.
+> 军人政府关押了所有反对党领袖。
+
+> The judge **sentenced** the culprit to 16 years in prison.
+> 法官宣判那个罪犯被判刑16年。
+> （culprit [ˈkʌlprɪt] 罪犯）
+
+## 2. 进入到核心 in- 看 sight，insight 洞察力
+
+<!-- 插图：双手捧着发光的眼睛核心 -->
+
+::: {.etymo}
+“洞察”指“用敏锐的观察力准确地看穿事物”的意思，用英语表示就是 insight。具体使用 insight 时要注意，它的后面要跟介词 into。比如，对经济的洞察力 insight into economy。记单词时，结合着语法学习来记忆，是一个很有效的方法。这也是外语学习中的重要方法之一哦。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“对经济的洞察力”翻译成“an insight for the economy”，是不准确的。“insight”后面应使用介词“into”而不是“for”。之所以用“into”是因为洞察力是指“看透内部相互关系的能力”，暗含着“向……里面看”之义，所以必须用“into”而不能用“for”。
+:::
+
+<!-- p.357 -->
+
+- **insight** [ˈɪnsaɪt] *n.* 洞察力 = intuition
+  - insight for 对……有洞察力
+  - a scientist of great insight 具有非凡洞察力的科学家
+  - keen insight into the future 对未来有敏锐的洞察力
+- **insightful** [ˈɪnsaɪtfʊl] *adj.* 有深刻见解的
+
+> The article gives us an **insight** into the cause of the present economic crisis.
+> 这篇文章对目前经济危机的产生原因进行了精辟深刻的分析。
+
+> We can gain some **insight into** our own behavior from the study of wild animals.
+> 从对野生动物的研究中，我们可以很好地洞察自己的行为。
+
+## 3. 立 stall 在里面 in- 的话，install 设置、使就职
+
+<!-- 插图：一人坐在电脑前看着屏幕上显示 install 80% -->
+
+::: {.etymo}
+使用电脑时中会常接触到 install 这个单词，安装程序的时候，install 就会出现，install 原本指将冰箱 refrigerator 或者洗衣机 washing machine 等家电产品 appliance 放在家里特定的场所。单词 install 的词源义是“立在……里”，对象是物体时，表示“设置”；对象是人时，就表示“使就职”。动词 install 有两个派生名词，一个是 installation，是“设置”的意思，另一个是 installment，是“分期付款”的意思！很多价格昂贵的商品如果一下子全部付款的话会让人有压力，大部分人都采用分期付款 by installments 的方式。这个表达在英语口语中经常用到，大家一定要记住哦！
+:::
+
+- **install** [ɪnˈstɔːl] *vt.* ① 设置 = put in，② 使就职 = inaugurate
+  - install a new computer system 安装一个新的电脑系统
+- **installation** [ˌɪnstəˈleɪʃən] *n.* 安装，装置
+- **installment** [ɪnˈstɔːlmənt] *n.* 分期付款
+  - pay for a new computer by installment 通过分期付款买一台新电脑
+
+**Voca Map**
+- install
+  - ① 设置 ② 使就职
+  - ↓
+  - installation
+    - 设置；就任（职）
+  - ↓
+  - installment
+    - 分期付款 <常用复数>
+
+> I **installed** a new program on the computer.
+> 我在电脑上安装了一个新的系统。
+
+> Security cameras have been **installed** in the city center.
+> 在城市中心已经安装了摄像头。
+
+> We pay for the washing machine by monthly **installments**.
+> 我们每月支付购买洗衣机的分期付款金额。
+
+<!-- p.358 -->
+
+## 4. 进入到 vade 里面 in-, invade 侵入，进攻
+
+<!-- 插图：军队行进照片 -->
+
+::: {.etymo}
+表示“进攻”的英语单词就是invade。in是“里面”的意思，vad(e)是“go”的意思，因此该单词的词义就由“进入到……里面”演变成了“侵入，进攻”。
+:::
+
+如果知道词根vad(e)的话就很容易理解动词evade逃脱，躲避了。该词的前缀e-是ex-向外(out)的缩写。单词invade的名词形式为invasion侵入，进攻，incursion是invasion的同义词，该词的词根curs是“跑run向（别的国家）”的意思，所以incursion也就是“侵略，进攻”的意思。同时记这几个词，效果可能会更好哦。
+
+- **invade** [ɪnˈveɪd] *vt.* 侵入，进攻=attack, assail, assault
+  - invade her privacy 侵害她的隐私
+- **invasion** [ɪnˈveɪʒən] *n.* 入侵，侵略=incursion
+  - Japan's incursion into North Korea 日本入侵北朝鲜
+
+> Your question **invaded** his privacy.
+> 你的问题侵犯了她的隐私。
+
+> A virus has **invaded** most of their computers.
+> 他们的电脑大部分被病毒入侵了。
+
+> U.S. officials said they don't have any intention to **invade** North Korea.
+> 美国官方称没有任何侵犯北朝鲜的意图。
+
+## 5. 卷 vol 在里面 in-, involve 陪伴，包含；关联，受牵连
+
+<!-- 插图：被卷进事件的小人“我真是冤枉，被卷进来的啊！” -->
+
+::: {.etymo}
+分析involve的词源，即为：in-里面+volv(e)滚动roll→卷在……里面。单词involve是指在不愿意的情况下受到某些事情的牵连，因此经常用作被动语态。
+:::
+
+- **involve** [ɪnˈvɒlv] *vt.* ①伴随，包含=include, entail ②关联，受牵连
+  - get /be involved in 使卷入；使陷入；拖累
+  - involve A in B 使A参与到B中
+  - involve many children in the game 让很多孩子参与游戏
+- **involvement** [ɪnˈvɒlvmənt] *n.* 卷入，牵连；参与
+
+<!-- p.359 -->
+
+> I didn't realize putting on a play **involved** so much work.  
+> 我不知道演一出戏要做这么多工作。
+
+> The politician got **involved in** the sex scandal.  
+> 那个政客卷入了性爱丑闻。
+
+> A good manager will try to **involve** all staff in the decision-making process.  
+> 一个好的经理试图让所有的员工参与到决策的制定过程中来。
+
+## 6. 迁移migrate到里面in-来，immigrate迁移
+
+<!-- 插图：大雁呈人字形迁徙飞翔 -->
+
+::: {.etymo}
+动词 **immigrate** 是“迁移到（国内）”的意思，相反 **emigrant** 是“迁移到（别的国家）”的意思。**migrate** 迁移加上前缀 **im-** 里面或 **e(x)-** 外面，就确定了方向 direction。在这里，前缀对单词的词义起了决定性的作用。
+:::
+
+候鸟大雁 wild goose 是向远方 **migrate** 迁徙的代表性动物。如图所示雁群排成人字形飞翔的话，会比单独飞的时候节省70%的力气，是不是很神奇啊？
+
+- **immigrate** [ˈɪmɪɡreɪt] *vt.* 迁移 $\leftrightarrow$ emigrate 迁移（到别的国家）
+  - immigrate to 移民到
+- **immigration** [ˌɪmɪˈɡreɪʃn] *n.* 移民入境
+- **immigrant** [ˈɪmɪɡrənt] *n.* 移民，侨民
+  - illegal immigrants 非法移民
+
+**Voca Map**
+- migrate 迁移，移往
+  - ↓
+  - immigrate 移入（国内）
+  - ↓
+  - emigrate 移居（国外）
+
+> Her father **immigrated** to America from South Korea in 1967.  
+> 1976年，她父亲从韩国移民到美国。
+
+> The government will take measures to curb the illegal **immigrants**.  
+> 政府将会采取措施控制非法移民。
+
+## 7. 进入gred到里面in-，ingredient材料，成分
+
+::: {.etymo}
+如果想做料理的话，就需要相应的材料。根据使用的材料不同，食物的味道也不同。“材料”用英语表示就是 **ingredient**。其词义由词源义“放在（食物）里面的东西”演变成了“材料”。去大型市场购物的话，
+:::
+
+<!-- p.360 -->
+
+你会发现进口商品非常多，商品包装背面会印有ingredient字样，同时还会看到该进口商品的成分说明。单词ingredient不仅含有“（烹调的）原料，食材”之义，还含有“（人应该具有的）要素、资质”之义。
+
+<!-- 插图：果蔬与调味瓶等食材 -->
+
+- **ingredient** [ɪnˈɡriːdiənt] *n.* ① 材料，成分 = component ② 要素，资质 = quality
+  - natural ingredients 天然成分
+  - a list of ingredients 一份原料单子
+
+> Olive oil is a usual **ingredient** in Mediterranean cooking.
+> 橄榄油是地中海料理烹饪中很平常的一种食材。
+
+> Paul has all the **ingredients** of a great player.
+> 保罗具备一个伟大运动员的所有资质。
+
+## 8. 天生 gen 身体里面 in- 就具有某种才能 ingenious 灵巧的，超群的
+
+<!-- 插图：灯泡脑袋的人坐在桌前 -->
+
+::: {.etymo}
+与其分析ingenious的词源，我们不如用很熟悉的单词genius天才来记忆ingenious。由于genius也是源于词根gen（birth）的单词，所以其词义也就由“天生的人”演变成了“天才”。含有“内在具有天才性”之义的单词，即为ingenious灵巧的，超群的。
+:::
+
+还有一个单词很容易与ingenious混淆，那就是ingenuous纯真的，正直的，对该词进行词源分析，即为：in-里面+gen（birth）+-（u）ous拥有的→拥有诞生的模样。还有一点很重要，ingenuity是ingenious的名词形式，其义为“灵巧，才能”。请大家区分清楚哦！
+
+- **ingenious** [ɪnˈdʒiːniəs] *adj.* 灵巧的，超群的 = clever, astute, shrewd
+  - come up with an ingenious idea 提出一个别出心裁的想法
+- **ingenuity** [ˌɪndʒəˈnjuːəti] *n.* 独创性，巧妙
+- **ingenuous** [ɪnˈdʒenjuəs] *adj.* 天真的，单纯的 = naive, frank, honest
+  - an ingenuous little girl 一个天真的小女孩
+
+**Voca Map**
+- ingenious 灵巧的，超群的
+  ↓
+  ingenuity 独创性，巧妙
+- ingenuous 天真的，单纯的
+  ↓
+  ingenuousness 率真，正直
+特别需要注意的是ingenuity的形容词是ingenious而不是ingenuous哦！
+
+<!-- p.361 -->
+
+> Many animals have **ingenious** ways of protecting their babies from predators.
+> 许多动物在保护它们的幼崽免受食肉动物攻击上都有很巧妙的办法。
+
+> I like his **ingenuous** way of talking.
+> 我喜欢他这种坦率的（直率的）谈话方式。
+
+## 9. 在里面 in- 紧紧地抓住 hibit 使其不能出去 inhibit 阻止，遏制
+
+<!-- 插图：一个人用杯子盖住老鼠，不让它出来 -->
+
+::: {.etymo}
+词根hibit的意思是“抓住hold”，inhibit的意思从“在里面紧紧地抓住使其不能出去”变成了“阻止，遏制”。与表示“阻止，使其不能做”之义的prevent一样，inhibit常用于“inhibit A from doing阻止A做某事”这一表达。另外，大家还需要区分开inhibit和prohibit。inhibit是“阻碍成长，发展”之义，而prohibit是“以法令阻止，禁止”的意思。请大家要注意哦！
+:::
+
+- **inhibit** [ɪn'hɪbɪt] *vt.* 阻止（成长，发展） = prevent, impede, hamper
+  - inhibit A from doing 阻止A做某事
+- **inhibition** [ˌɪnhɪ'bɪʃn] *n.* 拘谨，禁止
+- **inhibited** [ɪn'hɪbɪtɪd] *adj.* 羞怯的，抑制情感的 = shy
+- **prohibit** [prə'hɪbɪt] *vt.* 禁止，不准 = ban, proscribe
+
+> An unhappy family life may **inhibit** children's learning.
+> 不幸的家庭生活也许会阻止孩子的学习。
+
+> Recording the meeting may **inhibit** people from expressing their real views.
+> 记录讨论内容可能会导致有些人不能表达他们真实的想法。
+
+## 10. 水向陆地里 in- 流去的话，inundate 泛滥，淹没
+
+<!-- 插图：洪水淹没了村庄房屋 -->
+
+::: {.etymo}
+单词inundate的核心是词根是und水纹（wave），其词源义是“水流向陆地”，即为“泛滥，淹没”的意思。夏天下暴雨heavy rain的时候，江水溢满泛滥就会引发洪灾。描述这种情况的动词就是inundate，inundate的比喻义figuratively是“像水涨一样聚集起来”，即“压倒，狂奔”！
+:::
+
+<!-- p.362 -->
+
+- **inundate** [ˈɪnʌndeɪt] *vt.* 泛滥，淹没
+  - be inundated with 难以应对 / 泛滥
+  - be inundated with orders for the product 这个产品的订单像雪花一样纷纷地飘来
+- **inundation** [ˌɪnʌnˈdeɪʃn] *n.* 淹没，泛滥；洪水，充满
+
+::: {.mnemonic}
+**温馨小贴士**
+
+包含词根 und（水纹 wave）的其他词汇：
+undulate 形成波涛的模样 → “上下起伏，波浪状的”
+abundant 流满的 → “丰富的”
+redundant 总是溢满 → “过剩的，剩余的”
+:::
+
+> If the dam breaks, it will **inundate** large parts of the town.
+> 如果大坝决堤，会淹没大半个城镇。
+
+> After the broadcast, we **were inundated with** requests for more information.
+> 节目播出后，听众纷纷要求我们再多提供些信息。
+
+## 单词回顾
+
+::: {.etymo}
+1. 放在监狱里面
+   → 关押 ______
+2. 进入到核心看
+   → 洞察力 ______
+3. 树立在里面的话
+   → ① 设置；② 使就职 ______
+4. 进入到里面
+   → 侵入，进攻 ______
+5. 卷在里面
+   → ① 陪伴，包含；② 关联，受牵连 ______
+6. 迁移到里面
+   → 迁移 ______
+7. 进入到里面
+   → 材料，成分 ______
+8. 天生身体里面就具有某种才能
+   → 灵巧的，超群的 ______
+9. 抓住放在里面使其不能出去
+   → 阻止，遏制 ______
+10. 水向陆地里流去的话
+    → 泛滥，淹没 ______
+:::
+
+> 答案 1. imprison 2. insight 3. install 4. invade 5. involve 6. immigrate 7. ingredient 8. ingenious 9. inhibit 10. inundate
+
+<!-- p.363 -->
+
+## 确认并攻克下列单词
+
+## 请写出下面单词的词义。
+
+::: {.etymo}
+1. insight `______`
+2. invade `______`
+3. ingredient `______`
+4. ingenious `______`
+5. inhibit `______`
+5. inundate `______`
+:::
+
+## 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 他对经济的**洞察力** `______` 让人震惊。
+2. 我们在厨房**设置** `______` 了一台新烤箱。
+3. 大约 2000 年前，罗马**侵略** `______` 了英国。
+4. 我不想受那个打架事件的**牵连** `______`。
+5. 这个食物是用新鲜的**材料** `______` 制作而成的。
+6. 他偶尔会有一些**超群的** `______` 想法。
+7. 贫穷**阻碍** `______` 了他的学业。
+8. 因为严重的暴雨，那座城市已经被**淹没** `______` 了。
+:::
+
+## 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. I don't want to ______ your privacy.
+   A. incur
+   B. invade
+   C. evade
+:::
+
+2. Running your own business usually ______ working long hours.
+   A. evolves
+   B. involves
+   C. revolves
+
+3. He made an **ingenious** device.
+   A. clever
+   B. ingenuous
+   C. genetic
+
+4. Many churches **inhibit** their people from smoking and drinking.
+   A. prohibit
+   B. prescribe
+   C. prevent
+
+---
+
+## 本日词汇速查（25 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [imprison]{.headword} | ɪmˈprɪzn | vt | 关押 = put sb. in jail |
+| [imprisonment]{.headword} | ɪmˈprɪznmənt | n | 监禁，下狱 |
+| [sentence]{.headword} | ˈsentəns | n | 句子；判决，宣判 *vt.* 宣判，判决 |
+| [insight]{.headword} | ˈɪnsaɪt | n | 洞察力 = intuition |
+| [insightful]{.headword} | ˈɪnsaɪtfʊl | adj | 有深刻见解的 |
+| [install]{.headword} | ɪnˈstɔːl | vt | ① 设置 = put in，② 使就职 = inaugurate |
+| [installation]{.headword} | ˌɪnstəˈleɪʃən | n | 安装，装置 |
+| [installment]{.headword} | ɪnˈstɔːlmənt | n | 分期付款 |
+| [invade]{.headword} | ɪnˈveɪd | vt | 侵入，进攻=attack, assail, assault |
+| [invasion]{.headword} | ɪnˈveɪʒən | n | 入侵，侵略=incursion |
+| [involve]{.headword} | ɪnˈvɒlv | vt | ①伴随，包含=include, entail ②关联，受牵连 |
+| [involvement]{.headword} | ɪnˈvɒlvmənt | n | 卷入，牵连；参与 |
+| [immigrate]{.headword} | ˈɪmɪɡreɪt | vt | 迁移 $\leftrightarrow$ emigrate 迁移（到别的国家） |
+| [immigration]{.headword} | ˌɪmɪˈɡreɪʃn | n | 移民入境 |
+| [immigrant]{.headword} | ˈɪmɪɡrənt | n | 移民，侨民 |
+| [ingredient]{.headword} | ɪnˈɡriːdiənt | n | ① 材料，成分 = component ② 要素，资质 = quality |
+| [ingenious]{.headword} | ɪnˈdʒiːniəs | adj | 灵巧的，超群的 = clever, astute, shrewd |
+| [ingenuity]{.headword} | ˌɪndʒəˈnjuːəti | n | 独创性，巧妙 |
+| [ingenuous]{.headword} | ɪnˈdʒenjuəs | adj | 天真的，单纯的 = naive, frank, honest |
+| [inhibit]{.headword} | ɪn'hɪbɪt | vt | 阻止（成长，发展） = prevent, impede, hamper |
+| [inhibition]{.headword} | ˌɪnhɪ'bɪʃn | n | 拘谨，禁止 |
+| [inhibited]{.headword} | ɪn'hɪbɪtɪd | adj | 羞怯的，抑制情感的 = shy |
+| [prohibit]{.headword} | prə'hɪbɪt | vt | 禁止，不准 = ban, proscribe |
+| [inundate]{.headword} | ˈɪnʌndeɪt | vt | 泛滥，淹没 |
+| [inundation]{.headword} | ˌɪnʌnˈdeɪʃn | n | 淹没，泛滥；洪水，充满 |
+

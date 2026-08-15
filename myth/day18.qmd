@@ -1,0 +1,374 @@
+# Day 18 · 看是spec (t) 和vid {.unnumbered}
+
+::: {.root-banner}
+Day 18 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p165–p172
+
+<!-- p.150 -->
+
+<!-- 插图：两位医生正在看X光片 -->
+
+右图中，两位医生正在认真的看着look患者的X-ray片。英语中与“看look，see”之义相关的词根有spec (t) 和vid，vis。由于“看”是人最基本的动作之一，所以其相关的单词也很多。于是，不仅由spec和vid所构成的重要单词比比皆是，这些单词也成了考试中的频考对象。
+
+**1. spect, spic是look**
+
+- a-(ad-)向……边+spect看(look)（向……看到的面） → **aspect** 面貌，方面
+- circum旋转(around)+spect看(look)（环顾四周） → **circumspect** 谨慎小心的
+- de-向下+spi看(look)+-se动词后缀（向下看……） → **despise** 鄙视，看不起
+- ex-向外+(s)pect看(look)（看（前面）） → **expect** 期望，预料，要求
+- in-向里面+spect看(look)（往里面看） → **inspect** 检查，检验
+
+**2. vid, vis是see**
+
+- e(x)-向外+vid看(look)-ent形容词后缀（露在外面看得见） → **evident** 明显的，明白的
+- im-否定(not)+pro-提前+vis(e)看(look)（不提前看） → **improvise** 即兴创作，临时提供
+- re-再次+vis(e)看(look)（再次看（已有的东西）） → **revise** 修订，修正
+- super-在上面+vis(e)看(look)（在上面（向下）看） → **supervise** 监督，管理
+- vis看(look)+-ta名词后缀（（长长地）看到的景色） → **vista** 远景，狭长的街景
+
+<!-- p.151 -->
+
+## 1. 从……边a-看到的面spect，aspect方面，面貌
+
+::: {.etymo}
+看人或事物的时候，能看得到的面有各种情形。举个例子来说，看一个建筑物的话，有前面、旁边、后面，对人来说也有明亮的一面和阴暗的一面。而通过我们的眼睛所看到的面就是aspect层面，样子。aspect沿用了其词源义“从……边看到的面”，其用法也比较简单。尽管如此，该词可是英文报纸中频繁frequently出现的词语，所以大家一定要记住哦！
+:::
+
+- **aspect** [ˈæspekt] *n.* 方面，面貌=facet
+  - the positive (negative) aspect 积极（消极）的一面
+  - the commercial aspect of the World Cup 世界杯商业的一面
+  - the financial aspect of this project 这个项目的金融方面
+
+> Alcoholism affects all **aspects** of family life.
+> 酗酒影响到家庭生活的方方面面。
+
+> The industrial revolution changed every **aspect** of human society.
+> 工业革命改变了人类社会的方方面面。
+
+## 2. 环circum顾spect周围，circumspect慎重的，小心的
+
+<!-- 插图：站岗放哨的士兵前后左右环顾观察 -->
+
+::: {.etymo}
+站岗放哨时，只看着前面是不行的。因为不知道敌人会从哪里冒出来，所以前后左右都要滴水不漏地环顾到。开车的时候也一样。前后左右都要看好才能避免驾驶的时候发生事故accident。这里联想到的单词就是circumspect。它在其词源义“环顾四周”的基础上生成了“慎重的，小心的”意思。相比careful，caution而言，circumspect是更正式的formal词语，使用时要注意根据语境的不同恰当使用。
+:::
+
+- **circumspect** [ˈsɜːkəmspekt] *adj.* 谨慎小心的，周到的=careful, cautious
+  - more circumspect in the contract 签合同时要更加慎重
+  - a circumspect approach to the crisis 解决危机的慎重对策
+- **circumspection** [ˌsɜːkəmˈspekʃn] *n.* 细心，慎重
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含有前缀circum-（around）的重要词汇汇总：
+circumscribe 向……周围划线 → 划定……范围，限制，限定
+circumstance 站在（存在于）周围的 → 环境，境遇
+circumvent 向周围转 → 避免，用计防止
+:::
+
+> The Prime Minister was not so **circumspect**.
+> 首相没这么谨慎。
+
+> Investigating before action, she tried always to be **circumspect**.
+> 行动之前，她总是慎重地将各个方面了解清楚。
+
+> The government needs to be more **circumspect** when dealing with the issue.
+> 政府应采取更谨慎的态度去处理那个问题。
+
+<!-- p.152 -->
+
+## 3. 向下 de- 看 spi，despise 轻视、蔑视
+
+<!-- 插图：女性照片 -->
+
+::: {.etymo}
+人活于世，可能会遇到比讨厌、厌恶还深的达到鄙视的事情。这时所用的词就是despise。despise是由其词源义“向下看（对方）”引申出“轻蔑”之义，与我们所说的“瞧不起”在语义和语感上差不多。另外，语义相似的还有词组look down on。看看，这个词组是不是将despise的词源义拆分后组合在一起的？
+:::
+
+- **despise** [dɪˈspaɪz] *vt.* 鄙视，看不起 = look down on, scorn
+  - despise inherited wealth 鄙视继承的财富
+  - despise the decadent culture 鄙视堕落的文化
+- **despicable** [dɪˈspɪkəbl] *adj.* 卑劣的，可鄙的 = contemptible
+
+> Timbert was totally **despising** me.
+> 坦贝尔根本看不起我。
+
+> He tends to **despise** anyone who hasn't had a college education.
+> 他有些瞧不起那些没能受过大学教育的人。
+
+> You should not **despise** a man because he is poor.
+> 你不能因为人家贫穷就瞧不起他。
+
+## 4. 向 ex-（前）眺望 (s)pect，expect 预期 [期待]
+
+<!-- 插图：戴帽男子与怀孕女士对话，气泡文字 "Are you expecting?" -->
+
+::: {.etymo}
+我们经常展望未来，也就是心怀期待expect生活着。事实上，expect沿用了其词源义，是个用法比较简单的单词。这里需要强调的是，expect在语法上grammatically有重要的用法usage，即：它以惯用句型“expect to do sth. 预想是……”的形式来使用。另外，“expect a baby”不是“期待小孩”而是“怀孕了”的意思。如果有人问：“Are you expecting?”，那可能是在问“你(是不是)怀孕了？”的意思。这个表达可一定要记下来哦！
+:::
+
+- **expect** [ɪkˈspekt] *vt.* 1. 预期，期待 2. 怀孕
+- **expectation** [ˌekspekˈteɪʃn] *n.* 预期，期待
+- **expectancy** [ɪkˈspektənsi] *n.* 期望
+- **expectant** [ɪkˈspektənt] *adj.* 期待的，预期的，期望的
+  - expectant mother (father) 准妈妈（爸爸）
+  - life expectancy 平均寿命
+
+::: {.mnemonic}
+**温馨小贴士**
+
+大部分人都不知道expect有“怀孕”的意思吧。我们一定要牢记并掌握它哦！
+expect a baby 怀孕
+have a baby 生孩子，生小孩
+:::
+
+<!-- p.153 -->
+
+> The economist **expected** the market to rebound toward the end of the year.
+> 经济学家期望到年底市场能够复苏。（rebound回升，回弹，从诸如衰败或失望中恢复过来）
+
+> She is **expecting** her second baby.
+> 她怀了第二个宝宝。
+
+## 5. 看spect里面in，inspect调查
+
+<!-- 插图：警察正在用放大镜检查一名嫌疑人的包 -->
+
+::: {.etymo}
+如右图，警察过来了。“你很可疑！You're suspicious! 我要检查你的包！”inspect由其词源义“往里面看”引申出“调查”之义。往包里看，看书里的内容都可以用inspect。它可是使用频率很高的动词哦，大家要把它牢牢记住！
+:::
+
+- **inspect** [ɪnˈspekt] *n.* 检查，调查 = look into, examine, investigate
+  - inspect the damage 检查损伤
+  - inspect his wallet 检查他的钱包
+- **inspection** [ɪnˈspekʃn] *n.* 检查，检验
+- **inspector** [ɪnˈspektə] *n.* 检查员
+
+> The police **inspected** the scene of the accident.
+> 警察检查了事故现场。
+
+> Excuse me. How soon can you **inspect** my car?
+> 打扰了，你什么时候能检查我的车？
+
+> Where do I go through customs **inspection**?
+> 在哪进行通关检查？
+
+## 6. 露在外面e-看得到vid，evident明显的，明白的
+
+::: {.etymo}
+大家知道英语的“证据”怎么说吗？是evidence。evidence的形容词是evident。evident由其词源义“露在外面能看得到”引申出“明显的”意思。某事实fact拿出来展示给大家看的话就变得清楚、明白了吧？表示这个语义的单词正是evident。evident的名词evidence是由其词源义“（明白的）放在外面使……看见”生成的“证据”之义。
+:::
+
+- **evident** [ˈevɪdənt] *adj.* 明显的，明白的 = clear, obvious, distinct, manifest
+  - It is evident that 这很明显
+- **evidence** [ˈevɪdəns] *n.* 证据
+- **evidential** [ˌevɪˈdenʃəl] *adj.* 证据的，可作证据的，提供证据的
+
+<!-- p.154 -->
+
+> **It was evident that** Sandra told a lie.
+> 很明显桑德拉说了谎。
+
+> **It was clearly evident that** the company was in financial difficulties.
+> 非常明显这家公司陷入了财政困境。
+
+> The lawyer has obtained conclusive **evidence** of his innocence.
+> 律师掌握了他无罪的决定性证据。
+
+## 7. 不im-提前pro-看vise，improvise即兴创作，即兴表演
+
+::: {.etymo}
+虽然improvise这个词有点难，但是我们必须要记住。事实上，improvise是由前缀im-、pro-与词根vise组合在一起而构成的词语。其词源义是“不提前看”，即“当场做”的意思。做演讲oration或演奏performance，不提前看演讲稿或乐谱musical score，当场即兴演讲或表演，又或者在紧急的情况下需要当场做时，要使用improvise这个词。大家看右图中的两个人，我们可以将之想象成即兴演奏爵士乐的人。
+:::
+
+<!-- 插图：两个人演奏萨克斯管等乐器的剪影 -->
+
+- **improvise** [ˈɪmprəvaɪz] *v.* 即兴创作，即兴表演，临时做
+  - jazz musicians who are good at improvising 擅长即兴创作的爵士音乐家们
+- **improvisation** [ˌɪmprəvaɪˈzeɪʃn] *n.* 即兴创作，即兴演说，即兴作品
+
+> I hadn't prepared a speech, so I suddenly had to **improvise**.
+> 我没准备演讲，因此不得不即兴发挥。
+
+> He **improvised** a toy for the children.
+> 他给孩子们即兴制作了一个玩具。
+
+## 8. 再一次re-看vise既存的东西，revise改正，修正
+
+::: {.etymo}
+在制订并推进计划执行的过程中，当情况有变或出现更好的想法时，就会需要“修改”现有计划。这时所使用的动词正是revise。revise由其词源义“再次看（现有的东西）”引申为“改正，修正”之义。
+:::
+
+某书在出了第一版the first edition后，作者在原稿manuscript基础上进行修订补充，再次出版的“修正版”即为“a revised edition”。大家可要认真地记下来哦。
+
+- **revise** [rɪˈvaɪz] *vt.* 改正，修正，修订=amend
+  - a revised edition (version) 修订版
+- **revision** [rɪˈvɪʒn] *n.* 改正，修正，修改
+
+<!-- p.155 -->
+
+> The college has **revised** its plans because of local objections.
+> 由于当地人的反对，那所大学重新修订了计划。
+
+> The author published a **revised** edition of his earlier book.
+> 作者出版了他早年编写书籍的修订本。
+
+## 9. 从上面向下 super- 看 vise，supervise 管理，监督
+
+<!-- 插图：老师在考场监考学生考试 -->
+
+::: {.etymo}
+我们上学时，参加过很多次考试。我们在认真地答着题，而老师则来回走动着，或者站在某处自上而下地监考，以防止我们 cheating 作弊。这个场景让我们联想的单词就是 supervise 管理监督。supervise 由其词源义“从上面（向下）看”引申为“管理，监督”的意思。
+:::
+
+- **supervise** [ˈsjuːpəvaɪz] *v.* 管理，监督 = manage, oversee
+  - supervise the research 监督研究活动
+  - supervise the staff 管理员工
+- **supervision** [ˌsjuːpəˈvɪʒən] *n.* 监督，管理
+
+::: {.mnemonic}
+**温馨小贴士**
+
+最近，（supervisor）经常用作外来词，其词义为“负责人，管理者”，一定要牢记并掌握它哦！
+:::
+
+> The team leader was appointed to **supervise** the project.
+> 小组组长被任命为这个项目的负责人。
+
+> We have to **supervise** the final phase of the construction.
+> 我们必须监督这个工程的最后一个阶段。
+
+> **Supervisor** Jerry Wallace nominated Lucy Moderatz for Employee of the Month.
+> 督导杰瑞·华理士提名露西·莫德里兹为本月的“明星雇员”。
+> （nominate [ˈnɒmɪneɪt] 提名……为候选人，任命）
+
+## 10. 可以看到远方的 vis 景色，vista 远景，前景
+
+<!-- 插图：站在铁轨上向远方眺望 -->
+
+::: {.etymo}
+大家也有站在铁轨 railway 的经历吧？站在铁轨的中央，放眼远望，是不是可以看到延伸到远方的轨道？这种“远景”正是 vista view。站在山顶，将景色 scenery 尽收眼底也是这种感觉。微软的操作系统 Windows Vista 所使用正是该单词。
+:::
+
+<!-- p.156 -->
+
+- **vista** [ˈvɪstə] *n.* 远景，狭长的街景 = panorama
+  - stunning vistas of the coast 令人叹为观止的海景
+  - a vista of the autumn mountain 秋天美丽的山景
+
+> After a hard climb, we were rewarded by a spectacular **vista** of rolling hills.
+> 艰难地爬上山顶后，我们看到了连绵起伏的群山美景。
+> （spectacular [spekˈtækjʊlə] 壮观的场面，精彩的表演）
+
+> Exchange programs will open up new **vistas** for students.
+> 交换（学生）项目会给学生开启新的视野。
+
+## 单词回顾
+
+::: {.etymo}
+1. 从……边看到的面
+   → 层面，样子 ______
+2. 环顾周围
+   → 郑重的，小心的 ______
+3. 向下看……
+   → 轻蔑，蔑视 ______
+4. 眺望前面
+   → 预想（期待） ______
+5. 向里看
+   → 检查 ______
+6. 露在外面能看到的
+   → 明显的，明白的 ______
+7. 没有提前看
+   → 即兴创作，即兴表演 ______
+8. 再次看现有的东西
+   → 改正，修正 ______
+9. 在上面向下看
+   → 管理，监督 ______
+10. 眺望到的景色
+    → 远景，前景 ______
+:::
+
+答案 1. aspect 2. circumspect 3. despise 4. expect 5. inspect 6. evident 7. improvise 8. revise 9. supervise 10. vista
+
+<!-- p.157 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. circumspect `______`
+2. despise `______`
+3. inspect `______`
+4. improvise `______`
+5. revise `______`
+6. supervise `______`
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 那个事件进入了新的局面 `______`。
+2. 我应该以慎重的 `______` 态度去解决那个问题。
+3. 不能因为与自己不同就瞧不起 `______` 他。
+4. 调查 `______` 洪水所带来的损失。
+5. 那位钢琴家即兴演奏 `______` 了那个曲子。
+6. 对我们而言，需要明明白白的 `______` 证据。
+7. 我们需要修改 `______` 计划。
+8. 那个经理监督 `______` 着所有的员工。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The minister was **circumspect** in his response.
+   A. aware
+   B. cautious
+   C. respective
+
+2. She **despised** her neighbors.
+   A. descended
+   B. scorned
+   C. scared
+
+3. I forgot to bring my notes, so I had to `______`.
+   A. provide
+   B. revise
+   C. improvise
+
+4. This discovery made them `______` their old ideas.
+   A. devise
+   B. revise
+   C. supervise
+
+---
+
+## 本日词汇速查（26 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [aspect]{.headword} | ˈæspekt | n | 方面，面貌=facet |
+| [circumspect]{.headword} | ˈsɜːkəmspekt | adj | 谨慎小心的，周到的=careful, cautious |
+| [circumspection]{.headword} | ˌsɜːkəmˈspekʃn | n | 细心，慎重 |
+| [despise]{.headword} | dɪˈspaɪz | vt | 鄙视，看不起 = look down on, scorn |
+| [despicable]{.headword} | dɪˈspɪkəbl | adj | 卑劣的，可鄙的 = contemptible |
+| [expect]{.headword} | ɪkˈspekt | vt | 1. 预期，期待 2. 怀孕 |
+| [expectation]{.headword} | ˌekspekˈteɪʃn | n | 预期，期待 |
+| [expectancy]{.headword} | ɪkˈspektənsi | n | 期望 |
+| [expectant]{.headword} | ɪkˈspektənt | adj | 期待的，预期的，期望的 |
+| [inspect]{.headword} | ɪnˈspekt | n | 检查，调查 = look into, examine, investigate |
+| [inspection]{.headword} | ɪnˈspekʃn | n | 检查，检验 |
+| [inspector]{.headword} | ɪnˈspektə | n | 检查员 |
+| [evident]{.headword} | ˈevɪdənt | adj | 明显的，明白的 = clear, obvious, distinct, manifest |
+| [evidence]{.headword} | ˈevɪdəns | n | 证据 |
+| [evidential]{.headword} | ˌevɪˈdenʃəl | adj | 证据的，可作证据的，提供证据的 |
+| [improvise]{.headword} | ˈɪmprəvaɪz | v | 即兴创作，即兴表演，临时做 |
+| [improvisation]{.headword} | ˌɪmprəvaɪˈzeɪʃn | n | 即兴创作，即兴演说，即兴作品 |
+| [revise]{.headword} | rɪˈvaɪz | vt | 改正，修正，修订=amend |
+| [revision]{.headword} | rɪˈvɪʒn | n | 改正，修正，修改 |
+| [supervise]{.headword} | ˈsjuːpəvaɪz | v | 管理，监督 = manage, oversee |
+| [supervision]{.headword} | ˌsjuːpəˈvɪʒən | n | 监督，管理 |
+| [vista]{.headword} | ˈvɪstə | n | 远景，狭长的街景 = panorama |
+| [respective]{.headword} |  |  | 各自的，分别的 |
+| [descend]{.headword} |  |  | 下来，向下倾斜 |
+| [ascend]{.headword} |  |  | 攀登，上升 |
+| [devise]{.headword} |  |  | 想出，图谋 |
+

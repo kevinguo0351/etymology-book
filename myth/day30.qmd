@@ -1,0 +1,375 @@
+# Day 30 · 风是wind，摇晃是swing {.unnumbered}
+
+::: {.root-banner}
+Day 30 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p266–p273
+
+<!-- p.251 -->
+
+请看右图，各国的国旗在随风飘扬。是不是让你想起每年国庆节a national holiday在家门上插着的迎风招展的国旗啊？今天我们一起来学习有关wind风和swing摇晃的词汇。学习过程中，可能会出现一些比较难的词，但只要了解这些词的来源，就能简单而有趣地记忆它们。
+
+**Voca Map：wind 风**
+- windshield (汽车的) 挡风玻璃
+- winnow 吹拂
+- wander (到处) 徘徊
+- vent 排气口
+
+**Voca Map：swing 摇晃，使晃动**
+- sway 使摆动
+- swift 快的，快速的
+- sweep 清扫、打扫
+- swoop 俯冲
+
+<!-- p.252 -->
+
+## 1. 用于描述各种风的单词 wind 风
+
+::: {.etymo}
+在英语中，从wind派生出的词汇相当多。我们不妨来看一下。其实，window挡风的窗户一词也源于wind。平时去百货商店只看bu买时，我们用window shopping来表达才是正确的。还有windmill风车，windfall意外的收获等也是由wind派生出的词汇。
+:::
+
+- **wind** [wɪnd] *n.* 风
+  - a sudden gust of wind 突然一阵风
+  - window shopping 逛商店，看橱窗
+- **windmill** [ˈwɪndmɪl] *n.* 风车
+- **windfall** [ˈwɪndfɔːl] *n.* 被风吹落的果子，横财
+  - wind speed 风速
+
+> We have to wait till the **wind** drops before we put the tent up.
+> 我们必须等到风停下来，才能支帐篷。（put the tent up 支帐篷）
+
+> The forecast is for strong **winds** and heavy rain.
+> 天气预报说有强风和暴雨。
+
+## 2. 挡住 wind 的盾牌 windshield 挡风玻璃
+
+<!-- 插图：汽车挡风玻璃 -->
+
+::: {.etymo}
+如图所示，开车的时候挡住迎面吹来的风，安装在汽车前面的玻璃叫做windshield。shield的本义是挡住物体的“盾牌”，跟wind结合后成windshield，意思变为“（汽车）前面的挡风玻璃”。
+:::
+
+前面我们已说到了汽车，那就顺便一起再看几个关于汽车零部件的表达吧？hood引擎盖[美]，bonnet引擎盖[英]，turn singal方向指示灯，rear view mirror后视镜，seat belt安全带，gas pedal加速器[美]，accelerator加速器[英]等都是经常使用的词汇，应该熟记哦！
+
+- **windshield** [ˈwɪndʃiːld] *n.* （汽车的）挡风玻璃 =windscreen
+  - hood [美] 引擎盖，bonnet [英] 引擎盖
+  - turn signal 转向灯，rear view mirror 后视镜，seat belt 安全带
+  - gas pedal [美] 加速器，油门，accelerator [英] 加速器
+
+<!-- p.253 -->
+
+> The ball crashed through the **windshield** of an oncoming car.
+> 那个球撞上了一辆疾驶而来的汽车挡风玻璃。
+
+> My boyfriend pressed down hard on the **gas pedal**.
+> 我男朋友使劲地踩油门。
+
+## 3. 像 wind 一样到处飘荡 wander (到处) 游荡
+
+<!-- 插图：戴斗笠行者在风中游荡 -->
+
+::: {.etymo}
+英语中有“到处游荡”之意的单词正是wander。动词wander中的wand源自wind风，所以其词义为“（像风一样）到处游荡”变成了“（到处）游荡，流浪，徘徊”。
+:::
+
+- **wander** [ˈwɒndə(r)] *v.* (到处) 游荡，流浪，徘徊
+  - wander down the street 在街上游荡
+  - a strange man wandering around the house 一个陌生人在房子周围徘徊
+
+> The poet had **wandered** all over the country for his entire life.
+> 诗人用一生的时间游历了整个国家。
+
+> Juvenile delinquents **wander** the back streets of New York.
+> 年轻的小混混们在纽约的后街游荡。
+> （juvenile [ˈdʒuːvənaɪl] 少年的，delinquent [dɪˈlɪŋkwənt] 行为不良的人，流氓）
+
+## 4. 轻飘的谷壳被 wind 吹走，只剩下沉沉的谷粒 winnow 分开，拣选
+
+<!-- 插图：簸箕照片 -->
+
+::: {.etymo}
+你用过簸箕吗？什么？您不知道什么是“簸箕”？左边图片里的就是“簸箕”。你可能又要问这跟风有什么关系呢？据说，以前人们都是手工挑选谷物grain的谷粒。挑选的时候，将谷物盛在簸箕里向上扬，重量轻的谷壳chaff就会被风吹走，而相对比较重的谷粒就会重新落到簸箕里，这样就能分出谷粒了。winnow中的win是wind脱落了d形成的，知道了这一点，winnow这个单词记起来就更容易了。
+:::
+
+- **winnow** [ˈwɪnəʊ] *vt.* 分开，挑选 =screen
+  - separate the wheat from the chaff 把小麦和谷壳分开
+  - winnow truth from falsehood 区别真相和谎言
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在某些情况下，winnow 可以单独使用，但通常还是以短语 winnow out 的形式出现。
+:::
+
+<!-- p.254 -->
+
+> We need to **winnow** the list of candidates to three.
+> 我们需要从候选人的名单中挑出3个人。
+
+> The least qualified applicants were **winnowed** out of the initial pool.
+> 在首批录用的申请者中选出具备最基本资格条件的人。
+
+## 5 由 wind 变形而来表示“排风的地方”是 vent 通风口、排气口；表露感情
+
+<!-- 插图：一个人对着带有“愤怒”字样的通风口大声发泄 -->
+
+::: {.etymo}
+vent就是由wind变形而来的单词。在英语拼写中，经常会出现将w变成v的情况。vent的词源义为“排风的地方”，因此该词是“排气口”的意思。除此之外，它还有第二个义项“（感情的）发泄，表露”。这里有一个很重要的俗语——give vent to表达感情，发泄，我们应该记住。此外，我们还需要学习一下它的名词形式ventilation换气，通风。
+:::
+
+- **vent** [vent] *n.* 1. 排气口 2.（感情的）表达
+  *vt.* 表现（愤怒、憎恶）=express
+  - give vent to 表达，发泄（情感等）
+- **ventilation** [ˌventɪˈleɪʃən] *n.* 换气、通风
+  - a ventilation system 通风系统
+
+> The wind does not flow because the **air vent** was clogged.
+> 风不能流动，因为排气管被堵住了。
+> （clog [klɒɡ] 阻塞，堵塞）
+
+> Jane **vented** her anger to her mother.
+> 简向她的妈妈发火。
+
+> Children **give vent to** their anger in various ways.
+> 孩子们用不同的方式表达愤怒。
+
+## 6 摇晃或者使摇晃的 swing 摇晃、使摇晃
+
+::: {.etymo}
+你知道“秋千”用英语怎么说吗？对，是swing！你听说过挥动棒球棒或高尔夫球杆是用“swing”这个单词吗？单词swing多用作动词，是“摇晃、使摇晃”的意思。此外，它还可以用作名词，是“摇晃；（意见、方向等的）旋回，变化”的意思。俗语in full swing正在全力进行是个很重要的表达方式，一定要记住哦！
+:::
+
+<!-- p.255 -->
+
+- **swing** [swɪŋ] *v.* (向前后、左右) 摇晃，使摇晃；*n.* 摇晃；秋千；挥棒动作；(意见、方向等的) 旋回，变化
+  - in full swing 活跃，正在全力进行
+  - swing the bag back and forth 前后晃动着袋子
+  - kids playing on the swings 在荡秋千的孩子们
+
+::: {.mnemonic}
+**温馨小贴士**
+
+swing 的不规则动词变化：
+swing—swang—swung
+:::
+
+> Kelly sat on the edge of the chair, **swinging** her legs.
+> 凯利坐在椅子边儿上，晃动着她的腿。
+
+> There is not enough room to **swing** a bat!
+> 空间太小了，都挥不开拍子。
+
+> At midnight the party was **in full swing**.
+> 午夜时分，派对进入了高潮。
+
+## 7. 缩短 swing 发音的单词 sway 使摇晃
+
+::: {.etymo}
+单词 swing 和 sway 看起来相似吧？那是因为 sway 就是从 swing 派生出来的单词。两者的意思其实是完全相同的，都表示“使摇晃”。还记得在第一章中学习过关于 sway 的图片吗？sway 最基本的意思是“（物体）摇晃”，可是当其用作及物动词或者被动语态的时候，就变成“动摇……的心，使动摇”之义。这一点跟 swing 不同。还有，不要忘了 sway 作名词还有“支配力”的意思哦！
+:::
+
+<!-- 插图：大风中摇晃的树，人在旁边，思考气泡里写着“我的心就像那棵树一样 sway” -->
+
+- **sway** [sweɪ] *vi.* 使摇晃 = swing
+  *vt.* 使……的心动摇，使动摇
+  *n.* 支配力 = power
+  - be swayed by 被……所左右
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“能够震撼组织的力量”就是“支配力（sway 的名词意义）”。
+:::
+
+> The branches of the tree **swayed** violently in the storm.
+> 树枝在暴风中被粗暴地晃动着。
+
+> She was **swayed** by his promise.
+> 她被他的承诺所左右。
+
+> He is now completely under her **sway**.
+> 他现在完全在她的掌控中。
+
+<!-- p.256 -->
+
+## 8. 从 swing 的行为中派生出的单词 sweep 清扫灰尘、打扫
+
+<!-- 插图：扫把 -->
+
+::: {.etymo}
+拿着扫帚broom清扫地面的时候，扫帚或拖把mop会前后或左右摇摆吧？这里出现的单词就是sweep清扫灰尘/打扫。sweep的引申义为“横扫；(运动中)连胜”。sweep是一个使用频率很高的动词，一定要好好学哦！
+:::
+
+- **sweep** [swiːp] *vt.* 1. 清扫，打扫 = brush, wipe 2. 横扫，连胜
+  - sweep the dirt off the desk 打扫桌子上的灰尘
+  - Fire swept through the forest. 火灾横扫了森林。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+sweep 的不规则动词变化：
+sweep—swept—swept。
+:::
+
+> Ben **swept** the snow in front of his house.
+> 本打扫了他房前的雪。
+
+> the soccer craze was **sweeping** the country
+> 足球风靡了全国
+> （craze [kreɪz] 疯狂的）
+
+> Orlando **swept** the LA Lakers to become NBA champions.
+> 奥兰多队横扫了洛杉矶湖人队，成为全美篮球职业联赛的冠军。
+
+## 9. 从 swing 的速度衍生出的单词 swift 快的、迅速的
+
+<!-- 插图：奔跑的人 -->
+
+::: {.etymo}
+拿着扫帚匆忙清扫的时候，速度会很快吧？在这里，我们能联想到的单词就是swift快的、迅速的。在英语中，表示“快的”形容词有很多：fast，rapid，quick，还有swift等。虽然它们之间存在一些细微的差异，不过只要我们整理一下就会容易多了。fast快的，rapid急速的，quick快速的，swift迅速的。
+:::
+
+- **swift** [swɪft] *adj.* 快的，迅速的 = fast, quick, rapid
+  - a swift decision 迅速作出决定
+  - a swift and accurate response 迅速精确的反应
+- **swiftness** [ˈswɪftnəs] *n.* 迅速
+
+> Life is short, and time is **swift**.
+> 生命短暂，岁月流逝。
+
+> My request received a **swift** reply.
+> 我的要求很快得到了反馈。
+
+> Punishment of the protesters was **swift** and severe.
+> 对抗议者的惩罚是迅速而严厉的。
+
+<!-- p.257 -->
+
+## 10. 由 sweep 元音变化后形成的单词 swoop 突然下降，突然袭击
+
+<!-- 插图：秃鹫停在枝头 -->
+
+::: {.etymo}
+单词 **swoop** 是 **sweep** 元音变化后形成的，具有“快速”的感情色彩。记忆 **swoop** 这个单词时，联想一下秃鹫 eagle 和老鹰 hawk 就可以了。秃鹫悠然自得地在空中飞翔 hover，当它发现猎物 prey 的时候，就会以最高每小时 160km 的时速非常 enormously 迅速地突然下降捕食猎物。看到这种情景，我们首先联想到的单词就是 **swoop** 突然下降，突然袭击！
+:::
+
+- **swoop** [swuːp] *vt.* 突然下降，突然袭击 *n.* 突然袭击
+  - swoop in and capture the criminal 突然袭击，抓住罪犯
+- **swoon** [swuːn] *n.* 陶醉，晕厥
+
+> The eagle hovered, ready to **swoop** at any moment.
+> 秃鹫盘旋着，时刻准备着突然袭击。
+> （hover [ˈhʌvə(r)] 盘旋，翱翔）
+
+> Police apprehended the suspect in a **swoop** on his house yesterday.
+> 昨天，警察突然闯进嫌疑犯的房子，逮捕了他。
+> （apprehend [ˌæprɪˈhend] 逮捕，suspect [səˈspekt] 嫌犯）
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 用于描述各种风的单词
+   → 风 ______
+:::
+
+2. 挡住 wind 的盾牌
+   →（汽车前面的）挡风玻璃 ______
+
+3. 像 wind 一样到处飘荡
+   →（到处）游荡 ______
+
+4. 轻飘的谷壳被风吹走，只剩下沉沉的谷粒
+   → 分开，拣选 ______
+
+5. 由 wind 变形而来的“排风的地方”
+   → 通风口；表露感情 ______
+
+6. 摇晃或者使摇晃
+   → 摇晃、使摇晃 ______
+
+7. 缩短 swing 发音的单词
+   → 使摇晃 ______
+
+8. 由 swing 的行为派生的单词
+   → 清扫（灰尘）、打扫 ______
+
+9. 由 swing 的速度衍生出的单词
+   → 快的，迅速的 ______
+
+10. 由 sweep 元音变化后形成的单词
+    → 突然下降，突然袭击 ______
+
+> **答案** 1. wind  2. windshield  3. wander  4. winnow  5. vent  6. swing  7. sway  8. sweep  9. swift  10. swoop
+
+<!-- p.258 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. wander ______
+2. winnow ______
+3. vent ______
+4. sway ______
+5. sweep ______
+6. swoop ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 把车的**挡风玻璃**______，擦干净吧！
+2. 那个流浪汉居无定所，**到处游荡**______。
+3. **分辨**______真货和假货。。
+4. **排气口**______冒出了黑烟。
+5. 用谎话使他内心发生了**动摇**______。
+6. 把窗框上的灰尘**扫**______一下。
+7. 从观众那里得到了**迅速的**______反应。
+8. 直升机**突然下降**______了。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. I'll **wander** in the department store for an hour.
+   A. walk slowly
+   B. walk fast
+   C. run slowly
+
+2. We should ______ out an eligible candidate.
+   A. distinguish
+   B. weed
+   C. winnow
+
+3. Ordinary people are often easily ______ by flattery.
+   A. swung
+   B. swatted
+   C. swayed
+
+4. The government took **swift** and efficient steps.
+   A. sweeping
+   B. quick
+   C. quaint
+
+---
+
+## 本日词汇速查（15 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [wind]{.headword} | wɪnd | n | 风 |
+| [windmill]{.headword} | ˈwɪndmɪl | n | 风车 |
+| [windfall]{.headword} | ˈwɪndfɔːl | n | 被风吹落的果子，横财 |
+| [windshield]{.headword} | ˈwɪndʃiːld | n | （汽车的）挡风玻璃 =windscreen |
+| [wander]{.headword} | ˈwɒndə(r) | v | (到处) 游荡，流浪，徘徊 |
+| [winnow]{.headword} | ˈwɪnəʊ | vt | 分开，挑选 =screen |
+| [vent]{.headword} | vent | n | 1. 排气口 2.（感情的）表达 |
+| [ventilation]{.headword} | ˌventɪˈleɪʃən | n | 换气、通风 |
+| [swing]{.headword} | swɪŋ | v | (向前后、左右) 摇晃，使摇晃；*n.* 摇晃；秋千；挥棒动作；(意见、方向等的) 旋回，变化 |
+| [sway]{.headword} | sweɪ | vi | 使摇晃 = swing |
+| [sweep]{.headword} | swiːp | vt | 1. 清扫，打扫 = brush, wipe 2. 横扫，连胜 |
+| [swift]{.headword} | swɪft | adj | 快的，迅速的 = fast, quick, rapid |
+| [swiftness]{.headword} | ˈswɪftnəs | n | 迅速 |
+| [swoop]{.headword} | swuːp | vt | 突然下降，突然袭击 *n.* 突然袭击 |
+| [swoon]{.headword} | swuːn | n | 陶醉，晕厥 |
+

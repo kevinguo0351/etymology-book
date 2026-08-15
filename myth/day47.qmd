@@ -1,0 +1,423 @@
+# Day 47 · 分开变没了的dis- {.unnumbered}
+
+::: {.root-banner}
+Day 47 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p415–p423
+
+<!-- p.400 -->
+
+前缀dis-是“从……分开”的意思，即“分离、脱离away”的意思。本来有，但如果脱落、分离了的话就变没了，于是自然而然就生成了“反对”之义。前缀dis-根据后面所接辅音的不同，拼写也会有所不同。单词diffident就是一个很好的例子，dis-后面接辅音“f”时，就变成了dif-。在发音不方便的时候，dis-中的“s”还可以脱落，diminish就是一个很好的例子。
+
+**① dis-表示away**
+
+- dis-分离、脱离(away) + aster星星(star)（幸运之）星在远方坠落 → **disaster** 灾难，灾害
+- di(s)分离、脱离(away) + mini小的 + -sh动词后缀（从团、块儿状态）慢慢减少变小 → **diminish** 减少
+- dis-反对 + close关上“关上”的反对 → **disclose** 阐明，公开
+- dis-分离、脱离(away) + creet分离的(separate)区别的、可以区分的 → **discreet** 慎重的
+- dis-分离、脱离(away) + solve解决(make loose)松散地开了 → **dissolve** 使融化，使溶解、使消除
+- dis-分离、脱离(away) + may或许、也许……使没有……的可能性 → **dismay** 使惊慌，使沮丧
+- dis-分离、脱离(away) + suade说服(urge)劝说某人不要做某事 → **dissuade** 劝阻
+- dis-分离、脱离(away) + perse稀少的、间或(sparse)零星地散落 → **disperse** 散开，解散
+- dis-强调 + turb无秩序(disorder)使……变得毫无秩序 → **disturb** 妨碍
+- dis-分离、脱离(away) + sect切断(cut)切断隔开 → **dissect** 剖析，分析
+
+<!-- p.401 -->
+
+## 1. 星星 aster 在远方 dis- 坠落后发生的事情 disaster 灾难，灾害
+
+::: {.etymo}
+洪水 flood、地震 earthquake、泥石流 landslide、雪崩 avalanche 等都可以称为不可抗的恐怖灾害 terrible disaster。
+:::
+
+单词 disaster 的词源很有趣。在古罗马时代，占星术 astrology 广泛流行，通过天体 celestial body 的运动来占卜人间的吉凶。人们相信如果保护人类的幸运之星 aster 在远方 dis- 坠落的话，接下来一定会发生“灾难，灾害”。正是因为如此，disaster 的词义就由词源义“（幸运的）星星在远方坠落”变成了“灾难，灾害”。
+
+- **disaster** [dɪˈzɑːstə] *n.* ① 灾难，灾害 =calamity, catastrophe ② 巨大的失败 =fiasco
+  - disaster area 受灾地区
+  - disaster recovery 灾情恢复
+- **disastrous** [dɪˈzɑːstrəs] *adj.* 灾难性的
+
+> The earthquake was the worst natural **disaster** in history.
+> 这次地震是史上最严重的自然灾害。
+
+> Because of the weather, the parade was a total **disaster**.
+> 因为天气恶劣，这次游行变得一团糟。
+
+> San Francisco was officially **declared** a disaster area yesterday.
+> 昨天，官方宣布旧金山是受灾地区。
+
+## 2. “关上 close”的反义（否定）dis-，disclose 阐明，公开
+
+<!-- 插图：三位身穿正装的男士站在电脑前 -->
+
+::: {.etymo}
+单词 disclose 相对比较容易理解。大家都知道动词 close 是“关上”的意思，在其前面加上表示反对的前缀 dis- 就形成了 disclose 这个词。因此，disclose 的词义“公开”就源于其词源义“打开”。
+:::
+
+接下来我们一起来学习前缀 dis- 作为“不，否定”之义的词汇：disorder 由“有秩序的反义”变为“无秩序”，disadvantage 由“有利的反义”变为“劣势，短处”，disappear 由“出现的反义”变为“消失”，disgrace 由“优雅的反义”变为“羞耻，丢脸”。像这样，只要记住前缀 dis-，就能很容易地记住原单词的反义词。
+
+**Voca Map**
+- close 关闭 $\leftrightarrow$ disclose 公开
+- order 有序的 $\leftrightarrow$ disorder 无序的
+- advantage 优点 $\leftrightarrow$ disadvantage 缺点
+- appear 出现 $\leftrightarrow$ disappear 消失
+- grace 优雅 $\leftrightarrow$ disgrace 羞耻
+
+<!-- p.402 -->
+
+- **disclose** [dɪs'kləʊz] *vt.* 阐明，公开=reveal, divulge
+  - discolse the identity of the criminal 公开罪犯身份
+  - disclose investment informaton 公开投资信息
+- **disclosure** [dɪs'kləʊʒə] *n.* 揭发，败露
+
+> The police authorities **decided** to disclose the names of the rapists.
+> 警方决定公开强奸犯们的名字。
+
+> Journalists often refuse to **disclose** the sources of their information.
+> 记者一般拒绝透漏信息的来源。
+
+## 3. 解开 solve 变松 dis-, dissolve 使溶解，使融化
+
+<!-- 插图：透明水杯中粉末/糖块在水中溶解扩散 -->
+
+::: {.etymo}
+要掌握dissolve这个单词，最好联想一下冲速溶咖啡的时候，在滚烫的水里放入咖啡，再加上白糖，然后用勺子搅拌。那么咖啡、白糖都会瞬间溶化在开水中。单词dissolve就是将小团块lump或粉powder溶化在水中。跟这个词中容易混淆的是solve释放，解决，solve的原本义是“使松散”，在这里它引申为“使溶化”的意思。最后，请大家不要将dissolve跟resolve①解决，②决心混淆了，一定要区分两者不同的语义哦！
+:::
+
+- **dissolve** [dɪ'zɒlv] *vt.* 使溶化，使溶解
+- **dissolution** [dɪsə'luːʃn] *n.* 溶解；取消
+- **dissolute** ['dɪsəluːt] *adj.* 放荡的，放纵的
+- **resolve** [rɪ'zɒlv] *vt.* ①解决；②表决
+- **resolution** [rezə'luːʃn] *n.* 决心，决定；解决，决议
+- **resolute** ['rezəluːt] *adj.* 坚决的，果断的 ↔ irresolute 犹豫不决的
+
+> Stir until the sugar cube **dissolves**.
+> 请搅拌到方糖溶解为止。
+
+> His enthusiasm as an actor **dissolved** his mother's opposition.
+> 他对当演员的热情逐渐消除了他妈妈的反对。
+
+**Voca Map**
+- solve 释放，解决
+  - ↓
+  - solution 解决
+  - ↓
+  - solvent *adj.*（债务）有能力偿还的 *n.* 溶剂
+  - ↕
+  - insolvent 破产，倒闭
+  - absolve（罪、责任）解开→宽恕，解除
+  - ↓
+  - absolution 宽恕，赦罪
+  - dissolve 解开，变松→使溶化，使溶解
+  - ↓
+  - dissolute 放荡的，放纵的
+  - resolve（完全）排解→排解（犹豫不决的心）→表决
+  - ↓
+  - resolution ①决心，决定 ②决议
+  - ↓
+  - resolute 坚决的，果断的
+  - ↕
+  - irresolute 犹豫不决的
+
+## 4. 劝说 suade 别人不要做 dis- 某事，dissuade 劝阻
+
+::: {.etymo}
+要想记住单词dissuade，就应该先了解persuade这个词。persuade
+:::
+
+<!-- p.403 -->
+
+的词源分析是：per-强烈的（strongly）+suade催促（urge）→“强烈催促做某事”的意思，所以persuade即为“说服”之义。经常以惯用句型“persuade somebody to do sth.劝说某人做某事”的形式出现。其反义词是dissuade。dissuade的惯用表达是“dissuade somebody from doing sth.劝阻某人做某事”，与persuade语义正好相反。所以，同时记persuade和dissuade这两个单词，效果更好。
+
+- **dissuade** [dɪˈsweɪd] *vt.*（说服）劝阻
+  - dissuade A from doing sth. 阻止A干某事
+- **dissuasion** [dɪˈsweɪʒən] *n.* 劝止
+- **persuade** [pəˈsweɪd] *vt.* 说服，劝说
+  - persuade A to do sth. 说服A去做某事
+  - persuade A into doing sth. 劝服某人做某事
+- **persuasive** [pəˈsweɪsɪv] *adj.* 有说服力的
+
+> He tried to **dissuade me from giving up** my job.
+> 他试图劝我不要放弃工作。
+
+> I **persuaded her to go** out for a movie with me.
+> 我说服她和我出去看电影。
+
+## 5. 将其变得完全 dis- 无秩序的 turb，disturb 妨碍
+
+<!-- 插图：挂在门把手上的“do not disturb”门牌 -->
+
+::: {.etymo}
+有一个关于disturb的有趣表达。在英国或美国的宾馆走廊上你会发现很多房间的门把手上都挂着像左图中写有“Do Not Disturb! 请勿打扰！”的标牌。在宾馆想安安静静地休息时，在门外挂上这个标牌sign，负责清扫房间house keeping的工人看到后就会稍后再来打扫。单词disturb由词源义“使其变得毫无秩序”变成“妨碍”。它的另一个义项是“使不安，使担心”，该词义来源于“妨碍平稳的心”。
+:::
+
+- **disturb** [dɪˈstɜːb] *vt.* ①妨碍=hinder ②使（心）变得不安=upset
+- **disturbance** [dɪˈstɜːbəns] *n.* 扰乱，打扰；骚乱
+- **disturbed** [dɪˈstɜːbd] *adj.* 有心理疾病的；不安的
+  - a disturbed night 不眠夜
+
+::: {.mnemonic}
+**温馨小贴士**
+
+Do not disturb others.（请不要打扰别人。）
+这句话已深深地印在美国人的头脑中。虽然做什么事情是自己的自由，但如果自己做的事情妨碍了别人，那就不可以了。
+:::
+
+<!-- p.404 -->
+
+> If she's asleep, don't **disturb** her.
+> 如果她睡着了，不要打扰她。
+
+> Sorry to **disturb** you, but I have an urgent message.
+> 很抱歉打扰你，我有一个很紧急的消息。
+
+> The government has introduced special new measures to deal with prison **disturbances**.
+> 政府出台了新的特殊措施应对监狱骚乱。
+
+## 6. 渐渐mini分开di-，diminish缩减、减少
+
+<!-- 插图：递减柱状图与俄罗斯套娃 -->
+
+::: {.etymo}
+大家都看到左边的chart了吧？数值随着图形的右移在慢慢地递减。像这种表示“慢慢递减”的动词就是diminish。diminish一词的核心是词根mini小的。前面的前缀di-是dis-为了发音方便脱落s后的变形。“从原来的状态慢慢递减，最后变小”就是diminish的词源义。大家要知道，diminish既可以用作不及物动词，也可以用作及物动词。图片中的玩具娃娃是俄国传统玩具俄罗斯套娃Matryoshka。这些娃娃就是慢慢diminish的哦！
+:::
+
+- **diminish** [dɪˈmɪnɪʃ] *vi. & vt.* 减少，缩减 =reduce, dwindle
+  - diminish the supply of oil 减少石油的供应
+  - diminishing profit 逐渐减少的利润
+- **diminutive** [dɪˈmɪnjʊtɪv] *adj.* 小的
+- **diminution** [ˌdɪmɪˈnjuːʃn] *n.* 减少
+
+> The population has significantly **diminished** because of the war.
+> 因为战争，人口数量明显地减少了很多。
+
+> The company has tried to **diminish** noxious emissions.
+> 那家公司试图减少有毒气体的排放。（noxious [ˈnɒkʃəs] 有毒的）
+
+## 7. 会区分辨别creet，discreet慎重的，有分辨能力的
+
+::: {.etymo}
+学习英语单词时，我们经常会因为单词拼写相像而混淆。这其中就包括discreet和discrete这两个词，由于这两个单词的词源相同，所以拼写也十分相似。单词discreet由其词源义“人能区分这个是什么那个是什么”，发展成了“慎重的、有分辨能力的”，而discrete指的则是物品或
+:::
+
+<!-- p.405 -->
+
+者事件各自“被分离的，被区分的”。因为这两个单词很容易混淆，只要记住一个词尾有e，而另一个词尾无e，且无e的discreet是“慎重的”意思，就可以很容易区分了！
+
+- **discreet** [dɪˈskriːt] *adj.* 慎重的，有分辨能力的 =prudent, judicious
+- **discretion** [dɪˈskreʃn] *n.* 谨慎；随意处理
+- **discrete** [dɪˈskriːt] *adj.* 不连续的，分离的 =separate, distinct
+- **discreteness** [dɪˈskriːtnɪs] *n.* 不连续性，离散性
+
+> Though he is young, he is **discreet**.
+> 尽管他很年轻，但很谨慎。
+
+> The universe is composed of **discrete** bodies.
+> 整个宇宙由分离的天体构成。
+
+> Use your **discretion** in this matter and do not discuss it with anyone.
+> 你随意处理这件事，不要再和任何人讨论。
+
+**Voca Map**
+- discreet 慎重的，有分辨能力的
+  - ↓
+  - discretion 谨慎，随意处理
+- discrete 不连续的，分离的
+  - ↓
+  - discreteness 不连续性，离散性
+
+## 8. 可能性may变没dis-的话，dismay使惊慌，使沮丧
+
+<!-- 插图：两人面对电脑屏幕神情沮丧 -->
+
+::: {.etymo}
+了解词义之后，你会发现dismay是一个很有趣的单词。首先大家都知道may这个单词吧？单词may是表示“可能”的助动词。可能性possibility为50比50的时候就用may来表示。但是如果连一半的可能性都不到的话就是dismay了。同学们想一下连一般的可能性都达不到的情况，那该得多多么失望啊？这就是dismay。dismay不仅可以用作动词，还可以用作名词，是“惊慌，失望”的意思，大家要一起记住哦！
+:::
+
+- **dismay** [dɪsˈmeɪ] *vt.* 使惊慌，使沮丧 =embarrass, disappoint
+  *n.* 惊慌，失望 =bewilderment
+  - to one's dismay 令人惊慌的是
+  - stare in dismay 绝望地盯着
+  - dismayed at the cost of repairs 震惊于修理的费用
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“to one's + 感情名词”应该翻译为“令某人……”：
+to my happiness令我开心
+to my sadness令我伤心
+to my embarrassment令我惊慌，令我为难
+to my dismay（对某些不好的事情觉得吃惊）令我失望、令我沮丧
+:::
+
+> The poor election turnout **dismayed** politicians.
+> 选举投票人数很少，这让政客们很沮丧。
+> （turnout [ˈtɜːnˌaʊt] 到场人数，投票人数）
+
+> Much to his **dismay**, he failed to pass the exam.
+> 令他更沮丧的是，他没有通过这次考试。
+
+<!-- p.406 -->
+
+## 9. 稀稀落落 perse 地散开 dis-, disperse 散开，解散
+
+::: {.etymo}
+形容词 dense 密集的反义词是 sparse 稀落的。在 perse 前加上前缀 dis- 分离，脱离所形成的词汇就是 disperse。因此，disperse 的词义就从词源义“（聚集起来的东西）疏散开来”变成了“解散”。单词 disperse 有一个与之关系非常密切的同义词，就是 dissipate。两个单词都是以前缀 dis- 开头的，因此只要看到表示“分离，脱离”的前缀就能推断单词的词义与“散开”相关。
+:::
+
+**Voca Map**
+- dense 密集的 $\leftrightarrow$ sparse 稀落的
+  - dense $\downarrow$ condense 浓缩，精简
+  - sparse $\downarrow$ disperse 散开，解散
+
+- **disperse** [dɪ'spɜ:s] *v.* 散开，解散 = scatter, dissipate
+  - disperse the crowd 驱散人群
+  - the leaves dispersed by the wind 树叶被风吹散了
+- **dispersion** [dɪ'spɜ:ʃn] *n.* 散布
+
+> Police used tear gas to **disperse** the demonstrators.
+> 警方用催泪弹驱散游行者。
+
+> Once the ambulance had left, the crowd began to **disperse**.
+> 救护车一离开，人群就散了。
+
+---
+
+## 10. 切开 dis- 弄断 sect，dissect 剖析；分析
+
+<!-- 插图：人物在仔细翻查分析一堆材料，气泡：“选举的结果要仔细的 dissect 分析” -->
+
+::: {.etymo}
+就像左图所示，dissect 的“剖析”之义源于其词源义“切开，弄断”。其实表示“切开 cut”之义的 sect 是一个非常重要的词根。我们来看几个例子吧！section 的词义“分割，区域”源于其词源义“切开的东西”，bisect“二等分”的意思也源于其词源义“分成两半”，insect“昆虫”的意思同样源于其词源义“身体等分成三份（头部、胸部、腹部）”。单词 dissect 除了有“剖析”的意思外，还有“分析”的意思。比如，“剖析选举结果”就是“仔细挖掘分析”的意思。
+:::
+
+- **dissect** [dɪ'sekt] *vt.* ① 剖析 = anatomize ② 分析 = analyze, break down
+  - dissect a frog 解剖青蛙
+  - dissect the result of the election 剖析选举结果
+- **dissection** [dɪ'sekʃn] *n.* 解剖；仔细分析
+- **section** ['sekʃn] *n.* 部分；章节
+- **bisect** [baɪ'sekt] *vt.* 平分
+- **insect** ['ɪnsekt] *n.* 昆虫
+
+<!-- p.407 -->
+
+> The specimen was carefully **dissected** and examined under a microscope.
+> 仔细地解剖标本后，用显微镜进行检查。
+> （specimen [ˈspesɪmən] *n.* 标本、样本）
+
+> The book **dissects** historical data to show how Napoleon ran his army.
+> 为了说明拿破仑对军队的管理方法，那本书列举并分析了历史数据。
+
+## 单词回顾
+
+::: {.etymo}
+1. 星星在远方坠落后发生的事情
+   → 灾难，灾害 ______
+2. “关上”的反义词
+   → 阐明，公开 ______
+3. 变松
+   → 使溶解，使溶化 ______
+4. 劝说别人不要做某事
+   → 劝阻 ______
+5. 将其变得完全无秩序的
+   → 妨碍 ______
+6. 渐渐分开
+   → 缩减，减少 ______
+7. 会区分辨别
+   → 慎重的，有分辨能力的 ______
+8. 可能性变没的话
+   → 使惊慌，使沮丧 ______
+9. 稀稀落落地散开
+   → 散开，解散 ______
+10. 切开，弄断
+    → 剖析；分析 ______
+:::
+
+> **答案** 1. disaster 2. disclose 3. dissolve 4. dissuade 5. disturb 6. diminish 7. discreet 8. dismay 9. disperse 10. dissect
+
+<!-- p.408 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. disclose ______
+2. dissolve ______
+3. disturb ______
+4. diminish ______
+5. discreet ______
+6. dissect ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 我们应该做好应对**灾难** ______ 的准备。
+2. **公开** ______ 凶手的长相和名单。
+3. 我读书的时候请你不要**妨碍** ______ 我。
+4. 那家公司的收益正在**慢慢减少** ______。
+5. 他是一个公私分明、**慎重的** ______ 人。
+6. **真令人失望** ______，我被她甩了。
+7. 警察一到，群众就**散开** ______ 了。
+8. **解剖** ______ 尸体，查明死因。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The thief fled when he was **disturbed** by a neighbor.
+   A. dispersed
+   B. hindered
+   C. perturbed
+
+2. ______ the tablet in water.
+   A. Solve
+   B. Dissolve
+   C. Resolve
+
+3. These drugs **diminish** blood flow to the brain.
+   A. reduce
+   B. dwindle
+   C. induce
+
+4. We use a special computer program to ______ all the sales figures.
+   A. dissipate
+   B. bisect
+   C. dissect
+
+---
+
+## 本日词汇速查（32 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [disaster]{.headword} | dɪˈzɑːstə | n | ① 灾难，灾害 =calamity, catastrophe ② 巨大的失败 =fiasco |
+| [disastrous]{.headword} | dɪˈzɑːstrəs | adj | 灾难性的 |
+| [disclose]{.headword} | dɪs'kləʊz | vt | 阐明，公开=reveal, divulge |
+| [disclosure]{.headword} | dɪs'kləʊʒə | n | 揭发，败露 |
+| [dissolve]{.headword} | dɪ'zɒlv | vt | 使溶化，使溶解 |
+| [dissolution]{.headword} | dɪsə'luːʃn | n | 溶解；取消 |
+| [dissolute]{.headword} | 'dɪsəluːt | adj | 放荡的，放纵的 |
+| [resolve]{.headword} | rɪ'zɒlv | vt | ①解决；②表决 |
+| [resolution]{.headword} | rezə'luːʃn | n | 决心，决定；解决，决议 |
+| [resolute]{.headword} | 'rezəluːt | adj | 坚决的，果断的 ↔ irresolute 犹豫不决的 |
+| [dissuade]{.headword} | dɪˈsweɪd | vt | （说服）劝阻 |
+| [dissuasion]{.headword} | dɪˈsweɪʒən | n | 劝止 |
+| [persuade]{.headword} | pəˈsweɪd | vt | 说服，劝说 |
+| [persuasive]{.headword} | pəˈsweɪsɪv | adj | 有说服力的 |
+| [disturb]{.headword} | dɪˈstɜːb | vt | ①妨碍=hinder ②使（心）变得不安=upset |
+| [disturbance]{.headword} | dɪˈstɜːbəns | n | 扰乱，打扰；骚乱 |
+| [disturbed]{.headword} | dɪˈstɜːbd | adj | 有心理疾病的；不安的 |
+| [diminish]{.headword} | dɪˈmɪnɪʃ | vi. & vt | 减少，缩减 =reduce, dwindle |
+| [diminutive]{.headword} | dɪˈmɪnjʊtɪv | adj | 小的 |
+| [diminution]{.headword} | ˌdɪmɪˈnjuːʃn | n | 减少 |
+| [discreet]{.headword} | dɪˈskriːt | adj | 慎重的，有分辨能力的 =prudent, judicious |
+| [discretion]{.headword} | dɪˈskreʃn | n | 谨慎；随意处理 |
+| [discrete]{.headword} | dɪˈskriːt | adj | 不连续的，分离的 =separate, distinct |
+| [discreteness]{.headword} | dɪˈskriːtnɪs | n | 不连续性，离散性 |
+| [dismay]{.headword} | dɪsˈmeɪ | vt | 使惊慌，使沮丧 =embarrass, disappoint |
+| [disperse]{.headword} | dɪ'spɜ:s | v | 散开，解散 = scatter, dissipate |
+| [dispersion]{.headword} | dɪ'spɜ:ʃn | n | 散布 |
+| [dissect]{.headword} | dɪ'sekt | vt | ① 剖析 = anatomize ② 分析 = analyze, break down |
+| [dissection]{.headword} | dɪ'sekʃn | n | 解剖；仔细分析 |
+| [section]{.headword} | 'sekʃn | n | 部分；章节 |
+| [bisect]{.headword} | baɪ'sekt | vt | 平分 |
+| [insect]{.headword} | 'ɪnsekt | n | 昆虫 |
+

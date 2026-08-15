@@ -1,0 +1,365 @@
+# Day 36 · 刮风是blow，小鸟扑腾是flap {.unnumbered}
+
+::: {.root-banner}
+Day 36 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p316–p323
+
+<!-- p.301 -->
+
+一只大雁wild goose在水面上拍打着翅膀，试图飞起来。鸟儿摆动翅膀的话，会煽起风来吧？今天我们要学习的是跟flap拍打和blow刮风相关的词汇。来，让我们一起来看一下会有哪些单词出场呢？
+
+<!-- 插图：大雁在水面上拍打翅膀试图飞起 -->
+
+**Voca Map：blow 刮风**
+- **blow** 刮风
+  - **blast** ① 狂风 ② 爆炸
+  - **breeze** ① 微风 ② 容易的事
+  - **bloated** 膨胀的、肿胀的
+  - **blizzard** ① 暴风雪 ② 狂奔
+
+**Voca Map：flap 拍打（翅膀）**
+- **flap** 拍打（翅膀）
+  - **flag** 旗帜；突然垂下
+  - **flabby** ①（肌肉）松垮的 ② 没有力气的，软弱的
+  - **flip**（突然）投出去
+  - **flop** 扑通倒下；扑通落下
+
+<!-- p.302 -->
+
+## 1. 刮风 blow 刮风，用嘴吹风
+
+::: {.etymo}
+深吸inhale一口气后试着吐出来，这里联想到的单词就是blow。blow the balloon的意思是“吹气球”，blow in the wind的意思是“迎风飘扬”。根据具体语境的不同，它既可以用作不及物动词也可以用作及物动词。同学们一定要记住跟blow in the wind相关的两种表达方式。一是blow up炸毁。当爆炸explosion的时候，风就会呼呼地吹起来，由此出现的词组就是blow up。二是blow one's mind，意思是“往某人的脑袋里吹风”，即“使某人兴奋”。最后，blow用作名词，是“猛击，击打力”的意思，它与动词“刮风”之间没有任何关系的同音异义词。
+:::
+
+- **blow** [bləu] *vi. & vt.* 刮风，(用嘴)吹风
+  - *n.* 猛击，击打力 = strike
+  - blow up ①充气 ②引爆
+  - blow one's nose 擤鼻子
+  - blow one's mind 让人大吃一惊
+
+::: {.mnemonic}
+**温馨小贴士**
+
+词组“blow one's own trumpet”本义是“吹自己的喇叭”，比喻义为“王婆卖瓜，自卖自夸”。
+:::
+
+> The terrorists are threatening to **blow up** the plane.
+> 恐怖分子威胁说会引爆飞机。
+
+> Seeing her again really **blew my mind**.
+> 再次看到她，实在让我很吃惊。
+
+> Don't **blow your own horn**.
+> 不要自吹自擂。
+
+## 2. 刮猛烈的风 blast 狂风；爆炸
+
+::: {.etymo}
+单词blow和blast的发音有些相似吧？不过，很明显evidently与blow相比blast的发音更强，词义更强。也就是说，从blow发展而来的“刮猛烈的风”的单词就是blast狂风。另外，在发生爆炸explosion的时候，也会引起大风，因此，blast的第二个词义就是“爆发”。
+:::
+
+<!-- 插图：爆炸产生的巨大烟雾 -->
+
+- **blast** [blɑːst] *n.* ①狂风 = gust ②爆发 = explosion
+  - *v.* 爆破，发射，引爆 = burst, explode
+  - at full blast 处于旺盛时期
+  - blast her husband with a shotgun 用短枪打死了她的丈夫
+  - the blast of a huge epidemic 大型疫情的爆发
+
+<!-- p.303 -->
+
+> The **blast** was heard three miles away.
+> 爆炸声三里以外都能听到。
+
+> The plane was **blasted** out of the sky by a terrorist bomb.
+> 飞机在空中被恐怖分子的炸弹引爆了。
+
+> A bomb **blast** completely destroyed the government building.
+> 炸弹炸毁了政府大楼。
+
+## 3. 风一下子吹进去 bloated 膨胀的、肿胀的
+
+<!-- 插图：体型肥胖臃肿的人 -->
+
+::: {.etymo}
+从 **blow** 发展而来的第三个单词就是 **bloated**。对 **bloated** 拆分进行词源分析，即：bloa吹+—（t）ed被……的，其义为“膨胀的”。不难看出，词根 bloa 来源于 blow。而从某些组织 organization 渐渐“膨胀变大”又让人不由自主地联想到“机构臃肿的”、“人浮于事的”抽象性 abstract 意义。
+:::
+
+- **bloated** [ˈbləʊtɪd] *adj.* ①膨胀的，肿胀的 = swollen ②（肚子）像要炸开了一样；（组织）臃肿的，人浮于事的
+  - a bloated estimate 过高的估计
+  - her bloated vanity 她不断膨胀的虚荣心
+
+> I feel **bloated**.
+> 我感觉很饱胀。
+
+> I feel really **bloated** after that meal.
+> 饭后我感觉很饱胀。
+
+> the **bloated** government bureaucracy
+> 臃肿的官僚政府
+> （bureaucracy [ˌbjʊəˈrɒkrəsi] 腐败）
+
+## 4. 轻轻吹动的风 breeze 微风、和风；容易的事儿
+
+::: {.etymo}
+还有一个与 **blow** 刮风相关的词，那就是 **breeze** 微风、和风。所谓微风，就是指轻轻吹来的风。随着感觉试着发一下 **breeze** 的音！发 **blast** 时，是比较强的音，而 **breeze** 则是很轻的发音。**breeze** 常以“be a breeze 是一件容易的事儿”的形式出现！
+:::
+
+<!-- 插图：微风吹拂，情侣在风中散步 -->
+
+<!-- p.304 -->
+
+- **breeze** [bri:z] *n.* ①微风，和风 ②容易的事儿 = cinch
+  - be a breeze 很简单，很容易
+  - leaves waving in the breezes 树叶在微风中挥动
+  - It is a breeze! = It's a piece of cake. 很容易，小菜一碟。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+blast 的发音很强，所以指的是 →（强烈的）狂风
+breeze 的发音很轻，所以指的是 →（轻轻的）微风
+:::
+
+> Her hair was gently swaying in the **breeze**.
+> 她的秀发在微风中轻轻飘动。
+
+> Don't think that learning Dutch will be a **breeze**.
+> 不要认为学习荷兰语很简单。
+
+> There is nothing to it. It'll be a **breeze**.
+> 没什么大不了的，很容易的。
+
+## 5. 强烈的风 blizzard 暴风雪，狂奔
+
+<!-- 插图：暴风雪中的小屋 -->
+
+::: {.etymo}
+跟blow相关的最后一个单词是blizzard。那些经常玩游戏的人也许会想：“呃！这个单词好像在哪儿见过……。” Blizzard 就是制作“星际争霸”游戏的公司。blizzard暴风雪指的是下暴雪heavy snow、刮大风的天气状况。在这里是比喻figuratively“狂奔，蜂拥而至”。就像大“暴雪”狂舞一样，大家能联想到“非难，咒语”横行的情况吧？这层意思同样适用于flood洪水，deluge大洪水，avalanche雪崩。
+:::
+
+- **blizzard** ['blizəd] *n.* ①暴风雪，暴雪 ②蜂拥而至，横行 = flood, deluge, avalanche
+  - get stuck in a blizzard 困在暴风雪中
+  - a blizzard of emails 接连不断的邮件
+
+> Two climbers are missing after yesterday's **blizzard**.
+> 昨天，暴风雪过后，两个登山者失踪了。
+
+> The prestigious university received a **blizzard** of applications.
+> 这所有声望的大学接到了很多入学申请。
+> （prestigious [pre'stidʒəs] *a.* 有名望的，有威信的）
+
+## 6. 鸟儿扇动翅膀 flap 扇动翅膀
+
+<!-- 插图：水面上扇动翅膀的水鸟 -->
+
+::: {.etymo}
+大家知道吗？汉语中的“喵喵、呱呱”等词称为拟声词。英语也跟汉语一样，有很多拟声词。比如，羊叫的声音meow meow [mɪ'au]，牛叫的声音moo moo [mu:]，狮子
+:::
+
+<!-- p.305 -->
+
+咆哮的声音roar [rɔː]，狗吠的声音bark [bɑːk]。鸟儿扇动翅膀的声音用英文表示，即flap，词义当然是“扇动（翅膀）”。不用死记硬背，你就能自然而然地记住吧？
+
+- **flap** [flæp] *v.* 扇动（翅膀），拍打（羽毛）
+  *n.* （信封或口袋上挂着的薄薄的）盖口；（心里轻微的）动摇，兴奋 = excitement
+  - the flag flapping in the breeze 旗子在微风中飘扬
+  - flap arms to keep warm 活动胳膊以保持温暖
+
+> The big ship's sails **flapped** in the wind.
+> 大轮船的船帆在风中拍动。
+
+> My sister is in a bit of **flap** over the wedding plans.
+> 我妹妹对结婚计划有点慌乱。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+bark ①狗叫 ②高喊
+howl 狼叫
+growl 嚎叫
+glut ①咕嘟咕嘟吞咽的声音 ②（供给）过多，供过于求
+quack ①嘎嘎的声音 ②（呱呱叫的）庸医；无牌医生
+grumble 抱怨，发牢骚（喃喃自语）
+mumble 喃喃而语
+rumble 远处传来的隆隆声
+rustle （树叶）沙沙作响
+titter 嗤嗤地笑
+trickle （水）潺潺流淌；徐徐地流
+:::
+
+## 7. 跟 flap 长相相似的单词 flag 旗，旗帜；突然下垂
+
+::: {.etymo}
+将flap的辅音“p”换成“g”后的单词就是flag。像鸟儿扇动翅膀一样，旗帜也可以随风招展。flap和flag几乎没什么差别。不过flag还有动词的用法。flag作动词是“突然下垂”的意思，想象一下旗帜不随风飘扬下垂的样子就可以了！
+:::
+
+<!-- 插图：船桅上的英国国旗 -->
+
+- **flag** [flæɡ] *n.* 旗，旗帜 = ensign *vi.* 突然下垂 = droop
+  - a red flag 一面红旗
+  - a Chinese flag 一面中国国旗
+- **flagging** [flæɡɪŋ] 衰弱的，萎靡的 = flaccid
+
+::: {.mnemonic}
+**温馨小贴士**
+
+flag（突然下垂）的形容词是“flagging”，是“停滞”的意思。大家要记住它哦。大家要记住 flagging 的意思是“停滞”哦！
+:::
+
+> The **flag** waves in the wind.
+> 旗子在风中飘动。
+
+> The government has struggled to revive the **flagging** economy.
+> 政府正努力复兴萎靡的经济。
+
+## 8. flap 变化元音后形成的单词 flip 突然转动
+
+<!-- 插图：两人在掷硬币猛的抛向空中 -->
+
+::: {.etymo}
+将flap的元音a换成i后得到的单词就是flip。这个单词很有意思，它源于鸟儿扇动着翅膀突然转动的样子，即flip突然转动。flip有一个很有名的表达，flip a coin扔硬币决定。观察左图，你发现了什么？是的，他们在扔硬币
+:::
+
+<!-- p.306 -->
+
+flip a coin做决定decision。源于flip的还有一个稍微难的单词flippant轻率的。未经谨慎考虑就胡乱说话、胡乱行动的样子就是flippant。按照这个顺序学习是不是觉得有意思多了呢？
+
+- **flip** [flɪp] *vi. & vt.* 突然转动 *n.* 空中倒立
+  - flip a coin 抛硬币
+- **flippant** [ˈflɪpənt] *adj.* 轻率的；无礼的
+  - a rather flippant remark 相当玩世不恭的言论
+
+> She **flipped** the lid of the box open and looked inside.
+> 她突然翻开了箱盖儿，看了看里面。
+
+> We **flipped** a coin to see who would go first.
+> 我们抛硬币决定谁先来。
+
+## 9. 由 flag 变形而来的单词 flabby 肌肉松垮的；贫弱的，虚弱的
+
+<!-- 插图：体态丰满/松弛背影照 -->
+
+::: {.etymo}
+前面我们学习flap变为flag时，已经提到过flag的动词是“突然下垂”的意思。接下来我们要讲的单词是flabby。最近，肥胖症obesity已经成为一个严重的社会问题，如果身体赘肉过多，肚子凸起来的话，就算是flabby的状态了。拆分该词进行词源分析，即为：flab（b）突然下垂＋-y形容词结尾词，其义为“（因为长肉）晃荡，（肌肉）下垂”。想象一下，如果因为赘肉太多肌肉muscle消失后，是不是自然就会出现“贫弱，虚弱”的状态？
+:::
+
+- **flabby** [ˈflæbɪ] *adj.* ① (因为长肉) 晃荡，(肌肉) 松垮 ② 贫弱的，虚弱的 = weak
+  - his daughter playfully poked at his flabby belly 他女儿顽皮地戳着他松松软软的肚囊
+  - intellectually flabby argument 很理性的、软弱无力的争执
+
+> Her body was getting old and **flabby**.
+> 上了年纪后，她的皮肤越来越松弛。
+
+> The band's performance was boring and **flabby**.
+> 那个乐队的表演既让人乏味，又很差劲。
+
+<!-- p.307 -->
+
+## 10. 突然一屁股坐到地上时发出来的声音 flop 扑通倒下，扑通坐下
+
+::: {.etymo}
+试着想一下：在公司忙了一天回到家后累得一屁股坐到客厅沙发上的情景，身体倒在沙发上。描述这一动作的单词就是 flop。所以 flop 的意思是“一屁股坐在椅子上，一下子躺在床上”；flop 还有“失败 failure”的意思！知道考试结果后，某同学一屁股坐在地上的话，一般我们会猜测他肯定考试没通过。大家不要忘了，flop 扑通倒下，扑通坐下也是拟声词哦！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家记住，人字拖叫做 flip-flop 哦！
+:::
+
+- **flop** [flɒp] *vi.* 扑通坐下，扑通一声倒下；*n.* 失败 = failure
+  - flop down onto the bed 重重地倒在床上
+  - a complete flop of the performance 彻底失败的表演
+
+> He **flopped** down into a chair.
+> 他重重地坐在椅子上。
+
+> I heard the movie is a **flop** at the box office.
+> 我听说这个电影票房惨淡。
+
+## 单词回顾
+
+1. 刮风
+   - 刮风，(用嘴)吹风 ______
+2. 猛烈的风
+   - 狂风；爆炸 ______
+3. 风一下子吹进去
+   - 膨胀的，肿胀的；(组织) 臃肿的 ______
+4. 轻轻吹动的风
+   - 微风，和风；容易的事儿 ______
+5. 强烈的风
+   - 暴风雪，狂奔 ______
+6. 鸟儿扇动翅膀的声音
+   - 扇动翅膀 ______
+7. 跟 flap 长相相似的单词
+   - 旗，旗帜；突然下垂 ______
+8. flap 的元音变化后形成的单词
+   - 突然转动 ______
+9. 由 flag 变形而来的单词
+   - 肌肉松垮的；贫弱的，虚弱的 ______
+10. 突然一下子坐到地上时发出来的声音
+    - 扑通倒下，扑通坐下 ______
+
+答案 1. blow 2. blast 3. bloated 4. breeze 5. blizzard 6. flap 7. flag 8. flip 9. flabby 10. flop
+
+<!-- p.308 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. blast ______
+2. bloated ______
+3. breeze ______
+4. flip ______
+5. flabby ______
+6. flop ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 很多人在未意料到的**爆炸** ______ 事故中丧生了。
+2. 应该简化那些**臃肿的** ______ 公司组织。
+3. **微风** ______ 让我的心情变得很好。
+4. 我们穿过**暴风雪** ______ 继续前行。
+5. 树枝一下子**垂了下来** ______。
+6. 我们**扔硬币决定** ______ 吧！
+7. 没有必要听他**微弱的** ______ 主张。
+8. 我太累了，**一屁股坐在了椅子上** ______。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. I can't cover up my ______ belly anymore.
+   A. flabby    B. comely    C. frail
+
+2. His new book is a complete **flop**.
+   A. blunder    B. prosperity    C. failure
+
+3. Fortunately, no one was wounded in the **blast**.
+   A. expulsion    B. explosion    C. exhibition
+
+4. Flags are waving in the **breeze**.
+   A. soft wind    B. strong wind    C. violent wind
+
+---
+
+## 本日词汇速查（12 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [blow]{.headword} | bləu | vi. & vt | 刮风，(用嘴)吹风 |
+| [blast]{.headword} | blɑːst | n | ①狂风 = gust ②爆发 = explosion |
+| [breeze]{.headword} | bri:z | n | ①微风，和风 ②容易的事儿 = cinch |
+| [bloated]{.headword} | ˈbləʊtɪd | adj | ①膨胀的，肿胀的 = swollen ②（肚子）像要炸开了一样；（组织）臃肿的，人浮于事的 |
+| [blizzard]{.headword} | 'blizəd | n | ①暴风雪，暴雪 ②蜂拥而至，横行 = flood, deluge, avalanche |
+| [flap]{.headword} | flæp | v | 扇动（翅膀），拍打（羽毛） |
+| [flag]{.headword} | flæɡ | n | 旗，旗帜 = ensign *vi.* 突然下垂 = droop |
+| [flabby]{.headword} | ˈflæbɪ | adj | ① (因为长肉) 晃荡，(肌肉) 松垮 ② 贫弱的，虚弱的 = weak |
+| [flip]{.headword} | flɪp | vi. & vt | 突然转动 *n.* 空中倒立 |
+| [flop]{.headword} | flɒp | vi | 扑通坐下，扑通一声倒下；*n.* 失败 = failure |
+| [flagging]{.headword} | flæɡɪŋ |  | 衰弱的，萎靡的 = flaccid |
+| [flippant]{.headword} | ˈflɪpənt | adj | 轻率的；无礼的 |
+

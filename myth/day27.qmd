@@ -1,0 +1,372 @@
+# Day 27 · 知道是 gno, not, sci {.unnumbered}
+
+::: {.root-banner}
+Day 27 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p239–p247
+
+<!-- p.224 -->
+
+<!-- 插图：科学家在显微镜旁思考 -->
+
+大家都知道本书是为了让大家能够轻松有趣、准确地掌握英语而编写的书。汉字中具有“知道，了解”之义的词非常多。或许因为“知道”非常重要，所以英语中义为“知道know”的词根就有三个。接下来让我们一起来了解含有“知道”之义的“gno，not，sci”这三个词根吧。
+
+**Voca Map：gno, not, sci 是 know**
+
+- re-再次 + co-强调 + gn(o)知道(know) + -ize动词后缀 → （反复地）明确地知道 → recognize 识别、承认
+- co-强调 + gn(i)知道(know) + -zant形容词后缀 → 明确地知道 → cognizant 察知的，认识（某事物）的
+- dia-强调 + gno知道(know) + -se动词后缀 → 准确地了解 → diagnose 诊断、判断
+- pro-向前 + gno知道(know) + -sis名词后缀 → 提前知道的 → prognosis 预测，预知
+- not知道(know) + -ice名词后缀 → 被告知的 → notice 布告，通知、注意到
+- not知道(know) + -ify使 → 告知 → notify 通知、布告
+- not知道(know) + -ed成为 → 被……所知道 → noted 著名的，闻名的
+- not知道(know) + -or名词后缀 + -ious形容词后缀 → （不好的方面）有名声 → notorious 臭名昭著的，声名狼藉的
+- con-强调 + sci知道(know) + -ious形容词后缀 → 明确地知道的 → conscious 有意识的，有意的
+- con-强调 + sci知道(know) + -ence名词后缀 → （自然而然地）明确地知道 → conscience 良心，道德心
+
+<!-- p.225 -->
+
+## 1. 反复 re- 明确地 co- 知道 gn (o)，recognize 认出；识别；认证
+
+<!-- 插图：两人对话，一人说“哇，你的发型不错啊！”，另一人说“我，哼！现在好好确认下吧！” -->
+
+::: {.etymo}
+与一个人只见过一次面，就能认定“那个人真不错”吗？当然不太可能。想要对一个人做出客观评价，需要长时间与之来往才可以。也就是说，只有“反复明确地了解那个人”才能认可该人。与这种情况相对应的英语单词是 recognize。其词源义为“反复明确地知道”，也就是“认出；识别；认证”的意思。
+:::
+
+- **recognize** [ˈrekəɡnaɪz] *vt.* 1. 认出，识别 = notice 2. 承认，确认 = acknowledge formally
+  - recognize the odor at once 立即辨别出气味
+  - a recognized leader in the field 在该领域公认的领导者
+- **recognition** [ˌrekəɡˈnɪʃn] *n.* 识别，认识；承认，认可
+- **recognizable** [ˌrekəɡˈnaɪzəbl] *adj.* 可识别的，可认识的，可承认的
+
+> I hardly **recognize** you with those glasses.
+> 你戴着眼镜，我都没认出你来。
+
+> I didn't **recognize** you at first with your new haircut.
+> 你换了新发型，我没能一眼认出你。
+
+> British medical qualifications are **recognized** in many countries.
+> 英国的医师执照在很多国家都得到认可。
+
+## 2. 明确地 co- 知道 gn (i)，cognizant 理解的，认识到的
+
+::: {.etymo}
+单词 recognize 认出；识别；认证，若去掉前缀 re 就变成了 cognize。cognize 的形容词形式是 cognizant。它由词源义“明确地知道”引申为“已认知的”意思。不过它可不是“模模糊糊地知道”，而是“明确地了解、知道”，所以也就是“已认知的，知道的”意思。
+:::
+
+- **cognizant** [ˈkɒɡnɪzənt] *adj.* 理解的，认识到的 = aware, conscious, mindful
+  - be cognizant of 认识到……
+  - cognizant of the details of the contract 知道合同的细节
+- **cognizance** [ˈkɒɡnɪzəns] *n.* 认识，审理，认定
+- **cognizable** [ˈkɒɡnɪzəbl] *adj.* 可辨识的，可以审理的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+cognition 是心理学用语，用于正式场合时，是“认识，认知”的意思。而含有“认识，认出；正式承认，获官方认可”之义的 recognition 在日常生活中使用的频率和领域更为广泛。
+:::
+
+<!-- p.226 -->
+
+> The lawyer was **cognizant** of the peculiarities of the case.
+> 律师清楚地知道这个诉讼案件的特殊之处。
+
+> I'm **cognizant** of the fact that your client has tried to pay the debt.
+> 我知道你的诉讼委托人打算还清那笔债。
+
+## 3. 明确地 dia- 了解 gno，diagnose 诊断，判断
+
+<!-- 插图：医生用听诊器给病人看病 -->
+
+::: {.etymo}
+大家都有因病而去医院 hospital 的经历吧？右图中，医生一会儿让病人把嘴张开，一会儿又让病人把眼睛睁大，还会再看看耳朵里面，甚至还会把听诊器 stethoscope 贴在病人胸前。这种了解病人 patient 哪里不舒服、如何不舒服的过程就是“诊断”，用英语说是 diagnose。diagnose 由其词源义“明确地了解”引申为“诊断”之义。diagnose 不仅可用于了解患者的病情，还可以广泛地 extensively 用于社会问题 social problem 等抽象问题上。
+:::
+
+- **diagnose** [ˈdaɪəɡnəʊz] *vt.* 诊断，判断
+  - diagnose the patient (problem) 诊断患者（问题）
+  - be diagnosed with flu epidemic 被诊断为流感
+- **diagnosis** [ˌdaɪəɡˈnəʊsɪs] *n.* 诊断
+
+> My mother was **diagnosed** with cancer.
+> 我母亲被诊断为癌症。
+
+> The test is used to help in **diagnosing** heart disease.
+> 该测试有助于心脏病的诊断。
+
+> Programmers **diagnosed** the problem as a computer virus.
+> 程序员将这个问题诊断为电脑病毒。
+
+## 4. 提前 pro- 知道 gno 的，prognosis 预知，预测
+
+::: {.etymo}
+稀世预言家 prophet 诺查丹玛斯 Nostradamus 因预言言中了世上很多事情而出名 famous，他有着出众的预知未来的能力。“预知”用汉字来解读就是“提前知道”的意思，对应的英语单词为 prognosis。prognosis 由其词源义“提前知道”引申为“预知，预测”。需要大家注意的是，prognosis 多用于比较正式 formal 的表达。
+:::
+
+- **prognosis** [prɒɡˈnəʊsɪs] *n.* 预知，预测，预后 = prediction, prophecy, forecasting
+  - a hopeful prognosis of the country's economy 对国家经济的乐观预测
+- **prognosticate** [prɒɡˈnɒstɪkeɪt] *v.* 预言，预示
+
+<!-- p.227 -->
+
+> Doctors say his **prognosis** is good, and his family expect a full recovery.
+> 医生说他会好起来，他的家人期待着他完全康复。
+
+> The report's **prognosis** for unemployment was very pessimistic.
+> 这份报告对失业的预测非常悲观。（pessimistic [ˌpesɪˈmɪstɪk] 悲观的 ↔ optimistic [ˌɒptɪˈmɪstɪk] 乐观的）
+
+## 5. 告知的 not 是 notice 布告，通知；注意到
+
+<!-- 插图：写着 POLITE NOTICE PRIVATE PROPERTY NO PARKING ON THE PAVEMENT! 的告示牌 -->
+
+::: {.etymo}
+词根gno知道（know）中的“g”不发音而产生的词根是not。所以，词根not和gno都是“知道know”的意思。我们要学的与not相关的第一个单词是notice，其词源义为“告知的”，多用作“布告，通知”。虽然notice本身是名词，但由于使用频率高，在使用过程中又产生了动词性词义“注意到”。
+:::
+
+- **notice** [ˈnəʊtɪs] *n.* 布告，通知
+  *vt.* 注意到 = recognize, detect
+  - take notice of 注意到，在意，理睬
+  - notice the smoke 注意到烟雾
+- **noticeable** [ˈnəʊtɪsəbl] *adj.* 显而易见的，明显的，显著的 = marked, salient
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请注意notice既可用作名词，也可用作动词！
+notice anything different about her hair 注意到她的头发有些不同
+:::
+
+> **Notices** were sent to parents about the school trip.
+> 有关游学旅行的通知已经发给家长了。
+
+> I **noticed** that her hands were shaking.
+> 我注意到她的双手在颤抖。
+
+## 6. 让 -ify 知道 not 的，notify 告知，通知
+
+::: {.etymo}
+如果说前文我们所学的notice是“通知，布告”之义，那么notify就是在其词源义“告知”的基础上形成的“告知，通知”的意思。这里需要大家记住的是：后缀-ify是“使make”的意思，是使用频率高，构词能力强的后缀之一。譬如，magnify是“做大”，即“放大”的意思；而magnifying glass是“放大镜”的意思。此外，notify多以惯用句型“notify A of B 告诉A有关B的事实”出现。请大家在背诵该词时，一起将这个句型记住。
+:::
+
+<!-- 插图：员工对老板说“老板，我要辞职了。”，老板心想“应该先告知notify下啊！” -->
+
+<!-- p.228 -->
+
+- **notify** [ˈnəʊtɪfaɪ] *vt.* 告知，通知 = apprise, inform
+  - notify the boss of one's resignation 通知老板要辞职
+- **notification** [ˌnəʊtɪfɪˈkeɪʃn] *n.* 通知，通知单，布告
+
+> Have you **notified** the police?
+> 你告诉警察了吗？
+
+> Police **notified** the boy's parents of his death immediately.
+> 警察立即把孩子的死讯告知了他的父母。
+
+> I was **notified** that I passed the exam.
+> 我被告知通过了考试。
+
+## 7. 被知道not，noted著名的
+
+::: {.etymo}
+如果知道词根not<sub>知道（know）</sub>的话，就会容易地推测出noted的词义。这是因为noted是由词根not加后缀-ed所构成。所以，它由词源义“被知道”引申为“著名的”意思。
+:::
+
+noted也多以惯用句型“be noted for<sub>因……而有名</sub>”使用。右图为闻名noted世界的埃菲尔铁塔the Eiffel Tower。
+
+<!-- 插图：埃菲尔铁塔 -->
+
+- **noted** [ˈnəʊtɪd] *adj.* 著名的，闻名的 = famous, eminent
+  - be noted for 因……而闻名
+  - a noted author 一个著名的作者
+  - be noted for tourist attractions 因旅游景点而出名
+
+> The city is **noted for** its 18th-century architecture.
+> 这个城市因其18世纪的建筑而闻名。
+
+> She is a **noted** scholar specializing in Latin-America literature.
+> 她是一位专攻拉美文学的著名学者。
+
+## 8. （在不好的方面）有声誉not，notorious臭名昭著的
+
+<!-- 插图：小偷漫画，图中有气泡“Notorious ooo 군!” -->
+
+::: {.etymo}
+Hitler<sub>希特勒</sub>是众所周知的大独裁者dictator，而the mafia<sub>黑手党</sub>则是声名狼藉的犯罪组织a crime ring。表达“在不好的方面有名”的英语单词是notorious。notorious中的notor词源义是“名声”，在notor的后面加上后缀-ous，就形成了单词notorious<sub>有名声的</sub>。注意该词主要为“在不好的方面有名，臭名昭著”之义。
+:::
+
+<!-- p.229 -->
+
+- **notorious** [nəʊ'tɔːrɪəs] *adj.* 臭名昭著的，臭名远扬的，声名狼藉的 =infamous
+  - a notorious computer hacker 声名狼藉的电脑黑客
+  - a judge notorious for his cruelty 因残忍而声名狼藉的法官
+- **notoriety** [nəʊtə'raɪɪtɪ] *n.* 恶名，丑名，臭名昭著
+
+> The English soccer fans are **notorious for** their drunkenness and violence.
+> 英国足球迷因醉酒和暴力而声名狼藉。
+
+> The **notorious** criminal has escaped from prison.
+> 臭名昭著的罪犯越狱了。
+
+> He's a **notorious** mastermind of terrorist activities.
+> 他是个臭名昭著的恐怖活动策划者。
+> （mastermind 策划者，操纵者）
+
+## 9. 明确地 con- 知道 sci，conscious 意识到的，知道的
+
+::: {.etymo}
+大家还记得前面所学的cognizant吗？cognizant与我们将要学习的conscious是同义词synonym。因为词根gno与sci都是“know”的意思，所以这两个词自然就是同义词了。conscious主要以惯用句型“be conscious of +名词知道……”、“be conscious that从句知道……”出现。譬如，be conscious of the risk就是“知道那个危险性”的意思。
+:::
+
+- **conscious** ['kɒnʃəs] *adj.* 有意识的，神志清醒的，自觉的 =knowing, aware, mindful
+  - environmentally conscious consumers 具有环保意识的消费者
+  - be conscious of safety 对安全有意识
+- **consciousness** ['kɒnʃəsnɪs] *n.* 意识，观念，知觉
+
+> Is the patient **conscious** yet?
+> 病人现在有意识了？
+
+> I became **conscious** of someone watching me.
+> 我意识到有人在看着我。
+
+## 10. 自己明确 con- 知道 sci 的，conscience 良心
+
+::: {.etymo}
+咒骂语malediction“呸，你这没良心的白眼狼！”这句话是句非常重的骂人话。为什么这么说呢？我们稍分析下良心conscience的词源就可以理解了。人因为有良心的存在，所以在内心里面就可以判断偷别人的东西是不行的，对别人说谎也是不对的。如果没有了良心，那就成了没有能力去判断judgment什么可以做什么不可以做的人。看看，这是多重的骂人话啊！
+:::
+
+<!-- 插图：一个人在严厉斥责另一个人 -->
+
+<!-- p.230 -->
+
+- **conscience** ['kɒnʃəns] *n.* 良心，道德心=scruple
+  - conscience-stricken 内疚的，受良心谴责的
+  - a matter of conscience 道德问题
+- **conscientious** [ˌkɒnʃi'enʃəs] *adj.* 本着良心的，认真负责的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+science（通过人类的知识）可以知道的是 → “科学”
+conscience知道（可以做还是不可以做）→ “良心”
+:::
+
+> He is very **conscientious** about his work.
+> 他对自己的工作负责。
+
+> The student has no **conscience** at all about cheating.
+> 那个学生对自己的作弊行为根本没有悔改之意。
+
+## 单词回顾
+
+::: {.etymo}
+1. 反复明确地知道
+   → 认出；识别；认证 ______
+:::
+
+2. 明确地知道
+   → 理解的，认识到的 ______
+
+3. 明确地了解
+   → 诊断，判断 ______
+
+4. 提前知道的
+   → 预知，预测 ______
+
+5. 告知的
+   → 布告，通知；注意到 ______
+
+6. 让……知道的
+   → 告知，通知 ______
+
+7. 被知道
+   → 著名的 ______
+
+8. (在不好的方面)有名声的
+   → 臭名昭著的 ______
+
+9. 明确地知道
+   → 意识到，知道的 ______
+
+10. 自己明确知道的
+    → 良心 ______
+
+答案 1. recognize 2. cognizant 3. diagnose 4. prognosis 5. notice 6. notify 7. noted 8. notorious 9. conscious 10. conscience
+
+<!-- p.231 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. cognizant `______`
+2. diagnose `______`
+3. prognosis `______`
+4. notify `______`
+5. notorious `______`
+6. conscience `______`
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 我们应该**承认**`______`他的功劳。
+2. 他**很清楚**`______`自己作为老师的责任。
+3. 那个医生正在为患者**做诊断**`______`。
+4. **预测**`______`未来是件困难的事情。
+5. 那个地方以咖啡**而闻名**`______`。
+6. 因秘密交易毒品而**臭名昭著的**`______`组织被抓获了。
+7. 幸运的是他还处于**有意识的**`______`状态。
+8. 人们要**按良心**`______`行事。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. He is **cognizant** of the importance of the case.
+   A. aware
+   B. unconscious
+   C. docile
+
+2. The doctor was unable to `______` the skin condition.
+   A. deceive
+   B. notify
+   C. diagnose
+
+3. One of the most **notorious** criminals has escaped from prison.
+   A. famous
+   B. infamous
+   C. noted
+
+4. The place is `______` for its scenic beauty.
+   A. noted
+   B. notified
+   C. notorious
+
+<!-- p.? -->
+<!-- 本页扫描极度模糊/严重过曝，文字痕迹无法辨识，属空白页或无法识别页 -->
+
+---
+
+## 本日词汇速查（21 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [recognize]{.headword} | ˈrekəɡnaɪz | vt | 1. 认出，识别 = notice 2. 承认，确认 = acknowledge formally |
+| [recognition]{.headword} | ˌrekəɡˈnɪʃn | n | 识别，认识；承认，认可 |
+| [recognizable]{.headword} | ˌrekəɡˈnaɪzəbl | adj | 可识别的，可认识的，可承认的 |
+| [cognizant]{.headword} | ˈkɒɡnɪzənt | adj | 理解的，认识到的 = aware, conscious, mindful |
+| [cognizance]{.headword} | ˈkɒɡnɪzəns | n | 认识，审理，认定 |
+| [cognizable]{.headword} | ˈkɒɡnɪzəbl | adj | 可辨识的，可以审理的 |
+| [diagnose]{.headword} | ˈdaɪəɡnəʊz | vt | 诊断，判断 |
+| [diagnosis]{.headword} | ˌdaɪəɡˈnəʊsɪs | n | 诊断 |
+| [prognosis]{.headword} | prɒɡˈnəʊsɪs | n | 预知，预测，预后 = prediction, prophecy, forecasting |
+| [prognosticate]{.headword} | prɒɡˈnɒstɪkeɪt | v | 预言，预示 |
+| [notice]{.headword} | ˈnəʊtɪs | n | 布告，通知 |
+| [noticeable]{.headword} | ˈnəʊtɪsəbl | adj | 显而易见的，明显的，显著的 = marked, salient |
+| [notify]{.headword} | ˈnəʊtɪfaɪ | vt | 告知，通知 = apprise, inform |
+| [notification]{.headword} | ˌnəʊtɪfɪˈkeɪʃn | n | 通知，通知单，布告 |
+| [noted]{.headword} | ˈnəʊtɪd | adj | 著名的，闻名的 = famous, eminent |
+| [notorious]{.headword} | nəʊ'tɔːrɪəs | adj | 臭名昭著的，臭名远扬的，声名狼藉的 =infamous |
+| [notoriety]{.headword} | nəʊtə'raɪɪtɪ | n | 恶名，丑名，臭名昭著 |
+| [conscious]{.headword} | 'kɒnʃəs | adj | 有意识的，神志清醒的，自觉的 =knowing, aware, mindful |
+| [consciousness]{.headword} | 'kɒnʃəsnɪs | n | 意识，观念，知觉 |
+| [conscience]{.headword} | 'kɒnʃəns | n | 良心，道德心=scruple |
+| [conscientious]{.headword} | ˌkɒnʃi'enʃəs | adj | 本着良心的，认真负责的 |
+

@@ -1,0 +1,375 @@
+# Day 46 · 一起强调的com- {.unnumbered}
+
+::: {.root-banner}
+Day 46 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p407–p414
+
+<!-- p.392 -->
+
+前缀com-是“一起together”的意思，还有“强调intensive”的意思。联想一下拔河tug of war的场景，就很容易理解com-的“①一起；②强调”的意思了。比如，collaborate作为一个动词是“合力”的意思，大家都知道前缀col-（com-的变形）是“一起”的意思，conspicuous是“显眼的”的意思，这里con-（com-的变形）也是表示“强调”的意思。
+
+<!-- 插图：拔河场景 -->
+
+**com-表示together**
+
+- col-一起 + labor事情 + -ate形容词后缀（一起做事情） → collaborate 合力
+- com-强调 + pel推压（强烈的推压） → compel 强迫
+- com-一起 + pet(e)费心（为了得到……互相费心） → compete 竞争
+- con-一起 + fus(e)倒（将很多东西一起倒进去） → confuse 使困惑
+- con-强调 + templ(e)寺院 + -ate做（沉静地呆在寺院） → contemplate 冥思苦想
+- com-强调 + motion移动（强烈的移动） → commotion 混乱、骚乱
+- com-一起 + pens称重 + -ate形容词后缀（称重后均衡两边的重量） → compensate 赔偿
+- com-强调 + prehend抓住（完全抓住对方的意思） → comprehend 理解
+- con-强调 + spic看上去 + -ous形容词后缀（看上去显眼的） → conspicuous 显眼的
+- con-强调 + summ顶上 + -ate形容词后缀（完全到达顶上） → consummate 完美的
+
+<!-- p.393 -->
+
+## 1. 一起col-做事情labor，collaborate合力，合作
+
+<!-- 插图：多人手叠在一起合作 -->
+
+::: {.etymo}
+拥有共同的目标goal，然后合力去完成才会有好的结果result。单词collaborate的记忆核心点是labor事情。事情不是自己完成的，而是“一起col-做labor的”，所以词源义就是“合力，合作”。需要强调的是，collaborate是不及物动词，因此后面需要与介词连用，这经常作为考试的考点。
+:::
+
+- **collaborate** [kəˈlæbəreɪt] *vi.* 合力，合作=cooperate
+  - collaborate with 与（某人）合作
+  - collaborate on 就（某件事）合作
+  - collaborate in 在（某件事）上合作
+  - collaborate with a computer company 和一个电脑公司合作
+  - collaborate in preparing the project 一起准备这个项目
+- **collaboration** [kəˌlæbəˈreɪʃn] *n.* 合作，协作
+- **collaborative** [kəˈlæbərətɪv] *adj.* 协作的，合作的
+
+> Researchers are **collaborating** to develop the vaccine for the disease.
+> 研究员们合作研发预防这种疾病的疫苗。
+
+> He was imprisoned in 1945 for **collaborating** with the enemy.
+> 1945年，他因与敌人合作而被捕入狱。
+
+## 2. 强烈的com-推压pel，compel强迫
+
+<!-- 插图：一个人强推另一个人往前走，对话框：“就按我说的去做！” -->
+
+::: {.etymo}
+“快去学习！”是妈妈们经常说的话之一！让孩子做自己不愿意做的事情就是“强迫”！单词compel的意思“强迫”来源于词源的意思“强烈推压做某事”，compel主要用在词组“compel somebody to do sth. 强迫某人做某事”中。其有两个派生的形容词compulsory强制性的和compelling强力的，尤其需要注意的是compelling。单词compelling词源的意思是“强烈推压的”，即“强力的”的意思。比如，compelling evidence的意思是“强有力的证据”。
+:::
+
+<!-- p.394 -->
+
+- **compel** [kəmˈpel] *vt.* 强迫，勉强使……做 =force
+  - compel somebody to do sth. 强迫某人做某事
+  - compel one's son to study hard 强迫某人的儿子刻苦学习
+- **compulsion** [kəmˈpʌlʃn] *n.* 强迫，冲动
+- **compulsory** [kəmˈpʌlsəri] *adj.* 强制性的 =obligatory, mandatory
+- **compelling** [kəmˈpelɪŋ] *adj.* 令人信服的，令人心悦诚服、不可抗拒的
+
+**Voca Map**
+- compel 强迫，要挟
+  - ↓
+    - compulsion 强迫，冲动
+      - ↓
+        - compulsory 强制性的
+  - ↓
+    - compelling 强有力的，不可抗拒的
+
+> The law will **compel** all drivers to take out insurance.
+> 这项法律强迫所有的司机办理保险业务。
+
+> You must present **compelling** evidence for your innocence.
+> 为证明你的清白，你必须拿出强有力的证据。
+
+> Albert felt a **compulsion** to smoke.
+> 艾伯特对吸烟难以抗拒。
+
+## 3. （为了得到某物）互相com-费心pete，compete竞争
+
+<!-- 插图：摔跤比赛插图 -->
+
+::: {.etymo}
+奥运会、世界杯、选美大赛 pageant 的共同点是什么呢？可以说这些都是为了决胜而展开竞争的比赛吧。符合该语义的词汇就是 compete。单词 compete 由词源义“为了得到某物互相费心”变成了“竞争”。源于 compete 的名词一共有两个：competition 竞争和 competence 能力。单词 competence 由词源义“竞争力”发展成了“能力”。这两个单词的词义不同，请大家注意。单词 competence 的形容词 competent 有能力的，能胜任的也是在考试中经常出现的词汇哦！
+:::
+
+- **compete** [kəmˈpiːt] *vi.* 竞争，较量 =contend
+  - compete with other countries 与其他国家较量
+  - compete for the world championship 角逐世界冠军
+- **competition** [ˌkɒmpəˈtɪʃn] *n.* 竞争
+- **competitive** [kəmˈpetətɪv] *adj.* 竞争的
+- **competence** [ˈkɒmpɪtəns] / **competency** [ˈkɒmpɪtənsi] *n.* 能力，技能
+- **competent** [ˈkɒmpɪtənt] *adj.* 有能力的 ↔ **incompetent** *adj.* 无能力的
+- **competitor** [kəmˈpetɪtə] *n.* 竞争者
+
+**Voca Map**
+- compete 竞争，较量
+  - ↓
+    - competition 竞争
+      - ↓
+        - competitive 竞争的
+  - ↓
+    - competence 能力，资格
+      - ↓
+        - competent 有能力的，优秀的
+          - ↕
+            - incompetent 无能的
+
+> The company is **competing** with foreign companies for a share of the market.
+> 为了争夺市场份额，这家公司正在与外企竞争。
+
+> I found him to be a very **competent** and reliable worker.
+> 我发现他是一个很有能力且值得信赖的员工。
+
+<!-- p.395 -->
+
+> No one doubts her **competence** as a teacher.
+> 没有人质疑她作为一名老师的能力。
+
+## 4. 很多东西一起com-倒进去fus，confuse使混乱，使困惑
+
+::: {.etymo}
+在调色板pallet上面将蓝色、红色、黄色和白色混在一起染色的话会得到什么呢？原来的颜色根本就认不出来了吧？单词confuse的词源义是将很多东西同时倒一起后，分不清什么是什么的状态，也就是说，头脑中各种想法混杂在一起理不出头绪的状态。电话号码有可能混淆，名字也有可能混淆。要记住，confuse一般以短语“confuse A with B A和B混淆”的形式出现。
+:::
+
+- **confuse** [kən'fju:z] *vt.* 使混乱，使混淆
+  - confuse A with B 将A与B弄混
+  - confuse the ideal with the real 将理想和现实混淆
+- **confusion** [kən'fju:ʒən] *n.* 困惑，糊涂
+- **confused** [kən'fju:zd] *adj.* 困惑的
+- **confusing** [kən'fju:zɪŋ] *adj.* 使人困惑的
+
+> I always **confuse** you **with** your sister — you look so alike.
+> 我经常把你和你妹妹弄混，你们长得太像了。
+
+> I found some of the questions really **confusing**.
+> 我发现一些问题真的很令人困惑。
+
+## 5. 在寺院temple里沉静地con-呆着，contemplate冥思苦想
+
+<!-- 插图：寺庙里人们静坐参禅的场景 -->
+
+::: {.etymo}
+听说最近大家暑假都不怎么去山里或海边玩了，而是去寺院里停留些日子temple stay回顾过去。在寺院安安静静回顾自己走过的路，不管怎么看都是一个好机会吧？单词contemplate由其词源义“在寺庙（寺院）里沉静地呆着”转化成了“冥思苦想”，contemplate中表示“寺庙，寺院”的temple很显眼，只要掌握了这一点就能很容易理解了。
+:::
+
+- **contemplate** ['kɔntəmpleɪt] *vt.* 冥思苦想 =consider
+  - contemplate retirement 考虑辞职
+- **contemplation** [ˌkɔntəm'pleɪʃn] *n.* 沉思
+- **contemplative** [kən'təmplətɪv] *adj.* 沉思的
+
+<!-- p.396 -->
+
+> Jack went on vacation to **contemplate** his future.
+> 杰克去度假思考他的未来。
+
+> I have never **contemplated** suicide.
+> 我从来没有想过自杀。
+
+## 6. 强烈的com移动motion，commotion混乱，骚乱
+
+<!-- 插图：球迷骚乱冲突场景 -->
+
+::: {.etymo}
+大家知道小流氓hooligan吗？英国的hooligan非常出名，如果他们支持的球队在比赛中失败了，他们就会发泄不满，乱砸或群殴打架。这通常会引起巨大的骚乱和混乱commotion，他们也因此而出名。在街边进行示威运动demonstration的过程中，如果跟警察发生了冲突clash就一定会引起commotion混乱，骚乱。单词commotion是一个比较简单的单词，其前缀com-是“强调（强烈的）”的意思，请大家千万不要忽视这点哦！
+:::
+
+- **commotion** [kə'məʊʃn] *n.* 混乱，骚乱 = agitation, hurly-burly
+  - create a commotion 制造骚乱
+  - the state of commotion 混乱的状态
+  - hear a commotion outside 听见外面一阵骚乱
+
+> Why is there such **commotion** about such a trivial thing?
+> 为什么如此一件小事就引起这么大的骚动？
+> （trivial ['trɪvɪəl] *adj.* 不重要的，琐碎的）
+
+> The whole unit was thrown into **commotion** when one of the soldiers ran away.
+> 一个士兵逃走了，整个部队陷入了骚动。
+
+## 7. 称重pens均衡两边com-的重量，compensate赔偿
+
+::: {.etymo}
+学习了这么多词汇，我们发现有时候词源义与单词词义之间的关系并不是很密切，compensate就是其中的一个例子。单词compensate由词源义“在天秤上，补偿（+）对方有损失（-）的部分，以维持均衡”变成了“赔偿，补偿”。这就是compensate的概念，大家一定要区分它作为不及物动词和及物动词的不同用法哦！
+:::
+
+<!-- 插图：天平秤与砝码 -->
+
+- **compensate** ['kɒmpenseɪt] *vt.* 赔偿，补偿 = recompense, make up for
+  *vi.* 补救，填充
+  - compensate A for B 把A赔偿给B
+  - compensate for 补偿
+- **compensation** [ˌkɒmpen'seɪʃn] *n.* 补偿（或赔偿）的款物；补偿，赔偿
+
+<!-- p.397 -->
+
+> The corporation will **compensate** workers **for** their loss of earnings.
+> 公司将会补偿薪水中的缺失部分给职员们。
+
+> His intelligence will **compensate for** his lack of experience.
+> 他的聪明才智弥补了他经验上的不足。
+
+## 8. 完全 com- 掌握 prehend 意思，comprehend 理解，把握
+
+::: {.etymo}
+准备过TOEIC，TOEFL等考试的人应该听说过L/C，R/C这样的词吧？L/C是Listening Comprehension的缩写，R/C是Reading Comprehension的缩写。这里的comprehension是“把握，理解”的意思，comprehend中表示强调的前缀com-和表示掌握seize的词根prehend结合，就是“完全掌握了……的意思”，即“理解，掌握”的意思。另外，comprehension的一个义项是由“一起抓住很多东西”转化成了“包含，包括”，但这个义项很少使用。不过从“包括，包含”这个语义中派生出了一个重要的形容词comprehensive全面的，大家可一定要记住哦！
+:::
+
+- **comprehend** [ˌkɑmprɪˈhend] *vt.* 理解，掌握 = understand, figure out
+  - comprehend the significance of the situation 理解情况的重要性
+- **comprehension** [ˌkɑmprɪˈhenʃn] *n.* 理解，理解力
+- **comprehensive** [ˌkɑmprɪˈhensɪv] *adj.* 全面的，广泛的
+
+**Voca Map**
+- comprehend
+  - ①掌握，理解 ↓ → comprehension 理解，掌握
+  - ②包括，包含 ↓ → comprehensive 全面的，广泛的
+
+> Even scientists do not **comprehend** theses phenomena.
+> 甚至科学家都不能解释这些现象。
+> （phenomena [fəˈnɑmɪnə] *n.* 现象 (phenomenon的复数形式)）
+
+> We offer our customers a **comprehensive** range of financial products.
+> 我们向顾客提供很全面的金融产品。
+
+## 9. 看上去 spic 很清楚的 con-，conspicuous 显眼的
+
+<!-- 插图：斑马群中斑纹显眼的斑马 -->
+
+::: {.etymo}
+单词conspicuous的前缀con-（com-）是“强调”的意思。大家想象一下，如果是“一起被看到”的话，几乎不接近“显眼的”这个意思，只有将con-理解为“强调”，词源的意思才能是“看上去很明显的”，单词的意思也就成了“显眼的”。如果不能正确理解前缀的话，就不能有效地背单词，大家一定要记住这一点哦！
+:::
+
+- **conspicuous** [kənˈspɪkjuəs] *adj.* 显眼的 = prominent
+- ↔ **inconspicuous** [ˌɪnkənˈspɪkjuəs] *adj.* 不引人注意的
+  - a conspicuous building 显眼的建筑物
+
+<!-- p.398 -->
+
+> The notice must be displayed in a **conspicuous** place.
+> 这个通告要陈列在显眼的地方。
+
+> Anne's red hair always made her **conspicuous**.
+> 安的红头发让她很显眼。
+
+> The scar on his forehead is **conspicuous**.
+> 他额头上的疤很明显。
+
+## 10. 完全 con- 到达顶峰 summ 的话，consummate 完成的、完美的
+
+<!-- 插图：登山到达山顶张开双臂的人 -->
+
+::: {.etymo}
+单词 summit 有“顶峰”和“高级会谈”两个意思。惯用表达 hold a summit 召开高级会谈在报纸中经常见到。含有 summit 的 consummate 是表示强调的前缀 con-（com-）加上 summit 的形容词形 summate 所构成的单词，其词义由词源义“完全到达顶峰”变成“完成的”之义。作为动词，它还有“完成，实现”的意思。单词 consummate 虽有名词和形容词两个词性，但主要用作形容词。大家想象一下登上山顶 mountain summit 的情景，consummate 的意思就很容易理解了吧？
+:::
+
+- **consummate** [ˈkɒnsəmeɪt] *adj.* 完成的，完美的 = complete, accomplished
+  *vt.* 完成，成功 = achieve, accomplish
+  - a consummate actor 一个很有成就的演员
+  - with consummate skill 用巧妙的手腕
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在这里再强调一下 consummate 可以作为名词使用时，意思是“完成，实现”！
+:::
+
+> He won the game with **consummate** ease.
+> 他轻而易举地赢得这场比赛。
+
+> The latter part of the agreement has not yet been **consummated**.
+> 协议的后半部分还没有完成。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 一起做事情 → 合力，合作 ______
+2. 强烈地推压 → 强迫 ______
+3. （为了得到某物）互相费心 → 竞争 ______
+4. 很多东西倒一起 → 使混乱，使困惑 ______
+5. 在寺院里安静地呆着 → 冥思苦想 ______
+6. 强烈的移动 → 混乱，骚乱 ______
+7. 称重均衡两边的重量 → 赔偿 ______
+8. 完全掌握意思 → 理解，把握 ______
+9. 看上去很清晰的 → 显眼的 ______
+10. 完全到达顶峰的话 → 完成的，完美的 ______
+:::
+
+答案 1. collaborate 2. compel 3. compete 4. confuse 5. contemplate 6. commotion 7. compensate 8. comprehend 9. conspicuous 10. consummate
+
+<!-- p.399 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下面单词的词义。
+
+1. compel ______
+2. compete ______
+3. contemplate ______
+4. commotion ______
+5. compensate ______
+6. conspicuous ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 为了发展经济，政府和企业应该**合力**______。
+2. 你的说明让我觉得更加**混乱**______了。
+3. 现在是时候好好**考虑**______一下你的未来了。
+4. 足球比赛后赛场外发生了一场大的**骚乱**______。
+5. 你应该对事故中的被害人进行**赔偿**______。
+6. 我**理解**______不了那个问题的内容。
+7. 牌子上写的文字应该很**显眼**______才行。
+8. 她是那个角色**完美的**______人选。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Several local companies now **collaborate** with environmental groups.  
+   A. corporate
+   B. cooperate
+   C. incorporate
+
+2. We heard a **commotion** downstairs and ran down to see what was happening.  
+   A. rustle
+   B. hurly-burly
+   C. upside-down
+
+3. No amount of money can ______ for my father's death.  
+   A. make
+   B. compose
+   C. compensate
+
+4. God cannot be ______ by the human mind.  
+   A. comprised
+   B. comprehended
+   C. reprehended
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [collaborate]{.headword} | kəˈlæbəreɪt | vi | 合力，合作=cooperate |
+| [collaboration]{.headword} | kəˌlæbəˈreɪʃn | n | 合作，协作 |
+| [collaborative]{.headword} | kəˈlæbərətɪv | adj | 协作的，合作的 |
+| [compelling]{.headword} | kəmˈpelɪŋ | adj | 令人信服的，令人心悦诚服、不可抗拒的 |
+| [compete]{.headword} | kəmˈpiːt | vi | 竞争，较量 =contend |
+| [competition]{.headword} | ˌkɒmpəˈtɪʃn | n | 竞争 |
+| [competitive]{.headword} | kəmˈpetətɪv | adj | 竞争的 |
+| [competence]{.headword} | ˈkɒmpɪtəns |  | / **competency** [ˈkɒmpɪtənsi] *n.* 能力，技能 |
+| [competent]{.headword} | ˈkɒmpɪtənt | adj | 有能力的 ↔ **incompetent** *adj.* 无能力的 |
+| [competitor]{.headword} | kəmˈpetɪtə | n | 竞争者 |
+| [confused]{.headword} | kən'fju:zd | adj | 困惑的 |
+| [contemplate]{.headword} | 'kɔntəmpleɪt | vt | 冥思苦想 =consider |
+| [contemplation]{.headword} | ˌkɔntəm'pleɪʃn | n | 沉思 |
+| [contemplative]{.headword} | kən'təmplətɪv | adj | 沉思的 |
+| [commotion]{.headword} | kə'məʊʃn | n | 混乱，骚乱 = agitation, hurly-burly |
+| [compensate]{.headword} | 'kɒmpenseɪt | vt | 赔偿，补偿 = recompense, make up for |
+| [compensation]{.headword} | ˌkɒmpen'seɪʃn | n | 补偿（或赔偿）的款物；补偿，赔偿 |
+| [comprehend]{.headword} | ˌkɑmprɪˈhend | vt | 理解，掌握 = understand, figure out |
+| [comprehension]{.headword} | ˌkɑmprɪˈhenʃn | n | 理解，理解力 |
+| [comprehensive]{.headword} | ˌkɑmprɪˈhensɪv | adj | 全面的，广泛的 |
+| [conspicuous]{.headword} | kənˈspɪkjuəs | adj | 显眼的 = prominent |
+| [consummate]{.headword} | ˈkɒnsəmeɪt | adj | 完成的，完美的 = complete, accomplished |
+

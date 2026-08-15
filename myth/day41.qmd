@@ -1,0 +1,420 @@
+# Day 41 · 否定的in- {.unnumbered}
+
+::: {.root-banner}
+Day 41 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p361–p369
+
+<!-- p.346 -->
+
+<!-- 插图：禁烟标志旁抽烟的人 -->
+
+就像前面所说的，前缀in-一般接形容词，即not，表示否定的意思。要掌握in-的意思不难，但in-的发音却是遵循了“辅音不同，发音不同”的前缀音变规律，特殊情况下会变为il-或ir-，例如illegal不合法的和irrelevant不相关的。另外，in-如果出现在辅音‘p’或‘b’前会变为im-。所以大家要记住：il-, ir-, im-这三个都是由表not的否定前缀in-变形而来的。
+
+**Voca Map：in-是not**
+
+- **im-**否定(not) + **medi**中间 + **-ate**形容词后缀（在中间没有任何时间的）→ **immediate** 立即的
+- **il-**否定(not) + **literate**识字的（不识字的）→ **illiterate** 文盲的
+- **im-**否定(not) + **polite**有礼貌的（没有礼貌的）→ **impolite** 无礼的
+- **im-**否定(not) + **mens(e)**测(measure)（无法估量程度的）→ **immense** 巨大的，无边际的
+- **in-**否定(not) + **different**不同的（〈不管是这个还是那个〉没什么不同的）→ **indifferent** 无关紧要的
+- **im-**否定(not) + **partial**偏袒的（不偏袒的）→ **impartial** 公正的
+- **in-**否定(not) + **fa**说 + **-nt**名词后缀（〈还〉不能说话的小孩）→ **infant** 幼儿
+- **in-**否定(not) + **evit**避免(avoid) + **-able**不能（避不开的）→ **inevitable** 不可避免的
+- **in-**否定(not) + **numer**数 + **-able**不能（〈很多〉数不过来的）→ **innumerable** 无数多的
+- **in-**否定(not) + **solvent**有支付能力的（不能解决〈经济〉问题的）→ **insolvent** 破产的
+
+<!-- p.347 -->
+
+## 1. 中间medi没有im-时间的immediate立即的
+
+<!-- 插图：消防员出动 -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“嘀—嘀—嘀”的声音用英语表示是beep [biːp]
+:::
+
+“嘀—嘀—嘀”，119消防呼叫中心的警报alarm在响。随后消防员拿上头盔急忙奔赴事发地去搭救rescue身处危险的人们。现来简单测试一下消防员们休息时，是穿便装，还是整装待发呢？正确答案当然是后者。消防员只有处于一切就绪的状态，危急时刻才能即时出发救人。这样表示没有任何准备时间的单词就是immediate即时的，及时的。我们说的“毫不迟疑”就很符合immediate的词义。其副词immediately立刻，马上也很常用哦！
+
+- **immediate** [ɪˈmiːdiət] *adj.* 即时的，及时的 = instant, prompt
+  - immediate response 立即反应
+  - immediate effect 即刻效应
+  - take immediate action 采取紧急措施
+  - in the immediate future 不久的将来
+- **immediately** [ɪˈmiːdiətli] *adv.* 立刻，马上
+- **immediacy** [ɪˈmiːdiəsi] *n.* 迅速
+
+> Earthquake victims have an **immediate** need for help.
+> 地震灾民需要立即得到援助。
+
+> I can't remember what happened **immediately** before the crash.
+> 我不记得撞车前发生过什么了。
+
+> Please calm down. Let me take care of the problem **immediately**.
+> 请镇静，我马上着手处理问题。
+> （calm down 使镇静）
+
+## 2. 没有im-礼貌polite的impolite无礼的，没有礼貌的
+
+<!-- 插图：影院观众 -->
+
+::: {.etymo}
+你知道吗？polite有礼貌的其实是由polish修正而来的单词。我们说“有修养”的时候不也是指一个人修正了自己的言行举止嘛。语言就是这样相通的。一个polite有礼貌的人，他的言行也是“被修正了的polished”！在polite前加上否定前缀im-(not)就变成了impolite无礼的，没有礼貌的。惯用表达polish something up是指“提高、增强（实力）”。
+:::
+
+<!-- p.348 -->
+
+- **impolite** [ɪmpəˈlaɪt] *adj.* 无礼的，没有礼貌的 =rude, discourteous
+  - an impolite remark /behavior 无礼的话/行动
+  - polish up 提高、增强（实力）=improve
+
+> That's an **impolite** question.
+> 这真是个无礼的问题。
+
+> In Korea, it is **impolite** to smoke in front of your elders.
+> 在韩国，在长辈面前抽烟是很不礼貌的。
+
+> You should **polish up** your Spanish before you go to Chile.
+> 你去智利之前得提高一下西班牙语的水平。
+
+## 3. 不管是这个还是那个，没有in-不同的different indifferent 无关紧要的
+
+<!-- 插图：河边钓鱼和思考的人 -->
+
+::: {.etymo}
+猛一看，indifferent应该是“不是不同的”，但为什么它的意思却是“无关紧要的”呢？举个例子来说明一下Let me give you an example，有的人对政治politics不感兴趣，他会说：“不管A还是B当总统，对我来说没有区别。”那种“（不管是这个还是那个）没有什么不同”的态度就是我们要说的“无关紧要”。
+:::
+
+- **indifferent** [ɪnˈdɪfərənt] *adj.* 无关紧要的
+  - indifferent to 对……不在意
+- **indifference** [ɪnˈdɪfərəns] *n.* 不在意
+  - a matter of indifference to somebody 对……来说无关紧要的问题
+
+::: {.mnemonic}
+**温馨小贴士**
+
+different from 和……不同
+indifferent to 对……不在意
+※认为indifferent表示“不是不同的”就大错特错了！
+:::
+
+> My wife is **indifferent** to cooking.
+> 我妻子对做饭不感兴趣。
+
+> He is quite **indifferent** to his personal appearance.
+> 他对自己的外貌不在意。
+
+> Whether you stay or leave is a matter of total **indifference** to me.
+> 你留还是走，我都无所谓。
+
+## 4. 还不能in-说话fa的孩子infant幼儿
+
+::: {.etymo}
+人有不同的阶段stage，各阶段的名称也相应不同。从小到大依次是：baby婴儿 →infant幼儿 →child，kid孩子 →adolescent青少年 →adult成人 →senior老人。其中infant表示“还不能说话的小
+:::
+
+<!-- 插图：趴着的婴儿 -->
+
+<!-- p.349 -->
+
+孩a baby or very young child”，也就是“幼儿”的意思。
+
+词根fa有“说话speak”的意思，包含fa的单词还有fable寓言，连带着将著名的“伊索寓言Aesop's Fables”一块儿记下吧。从fable出发生成的形容词fabulous意为“难以置信的”，即“惊人的”，这个词也是很常用的哦。
+
+- **infant** [ˈɪnfənt] *n.* 幼儿
+  - **infantry** [ˈɪnfəntri] *n.*（军队的）步兵
+- **fable** [ˈfeɪbl] *n.* 寓言
+  - **Aesop's Fables** 伊索寓言
+- **fabulous** [ˈfæbjələs] *adj.* 极好的，惊人的 = incredible, remarkable
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**词根 fa-(说话: speak) 相关词汇**
+- fable 寓言
+- fabulous 极好的，惊人的
+- affable 友善的，宜人的
+:::
+
+> An **infant's** skin is very sensitive.
+> 小孩子的皮肤很敏感。
+
+> There are clear difference in the speed of learning between **infants** at this early stage.
+> 在孩子幼年时，学习速度有明显的差异。
+
+## 5. 太多了，数numer不in-过来，innumerable无数的
+
+::: {.etymo}
+下图漫天大雪和沙滩的共同点是什么？正是它们数目是数不清的innumerable。分析innumerable可以看它的词根numer数字 (number)。把number中的b去掉就变成了numer，对吧？那么innumerable就是“数不清的”，即“无数的”的意思。包含词根numer的另一个单词numerous可以分解为：numer数字 + -ous含有 → 有数字的，它表示“很多的”。最终，numerous就是和many，innumerable一样，表示very many的意思。
+:::
+
+<!-- 插图：沙滩与漫天大雪中飞舞的雪花 -->
+
+- **innumerable** [ɪˈnjuːmərəbl] *adj.* 无数的 = countless, incalculable
+  - innumerable stars in the night sky 夜空中的繁星
+  - innumerable examples for love 爱的无数事例
+- **numerous** [ˈnjuːmərəs] *adj.* 很多的 = many
+
+<!-- p.350 -->
+
+> There are **innumerable** types of fish in the ocean.
+> 大海中有数不清的鱼类。
+
+> The individuals who have contributed to this book are far too **numerous** to say.
+> 太多人对此书做出贡献，在此就不一一列举了。
+
+## 6. 不il识字的literate-, illiterate文盲的，无知的
+
+<!-- 插图：困惑阅读的人与趴在电脑前的人 -->
+
+::: {.etymo}
+相信很多人只知道letter是“信”的意思。其实，letter原来的意思是“字”，它是由词根liter字变形而成的。由词根liter组合生成了很多词，如，literature是“文学”，literal是“照字面的”。还有现在要学的illiterate，作为literate识字的反义词，表示“不识字的、文盲的”意思。要将illiterate和illegible(字迹模糊)难辨认的区分开来，illiterate也不仅仅指不识字，举例来说，computer illiterate就是“电脑盲”。
+:::
+
+- **illiterate** [ɪ'lɪtərət] *adj.* 文盲的，无知的 =ignorant
+  - computer illiterate 电脑盲
+- **illiteracy** [ɪ'lɪtərəsi] *n.* 文盲，无知
+- **illegible** [ɪ'ledʒɪbl] *adj.* 不识（字）的
+- **literal** ['lɪtərəl] *adj.* 照字面的
+  - literal meaning 字面意义
+  - literal translation（逐字）直译
+- **literally** ['lɪtərəli] *adv.* 照字面地
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与词根 liter-(字 letter) 相关的单词：
+literal 照字面的 → literality 字面意思
+literary 文学的 → literature 文学
+literate 识字的 ↔ illiterate 文盲的
+注意：illegible（字迹模糊）难辨认的
+:::
+
+> I am a **computer illiterate**.
+> 我是个电脑盲。
+
+> His father was an **illiterate** farm worker.
+> 他父亲是个不识字的农民。
+
+> His handwriting was almost **illegible**.
+> 几乎辨认不出他的字。
+
+## 7. 无法im-测量mense的程度immense巨大的，无边际的
+
+::: {.etymo}
+世界最辽阔的东西恐怕就是宇宙universe了吧，形容和宇宙一样辽
+:::
+
+<!-- p.351 -->
+
+阔无边的事物时就可以用单词**immense**巨大的，无边际的来表示。分解**immense**，即 im-否定 (not) + mens测量 (measure) → 无法测量的。你见过immense的同义词enormous吗？它和immense意思相近，但又有细微的差别。immense是指“大得无法测量”，而enormous表示“极度的”。现在不会弄混了吧？
+
+::: {.mnemonic}
+**温馨小贴士**
+
+表示大小的词的程度：
+infinitesimal（无限小的）< tiny，minute（很小的）< small（小的）< big（大的）< massive（很大的）< enormous，immense（巨大的，无边际的）
+:::
+
+- **immense** [ɪ'mens] *adj.* 巨大的，无边际的 = huge, vast, enormous, gigantic
+  - an immense palace 巨大的宫殿
+  - an immense desire for knowledge 对知识极度的渴望
+- **immensity** [ɪ'mensəti] *n.* 巨量
+
+> We looked around the **immense** palace.
+> 我们参观了那所巨大的宫殿。
+
+> People who travel by rail still read an **immense** amount.
+> 坐火车旅行的人仍然会读很多书。
+
+## 8. 不im-偏袒的partial，impartial公正的
+
+<!-- 插图：天平与小人法官 -->
+
+::: {.etymo}
+单词**impartial**中的**partial**是**part**部分的形容词形式，偏向一部分就是partial偏袒的。相同意思的有biased有成见的和prejudiced有偏见的。在partial前加上否定前缀im-便生成单词impartial公正的。如果两个国家进行足球比赛，裁判referee必须是第三国人，只有这样才不会偏袒任何一方，作出impartial judgment公正的判决，你说是不是呢？
+:::
+
+- **impartial** [ɪm'pɑːʃəl] *adj.* 公正的 = fair, unbiased, unprejudiced, detached
+  - impartial judgment 公正的裁判 / 判决
+  - impartial advice 公平的建议
+  - impartial inquiry 公正的调查
+  - impartial taxation 公平的课税
+- **impartiality** [ˌɪm'pɑːʃi'æləti] *n.* 公正
+
+> Our representative attended the peace negotiation as an **impartial** observer.
+> 我们的代表作为公正的观察员参加了那个和平会谈。
+
+> We carried out an **impartial** inquiry into the cause of the death.
+> 我们对那起死亡事故的原因做出了公正的调查。
+> （inquiry [ɪn'kwaɪəri] 调查，研究，探究）
+
+<!-- p.352 -->
+
+## 9. 无法 in- 避开 evit，inevitable 不可避免的，必然发生的
+
+::: {.etymo}
+单词 inevitable 的记忆核心是词根 evit，它是由 avoid 避免变形而来的。将 avoid 发音短促一些的话就变成了 evit，evit 经过一系列变化又成了 inevitable 不可避免的。单词 inevitable 是考试高频词，它的同义词是 unavoidable。另外，我们还要记住：没有 evitable 可以避免的这种用法！inevitable 不可避免的才是正确的！
+:::
+
+- **inevitable** [ɪnˈevɪtəbl] *adj.* 不可避免的 = unavoidable
+  *n.* 不可避免的事，不得已的事
+  - an inevitable decision 不得已的决定
+  - an inevitable reality 不可避免的现实
+- **inevitability** [ɪnˌevɪtəˈbɪləti] *n.* 必然性
+
+> The **inevitable** has come.
+> 该来的还是来了。
+
+> It is **inevitable** that doctors will make the occasional mistake.
+> 有时医生不可避免地会失误。
+
+> Ecological disaster will be the **inevitable** result of global warming.
+> 地球变暖不可避免地会引起生态危机。
+
+## 10. 不能 in- 解决经济问题 solvent，insolvent 破产的，无力还债的
+
+<!-- 插图：沮丧的人坐在沙发上，身旁是空保险柜和账单 -->
+
+::: {.etymo}
+一说到“破产”，很多人最先想到的单词就是 bankrupt。别忘了，“破产”还可以用 insolvent 来表示。单词 insolvent 中间的 solve 解决很熟悉吧？照着这个意思去理解也没错，insolvent 就是“不能解决（经济问题）”。想想看，不管是个人还是公司，不能解决经济问题的话那就是破产了。不过，insolvent 比 bankrupt 更加正式一些，在描述公司破产的状态时常用到。
+:::
+
+- **insolvent** [ɪnˈsɒlvənt] *adj.* 破产的，无力还债的 = bankrupt
+  - an insolvent debtor 破产者，信用不良者
+  - be declared insolvent 被宣告破产
+  - insolvent businesses 破产的公司
+- **insolvency** [ɪnˈsɒlvənsi] *n.* 破产
+
+<!-- p.353 -->
+
+> The inveterate gambler has become an **insolvent** debtor.
+> 这个顽固的赌徒破产了。
+> （inveterate [ɪnˈvetərɪt] 成瘾的，有恶习的）
+
+> The company has been declared **insolvent**.
+> 这个公司被宣告破产。
+
+> A spokesman denied the bank was **insolvent**, but depositors are rushing to withdraw their money.
+> 虽然发言人称银行没有破产，但储户们还是涌进银行要求把存款取出来。
+> （depositor [ˌdepəˈzɪʃn] 储户；withdraw [wɪðˈdrɔː] 取（存款））
+
+## 单词回顾
+
+::: {.etymo}
+1. 中间没有任何时间的
+   → 立即的 `______`
+:::
+
+2. 不懂礼仪的
+   → 无礼的，没有礼貌的 `______`
+
+3. 不管是这还是那，都没有区别的
+   → 不在意的 `______`
+
+4. 还不能说话的幼儿
+   → 婴儿 `______`
+
+5. 多到数不清的
+   → 极多的 `______`
+
+6. 不识字的
+   → 文盲的，无知的 `______`
+
+7. 无法测量的
+   → 巨大的，无边际的 `______`
+
+8. 不偏袒的
+   → 公正的 `______`
+
+9. 避不开的
+   → 不可避免的，必然发生的 `______`
+
+10. 无法解决经济问题的
+    → 破产的，无力还债的 `______`
+
+答案 1. immediate 2. impolite 3. indifferent 4. infant 5. innumerable 6. illiterate 7. immense 8. impartial 9. inevitable 10. insolvent
+
+<!-- p.354 -->
+
+## 确认并攻克下列单词
+
+### 请写出下面单词的词义。
+
+1. immediate ______
+2. innumerable ______
+3. illiterate ______
+4. immense ______
+5. inevitable ______
+6. insolvent ______
+
+### 请写出下列阴影标识部分的单词。
+
+1. 对于那件事，我们要采取及时的______措施。
+2. 最近，年轻人一点不关心______政治。
+3. 那位歌手收到了粉丝的无数______封信。
+4. 我对电脑知识一点不了解______。
+5. 那个建设事业投入了非常多的______预算。
+6. 审判对两队进行了公正的______判决。
+7. 现在我们必须接受无法避免的______现实。
+8. 那个公司由于巨额赤字导致破产______。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The government promised **immediate** action to help the unemployed.
+   A. eminent
+   B. prompt
+   C. immense
+
+2. Examples for love are **innumerable**.
+   A. countless
+   B. calculable
+   C. endless
+
+3. I'm a computer ______ and still afraid to learn how to use computers.
+   A. illegible
+   B. illicit
+   C. illiterate
+
+4. Many smaller businesses have become ______ because of economic stagnation.
+   A. dissolute
+   B. insoluble
+   C. insolvent
+
+---
+
+## 本日词汇速查（27 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [im-]{.headword} |  |  | 否定(not) + **medi**中间 + **-ate**形容词后缀（在中间没有任何时间的）→ **immediate** 立即的 |
+| [il-]{.headword} |  |  | 否定(not) + **literate**识字的（不识字的）→ **illiterate** 文盲的 |
+| [immediate]{.headword} | ɪˈmiːdiət | adj | 即时的，及时的 = instant, prompt |
+| [immediately]{.headword} | ɪˈmiːdiətli | adv | 立刻，马上 |
+| [immediacy]{.headword} | ɪˈmiːdiəsi | n | 迅速 |
+| [impolite]{.headword} | ɪmpəˈlaɪt | adj | 无礼的，没有礼貌的 =rude, discourteous |
+| [indifferent]{.headword} | ɪnˈdɪfərənt | adj | 无关紧要的 |
+| [indifference]{.headword} | ɪnˈdɪfərəns | n | 不在意 |
+| [infant]{.headword} | ˈɪnfənt | n | 幼儿 |
+| [infantry]{.headword} | ˈɪnfəntri | n | （军队的）步兵 |
+| [fable]{.headword} | ˈfeɪbl | n | 寓言 |
+| [Aesop's Fables]{.headword} |  |  | 伊索寓言 |
+| [innumerable]{.headword} | ɪˈnjuːmərəbl | adj | 无数的 = countless, incalculable |
+| [numerous]{.headword} | ˈnjuːmərəs | adj | 很多的 = many |
+| [illiterate]{.headword} | ɪ'lɪtərət | adj | 文盲的，无知的 =ignorant |
+| [illiteracy]{.headword} | ɪ'lɪtərəsi | n | 文盲，无知 |
+| [illegible]{.headword} | ɪ'ledʒɪbl | adj | 不识（字）的 |
+| [literal]{.headword} | 'lɪtərəl | adj | 照字面的 |
+| [literally]{.headword} | 'lɪtərəli | adv | 照字面地 |
+| [immense]{.headword} | ɪ'mens | adj | 巨大的，无边际的 = huge, vast, enormous, gigantic |
+| [immensity]{.headword} | ɪ'mensəti | n | 巨量 |
+| [impartial]{.headword} | ɪm'pɑːʃəl | adj | 公正的 = fair, unbiased, unprejudiced, detached |
+| [impartiality]{.headword} | ˌɪm'pɑːʃi'æləti | n | 公正 |
+| [inevitable]{.headword} | ɪnˈevɪtəbl | adj | 不可避免的 = unavoidable |
+| [inevitability]{.headword} | ɪnˌevɪtəˈbɪləti | n | 必然性 |
+| [insolvent]{.headword} | ɪnˈsɒlvənt | adj | 破产的，无力还债的 = bankrupt |
+| [insolvency]{.headword} | ɪnˈsɒlvənsi | n | 破产 |
+

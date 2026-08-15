@@ -1,0 +1,386 @@
+# Day 28 · 去 market，要讲 price {.unnumbered}
+
+::: {.root-banner}
+Day 28 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p250–p257
+
+<!-- p.235 -->
+
+你小时候曾拉着妈妈的手去过市场吗？在市场有很多不同种类的various商品。买东西的时候无论如何都要跟卖东西的商人讨价还价haggling一番。现在让我们来看一下从market市场和price价格派生而来的词汇。market和price是与店铺和生活相关联的主题，因此与我们生活密切相关的pertinent词汇也就随之出现了。
+
+<!-- 插图：在市场上与商人讨价还价 -->
+
+**Voca Map：market 市场**
+- marketable 畅销的
+- commerce 商业
+- merchant 商人
+- mercenary 追求钱财
+
+**Voca Map：price 价格，价值**
+- priceless 珍贵的
+- appreciate 鉴别
+- appraise 评价
+- depreciate 贬值
+
+<!-- p.236 -->
+
+## 1. 名词指“市场”、动词指“推出”的 market 市场，推出商品，宣传
+
+<!-- 插图：热闹的集市/交易市场 -->
+
+::: {.etymo}
+实际上，很多人都知道market市场这个单词本身的意思。想提醒大家注意attention的是，market也是可以用作动词的。比如，market a new car的意思是“推出一款新车”。跟market相关的词汇有很多，如street market露天市场，property market房地产市场，stock market股市……那么bull market，bear market又是什么意思呢？难道分别是指黄牛市场、熊市场？其实，bull market指的是股票的行情看涨，即“牛市”。bear market则指的是股票的跌市，即“熊市”。另外，像market share市场占有率这种表达方式也不能忽视哦！
+:::
+
+- **market** [ˈmɑːkɪt] *n.* 市场 *v.* 推出（商品），宣传
+  - market a new car 推出一款新车
+  - street market 露天市场
+  - property market 房地产市场 / stock market 股市
+  - bull market 牛市 / bear market 熊市
+  - market share 市场占有率
+
+> Hyundae Motors is struggling to increase its **market share** in America.
+> 现代汽车公司努力提高它在美国的市场占有率。
+> （struggle to do sth. 努力做……，为……而奋斗）
+
+> In order to **market** a product well, you need to be aware of public demand.
+> 要很好地推广一项产品，你需要对公众的需求很敏感。
+
+## 2. market 的形容词 marketable 商品畅销的
+
+<!-- 插图：遮阳伞下购买热气腾腾薄饼的顾客 -->
+
+::: {.etymo}
+大家都已经学过market的动词形式了吧？从market的动词义项中派生出来的形容词就是marketable，意思是“（商品）畅销的，（技术）有发展性的”。比如，marketable products的意思是“畅销产品”，marketable skills的意思是“有发展前途的技术”。
+:::
+
+还有一点需要注意！美国人描述畅销商品时会说sell like hot cakes热销。美国人喜欢吃hot cakes，所以hot cakes一做出来就会立即销售一空，由此便产生了这个俗语。这个俗语也经常用于表达某些商品意想不到地热销bonanza。
+
+<!-- p.237 -->
+
+- **marketable** [ˈmɑːkɪtəbl] *adj.* 畅销的，有市场发展潜力的
+  - a highly marketable item 高度市场化的项目
+- **marketability** [ˌmɑːkɪtəˈbɪləti] *n.* 适销性，可销售性
+- **marketing** [ˈmɑːkɪtɪŋ] *n.* 销售，市场学
+- **sell like hot cakes** 热销
+
+> Too many graduates lack **marketable** skills.
+> 太多的毕业生都缺乏推销自己的技能。
+
+> These products are **marketable** because of their quality.
+> 这些产品由于质量好，所以市场潜力很大。
+
+> The cutting-edge new car **sold like hot cakes**.
+> 这些尖端的新型汽车很热销。
+> （cutting-edge 前沿的）
+
+## 3. market的mark变成merch之义的单词merchant商人
+
+<!-- 插图：集市上的商人 -->
+
+::: {.etymo}
+在英语中，k和ch有时是可以混用的。market的mark部分（与元音变化一起）可变成merch，再在其后添加名词性后缀-ant人，就会产生新词merchant商人。在市场上卖东西的人就是merchant。merchant处理的东西就是merchandise商品。怎么样，将merchant商人与merchandise商品两个单词结合在一起记忆是不是容易了很多？
+:::
+
+- **merchant** [ˈmɜːtʃənt] *n.* 商人
+  - a family of wealthy merchants 一家人都是富裕的商人，富有的商人之家
+- **merchandise** [ˈmɜːtʃəndaɪz] *n.* 商品，货物 = goods, commodity
+- **merchandising** [ˈmɜːtʃəndaɪzɪŋ] *n.* 销售规划，促销
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**k 变成 ch 的词汇**
+speak 说 → speech 演说
+break 打破、粉碎 → breach 违反（合约、法律）
+:::
+
+> I read *The **Merchant** of Venice* by Shakespeare.
+> 我看了莎士比亚的《威尼斯商人》。
+
+> She was born in 1856, the daughter of a wealthy **merchant**.
+> 她出生于1856年，是一个富商的女儿。
+
+> The electronic company sells a wide range of **merchandise**.
+> 电子公司卖的商品范围很大。
+
+## 4. 在market所进行的相互活动commerce商业、交易
+
+::: {.etymo}
+大家都知道trade贸易这个词吧？trade和commerce虽然都是指“买卖行为”，但两者还是有区别的。trade主要是指“国家间的贸易”，而commerce则是指“一般的商业、交易”。日常生活中我们经常会使用基于互联网的e-commerce电子交易之类的用语term。有趣的是，
+:::
+
+<!-- p.238 -->
+
+**commercial**这个单词作为形容词时，它的意思是“商业的”，作为名词时，它是指TV和radio中出现的“商业广告”。在广告中插入的歌曲通常被称为“CM颂”吧？在这里，CM正是Commercial message的缩写abbreviation。
+
+- **commerce** [ˈkɒmɜːs] *n.* 商业，交易
+  - e-commerce 电子商务
+- **commercial** [kəˈmɜːʃl] *adj.* 商业的，商业性的 *n.* 商业广告
+  - TV commercial 电视商业广告
+  - a very commercial movie 一部非常商业化的电影
+
+::: {.mnemonic}
+**温馨小贴士**
+
+commerce 作为名词的意思是“商业、交易”，而 commercial 作为名词的意思是“商业广告”。这点差别应该注意哦！
+:::
+
+> America ranks first in the world for industry and **commerce**.
+> 在工商业方面美国排名第一。
+
+> The animation film had a huge **commercial** success.
+> 动漫电影取得了巨大的商业成功。
+
+> What do you think of the **commercials** broadcast on Korean television?
+> 你对韩国电视台播放的商业广告有什么看法？
+
+## 5. 像 merchant 一样追求钱财的 mercenary 追求钱财；佣兵
+
+<!-- 插图：拿着钱袋在飞奔的人 -->
+
+::: {.etymo}
+跟**market**相关的最后一个词汇是**mercenary**。乍一看，是不是感觉**mercenary**跟**merchant**的词源相同？你看，它们的词根merc钱部分是相同的，因此**mercenary**是一个兼具形容词义项“追求钱财”和名词义项“为了赚钱去国外打拼的人”之“佣兵”的词汇。比如，朴智星、朴璨浩这样的选手可以称的上是体育界的“佣兵”。来，咱们将**merchant**、**commerce**、**mercenary**这几个词总结整理一下。merchant商人拿着merchandise商品通过从事commerce商业活动来mercenary赚取钱财。OK？好记吧？
+:::
+
+- **mercenary** [ˈmɜːsɪnəri] *adj.* 赚钱，只对钱感兴趣 *n.* 佣兵
+  - a mercenary attitude 只对钱感兴趣的态度
+  - his purely mercenary purpose 他纯粹为赚钱的目的
+
+> She's interested in him for purely **mercenary** reasons.
+> 她对他感兴趣是出于纯粹的挣钱目的。
+
+> Many of those crimes have been perpetrated by foreign **mercenaries**.
+> 这类犯罪大都是外国的雇佣兵做的。
+> （perpetrate [ˈpɜːpətreɪt] 做（坏事），犯（罪））
+
+<!-- p.239 -->
+
+## 6. 物品交易时的价钱 price 价值、价格
+
+::: {.etymo}
+在市场market上进行物品交易的时候，最重要的应该是了解price价格吧？有价格便宜cheap的商品，也有价格昂贵expensive的商品；有价格合理reasonable的商品，也有价格正好affordable的商品。
+:::
+
+另外，根据需求情况的不同，可以提高价格raise prices，也可以降低价格lower prices。有一个关于price的重要俗语是at any price不惜任何代价。短语keep our freedom at any price即“不惜任何代价都要捍卫我们的自由”之解。
+
+- **price** [praɪs] *n.* 价值，价格
+  - cheap price 低廉的价格，expensive price 昂贵的价格
+  - reasonable price 合理的价格，affordable price 能承受的价格
+  - raise/put up prices 提高价格，lower/cut prices 降低价格
+  - at any price 不惜任何代价，无论如何 =at all costs
+
+> The shop is selling two bottles of beer for the **price** of one!
+> 商店正在促销啤酒，买一送一。
+
+> Our team must win the competition **at any price**.
+> 我们队无论如何一定要赢得这场比赛。
+> （competition [ˌkɒmpəˈtɪʃn] 比赛，竞赛）
+
+## 7. 无法估量的 price，priceless 无价的
+
+::: {.etymo}
+在price后添加意指“having拥有”的形容词后缀-ous，它就变成了单词precious。precious的词源义是“有意义的”，引申义为“贵重的”。那么，在price后添加意指“没有”的后缀-less的话又是什么意思呢？指“没有价值的”？虽然按推理应是这个意思，可是实际上却不是这样。priceless的词源应解释为“无法估量价值的”，因此它的意思是“非常贵重的extremely valuable”。与此意思相近的单词还有invaluable；表示“没有价值”的形容词是valueless。
+:::
+
+- **priceless** [ˈpraɪslɪs] *adj.* 无价的 =invaluable
+  - priceless antiques 无价的古董
+  - a priceless piece of information 一条珍贵的信息
+- **precious** [ˈpreʃəs] *adj.* 珍贵的 ※ priceless 无价的 > precious 珍贵的
+
+**Voca Map**
+- priceless 无价的 ↔ valueless 无用的
+- ‖
+- invaluable 无价的 ↔ worthless 无用的
+
+> What will you do with this **priceless** treasure?
+> 你打算怎么处置这些无价的宝物？
+
+> The ability to motivate people is a **priceless** asset.
+> 能够激发人们动力的能力是无价之宝。
+
+> I will accomplish my purpose **at any price**.
+> 我会不惜任何代价完成我的目标。
+
+<!-- p.240 -->
+
+## 8. 估量某物的 price 叫做 appraise 评价
+
+::: {.etymo}
+跟 price 密切相关的词汇正是 appraise 评价。值得注意的是，尽管 praise 也源于 price，但 appraise 词根 praise 绝不是“称赞”的意思。比如，对孩子的行为 behavior 说一句“做得真好”，这就是一种称赞。appraise 中的 praise 是从 price 变化而成的一种拼写，appraise 的语义也就由“估量……的价值”变成了“评价”。
+:::
+
+<!-- 插图：房屋估价，对话框：“嗯，这栋屋子得appraise5万美元才行” -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+不要忘了 appraise 的 praise 不是“称赞”，而是来源于 price（价值、价格）哦！
+:::
+
+- **appraise** [əˈpreɪz] *vt.* 评价=evaluate, assess, estimate
+  - appraise the damage 评估损失
+  - appraise the house and property 对房子和地产进行估价
+- **appraisal** [əˈpreɪzl] *n.* 评价，鉴定
+
+> The company will institute a new **appraisal** system next year.
+> 公司明年会建立一个新的评估系统。
+
+> At the end of each teaching practice, trainee teachers are asked to **appraise** their own performance.
+> 每到教学实践结束之余，每名实习教师都被要求对自己的表现做出评估。
+> （trainee teacher 实习教师）
+
+## 9. 赋予……价值的 appreciate 承认……的价值，感激
+
+::: {.etymo}
+单词 appreciate 看上去跟 appraise 相似，但语义稍有不同。appraise 从词源“估量……的价值”变成了“评价”的意思，而 appreciate 则从词源“赋予……的价值”变成了“认证”的意思。另外，如果我承认了某人所给予的帮助 aid，也就意味着“感激”。appreciate 作为不及物动词时，意思是“升值”。如果赋予其价值，价格自然 naturally 也就上升了。
+:::
+
+- **appreciate** [əˈpriːʃieɪt] *vt.* 1. 认定……的价值 2. 感激
+  *vi.* (价值) 上升=rise
+- **appreciation** [əˌpriːʃiˈeɪʃn] *n.* 1. (书面的) 鉴定，欣赏，鉴赏 2. 感激 3. (价值) 增加
+- **appreciative** [əˈpriːʃiətɪv] *adj.* 1. 有鉴赏力的 2. 感激的
+- **appreciable** [əˈpriːʃəbl] *adj.* 可察觉的，可观的=significant
+
+> I **appreciate** your concern.
+> 多谢您的关心。
+
+> His abilities are not fully **appreciated** by his boss.
+> 他的能力没有完全得到老板的赏识。
+
+> I really **appreciate** your coming.
+> 谢谢您能来。
+
+<!-- p.241 -->
+
+> The price was raised owing to the **appreciation** of raw materials.
+> 由于原材料价格的上涨，商品价格也随之上涨。（raw materials 原材料）
+
+## 10. 降低 price 的 depreciate 跌价，降低……的价值
+
+::: {.etymo}
+如果前面已经正确地理解了appreciate的意思，那么想要理解depreciate就易如反掌了（It's a piece of cake.）。只要知道depreciate的前缀de-降低的意思就很容易理解了。因为从语源上看，depreciate这个单词本义就是“降低……的价值”。但depreciate有一个需要记忆的重要义项，即“折旧”。我们知道，一般来说，从购买purchase商品product的某一个时间点起时间过得越久，价值就越低depreciated，所以这个单词作为会计用语accounting term被广泛使用。
+:::
+
+<!-- 插图：折线下跌与愁眉苦脸的人群，对话框：“美元的价值正在不断depreciate” -->
+
+- **depreciate** [dɪˈpriːʃieɪt] *v.* 价值降低，折价 ↔ appreciate 认证
+  - depreciate in value 价值降低，贬值
+  - depreciate the value of the corporation 降低公司的价值
+- **depreciation** [dɪˌpriːʃiˈeɪʃn] *n.* 1. 贬值 2. 轻视
+
+> A new car **depreciates** more quickly than a second-hand one.
+> 新车的贬值速度比二手车要快。
+
+> The U.S. has suffered from the **depreciation** of the dollar.
+> 美国遭受了美元贬值。
+
+## 单词回顾
+
+::: {.etymo}
+1. 名词“市场”动词“推出”
+   → 市场；推出商品，宣传 ______
+:::
+
+2. market 的形容词形式
+   →（商品）畅销 ______
+
+3. market 的 mark 变成 merch 的单词
+   → 商人 ______
+
+4. 在 market 所进行的相互活动
+   → 商业、交易 ______
+
+5. 像 merchant 一样追求钱财
+   → 追求钱财；雇佣兵 ______
+
+6. 物品交易时的价值
+   → 价值、价格 ______
+
+7. 无法估量的 price
+   → 非常贵重的 ______
+
+8. 估量某物的 price
+   → 评价 ______
+
+9. 赋予……的价值
+   → 承认……的价值，感激 ______
+
+10. 降低 price
+    → 降低……的价值 ______
+
+> **答案** 1. market 2. marketable 3. merchant 4. commerce 5. mercenary 6. price 7. priceless 8. appraise 9. appreciate 10. depreciate
+
+<!-- p.242 -->
+
+## 确认并攻克下列单词
+
+## 请写出下列单词的词义。
+
+::: {.etymo}
+1. marketable ______　　　　　2. merchant ______
+3. mercenary ______　　　　　4. priceless ______
+5. appraise ______　　　　　　6. appreciate ______
+:::
+
+## 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 那种新商品好像**卖得很好** ______。
+2. 那个**商人** ______ 赚了很多钱。
+3. **商业** ______ 的活性化是国家经济的关键。
+4. **过于追求钱财** ______ 的样子让人眉头紧锁。
+5. 石窟庵是**非常贵重的** ______ 传统文化遗产。
+6. **评估** ______ 那家公司股票的价值。
+7. **我认可** ______ 他的能力。
+8. 他说了**降低公立教育费用** ______ 的言论。
+:::
+
+## 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. Our new car is ______ because of its engaging design.
+   A. unpopular　　　B. marketable　　　C. merchandising
+:::
+
+2. He has a **mercenary** scheme to marry a wealthy widow.
+   A. only interested in the love
+   B. only interested in the woman
+   C. only interested in the money
+
+3. **Priceless** antiques were destroyed in the fire.
+   A. Invaluable　　　B. Valueless　　　C. Expensive
+
+4. Managers must ______ all staff.
+   A. appeal　　　B. appraise　　　C. appreciate
+
+---
+
+## 本日词汇速查（21 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [market]{.headword} | ˈmɑːkɪt | n | 市场 *v.* 推出（商品），宣传 |
+| [marketable]{.headword} | ˈmɑːkɪtəbl | adj | 畅销的，有市场发展潜力的 |
+| [marketability]{.headword} | ˌmɑːkɪtəˈbɪləti | n | 适销性，可销售性 |
+| [marketing]{.headword} | ˈmɑːkɪtɪŋ | n | 销售，市场学 |
+| [sell like hot cakes]{.headword} |  |  | 热销 |
+| [merchant]{.headword} | ˈmɜːtʃənt | n | 商人 |
+| [merchandise]{.headword} | ˈmɜːtʃəndaɪz | n | 商品，货物 = goods, commodity |
+| [merchandising]{.headword} | ˈmɜːtʃəndaɪzɪŋ | n | 销售规划，促销 |
+| [commerce]{.headword} | ˈkɒmɜːs | n | 商业，交易 |
+| [commercial]{.headword} | kəˈmɜːʃl | adj | 商业的，商业性的 *n.* 商业广告 |
+| [mercenary]{.headword} | ˈmɜːsɪnəri | adj | 赚钱，只对钱感兴趣 *n.* 佣兵 |
+| [price]{.headword} | praɪs | n | 价值，价格 |
+| [priceless]{.headword} | ˈpraɪslɪs | adj | 无价的 =invaluable |
+| [precious]{.headword} | ˈpreʃəs | adj | 珍贵的 ※ priceless 无价的 > precious 珍贵的 |
+| [appraise]{.headword} | əˈpreɪz | vt | 评价=evaluate, assess, estimate |
+| [appraisal]{.headword} | əˈpreɪzl | n | 评价，鉴定 |
+| [appreciation]{.headword} | əˌpriːʃiˈeɪʃn | n | 1. (书面的) 鉴定，欣赏，鉴赏 2. 感激 3. (价值) 增加 |
+| [appreciative]{.headword} | əˈpriːʃiətɪv | adj | 1. 有鉴赏力的 2. 感激的 |
+| [appreciable]{.headword} | əˈpriːʃəbl | adj | 可察觉的，可观的=significant |
+| [depreciate]{.headword} | dɪˈpriːʃieɪt | v | 价值降低，折价 ↔ appreciate 认证 |
+| [depreciation]{.headword} | dɪˌpriːʃiˈeɪʃn | n | 1. 贬值 2. 轻视 |
+

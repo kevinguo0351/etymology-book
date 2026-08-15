@@ -1,0 +1,394 @@
+# Day 54 · 绕了一圈后又重新的 re- {.unnumbered}
+
+::: {.root-banner}
+Day 54 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p474–p481
+
+<!-- p.459 -->
+
+今天让我们一起来学习一下前缀re-的第二个意思“重新again”。首先，让我们来看一下最具说服力的两个带有前缀re-的单词。以前，盒式磁带录音机上面都有两个按钮rewind和repeat，对不对？rewind是“将磁带往后退”的意思，repeat是“重新播放”的意思。back这个词也有“向后”和“重新”两个含义。让我们联想着back，一起来学习re-的“重新again”这层语义吧！
+
+**re- 表示 again**
+
+- **re-**重新(again) + **form**形成（重新构成） → **reform** 改革
+- **re-**重新(again) + **dress**正确的（把错误的东西重新矫正过来） → **redress** 改正，矫正
+- **re-**重新(again) + **fund**补上（丢了多少就再重新补上多少） → **refund** 退款
+- **re-**重新(again) + **(d)und**水波 + **-ant**形容词后缀（总是溢出的） → **redundant** 过剩的
+- **re-**重新(again) + **in**里面 + **force**力量（重新注入力量） → **reinforce** 强化
+- **re-**重新(again) + **iterate**重复（再重复） → **reiterate** 重复要点
+- **re-**重新(again) + **mind**使想起（使……重新想起） → **remind** 提醒，使重新想起
+- **re-**重新(again) + **nown**名字（经常被提到的名字） → **renown** 名声
+- **re-**强调 + **solve**解开（完全解决） → **resolve** 解决；决心
+- **re-**重新(again) + **triev(e)**找到（重新找回丢失的东西） → **retrieve** 重新得到，挽回
+
+<!-- p.460 -->
+
+## 1. 重新re-构成form，reform改革，改善
+
+::: {.etymo}
+每一任新当选的领导都是高调宣称自己的第一个目标aim是改革，以期告别旧时代，开启新时代new era。这时用到的动词就是 reform，reform中form是“制造，形成”的意思，在其前加上前缀re-重新（again），其词源义就变成了“重新制造，重新形成”，单词义为“改革，改善”。reform既可以用作动词也可以用作名词，我们应在句子中准确把握它的词性！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含-form的词汇，其词源义及实际词义：comform一起形成，使一致→(to, with)遵照，顺应；
+deform使形成，使变丑→变形，变畸形；
+inform在脑海中形成→通知，告知；
+transform从这样变成→变换（模样、形态）；
+uniform统一的形态→运动服、制服
+:::
+
+- **reform** [rɪˈfɔːm] *v.* 改革，革新 =improve, revamp ; *n.* 改革，革新
+  - educational reform 教育改革 / political reform 政治改革
+  - a reform of the legal system 法律体系的改革
+
+> The government announced a program of economic **reform**.
+> 政府宣布了一个经济改革的计划。
+
+> They **reformed** the voting system, and introduced a secret ballot.
+> 他们改革了投票制度，并引入了无记名投票。
+
+## 2. 丢失了多少再重新re-补上fund，refund退款
+
+::: {.etymo}
+买完东西后有时会觉得东西不合心意了，或者商品根本就是个次品lemon，因此想要退货return，商家当然应该把买家先前支付的钱refund退款。单词refund的词源义是“（按照失去的数量）重新补上，使其恢复原状”，在这里refund的意思是“退款，返还”。现在，不管是在百货商店，还是在网上商城，都有refund system退款系统，无论何时都能退货return和退款refund。还有一点要说明，tax refund退税这种表达方式很常用，意思是“与所得相比，如果支付了过多的税金，就会把超出的部分返还给你”。
+:::
+
+- **refund** [rɪˈfʌnd] *n.* 退款，退还 *vt.* 给……退款
+  - tax refund 退税
+  - a full refund 全额退款
+  - give him a refund 给他退款
+
+> I'd like to return this. 我想退货。
+
+<!-- p.461 -->
+
+> The store refused to give me a refund.
+> 那家商店拒绝给我退款。
+
+> We will **refund** your money to you in full if you are not entirely satisfied.
+> 如果你不是百分之百满意，我们会全额退款给你。
+
+## 3. 重新re-注入in-力量force，reinforce强化，加固
+
+<!-- 插图：男子举哑铃健身 -->
+
+::: {.etymo}
+要想理解单词reinforce，就必须先对其词源进行分析，reinforce有前缀re-重新和in-里面，词源义是“重新注入力量”，单词义是“强化，加固”。
+:::
+
+我们来一起学习一下与reinforce意思相近的enforce吧！enforce的词源分析是：en-制作（make）+force力量→使……用力，其词义为“①实施（法律）；②强制”。如果将enforce与reinforce放在一起的话，会比较容易。我们来看一下下面的例句吧！
+
+- **reinforce** [,riːɪn'fɔːs] *vt.* 强化，加固 = strengthen, fortify, beef up
+  - reinforced glass / plastic 钢化玻璃 / 增强塑料
+- **reinforcement** [,riːɪn'fɔːsmənt] *n.* 加强，加固
+- **enforce** [ɪn'fɔːs] *vt.* ①实施，执行；②强迫 = compel
+- **enforcement** [ɪn'fɔːsmənt] *n.* 执行，强制
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**force** *n.* ①力量，武力，暴力；②[复数形式]军队；*vt.* 强制，强制做 = compel
+force him to resign 强迫他辞职
+:::
+
+> We need to **reinforce** foreign language education to meet the demands of globalization.
+> 我们需要加强外语教育以满足国际化的需求。
+
+> Government enacts laws and the police **enforce** them.
+> 政府颁布法律，警察执行法律。
+
+## 4. 重新re-想起来mind，remind使……重新想起来，使……记起来
+
+<!-- 插图：男子看着照片思念“母亲！” -->
+
+::: {.etymo}
+单词remind本身并不难。但是，有一个关于remind的惯用表达一定要记住，即“remind A of B 提醒A记起B”。在英语中有很多语法是绝对不能任意改变的，其中最有代表性的就是remind。试想一下！如果说“She reminds me.”，意思是“她让我重新想起来。”但是我们却不知道到底让我想起了什么。只有像“She reminds me of my dead mother. 她让我想起了死去的妈妈。”这种表达方式才能传达完整的意思。另外，remind的派生词reminder的词源义是“使……重新想起”，词义是“催涵”，请大家一定要牢牢记住哦！
+:::
+
+<!-- p.462 -->
+
+- **remind** [rɪˈmaɪnd] *vt.* 使……重新想起，使……记起
+  - remind A of B 提醒A想起B
+  - remind A to do sth. 提醒A做某事
+  - remind me to buy some batteries 提醒我去买几块电池
+- **reminder** [rɪˈmaɪndə] *n.* 提醒的人或物，催单
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词remind的名词形式是reminder。reminder有“催涵”之义，但经常被人忽略掉。大家一定要记住该词义哦！
+:::
+
+> Don't **remind** me.
+> 别总提那件事。
+
+> That old song always **reminds** me of my childhood.
+> 这首老歌总让我想起童年往事。
+
+> He paid his electric bill after receiving the second **reminder**.
+> 在收到第二份催单之后，他支付了电费。
+
+## 5. 确定 re-解决 solve，resolve ①解决；②决心
+
+::: {.etymo}
+确信conviction大家差不多都认识solve解决这个词。要是能进一步了解resolve这个词的话就更好了。实际上，前缀re-表示“强调”之义，起强化solve解决词义的作用，因此加上该前缀，单词的词义也没有太大的变化。但，resolve的第二个词义是“决心”，这又是怎么演变而来的呢？请大家想一下！如果犹犹豫豫地hesitant想“到底是这样做还是那样做呢”，怀着这种心情解决问题，其实就是下“决心”的意思。单词resolve的形容词派生词resolute决心的，坚决的也很重要。最后，请将dissolve使溶解这个词也一起记住哦！
+:::
+
+**Voca Map**
+- resolve ①解决 ②决心
+  - ↓
+  - resolution *n.* 解决，决心 = determination
+  - ↓
+  - resolute *adj.* 决心的，坚决的 ↔ irresolute 无决断的 ‖ indecisive
+  - ※名词resolution的意思是“解决，决心”，大家一定要熟记哦！
+
+- **resolve** [rɪˈzɒlv] *vt.* ①解决 = solve；②决心 = decide
+- **resolution** [ˌrezəˈluːʃn] *n.* 解决，决心，决议
+- **resolute** [ˈrezəluːt] *adj.* 决心的，坚决的 ↔ irresolute 无决断的
+
+> Fortunately the crisis was **resolved** by negotiations.
+> 幸运地是，通过谈判危机被解除了。
+
+> After the divorce she **resolved** never to marry again.
+> 离婚之后，她决定永不再婚。
+
+> What is your New Year's **resolution**?
+> 你的新年计划是什么？
+> （New Year's resolution 新年计划）
+
+## 6. 重新 re-纠正 dress，redress 纠正，改正；赔偿金
+
+::: {.etymo}
+单词redress需要大家格外注意caution，redress中的dress总会让人误以为这个单词的词义与“衣服”相关。但，redress的词根dress其实是“right正确的”的意思。只要知道了这一点，掌握redress就不成问题了。
+:::
+
+<!-- p.463 -->
+
+单词redress “纠正”的意思就是从其词源义“重新纠正（错误的东西）”直接发展而来。作名词使用时，redress还有“赔偿金”的意思。将redress与单词remedy放在一起记忆比较容易，remedy的词源分析是：re-重新+med改正+-y名词后缀→重新改正，所以remedy的词义是“改正，纠正”。
+
+<!-- 插图：赔偿金 -->
+
+- **redress** [rɪˈdres] *vt.* 纠正，改正=correct, rectify ; *n.* 赔偿金=compensation, reparations
+  - redress injustices 纠正不公
+- **remedy** [ˈremɪdi] *vt.* 改正，纠正；*n.* ①治疗=therapy ; ②解决方案=solution
+  - a remedy for colds 治疗感冒
+  - a remedy for racial discrimination 关于种族歧视的解决方案
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词redress与remedy虽然词义相似，但还是有区别的：redress常用作动词，是“纠正，改正”的意思，而remedy则常用作名词，是“治疗，解决方案”的意思。
+:::
+
+> Little could be done to **redress** the situation.
+> 没有什么方法可以纠正这种状况的。
+
+> The only hope of **redress** is in a lawsuit.
+> 能够获得赔偿金的唯一希望是提起诉讼。
+
+> **Remedy** the barn door after the horse is stolen.
+> 亡羊补牢。
+> （barn [bɑːn] 畜棚，谷仓）
+
+## 7. 不停地 re-，溢出 dund，redundant 过剩的，剩余的
+
+<!-- 插图：两个人 -->
+
+::: {.etymo}
+比较一下redundant与abundant。分析abundant的词源为：ab-离开 (away)+und水波 (wave)+-ant形容词后缀→溢出的，所以abundant是“丰富的”的意思，而redundant的词源义是“总是溢出的”，即“过剩的，剩余的”。简而言之，redundant是因为没用的东西过多，所以为“用不完的，没有必要的”的意思，一般多用在否定的语境中。名词redundancy原本是“（语言的）不必要的重复”，“（对人力资源过剩的）整理，裁员”，大家一定要了解这一点哦！
+:::
+
+- **redundant** [rɪˈdʌndənt] *adj.* 过剩的，剩余的=superfluous
+  - redundant population 过剩人口
+- **redundancy** [rɪˈdʌndənsi] *n.* 不必要的重复，解雇，裁员=layoff
+  - redundancy pay 遣散费
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词abundant与redundant的区别：abundant是“丰富到快要溢出来的程度（表肯定）”的意思；redundant是“总是满到快要溢出来→过剩的，剩余的（表否定）”的意思
+:::
+
+> As the economy weakens, more and more jobs will be made **redundant**.
+> 随着经济的衰退，越来越多的工作岗位将被裁掉。
+
+> The closure of the factory led to over 300 **redundancies**.
+> 工厂的倒闭导致超过300人被解雇。
+
+<!-- p.464 -->
+
+## 8. 重新、再 re- 重复 iterate，reiterate 重复
+
+::: {.etymo}
+单词iterate本身就是“重复”的意思，其词根ite也是“重新again”的意思，在这里加上后缀-ate做就变成了“重复”之义。再加上前缀re-重新就组成了单词reiterate再次重复。一般情况下，iterate与reiterate的词义相同，但感情色彩却不同，iterate指单纯地“重复”，而reiterate则带有为了强调emphasis前面说过的话而再次“重复”的感情色彩nuance。现在大家知道这两个单词的区别了吧？
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词iterate与reiterate的区别：iterate（单纯地）重复；reiterate（为了强调前面说过的话）重复要点
+:::
+
+- **reiterate** [rɪˈɪtəreɪt] *vt.* 重复（要点）=repeat, restate
+  - reiterate one's assertion 重复某人的主张
+  - reiterate one's refusal 再次拒绝
+- **reiteration** [rɪˌɪtəˈreɪʃn] *n.* 重复
+
+> Let me **reiterate** the most important points.
+> 让我重申一下最重要的要点。
+
+> The President **reiterated** his support for the treaty.
+> 总统重申他支持该条约。
+
+---
+
+## 9. 经常 re- 提到的名字 nown，renown 名望、声望
+
+<!-- 插图：名人照片 -->
+
+::: {.etymo}
+单词renown中词根nown是“名字name”的意思，在其前加上前缀re-反复，词源义就变成了“经常被提到的名字”，单词义即为“名望”。如果大家在自己的领域里也经常被人提到自己的名字，那也就是有“名望”了。
+:::
+
+- **renown** [rɪˈnaʊn] *n.* 名望、声望 =prestige, reputation
+  - public renown 盛名在外
+  - international renown 国际声誉
+- **renowned** [rɪˈnaʊnd] *adj.* 著名的 =famous, prestigious
+  - a renowned university 著名的大学
+
+> The director won world **renown** for his films.
+> 该导演因所执导的电影赢得了世界声誉。
+
+> She graduated from a **renowned** university.
+> 她毕业于一所著名的大学。
+
+<!-- p.465 -->
+
+## 10. 将丢失的东西重新 re- 找回来 trieve，retrieve 重新找到；挽回，修复
+
+::: {.etymo}
+单词retrieve的词根triev(e)是“找到find”的意思。因此，retrieve的词源义是“（将丢失的东西）重新找回来”，单即“重新找到；挽回，修复”。
+:::
+
+<!-- 插图：叼着物品的猎犬 -->
+
+- **retrieve** [rɪˈtriːv] *vt.* ① 重新找到，挽回，修复 = recover, regain, bring back ② 检索（信息）= find out
+  - retrieve the lost money 找回了丢失的钱
+  - retrieve a deleted file 找回了删除的文件
+- **retrievable** [rɪˈtriːvəbl] *adj.* 可补偿的 ↔ irretrievable 不能弥补的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+词组 **retrieve information** 是“（在电脑上）检索信息”的意思，这个词组使用频率很高，大家一定要牢牢记住哦！
+:::
+
+> Once lost, time cannot be **retrieved**.
+> 时间一去不复返。
+
+> It took five hours to **retrieve** all the bodies from the crash.
+> 从撞车事故发生到找回所有死者，花了5个小时。
+
+> The new version of the software automatically **retrieves** digital information.
+> 这个新版本的软件可以自动在电脑上检索数字信息。
+
+## 单词回顾
+
+::: {.etymo}
+1. 重新构成
+   → 改革，改善 ______
+2. 丢失了多少再重新补上
+   → 退款 ______
+3. 重新注入力量
+   → 强化，加固 ______
+4. 重新想起来
+   → 使……重新想起来，使……记起来 ______
+5. 确定解决
+   → ① 解决；② 决心 ______
+6. 重新纠正
+   → 纠正，改正；赔偿金 ______
+7. 不停地溢出
+   → 过剩的，剩余的 ______
+8. 再次重复
+   → 重复 ______
+9. 经常提到的名字
+   → 名声 ______
+10. 将丢失的东西重新找回来
+    → 重新找到；挽回，修复 ______
+:::
+
+答案 1. reform 2. refund 3. reinforce 4. remind 5. resolve 6. redress 7. redundant 8. reiterate 9. renown 10. retrieve
+
+<!-- p.466 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. refund ______
+2. reinforce ______
+3. redress ______
+4. redundant ______
+5. reiterate ______
+6. retrieve ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 新任会长声称将对公司进行**改革**______。
+2. 我退了那个产品，并得到了**退款**______。
+3. 我们公司应该再稍微**强化**______一下市场领域。
+4. 他**决心**______做那件事儿。
+5. 再**改正**______一下做错的事情吧！
+6. 大城市的人口**过剩**______问题很严重。
+7. 再给大家**重复**______一下要点怎么样？
+8. 那个明星**声名**______享誉世界。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Good books will **reinforce** your spirit.
+   A. enforce
+   B. resolve
+   C. fortify
+
+2. That song always ______ me of our first date.
+   A. reminds
+   B. apprises
+   C. informs
+
+3. He achieved some **renown** as a football player.
+   A. presage
+   B. prestige
+   C. vestige
+
+4. The picture has too much **redundant** detail.
+   A. needless
+   B. useful
+   C. futile
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [reform]{.headword} | rɪˈfɔːm | v | 改革，革新 =improve, revamp ; *n.* 改革，革新 |
+| [reinforce]{.headword} | ,riːɪn'fɔːs | vt | 强化，加固 = strengthen, fortify, beef up |
+| [reinforcement]{.headword} | ,riːɪn'fɔːsmənt | n | 加强，加固 |
+| [enforce]{.headword} | ɪn'fɔːs | vt | ①实施，执行；②强迫 = compel |
+| [enforcement]{.headword} | ɪn'fɔːsmənt | n | 执行，强制 |
+| [reminder]{.headword} | rɪˈmaɪndə | n | 提醒的人或物，催单 |
+| [redress]{.headword} | rɪˈdres | vt | 纠正，改正=correct, rectify ; *n.* 赔偿金=compensation, reparations |
+| [remedy]{.headword} | ˈremɪdi | vt | 改正，纠正；*n.* ①治疗=therapy ; ②解决方案=solution |
+| [redundant]{.headword} | rɪˈdʌndənt | adj | 过剩的，剩余的=superfluous |
+| [redundancy]{.headword} | rɪˈdʌndənsi | n | 不必要的重复，解雇，裁员=layoff |
+| [reiterate]{.headword} | rɪˈɪtəreɪt | vt | 重复（要点）=repeat, restate |
+| [reiteration]{.headword} | rɪˌɪtəˈreɪʃn | n | 重复 |
+| [renown]{.headword} | rɪˈnaʊn | n | 名望、声望 =prestige, reputation |
+| [renowned]{.headword} | rɪˈnaʊnd | adj | 著名的 =famous, prestigious |
+| [retrieve]{.headword} | rɪˈtriːv | vt | ① 重新找到，挽回，修复 = recover, regain, bring back ② 检索（信息）= find out |
+| [retrievable]{.headword} | rɪˈtriːvəbl | adj | 可补偿的 ↔ irretrievable 不能弥补的 |
+

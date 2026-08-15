@@ -1,0 +1,390 @@
+# Day 49 · 表示向前的pro- {.unnumbered}
+
+::: {.root-banner}
+Day 49 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p433–p440
+
+<!-- p.418 -->
+
+与前面学过的pre-相比，前缀pro-表示的是空间上的“向前forth”。前面我们已经提到过，pre-预先，首先和pro-向前应该区分开来。但是因为发音上的需要，pro-经常变为pur-。这种变化在我们看来也许不是很熟悉，但purpose目的、意图，purport主旨，purview范围、领域，pursue追踪中的pur-都是前缀pro-的变形。
+
+## 1. pro-表示forth
+
+- **pro-**向前(forth) + **mot(e)**移动(move)（使……向前）→ **promote** 促进；升职
+- **pro-**向前(forth) + **fic**制作(make) + **-(i)ent**形容词后缀（紧赶着向前）→ **proficient** 熟练的
+- **pro-**向前(forth) + **mis**送(send) + **-ing**正在做（向前送走，（未来）已经确定好的）→ **promising** 有希望的，有前途的
+- **pro-**向前(forth) + **fus**倾泻（（数量多得溢了出来）向前倾泻）→ **profuse** （量）非常多的，慷慨的
+- **pro-**向前(forth) + **sper**成功(succeed)（向前走向成功）→ **prosper** 昌盛，繁荣
+- **pro-**向前(forth) + **min**凸出(protrude) + **-ent**形容词后缀（向前凸出，看起来很明显的）→ **prominent** 显眼的，重要的
+- **pur-**向前(forth) + **pose**放下（（向前）放下的意思）→ **purpose** 目的，意图
+- **pro-**向前(forth) + **phe**说 + **-t**人（预算未来的人）→ **prophet** 预言者
+- **pur-**向前(forth) + **sue**跟着(follow)（追赶）→ **pursue** 追赶，追捕
+- **pur-**向前(forth) + **port**运送(carry)（（将意思）向前移动）→ **purport** 意图、主旨
+
+<!-- p.419 -->
+
+## 1. 向前pro-推进mot，promote①促进，奖励；②升职，宣传
+
+<!-- 插图：办公室里两名同事在电脑前讨论 -->
+
+::: {.etymo}
+单词promote的词源义是“向前移动”。向后退缩总是不如向前移动好。单词promote的意思从“促进经济或商品向前进”变成了“促进，奖励”；从“将人的职责向前推进”变成了“升职”；从“促进商品的销售”变成了“宣传”。虽然它有三层词义，但其实都来源于其词源义“使……向前推进”。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词promote主要是“宣传”的意思。
+大家都听说过将自己“在别人面前PR”之类的话。PR是Public Relations的缩写，是“公关活动”之义，只要知道这些就可以了！
+:::
+
+- **promote** [prəˈməʊt] *vt. & vi.* ①促进，奖励=encourage ②升职，宣传
+  - promote tree growth 促进树的生长
+  - policies to promote economic growth 促进经济增长的政策
+- **promotion** [prəˈməʊʃn] *n.* 提升；促进；促销宣传
+
+> The President held a meeting to **promote** trade between China and Korea.
+> 总统召开了旨在促进中韩贸易往来的会议。
+
+> Judy was **promoted** to senior manager.
+> 朱蒂被提升为高级经理。
+
+> The famous actress visited South Korea to **promote** her new movie.
+> 那个著名的女演员为了给自己出演的新电影造势，访问了韩国。
+
+## 2. 事先pro-约好mis的，promising（未来）有希望的，有前途的
+
+::: {.etymo}
+大家都知道单词promise是“约定”的意思。那promising这个词又是什么意思呢？如果你回答是“约定的”的话，那就错了！虽然promise是“约定”的意思，且源于“将想做……的意图向前推进”，但promising源于词源义“未来是约定好的”。于是，其词义应为“有希望的，有前途的”，promising虽源于promise，但要明确区分两者的词源义。
+:::
+
+- **promise** [ˈprɒmɪs] *n.* 约定 *v.* 约定
+- **promising** [ˈprɒmɪsɪŋ] *adj.* 有希望的，有前途的=hopeful, auspicious, up-and-coming
+  - a promising young singer 一个很有前途的年轻歌手
+  - the promising future 有希望的未来
+
+> Jonathan is one of our most **promising** employees.
+> 乔纳森是我们公司最有前途的员工之一。
+
+<!-- p.420 -->
+
+> My grandfather gave up a **promising** career in law to fight for his country.
+> 我的祖父为了为国家而战，因此他放弃了大有前途的律师事业。
+
+## 3. 向前 pro- 成功 sper，prosper 昌盛，繁荣
+
+<!-- 插图：繁华城市高楼大厦 -->
+
+::: {.etymo}
+管理公司run a company的CEO们都有一个共同点：他们都会为了prosper自己的公司而奔波。单词prosper的词根-sper是succeed成功的意思，其词义“昌盛，繁荣”源于其词源义“推进、向前、成功”。有意思的是，在汉语中，“繁荣、繁昌、繁盛”这三个词词义相同。而在英语中，prosper、thrive、flourish也都是同义词。其中，flourish是flower花朵变形而来的动词，其词源义是“花儿绽放bloom”。
+:::
+
+- **prosper** [ˈprɒspə] *vi.* 繁荣，昌盛 = thrive, flourish
+- **prosperity** [prɒˈsperəti] *n.* 兴旺
+  - a time of economic prosperity 经济繁荣期
+- **prosperous** [ˈprɒspərəs] *adj.* 繁荣的，兴旺的
+  - a prosperous businessman 一个事业有成的商人
+
+> India's software companies have **prospered** by keeping costs to the bare minimum.
+> 印度的软件公司通过保持最低成本运作而兴旺起来。
+
+> These groups keep their unique cultural identities but also live and **prosper** next to each other.
+> 这些团体保持他们独特的文化特征的同时共存共荣。
+> （identity [aɪˈdentəti] 特征）
+
+## 4. 向前 pro- 提出 pose，purpose 目的，意图
+
+<!-- 插图：靶子 -->
+
+::: {.etymo}
+purpose是一个使用频率很高的词，但很多人都不知道purpose的前缀pur-是从pro-向前变形而来的。含有前缀pro-的典型单词是propose提案，求婚，它与purpose这个词的词源相同，都是指将自己的意思提前表明。单词purpose一般指的是做某事的“目的，意图”。举例来看，射箭archery的purpose就是射中靶子的正中央。有一个很重要的短语on purpose故意的，有意的，大家一定要记住哦！
+:::
+
+<!-- p.421 -->
+
+- **purpose** [ˈpɜːpəs] *n.* 目的，意图 = aim, objective, intention
+  - on purpose 故意地 = deliberately, intentionally
+  - for the purpose of 为的是，为了……起见
+- **purposeful** [ˈpɜːpəsfl] *adj.* 有目的的，有决心的
+
+> What's the **purpose** of your visit?
+> 你这次来访的目的是什么？
+
+> The **purpose** of this meeting is to elect a new chairman.
+> 这次会议的目的是选一个新的主席。
+
+> Whether **on purpose** or by mistake, you must apologize to your sister.
+> 不管是故意的还是无意的，你必须向姐姐道歉。
+
+## 5. 朝某方向追赶sue，pursue追赶……，追求
+
+::: {.etymo}
+前缀pur-是由pro-变化发音而来的，这一点在学习purpose时就已经说过了。那么词根sue又是什么意思呢？词根sue是“追赶follow”的意思。因此，pursue词源义是“追在……的后面”，即“追击，追求”。
+:::
+
+<!-- 插图：拿着放大镜顺着脚印追踪的人 -->
+
+含有该词根的单词还有ensue，它主要以词组ensue from跟着发生，因而产生的表达出现，词根sue还有“追赶”的意思。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词purpose（目的，意图）与pursue（追击，追求）的前缀pur-是pro-的变形，这一点需要再跟大家强调一遍！
+:::
+
+- **pursue** [pəˈsjuː] *vt.* 追赶……，追击，追求
+- **pursuit** [pəˈsjuːt] *n.* 追求；追逐
+- **ensue** [ɪnˈsjuː] *v.* 跟着发生，继起，因而产生
+  - ensue from 结果产生，结果是
+- **ensuing** [ɪnˈsjuːɪŋ] *adj.* 继而发生的，接下来的
+
+> All students should **pursue** their own interests.
+> 所有学生都应追求他们自己的兴趣。
+
+> There are many problems that **ensue from** food and medical shortages.
+> 很多问题都是由于食物和药物的短缺而导致。
+
+## 6. 向前pro-制作fic，proficient熟练的，娴熟的
+
+::: {.etymo}
+现场看麻花大叔做麻花的话，你会发现他是抓住面团的中间部位伸长扭转做成麻花。真的是一副向前拉着制作麻花的娴熟proficient模样！像这样，就是proficient熟练的，娴熟的。大家都在什么领域proficient呢？
+:::
+
+<!-- p.422 -->
+
+- **proficient** [prəˈfɪʃnt] *adj.* 熟练的，娴熟的 = adept, adroit, deft, dextrous
+  - proficient in / at 对……精通的
+  - a proficient typist 很娴熟的打字员
+- **proficiency** [prəˈfɪʃnsi] *n.* 熟练，精通
+  - a high level of proficiency in English 英语水平很高
+
+::: {.mnemonic}
+**温馨小贴士**
+
+proficient后面主要跟介词in连用，这个语法点很重要，请大家一定要记牢哦！
+proficient in在……方面熟练的
+:::
+
+> The politician is very **proficient in** dealing with the public.
+> 那个政客在处理公共关系上很娴熟。
+
+> The professor has a high level of **proficiency in** English.
+> 那位教授的英语水平很高。
+
+> The lawyer is **proficient in** both French and Italian, and is an expert in international affairs.
+> 那个律师精通法语和意大利语，是处理国际案件的专家。
+
+## 7. 量多得溢出来，向前 pro-倾泻 fus，profuse 量非常多的，慷慨的
+
+<!-- 插图：水龙头放水，水桶里的水满溢出来 -->
+
+::: {.etymo}
+在水龙头下面放上水桶，然后把水龙头拧开，过一会儿水桶里面的水就会溢出来，描述这个场景的就是profuse。在这里，词根fus是“倾泻，倒pour”的意思。其源义是“（量）多的，非常多的”。相似的词汇还有superfluous，其词源义是：super上面+flu流 (flow) +-ous形容词后缀 → 向上流，即“剩下的，剩余的”之解。比如，脑震荡引起profuse bleeding大出血的话就会有生命危险吧！
+:::
+
+- **profuse** [prəˈfjuːs] *adj.* 很多的，非常多的 = excessive
+  - profuse apology 再三道歉
+  - profuse bleeding 血流如注
+- **profuseness** [prəˈfjuːsnɪs] *n.* 非常丰富（慷慨）
+
+> He made **profuse** apologies to me.
+> 他再三向我道歉。
+
+> **Profuse** sweating is one of the symptoms of heat exhaustion.
+> 大汗淋漓是中暑的症状之一。
+
+## 8. 向前 pro-凸出 min显眼的，prominent ①重要的；②显眼的，突出的
+
+::: {.etymo}
+单词prominent的词源义是“向前凸出的”，其词义为“显眼的”。类似的话语还有eminent，其词源分析是：e（x）外面+min凸出的+-ent
+:::
+
+<!-- p.423 -->
+
+形容词后缀 → 向外凸出的，词义即为“著名的，重要的”。相比之下，重要的不是外边ex-或前面pro-的位置，而是凸出eminent来的。如果凸出来的话，肯定就会很显眼。
+
+- **prominent** [ˈprɒmɪnənt] *adj.* ① 重要的 = important, significant, crucial ② 显眼的，突出的 = outstanding, noticeable, conspicuous
+- **prominence** [ˈprɒmɪnəns] *n.* 声望 = eminence, prestige
+- **eminent** [ˈemɪnənt] *adj.* 著名的，卓越的 = famous, celebrated
+  - an eminent lawyer 著名的律师
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含有词根min-（凸出）的词汇：
+prominent向前凸出的 → ①重要的；②显眼的，突出的
+eminent（人）向外凸出 → 有名的，著名的
+preeminent更向前凸出的 → 特别突出的，杰出的
+\* 与 eminent 相比，preeminent具有更加“优秀”的意思。
+:::
+
+> Is there a **prominent** building nearby?
+> 附近有什么重要的建筑物吗？
+
+> The statue was in a **prominent** position outside the train station.
+> 这个雕塑过去摆在火车站外面很显眼的位置。
+
+> She first came to **prominence** as an writer in 1998.
+> 作为一名作家，她于1998年开始受到关注。
+
+## 9. 说phe前面的pro-事情的人，prophet预言者
+
+<!-- 插图：诺查丹玛斯肖像与预言家漫画 -->
+
+::: {.etymo}
+法国哲学家诺查丹玛斯Nostradamus是世界最权威的预言家prophet，可谓是大名鼎鼎renown。他于1566年去世，他预言未来世界将会发生的各种灾难disaster在他去世后一一命中，于是他也就被列入了大预言家的行列。当然，有关他的争议controversy也很多。像Nostradamus一样的预言家就被称为prophet。
+:::
+
+prophet与单纯“算命先生”fortune-teller是不同的。prophet的动词是prophesy预言，名词是prophecy预言；the Prophet说的是伊斯兰教Muslim的创始人穆罕默德Muhammad。
+
+- **prophet** [ˈprɒfɪt] *n.* 预言者
+  - a prophet of doom 持悲观看法或散布悲观言论者
+- **prophesy** [ˈprɒfɪsaɪ] *v.* 预言 = predict, foretell
+- **prophecy** [ˈprɒfɪsi] *n.* 预言
+
+::: {.mnemonic}
+**温馨小贴士**
+
+我们再重温一下单词prophet（预言家），prophecy（预言），prophesy（预言）的拼写吧！这三个单词很容易混淆，大家一定要注意哦！
+:::
+
+> The **prophecy** that David would become king was fulfilled.
+> 大卫会成为国王的预言应验了。
+
+<!-- p.424 -->
+
+> Some people believe that Nostradamus is the special **prophet**, and that his ideas about the future are correct.
+> 有些人认为诺查丹玛斯是一个很特殊的预言家，他对未来的一些看法都是正确的。
+
+## 10. 将意思向前pro-移动port，purport宗旨，要旨；主张
+
+::: {.etymo}
+与前缀pur-相关的单词已经是第三次出现了！大家如果觉得purport这个单词很生疏的话，就先想一下前面学习的purpose目的，意图吧，因为两者的词源和词义很相近。purport的词义“宗旨，要旨”源于其词源义“（将意思）向前移动”。purport既可以用作名词又可以用作动词。在这里再向大家强调一遍前缀pur-是pro-的变形，这可是很重要的知识点哦。
+:::
+
+<!-- 插图：老师指着黑板讲课，上面写着“我爱辣椒”，气泡文字“恩，今天上课的主旨是……” -->
+
+**Voca Map**
+- propose 提议
+  - ↓
+  - purpose 目的
+    - ↓
+    - purport 宗旨，要旨
+
+- **purport** [pəˈpɔːt] *n.* 宗旨，要旨 = meaning, intent, tenor *vt.* 主张 = allege
+  - the purport of the speech 演讲的要旨
+  - the purport of my question 我的问题的宗旨
+
+> The **purport** of his speech was to promise freedom of religion.
+> 他这次演讲的宗旨是承诺宗教的自由。
+
+> This book **purports** how we can sing easily and well.
+> 这本书旨在告诉我们如何又好又简单地唱歌。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 向前移动
+   → ①促进，奖励；②升职，宣传 ______
+2. 事先约好的
+   → （未来）有希望的，有前途的 ______
+3. 向前成功
+   → 昌盛，繁荣 ______
+4. 向前放
+   → 目的，意图 ______
+5. 朝某方向追赶
+   → 追赶……，追求 ______
+6. 向前制作
+   → 熟练的，娴熟的 ______
+7. 量多得溢出来，向前倾泻
+   → 量非常多的，慷慨的 ______
+8. 向前凸出，显眼的
+   → ①重要的；②显眼的，突出的 ______
+9. 说未来事情的人
+   → 预言者 ______
+10. 将意思向前移动
+    → 宗旨，要旨；主张 ______
+:::
+
+> 答案 1. promote 2. promising 3. prosper 4. purpose 5. pursue 6. proficient 7. profuse 8. prominent 9. prophet 10. purport
+
+<!-- p.425 -->
+
+## 确认并攻克下列单词
+
+### 请写出下面单词的词义。
+
+1. promising ______
+2. prosper ______
+3. pursue ______
+4. proficient ______
+5. profuse ______
+6. purport ______
+
+### 请写出下列阴影标识部分的单词。
+
+1. 我们正在寻找宣传______新商品的方法。
+2. 那个选手的未来还是很有希望的______。
+3. 在追求______自己想做的事情时是最幸福的。
+4. 他凭借熟练的______手艺做了比萨。
+5. 他因为出血过多______而死亡。
+6. 那座建筑比较显眼______，很容易找到。
+7. 他是一个让很多人紧张的预言者______。
+8. 他演讲的宗旨______是世界和平。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Fertilizer ______ leaf growth.
+   A. pursues
+   B. promotes
+   C. promulgates
+
+2. Matthew is a ______ young dancer with lots of stage experience.
+   A. promising
+   B. progressing
+   C. dismissing
+
+3. Our manager is **proficient** in Japanese.
+   A. prosperous
+   B. sufficient
+   C. skillful
+
+4. The **purport** of his speech was world peace.
+   A. intent
+   B. detention
+   C. pursuit
+
+---
+
+## 本日词汇速查（23 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [pur-]{.headword} |  |  | 向前(forth) + **pose**放下（（向前）放下的意思）→ **purpose** 目的，意图 |
+| [promote]{.headword} | prəˈməʊt | vt. & vi | ①促进，奖励=encourage ②升职，宣传 |
+| [promotion]{.headword} | prəˈməʊʃn | n | 提升；促进；促销宣传 |
+| [promise]{.headword} | ˈprɒmɪs | n | 约定 *v.* 约定 |
+| [promising]{.headword} | ˈprɒmɪsɪŋ | adj | 有希望的，有前途的=hopeful, auspicious, up-and-coming |
+| [prosper]{.headword} | ˈprɒspə | vi | 繁荣，昌盛 = thrive, flourish |
+| [prosperity]{.headword} | prɒˈsperəti | n | 兴旺 |
+| [prosperous]{.headword} | ˈprɒspərəs | adj | 繁荣的，兴旺的 |
+| [purpose]{.headword} | ˈpɜːpəs | n | 目的，意图 = aim, objective, intention |
+| [purposeful]{.headword} | ˈpɜːpəsfl | adj | 有目的的，有决心的 |
+| [pursuit]{.headword} | pəˈsjuːt | n | 追求；追逐 |
+| [ensue]{.headword} | ɪnˈsjuː | v | 跟着发生，继起，因而产生 |
+| [ensuing]{.headword} | ɪnˈsjuːɪŋ | adj | 继而发生的，接下来的 |
+| [proficient]{.headword} | prəˈfɪʃnt | adj | 熟练的，娴熟的 = adept, adroit, deft, dextrous |
+| [proficiency]{.headword} | prəˈfɪʃnsi | n | 熟练，精通 |
+| [profuseness]{.headword} | prəˈfjuːsnɪs | n | 非常丰富（慷慨） |
+| [prominent]{.headword} | ˈprɒmɪnənt | adj | ① 重要的 = important, significant, crucial ② 显眼的，突出的 = outstanding, noticeable, conspicuous |
+| [prominence]{.headword} | ˈprɒmɪnəns | n | 声望 = eminence, prestige |
+| [eminent]{.headword} | ˈemɪnənt | adj | 著名的，卓越的 = famous, celebrated |
+| [prophet]{.headword} | ˈprɒfɪt | n | 预言者 |
+| [prophesy]{.headword} | ˈprɒfɪsaɪ | v | 预言 = predict, foretell |
+| [prophecy]{.headword} | ˈprɒfɪsi | n | 预言 |
+| [purport]{.headword} | pəˈpɔːt | n | 宗旨，要旨 = meaning, intent, tenor *vt.* 主张 = allege |
+

@@ -1,0 +1,359 @@
+# Day 31 · 众所周知的是food，最重要的是health {.unnumbered}
+
+::: {.root-banner}
+Day 31 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p275–p282
+
+<!-- p.260 -->
+
+小时候看过的有趣的动画片animation中，有一个叫做大力水手“波比Popeye的故事，讲的是波比只要吃了菠菜spinach，他的力量就会变大，凭着力气他打退恶势力布鲁托。众所周知，菠菜是对身体很好的一种食物。食物是健康的关键！因此，food和health这两个单词是无法分割的。今天就让我们一起来学习一下与food和health相关的词汇吧！
+
+<!-- 插图：大力水手波比吃菠菜 -->
+
+**Voca Map：food 食品**
+- food 食品
+  - feed 喂
+  - foster 养育
+  - fodder （家畜的）饲料
+  - forage 觅食
+
+**Voca Map：health 健康**
+- health 健康
+  - heal 治病、痊愈
+  - hail 欢呼
+  - holy 神圣
+  - wholesome 有益于健康的
+
+<!-- p.261 -->
+
+## 1. 众所周知的 food 食物，食品
+
+::: {.etymo}
+就算英语再差的人肯定也知道food这个单词。跟food相关联的表达方式可以说是无穷无尽。让我们先从食物、食品的种类kind开始学起吧！食品的种类有很多，比方说：冷冻食品frozen food，加工食品processed food，垃圾食品junk food，有机食品organic food，快餐fast food，罐头食品canned food等。按照味道taste或食品性质nature的不同，又可以分为辛辣食品spicy food，油腻食品fatty food，咸味食品salty food等。此外，根据食品着色剂food coloring和食品添加剂food additives的不同，食品还可以分为很多种，与此对应的词汇和表达方式也有很多。
+:::
+
+- **food** [fu:d] *n.* 食物
+  - frozen food 冰冻食品，processed food 加工食品，junk food 垃圾食品
+  - organic food 有机食品，canned food 罐装食品
+  - spicy food 辣味食品，fatty food 高脂肪食品，salty food 咸的食物
+  - food coloring 食品着色剂，food additives 食品添加剂
+
+> How about Italian **food** for a change?
+> 咱们换换口味、改吃意大利餐怎么样？
+
+> People are willing to pay more for **organic food**.
+> 人们愿意为有机食品出更高的价格。
+> （be willing to do sth. 愿意做……）
+
+> The restaurant serves good **food** at affordable prices.
+> 这家餐馆的食物很不错，价格也合理。
+> （affordable [ə'fɔːdəbl] 负担得起的）
+
+## 2. 单词 food 的动词是 feed 喂
+
+<!-- 插图：两只小狗在吃盆里的食物 -->
+
+::: {.etymo}
+单词food的动词是feed喂。我们经常说的feed a baby意思是“喂小孩儿”，feed a dog是“喂狗”的意思。与feed相关的俗语特别重要，那就是be fed up with厌烦的，令人作呕。偶尔吃一次拉面会觉得味道很好，可是如果连续一个月一日三餐都吃拉面呢？会觉得吃腻了吧！说不定只要闻到拉面的味儿就有可能呕吐sickness。这时要使用的俗语就是be fed up with。另外，同学们一定要记住feed back反馈这个表达方式哦！
+:::
+
+- **feed** [fi:d] *vt.* 给……东西吃
+- **well-fed** ['wel'fed] *adj.* 营养充足的，肥胖的
+- **under-fed** ['ʌndə(r)'fed] 营养不好的 = poorly-fed
+- be fed up with 厌烦的，令人作呕
+- feed back 反馈，反应
+
+<!-- p.262 -->
+
+> Have you **fed** the dog this morning?
+> 早上你喂狗了吗？
+> I'm really **fed up** with your continual pretexts.
+> 我对你不断的托辞感到厌烦。
+> （pretext ['priːtekst] 托辞，借口）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+动词 feed 的不规则变化：
+feed—fed—fed。
+:::
+
+## 3. 由 food 派生的名词 fodder 家畜的饲料；作品的素材
+
+::: {.etymo}
+将food去掉一个o，在其词根fod(d)后加上名词性后缀-er，产生的新单词就是fodder，指“吃的东西”，在这里通常指“家畜的饲料，草料”。不过fodder实际使用中还多用于记者或作家的素材，即“（记事、作品的）素材”，大家一定要记住！在考试中，经常考fodder这个词作为material素材这一词义的用法。
+:::
+
+<!-- 插图：吃草料的马 -->
+
+- **fodder** ['fɒdə(r)] *n.* 1.（家畜的）饲料，草料
+  2.（专用于某种用途的）素材=material
+  - fodder for tabloid 专供小报使用的素材
+  - fodder for her novel 供她小说使用的素材
+
+> Their marriage made prime **fodder** for newspapers.
+> 他们的婚姻给报纸提供了原始的素材。
+
+> Hollywood's top stars often become **fodder** for parody.
+> 好莱坞的大牌明星们常成为滑稽模仿作品的素材。
+
+## 4. 表示“给 food”的动词 foster 喂养，养育，培养
+
+<!-- 插图：父母抱着婴儿 -->
+
+::: {.etymo}
+单词foster的词源义是“给食物”，因此，foster是“喂养，养育”的意思。实际上，如果经常读英文报纸，你会发现这个单词出现的频率相当considerably高。比如，foster the new growth industry培养新兴产业。单词foster还有“将孩子交给别人代养”的意思。假如某人得了重病serious disease不能抚养孩子，于是将孩子交给自己的妹妹代养，这种情况就可以称为foster。它跟收养adopt（孩子）还是有区别的。
+:::
+
+<!-- p.263 -->
+
+- **foster** ['fɒstə(r)] *vt.* 喂养，养育，培养 = encourage, promote
+  - foster parents 养父母；寄养父母
+  - foster child 培养小孩
+  - foster the spread of the disease 促进了疾病的传播
+
+> **Fostering** a teenager is obviously different from fostering a small child.
+> 教育一个年轻人和培养一个小孩子显然是不同的。
+
+> The government made a plan to **foster** tourism.
+> 政府制订了培育旅游产业的计划。
+> （tourism 旅游业）
+
+## 5. 到处找 food 的 forage 到处寻找（食物）
+
+<!-- 插图：人们在荒野中搜寻食物 -->
+
+::: {.etymo}
+由 food 演变而来的还有另外一个单词 forage，表示“到处找吃的东西”的意思。需要注意的是，forage 多用作不及物动词，因此要与介词 for 结合在一起使用。其正确的表达方式为 forage for food 到处寻找食物。除了寻找食物外，还可以 forage for cheap products 寻找便宜的商品。
+:::
+
+- **forage** ['fɒrɪdʒ] *vi.* 到处找（吃的东西）= search for food
+  - forage for firewood 到处找柴火
+  - forage for cheap products 到处寻找便宜的产品
+
+> The desperate refugees were forced to **forage** for food.
+> 绝望的难民不得不到处寻找食物。
+> （refugee [ˌrefjuˈdʒiː] 难民）
+
+> Surf the Internet to **forage** for the lowest price of the product.
+> 浏览网页去寻找产品的最低价。
+
+## 6. 世界上最重要的东西 health 健康
+
+::: {.etymo}
+大家认为世界上最重要的东西是什么呢？就算有再多的钱，还是 health 最重要吧！身体健康状况不好 ill health 的人应该抓紧时间通过保健 health care 来改善健康 improve the health 状况。不过大家不要忘了，健康除了指身体健康 physical health 外，还有精神健康 mental health。还有，大家都听说过 WHO 世界卫生组织吧？WHO 是首字母构成的缩略词 acronym，它的全拼是 World Health Organization。
+:::
+
+<!-- p.264 -->
+
+- **health** [helθ] *n.* 健康
+  - ill health 不健康, health care 卫生保健
+  - improve the health 改善健康状况
+  - physical health 身体健康, mental health 精神健康
+  - WHO = World Health Organization 世界卫生组织
+- **healthy** [ˈhelθɪ] *adj.* 健康的
+- **healthful** [ˈhelθfl] *adj.* 有益健康的
+
+> Excessive drinking can seriously damage your **health**.
+> 饮酒过度会严重损害你的健康。
+
+> A low-fat diet is better for your **health**.
+> 低脂的饮食对你的健康更好。
+> （diet [ˈdaɪət] 1. 饮食 2. 国会）
+
+> The healthy know not of their **health**, but only the sick.
+> 人在健康的时候对身体不以为意，只有生病了，才知道健康的重要。
+
+## 7. 单词 health 的动词形式是 heal 治病，痊愈
+
+<!-- 插图：医生正在与老年患者交谈 -->
+
+::: {.etymo}
+你知道吗？health的动词形式就是heal。仔细看，heal和health的外形还真有些相似吧。生病diease痊愈heal后，不就可以说恢复健康health了吗。
+:::
+
+单词heal的词源义是“变得健康，恢复健康”。因此，它是“（病）痊愈，治（病）”的意思。类似的单词cure则带有一些医学性medical的色彩，意思是“治（病）”；treat治疗与cure也没什么大的差别。
+
+- **heal** [hiːl] *vi.* (病) 痊愈
+  - *vt.* 治 (病) = cure, treat
+  - heal the sick 治愈病患
+- **healing** [ˈhiːlɪŋ] *n.* 康复，痊愈 = treatment
+  - faith healing 信仰疗法
+
+> Time **heals** all wounds.
+> 时间抚平所有的创伤。
+
+> It took four months for my broken left leg to **heal** up.
+> 我受伤的左腿花了四个月才完全康复。
+
+> The trauma of divorce can often be **healed** by successful remarriage.
+> 离婚所造成的创伤通常能被成功的再婚治愈。
+> （trauma [ˈtrɔːmə] 伤口）
+
+<!-- p.265 -->
+
+## 8. 跟 heal 词源相同的单词 holy 神圣的，虔诚的
+
+<!-- 插图：教堂玫瑰窗彩绘玻璃 -->
+
+::: {.etymo}
+让我们一起来看一下单词heal痊愈和holy神圣的吧。这两个单词都是源于whole全体的，完全的这个单词。在圣诞颂歌中，有句歌词是“Holy night...Silent night...”吧？是的，它的意思是“神圣的夜晚，宁静的夜晚”。本来，holy词源的意思是“毫无损伤，完整保存的”，后来慢慢引申为“神圣的，虔诚的”。语义相同，却更难记住的还有一个单词sacred，大家最好一起记。实际上，在考试中sacred比holy出现的频率要高。理解了sacred这个词，那么consecrate奉为神圣也就不难理解了！
+:::
+
+- **holy** [ˈhəʊli] *adj.* 神圣的，虔诚的 = sacred, religious
+  - Holy Grail 圣杯，圣盘
+  - a holy man 圣洁的人
+
+> Jerusalem is a **holy** city for Christians.
+> 耶路撒冷是基督教的圣城。
+
+> As a nun, she led a **holy** life attending on the sick.
+> 作为一名修女，她一直过着照看着病人的圣洁生活。（lead a life 过生活）
+
+> The cure for cancer will be the **Holy Grail** of modern medicine.
+> 治愈癌症的药物将会是现代医学的圣杯（最终的目标）。
+
+## 9. 由 heal 经过元音变化后形成的单词 hail 欢呼、（举着手）招呼车
+
+<!-- 插图：一群人举手欢呼 -->
+
+::: {.etymo}
+单词heal发生元音变化形成的单词就是hail。即hail是从词源“健康的（好的）反应”衍生成“欢呼”的。
+:::
+
+除了可以表示“欢呼”外，hail还有另外一个义项“（举着手）招呼车”需要大家记住。此外，hail作名词使用时有一个跟“欢呼”完全不沾边的意思“冰雹”。因此，a hail of bullets的意思是“一阵弹雨”，而a hail of criticism的意思是“一通批评”。
+
+- **hail** [heɪl] *vt.* 1. 欢呼 = acclaim 2. （举着手）招呼车 *n.* 冰雹
+  - hail a taxi 招呼出租车
+  - hail a hero 对英雄的欢呼
+
+<!-- p.266 -->
+
+> The director's first film was immediately **hailed** as a masterpiece.
+> 这位导演的第一部作品就被尊为杰作。
+> （masterpiece [ˈmɑːstəpiːs] 杰作）
+
+> The hotel usher will **hail** a taxi for you.
+> 酒店的引导员会帮你招呼出租车。
+> （usher [ˈʌʃə(r)] 引导员）
+
+## 10. 身体完全处于健康状态 wholesome 有益健康的
+
+::: {.etymo}
+你知道吗？**whole** 全体的和 **wholesome** 有益健康的是两个词义完全不同的单词。前面我们已经说了 health 源于 whole。whole 现在经常译为“整体的，完全的”，其实以前它也有“健康的”之解。因为一般情况下人们都会认为身体如果是完好无损的，那么就算是“健康”的。而表达痕迹 vestige 完好无损地保存下来的单词就是 **wholesome** 有益健康的。
+:::
+
+<!-- 插图：餐厅服务员端上一盘健康食物并标注“请用份 wholesome food（健康食物）吧” -->
+
+- **whole** [həʊl] *adj.* 全体的，完全的
+- **wholesome** [ˈhəʊlsəm] *adj.* 有益健康的 =healthful
+  - fresh, wholesome food 新鲜健康的食物
+  - a wholesome dish made with vegetables 用蔬菜做的健康菜肴
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家一定要记住 wholesome 的意思是“有益健康的”，跟“全体的”没有任何关系哦！
+:::
+
+> The restaurant serves only **wholesome** food.
+> 饭店只提供健康的食物。
+
+> The food is both **wholesome** and tasty.
+> 食物既健康又可口。
+
+## 单词回顾
+
+1. 众所周知的“食品”
+   → 食物，食品 ______
+2. food 的动词
+   → 喂 ______
+3. 由 food 派生出的名词
+   → 家畜的饲料；作品的素材 ______
+4. 表示“给 food”的动词
+   → 喂养，养育 ______
+5. 到处找 food
+   → 到处寻找（食物）______
+6. 世界上最重要的东西
+   → 健康 ______
+7. health 的动词形式
+   → 治病，痊愈 ______
+8. 与 heal 词源相同的单词
+   → 神圣的，虔诚的 ______
+9. 由 heal 变化元音后形成的单词
+   → 欢呼，（举着手）招呼车 ______
+10. 身体完全处于健康状态
+    → 有益健康的 ______
+
+答案 1. food 2. feed 3. fodder 4. foster 5. forage 6. health 7. heal 8. holy 9. hail 10. wholesome
+
+<!-- p.267 -->
+
+## 确认并攻克下列单词
+
+### 请写出下列单词的词义。
+
+1. feed `______`
+2. fodder `______`
+3. foster `______`
+4. holy `______`
+5. hail `______`
+6. wholesome `______`
+
+### 请写出下列阴影标识部分的单词。
+
+1. 应该按时给孩子们**喂吃的东西**`______`。
+2. 那个事件也成了历史小说的**重要素材**`______`。
+3. **好好养育**`______`孩子是父母应尽的义务。
+4. **到处找食物**`______`的可怜的孩子们。
+5. **治好**`______`那个病需要很长一段时间。
+6. 那个戒指被认为是很**神圣的**`______`。
+7. 为奥运金牌榜**欢呼**`______`。
+8. 大蒜是一种**有益健康的**`______`代表性食物。
+
+### 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Anna **got fed up with** endless waiting.
+   A. was sick and tired of
+   B. got her back up
+   C. sit on the fence
+
+2. We should make an effort to `______` new growth engines.
+   A. foster
+   B. fertilize
+   C. frustrate
+
+3. Induction cooking has been **hailed** by many as the cooking revolution.
+   A. proclaimed
+   B. disclaimed
+   C. acclaimed
+
+4. We should eat well-balanced **wholesome** meals.
+   A. healthy
+   B. healthful
+   C. healing
+
+---
+
+## 本日词汇速查（15 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [food]{.headword} | fu:d | n | 食物 |
+| [well-fed]{.headword} | 'wel'fed | adj | 营养充足的，肥胖的 |
+| [under-fed]{.headword} | 'ʌndə(r)'fed |  | 营养不好的 = poorly-fed |
+| [fodder]{.headword} | 'fɒdə(r) | n | 1.（家畜的）饲料，草料 |
+| [foster]{.headword} | 'fɒstə(r) | vt | 喂养，养育，培养 = encourage, promote |
+| [forage]{.headword} | 'fɒrɪdʒ | vi | 到处找（吃的东西）= search for food |
+| [health]{.headword} | helθ | n | 健康 |
+| [healthy]{.headword} | ˈhelθɪ | adj | 健康的 |
+| [healthful]{.headword} | ˈhelθfl | adj | 有益健康的 |
+| [heal]{.headword} | hiːl | vi | (病) 痊愈 |
+| [healing]{.headword} | ˈhiːlɪŋ | n | 康复，痊愈 = treatment |
+| [holy]{.headword} | ˈhəʊli | adj | 神圣的，虔诚的 = sacred, religious |
+| [hail]{.headword} | heɪl | vt | 1. 欢呼 = acclaim 2. （举着手）招呼车 *n.* 冰雹 |
+| [whole]{.headword} | həʊl | adj | 全体的，完全的 |
+| [wholesome]{.headword} | ˈhəʊlsəm | adj | 有益健康的 =healthful |
+

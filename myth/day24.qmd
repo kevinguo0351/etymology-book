@@ -1,0 +1,384 @@
+# Day 24 · 扔是 ject，送是 mit {.unnumbered}
+
+::: {.root-banner}
+Day 24 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p214–p221
+
+<!-- p.199 -->
+
+在奥林匹克田径比赛中有个投掷标枪 the javelin 的项目。比赛时，运动员手里拿着标枪，从30多米外开始助跑并用尽最大力把标枪投掷出去。这项比赛最重要的就是怎么把标枪往远处扔。这让我们联想到 ject 和 mit 这两个词根。词根 ject 与 mit 分别是“扔 throw”和“送 send”的意思。
+
+<!-- 插图：运动员投掷标枪 -->
+
+## 1. ject 是 throw
+
+- **ab-** 远远地 + **ject** 扔(throw)（身份）被扔得远远的 → **abject**（指境况）凄惨的
+- **con-** 一起 + **ject** 扔(throw) + **-ure** 名词后缀（把想法）一起扔出来 → **conjecture** 推测，猜测
+- **de-** 向下 + **ject** 扔(throw) + **-ed** 成为……（心情）被扔到下面 → **dejected** 沮丧的，失望的
+- **pro-** 向前 + **ject** 扔(throw) 向前扔 → **project** 发射
+- **re-** 向后 + **ject** 扔(throw) 向后扔 → **reject** 拒绝，抛弃
+
+## 2. mit, mis 是 send
+
+- **com-** 一起，强调 + **mit** 送(send) 把……一起（完整地）送走 → **commit** 犯罪，做坏事；把……托付给
+- **e(x)-** 向外 + **mit** 送(send) 向外放出 → **emit** 发出（光，热等），发射
+- **dis-** 远远地 + **mis(s)** 送(send) 远远地送走 → **dismiss** 解雇，搁置
+- **re-** 向后 + **mit** 送(send) 向后（返回）送 → **remit** 汇款，宽恕，免除
+- **sub-** 向下 + **mit** 送(send) 送到……下面 → **submit** 提交，呈送，顺从
+
+<!-- p.200 -->
+
+## 1. 身份被扔得ject远远的ab-，abject 1.悲惨的 2.卑屈的
+
+<!-- 插图：富人对乞讨者说「求您给点吧」的人物漫画 -->
+
+**abject**由其词源义“（身份）被扔得远远地”引申为“悲惨的”意思。另外，如果把自尊心扔得远远的话，就是“卑屈的，下贱的”意思。举例来说，**abject poverty**就是“一贫如洗”；而**abject apology**就是“卑屈的道歉”了。
+
+- **abject** [ˈæbdʒekt] *adj.* 1. 凄惨的 = miserable, wretched 2. 卑屈的，下贱的 = servile
+  - abject poverty 一贫如洗，赤贫
+  - an abject apology 低声下气的道歉
+  - live in abject misery 生活在悲惨的不幸中
+
+> The conditions that African people live in are **abject** and shocking.
+> 非洲人民的生活状态悲惨得让人吃惊。
+
+> Don't make such an **abject** apology.
+> 不要这样低声下气地道歉。
+
+---
+
+## 2. 心情被向下de-扔jected，dejected 沮丧的，失望的
+
+<!-- 插图：一个神情沮丧失落的男子照片 -->
+
+::: {.etymo}
+考试没合格，面试又一塌糊涂，还失恋了……这些不幸情况situation让人觉得沮丧吧！形容该语境的单词是**dejected**。**dejected**的词源义是“（心情）被扔到下面”，“沮丧的，失望的”意思。据说左图中的这个男人被女朋友甩了dumped……看看他是不是真非常**dejected**？
+:::
+
+- **dejected** [dɪˈdʒektɪd] *adj.* 沮丧的，失望的 = depressed, despondent, downcast
+  - The dejected players left the field. 失望的球员们离开了运动场。
+- **dejection** [dɪˈdʒekʃn] *n.* 沮丧，失意
+
+> He was very **dejected** when he broke up with his girlfriend.
+> 他和女朋友分手时，非常沮丧。
+> （break up with 跟……分手，与……断绝关系）
+
+> She looked so **dejected** when she lost the game.
+> 她输了这局比赛，看起来非常沮丧。
+
+<!-- p.201 -->
+
+## 3. 把想法一起 con- 扔出来 ject 看看，conjecture (名) 推测；(动) 推测
+
+<!-- 插图：两个人看着瓷器，一人说“请推测下这个瓷器有多久历史了”，另一人犯难“额！” -->
+
+::: {.etymo}
+这件事会不会失败？那样做的话能成功吗？我们在日常生活中，推测过很多事情吧。所谓推测就是对还没有答案的事情进行这样那样的思考或考量。含有这个词源义的单词就是conjecture。conjecture由其词源义“（把想法）一起扔出来看看”引申为“推测”的意思。conjecture原本是用作名词的，但由于它在日常生活中的使用频率非常高，渐渐地也被用作动词了。
+:::
+
+- **conjecture** [kənˈdʒektʃə] *n.* 推测，猜想 = assumption
+  - *vi. &vt.* 推测，猜想 = guess, surmise
+  - *adj.* **conjectural** 推测的，易推测的
+  - be pure conjecture 仅仅是单纯的推测
+
+::: {.mnemonic}
+**温馨小贴士**
+
+conjecture不仅可用作名词，也可用作动词。
+:::
+
+> What he said **was pure conjecture**.
+> 他说的只是单纯的推测。
+
+> It seems reasonable **to conjecture** that these conditions breed violence.
+> 关于这些条件引发了暴力事件的推测是有道理的。
+> （reasonable [ˈriːzənəbl] 合理的）
+
+---
+
+## 4. 向前 pro- 扔 ject，project 1.发射；映射 2.计划；预测 3.突出
+
+::: {.etymo}
+大家非常熟悉project吧？如果完全了解该词，会发现它有着比较复杂的complicated一面。首先，project的词源义是“向前扔”的意思。如果向前扔的是导弹，那就是“发射”的意思；如果是使光射投向前面的话就是“放映，投射”的意思；如果置到前面的是想法或计划，那就是“计划；预测”的意思；如果仅仅是扔到前面，那就是“突出”的意思。
+:::
+
+- **project** [ˈprɒdʒekt] *vt.* 1. 发射（导弹，火箭等）；放映，投射 2. 计划；预测
+  - *vi.* 突出，伸出 = protrude
+  - *n.* 计划，工程，项目 = plan
+  - projecting teeth 突出的牙齿，龅牙
+- **projection** [prəˈdʒekʃn] *n.* 预测；投射；突起物
+- **projector** [prəˈdʒektə] *n.* 放映机，幻灯机，投影仪
+
+::: {.mnemonic}
+**温馨小贴士**
+
+project *v.* 发射（导弹，火箭等）；放映，投射
+*n.* 计划，项目；计划，预测；突出，伸出
+:::
+
+<!-- p.202 -->
+
+> He **projected** the slide onto the wall.
+> 他把幻灯片投射在了墙上。
+
+> The company **projected** an annual growth rate of 3%.
+> 预计公司的年增长率为3%。
+
+## 5. 向后re-扔ject，reject拒绝
+
+<!-- 插图：一人递交“提议”，另一人拒绝说“No!” -->
+
+::: {.etymo}
+如果你对某提案offer的策划人说“你自己做吧”，那就意味着reject。reject由其词源义“把（对方的提案）扔到后面”引申为“拒绝”。另外，reject作名词是“（有瑕疵）被退回的产品”。
+:::
+
+- **reject** [rɪˈdʒekt] *vt.* 拒绝 =refuse, turn down
+  *n.*（有瑕疵）被退回的产品
+  - reject his absurd proposal 拒绝他荒诞的提议
+- **rejection** [rɪˈdʒekʃn] *n.* 拒绝；摒弃；剔除物
+
+> Our company decided to **reject** his offer.
+> 我们公司决定拒绝他的提议。
+
+> My proposal was flatly **rejected**.
+> 我的求婚被断然拒绝了。
+
+## 6. 把……一起（完全）com-送走mit，commit 1.犯（罪）2.承诺（一心一意）3.托付
+
+<!-- 插图：一个人对着照片痛哭“呵呵呵”，一人抱着钱袋，一人戴手铐被抓 -->
+
+::: {.etymo}
+commit是多义词，不过其各个词义之间看起来似乎没有什么关联relation。commit的词源义是“把……一起（完全）送走”。事实上，把“承诺（一心一意）”和“托付”这两个意思联系在一起并不困难：把自己托付在某件事情上的话，就成了“承诺要……，对……一心一意”的意思。但是，“犯（罪）”这个义项就有点不一样了。把我脑子里（不好的）想法付诸于行动的话，就会做出犯罪行为了。看看一旦将做坏事的想法付诸实践，就是commit a crime犯罪；commit suicide是“自杀”之解。
+:::
+
+<!-- p.203 -->
+
+- **commit** [kəˈmɪt] *vt.* 1. 犯（罪） 2. 承诺 3. 把……托付给
+  - commit a crime 犯罪
+  - commit suicide 自杀，自寻了断
+  - commit adultery 通奸
+  - commit oneself to + 名词、动名词 致力于……
+- **commitment** [kəˈmɪtmənt] *n.* 承诺，许诺；委任，委托，献身 = devotion
+- **committee** [kəˈmɪti] *n.* 委员会，全体委员 = board
+- **commission** [kəˈmɪʃn] *n.* 委员会；委任；手续费
+
+> Women **commit** fewer **crimes** than men.
+> 女性的犯罪率比男性要低。
+
+> People may **commit suicide** when they see no hope for the future.
+> 当人们对未来看不到希望时，可能会自杀。
+
+> The company has **committed itself to** boosting profits by slashing costs.
+> 公司致力于通过削减开支来增加收益。
+> （boost [buːst] 促进，增加，提高；slash cost 削减开支）
+
+> A lot of money has **been committed to** the housing project.
+> 大量的资金被投入到住宅建设项目上。
+
+## 7. 远远地 dis-送走 miss，dismiss 1. 不理睬；断然拒绝（提案、刁难） 2. 解雇
+
+<!-- 插图：信鸽送来的信被直接投进了粉碎箱 -->
+
+::: {.etymo}
+dismiss的词源义为“远远地送走”。如果把某个人的提案送（扔）得远远的，那也就是不听的意思。即dismiss引申为“不理睬；断然拒绝”的意思。另外，公司把职员送得远远的，即“解雇”的意思。
+:::
+
+- **dismiss** [dɪsˈmɪs] *vt.* 1. 不理睬；断然拒绝（提案、指责） 2. 解雇 = fire
+  - dismiss A from B 把A从B中解雇，开除
+  - dismiss his offer lightly 轻松地驳回了他的提议
+- **dismissal** [dɪsˈmɪsl] *n.* 解雇，免职
+
+> He **dismissed** my proposal as unrealistic.
+> 他以不切实际为由驳回了我的提议。
+
+> The director was unfairly **dismissed from** his post.
+> 董事长被不公平地解雇了。
+
+> If you're late again, you'll **be dismissed**.
+> 如果你再迟到，就会被解雇。
+
+<!-- p.204 -->
+
+## 8. 向外 e- 放出 mit，emit (光、热、气体等) 发出，散发
+
+<!-- 插图：冒黑烟的烟囱 -->
+
+::: {.etymo}
+烟囱chimney在冒烟，火炉furnace发出热，机器里发出嗡嗡的声音。这种“向外发出 (光、热、气体、声音等)”的动词就是emit。emit的词源义是“向外放出”的意思，在此基础上形成了“散发”的意思。值得注意的是，该单词的发音不是[e'mɪt]，而是[ɪ'mɪt]。其名词emission排放物也是使用频率很高的单词，请大家一起记下来！
+:::
+
+- **emit** [ɪ'mɪt] *vt.* (光、热、气体等) 发出，散出 =give off
+  - emit thick, black smoke 排出又黑又浓的烟
+- **emission** [ɪ'mɪʃn] *n.* 排放物，散发物 (尤指气体)
+- **emissary** ['emɪsəri] *n.* 使者，特使
+
+> Plastics **emit** deadly poison during production.
+> 在生产塑料的过程中会释放出剧毒物质。
+
+> U.S. **emissions** of carbon dioxide are still increasing.
+> 美国的二氧化碳排放量还在增加。
+> （carbon dioxide 二氧化碳）
+
+## 9. 向后 re- 送回来 mit，remit 1. 汇款 2. 免除 (债务，处罚)
+
+::: {.etymo}
+remit有两个词义，不过这两个词义乍一看似乎没有什么关联性。remit的词源义是“向后送 (回来)”的意思。如果给某人送钱，那就是“汇款”的意思；而本应接受处罚，却未经受任何处罚而被放过的话，就是“免除；原谅”的意思。不过，最近汇钱大都使用网上银行，通过网络“汇款”主要使用wire。如果说“could you wire me $100?”，那就是“可以给我汇100美金吗？”的意思。
+:::
+
+- **remit** [rɪ'mɪt] *vt.* 1. 汇款 =wire ; 2. 免除 (债务、处罚) =absolve ; 3. 宽恕，原谅
+- **remittance** [rɪ'mɪtəns] *n.* 汇款，汇款额
+- **remiss** [rɪ'mɪs] *adj.* 玩忽职守的，马虎 =negligent
+
+> I **remitted** the price of the product by the Internet.
+> 我通过网上银行支付了那个商品的费用。
+
+> The teacher **remitted** my sins.
+> 老师原谅了我的过错。
+
+> The case **was remitted to** a lower court.
+> 案子被移交给了下一级法院。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+remiss看起来像是remit的形容词，其实两者是完全不同的单词。remiss在词源上是“把 (要做的事情) 推后”的意思，也就是“怠慢”的意思。
+:::
+
+<!-- p.205 -->
+
+## 10. 送到mit……的下面sub-，submit 1.提交 2.遵从，服从
+
+<!-- 插图：办公室场景，一人对电脑前的员工说话，指示牌写着CEO -->
+
+::: {.etymo}
+submit的两个词义看起来似乎没有什么关联性，从词源上来看看，它是“送到……的下面”的意思。如果“（恭敬地）送到……的下面”的话，就是“提交”的意思；而“跟随，服从”之义则源自于“submit to”。它是去掉了“submit oneself to”中的oneself而成，所以其词源义为“把自己送到……的下面”。即“遵从……，服从”的意思。
+:::
+
+- **submit** [səb'mɪt] *vt.* 提交 =tender, hand in
+  *vi.* 遵从，服从 =comply with
+  - submit A to B 把A递交给B，使A听命于B
+  - submit to 屈服，屈从于……
+- **submission** [səb'mɪʃn] *n.* 服从，提交
+- **submissive** [səb'mɪsɪv] *adj.* 唯命是从的，顺从的 =obedient
+
+**Voca Map**
+- submit 动词) 1. 将文件送到……的下面→提交；2. 把自己送到……的下面→遵从，服从
+  - ↓ submission (名词) 服从
+  - ↓ submissive (形容词) 顺从的，唯命是从的
+
+> All applications must be **submitted** by this week.
+> 所有的申请必须在这周内提交。
+
+> I have to **submit** the report within two weeks.
+> 我必须在两个星期内提交报告。
+
+> All of us should **submit to** the law.
+> 我们都应遵守法律。
+
+## 单词回顾
+
+1. 身份被扔得远远地
+   → ① 悲惨的 ② 卑鄙的 ______
+2. 心情被扔到下面
+   → 沮丧的，灰心的 ______
+3. 把想法一起拿出来看看
+   → (名) 推测；(动) 推测 ______
+4. 向前扔
+   → ① 发射[映射] ② 计划[预测] ③ 突出 ______
+5. 向后扔
+   → 拒绝 ______
+6. 把……一起（完全）送走
+   → ① 犯 (罪) ② 承诺 (一心一意) ③ 托付 ______
+7. 远远地送走
+   → ① 不理睬；断然拒绝 (提案 指责) ② 解雇 ______
+8. 向外送
+   → (光、热、气体等) 发出，散发 ______
+9. 向后送回来
+   → ① 汇款 ② 免除 (债务 处罚) ______
+10. 送到……的下面
+    → ① 提交 ② 遵从，服从 ______
+
+> **答案** 1. abject 2. dejected 3. conjecture 4. project 5. reject 6. commit 7. dismiss 8. emit 9. remit 10. submit
+
+<!-- p.206 -->
+
+## 确认并攻克下列单词
+
+**请写出下列单词的词义。**
+
+1. abject ______
+2. conjecture ______
+3. reject ______
+4. dismiss ______
+5. emit ______
+6. remit ______
+
+**请写出下列阴影标识部分的单词。**
+
+1. 他有一个**悲惨的** ______ 结局。
+2. 知道考试结果后，他露出**沮丧的** ______ 表情。
+3. 你试着**推测** ______ 一下这件事的结局。
+4. 我果断了**拒绝** ______ 了他的提案。
+5. 他**不理睬** ______ 任何对自己的指责。
+6. 烟正从工厂的烟囱里**排出** ______ 来。
+7. 请将商品的货款**汇过来** ______ 。
+8. 明天之前要**提交** ______ 入学文件。
+
+**请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。**
+
+1. His hasty attempt ended in the ______ failure.
+   A. abject
+   B. adjacent
+   C. considerate
+
+2. He looked utterly **dejected** when the teacher told him he'd failed again.
+   A. depressed
+   B. impressed
+   C. suppressed
+
+3. He ______ a series of brutal murders.
+   A. did
+   B. committed
+   C. submitted
+
+4. A lot of factories **emit** poisonous gases into the air.
+   A. give off
+   B. take off
+   C. put off
+
+---
+
+## 本日词汇速查（27 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [ab-]{.headword} |  |  | 远远地 + **ject** 扔(throw)（身份）被扔得远远的 → **abject**（指境况）凄惨的 |
+| [pro-]{.headword} |  |  | 向前 + **ject** 扔(throw) 向前扔 → **project** 发射 |
+| [re-]{.headword} |  |  | 向后 + **ject** 扔(throw) 向后扔 → **reject** 拒绝，抛弃 |
+| [e(x)-]{.headword} |  |  | 向外 + **mit** 送(send) 向外放出 → **emit** 发出（光，热等），发射 |
+| [abject]{.headword} | ˈæbdʒekt | adj | 1. 凄惨的 = miserable, wretched 2. 卑屈的，下贱的 = servile |
+| [dejected]{.headword} | dɪˈdʒektɪd | adj | 沮丧的，失望的 = depressed, despondent, downcast |
+| [dejection]{.headword} | dɪˈdʒekʃn | n | 沮丧，失意 |
+| [conjecture]{.headword} | kənˈdʒektʃə | n | 推测，猜想 = assumption |
+| [project]{.headword} | ˈprɒdʒekt | vt | 1. 发射（导弹，火箭等）；放映，投射 2. 计划；预测 |
+| [projection]{.headword} | prəˈdʒekʃn | n | 预测；投射；突起物 |
+| [projector]{.headword} | prəˈdʒektə | n | 放映机，幻灯机，投影仪 |
+| [reject]{.headword} | rɪˈdʒekt | vt | 拒绝 =refuse, turn down |
+| [rejection]{.headword} | rɪˈdʒekʃn | n | 拒绝；摒弃；剔除物 |
+| [commitment]{.headword} | kəˈmɪtmənt | n | 承诺，许诺；委任，委托，献身 = devotion |
+| [committee]{.headword} | kəˈmɪti | n | 委员会，全体委员 = board |
+| [commission]{.headword} | kəˈmɪʃn | n | 委员会；委任；手续费 |
+| [dismiss]{.headword} | dɪsˈmɪs | vt | 1. 不理睬；断然拒绝（提案、指责） 2. 解雇 = fire |
+| [dismissal]{.headword} | dɪsˈmɪsl | n | 解雇，免职 |
+| [emit]{.headword} | ɪ'mɪt | vt | (光、热、气体等) 发出，散出 =give off |
+| [emission]{.headword} | ɪ'mɪʃn | n | 排放物，散发物 (尤指气体) |
+| [emissary]{.headword} | 'emɪsəri | n | 使者，特使 |
+| [remit]{.headword} | rɪ'mɪt | vt | 1. 汇款 =wire ; 2. 免除 (债务、处罚) =absolve ; 3. 宽恕，原谅 |
+| [remittance]{.headword} | rɪ'mɪtəns | n | 汇款，汇款额 |
+| [remiss]{.headword} | rɪ'mɪs | adj | 玩忽职守的，马虎 =negligent |
+| [submit]{.headword} | səb'mɪt | vt | 提交 =tender, hand in |
+| [submission]{.headword} | səb'mɪʃn | n | 服从，提交 |
+| [submissive]{.headword} | səb'mɪsɪv | adj | 唯命是从的，顺从的 =obedient |
+

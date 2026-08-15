@@ -119,6 +119,91 @@ book:
         - review/WORK.qmd
         - review/DEG.qmd
         - review/MISC.qmd
+    - part: "神话与故事词源 · 60 天（《英语单词超强记忆法》）"
+      chapters:
+        - myth/index.qmd
+        - myth/00-front.qmd
+        - myth/ch1.qmd
+        - myth/day01.qmd
+        - myth/day02.qmd
+        - myth/day03.qmd
+        - myth/day04.qmd
+        - myth/day05.qmd
+        - myth/quiz01.qmd
+        - myth/day06.qmd
+        - myth/day07.qmd
+        - myth/ch2.qmd
+        - myth/day08.qmd
+        - myth/day09.qmd
+        - myth/day10.qmd
+        - myth/quiz02.qmd
+        - myth/day11.qmd
+        - myth/day12.qmd
+        - myth/day13.qmd
+        - myth/day14.qmd
+        - myth/day15.qmd
+        - myth/quiz03.qmd
+        - myth/ch3.qmd
+        - myth/day16.qmd
+        - myth/day17.qmd
+        - myth/day18.qmd
+        - myth/day19.qmd
+        - myth/day20.qmd
+        - myth/quiz04.qmd
+        - myth/day21.qmd
+        - myth/day22.qmd
+        - myth/day23.qmd
+        - myth/day24.qmd
+        - myth/day25.qmd
+        - myth/quiz05.qmd
+        - myth/day26.qmd
+        - myth/day27.qmd
+        - myth/ch4.qmd
+        - myth/day28.qmd
+        - myth/day29.qmd
+        - myth/day30.qmd
+        - myth/quiz06.qmd
+        - myth/day31.qmd
+        - myth/day32.qmd
+        - myth/day33.qmd
+        - myth/day34.qmd
+        - myth/day35.qmd
+        - myth/quiz07.qmd
+        - myth/day36.qmd
+        - myth/day37.qmd
+        - myth/day38.qmd
+        - myth/day39.qmd
+        - myth/ch5.qmd
+        - myth/day40.qmd
+        - myth/quiz08.qmd
+        - myth/day41.qmd
+        - myth/day42.qmd
+        - myth/day43.qmd
+        - myth/day44.qmd
+        - myth/day45.qmd
+        - myth/quiz09.qmd
+        - myth/day46.qmd
+        - myth/day47.qmd
+        - myth/day48.qmd
+        - myth/day49.qmd
+        - myth/day50.qmd
+        - myth/quiz10.qmd
+        - myth/day51.qmd
+        - myth/day52.qmd
+        - myth/day53.qmd
+        - myth/day54.qmd
+        - myth/ch6.qmd
+        - myth/day55.qmd
+        - myth/quiz11.qmd
+        - myth/day56.qmd
+        - myth/day57.qmd
+        - myth/day58.qmd
+        - myth/day59.qmd
+        - myth/day60.qmd
+        - myth/quiz12.qmd
+        - myth/answers.qmd
+        - myth/wordlist.qmd
+        - myth/roots.qmd
   appendices:
     - appendix/affixes.qmd
     - appendix/review-calendar.qmd

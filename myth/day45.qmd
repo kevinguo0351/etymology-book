@@ -1,0 +1,366 @@
+# Day 45 · 从这边向那边移动的trans- {.unnumbered}
+
+::: {.root-banner}
+Day 45 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p397–p405
+
+<!-- p.382 -->
+
+前缀trans-是“across”的意思。出现trans-的时候，我们应该首先想到“从这边向那边”这层意思。含有前缀trans-的最好的词例是transport输送。前缀trans-的意思是“从这边向那边”，加上词根port搬运(carry)后，该词就有了“从这边向那边移动”之义。为了发音方便，前缀trans-也可以写作tra-或tres-。
+
+<!-- 插图：工人推着写有 TRANS 的货物推车 -->
+
+**Voca Map：trans-表示across**
+
+- tra(ns)从这边向那边(across) + di给 + -tion名词后缀（(祖先)流传下来的东西）→ **tradition** 传统
+- tran(s)从这边向那边 + qui(l)安静的（全体都很安静的）→ **tranquil** 安静的
+- trans从这边向那边 + fer移动（从这边向那边移动）→ **transfer** 移动，搬运
+- trans-从这边向那边 + action活动，事情（从这边移动那边的活动）→ **transaction** 交易，处理
+- trans-从这边向那边 + form形成（形成了别的（模样））→ **transform** 使变形、改变、变换
+- trans-从这边向那边 + gress去（越过了（准许范围））→ **transgress** 违反
+- trans-从这边向那边 + par看上去 + -ent形容词后缀（越过（通过）后看上去……）→ **transparent** 透明的
+- trans-从这边向那边 + it去 + -ory形容词后缀（(从这边向那边一下子)经过的）→ **transitory** 暂时的
+- trans-从这边向那边 + plant种植（从这边向那边移植）→ **transplant** 移植
+- tres-从这边向那边 + pass通过（穿过（别人的地界））→ **trespass** 侵入，侵害
+
+<!-- p.383 -->
+
+## 1. 祖先们给di流传tra-下来的东西-tion，tradition传统
+
+<!-- 插图：传统建筑 -->
+
+::: {.etymo}
+春节和中秋节全家人聚在一起庆祝的风俗custom是祖先们流传下来的传统。含有前缀trans-的第一个词汇就是tradition传统。这个单词将trans-缩写成了tra-，再加上表示“给give”的词根di和名词后缀-tion就组成了单词tradition。该单词的词义“传统”来源于其词源义“（祖先们给后辈们）流传下来的东西”。
+:::
+
+- **tradition** [trə'dɪʃn] *n.* 传统 =convention, custom
+  - follow the tradition 按照传统
+  - break with tradition 打破传统
+- **traditional** [trə'dɪʃənl] *adj.* 传统的
+
+> Both brothers **followed the family tradition** and became doctors.
+> 这俩兄弟都按照家里的传统成了医生。
+
+> A lot of the old **traditions** are dying out.
+> 许多古老的传统在渐渐地消失。
+> （die out 逐渐消失，灭绝）
+
+> The toilet is a **traditional** one.
+> 这个厕所是老式厕所。
+
+## 2. 从这边向那边trans-移动fer的transfer搬运，移动
+
+<!-- 插图：卡通人物搬家转移物品 -->
+
+::: {.etymo}
+单词transfer的词根fer是“移动carry”的意思，在其前加上表示“从这边向那边”的前缀trans-，其词义就变成了“搬运，移动”。单词transfer的活用范围相当广，它不仅用作“位置的移动”，还可以用作“公司间的移动→离职”，“学校间的移动→转学”，“大学间的移动→编入插班”，“把钱移入别的账户→转账”，“交通手段间的移动→换乘”。transfer这个词是对话和写作中必不可少的单词，请大家一定要牢记哦！
+:::
+
+- **transfer** [træns'fɜː] *vi. & vt.* 搬运，移动 *n.* 迁移，跳槽
+  - transfer A to B 把A转移到B
+  - transfer to 转移到
+  - transfer fee 转让费
+  - transfer of power 政权转移
+
+<!-- p.384 -->
+
+> I'll **transfer** your call to my boss.
+> 我将把你的电话转到我们老板那儿。
+
+> The pollen of one flower is **transferred** to another by bees and insects.
+> 一朵花的花粉通过蜜蜂或昆虫传播到其他花朵上。
+
+> How can I **transfer** money from my bank account to his?
+> 我怎样将钱从我的银行账户转移到他的账户上？
+
+## 3. 形成 form 别的模样 trans，transform 使变形
+
+<!-- 插图：两人在墙上粉刷/作画 -->
+
+::: {.etymo}
+单词 form 作为名词使用时，是“形成”的意思，作为动词使用时，是“形成，制作（某种模样）”的意思。在其前加上前缀 trans- 所形成的动词就是 transform。由于 trans- 含“从这样变成那样”之义，所以从原来的模样、形态变成别的模样、形态的词，便是 transform。一提到这个，就会让人想起小时候玩的变形玩具。在玩具中，还有从汽车变成坦克的。人气电影《变形金刚》*Transformer* 不就是从动词 transform 转变而来的吗？
+:::
+
+- **transform** [trænsˈfɔːm] *vt.* 变换（模样、形态），使变形
+  - transform A into B 把A变成B
+  - an event that would transform my life 一个彻底改变我人生的事件
+- **transformation** [ˌtrænsfəˈmeɪʃn] *n.* 转型，转化
+
+> A new color will **transform** your bedroom.
+> 颜色会彻底改变你的卧室。
+
+> The movie **transformed** her from an unknown school girl into a top star.
+> 一部电影使她从一个无人知晓的学生妹变成顶级的明星。
+
+## 4. 穿过去 trans- 看 par，transparent 透明的
+
+<!-- 插图：透过装有红酒的高脚杯看窗外 -->
+
+::: {.etymo}
+站在窗边远望窗外的风景，有树，有草，有远处的江河。风景 scenery 很美吧？为什么隔着玻璃窗我们还能看到外面的风景呢？因为玻璃窗是透明的。“透明的”用英语表示就是 transparent。前缀 trans- 是“从这边向那边 across”的意思，词根
+:::
+
+<!-- p.385 -->
+
+par是“看见appear”的意思，其单词义“透明的”源于其词源义“从这边向那边穿过去看”。只要联想一下透明的玻璃或塑料就可以了。既然学习了transparent透明的，那就让我们一起来学习一下它的反义词opaque不透明的来扩充一下词汇量吧！
+
+- **transparent** [træns'pærənt] *adj.* ①透明的 =pellucid ↔opaque 不透明的 ②明了的，容易理解的 =clear
+  - a transparent plastic container 一个透明的塑料容器
+  - as transparent as glass 像玻璃一样透明
+- **transparency** [træns'pærənsi] *n.* 透明度
+
+> This box has **transparent** plastic so you can see what's inside.
+> 这个箱子的塑料是透明的，所以你可以看见里面有什么。
+
+> The way the system works will be **transparent** to the user.
+> 这个系统的使用方法会向使用者公开。
+
+## 5. 从这边移向那边 trans-种植 plant，transplant 移动位置种植，移植
+
+<!-- 插图：器官移植冷藏箱 HUMAN ORGAN TRANSPLANT -->
+
+::: {.etymo}
+transplant是一个词源相对简单的单词。前缀trans-与plant种植结合，其词义“移植”就来源于其词源义“移动位置种植”。transplant的本义是“将植物移到别的花盆中种植”，但是后来它的语义逐渐扩大，用于“心脏heart、肾脏kidney、肝liver、皮肤skin等人体器官organ的移植”。单词transplant既可以用作动词又可以用作名词，大家一定要注意这一点哦！
+:::
+
+- **transplant** [træns'plɑːnt] *vt. & n.* 移植
+  - heart transplant surgery 心脏移植手术
+- **transplantation** [træns'plɑːnteɪʃn] *n.* 移植
+  - stem cell transplantation 干细胞移植
+
+> Her kidney was **transplanted** in her daughter.
+> 她的肾移植到了她女儿身上。
+
+> The patient must undergo a bone marrow **transplant** surgery.
+> 这个病人必须接受骨髓移植手术。
+
+<!-- p.386 -->
+
+## 6. 全体都 tran- 很安静 qiut，tranquil 安静的，平稳的
+
+<!-- 插图：平静无波的湖面风景 -->
+
+::: {.etymo}
+请大家想象一下湖水没有一丝涟漪、平静无声的画面。那正是tranquil安静的场面。单词tranquil是前缀trans-为了发音方便将s脱落后，加上词根qiut安静的(quiet)所形成的单词，其词义“安静的，平稳的”源于其词源义“全体都很安静”。单词quiet单纯地表示“安静”，而tranquil则是“pleasantly calm and peaceful”，意为“安静的，万籁俱寂的”。
+:::
+
+- **tranquil** [ˈtræŋkwɪl] *adj.* 安静的，平稳的 = calm, placid, serene, peaceful
+  - a small tranquil village 一个宁静的小山村
+  - the tranquil waters of the lake 平静的湖水
+- **tranquility** [træŋˈkwɪlətɪ] *n.* 安静，平静
+
+> She led a **tranquil** life in the country.
+> 她在乡村过着平静的生活。
+
+> In summer, the normally calm, **tranquil** streets fill with crowds of tourists.
+> 一到夏天，这个平日里安静平和的街道满是拥挤的游客。
+
+## 7. 从这边向那边 trans- 移动 action，transaction 交易，处理
+
+<!-- 插图：两人在柜台前进行交易或操作电脑 -->
+
+::: {.etymo}
+单词transaction意为“交易（去来）”，即钱去商品来。某物体trans-从这边向那边移动+action活动，事情，就是“交易”。transaction的另一个义项“（业务的）处理”；也是指从事情的“开始”到“结束”的过程。当然，相比之下，transaction的义项“交易”更为重要。
+:::
+
+- **transaction** [trænˈzækʃn] *n.* 交易，处理 = deal, trade
+  - financial transactions between companies 公司间的金融交易
+  - the terms of the transaction 交易条款
+  - the transaction of business 处理事务
+
+> The bank charges a fixed rate for each **transaction**.
+> 银行对每笔交易收取固定利率。
+
+> Is a financial **transaction** possible with your firm?
+> 有可能和你们公司进行金融交易吗？
+
+<!-- p.387 -->
+
+> If you want to return any product, make sure you keep the receipt for the initial sales **transaction**.
+> 如果你想退回任何产品，要确保你保存好首次买卖交易的收据。（return a product 退回产品；receipt [rɪˈsiːt] *n.* 发票）
+
+## 8. 从准许范围越过 trans去gress，transgress 越过限度，违反
+
+::: {.etymo}
+词根gress是“去go”的意思，这个词根在英语中很重要。单词aggression攻击，Congress议会，regress退步都是来源于这个词根的单词。这次我们要学习的transgress是“违反”的意思，该词义源于其词源义“越过（准许范围），越过去”。区别transgress和transend很重要：transend的词源分析即为：trans-越过去+scend爬上去（climb）→ 越过（限度），其词义是“超越”的意思。
+:::
+
+《圣经》中的亚当和夏娃受到蛇的蛊惑、偷吃了上帝说的绝对不能吃的禁果。这就是人类最初transgress准许范围的事件吧？
+
+<!-- 插图：亚当夏娃在智慧树下吃苹果，树上有蛇 -->
+
+- **transgress** [trænzˈɡres] *vt.* 越过（准许范围），违反 = breach, infringe
+  - transgress accepted social norms 违反社会道德准则
+- **transgression** [trænsˈɡreʃn] *n.* 违反 = violation
+- **transcend** [trænˈsend] *vt.* 超出，超越（理性等）的范围 = exceed
+  - transcend the limit of thought 超越思想的极限
+
+> The terms of the treaty were **transgressed** almost immediately.
+> 马上就要违反条约的条款了。
+
+> The desire for peace **transcended** political differences.
+> 对和平的渴望超越了政治分歧。
+
+## 9. 一下子 trans-经过it去-ory，transitory 暂时的
+
+::: {.etymo}
+人们之所以渴望爱情，是因为想通过爱情寻找一个能永远陪在自己身边的人。那种只在我身边停留片刻就离开的爱情是暂时的、虚无的。不仅是爱情，还包括钱、名誉honor、名声popularity这些瞬间消逝的东西都是“暂时的”。
+:::
+
+<!-- 插图：沙滩上的画痕 -->
+
+单词transitory的核心是词根-it去
+
+<!-- p.388 -->
+
+(go)，在其前面加上前缀trans-和形容词后缀-ent，其词源义就变成了“经过”，而其词义也就变成了“暂时的，虚无的”。与transitory拼写相似的单词还有transient，这两个单词的意思完全相同。
+
+- **transitory** [ˈtrænsɪtərɪ] *adj.* 暂时的，虚无的 = temporary, passing, transient
+  - the transitory nature of fashion 转瞬即逝的时尚
+  - a mere transitory sentiment 仅仅转瞬即逝的情感
+- **transit** [ˈtrænsɪt] *v.* 转运 *n.* 运输
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词transitory和transit的词源义与实际意义相同，所以经常一起背诵！
+:::
+
+> That was a mere **transitory** sentiment.
+> 那仅仅是转瞬即逝的情感。
+
+> You should know about the **transitory** nature of earthly pleasures.
+> 你应该知道尘世间快乐的虚无性。
+
+## 10. 越过 tres- 别人的土地后通过 pass，trespass 入侵，侵害
+
+<!-- 插图：写有“NO HUNTING FISHING TRESPASSING”的警示标牌 -->
+
+::: {.etymo}
+跟前面我们已经学过的单词transgress违反概念相差不大的单词是trespass。其前缀tres-是trans-的变形，pass是表示“经过，通过”之义的动词。两者结合起来，其词源义就变成了“越过（别人的土地或权利）后通过”，单词词义就变成了“入侵，侵害”。比如，如果一个普通人进入出入受限的军事保护区域的话，很明显他已经trespass了。需要注意的是，trespass是不及物动词，它经常与介词on连用。
+:::
+
+- **trespass** [ˈtrespəs] *vi.* 入侵，侵害 = infringe, encroach
+  *n.* (不法)入侵，侵害
+  - trespass on private land 进入私人领地
+  - trespass on his privacy 侵害他的隐私
+  - No trespassing 禁止非法入侵
+  - private property 个人财产
+  - violators will be prosecuted 将对违反者予以起诉
+
+::: {.mnemonic}
+**温馨小贴士**
+
+transpass越过（准许范围）→ “违反”
+trespass越过（别人的土地），穿过 → “无端侵入，侵害”
+\* transpass和trespass表示否定的意义，而transcend表示的是肯定意义。
+:::
+
+<!-- p.389 -->
+
+> He was arrested for **trespassing on** the military zone.
+> 他因入侵军事领地被逮捕了。
+
+> She is **trespassing on** my private life.
+> 她正在干扰我的私人生活。
+
+## 单词回顾
+
+::: {.etymo}
+1. 祖先们流传下来的东西
+   → 传统 ______
+2. 从这边向那边移动
+   → 搬运，移动 ______
+3. 形成别的模样
+   → 使变形 ______
+4. 穿过去看
+   → 透明的 ______
+5. 从这边移向那边种植
+   → 移动位置种植，移植 ______
+6. 全体都很安静
+   → 安静的，平稳的 ______
+7. 从这边向那边移动
+   → 交易，处理 ______
+8. 从准许范围越过去
+   → 越过限度，违反 ______
+9. 一下子经过去
+   → 暂时的 ______
+10. 越过别人的土地，通过
+    → 侵入，侵害 ______
+:::
+
+> **答案** 1. tradition 2. transfer 3. transform 4. transparent 5. transplant 6. tranquil 7. transaction 8. transgress 9. transitory 10. trespass
+
+<!-- p.390 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. transfer ______
+2. transparent ______
+3. tranquil ______
+4. transaction ______
+5. transgress ______
+6. trespass ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. **保持传统** ______ 是一个很重要的问题。
+2. 那个玻璃窗似有似无，**是透明的** ______。
+3. 我妈妈迟早得做**肝脏移植** ______ 手术。
+4. 我想去一个**安静的** ______ 乡村旅行。
+5. 一定要时刻小心**网上的金融交易** ______。
+6. **违反** ______ 了他们法律所限定的范围。
+7. 不要再谈那些**短暂的** ______ 恋爱了。
+8. 他因为**侵害** ______ 国有土地被罚了款。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. She stared at the **tranquil** surface of the water.
+   A. quiescent
+   B. calm
+   C. transparent
+
+2. Most **transactions** are processed by computer.
+   A. deals
+   B. reactions
+   C. transgressions
+
+3. I hope this sorrow will be ______ .
+   A. permanent
+   B. constant
+   C. transitory
+
+4. Farmers have barricaded their fields to prevent strangers from ______ on their land.
+   A. trespassing
+   B. surpassing
+   C. transgressing
+
+---
+
+## 本日词汇速查（18 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [tradition]{.headword} | trə'dɪʃn | n | 传统 =convention, custom |
+| [traditional]{.headword} | trə'dɪʃənl | adj | 传统的 |
+| [transfer]{.headword} | træns'fɜː | vi. & vt | 搬运，移动 *n.* 迁移，跳槽 |
+| [transform]{.headword} | trænsˈfɔːm | vt | 变换（模样、形态），使变形 |
+| [transformation]{.headword} | ˌtrænsfəˈmeɪʃn | n | 转型，转化 |
+| [transparent]{.headword} | træns'pærənt | adj | ①透明的 =pellucid ↔opaque 不透明的 ②明了的，容易理解的 =clear |
+| [transparency]{.headword} | træns'pærənsi | n | 透明度 |
+| [transplant]{.headword} | træns'plɑːnt | vt. & n | 移植 |
+| [transplantation]{.headword} | træns'plɑːnteɪʃn | n | 移植 |
+| [tranquil]{.headword} | ˈtræŋkwɪl | adj | 安静的，平稳的 = calm, placid, serene, peaceful |
+| [tranquility]{.headword} | træŋˈkwɪlətɪ | n | 安静，平静 |
+| [transaction]{.headword} | trænˈzækʃn | n | 交易，处理 = deal, trade |
+| [transgress]{.headword} | trænzˈɡres | vt | 越过（准许范围），违反 = breach, infringe |
+| [transgression]{.headword} | trænsˈɡreʃn | n | 违反 = violation |
+| [transcend]{.headword} | trænˈsend | vt | 超出，超越（理性等）的范围 = exceed |
+| [transitory]{.headword} | ˈtrænsɪtərɪ | adj | 暂时的，虚无的 = temporary, passing, transient |
+| [transit]{.headword} | ˈtrænsɪt | v | 转运 *n.* 运输 |
+| [trespass]{.headword} | ˈtrespəs | vi | 入侵，侵害 = infringe, encroach |
+

@@ -1,0 +1,420 @@
+# Day 56 · 不管是负担、行李，还是费用，只要填满了，就是charge {.unnumbered}
+
+::: {.root-banner}
+Day 56 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p494–p503
+
+<!-- p.479 -->
+
+把行李装上卡车、揭发做坏事儿的人、给手机充电、给枪装上子弹、攻击敌人，这些短语都可以用一个共同的动词charge来表示，你相信吗？真有像charge一样词义变化多端的单词吗？重要的是不管charge这个词的词义有多少，它们都源于其本义original meaning“填充”！
+
+<!-- 插图：卡车载着写有“充电、攻击、指控、告发”的 charge 卡车 -->
+
+**Voca Map：charge**
+- **charge** 原意：填充（行李，负担）
+  - 抹去金钱的负担 → ① 要求付款
+  - 让其对所犯的罪过负责 → ② 揭发；非难
+  - 给battery充电，或者给rifle装上子弹 → ③ 充电；装填实弹
+  - 士兵们布满（覆盖）了原野前进 → ④ 攻击
+  - charge的动词词义直接转化为名词 → ⑤ 花费；责任；揭发
+
+**Voca Map：conduct**
+- **conduct** 原意：带领一起向前
+  - 带领人们一起前行 → ① 实施
+  - 指挥管弦乐队或带领游客一起走 → ② 指挥；带领
+  - 带领自己前行 → ③ 执行
+  - 导热、导电 → ④ 传导（热、电）
+
+**Voca Map：custom**
+- **custom** 原意：完全熟悉的
+  - 被很多人所熟悉的；被个人所熟悉的 → ① 规矩；习惯
+  - 习惯性被附加在商品上的税金；对国外进口的商品进行的检查 → ② [复]关税；海关
+
+**Voca Map：agent**
+- **agent** 原意：行动着的人（事）
+  - 代理做某事的人 → ① 代理人；中介
+  - 收到上级的指示，直接行动的人 → ②（政府）要员
+  - 实际发挥作用的 → ③ 作用剂，要因
+
+<!-- p.480 -->
+
+## 1. 填充（行李，负担） charge
+
+::: {.etymo}
+①要求付款；②揭发，非难；③充电，装上实弹；④费用，责任，揭发；⑤攻击
+:::
+
+填充cargo货物，行李的动词就是charge，其原意是“填充（行李，花费）”。单词charge有很多不同的词义，这些词义都源于“填充（行李，花费）”这个基本义。首先，让我们在理解charge原意的基础上，一起来想象一下它的其他词义是如何产生的。charge在日常生活中使用频率很高，希望大家能将所有的义项都牢牢记住！
+
+(1) 抹去金钱的负担→要求付款（付账）
+
+<!-- 插图：客人在餐厅看到昂贵的葡萄酒账单大吃一惊 -->
+
+不管是商品交易还是提供服务，卖方一定得从买方那里得到一定的金钱，即“要求付款（付账）”。
+
+还有一点值得大家注意：“I'll charge the shoes.我要用信用卡买那双鞋。”这句话在日常生活中经常用到，大家一定要记住哦！
+
+> Is there a service **charge**?
+> 有服务费吗？
+
+> **Charge** it on my account.
+> 请记在我的账户上。
+
+> The restaurant **charged** me $300 for the wine.
+> 这瓶酒在西餐厅要我300美元。
+
+(2) 让其对所犯的罪过负责→揭发；非难
+
+<!-- 插图：警察押解嫌疑犯 -->
+
+世界上有很多做好事的人，也有很多因做坏事而犯罪crime的人。对于犯人，法官就需要依照法律对其犯下的罪进行合理的刑事处罚。需要注意的是，虽然有犯罪后主动向警察自首give oneself up to the police的人，但大部分还是因为被别人揭发才受刑的。“被揭发”的英语表达是被动态短语“be charged with被……揭发”。
+
+> The suspect was **charged** with arson.
+> 嫌疑犯被指控纵火。
+> （arson [ˈɑːsn] 纵火）
+
+> Many people have **charged** that the police used excessive force.
+> 许多人指控警察滥用武力。
+
+<!-- p.481 -->
+
+**(3) 给battery充电，给rifle装上子弹 → 充电；装填实弹**
+
+当手机cellular phone电池的电量全部耗尽时就应该充电，当枪里的子弹全部用完时就得装上子弹。charge的原意是“填充”，在这里作为“充电；装上实弹”讲，是对原意的进一步补充，大家可以很容易理解。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+当我们说“电池没电了”的时候，可以用形容词dead表示，大家一定要记下来！
+:::
+
+> This battery can be **charged up**.
+> 这种电池可以充电。
+
+> My battery is dead. **Charge** it, please.
+> 我的电池没电了。请帮忙给充一下。
+
+**(4) charge的动词词义直接转化为名词词义 → 花费；责任；揭发**
+
+单词charge不仅可以用作动词，还可以用作名词。短语“要求付款”中的“费用”，“揭发”，“对事情负起责任”中的“责任”，都是charge的名词义项。这里提出与“责任responsibility”相关的重要惯用句型，即“in charge of对……负责任，take charge of担任……”，这两种表达的使用频率非常高哦！
+
+> Who's **in charge**?
+> 谁是负责人？
+
+> He was arrested on a **charge** of rape.
+> 他因被指控强奸而被逮捕。
+
+> She's **in charge of** the new project.
+> 她是这个新项目的负责人。
+
+**(5) 士兵们布满了（覆盖了）原野 → 攻击**
+
+在charge的词义中最难理解的就是“攻击”，该词义源于以前打仗时的情景描述。大家都知道，以前打仗基本都是肉搏战，为了击退敌人，要在原野布满士兵进行攻击，由此便产生了该义项。
+
+<!-- p.482 -->
+
+- **charge** [tʃɑːdʒ] *vi. & vt.* ①要求付款(付钱)；②揭发，非难；③充电，装上实弹；④攻击
+  *n.* 花费；责任；揭发
+  - be charged with murder 被指控杀人
+  - service charge 服务费
+  - free of charge 免费
+  - false charge 诬告
+  - in charge of 对……负责任
+  - take charge of 负责……
+
+**Voca Map：charge**
+- 原意：填充（行李、负担）
+  - 抹去金钱的负担 → 要求付款（付账）
+  - 让其对所犯的罪过负责 → 揭发、非难
+  - 给电池充电或给枪装上子弹 → 充电、装填实弹
+  - 士兵们布满了（覆盖了）原野 → 攻击
+  - charge的动词词义直接转化为名词词义 → 花费、责任、告发
+
+## 2. 带领一起向前，conduct ①实施；②指挥；带领；③执行
+
+::: {.etymo}
+分析conduct的词源为：con一起（together）+duct引导（lead）→ 一起引导。不管引导的对象是人还是事，都可以用conduct。也就是说，根据后面宾语的不同，conduct的词义也会随之发生变化。千万不要想着只要背了这个单词就胜券在握了，只有经常通过多义词的原意在脑海中绘制一张完整的词义图，英语才会越学越顺利。
+:::
+
+(1) 带领人们一起前行 → 实施
+
+短语conduct a survey（an experiment）的意思是“进行调查（实验）”。这里需要注意的是，不必非得将其翻译成“实施调查（实验）”。只要简单地翻译成“调查（实验）”就可以了。
+
+再多学几个词组：conduct a campaign开展战役，conduct an interview进行面试，conduct a meeting开会。
+
+> The operation was **conducted** in secrecy.
+> 手术是秘密进行的。
+
+> All the students in the class have to **conduct** their own science experiment.
+> 班上的所有学生不得不独自进行科学实验。
+
+(2) 指挥管弦乐队或带领游客一起前行 → 指挥；带领
+
+各种不同的乐器组成美妙的和声harmony，就是管弦乐队orchestra。领导管弦乐队的人被称为指挥家conductor。将小提琴、大提琴、圆号、巴松管、长笛、打击乐器percussion等各种乐器的声音汇成一种美妙和声的人，正是指挥
+
+<!-- 插图：乐队指挥家在指挥，导游带领游客 -->
+
+<!-- p.483 -->
+
+conductor。带领游客们在景区到处游览的人被称为tour conductor导游。两者的共同点是都是在“引导、带领”很多人。引导管弦乐队是“指挥”，引导“游客”是“带领”的意思。
+
+> The orchestra will be **conducted** by a world-famous conductor.
+> 那个管弦乐队将由一位世界著名指挥家指挥。
+
+> The police are **conducting** an investigation into last week's robbery.
+> 警察正在调查上周发生的盗窃案。
+
+(3) 带领自己前行 → 执行
+
+单词conduct的义项“行动”经常以“conduct oneself”的形式出现，conduct oneself是“领导自己、带领自己”的意思。自己领导自己，即领导自己的身体，也就是“行动”的意思。另外，conduct也常用作名词，是“行动的立身处世”的意思，有时也作“（事情的）实施”讲。
+
+> Public figures should **conduct themselves** responsibly.
+> 公众人物应该举止得体。
+
+> standards of ethical **conduct** for doctors
+> 医生的道德行为准则（ethical 道德的，伦理的）
+
+(4) 导热、导电 → 传导
+
+<!-- 插图：半导体芯片元件 -->
+
+前面我们已经学了单词conduct的三个词义“引导事、人、自己”，现在我们要学习的是它的第四个义项“导热”、“导电”，即“传导”的意思。单词conduct的“传导（热、电）”之义并不难，conductor是导热、导电的“传导体”的意思，“半导体”用英文表示就是semi-conductor。
+
+> Plastic and rubber don't **conduct** electricity well.
+> 塑料和橡胶的导电性不好。
+
+> Aluminum is a metal that has **conductivity**.
+> 铝是一种具有导热性的金属。
+
+- **conduct** [kənˈdʌkt] *vt.* ①实施；②指挥（介绍）；③行动；④传导 *n.* ①行动；②（事情的）执行
+  - conduct an investigation 进行调查
+  - conduct an orchestra 指挥管弦乐队
+
+> **Voca Map**
+> 
+> **conduct**
+> 本义：带领一起前进
+> - 带领人们一起向前 → 实施
+> - 指挥管弦乐队或与游客一起前行 → 指挥带领
+> - 带领自己前行 → 执行
+> - 导热、导电 → 传导
+
+<!-- p.484 -->
+
+  - conduct oneself with dignity 注意自己的言行
+  - conduct tourists through a museum 带领游客游览博物馆
+- **conductor** [kənˈdʌktə] *n.* ①指挥者；②领导者；③导体
+- **conductivity** [ˌkɒndʌkˈtɪvɪti] *n.* 导电性，传导性
+
+## 3. 完全熟悉 custom ①习惯；惯性 ②[复]关税
+
+::: {.etymo}
+分析custom的词源为：cu-强调+stom熟悉→完全变熟悉的。因此，当我们说对从以前开始做的事情“变熟悉”时，使用的就是custom的原意。接下来我们一起来看一下custom的各种不同词义吧。
+:::
+
+(1) 被很多人所熟悉的→规矩；被个人所熟悉的东西→习惯
+
+<!-- 插图：祭祀场景，配文“这种祭祀活动是韩国的习惯 custom！” -->
+
+在社会上，被很多人所熟悉的准则可以称之为“规矩”，当然也可以称之为tradition传统。但在句子中遇到的custom大多理解为“规矩”更合适。单词custom可以解释为被个人所熟悉的，即“习惯”。与habit相比，custom更正式。
+
+与custom词源相同的词语还有costume，它是“在特定国家或特定时代习惯上穿的衣服、服装”。比如，national costume在韩国指的是“韩服”、在日本指的是“和服”。单词custom的形容词形式是“accustomed变熟悉的”！
+
+> **Custom** is second nature.
+> 习惯是第二天性。
+
+> It is the old **custom** for the bride to wear a white dress on her wedding day.
+> 新娘在结婚的当天穿白色的礼服是由来已久的习俗。
+
+(2) 习惯性被附加在商品上的税金→关税
+对国外进口的商品进行的检查→海关
+
+::: {.mnemonic}
+**温馨小贴士**
+
+由custom派生的单词customize词义由从“按照自己熟悉的程度制作商品”转变成了“预约制作”的意思。这里出现的形容词custom-made（预约制作）大家也要一起记住哦！
+:::
+
+<!-- 插图：海关 CUSTOMS 检查场景 -->
+
+单词custom的“关税；海关”这个义项源于中世时代Medieval Age封建领主卖东西之前习惯先对商品进行检查，并添加税金。因此，人从国外进入国内的时候，对人携带的物品进行的检查就是“海关”检查的意思，对进口的物品添加的税
+
+<!-- p.485 -->
+
+金就是“关税”。
+
+值得注意的是，custom用作“海关；关税”之义时主要以复数形式customs出现。
+
+> I filled out the **customs** declaration.
+> 我填写了海关申报表。
+> （fill out 填写表格）
+
+> I failed to make it through **customs**.
+> 它被海关扣下了。
+
+> We went through **customs** at the airport without any difficulty.
+> 我们毫不费力地通过了机场的海关。
+
+- **custom** [ˈkʌstəm] *n.* ①习惯，惯性；②[复数]关税、海关 *adj.* 定制的，定做的=custom-made
+  - the US customs service 美国关税厅
+  - customs law 海关法
+  - go through (clear) customs 通过海关检查
+  - custom furniture 定制的家具
+- **customize** [ˈkʌstəmaɪz] *vt.* 定做
+
+**Voca Map**
+- custom（本义：完全熟悉的）
+  - 被很多人所熟悉的 → 规矩
+  - 被个人所熟悉的 → 习惯
+  - 习惯性被附加在商品上的税金 → 关税
+  - 对国外进口商品进行的检查 → 海关
+
+## 4. 行动着的人（事）agent ①代理人，中介；②（政府）要员；③作用剂、要因
+
+::: {.etymo}
+分析agent的词源是：ag做＋-ent人或物→行动的人或事。因此，agent这个单词还有“行动的人或事”的意思。我们经常听到的agent词义是“代理人”。除了这个意思之外，还应该了解它其他的意思哦。
+:::
+
+(1) 代理做某事的人→代理人；中介
+
+<!-- 插图：房屋中介正在与顾客沟通 -->
+
+大部分著名的运动员和明星都有自己的agent。这是因为名人太忙了，他们不可能自己直接把所有的事情处理完。因此，agent代理人的主要任务就是代替他们谈广告或者电影拍摄的条件等事宜。我们买卖房屋的时候，房地产中介人会帮我们在中间协调。当然了，他们会收取一定的中介费brokerage commission。房地产中介人所在的“房地产中介公司”就是所谓的“real estate agent”。该表达方式我们在日常生活中经常使用，请大家一定要记住哦！
+
+<!-- p.486 -->
+
+> I'm acting as a real estate **agent** for Mr. Brown.
+> 我是布朗先生房地产中介公司的职员。
+
+> A travel **agent** booked her hotel reservations.
+> 旅行社职员为她预定了酒店。
+
+**(2) 收到上级的指示，直接行动的人 →（政府）要员**
+
+<!-- 插图：拿着FBI证件的特工/调查员 -->
+
+前面我们已经讲过agent的原意是“行动着的人”这个义项，agent的第二个义项“（政府）要员”也源自于“行动着的人”。比如，为了抓住犯人，检察官prosecutor要发布一个通缉令issue a warrant for arrest，然后由隶属检查厅的要员（刑警）agent按照指示抓捕犯人。像这种，收到上级的指示并按指示行动的人就是agent。
+
+> He has worked as a secret **agent** of the enemy.
+> 他作为敌方的一名秘密特工，进行活动。
+
+> The UN **agency** is responsible for helping refugees.
+> 联合国机构担负责帮助难民的工作。
+
+**(3) 实际发挥作用的 → 作用剂，要因**
+
+香皂soap是能让我们身体变干净的一种作用剂。实际上，如果我们直接将其翻译成“作用剂”的话难免会觉得有些生硬别扭，还不如直接翻译成“……的东西”更自然一些。另外，当我们说导致某事发生的事情时，可以将其解释为“要因”。很多情况下，词义并未发生变化，而是根据句子的实际需要用韩语将agent重新解释了一下而已。如，不管是清洗餐具的洗涤剂，还是洗衣服用的洗衣粉，这种“将其变干净”的都是cleaning agent清洗剂。
+
+<!-- 插图：洗洁精和清洁剂瓶罐 -->
+
+> Dishwashing detergent is a cleansing **agent**.
+> 洗洁精是一种清洗剂。
+
+> Technological advances are the chief **agents** of change.
+> 技术的进步是变化的首要原因。
+
+<!-- p.487 -->
+
+- **agent** [ˈeɪdʒənt] *n.* ①代理人，中介；②（政府）要员；③作用剂；要因
+  - (real) estate agent 房地产中介公司的职员
+  - an FBI agent (美) 联邦调查局探员
+  - an intelligence agent 情报部要员
+  - a travel agent 旅行社职员 a travel agency 旅行社
+  - sales agent 销售代理商
+- **agency** [ˈeɪdʒənsi] *n.* ①代理，中介；②（政府）机关、部门
+- **detergent** [dɪˈtɜːdʒənt] 清洁剂
+
+> **Voca Map：agent**
+> 
+> 本义：行动着的人
+> - 代理做某事的人 → 代理人；中介
+> - 收到上级的指示，直接行动的人 →（政府）要员
+> - 实际发挥作用的 → 作用剂，要因
+
+## 单词回顾
+
+1. charge 的原意：填充（行李，负担）
+   ①抹去金钱的负担→ ______
+   ②让其对所犯的罪过负责→ ______
+   ③给 battery 充电，或者给 rifle 装上子弹→ ______
+   ④charge 的动词词义直接转化为名词词义→ ______
+   ④导热、导电→ ______
+
+2. conduct 的原意：一起带领向前
+   ①带领人们一起前行→ ______
+   ②指挥管弦乐队或与游客一起走（前行）→ ______
+   ③带领自己前行→ ______
+
+3. customs 的原意：完全熟悉
+   ①被很多人所熟悉的东西；被个人所熟悉的东西→ ______
+   ②习惯性被附加在商品上的税金；对国外进口的商品进行的检查→ ______
+
+4. agent 的原意：行动着的人（事）
+   ①代理做某事的人→ ______
+   ②收到上级的指示，直接行动的人→ ______
+   ③实际发挥作用的→ ______
+
+---
+
+**答案** 1. ①要求付款（付账） ②揭发，非难 ③充电，装填实弹 ④花费，责任，揭发 2. ①实施 ②指挥，带领 ③执行 ④传导 3. ①习惯 ②关税；海关 4. ①代理人；中介 ②（政府）要员 ③作用剂，要因
+
+<!-- p.488 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义：
+
+1. charge ① ______ ② ______ ③ 充电[装上实弹] ④ 攻击
+2. conduct ① ______ ② ______ ③ 执行 ④ 传导
+3. custom ① 习惯；惯性 ② [复数] ______
+4. agent ① ______ ② (政府)要员 ③ ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 那家通信公司**要求支付** ______ 一笔巨额电话费用。
+2. 她**被揭发** ______ 利用保险诈骗。
+3. 那位科学家**继续** ______ 生物实验。
+4. **规矩** ______ ，就是指被很多人所熟悉的东西。
+5. 我们平安无事地**通过了海关** ______ 。
+6. 我现在**担任瓦森先生的代理人** ______ 。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. We won't ______ for delivery if you order now.
+   A. impose
+   B. charge
+   C. carry
+
+2. Is it necessary to **conduct** experiments on animals?
+   A. carry on
+   B. carry out
+   C. carry off
+
+3. The guide will offer information on local **customs**.
+   A. history
+   B. culture
+   C. traditions
+
+4. He had been a secret ______ of the enemy.
+   A. agent
+   B. agency
+   C. spectator
+
+---
+
+## 本日词汇速查（9 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [charge]{.headword} | tʃɑːdʒ | vi. & vt | ①要求付款(付钱)；②揭发，非难；③充电，装上实弹；④攻击 |
+| [conduct]{.headword} | kənˈdʌkt | vt | ①实施；②指挥（介绍）；③行动；④传导 *n.* ①行动；②（事情的）执行 |
+| [custom]{.headword} | ˈkʌstəm | n | ①习惯，惯性；②[复数]关税、海关 *adj.* 定制的，定做的=custom-made |
+| [agent]{.headword} | ˈeɪdʒənt | n | ①代理人，中介；②（政府）要员；③作用剂；要因 |
+| [conductor]{.headword} | kənˈdʌktə | n | ①指挥者；②领导者；③导体 |
+| [conductivity]{.headword} | ˌkɒndʌkˈtɪvɪti | n | 导电性，传导性 |
+| [customize]{.headword} | ˈkʌstəmaɪz | vt | 定做 |
+| [agency]{.headword} | ˈeɪdʒənsi | n | ①代理，中介；②（政府）机关、部门 |
+| [detergent]{.headword} | dɪˈtɜːdʒənt |  | 清洁剂 |
+

@@ -1,0 +1,395 @@
+# Day 48 · 表示先做的pre- {.unnumbered}
+
+::: {.root-banner}
+Day 48 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p424–p432
+
+<!-- p.409 -->
+
+前缀pre-表示时间上的“之前before”，一般解释为“预先，前面的”。前缀pre-除了“之前的before”的意思外就没有别的意思了，因此比较容易理解。不过它很容易跟后面我们要讲的前缀pro-混淆。前缀pre-表示的是时间上的“前”，pro-表示的是空间上的“前forth”，大家只要记住这一点就可以了。由于前缀pre-没有拼写上的变化，所以很容易辨别哦！
+
+<!-- 插图：拿着棒棒糖的小孩看着挺着肚子的孕妇 -->
+
+**Voca Map：pre-表示before**
+
+- pre-以前的(before) + caution小心（提前小心）→ **precaution** 预防（策略）
+- pre-以前的(before) + cari担心(care) + -ous形容词后缀（担心的）→ **precarious** 不安定的
+- pre-以前的(before) + jud判断(judge) + -ice名词后缀（提前判断）→ **prejudice** 偏见
+- pre-以前的(before) + ced去(go) + -ent名词后缀（先前存在的东西、先前有的东西）→ **precedent** 先例、前例
+- pre-以前的(before) + limin警戒 + -ary形容词后缀（在起跑线以前的）→ **preliminary** 预备的
+- pre-以前的(before) + mature熟了的（(比正常时间) 先熟了的）→ **premature** 太早的
+- pre-以前的(before) + sum拿走(take) + -e动词后缀（预先有（想法））→ **presume** 推测
+- pre-以前的(before) + poster后面的(posterior) + -ous形容词后缀（前面的东西去了后面）→ **preposterous** 十分荒谬的
+- pri以前的(before) + -or比较级 + -ty名词后缀（比……更早的）→ **priority** 优先顺序
+- pre-以前的(before) + stig捆绑(bind) + -e名词后缀（捆绑在（名字）前面的东西）→ **prestige** 名声
+
+<!-- p.410 -->
+
+## 1. 预先 pre- 小心的事情 caution，precaution 预防，预防策略
+
+<!-- 插图：火灾场景 -->
+
+::: {.etymo}
+我们要讲的带有前缀 pre- 的第一个单词是 precaution。该单词中，caution 是“注意，小心”的意思，在其前加上前缀 pre-，就变成了“提前小心，注意”的意思，即“预防”。怎么样？是不是觉得很简单啊？
+:::
+
+这里还需要注意一点，caution 也可以用作动词。词组“caution A against B”的意思是“提醒A注意B”。比如，caution him against hasty action 提醒他注意不要太性急。几乎每个人小时候都画过小心火灾的宣传画吧！这都是为了预防 precaution 火灾才画的，对不对？
+
+- **precaution** [prɪ'kɔːʃn] *n.* 预防，预防策略=prevention
+  - precaution of accidents (crime/fire) 预防（犯罪，火灾）事故
+- **precautious** [prɪ'kɔːʃəs] *adj.* 有防备的，戒备的
+  - take precautions 采取措施
+- **caution** ['kɔːʃn] *n.* 警告，慎重 *vt.* 劝告
+  - caution A aginst B 告诫A谨防B
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 caution 作动词时，其义项“使……注意”非常重要，请大家一定要牢记于心哦！
+:::
+
+> Vets **took precautions** to prevent the spread of the epidemic.
+> 兽医们采取了措施阻止流行病的蔓延。
+
+> My mother always **cautions** me against hasty action.
+> 我妈妈经常告诫我不要仓促行动。
+
+## 2. 预先 pre- 判断的事情，prejudice 成见，偏见
+
+<!-- 插图：不同肤色的婴儿坐在一起 -->
+
+::: {.etymo}
+“女人（男人）都那样！”，“白人（黑人）都那样！”。像这样，对特定的人种 race、宗教 religion、性别 sex 等还未充分了解就做出评判的行为就是所谓的 prejudice 成见。与 prejudice 相似的词汇还有 bias 偏见。
+:::
+
+咱们再来学个比 prejudice 高一个级别的词组 level up。短语 level up 是 unprejudiced“没有成见（偏见）的”，即“公正的”意思。与 unprejudiced 语义相同，unbiased 没有偏见的也是“公正的 impartial 的意思。大家对图片中的孩子们没有 racial prejudice 吧？
+
+<!-- p.411 -->
+
+- **prejudice** [ˈpredʒʊdɪs] *n.* 成见，偏见=bias *vt.* 对……持有偏见
+  - racial prejudice 种族歧视
+  - sexual prejudice 性别歧视
+- **prejudiced** [ˈpredʒʊdɪst] *adj.* 有偏见的
+- **unprejudiced** [ʌnˈpredʒʊdɪst] / **unbiased** [ʌnˈbaɪəst] *adj.* 无偏见的=impartial
+
+**Voca Map**
+- prejudice 成见，偏见；对~持有偏见
+  - ↓
+  - prejudiced 有偏见的 <-> unprejudiced 无偏见的
+  - unprejudiced ‖ impartial 公正的
+
+> Asian students complained of **racial prejudice** in the school.
+> 在学校里，亚洲学生抱怨受到种族歧视。
+
+> My own schooldays **prejudiced** me against all formal education.
+> 回顾我的学生时代，我对所有公立教育都抱有偏见。
+
+## 3. 在起跑线 limin 前面 pre-，preliminary 预备的，准备的
+
+<!-- 插图：起跑线前做准备活动的运动员 -->
+
+::: {.etymo}
+单词preliminary的词根limin是“警戒，限制limit”的意思，想象一下体育运动athletics中的“起跑线”。当比赛即将开始时，选手们都会到track上来。大家都用自己的方式stretching，轻轻地跳跃hopping，这都是一种热身运动warm-up。像这种，在开始做某件事情之前所做的“准备的，预备的”工作就是preliminary。由于它是一个比较正式的词汇，所以多出现在新闻和杂志中。而在跑步之前所做的stretching即为preliminary exercise准备运动。
+:::
+
+- **preliminary** [prɪˈlɪmɪnərɪ] *adj.* 预备（准备）的，事前的=preparatory, previous *n.* 事前作业，准备活动
+  - the preliminary stage 预备阶段
+  - a preliminary test 初步试验
+  - the preliminary rounds of the contest 辩论赛的第一轮
+
+::: {.mnemonic}
+**温馨小贴士**
+
+第三个例句中preliminary作为一个名词使用，意思是“预审，预选赛”。
+:::
+
+> The government's plan is still in the **preliminary stage**.
+> 政府的计划仍然在准备阶段。
+
+> **Preliminary tests** showed that pollution was very high in the river.
+> 初步试验显示河流的污染很严重。
+
+> What time is the **preliminary**?
+> 什么时候开始预审？
+
+<!-- p.412 -->
+
+## 4. 预先 pre- 持有 sum 某种想法，presume ①推测，推定；②竟敢做……
+
+<!-- 插图：女性面部特写 -->
+
+::: {.etymo}
+不知道大家有没有感觉到，presume 其实是一个很复杂的词汇。因为其第一个义项和第二个义项之间完全没有任何关系。这时候我们就需要通过分析它的词源来解释了。单词 presume 的第一个义项“推测，推定”源于“事先持有某种想法”，而第二个义项“竟敢做……”源于“（还没到时候做某事那家伙）就先采取了行动”。比如，刚进部队的二等兵 private 就跟下个月快要退伍的中士 sergeant 一样在内务部长官面前吸烟的话，就太“傲慢无礼”了吧？
+:::
+
+大家要注意，presume 有想法和行动两个层面的意思，由其两个义项所生成的派生词也各不相同，请大家一定要区分开哦！
+
+- **presume** [prɪ'zjuːm] *vt.* ① 推测，推定 = surmise, conjecture, suppose ② 竟敢做…… = dare to do
+  - presume to do 冒昧做
+- **presumption** [prɪ'zʌmpʃn] *n.* 假设；推测
+- **presumptive** [prɪ'zʌmptɪv] *adj.* 根据推定的
+- **presumptuous** [prɪ'zʌmptʃuəs] *adj.* 放肆的
+
+**Voca Map**
+- presume
+  - ① 推测，推定
+    - ↓
+    - presumption 假设、推测
+    - ↓
+    - presumptive 根据推定的
+  - ② 竟敢做……
+    - ↓
+    - presumptuous 放肆的
+
+> Police **presume** that the computer battery exploded.
+> 警察推测可能是电脑电池爆炸了。
+
+> I would never **presume** to tell you what to do.
+> 哪儿敢告诉您应该做什么呀。
+
+> It may be **presumptuous** of me to say so, but what you're saying is illogical.
+> 也许我这么说很冒昧，但你说的是不合道理的。
+
+## 5. 比 -or 某些东西在先 pri- 的，priority 比……在先的，优先顺序
+
+<!-- 插图：学生在日历前规划优先级 priority -->
+
+::: {.etymo}
+有个叫做选择与集中 choice and concentration 的词语，这是成功所必须的要素 an indispensable part。换句话说，就是在我们的人生中应该把什么放在优先位置 priority。比如，对于准备考试的学生来说，与其他事情比起来，还是应该把“学习”放在优先位置 priority，这是理所当然的 natural 事情。在形容词 prior 后加上表示比较级的
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在下面的形容词词组中 to 可以代替 than 表示比较级：
+superior to 优于，胜过
+inferior to 次于，不如
+senior to 年长
+junior to 年幼的，地位低的
+anterior to 在之前的
+posterior to 晚于
+:::
+
+<!-- p.413 -->
+
+后缀-or后，与介词to所构成的惯用表达prior to是“比……之前的，首先的”意思。单词prior的名词形式是priority，其词义源于“比其他东西更靠前的状态”，即“优先顺序”。
+
+- **prior** [ˈpraɪə] *adj.* ①比……之前的，首先的；②事前的，以前的 =previous
+  - prior to 在……之前
+- **priority** [praɪˈɒrəti] *n.* 优先权，优先
+  - top priority 应予最优先考虑的事
+
+> All the arrangements should be completed **prior to** your departure.
+> 出发前所有的准备事项都应该完成。
+
+> The children in my life are **top priority**.
+> 在我生命中孩子是我最先考虑的。
+
+## 6. 担心cari在前pre-的话，precarious不安定的，危险的
+
+::: {.etymo}
+要是孩子单独在河边玩水，大人得有多担心啊，真可谓是提心吊胆吧？像这种还未做事前就开始担心的状态就是precarious。单词precarious的词根cari是由care<sub>担心</sub>变形而来的，只要知道了这一点，这个单词就不难记了；precarious跟situation<sub>状况</sub>这个单词非常相配。比如，the precarious situation是“不安定的状况”的意思。precarious是一个考试出题率比较高的词！
+:::
+
+<!-- 插图：一个小男孩战战兢兢地站在河边摇摇欲坠的石头上，非常害怕 -->
+
+- **precarious** [prɪˈkeəriəs] *adj.* 不安定的，危险的 =unstable, insecure
+  - the precarious situation 危险的处境
+  - a precarious mountain trail 危险的山路
+- **precariousness** [prɪˈkeəriəsnɪs] *n.* 不稳定，可疑
+
+> His political position has become extremely **precarious**.
+> 他的政治地位变得很危险。
+
+> The large company fell into the **precarious** financial position.
+> 这家大公司陷入岌岌可危的财政状况。
+
+## 7. 先前pre-去ced存在的东西，precedent先例，前例
+
+**Voca Map**
+- precede 先于
+  - precedent<sub>先例，范例</sub> ← unprecedented<sub>空前的</sub> ‖ all-time<sub>空前的</sub>
+
+在学习precedent之前，我们应该先了解一下动词precede，precede的词源分析是：pre-<sub>预先</sub>+ced<sub>去</sub> → 即“先于……，先行”的意思。这里出现的名词是precedent<sub>先例，前例</sub>。其同义词antecedent的前缀ante-也是“先前
+
+<!-- p.414 -->
+
+的”的意思，跟pre-的意思相同！看看，两个前缀是不是很像同义词？
+
+接下来我们再了解一下它的反义词，unprecedented是“史无前例的”的意思，它也是一个使用频率相当高的单词。而unprecedented event则是“空前的事件，史无前例的事件”的意思。
+
+- **precede** [prɪˈsiːd] *vt.* 先于……，先行
+- **precedent** [ˈprɪsɪdənt] *n.* 先例，范例
+  - set a precedent 开先河
+  - without precedent 没有先例
+- **unprecedented** [ʌnˈpresɪdentɪd] *adj.* 空前的
+
+> Government intervention in the university's affairs set a dangerous **precedent**.
+> 政府介入大学事务开了一个很危险的先例。
+
+> Crime has increased on an **unprecedented** scale.
+> 犯罪率以空前的规模增加了。
+
+## 8. 比正常的时间提前 pre- 成熟 mature 的话，premature 时机尚早的，太早的
+
+<!-- 插图：保温箱里的早产婴儿 -->
+
+::: {.etymo}
+单词 premature 是前缀 pre- 和单词 mature 熟的组合而成的词。有很多人习惯将它的词义记作“早熟的”，其实表示“早熟的”的单词应该是 precocious，而 premature 的词义应该是“（时机）太早的，时机尚早的”，该词义源于其词源义“（比正常时间）提前成熟的”。比如，胎儿 fetus 本应该在妈妈肚子里呆十个月，如果他过早出生的话，就是“早产”了，premature death 是“过早死亡”的意思。再来看个词：immature 的意思是“没成熟的”。在这里 im- 是表示否定的前缀 in- 的变形哦。
+:::
+
+> **Voca Map**
+> - mature 熟的，成熟的 $\leftrightarrow$ immature 不成熟的
+>   - ↓
+>   - premature （时机）尚早的
+>   - 注意：表示“早熟的”的单词是 precocious!
+
+- **premature** [ˈpremətʃə] *adj.* 时机尚早的，太早的 = too early
+  - premature birth 早产
+  - premature death 夭折，早逝
+- **immature** [ˌɪməˈtjʊə] *adj.* 不成熟的 = unfledged
+
+> Alcoholism is one of the major causes of **premature** death.
+> 酗酒是导致早逝的主要原因之一。
+
+> Nowadays a **premature** baby has a very good chance of survival.
+> 如今，早产儿的存活率很高。
+
+<!-- p.415 -->
+
+## 9. 前面pre-的东西在后面poster的话，preposterous前后颠倒的，不着边际的
+
+<!-- 插图：马和车位置颠倒的幽默插画 -->
+
+::: {.etymo}
+在汉语中有个词叫做“主客颠倒”，意思是“主人和客人的位置颠倒了”，义指事物的先后顺序被颠倒后不着边际。描述这种情况的词汇就是 preposterous。
+:::
+
+大家看看左侧的图片！人在后面，本来应该是马拉车的，可是马跟马车的位置颠倒了。描述这种场景的俗语就是put the cart before the horse主客颠倒，它与preposterous的语义完全相同。
+
+- **preposterous** [pri'pɔstərəs] *adj.* 前后颠倒的，不着边际的=far-fetched, absurd
+  - a preposterous excuse (claim) 一个荒谬的借口（要求）
+  - It seems preposterous that 看起来很荒谬
+- **preposterousness** [pri'pɔstərəsnis] *n.* 荒谬，可笑
+
+> His demand for higher salary is absolutely **preposterous**.
+> 他对高薪的要求简直是可笑。
+
+> The terrorists took hostages and made a **preposterous** demand.
+> 恐怖分子挟持了人质并提出了荒诞的要求。
+> （hostage ['hɔstidʒ] 人质）
+
+## 10. 名字前面pre-连接stig，prestige名声，评判
+
+<!-- 插图：维多利亚女王肖像画 -->
+
+::: {.etymo}
+高尔夫王子阿诺德·帕尔默，篮球王子迈克尔·乔丹，花样滑冰女王李子君……大家知道他们的共同点是什么吗？对了，当提到他们的名字时，我不是单纯地只说他们的名字，而是在名字前面加上修饰语。不过，这种修饰语并不是随便用到某个人身上的，必须是在某个领域享有最高“名声”的人才能用。也就是说，只有在名字前面加上修饰语的人才是有“名声”的人。因此，prestige的“名声”之义就源于其词源义“名字前面加上修饰语的”。
+:::
+
+- **prestige** [pre'sti:ʒ] *n.* 名声、判断=reputation, renown, fame, celebrity
+  - gain prestige 赢得威望
+  - enhance one's prestige 提高某人的声望
+- **prestigious** [pre'stidʒəs] *adj.* 享有声望的，声望很高的
+
+<!-- p.416 -->
+
+> The general has now **gained considerable prestige** through the war.
+> 那位将军通过这次战争名声大噪。
+
+> His followers worried that the current scandal could damage the mayor's **prestige**.
+> 市长的追随者们担心这次的丑闻会影响他的声望。
+
+> The architect boasted that he had received a **prestigious** award.
+> 那个建筑师吹嘘说他获得了享有盛誉的奖项。
+
+## 单词回顾
+
+::: {.etymo}
+1. 预先小心的parser事情
+   → 预防，预防策略 `______`
+2. 预先判断的事情
+   → 成见，偏见 `______`
+3. 在起跑线前面
+   → 预备的，准备的 `______`
+4. 预先持有某种想法
+   → ①推测，推定
+     ②竟敢做…… `______`
+5. 比某些东西在先的
+   → 比……在先的，优先顺序 `______`
+6. 担心在前面的话
+   → 不安定的，危险的 `______`
+7. 先前存在的东西
+   → 先例，前例 `______`
+8. 比正常的时间提前成熟的话
+   → 时间尚早的，太早的 `______`
+9. 前面的东西到了后面的话
+   → 前后颠倒的，不着边际的 `______`
+10. 名字前面连接修饰语
+    → 名声，评判 `______`
+:::
+
+**答案** 1. precaution 2. prejudice 3. preliminary 4. presume 5. priority 6. precarious 7. precedent 8. premature 9. preposterous 10. prestige
+
+<!-- p.417 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下面单词的词义。
+
+1. prejudice ______ 2. preliminary ______
+3. precarious ______ 4. premature ______
+5. preposterous ______ 6. prestige ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 为了预防______火灾，大家都应该小心才行。
+2. 偏见______会妨碍正确的判断。
+3. 政府试图跟朝鲜预备______接触。
+4. 那个国家正处于不安定的______政治状况下。
+5. 这次判决会留下危险的先例______。
+6. 她因为丈夫过早______离世，茫然若失。
+7. 不要理那种不着边际的______要求吧！
+8. 他的名声______是别人所不及的。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. All safety **precautions** must be followed.
+   A. prejudices B. predictions C. prevention
+
+2. Almost all immigrant groups have faced racial ______ in their new countries.
+   A. judgment B. consideration C. prejudice
+
+3. His health remains **precarious** despite the treatment.
+   A. insecure B. careless C. preliminary
+
+4. She has suffered from ______ ageing of her skin.
+   A. mature B. immature C. premature
+
+---
+
+## 本日词汇速查（18 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [precaution]{.headword} | prɪ'kɔːʃn | n | 预防，预防策略=prevention |
+| [precautious]{.headword} | prɪ'kɔːʃəs | adj | 有防备的，戒备的 |
+| [caution]{.headword} | 'kɔːʃn | n | 警告，慎重 *vt.* 劝告 |
+| [prejudiced]{.headword} | ˈpredʒʊdɪst | adj | 有偏见的 |
+| [preliminary]{.headword} | prɪˈlɪmɪnərɪ | adj | 预备（准备）的，事前的=preparatory, previous *n.* 事前作业，准备活动 |
+| [presumption]{.headword} | prɪ'zʌmpʃn | n | 假设；推测 |
+| [presumptive]{.headword} | prɪ'zʌmptɪv | adj | 根据推定的 |
+| [presumptuous]{.headword} | prɪ'zʌmptʃuəs | adj | 放肆的 |
+| [priority]{.headword} | praɪˈɒrəti | n | 优先权，优先 |
+| [precarious]{.headword} | prɪˈkeəriəs | adj | 不安定的，危险的 =unstable, insecure |
+| [precariousness]{.headword} | prɪˈkeəriəsnɪs | n | 不稳定，可疑 |
+| [unprecedented]{.headword} | ʌnˈpresɪdentɪd | adj | 空前的 |
+| [premature]{.headword} | ˈpremətʃə | adj | 时机尚早的，太早的 = too early |
+| [immature]{.headword} | ˌɪməˈtjʊə | adj | 不成熟的 = unfledged |
+| [preposterous]{.headword} | pri'pɔstərəs | adj | 前后颠倒的，不着边际的=far-fetched, absurd |
+| [preposterousness]{.headword} | pri'pɔstərəsnis | n | 荒谬，可笑 |
+| [prestige]{.headword} | pre'sti:ʒ | n | 名声、判断=reputation, renown, fame, celebrity |
+| [prestigious]{.headword} | pre'stidʒəs | adj | 享有声望的，声望很高的 |
+

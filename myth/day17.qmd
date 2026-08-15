@@ -1,0 +1,377 @@
+# Day 17 · 说是 dic (t)，fa，loq {.unnumbered}
+
+::: {.root-banner}
+Day 17 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p157–p164
+
+<!-- p.142 -->
+
+<!-- 插图：推销员向坐在沙发上的一家人介绍产品 -->
+
+请看右图，图中的人们好像在认真地说着什么。大家想一下与“说”有关的词语大概能有多少个呢？汉字中，与“说”有关可不少。如言、语、辞、诉……由这些汉字组成词后，表示“说”的词语自然而然也随之增加。英语中“说speak”的词根有dic（t），fa，loq，这些词根也组成了很多词语。接下来我们就一起看看这些词语吧。
+
+**dic(t)是speak**
+
+- ad-把 + dict说(speak)（总是说……）→ **addict** 使沉溺，使上瘾
+- dict(a)-说(speak) + -tor人（指示（命令）的人）→ **dictator** 独裁者
+- pre-提前 + dic(a)说(speak) + -ment名词后缀（预言到（未来的困难））→ **predicament** 困境，窘况
+- contra-相反 + dict说(speak)（反着说）→ **contradict** 反驳，驳斥
+- in-把 + dicate说(speak)（说……表示）→ **indicate** 暗示，象征，指示
+
+**fa/loq是speak**
+
+- fabul说(speak) + -ous形容词后缀（到了话（从嘴里）蹦出来的程度）→ **fabulous** 极好的，（美貌）惊人的
+- loq(ua)说(speak) + -cious形容词后缀（说了又说）→ **loquacious** 多嘴的，嘴碎的
+- af-(ab)走去……边 + fable可以说（容易接近搭话的）→ **affable** 和蔼的，平易近人的人
+- apo-去掉 + log说(speak) + -ize动词后缀（为了去掉（错误）而说）→ **apologize** 道歉
+- e(x)-外 + loq(u)说(speak) + -ent形容词后缀（（把想法）好好地表达出）→ **eloquent** 雄辩的，有口才的
+
+<!-- p.143 -->
+
+## 1. 三番五次地ad-说-dict，addict上瘾；有瘾的人
+
+::: {.etymo}
+addict源于其词源义“总是说……”，是“上瘾”的意思。换句话说，如果一个人总是提到某样东西，那可能是对那个东西上瘾了。值得注意的是，addict一定要用作被动态以惯用句型“be addicted to+名词对……上瘾”来使用。另外，addict用作名词指“有瘾的人”，这点也很重要哦！
+:::
+
+<!-- 插图：咖啡杯（Coffee）与酒杯（Alcohol） -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+关于addict需要牢记的两点：
+1. addict一定以被动态be addicted to（对……上瘾）形式来使用。
+2. addict本身就有名词“中毒者”的意思。
+:::
+
+- **addict** [ˈædɪkt] *vt.* 使沉溺，使上瘾；*n.* 有瘾的人，入迷的人
+  - be addicted to 对……成瘾，沉迷于
+  - be addicted to alcohol 对酒精成瘾
+  - drug addict 吸毒上瘾的人
+
+> 50 million Koreans **are addicted to** nicotine.
+> 有5000万韩国人对尼古丁上瘾。（吸烟者）
+
+> There are many drug **addicts** who want to kick the habit.
+> 很多吸毒者都想戒毒。
+> （kick the habit 戒除嗜好）
+
+## 2. 预言dica到未来pre-的困难，predicament困境，苦难
+
+<!-- 插图：长胡须的预言者画像 -->
+
+::: {.etymo}
+大家来看一看，predicament与prediction预言十分相似吧？虽然二者词源相同，但词义却完全不同。predicament由其词源义“预言到未来的困难”生成“困境，苦难”的意思。这与过去prophet预言者对未来的困境、苦难等进行预言有着密切的关系。关于诺查丹玛斯地球会灭亡的预言prediction可以说是最具代表性的predicament吧！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+prediction（预言）与predicament（困境，苦难）虽然词源相同，但词义完全不同，要区分开来哦！
+:::
+
+- **predicament** [prɪˈdɪkəmənt] *n.* 困境，窘况 = hardship, plight, impasse
+  - the country's economic predicament 国家的经济困境
+  - in a terrible predicament 处于可怕的困境
+
+> The company was confronted with the financial **predicament**.
+> 该公司面临着财政危机。
+> （be confronted with 面临，对照）
+
+> The country has overcome the economic **predicament**.
+> 这个国家克服了经济危机。
+
+<!-- p.144 -->
+
+## 3. 发出 dicta 指示和命令的人 -tor，dictator 独裁者
+
+<!-- 插图：军官模样的独裁者拿着文件大声发号施令，士兵在服从记录 -->
+
+::: {.etymo}
+统治者如果过于贪恋国家的统治权sovereignty，就会变成dictator的。最具代表性的臭名昭著的独裁者infamous dictator就是希特勒Hitler。dictator是dictate口头上指示，命令的名词形式，意为“指示，命令”，引申为“独裁者”。“希特勒=dictator独裁者”这样来联想着记，就容易多了吧。
+:::
+
+- **dictator** [dɪkˈteɪtə] *n.* 独裁者，发号施令者 = despot, autocrat, tyrant
+  - the downfall of the dictator 独裁者的倒台
+- **dictatorship** [dɪkˈteɪtəʃɪp] *n.* 专政，独裁，独裁权
+  - under the military dictatorship 在军事独裁的统治下
+
+> Pinochet was a military **dictator** who took power in a 1973 coup.
+> 皮诺切特是通过1973年军事政变掌握国家政权的军事独裁者。
+> （coup [kuː] 军事政变（coup detat的缩写））
+
+> The country's 10 year military **dictatorship** came to an end.
+> 这个国家10年的军事独裁结束了。
+
+## 4. 反对 contra- 说 dict，contradict 反驳，和……矛盾
+
+::: {.etymo}
+contradict基本延续了其词源义“反对说”，形成了“反驳，与……矛盾”的意思。不用再做说明大家也都理解了吧？
+:::
+
+- **contradict** [ˌkɒntrəˈdɪkt] *vi. vt.* 反驳，否认，驳斥 = rebut, refute
+  - contradict his illogical assertion 否定了他不合逻辑的主张
+- **contradiction** [ˌkɒntrəˈdɪkʃn] *n.* 矛盾，反驳，否认
+- **contradictory** [ˌkɒntrəˈdɪktəri] *adj.* 矛盾的，反驳的
+
+> He flies into a passion if you **contradict** him.
+> 如果你反驳他，他会大发雷霆的。（fly into a passion 大发雷霆）
+
+> Recent experiments seem to **contradict** earlier results.
+> 最近的实验好像与以前的结果相矛盾。
+
+> The policy seems **contradictory** to democracy.
+> 这个政策好像有悖于民主。
+
+## 5. 说 dicate…… in- 表示，indicate 指……，表示
+
+::: {.etymo}
+indicate是在词源义“说……，表示”的基础上升成的“指……，表示”之义。譬如，“在这首诗poem中，松树指的是气节和节操”，那也
+:::
+
+<!-- p.145 -->
+
+就意味着那棵松树表示的是气节和节操的意思。
+
+**indicate**是属于高考词汇，比较简单，使用频率也比较高。名词**indicator**指标的意思也很重要，请大家将其也一起记下来吧！
+
+- **indicate** [ˈɪndɪkeɪt] *vt.* 指示，象征，表明 = represent
+- **indication** [ɪndɪˈkeɪʃn] *n.* 指示，象征
+- **indicator** [ˈɪndɪkeɪtə] *n.* 指示器，指标 = sign
+
+> The latest data **indicate** that the property market is overheating.
+> 最新的数据表明房地产市场过热。
+
+> Dark green leaves are a good **indication** of healthy roots.
+> 深绿色的叶子是根系健康的象征。
+
+> The result of the election is the **indicator** of public opinion.
+> 选举结果是公众意志的体现。
+
+## 6. 话脱fabul口而出的程度，fabulous非常优秀的，帅气的
+
+<!-- 插图：人们在看烟花，发出“wow, fabulous!”的感叹 -->
+
+::: {.etymo}
+大家亲眼目睹过使夜空异常华丽的 fireworks烟火吗？美丽的烟火接二连三地在空中绽放时，人们异口同声地发出“哇”的声音，爆发出各种感叹ejaculation。这时能让人联想到的形容词是fabulous。fabulous由其词源义“话（从嘴里）爆发出来”生成“非常优秀，帅气的”意思。仔细想想，感叹的话到了不由自主脱口而出的程度，那不就是非常优秀和靓丽的吗？日常生活中，fabulous的使用频率也很高，大家一定要把它记牢哦！
+:::
+
+- **fabulous** [ˈfæbjʊləs] *adj.* 极好的，极妙的 = wonderful, marvelous
+  - a fabulous meal (movie) 一顿丰盛的大餐（一部很棒的电影）
+  - You look fabulous! 你看起来棒极了！
+
+> Isn't this movie **fabulous**?
+> 难道这部电影不好吗？
+
+> The hotel has **fabulous** views of the sea.
+> 这家酒店能看到美丽的海景。
+
+> Korean cuisines are generally **fabulous**, and they are usually very healthy.
+> 韩国料理都很棒，而且也很健康。
+
+<!-- p.146 -->
+
+## 7. 接近 af-容易搭话 fable 所以 affable 和蔼可亲的
+
+<!-- 插图：微笑接听电话的客服人员 -->
+
+::: {.etymo}
+通过电话向消费者宣传产品的电话推销员 telemarketer 和百货商店 department store 的客服人员有什么共同点？是的，都很 affable。在这里，affable 由其词源义“容易搭话”引申为“和蔼可亲的”意思。跟冷冰冰的 brusque 人搭话不容易吧？大体上，容易搭话并且能够轻松展开对话的人基本都很和蔼。
+:::
+
+- **affable** [ˈæfəbl] *adj.* 和蔼可亲的，友善的 = admiable, friendly
+  - an affable girl 一个友善的女孩
+- **affability** [ˌæfəˈbɪlətɪ] *n.* 亲切，和蔼
+
+> She married an **affable**, middle-aged businessman.
+> 她嫁给了一个慈祥的中年商人。
+
+> Michael was **affable** and humane, but also firm and decisive in dealing with the problems.
+> 迈克尔很友善，具有同情心，但在处理问题时也很坚定、果断。
+> （deal with 处理事情或问题）
+
+## 8. 说了又说 loqua，loquacious 啰嗦的，多话的
+
+<!-- 插图：漫画中一人看着餐桌上滔滔不绝讲话的人说 "He has a big mouth!" -->
+
+::: {.etymo}
+“She has a big mouth.”是什么意思？如果是“她的嘴巴比较大”的话，那就没必要提问了吧？这句话的意思是“她很唠叨”。
+:::
+
+我们要学习的单词 loquacious 由其词源义“有很多话要说，说了又说”引申成了“唠叨的，话多的”意思。该词多用于比较正式的场合。
+
+- **loquacious** [ləˈkweɪʃəs] *adj.* 爱说话的，多嘴的 = talkative, garrulous
+  - loquacious, middle-aged women 爱唠叨的中年妇女
+  - He has a big mouth! 他可真唠叨！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与 loquacious 语义相似的 big mouth 是非正式的表达，常用在关系比较亲近的人之间，即我们常说的“滔滔不绝”。chatty 是“爱讲闲话的，话多的”的意思，多用于表达比较轻松的语境。
+:::
+
+<!-- p.147 -->
+
+> She was very **loquacious** about her experiences.
+> 她非常喜欢谈论她的经历。
+
+> My wife is very **loquacious** and can speak on the telephone for hours.
+> 我的妻子非常爱唠叨，煲电话粥能煲几个小时。
+
+## 9. 为了除去 apo-（错误）而说的话 log，apologize 道歉
+
+::: {.etymo}
+如果感觉自己做错了，要马上apology道歉弥补过失，才可以使心情轻松起来吧？如果错过时机，就不容易做的事情正是apology。apology沿用其词源义“弥补过失而说的话”形成了“道歉”的意思。apologize是不及物动词，所以要以“apologize to 向……道歉”或“apologize for 为……而道歉”的惯用搭配形式使用。
+:::
+
+<!-- 插图：一人向女士鞠躬道歉说："I apologize!" -->
+
+- **apologize** [əˈpɒlədʒaɪz] *vi.* 道歉，认错
+  - apologize to a friend 向朋友道歉
+  - apologize for one's mistake 为……的错误而道歉
+- **apology** [əˈpɒlədʒi] *n.* 道歉
+  - public apology 公开道歉
+
+> Please accept my **apology**.
+> 请接受我的道歉。
+
+> I think you should **apologize to** your brother.
+> 我觉得你应该向哥哥道歉。
+
+> I must **apologize for** my son's rude behavior.
+> 我要为我儿子粗鲁的行为道歉。
+
+## 10. 把想法很好地表达 logu 出来 e-，eloquent 雄辩的、有说服力的
+
+<!-- 插图：奥巴马手持话筒演讲 -->
+
+::: {.etymo}
+这次要学的eloquent是从“（把想法）很好地表达出来”的词源义中产生的单词。其词义为“雄辩的，有说服力的”。美国总统奥巴马Obama可以称得上是eloquent speaker吧？而an eloquent photo就是“很好地表达（作家想法）的照片”的意思。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+eloquent是源自于“将脑子里的想法通过语言表达”之义，其词义为“雄辩的，有说服力的”。
+:::
+
+<!-- p.148 -->
+
+- **eloquent** [ˈeləkwənt] *adj.* 雄辩的，有说服力的，有口才的
+  - an eloquent speaker 口才出众的演讲者
+  - an eloquent appeal for support 一个有说服力的呼吁（大家来）支持
+- **eloquence** [ˈeləkwəns] *n.* 口才，雄辩，辩才
+
+> Eyes are more **eloquent** than lips.
+> 眼睛比嘴有说服力。（眼见为实。）
+
+> US President Barack Obama gave an **eloquent** speech to the audience.
+> 美国总统巴拉克·奥巴马给观众带来了一场有说服力的演讲。
+
+> The photographs are an **eloquent** reminder of the horrors of war.
+> 这些照片再现了战争的恐怖。
+
+## 单词回顾
+
+::: {.etymo}
+1. 三番五次地说
+   → 上瘾 ______
+2. 预言未来的困难
+   → 困境，苦难 ______
+3. 指示命令的人
+   → 独裁者 ______
+4. 反对说
+   → 反驳，与……矛盾 ______
+5. 表示……的意思
+   → 指……，表示 ______
+6. 话脱口而出的程度
+   → 非常优秀的，帅的 ______
+7. 接近容易搭话的
+   → 和蔼可亲的 ______
+8. 说了又说
+   → 唠叨的，话多的 ______
+9. 为了弥补过失而说的
+   → 道歉 ______
+10. 把想法很好的表达出来
+    → 雄辩的，有说服力的 ______
+:::
+
+答案 1. addict 2. predicament 3. dictator 4. contradict 5. indicate 6. fabulous 7. affable 8. loquacious 9. apologize 10. eloquent
+
+<!-- p.149 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. addict ______
+2. predicament ______
+3. contradict ______
+4. fabulous ______
+5. affable ______
+6. eloquent ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 他**沉迷于**______酒精和赌博。
+2. 他陷入了经济上的**困境**______。
+3. 新政府决定对那个**独裁者**______处以死刑。
+4. 他**反驳**______了我的主张。
+5. 她带来了非常**优秀**的______表演。
+6. 她的性格**和蔼**______温柔。
+7. 我觉得太**唠叨**的______人让人不舒服。
+8. 他进行了一场**雄辩**的______演讲。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. It's difficult for most smokers to admit that they are ______ .
+   A. addicts
+   B. additives
+   C. prophets
+
+2. They decided to execute the former **dictator**.
+   A. despot
+   B. president
+   C. commander
+
+3. The articles **contradict** their claims.
+   A. defy
+   B. deny
+   C. contravene
+
+4. She married an ______ , middle-aged businessmen.
+   A. brusque
+   B. fabulous
+   C. affable
+
+---
+
+## 本日词汇速查（22 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [addict]{.headword} | ˈædɪkt | vt | 使沉溺，使上瘾；*n.* 有瘾的人，入迷的人 |
+| [predicament]{.headword} | prɪˈdɪkəmənt | n | 困境，窘况 = hardship, plight, impasse |
+| [dictator]{.headword} | dɪkˈteɪtə | n | 独裁者，发号施令者 = despot, autocrat, tyrant |
+| [dictatorship]{.headword} | dɪkˈteɪtəʃɪp | n | 专政，独裁，独裁权 |
+| [contradict]{.headword} | ˌkɒntrəˈdɪkt | vi. vt | 反驳，否认，驳斥 = rebut, refute |
+| [contradiction]{.headword} | ˌkɒntrəˈdɪkʃn | n | 矛盾，反驳，否认 |
+| [contradictory]{.headword} | ˌkɒntrəˈdɪktəri | adj | 矛盾的，反驳的 |
+| [indicate]{.headword} | ˈɪndɪkeɪt | vt | 指示，象征，表明 = represent |
+| [indication]{.headword} | ɪndɪˈkeɪʃn | n | 指示，象征 |
+| [indicator]{.headword} | ˈɪndɪkeɪtə | n | 指示器，指标 = sign |
+| [fabulous]{.headword} | ˈfæbjʊləs | adj | 极好的，极妙的 = wonderful, marvelous |
+| [affable]{.headword} | ˈæfəbl | adj | 和蔼可亲的，友善的 = admiable, friendly |
+| [affability]{.headword} | ˌæfəˈbɪlətɪ | n | 亲切，和蔼 |
+| [loquacious]{.headword} | ləˈkweɪʃəs | adj | 爱说话的，多嘴的 = talkative, garrulous |
+| [apologize]{.headword} | əˈpɒlədʒaɪz | vi | 道歉，认错 |
+| [apology]{.headword} | əˈpɒlədʒi | n | 道歉 |
+| [eloquent]{.headword} | ˈeləkwənt | adj | 雄辩的，有说服力的，有口才的 |
+| [eloquence]{.headword} | ˈeləkwəns | n | 口才，雄辩，辩才 |
+| [additive]{.headword} |  |  | 添加剂，添加物 |
+| [defy]{.headword} |  |  | 不服从，公然反抗 |
+| [contravene]{.headword} |  |  | 违反，违背 |
+| [brusque]{.headword} |  |  | 粗鲁的，莽撞的 |
+

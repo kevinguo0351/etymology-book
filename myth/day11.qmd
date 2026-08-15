@@ -1,0 +1,373 @@
+# Day 11 · 站着是sist，坐着是sid {.unnumbered}
+
+::: {.root-banner}
+Day 11 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p103–p110
+
+<!-- p.88 -->
+
+<!-- 插图：男人站着与坐在桌边的女人交谈 -->
+
+请看右图：男人站着，女人坐着。词根sist是“站”，即stand的意思，而词根sid是“坐”，也就是sit的意思。“站”和“坐”是最基本的动作，所以其派生词也非常多。接下来我们就来了解一下都有哪些词语吧？
+
+**Voca Map：sist是stand**
+
+- as-（向……边(ad-)）+ sist（站(stand)）[站在……边] → **assist** 帮助，援助
+- de-（分开）+ sist（站(stand)）[分开站] → **desist** 停止
+- con-（一起）+ sist（站(stand)）[与……站在一起] → **consist** 由……组成
+- in-（里面）+ sist（站(stand)）[站在（自己的想法）里面] → **insist** 强调，坚决要求
+- re-（后面）+ sist（站(stand)）[在后面支撑站着] → **resist** 抵抗，抗拒
+
+**Voca Map：sid是sit**
+
+- sed(en)（做(sit)）+ -(t)ary（形容词后缀）[坐着] → **sedentary** (指工作等)坐着干的
+- re-（后面）+ sid（坐(sit)）+ -ue（名词后缀）[留在后面] → **residue** 残余，残渣
+- as-（在……边(ad)）+ sid(u)（坐(sit)）+ -ous（形容词后缀）[在……一直坐着] → **assiduous** 刻苦的，勤勉的
+- sub-（旁边）+ sid（坐(sit)）+ -y（名词后缀）[坐在旁边给予帮助] → **subsidy** 补贴，津贴
+- super-（取代……上面）+ sed(e)（坐）[取代……坐上] → **supersede** 取代，接替
+
+<!-- p.89 -->
+
+## 1. 站 sist 在……一边，assist 帮助，搭手帮忙
+
+<!-- 插图：医生在看坐着的病人，护士站在一旁协助 -->
+
+::: {.etymo}
+大家经常能听到assist这个词吧？不过assist为什么是“帮助”的意思呢？首先，我们来看左侧的图片。看，是不是病人patient坐着，医生在站着？除了这两个人外，还有个护士nurse站在旁边。站在医生旁边帮助治疗患者的就是assist。assist在词源上可分解为 as-ad-向……边+sist站，即站在某人的旁边帮其做事的“帮助，搭手帮忙”的意思。
+:::
+
+- **assist** [ə'sɪst] *vt.* 帮助，援助=help, aid
+  - assist the poor country 援助贫穷国家
+- **assistance** [ə'sɪstəns] *n.* 援助，辅助
+- **assistant** [ə'sɪstənt] *n.* 助手，助教
+
+> The usher **assisted** me to a seat.
+> 引导员带我到座位前。
+
+> Citizens have a duty to **assist** the police.
+> 市民有协助警察的义务。
+
+> The government has to take measures to **assist** people's livelihood.
+> 政府必须制定措施帮助百姓维持生计。
+> （take measures to 采取措施）
+
+## 2. 站在 sist 一起 con-，consist 构成
+
+::: {.etymo}
+我们应该互相assist帮助。因为社会是以个体为基础众人共同生存的地方。consist的词义“由……构成”源自于其词源义“共同生存”。consist是不及物动词，使用时一般以惯用句型“consist of由……构成的”的形式出现！形容词consistent由其词源义“（有结构地、有组织地）构成”引申为“一致的、一贯的”之义。该单词比较重要，请大家将其也一起记住。
+:::
+
+- **consist** [kən'sɪst] *vi.* 1. consist of 由……组成；2. consist in 存在于，在于
+  - the book that consists of 5 chapters 这本书由5个章节构成
+- **consistency** [kən'sɪstənsi] *n.* 一致性
+- **consistent** [kən'sɪstənt] *adj.* 一致的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+consist是不及物动词，所以绝不能以被动态（be consisted of）的形式出现！这是考试中经常出现的考点，请大家一定要记牢，不能出错。
+:::
+
+> The buffet **consists** of three kinds of main course dishes.
+> 这顿自助餐由三大类主菜构成。
+
+> It is difficult to find out a **consistent** theme in the novel.
+> 在这部小说里很难找到一个一致性的主题。
+
+> There was no **consistency** between the first and the second half of the film.
+> 这部电影的第一部分和第二部分完全没有关联性。
+
+<!-- p.90 -->
+
+## 3. 分开 de- 站 sist，desist 停止，终止
+
+<!-- 插图：STOP 图标，带有手掌图案 -->
+
+::: {.etymo}
+如果想建立一个互相帮助的美好社会，就要阻止犯罪 crime 或者恐怖袭击 terror 等非法行为。这里用作“终止”之义动词是 desist。desist 的前缀 de- 是“分开”的意思，在与某种行为“分开站”的词源义中引申出“停止，终止”的意思。要注意，desist 多与助词 from 连用。为了便于记忆，请大家以词组 desist from 的形式来记吧！
+:::
+
+- **desist** [dɪˈsɪst] *vi.* 停止，终止 =stop
+  - desist from 停止做……，不再做……
+  - desist from acts of violence 停止暴力行为
+
+> Brams would not **desist from** his insistence.
+> 布拉姆斯会坚持他的主张。
+
+> North Korea has to **desist from** its recent provocations.
+> 北朝鲜不得不停止近期的挑衅行为。
+> （provocation [ˌprɒvəˈkeɪʃn] 挑衅，激怒）
+
+## 4. 站在 sist 自己想法里 in-，insist 主张，坚持
+
+<!-- 插图：男子手举禁烟标志牌进行主张 -->
+
+::: {.etymo}
+任何人都会有自己的想法和主张，若一直坚守着自己的想法，就有可能被困在某个思想的死胡同里。在这个词源义背景下产生的单词是 insist。insist 既可用作及物动词也可以用作不及物动词，作不及物动词时，一般为 insist on+名词；作为及物动词时，一般为 insist that+从句。记住这两种用法的话，在英语阅读理解和写作中便可信手拈来！
+:::
+
+- **insist** [ɪnˈsɪst] *v.* 坚持，强调，坚决要求
+  - insist on/insist that 坚持……，强调……
+  - insist on a smoke-free environment 坚持一个无烟的环境
+- **insistent** [ɪnˈsɪstənt] *adj.* 坚持的，引人注意的
+
+> She kept **insisting on** her innocence.
+> 她坚持说自己是清白的。
+
+> Some people **insist that** nuclear weapons should not be on the Korean Peninsula.
+> 有些人主张朝鲜半岛不应拥有核武器。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+本小节所出现的动词与介词惯用搭配如下：
+consist of 由……组成
+desist from 停止
+insist on 坚持
+persist in 坚持
+:::
+
+<!-- p.91 -->
+
+## 5. 在后面re-支撑站着sist，resist抵抗
+
+<!-- 插图：市民反抗独裁统治的历史战斗场景 -->
+
+::: {.etymo}
+民主制度democracy之所以能在一个国家扎根、发展，是因为这是由民主斗士们用自己的生命与独裁政权dictatorship做斗争所换来的。这些斗士们为了守护民主主义拼上了自己全部力气进行了顽强的抵抗。这让我们不由自主地联想到单词resist抵抗。
+:::
+
+虽然resist多用在描述宏伟的抵抗场面，但也常用于像“I just can't resist chocolate. 我无法抵抗巧克力—>不能不吃”之类的口语表达。了解这一用法还是很有用的。
+
+- **resist** [rɪ'zɪst] *vt.* 抵抗，抗拒=withstand
+  - resist the temptation to laugh 抵制让人发笑的诱惑
+- **resistance** [rɪ'zɪstəns] *n.* 抵抗，阻力，抗力
+- **resistant** [rɪ'zɪstənt] *n.* 有抵抗力的，抵抗的
+  - shock-resistant rubber 防震橡胶
+
+> I just can't **resist** her beauty.
+> 我不能抵抗她美丽的容颜。
+
+> Demonstrators courageously **resisted** oppression of the military dictatorship.
+> 示威者勇敢地反抗军事独裁政府的压迫。
+> （oppression [ə'preʃn] 压迫）
+
+## 6. 坐着sed，sedentary坐着，坐着工作
+
+::: {.etymo}
+词根sid是sit坐中的辅音/t/弱化而成的/d/。而sedentary一词是在词根sed坐上的后面加形容词后缀-ary所构成，意为“坐着，坐着工作”。sedentary job是个非常有名的表达famous expression，其意为像司机或者程序员一样“坐着工作”。sedentary同时还含有在一个地方定居settlement，不想往别的地方“移居”之义。于是，a sedentary population in Seoul就是“不想从首尔(向别的地区)移居的居民”的意思。
+:::
+
+- **sedentary** ['sedntərɪ] *adj.* 1. 坐着的，(指工作等)坐着干的；2. 定居的，不想移居的
+  - too sedentary Korean young people 长期久坐工作的韩国年轻人
+  - sedentary people in the city 城里不想移居的人们
+
+<!-- p.92 -->
+
+> There are health problems caused by our **sedentary** lifestyle.
+> 有很多健康问题是由于久坐不动的生活方式引起的。
+
+> People with **sedentary** jobs generally need to eat less than those in very active occupations.
+> 通常，那些坐着工作的人应该比那些从事活动量大的工作的人吃得少些。
+
+## 7. 在 as-~（一直）坐着 sid，assiduous 勤勉的，诚实的
+
+<!-- 插图：埋头苦读的学生与周围聊天喝咖啡的学生 -->
+
+::: {.etymo}
+在图书馆library里总会有些喝咖啡、打电话，与朋友聊天等三心二意的学生。很明显，这些人不是用心学习的学生。真正努力学习的学生是屁股黏在一个位置上以后，一直在研究着学业的学生。从这个概念所产生的词语正是assiduous勤勉的，诚实的。assiduous是从词源义“在……（一直）坐着”中引申出的“勤勉的，诚实的”。当然，除了assiduous外，表示“勤勉的”单词还有diligent，industrious。相比之下，assiduous属于水平高一点的单词，请大家一定记下来！
+:::
+
+- **assiduous** [ə'sɪdjuəs] *adj.* 刻苦的，勤勉的 =diligent, industrious
+  - an assiduous student/worker 勤勉的学生（工人）
+- **assiduity** [ˌæsɪ'djuːɪtɪ] *n.* 勤勉，刻苦
+
+> He was **assiduous** in his attendance at church.
+> 他一次不落地去教堂做礼拜。
+
+> The government has been **assiduous** in the fight against inflation.
+> 政府不懈地遏制通货膨胀。
+
+## 8. 遗留 sid 在后面 re-，residue 剩余，残余
+
+<!-- 插图：杯底残留的咖啡渣 -->
+
+::: {.etymo}
+决不能与resident混淆的单词是residue剩余，残渣。大家喜欢咖啡吗？喝完咖啡后杯子里面会留下咖啡的残渣吧？右图中的杯子里就有一些咖啡残渣，英语中称之为coffee residue。看看，百闻不如一见Seeing is believing吧！这回明白为什么residue的词源义“沉淀在下面”会成为“剩余，残余”之义了吧？
+:::
+
+<!-- p.93 -->
+
+- **residue** [ˈrezɪdjuː] *n.* 残渣，剩余 =remnant, remainder
+  - coffee residue 咖啡残渣
+  - pesticide residues in fruit and vegetables 水果和蔬菜上残留的农药
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请不要混淆 residue（剩余，残余）与 residence（住宅；居住）的词义！
+:::
+
+> Soap can leave a slight **residue** on your skin.  
+> 会有些肥皂沫轻轻地残留在你的皮肤上。
+
+> The flies leave a sticky **residue** on crops.  
+> 苍蝇在庄稼上残留了一些粘性物质。
+
+> The investigation team has collected explosive **residue** from the wreckage.  
+> 调查组在残骸中收集到了一些爆炸残留物。（wreckage [ˈrekɪdʒ] 残骸）
+
+## 9. 坐在 sid 旁边 sub-给予帮助，subsidy 补贴
+
+<!-- 插图：戴高帽的官员（政府）将钱递给手拿草叉的农民 -->
+
+::: {.etymo}
+大家都听说过自由贸易协定 FTA（Free Trade Agreement）吧？不久前，韩国与欧盟签订了 FTA，签订了 FTA，虽有获得利益的领域，但是也有受损的领域。而对韩国而言，利益受损的正是农业 agriculture 领域。因此，农业领域需要政府的 subsidy 补贴。subsidy 的词源义为“坐在旁边帮忙”，词义为“给予帮助的钱→补贴”。
+:::
+
+- **subsidy** [ˈsʌbsɪdɪ] *n.* 补贴，津贴 =benefit
+  - subsidy for child 育儿补助
+  - subsidy for education 教育补贴
+- **subsidize** [ˈsʌbsɪdaɪz] *vt.* 以津贴补助，支援 =support
+
+> The government may cut some **subsidies** to farmers.  
+> 政府会削减些发给农民的补贴。
+
+> Without state **subsidies**, the railways couldn't survive.  
+> 没有国家的补贴，铁路就无法运营了。
+
+> The government should subsidize foreigners to help them adjust to their new environment.  
+> 政府应该帮助外国人，以便他们适应新的环境。
+
+## 10. 代替 super-坐上 sede，supersede 代替，取代
+
+::: {.etymo}
+最近较少人带着随声听 walkman 听歌，而是用 MP3 播放器代替了。以前最流行的是 walkman，岁月流逝，它已被 MP3 所取代了。也就是说，曾经是 walkman 的位置，现在被 MP3 给坐了。这次要学的单词 supersede
+:::
+
+<!-- p.94 -->
+
+<!-- 插图：笔记本电脑抢占台式电脑的位置，并说：“这是我的位子啦！” -->
+
+正是“代替，取代”的意思。别的东西（MP3）代替现有的东西（walkman），这就是supersede。在该词中，前缀super-不是单纯的“在……上”而是“取代……”的意思。
+
+- **supersede** [ˌsjuːpəˈsiːd] *v.* 取代，代替 = replace, substitute, supplant
+  - be superseded by 被……取代
+
+> Walkmans have been **superseded** by MP3 players.
+> 随身听被MP3取代了。
+
+> The old computers will have been **superseded** by more recent models.
+> 老式的电脑会被更多新型电脑所取代。
+
+> It is unlikely that scientific thinking will entirely **supersede** superstition and religion.
+> 自然科学的思维是不可能完全取代迷信和宗教的。
+> （superstition [ˌsjuːpəˈstɪʃn] 迷信）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+supersede主要以被动态（be superseded by）的形式使用，请大家一定要记住哦！
+:::
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 站在……边
+   → 帮助，帮手 ______
+2. 一起站着
+   → 由……构成 ______
+3. 分开站
+   → 停止，终止 ______
+4. 站在自己的想法里
+   → 主张，坚持 ______
+5. 在背后支撑站着
+   → 抵抗 ______
+6. 坐着
+   → 坐着，坐着工作 ______
+7. 一直坐在……
+   → 勤勉的，诚实的 ______
+8. 剩下来的
+   → 剩余，残渣 ______
+9. 坐在旁边提供（帮助）
+   → 补贴 ______
+10. 代替坐在……上
+    → 代替，取代 ______
+:::
+
+**答案** 1. assist 2. consist 3. desist 4. insist 5. resist 6. sedentary 7. assiduous 8. residue 9. subsidy 10. supersede
+
+<!-- p.95 -->
+
+## 确认并攻克下列单词
+
+**一、请写出下列单词的词义。**
+
+1. consist ______
+2. desist ______
+3. resist ______
+4. sedentary ______
+5. residue ______
+6. subsidy ______
+
+**二、请写出下列阴影标识部分的单词。**
+
+1. 密码由5个字母所**构成** ______。
+2. 他应该**停止** ______ 家庭暴力。
+3. 他总是**坚信** ______ 自己是对的。
+4. **抵抗** ______ 独裁政权。
+5. 他的职业需要**坐着工作** ______。
+6. 政府给低收入家庭提供育儿**补贴** ______。
+7. 随身听被MP3**取代了** ______。
+
+**三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。**
+
+1. The buffet ______ of diverse dishes.
+   A. persists
+   B. consists
+   C. desists
+
+2. She kept ______ on her innocence.
+   A. insisting
+   B. resisting
+   C. subsisting
+
+3. He has made **assiduous** efforts for success.
+   A. industrial
+   B. industrious
+   C. insidious
+
+4. The new deal **supersedes** the old agreement.
+   A. intercedes
+   B. supervises
+   C. substitutes
+
+---
+
+## 本日词汇速查（18 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [assist]{.headword} | ə'sɪst | vt | 帮助，援助=help, aid |
+| [assistance]{.headword} | ə'sɪstəns | n | 援助，辅助 |
+| [assistant]{.headword} | ə'sɪstənt | n | 助手，助教 |
+| [consistency]{.headword} | kən'sɪstənsi | n | 一致性 |
+| [consistent]{.headword} | kən'sɪstənt | adj | 一致的 |
+| [desist]{.headword} | dɪˈsɪst | vi | 停止，终止 =stop |
+| [insist]{.headword} | ɪnˈsɪst | v | 坚持，强调，坚决要求 |
+| [insistent]{.headword} | ɪnˈsɪstənt | adj | 坚持的，引人注意的 |
+| [resist]{.headword} | rɪ'zɪst | vt | 抵抗，抗拒=withstand |
+| [resistance]{.headword} | rɪ'zɪstəns | n | 抵抗，阻力，抗力 |
+| [resistant]{.headword} | rɪ'zɪstənt | n | 有抵抗力的，抵抗的 |
+| [sedentary]{.headword} | 'sedntərɪ | adj | 1. 坐着的，(指工作等)坐着干的；2. 定居的，不想移居的 |
+| [assiduous]{.headword} | ə'sɪdjuəs | adj | 刻苦的，勤勉的 =diligent, industrious |
+| [assiduity]{.headword} | ˌæsɪ'djuːɪtɪ | n | 勤勉，刻苦 |
+| [residue]{.headword} | ˈrezɪdjuː | n | 残渣，剩余 =remnant, remainder |
+| [subsidy]{.headword} | ˈsʌbsɪdɪ | n | 补贴，津贴 =benefit |
+| [subsidize]{.headword} | ˈsʌbsɪdaɪz | vt | 以津贴补助，支援 =support |
+| [supersede]{.headword} | ˌsjuːpəˈsiːd | v | 取代，代替 = replace, substitute, supplant |
+

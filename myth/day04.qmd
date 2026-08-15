@@ -1,0 +1,376 @@
+# Day 4 · 像slug鼻涕虫一样慢的话就是sluggish！ {.unnumbered}
+
+::: {.root-banner}
+Day 4 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p42–p49
+
+<!-- p.27 -->
+
+汉语中有“……像蜗牛一样慢”的表达，多用于形容人的行动缓慢。英语单词sluggish缓慢的即源于slug鼻涕虫这个词。不论是汉语还是英语，源于动物或者自然的单词非常多。如果知道单词的由来，背英语单词会不会容易很多？
+
+**源于动物**
+
+- 1. **slug** 像“鼻涕虫”一样慢 → **sluggish** 行动迟缓的
+- 2. **daw** 像没事做的“寒鸦”一样游手好闲 → **dawdle** 磨蹭、慢吞吞地做
+- 3. **cynic** 像狗一样流浪 → **cynical** 冷嘲的
+- 4. **hare** 放狗追“野兔” → **harass** 折磨、骚扰
+- 5. **shrew** 像伶俐迅速的“尖嘴田鼠”一样 → **shrewd** 敏锐的、精明的
+
+**源于植物**
+
+- 1. **bush** 藏在“树丛，草丛”后面 → **ambush** 1.埋伏的 2.伏击
+- 2. **bombace** 像“棉花”一样膨胀开 → **bombastic** 浮夸的、夸夸其谈
+- 3. **balsam** 香树脂 → **balm** 1.享有 2.安慰
+- 4. **weed** 拔掉“杂草” → **weed out** 清除、攘除
+- 5. **stub** 像“树桩”一样的 → **stubby** 短粗的
+
+<!-- p.28 -->
+
+## 1. 像slug鼻涕虫一样缓慢，sluggish缓慢的
+
+<!-- 插图：鼻涕虫 -->
+
+::: {.etymo}
+“有时候回家的路太远，这让我更加疲惫……”这是李笛《蜗牛》歌中的歌词。蜗牛究竟是snail还是slug呢？背上有壳的是蜗牛snail，没有壳的是鼻涕虫slug。形容词sluggish就源于这种叫做slug的小动物small creature。于是，sluggish就是像鼻涕虫一样“（行动）迟缓，落后的”意思。汉语中也有“像个蜗牛慢吞吞”这样的表达，而与这个表达最相符的正是sluggish！
+:::
+
+- **sluggish** [ˈslʌgɪʃ] *adj.* 偷懒的，迟钝的，缓慢的 =moving slowly, tardy
+  - a sluggish market 萧条的市场
+  - feel tired and sluggish 感到疲倦，无精打采
+- **sluggishness** [ˈslʌgɪʃnɪs] *n.* 惰性，停滞
+- **sluggard** [ˈslʌgəd] *n.* 懒汉，懒惰
+
+> The children were tired and **sluggish** and didn't seem interested in any of the games.
+> 孩子们累了，无精打采的，看起来对任何游戏都不感兴趣。
+
+> Economic growth is slowing down due to **sluggish** exports.
+> 由于出口萧条，经济增长减缓了。
+
+**Voca Map**
+- slow 慢
+  - slug 鼻涕虫
+    - sluggish 缓慢的
+    - sluggard 懒鬼
+
+## 2. 源于像cynic犬一样到处流浪，轻视规矩的cynical冷笑的
+
+<!-- 插图：第欧根尼住在桶里，身边有一只狗 -->
+
+::: {.etymo}
+cynic是“犬的，像犬一样”的意思，源于该词的cynical是“冷笑的”意思。该词义与古希腊哲学家戴奥真尼斯（Diogenes）有着密不可分的关系。戴奥真尼斯一生反对文明culture、讨厌虚伪pretense。他创立的犬儒学派视“人类追随自己的本性像狗一样流浪、自由自在地生活”为一种理想。现实生活中，戴奥真尼斯只有一身朴素的衣服，一根拐杖，一个布袋。他到处流浪，困了就睡在大桶里。由于戴奥真尼斯藐视人们服从规矩、打扮外表的行为而发出嘲讽、冷笑，所以cynical就有了“冷笑的”之意。
+:::
+
+<!-- p.29 -->
+
+- **cynical** [ˈsɪnɪkl] *adj.* 愤世嫉俗的，冷嘲的=sardonic
+  - a cynical view 愤世嫉俗的观点
+  - a cynical attitude 玩世不恭的态度
+
+::: {.mnemonic}
+**温馨小贴士**
+
+cynic也可表“愤世嫉俗的人”的意思。
+:::
+
+> The public is **cynical** about election promises.
+> 公众对选举的承诺不屑一顾。
+
+> Since her divorce, she's become very **cynical** about men.
+> 自打离婚后，她对男人持怀疑的态度。
+> （divorce [dɪˈvɔːs] 离婚）
+
+> Jim has drawn public attention mainly due to his **cynical** writing and speaking style.
+> 吉姆由于他愤世嫉俗的文章和演讲风格，引起了公众的注意。
+> （due to+名词 由于……）
+
+## 3. 源于像daw没事做的寒鸦，混日子的dawdle游手好闲
+
+<!-- 插图：一个人和一只悠闲的鸟在唱歌 -->
+
+::: {.etymo}
+crow乌鸦类中最小的就是daw寒鸦，主要栖息在农田或者山林地区，以昆虫insect或者动物的尸体为食。但在猎人的眼里，寒鸦是无事可做、游手好闲的、傻傻的silly代名词。源自daw的dawdle，其词意为“游手好闲，混日子”。
+:::
+
+- **dawdle** [ˈdɔːdl] *vi.* 游手好闲，闲逛=dally, fool around
+  - dawdle over a cup of coffee 喝杯咖啡来消磨时间
+  - There's no time to dawdle! 没有时间可以浪费了！
+
+> Come home immediately after school, and don't **dawdle**.
+> 放学后马上回来，不要闲逛。
+
+> Don't **dawdle**! We're late already!
+> 别磨蹭了！我们已经迟到了！
+
+## 4. 源于放狗追hare野兔的harass欺负
+
+::: {.etymo}
+过去，西方人会放出猎犬hound来追野兔hare。事实上，据说英国现在还有用猎狗追兔子的hare coursing残忍的cruel体育运动。harass是源于古法语，其意为“放开狗”。较强壮的猎狗疯狂地追着弱小的兔子，那只兔子是多么痛苦而疲惫啊。所以，harass是“（强者对弱者）欺负，使人困扰”的意思。该词的名词是harassment折磨，由其构成的惯用表达sexual harassment性骚扰也请大家记住。
+:::
+
+<!-- 插图：一只猎狗在追赶一只受到惊吓的兔子 -->
+
+<!-- p.30 -->
+
+- **harass** [həˈræs] *vt.* 使疲乏，骚扰 = afflict, pester, molest
+  - be harassed by the arrogant bully 被傲气凌人的人骚扰
+- **harassment** [həˈræsmənt] *n.* 骚扰
+  - sexual harassment 性骚扰
+
+> She claims she has been sexually **harassed** at work.
+> 她声称在工作中遭受性骚扰。
+
+> He has complained of being **harassed** by the police.
+> 他抱怨被警察骚扰。
+
+## 5. 像机灵敏捷的 shrew 地鼠一样，shrewd 聪明的、机敏的
+
+<!-- 插图：地鼠/尖嘴鼠在草丛中 -->
+
+::: {.etymo}
+在韩国、日本、西伯利亚地区生活着一种叫“地鼠”的鼠类。因为嘴尖尖的，所以被冠以尖嘴鼠的名字。“尖嘴鼠”用英语表达就是 shrew。这类老鼠动作非常敏捷、反应快，主要在夜间活动。源自这种 shrew 特征的单词正是 shrewd 伶俐的、机敏的。实际使用中，shrewd 指对情况迅速做出判断、做出正确决定的意思。
+:::
+
+- **shrewd** [ʃruːd] *adj.* 精明的，机灵的 = astute, canny
+  - a shrewd decision 精明的决定
+  - a shrewd used car dealer 一个精明的二手车商
+
+> My brother is a **shrewd** businessman unlike me.
+> 与我不同，我弟弟是个精明的商人。
+
+> Brittney has a **shrewd** idea of what will sell.
+> 布里特妮对能热销的商品有敏锐的直觉。
+
+## 6. 躲在 bush 树丛，草丛后面 ambush 1. 埋伏 2. 奇袭
+
+::: {.etymo}
+在《三国志》之类的书中总会描述有这样的场面：敌我双方交战，我军在敌军经过的路口事先埋伏好，当敌人走近时，突袭敌人。具有“埋伏”和“突袭”之意的英语单词是 ambush，ambush 中的 bush 是“树丛，草丛”的意思，而 am- 由前缀 in- 变形而成，也就是
+:::
+
+<!-- 插图：士兵手持武器埋伏在树丛后 -->
+
+<!-- p.31 -->
+
+说，am-里（in）+bush树丛，草丛一词由“藏在树丛（草丛）里”衍生出了“1. 埋伏 2. 突袭”之意。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在含有 bush 的表达中，请将惯用表达 beat around the bush（不说重点、说话兜圈子）也一起记下来！Don't beat around the bush. Get to the point. 别老是兜圈子了，说重点吧。
+:::
+
+- **ambush** [ˈæmbʊʃ] *n.* 1. 埋伏 2. 突袭 = sudden attack *v.* 伏击
+  - lie in ambush 埋伏
+
+> The soldiers were killed in an **ambush**.
+> 士兵们中了埋伏，惨遭杀害。
+
+> They waited in **ambush** in order to attack the enemy.
+> 他们埋伏着以袭击敌人。
+
+## 7. 从香脂树 balsam 上提取的成分 balm 香脂
+
+<!-- 插图：森林中采集树脂的树木 -->
+
+::: {.etymo}
+balsam 是指“在树上采集油性树脂成分的物质”。松树 pine tree 的“松脂”也是 balsam 的一种。很久以前，西洋人就从香脂树上提取的 balm 作为医药用品或香料的原料。balm 意为“香脂”，即“含有香味、油性成分的液体”。由于它散发出甜甜的味道且质地柔软，所以主要用于治疗伤口，因此 balm 除了“香脂”外，还含有“安慰”的意思。估计大家都听过最近使用频率很高的外来词“lip balm，foot balm”吧？
+:::
+
+- **balm** [bɑːm] *n.* 1. 香膏；2. 安慰 = solace, consolation
+  - lip balm 润唇膏
+  - foot balm 足部按摩膏
+
+> Apply a **lip balm** before you want to apply lipstick.
+> 涂口红之前，先涂点润唇膏。
+
+> Rail travel will be **balm** for your weary soul.
+> 坐火车旅行会慰藉你疲倦的灵魂。
+> （weary [ˈwɪərɪ] 疲倦的）
+
+> Your lips are chapped. Put some **lip-balm** on them.
+> 你的嘴唇裂了，快涂点润唇膏。
+> （chapped [tʃæpt] 裂开的）
+
+## 8. 像膨胀起来的棉花 bombace 一样说大话，bombastic 夸张的
+
+::: {.etymo}
+我们穿的内衣 underwear 大部分是纯棉 cotton 的。如图所示，棉花是一下子膨胀开来的，bombastic 夸张的一词便源于此比喻义。本来，
+:::
+
+<!-- p.32 -->
+
+<!-- 插图：棉花 -->
+
+bombace 是古法语“棉花”的意思，借用其比喻义便产生了名词 bombast 浮夸，夸张和形容词 bombastic 夸张的。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+bombastic（夸张）与 bomb（炸弹）没有任何关系！
+:::
+
+- **bombastic** [bɒmˈbæstɪk] *adj.* 夸大的，言过其实的 = exaggerate, pompous
+  - a bombastic speech 一场言过其实的演讲
+- **bombast** [ˈbɒmbæst] *n.* 夸大的言语
+
+> My boss is best known as a **bombastic** businessman.  
+> 我老板因夸夸其谈而闻名。
+
+> I'm fed up with his **bombast**.  
+> 我厌倦了他的夸夸其谈。  
+> （be fed up with 对……感到厌烦）
+
+## 9. 应拔掉杂草 weed，weed out 根除
+
+::: {.etymo}
+在田野里，漂亮的花和树很多，而实际上“野火烧不尽”的 weed 杂草更多。耕地里生长的杂草，不仅占领农作物的土地和空间，而且抢走农作物养分和水分，所以要随时拔掉才行。由 weed 所构成的词组 weed out 由“拔除杂草”引申为“除掉，消除”之意。
+:::
+
+<!-- 插图：戴手套拔除杂草 -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+weed 作动词使用的话，仅含“拔草”之义，但是 weed out 是“（把不好的东西，不需要的东西）清除，除去”的意思。
+:::
+
+- **weed** [wiːd] *n.* 杂草 = a wild plant  
+  *v.* 除草
+  - weed out 淘汰，删除 = eradicate, romove, get rid of
+  - weed a garden 清理花园
+- **seaweed** [ˈsiːwiːd] *n.* 海草，海藻
+
+> It's time to **weed out** all incompetent workers.  
+> 是时候淘汰所有没有竞争力的工人了。  
+> （incompetent [ɪnˈkɒmpɪtənt] 没有竞争力的）
+
+> We must **weed out** bogus applications.  
+> 我们必须销毁伪造的申请书。  
+> （bogus [ˈbəʊɡəs] 伪造的）
+
+<!-- p.33 -->
+
+## 10. 就像砍剩的残根 stub 一样，stubby 矮胖的
+
+<!-- 插图：被砍伐后剩下的树桩残根 -->
+
+::: {.etymo}
+如左图所示，树被砍后剩下的根部便是 stub 残根。stub 除了“残根”之义外，还有“铅笔头，烟头”的意思。看看，无论是残根，还是铅笔头、烟头，是不是都暗含“变短”之义？源于 stub 的形容词 stubby 是“矮胖的”意思。不过，stubby 并不全是短的意思，它还可以用于表达“短而粗，个子矮而胖”之义。请大家要额外注意这点哦！
+:::
+
+- **stubby** [ˈstʌbi] *adj.* 短粗的，短而硬的
+  - an old stubby pencil 一支旧的铅笔头
+  - a pencil stub 一段铅笔头
+  - a short stubby tail 一条短粗的尾巴
+- **stub** [stʌb] *n.* 1. 残端；2. 票根
+
+> Her thumbs are **stubby**.
+> 她的拇指又短又粗。
+
+> She pointed to a **stubby** little man.
+> 她指向一个又矮又胖的人。
+
+## 单词回顾
+
+::: {.etymo}
+1. 像蜗牛一样缓慢
+   → 缓慢的 ______
+2. 像犬一样到处流浪、轻视规矩
+   → 冷笑的 ______
+3. 像没事做的寒鸦混日子
+   → 游手好闲的 ______
+4. 放狗追野兔
+   → 欺负 ______
+5. 像伶俐敏捷的尖嘴鼠一样
+   → 伶俐的 ______
+6. 藏在树丛、草丛的后面
+   → 1. 埋伏 2. 突袭 ______
+7. 在香脂树上提取的成分
+   → 香脂 ______
+8. 就像膨胀的棉花一样
+   → 夸张 ______
+9. 拔掉杂草
+   → 根除 ______
+10. 像砍剩的残根一样
+   → 矮胖的 ______
+:::
+
+答案 1. sluggish 2. cynical 3. dawdle 4. harass 5. shrewd 6. ambush 7. balm 8. bombastic 9. weed out 10. stubby
+
+<!-- p.34 -->
+
+## 单词检测
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. sluggish ______
+2. ambush ______
+3. cynical ______
+4. harass ______
+5. weed out ______
+6. stubby ______
+:::
+
+## 二、请写出下列阴影表示部分的单词。
+
+::: {.etymo}
+1. 我看到他磨磨蹭蹭的 ______ 样子就生气。
+2. 受到埋伏的敌人偷袭 ______ ，我们遭受了很大的人员损失。
+3. 只是小问题，这么夸张 ______ 的表情可不好。
+4. 他总是对他人嗤之以鼻 ______ 。
+5. 不要再游手好闲 ______ 了！
+6. 我相信他机灵的 ______ 判断。
+7. 职场中应杜绝性骚扰 ______ 。
+8. 我们应该杜绝 ______ 犯罪。
+9. 他是矮胖的 ______ 体型。
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. Sales were **sluggish** in the first half of year.
+   A. tardy
+   B. sly
+   C. soaring
+:::
+
+2. His **bombastic** attitude made him unpopular with his colleagues.
+   A. exaggerating
+   B. aggravating
+   C. aggrieving
+
+3. One woman claimed that she had been sexually ______ by a male manager.
+   A. hated
+   B. harassed
+   C. harried
+
+4. Thanks to some ______ investments, they've got plenty of money left.
+   A. shriek
+   B. shrill
+   C. shrewd
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [sluggish]{.headword} | ˈslʌgɪʃ | adj | 偷懒的，迟钝的，缓慢的 =moving slowly, tardy |
+| [sluggishness]{.headword} | ˈslʌgɪʃnɪs | n | 惰性，停滞 |
+| [sluggard]{.headword} | ˈslʌgəd | n | 懒汉，懒惰 |
+| [cynical]{.headword} | ˈsɪnɪkl | adj | 愤世嫉俗的，冷嘲的=sardonic |
+| [dawdle]{.headword} | ˈdɔːdl | vi | 游手好闲，闲逛=dally, fool around |
+| [harass]{.headword} | həˈræs | vt | 使疲乏，骚扰 = afflict, pester, molest |
+| [harassment]{.headword} | həˈræsmənt | n | 骚扰 |
+| [shrewd]{.headword} | ʃruːd | adj | 精明的，机灵的 = astute, canny |
+| [ambush]{.headword} | ˈæmbʊʃ | n | 1. 埋伏 2. 突袭 = sudden attack *v.* 伏击 |
+| [balm]{.headword} | bɑːm | n | 1. 香膏；2. 安慰 = solace, consolation |
+| [bombastic]{.headword} | bɒmˈbæstɪk | adj | 夸大的，言过其实的 = exaggerate, pompous |
+| [bombast]{.headword} | ˈbɒmbæst | n | 夸大的言语 |
+| [weed]{.headword} | wiːd | n | 杂草 = a wild plant |
+| [seaweed]{.headword} | ˈsiːwiːd | n | 海草，海藻 |
+| [stubby]{.headword} | ˈstʌbi | adj | 短粗的，短而硬的 |
+| [stub]{.headword} | stʌb | n | 1. 残端；2. 票根 |
+

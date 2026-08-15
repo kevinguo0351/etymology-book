@@ -1,0 +1,381 @@
+# Day 52 · 靠近、接近的ad- {.unnumbered}
+
+::: {.root-banner}
+Day 52 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p458–p465
+
+<!-- p.443 -->
+
+前缀ab-表示“分离，脱离”，而ad-则表示“向……方向靠近、接近to，toward”。为了发音方便，ad-经常会变化拼写形式。不过只要知道“按照后面的辅音变换拼写”这一基本原则就不难记了。比如，acclaim欢呼原本应是ad-，但实际却变成了ac-。事实上，根据后面所接辅音的不同，ad-还可以变成af-，al-，an-，ap-，ar-，as-，at-等。
+
+<!-- 插图：小人推着带有 AD 标识的木桶，旁边写着 accumulate 累积、积聚 -->
+
+**Voca Map：ad-表示to, toward**
+
+- **accompany** 与……同行 ← **ac**与 + **company**同行（与……同行）
+- **accumulate** 累积，积聚 ← **ac-**向 + **cumul**积聚起来 + **-ate**动词后缀（积聚起来）
+- **accuse** 告发，非难 ← **ac-**向 + **cuse**诉讼(lawsuit)（向……提出诉讼）
+- **acquit** 释放 ← **ac**对 + **quit**放弃（放弃对其进行处罚）
+- **afford** 有……的余地 ← **af-**向前 + **ford**向前(forward)（不后退，一直向前）
+- **adroit** 熟练的 ← **ad-**做 + **roit**右边的（用右手做……）
+- **allow** 允许 ← **al-**做 + **low**称赞（激励做某事）
+- **applaud** 鼓掌喝彩 ← **ap-**向 + **plaud**鼓掌（为……鼓掌）
+- **assert** 强烈主张 ← **as-**确定 + **sert**坚固（非常确定地说）
+- **apprehend** 逮捕；理解 ← **ap-**确定 + **prehend**抓住（抓住……）
+
+<!-- p.444 -->
+
+## 1. 与……ac-同行company，accompany与……同行
+
+<!-- 插图：两人并肩同行 -->
+
+::: {.etymo}
+一提到company这个词很多人会先想到“公司”，其实company首先应该是“同行，群”的意思，company的词源义是“一起分面包吃的关系”。而在一起的“朋友，伙伴们”就是companion。单词company同行的前面加上前缀ad-的变形ac-，就组成了表示“与……一起，同行”的单词accompany，accompany是及物动词，不能跟with连用。请大家注意，考试中经常对accompany的及物动词用法进行考查。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+in one's company在某人的陪同下=with someone 例如：I'm happy in your company. 我很高兴有你陪伴。※company在口语中，多作“同行”之义
+:::
+
+**Voca Map**
+- company
+  - ①同行，同伴
+    - accompany 与……同行
+    - companion 朋友，同伴
+    - accompaniment (音乐) 伴奏
+  - ②公司
+    - company law 公司法
+
+- **accompany** [əˈkʌmpəni] *vt.* 与……同行，一起 \*注意只能用作及物动词
+  - an accompaniment for beer 啤酒的下酒菜
+- **company** [ˈkʌmpəni] *n.* 同行，同伴，公司
+- **companion** [kəmˈpænjən] *n.* 朋友，同伴
+- **accompaniment** [əˈkʌmpənɪmənt] *n.* 伴随物，(音乐) 伴奏
+
+> I'll **accompany** you.
+> 我将与你同行。
+
+> Children under 12 must be **accompanied** by an adult.
+> 12岁以下的儿童必须由成年人陪同。
+
+> The disease is **accompanied** by sneezing and fever.
+> 这种疾病伴随着打喷嚏和发烧。
+> （sneeze [sniːz] 打喷嚏）
+
+## 2. 向……ac-提起诉讼cuse，accuse①告发 ②非难
+
+<!-- 插图：双手戴手铐被捕的人 -->
+
+::: {.etymo}
+美国被称为诉讼王国，诉讼案件lawsuit很多，律师的人数也非常多，因此经常会用到accuse告发这个单词。单词accuse由词源义“提起诉讼”变成了“告发”，以及“非难”的意思。告发别人本来就是对对方的一种非难。短语“accuse A of B告发A做了事情B”这个惯用表达方式非常重要，大家一定要牢牢记住哦！另外，the accused 主要指的是刑事裁判criminal trial中的被告，请大家也要一起记住哦！
+:::
+
+<!-- p.445 -->
+
+- **accuse** [əˈkjuːz] *vt.* ①告发=charge ②非难=criticize, blame
+  - accuse A of B 控告A做了事情B
+  - accuse her of fraud 控告她欺诈
+- the accused 被告
+- the defendant 控告
+- **accusation** [ˌækjuˈzeɪʃn] *n.* 控告，指控
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“告发”的同义词charge一词主要以词组“charge A with B”的形式出现，且用作被动态。例如：
+He was charged with murder.
+他被告发有杀人嫌疑。
+:::
+
+> She **accused** him of murder (lying).
+> 她控告他谋杀（说谎）。
+
+> His administration now faces **accusations** of corruption.
+> 他的政府现在面临着受贿控告。（administration [ədˌmɪnɪsˈtreɪʃn] 行政机关，管理，行政部）
+
+> The **accused** is not guilty until he is convicted.
+> 被告在被宣判有罪前，他是无罪的。
+
+## 3. 不后退、向前af-前进ford、afford有做……的空余
+
+::: {.etymo}
+单词afford原来是“向前，前进advance”的意思，后来逐渐变成“在经济方面不落后”，“向前……”，即“有做……的余地”之义。其常用的表达方式为“afford to do…有做……的余地”，请大家一定要牢牢记住哦！动词afford多用于口语中，大家一定要记牢哦。
+:::
+
+- **afford** [əˈfɔːd] *vt.* ①有做……的余地；②提供=provide
+  - afford to do... 有做……的余地，负担得起，买得起
+  - afford to buy a house (car) 买得起房子（车子）
+- **affordable** [əˈfɔːdəbl] *adj.* 负担得起的，买得起的
+  - affordable housing 经济适用房
+
+> I can't **afford** to take a rest this weekend.
+> 这个周末我没有时间休息。
+
+> The room of the hotel **affords** a beautiful view over the city.
+> 在这宾馆的房间可以俯瞰城市的美景。
+
+## 4. 鼓励low做……al-、allow允许、容许
+
+<!-- 插图：小孩向父母请求允许 -->
+
+::: {.etymo}
+大家小时候想要去哪儿或者想买点儿东西的话，都需要获得爸爸妈妈的允许吧。单词allow的意思就是“允许、容许”。不过当用到“允许、容许”之义的时候，一般说的是“允许、容许做某事”，因此出现了“allow+宾语to do sth.”的表达
+:::
+
+<!-- p.446 -->
+
+方式。另外，allow的名词allowance除了有“允许、容许”之义外，还有“零用钱；斟酌，考虑”的意思。“零用钱”是父母“允许给的钱”，“斟酌，考虑”是“允许不得不那样做”，即“体谅，允许”的意思。
+
+- **allow** [əˈlaʊ] *vt.* 允许、容许
+  - allow sb to do sth. 允许某人做某事
+  - allow him to use a computer 允许他用电脑
+- **allowance** [əˈlaʊəns] *n.* 允许，容许；零用钱；斟酌，考虑
+  - make allowances for 体谅，考虑到=allow for
+
+> My parents wouldn’t **allow me to go** to the party.
+> 我父母不允许我参加宴会。
+
+> My father gives me a monthly **allowance** of $200.
+> 我父亲每月给我200美元的零用钱。
+
+> We should **make allowances for** his lack of experience.
+> 我们应该体谅他缺乏经验。
+
+## 5. as-确定sert地说的事情，assert强烈主张
+
+::: {.etymo}
+表示“主张”的动词有很多，其中assert有“确信并强烈主张state firmly that something is true”的意思。还有两个需要了解的有关assert的表达方式，即“assert oneself坚决坚持自己的主张”和“assert one’s rights主张自己的权利”。名词assertion是一个经常出现的词语，大家一定要记住。
+:::
+
+- **assert** [əˈsɜːt] *vt.* （强烈）主张
+  - assert oneself 坚决坚持自己的主张
+  - assert one’s rights 主张自己的权利
+- **assertion** [əˈsɜːʃn] *n.* 坚持，断言
+
+> I **assert** that Korean food is the best in the world.
+> 我断定朝鲜族的食物是世界上最美味的食物。
+
+> I cast doubt to his **assertions** about the death of his father.
+> 我怀疑他对父亲去世的断言。
+
+## 6. 向ac-积聚起来cumul，accumulate累积，积聚
+
+<!-- 插图：两位学者在交谈 -->
+
+::: {.etymo}
+单词accumulate的词根cumul的意思是“积聚·起来heap up”。在其前后加上前、后缀组成的单词就是accumulate。请大家一起记住由词根cumul派生出的形容词cumulative积累的，积累！
+:::
+
+<!-- p.447 -->
+
+- **accumulate** [əˈkjuːmjʊleɪt] *vi. & vt.* 累积，积聚 = amass, hoard, garner
+- **accumulation** [əkjuːmjʊˈleɪʃn] *n.* 积聚，累积
+- **accumulative** [əˈkjuːmjʊlətɪv] *adj.* 累积的，积聚的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+fortune ①运气，幸运 ②巨额财产
+make a fortune 赚了很多钱
+cost a fortune 花了很多钱，非常贵
+:::
+
+> It is unjust that a privileged few should continue to **accumulate** wealth.
+> 一小部分特权阶级继续积累财富，这是不公平的。
+
+> Heavy metals that **accumulate** in the body are not easy to eliminate from the system.
+> 积累在人体内的重金属不易从体内排出。
+
+## 7. 放弃 quit 对…… ac- 的处罚，acquit 释放，宣布无罪
+
+<!-- 插图：囚犯被释放并欢呼“无罪释放 acquit 自由啦！” -->
+
+::: {.etymo}
+单词 acquit 是一个比较容易理解和掌握的词，这是因为我们对 quit 放弃这个词已经非常熟悉了。对于经过审判或调查是无罪的人，当然应将其无罪释放。与前面我们学过的单词 accuse 一样，acquit 也经常以惯用句型“acquit A of B 宣判A在B事件中无罪”的表达方式出现。熟知单词的词义与用法是阅读理解和写作的基础，所以大家在记单词的同时，也要将其具体用法牢牢掌握哦！
+:::
+
+- **acquit** [əˈkwɪt] *vt.* 释放，宣布无罪 = absolve
+  - acquit A of B 宣判A在B事件中无罪
+- **acquittal** [əˈkwɪtəl] *n.* 无罪释放
+
+> The jury **acquitted** Joe of murder.
+> 陪审团宣告乔无谋杀罪。
+> （jury [ˈdʒʊəri] 陪审团）
+
+> To her relief she was **acquitted** of all the charges laid against her.
+> 令她欣慰的是，面对所有对她的指控，她被判无罪。
+
+> His **acquittal** by the jury surprised those who had thought him guilty.
+> 他被陪审团无罪释放，这让那些认为他有罪的人很吃惊。
+> （juror [ˈdʒʊərə] 陪审员）
+
+## 8. 右撇子用右手 roit 做…… ad-，adroit 熟练的，谙熟的
+
+<!-- 插图：正在弹吉他的双手 -->
+
+::: {.etymo}
+单词 adroit 是一个很简单的词，关键是我们需要了解词根 roit 是从单词 right 右边的发音变化而来。即，adroit 由词源义“用右手做……”变成了“熟练的，谙熟的”这个意思。像这种变化发音所形成的词语相当多。
+:::
+
+<!-- p.448 -->
+
+- **adroit** [əˈdrɔɪt] *adj.* 熟练的，谙熟的 =adept, dexterous, proficient
+- **adroitness** [əˈdrɔɪtnɪs] *n.* 熟练，机敏
+
+> He is an **adroit** negotiator.
+> 他是一个熟练的谈判者。
+
+> He is **adroit** in handling people.
+> 他擅于驾驭人。
+
+> His **adroit** handling of the difficult situation pleased his boss.
+> 他擅于处理困境，这让他的老板很满意。
+
+## 9. 向……ap-鼓掌plaud，applaud鼓掌喝彩，助威叫好
+
+<!-- 插图：观众在鼓掌喝彩 -->
+
+::: {.etymo}
+单词applaud的词根plaud是“鼓掌clap”的意思，词源义是“向……鼓掌”，词义是“鼓掌喝彩”。名词plaudit也是“鼓掌喝彩”的意思。学习applaud的时候，最好能把acclaim欢呼这个单词也一起记住！单词acclaim中词根claim是“喊cry”的意思，即“向……欢呼”。当人applaud的同时也要acclaim。由此可见这两个单词的关系很密切吧？
+:::
+
+- **applaud** [əˈplɔːd] *v.* 鼓掌喝彩 =clap
+- **applause** [əˈplɔːz] *n.* 鼓掌喝彩 =plaudit
+- **acclaim** [əˈkleɪm] *vt.* 称赞，喝彩
+
+> A crowd of 500 supporters warmly **applauded** his speech.
+> 500名支持者为他的演讲鼓掌喝彩。
+
+> His new novel was **acclaimed** by literary critics.
+> 他的新小说受到文学评论家称赞。
+
+## 10. 抓住prehend确定ap-，apprehend①逮捕；②理解
+
+<!-- 插图：警察逮捕嫌疑人 -->
+
+::: {.etymo}
+单词apprehend的词根prehend是“抓住seize”的意思。只有记住词根的意思才能更容易的掌握apprehend这个词。apprehend的词源义是“抓住……”。另外，大家还需要注意一点：apprehend的名词形式apprehension除了有“逮捕”之义外，还可以表示“担心，忧虑”。当心里有“担心，忧虑”的时候几乎就想不了别的，心也就被“担心，忧虑”给一下子“逮捕”了。
+:::
+
+<!-- p.449 -->
+
+- **apprehend** [æprɪˈhend] *vt.* ① 逮捕 =arrest ② 理解 =understand, grasp, figure out
+  - apprehend the criminal 逮捕罪犯
+  - apprehend the meaning 理解意义
+- **apprehension** [æprɪˈhenʃn] *n.* 逮捕；恐惧，忧虑 =anxiety
+- **apprehensive** [æprɪˈhensɪv] *adj.* 忧虑的，不安的 =concerned
+
+> The police have failed to **apprehend** the culprits.
+> 警察没能逮住罪犯们。
+
+> My mom has some **apprehensions** about having surgery.
+> 我妈妈对做手术有些担心。
+
+> I am **apprehensive** of the problem.
+> 我很担心那个问题。
+
+## 单词回顾
+
+::: {.etymo}
+1. 与……同行
+   → 与……同行 ______
+2. 向……提起诉讼
+   → ① 揭发；② 非难 ______
+3. 不后退，向前前进
+   → 有做……的空余 ______
+4. 鼓励做……
+   → 允许、容许 ______
+5. 确定地说
+   → 强烈主张 ______
+6. 向……积聚起来
+   → 累积，积聚 ______
+7. 放弃对……的处罚
+   → 释放，宣布无罪 ______
+8. 右撇子用右手做……
+   → 熟练的，谙熟的 ______
+9. 向……鼓掌
+   → 鼓掌欢呼，助威叫好 ______
+10. 抓住……
+    → ① 逮捕；② 理解 ______
+:::
+
+> **答案** 1. accompany 2. accuse 3. afford 4. allow 5. assert 6. accumulate 7. acquit 8. adroit 9. applaud 10. apprehend
+
+<!-- p.450 -->
+
+## 确认并攻克下列单词
+
+## 一 请写出下面单词的词义。
+
+::: {.etymo}
+1. accompany ______
+2. accuse ______
+3. accumulate ______
+4. acquit ______
+5. adroit ______
+6. apprehend ______
+:::
+
+## 二 请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 我与你**同行** ______ 到机场。
+2. 有投资收益金后就有买车的**余地** ______ 了。
+3. 他**主张** ______ 说自己生产的产品是最好的。
+4. 他**被宣布无罪释放** ______ 了。
+5. 那个秘书以**熟练的** ______ 手法敲打着键盘。
+6. 我们为他勇敢的行为**鼓掌** ______。
+7. 谁能**非难** ______ 他的行为？
+8. 最后，那个越狱的逃犯**被逮捕** ______ 了。
+:::
+
+## 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. Jane has decided to ______ me on my journey to India.  
+   A. accumulate    B. accommodate    C. accompany
+:::
+
+2. How can you **accuse** me without knowing all the facts?  
+   A. acquit    B. hamper    C. criticize
+
+3. Fat tends to ______ around the hips and thighs.  
+   A. procure    B. vanish    C. accumulate
+
+4. He is an **adroit** politician.  
+   A. sufficient    B. deficient    C. proficient
+
+---
+
+## 本日词汇速查（23 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [accumulate]{.headword} | əˈkjuːmjʊleɪt | vi. & vt | 累积，积聚 = amass, hoard, garner |
+| [acquit]{.headword} | əˈkwɪt | vt | 释放，宣布无罪 = absolve |
+| [allow]{.headword} | əˈlaʊ | vt | 允许、容许 |
+| [assert]{.headword} | əˈsɜːt | vt | （强烈）主张 |
+| [company]{.headword} | ˈkʌmpəni | n | 同行，同伴，公司 |
+| [companion]{.headword} | kəmˈpænjən | n | 朋友，同伴 |
+| [accompaniment]{.headword} | əˈkʌmpənɪmənt | n | 伴随物，(音乐) 伴奏 |
+| [accuse]{.headword} | əˈkjuːz | vt | ①告发=charge ②非难=criticize, blame |
+| [accusation]{.headword} | ˌækjuˈzeɪʃn | n | 控告，指控 |
+| [affordable]{.headword} | əˈfɔːdəbl | adj | 负担得起的，买得起的 |
+| [allowance]{.headword} | əˈlaʊəns | n | 允许，容许；零用钱；斟酌，考虑 |
+| [assertion]{.headword} | əˈsɜːʃn | n | 坚持，断言 |
+| [accumulation]{.headword} | əkjuːmjʊˈleɪʃn | n | 积聚，累积 |
+| [accumulative]{.headword} | əˈkjuːmjʊlətɪv | adj | 累积的，积聚的 |
+| [acquittal]{.headword} | əˈkwɪtəl | n | 无罪释放 |
+| [adroit]{.headword} | əˈdrɔɪt | adj | 熟练的，谙熟的 =adept, dexterous, proficient |
+| [adroitness]{.headword} | əˈdrɔɪtnɪs | n | 熟练，机敏 |
+| [applaud]{.headword} | əˈplɔːd | v | 鼓掌喝彩 =clap |
+| [applause]{.headword} | əˈplɔːz | n | 鼓掌喝彩 =plaudit |
+| [acclaim]{.headword} | əˈkleɪm | vt | 称赞，喝彩 |
+| [apprehend]{.headword} | æprɪˈhend | vt | ① 逮捕 =arrest ② 理解 =understand, grasp, figure out |
+| [apprehension]{.headword} | æprɪˈhenʃn | n | 逮捕；恐惧，忧虑 =anxiety |
+| [apprehensive]{.headword} | æprɪˈhensɪv | adj | 忧虑的，不安的 =concerned |
+

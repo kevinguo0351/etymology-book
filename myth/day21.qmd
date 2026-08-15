@@ -1,0 +1,372 @@
+# Day 21 · 倾倒是fus，流是flu {.unnumbered}
+
+::: {.root-banner}
+Day 21 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p190–p197
+
+<!-- p.175 -->
+
+<!-- 插图：瀑布从悬崖上飞流直下 -->
+
+看着右图，望着从陡峭的悬崖上cliff垂直落下的瀑布waterfall，心里的压力是不是也一起被带走，心情也变得轻松起来了？右图的瀑布图片与我们今天要学习的两个词根有着密切的相关性germane relation。词根fus是“倾倒pour”，flu是“流动flow”的意思。我们边看着倾泻而下的瀑布水缓缓地流动，边熟悉由fus，flu两个词根所构成的单词吧。
+
+**Voca Map：fus是pour**
+
+- **fus是pour**
+  - con-一起 + fus(e)倾泻(pour)（各种一起倒下来） → confuse 使混乱，使困惑
+  - dis-碎片 + fus(e)倾泻(pour)（向四方倾倒） → diffuse 四散，（光、热等）传播
+  - in-向里面 + fus倾倒(pour)（向里倒） → infuse 灌输，加入
+  - pro-向前 + fus倾倒(pour)（数量超出向前边洒出来） → profuse 大量的，丰富的
+  - re-再次 + fus倾倒(pour)（用完的东西再倒掉） → refuse 垃圾，回绝，拒绝
+
+**Voca Map：flu是flow**
+
+- **flu是flow**
+  - flu流动(flow) + -ent形容词后缀（话像流水一样） → fluent 流畅的
+  - floo流动(flow) + -d名词后缀（很多水的流动） → flood 洪水
+  - af-(ad-)往 + flu流动(flow) + -ent形容词后缀（钱从~流出来） → affluent 富裕的，富足的
+  - in-往里面 + flu流动(flow) + -ence名词后缀（流到……里面） → influence 影响，对……起作用
+  - super-往后 + flu流动(flow) + -ous形容词后缀（向后面流出来） → superfluous 过多的，不必要的
+
+<!-- p.176 -->
+
+## 1. 很多种一起 con- 倾倒 fuse 的话，confuse 混乱，困惑
+
+<!-- 插图：一个人站在各种颜料桶前，左右为难地倒颜料，上方气泡文字：“不是，在那上面”“这里吗？”“不对，那个在下面”“不对，是那吗？” -->
+
+::: {.etymo}
+思考一下，如果往桶 bucket 里倒进去白、绿、红、黑等颜色的染料，并搞混，就不知道会是什么颜色了吧？这正是 **confuse** 的状态。**confuse** 由其词源义“（把很多种）一起倾倒”引申为“混乱”之义使用。换句话说，就是“大脑思绪混乱，理不清是什么状态”。**confuse** 是对话中会经常使用到的必备词语，请大家一定要记住哦。
+:::
+
+- **confuse** [kənˈfjuːz] *vt.* 使混乱，使困窘，使困惑 =confound
+  - confuse A with B 混淆A与B
+- **confusion** [kənˈfjuːʒən] *n.* 混乱，混淆，困惑
+  - straighten out the confusion 理清混乱
+- **confusing** [kənˈfjuːzɪŋ] *adj.* 令人困惑的，混乱的，混淆的
+
+> The diagrams in the book are **confusing** me.
+> 书里的图表让我感到困惑。
+> （diagram [ˈdaɪəɡræm] 图表，图解）
+
+> People often **confuse** me with my twin sister.
+> 人们经常将我和我的双胞胎姐姐弄混淆。
+
+## 2. 向各个方向 dif 洒落 fuse，diffuse（光、热等）扩散，分散
+
+<!-- 插图：太阳向四周放射光芒照耀大地的简笔画 -->
+
+::: {.etymo}
+如右图所示，集中 concentration 在一处的东西向四方分散就是 **diffuse**。**diffuse** 由其词源义“向各个方向洒落”引申为“分散”的意思。大家想象一下，喷喷雾的话，是不是里面装着的液体就会向各个方向分散？这时就用 **diffuse** 来表达。值得注意的是，前缀 **dif-** 是 **dis-** 的变形，请大家多加留意。
+:::
+
+- **diffuse** [dɪˈfjuːs] *vi. vt.*（光、热、液体等）扩散，使分散 =spread, scatter, disperse
+- **diffuse** *adj.* 1. 散开的 2. 冗长的，无条理的 =discursive, desultory
+  - a diffuse report 冗长的报告
+- **diffusion** [dɪˈfjuːʒən] *n.* 扩散，传播
+
+<!-- p.177 -->
+
+> The pollutants **diffuse** into the soil.
+> 污染物扩散到了土壤里。
+
+> Their ideas **diffused** quickly across Europe.
+> 他们的观点快速传播到了欧洲。
+
+## 3. 向里面 in-倒 fuse，infuse 注入、灌输
+
+<!-- 插图：注射器注射 -->
+
+::: {.etymo}
+infuse 也是一个简单词，只要能正确分解词源义就能知道其单词义。infuse 的词源义是“向里面倒”引申为“注入”的意思。前文中提过，有些英语词根与汉字是相通的。譬如，我们来分析下汉字词“注入”。“倒是注，进是入”，看看，与 infuse 是不是相通的？不过，需要注意的是，infuse 除了含有“注入液体”之义外，还可用作“注入思想或者性格、渗透”。
+:::
+
+- **infuse** [ɪn'fjuːz] *vt.* 注入，灌输，使充满 =imbue
+- **infusion** [ɪn'fjuːʒən] *n.* 注入，灌输，泡制
+  - infuse the team with confidence 给队伍注入信心
+
+::: {.mnemonic}
+**温馨小贴士**
+
+infuse 的惯用句型是 infuse A into B（把 A 灌入 B 里面）。
+:::
+
+> His books are **infused** with knowledge and humor.
+> 他的书里满是知识和幽默。
+
+> His participation **infused** fresh vigor into the team.
+> 他的加入给队伍注入了新鲜活力。
+
+## 4. 过了量，向前边 pro-洒出来 fuse，profuse（量）多的，过多的
+
+<!-- 插图：医生在病床前讨论“这名患者因大出血 profuse bleeding 而死” -->
+
+::: {.etymo}
+表达“东西装满了而溢出来的状态”的词汇就是 profuse。profuse 由其词源义“（量多）向前洒”引申为“（量）多，过多”的意思。profuse apologies 再三道歉、profuse bleeding 大出血都是经常使用的惯用表达，请大家一起记下来哦。
+:::
+
+- **profuse** [prə'fjuːs] *adj.*（量）多的，毫不吝惜的，慷慨的 =excessive
+  - profuse in their thanks 一再地感谢
+  - a profuse harvest 盛大的丰收
+- **profusion** [prə'fjuːʒən] *n.* 丰富，充沛，慷慨，大方
+
+<!-- p.178 -->
+
+> He made **profuse** apologies for his mistake.
+> 他一再为自己的错误道歉。
+
+> The patient died of **profuse** bleeding.
+> 病人因大出血而死亡。
+
+## 5. 用过的东西再re-倒掉fuse，refuse垃圾；拒绝
+
+::: {.etymo}
+事实上，refuse并不是个简单的单词，因为它作名词和动词时的词义完全不同。而且，这两个词义也不容易联想到。我们来研究一下这两个词义吧。refuse由其词源义“（用过的东西）再扔掉”“1.（名词）垃圾，2.（动词）拒绝”的意思。
+洗澡后浴缸的水应该怎么处理？是不是要倒掉？物品也是一样的，吃剩的食物也好，全部用完的物品也好，扔掉的话就会变成垃圾了。另外，把对方的提议offer再退给对方的话，那不正是“拒绝”的意思吗！
+:::
+
+<!-- 插图：厨师把用过的食物残渣倒进垃圾堆 -->
+
+- **refuse** [rɪˈfjuːz] *n.* 废物，垃圾 = garbage, trash, rubbish
+  *vi.&vt.* 拒绝，推却 = reject, turn down
+  - plastic refuse 塑料垃圾
+  - the playground was littered with refuse 操场上到处都是垃圾
+  - refuse to answer the question 拒绝回答问题
+
+**Voca Map**
+- refuse
+  - （名词）垃圾
+  - （及物动词）拒绝
+    - ↓
+    - refusal（名词）拒绝
+
+> Millions of tons of urban **refuse** are burnt every year.
+> 每年焚烧数百万吨的垃圾。
+
+> If he **refuses**, what are we to do?
+> 如果他拒绝了，我们该怎么办？
+
+> I flatly **refused** to take part in anything illegal.
+> 我果断拒绝参加任何非法活动。
+> （flatly [ˈflætli] 断然地，干脆地）
+
+## 6. 话说得像流水flu水一样，fluent流畅的
+
+::: {.etymo}
+大多数政治家politician都是流利的演说家fluent orator。fluent由其词源义“（话）像流水一样”，引申为“流利的”意思。事实上，flu是flow缩略变形后的发音形态。换句话说，它从[fləʊ]变成了[flu]。
+:::
+
+<!-- p.179 -->
+
+- **fluent** [ˈfluːənt] *adj.* 流畅的，流利的 = glib
+  - speak in fluent English 说流利的英语
+  - the fluent body of a dancer 舞者灵动的身体
+- **fluency** [ˈfluːənsi] *n.*（尤指外语）流畅，流利
+
+> The actress is **fluent** in three languages.
+> 这位女演员能流利地说三种语言。
+
+> Obama is a very **fluent** speaker who communicates well his points to the audience.
+> 奥巴马是个非常流利的演讲者，他能很好的把他的观点传递给观众。
+
+> I want to study English until I am **fluent**.
+> 我想把英语学习得很流利。
+
+## 7. 很多水的流动 floo-、flood 1. 洪水 2. 一大批
+
+<!-- 插图：洪水泛滥，人们坐在屋顶和木筏上 -->
+
+**flood** 洪水是自然灾害 natural disaster 中的一种。food 是由 flow 生成的词汇，从词源上来看是“很多水的流动”的意思。不过，它还有个必须要记下来的词义，那就是“泛滥，涌入”的意思。我们也经常说“像洪水一样涌进来”吧？这与 flood 的语感正相吻合。
+
+- **flood** [flʌd] *n.* 1. 洪水 = deluge 2. 大批涌入 = avalanche
+  *v.* 1. 淹没 = inundate 2. 大批涌入
+  - a flood of ……的潮流
+  - in floods of tears 泪流不止
+- **flooding** [ˈflʌdɪŋ] *n.* 泛滥
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家注意下列“自然灾害现象”的第二个义项！
+flood 1. 洪水
+2. 大批（大量）涌入
+deluge 1. 洪水
+2. 大量涌来，大批泛滥
+avalanche 1. 雪崩
+2. 大量涌来
+landslide 1. 山崩，滑坡
+2.（选举中的）大获全胜
+:::
+
+> The village was cut off by **floods**.
+> 村子被洪水隔断了。
+
+> A **flood** of refugees poured over the bridge to escape the earthquake.
+> 为了躲避地震，难民如潮水般通过那座桥。
+
+> All houses in the city have been **flooded**.
+> 城里所有的房子都给洪水淹了。
+
+<!-- p.180 -->
+
+## 8. (钱)从 af-~流出 flu 的话 affluent 富裕的，富有的
+
+::: {.etymo}
+affluent 由其词源义“(富)流出来”引申出“富裕的，丰富的”意思。与之同义 synonym 的单词还有 wealthy。一说起富有，马上让我们联想到钱多得几乎要冒出来的场景。
+:::
+
+<!-- 插图：一个人拿着装满钱的袋子，身上挂着金币和钞票，上面写着“我除了钱一无所有了！” -->
+
+- **affluent** [ˈæfluənt] *adj.* 富裕的，富足的 = rich, wealthy
+  - an affluent family 富足的家庭
+  - affluent society 富裕的社会
+- **affluence** [ˈæfluəns] *n.* 富裕，生活优裕
+
+::: {.mnemonic}
+**温馨小贴士**
+
+虽然 abundant 是“量多的，丰富的”意思，但 affluent 是“钱多的，富有的”意思。
+:::
+
+> He was born in an **affluent** family and never experienced poverty.
+> 他出生在一个富足的家庭，从没有经历过贫穷。
+
+> As people become more **affluent**, so their standard of living improves.
+> 随着人们变得越来越富有，生活标准也随之提高了。
+
+## 9. 流 flu 到里面 in- 去，influence 影响；产生影响
+
+::: {.etymo}
+很多人都知道 influence 影响这个词，它是由其词源义“流入到里面”引申为“影响”的意思，单词本身并不难理解。“影响”原本不就是向里面慢慢渗透的意思吗？
+:::
+
+不过，有一点需要记住的是，influence 不仅可用作名词，同时曾经用作动词使用。而且考试时，多考查其动词词性的用法，这点需要多加留意。
+
+- **influence** [ˈɪnfluəns] *n.* 影响 = impact
+  - *vt.* 影响，感染，对……起作用
+  - influence on[over] 对……有影响
+  - under the influence 醉酒，喝醉了酒
+
+::: {.mnemonic}
+**温馨小贴士**
+
+要记住 influence 还可以作为动词！
+influence children's behavior 对孩子们的行为产生影响
+:::
+
+> Music has a strong **influence** on our emotions.
+> 音乐强烈地影响我们的情绪。
+
+> His music was **influenced** by Mozart.
+> 他的音乐受到了莫扎特的影响。
+
+<!-- p.181 -->
+
+## 10. 向上super-溢出来flu，superfluous多余的，不必要的
+
+<!-- 插图：一个人往已经满溢的啤酒杯里倒啤酒，泡沫溢出 -->
+
+::: {.etymo}
+superfluous也是一个必须通过词源分析来理解的词汇。superfluous由其词源义“向上溢出来”引申为“多余的，不必要的”意思。大家联想一下，往杯子里倒啤酒的时候，流出来的部分是不是“多余的，不必要的”？这也叫做superfluous。举例来说，superfluous decoration就是“多余的装饰”，superfluous staff就是“多余的职员”。
+:::
+
+- **superfluous** [suːˈpɜːfluəs] *adj.* 多余的，不必要的，过多的 = unnecessary, redundant
+  - superfluous decoration 不必要的装饰
+  - superfluous staff 多余的职员
+- **superfluity** [ˌsuːpəˈfluːəti] *n.* 过多，过剩，剩余物
+
+> We're cutting out **superfluous** layers of managers.
+> 我们要裁掉多余的管理层人员。
+
+> a modern building with no **superfluous** decoration
+> 一幢没有多余装饰的现代化大楼
+
+## 单词回顾
+
+::: {.etymo}
+1. 很多种一起倾倒
+   $\rightarrow$ 混乱，困惑 ______
+2. 向各个方向洒落
+   $\rightarrow$（光、热等）扩散，分散 ______
+3. 向里面倒
+   $\rightarrow$ 注入，灌输 ______
+4. 量过多并向前面倾洒
+   $\rightarrow$（量）多的，过多的 ______
+5. 用完的东西再次倒掉
+   $\rightarrow$ 垃圾；拒绝 ______
+6. 话说得像流水一样
+   $\rightarrow$ 流畅的 ______
+7. 很多水的流动
+   $\rightarrow$ ①洪水 ②一大批 ______
+8.（钱）从……流出
+   $\rightarrow$ 富有的，富裕的 ______
+9. 流到里面去
+   $\rightarrow$ 影响；产生影响 ______
+10. 向上溢出来
+    $\rightarrow$ 多余的，不必要的 ______
+:::
+
+> **答案** 1. confuse 2. diffuse 3. infuse 4. profuse 5. refuse 6. fluent 7. flood 8. affluent 9. influence 10. superfluous
+
+<!-- p.182 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. diffuse ______ 2. profuse ______
+3. refuse ______ 4. fluent ______
+5. affluent ______ 8. superfluous ______
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 他的话和行为让我混乱 ______。
+2. 别把你的想法注入 ______ 到我的脑子里。
+3. 过多的 ______ 话反而会有害。
+4. 怎样处理垃圾 ______ 的问题是非常重要的。
+5. 我感受到了他流畅的 ______ 演讲的魅力。
+6. 我们家被洪水 ______ 淹没了。
+7. 出生在富裕的 ______ 家庭是种福气。
+8. 把你文章中不必要的 ______ 表达都删掉。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. I'm totally ______ . Could you explain that again?
+   A. confused    B. diffused    C. confusing
+
+2. The reporter refused to disclose the sources of their information.
+   A. inclined    B. declined    C. reclined
+
+3. I was moved by his ______ speech.
+   A. fluid    B. fluent    C. fluctuating
+
+4. Erase the superfluous expressions in your writing.
+   A. necessary    B. unnecessary    C. profuse
+
+---
+
+## 本日词汇速查（19 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [confuse]{.headword} | kənˈfjuːz | vt | 使混乱，使困窘，使困惑 =confound |
+| [confusion]{.headword} | kənˈfjuːʒən | n | 混乱，混淆，困惑 |
+| [confusing]{.headword} | kənˈfjuːzɪŋ | adj | 令人困惑的，混乱的，混淆的 |
+| [diffuse]{.headword} | dɪˈfjuːs | vi. vt | （光、热、液体等）扩散，使分散 =spread, scatter, disperse |
+| [diffusion]{.headword} | dɪˈfjuːʒən | n | 扩散，传播 |
+| [infuse]{.headword} | ɪn'fjuːz | vt | 注入，灌输，使充满 =imbue |
+| [infusion]{.headword} | ɪn'fjuːʒən | n | 注入，灌输，泡制 |
+| [profuse]{.headword} | prə'fjuːs | adj | （量）多的，毫不吝惜的，慷慨的 =excessive |
+| [profusion]{.headword} | prə'fjuːʒən | n | 丰富，充沛，慷慨，大方 |
+| [refuse]{.headword} | rɪˈfjuːz | n | 废物，垃圾 = garbage, trash, rubbish |
+| [fluent]{.headword} | ˈfluːənt | adj | 流畅的，流利的 = glib |
+| [fluency]{.headword} | ˈfluːənsi | n | （尤指外语）流畅，流利 |
+| [flood]{.headword} | flʌd | n | 1. 洪水 = deluge 2. 大批涌入 = avalanche |
+| [flooding]{.headword} | ˈflʌdɪŋ | n | 泛滥 |
+| [affluent]{.headword} | ˈæfluənt | adj | 富裕的，富足的 = rich, wealthy |
+| [affluence]{.headword} | ˈæfluəns | n | 富裕，生活优裕 |
+| [influence]{.headword} | ˈɪnfluəns | n | 影响 = impact |
+| [superfluous]{.headword} | suːˈpɜːfluəs | adj | 多余的，不必要的，过多的 = unnecessary, redundant |
+| [superfluity]{.headword} | ˌsuːpəˈfluːəti | n | 过多，过剩，剩余物 |
+

@@ -1,0 +1,366 @@
+# Day 37 · 首要prime，首都capital {.unnumbered}
+
+::: {.root-banner}
+Day 37 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p324–p331
+
+<!-- p.309 -->
+
+你知道图片中的建筑是在哪儿吗？这是位于美国首都Capital Washington D.C. 的美国州议会大厦Capitol。此外，中国的Beijing，韩国的Seoul、日本的Tokyo、也都是各国首屈一指prime的首都capital。今天我们来一起学习一下由prime和capital发展而来的词汇。会有哪些单词等待我们一起去发掘呢？
+
+<!-- 插图：卡通人物指着国会大厦说“这就是美国的首都capital了” -->
+
+**Voca Map：prime 首位的**
+- primary ①首要的，主要的 ②初等教育的
+- primitive 原始的，原始性的
+- pristine ①原始，自然的 ②很干净的
+- primeval 太古的
+
+**Voca Map：capital 首都；资本；大写字母**
+- decapitate 斩首
+- precipitate 使……突然降临；加速（坏事的发生）
+- recapitulate 复习（要点）；简述
+- capsize （船）翻了
+
+<!-- p.310 -->
+
+## 1. 首位的 prime 第一的，主要的；（品质）最好的
+
+<!-- 插图：丘吉尔邮票 U.S. 5 CENTS -->
+
+::: {.etymo}
+用英汉词典查一下单词prime，你会发现：关于prime，字典肯定罗列了很多不同的义项。把那些词义全都背下来，似乎有些让人吃不消。即便能背下来也不见得英语水平就高。所以，我们换个方法来尝试更有效地掌握该单词及由其生成的词群。prime的核心意思是“first”，即“首位的”。只要知道了这个核心意思，别说prime，就连以后出现的与prime相关联的词汇都能很容易掌握。大家需要注意的是，应分别将prime time黄金时代，prime minister首相作为一个整体来记。照片中的人物是著名的英国前prime minister丘吉尔。
+:::
+
+- **prime** [praɪm] *adj.* ① 首要的，主要的 ②（品质）最好的 = best
+  - prime time 黄金时代
+  - Prime Minister 首相
+  - the prime suspect in the murder investigation 这起谋杀案最大嫌疑犯
+
+> The wine industry is of **prime** importance to the California economy.
+> 制酒业是加利福尼亚经济的主要产业。
+
+> The house is very expensive because it's in a **prime** location.
+> 这所房子因为其优越的地理位置价值不菲。
+
+> He's past his **prime**.
+> 他过了壮年。
+
+## 2. 由 prime 派生而来的形容词 primary 首要的，主要的；初级教育的
+
+<!-- 插图：学生在教室，气泡文字：选这门课的主要目的primary aim -->
+
+::: {.etymo}
+在prime后加上形容词后缀所形成的单词是primary。作为“首要的，主要的”之义时，它跟prime没什么区别。但在英国，词组primary school的意思是“小学”。在美国，小学是elementary school。另外，请大家再记一个稍微难点儿的政治用语political term primary election，是“初选”的意思。另外，open primary是指不仅那个党的党员partisan，就连普通国民都能参与的“公开预选会”。
+:::
+
+- **primary** [ˈpraɪməri] *adj.* ① 首要的，主要的 = main ② 初级教育的 = elementary *n.* 预备选举
+  - primary school 小学
+  - primary election 初选，预选
+  - open primary 政党的公开预选
+
+<!-- p.311 -->
+
+> The **primary** aim of this course is to improve your spoken English.
+> 这个讲座的主要目的是提高大家的英语口语水平。
+
+> My wife is a **primary** teacher.
+> 我妻子是小学老师。
+
+## 3. 人类初始时代 primitive 原始的、原始性的
+
+::: {.etymo}
+现在我们生活在高度发达的highly advanced时代，但人类human race诞生的初始prim-时代还是primitive原始的，原始性的。那时候要打猎，过狩猎采集hunting and gathering的生活，这样的远古时代就是primitive age原始时代。原始时代是有历史记录之前就存在的时代，因此又被称为prehistoric age史前时代。
+:::
+
+<!-- 插图：原始人在洞穴中生活 -->
+
+- **primitive** [ˈprɪmətɪv] *adj.* 原始的，原始性的；最初的
+  - a primitive man 一个原始人
+  - a primitive society 一个原始社会
+  - a primitive tribe 一个原始部落
+  - our primitive feeling of vengeance 我们最初的复仇之心
+
+> A spear is a **primitive** weapon.
+> 矛是原始武器。
+
+> **Primitive** people thought that the supernatural beings controlled their lives.
+> 原始人认为超自然的力量控制着他们的生命。
+> （supernatural [ˌsuːpəˈnætʃrəl] *adj.* 超自然的，神奇的）
+
+## 4. 完整地保存 pristine 原来（自然）的；很干净的状态
+
+::: {.etymo}
+与primitive相关的单词pristine的基本义是“unspoiled未损坏的，untouched没有人动过的”。这个单词不只描述自然，还可以用来描述衣服、商品等一点儿都未被弄脏的状态，是“非常干净的extremely clean”的意思。
+:::
+
+<!-- 插图：男子展示一辆老爷车，对话框：“我的车完全是全新的” -->
+
+- **pristine** [ˈprɪstiːn] *adj.* ① 原来（自然）的 ② 很干净的 = pure, immaculate
+  - a pristine forest 原始森林
+  - the secondhand car in pristine condition 完全无损的二手车
+
+<!-- p.312 -->
+
+> The DMZ has been protected in **pristine** condition.
+> 非军事区受到很好的保护，没有遭到任何破坏。
+
+> The beach has **pristine** white sand.
+> 海边沙滩很干净。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+DMZ = Demiliterized Zone
+非武装地带
+:::
+
+## 5. 时间之初的 primeval 太古的
+
+<!-- 插图：茂密的原始森林 -->
+
+::: {.etymo}
+单词primeval包含词根prim首先和历史之义，即“太古的”之解。从难易度来看，这个词算是最难的了。不过如果知道了词根prim首先的意思就可以很轻松地记住它了。primeval的词源组合义是“（时代性）最靠前的”，引申为“太古的，原始的very ancient”。由于外形与词义比较相近，请大家千万不要将此词与primitive原始的；很干净的一词混淆confusion了哦！
+:::
+
+- **primeval** [praɪˈmiːvəl] *adj.* ①原始的，早期的 = very ancient ②处于原始本能的
+  - 100 acres of primeval forest 100公顷的原始森林
+  - primeval urges 原始的欲望
+
+> We travelled through the **primeval** forests.
+> 我们穿过了原始森林。
+
+> The desire to eat is **primeval**.
+> 吃的欲望是人的本能。
+
+## 6. 首都 capital 首都；资本；大写字母
+
+<!-- 插图：美国国会大厦建筑 -->
+
+::: {.etymo}
+乍一看capital的三条词义之间似乎没什么联系。capital的词根capit是“头head”的意思。即capital的词源义是“成为头的东西”。由此，该词也就从“城市中的头儿”引申为“①首都”；从“以前农夫们通过数牛的头来赢钱”，引申为“②资本”；从“写的很大的首字母”引申为“③大写字母”了。
+:::
+
+最近，“capital”多用作与“资本、钱”有关系的语境中。capitalism资本主义这个词也很重要，请大家一定要记住。
+
+- **capital** [ˈkæpɪtl] *n.* ①首都 ②资本 ③大写字母 ↔ lower case letter 小写字母
+  - make capital out of 利用 = capitalize on
+- **capitalism** [ˈkæpɪtəlɪzəm] *n.* 资本主义
+- **communism** [ˈkɒmjʊnɪzəm] *n.* 共产主义 \ **socialism** [ˈsəʊʃəlɪzəm] *n.* 社会主义
+
+**Voca Map：capital 头**
+- 城市中的头 → 首都
+- 通过数牛的头来赢钱 → 钱，资本 ↓ capitalism 资本主义
+
+<!-- p.313 -->
+
+> The government has strived to attract foreign **capital**.
+> 政府正努力吸引外资。
+
+> He had very little **capital** when he started.
+> 创业之初，他仅有一点儿资本。
+
+> The principles of **capitalism** and socialism are diametrically opposed to each other.
+> 资本主义和社会主义的原则是完全对立相反的。
+
+## 7. 取下某人的脖子 decapitate 杀头；斩首
+
+::: {.etymo}
+虽然decapitate是个让人感觉很恐怖的hideous的单词，可是只要我们从它的词源来分析就会觉得好多了：de-分开的+capit头+-ate动词性结尾词→让脑袋搬家，可以解释为“斩首”。前面我们学过的单词capita的词根capi是“头head”的意思，在这里只要加上punishment 变为capital punishment，词组就变成了“死刑”的意思，大家一定要记住哦！
+:::
+
+<!-- 插图：刽子手举刀准备砍头 -->
+
+- **decapitate** [dɪˈkæpɪteɪt] *vt.* 砍……某人的头，斩首=behead
+  - a decapitated body 砍了头的尸体
+  - decapitate the chicken 杀鸡
+  - capital punishment 死刑
+
+> His **decapitated** body was found floating in a canal.
+> 这具断头尸体漂在运河里被人发现了。
+
+> Do you have an opinion on **capital punishment**?
+> 你对死刑有什么看法？
+
+## 8. （下落时）头向前伸 precipitate 催促；触发
+
+<!-- 插图：头朝下坠落的人 -->
+
+::: {.etymo}
+拆分precipitate进行词源分析，即为：pre向前+cipit头(head)+-ate动词性结尾词→（分开的时候）头向前伸，其义为“加速坠落”。下落时，如果头向前伸的话，就会加快坠落的速度。源于这个联想的单词就是precipitate。precipitate的基本义是坠落downfall，主要是跟暴动riot、犯罪crime等坏事儿联系在一起使用，作“怂恿、触发”之义。
+:::
+
+<!-- p.314 -->
+
+- **precipitate** [prɪ'sɪpɪteɪt] *vt.* ①催促 = hasten ②触发 = trigger
+  *adj.* 仓促的 = hasty
+- **precipitation** [prɪ'sɪpɪ'teɪʃən] *n.* 降雨量；急促
+  - an increase in annual precipitation 年降雨量的增加
+- **precipice** ['presɪpɪs] *n.* 悬崖 = cliff
+- **precipitous** [prɪ'sɪpɪtəs] *adj.* 陡峭的；仓促的 = steep
+
+::: {.mnemonic}
+**温馨小贴士**
+
+precipitation（降水量）是在 weather forecast（天气预报）中经常出现的词，大家一定要记住哦！
+:::
+
+> The riot was **precipitated** when three black men were beaten to death.
+> 这场暴乱源于三个黑人被打死。
+
+> Don't make such a **precipitate** decision.
+> 不要做出这么仓促的决定。
+
+## 9. 重复讲重要的事情 recapitulate 重复要点；简述
+
+<!-- 插图：老师在上课，思考泡泡里写着“这已经是第95次的recapitulate重要回顾了” -->
+
+::: {.etymo}
+你知道不管是在学校还是在辅导班，上课lecture最重要的是什么吗？那就是在下课前3分钟将当天学过内容中的最核心要点重新提一遍并进行强调emphasis。只有这样，学生们才能再一次回顾当天自己学了什么、最重要的知识点是什么。反映这种情况的单词就是recapitulate。其词源分析是：re-再+capit（ul）头+-ate动词词性结尾词 → 再一次收集整理成为头的最重要的部分，是“简述”的意思。
+:::
+
+- **recapitulate** [ˌriːkə'pɪtʃuleɪt] *vt.* 重复（要点），简述 = summarize
+  - to recapitulate briefly 简要概述
+  - recapitulate the main point of the book 概括这本书的要点
+- **recapitulation** [ˌriːkəpɪtʃu'leɪʃn] *n.* 重述要点，概括
+
+> We understood your point, so there's no need to **recapitulate**.
+> 我们明白你的观点，所以你不必再重复了。
+
+> To **recapitulate** what was said earlier, we need to develop new ways to gain customers.
+> 概括一下刚才说过的话，就是我们需要找出增加顾客量的新方法。
+
+<!-- p.315 -->
+
+## 10. 船头翻了的话 capsize 使船翻，颠覆
+
+<!-- 插图：翻覆的小船 -->
+
+::: {.etymo}
+很多人都不认识capsize这个单词。也许词缀-size会给你造成迷惑。将capsize进行词源分析，即为：cap头(head)+siz（e）潜水(dive)→船头下沉，是“（船）翻”的意思。大家还要一起记住它的同义词subvert。subvert的词源是sub向下+vert转→向下转，是“颠覆、推翻”的意思。主要用于抽象的概念，比如subvert the government推翻政府。
+:::
+
+- **capsize** [kæpˈsaɪz] *v.* 打翻船；使颠覆
+  - the capsized canoe 倾覆的独木舟
+- **subvert** [sʌbˈvɜːt] *vt.* 破坏，颠覆
+  - subvert the government 推翻政府
+
+::: {.mnemonic}
+**温馨小贴士**
+
+Capsize 主要指“使船倾覆、翻沉”之义，而 subvert 则主要用于抽象的概念，比如“颠覆（体制）”。
+:::
+
+> The men righted the boat that had **capsized**.
+> 人们把倾覆的船扶正。
+
+> The boat **capsized** in rough waters, and three men were drowned.
+> 小船倾覆在狂风巨浪中，三个男人溺水而亡。
+
+## 单词回顾
+
+::: {.etymo}
+1. 首位的
+   → 第一的，主要的；(品质) 最好的 ______
+:::
+
+2. 由 prime 派生而来的形容词
+   → 首要的，主要的；初级教育的 ______
+
+3. 人类初始时代
+   → 原始的，原始性的 ______
+
+4. 完整地保存原来的状态
+   → 原来（自然）的；很干净的 ______
+
+5. 时间之首的
+   → 太古的 ______
+
+6. 首都
+   → 首都；资本；大写字母 ______
+
+7. 取下某人的首级
+   → 杀头；斩首 ______
+
+8.（下落的时候）头向前伸
+   → 催促；触发 ______
+
+9. 重复重要的事情
+   → 重复要点；简述 ______
+
+10. 船头翻了
+    → 船翻了，使颠覆 ______
+
+答案 1. prime 2. primary 3. primitive 4. pristine 5. primeval 6. capital 7. decapitate 8. precipitate 9. recapitulate 10. capsize
+
+<!-- p.316 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. primitive ______
+2. pristine ______
+3. primeval ______
+4. decapitate ______
+5. precipitate ______
+6. capsize ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 这本书**主要的** ______ 目标就是让学生更好地学习英语单词。
+2. 根本不可能用那种**原始的** ______ 方法。
+3. 那片树林还原封不动地保持着自然**原始的** ______ 状态。
+4. 那座岛留存着**太古的** ______ 神秘。
+5. 我们了解了**资本主义** ______ 的弊端。
+6. 那个连锁杀人犯**被斩首** ______ 了。
+7. **匆忙的** ______ 决定容易招来祸患。
+8. **船翻** ______ 了，很多人在事故中丧生。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Their **primary** objective is to make money.
+   A. prominent
+   B. main
+   C. important
+
+2. The car has been restored to ______ condition.
+   A. primitive
+   B. pristine
+   C. primeval
+
+3. Do not be ______ in this matter.
+   A. precipitation
+   B. precipice
+   C. precipitate
+
+4. The boat was **capsized** by the storm.
+   A. converted
+   B. reverted
+   C. subverted
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [prime]{.headword} | praɪm | adj | ① 首要的，主要的 ②（品质）最好的 = best |
+| [primary]{.headword} | ˈpraɪməri | adj | ① 首要的，主要的 = main ② 初级教育的 = elementary *n.* 预备选举 |
+| [primitive]{.headword} | ˈprɪmətɪv | adj | 原始的，原始性的；最初的 |
+| [pristine]{.headword} | ˈprɪstiːn | adj | ① 原来（自然）的 ② 很干净的 = pure, immaculate |
+| [primeval]{.headword} | praɪˈmiːvəl | adj | ①原始的，早期的 = very ancient ②处于原始本能的 |
+| [capital]{.headword} | ˈkæpɪtl | n | ①首都 ②资本 ③大写字母 ↔ lower case letter 小写字母 |
+| [capitalism]{.headword} | ˈkæpɪtəlɪzəm | n | 资本主义 |
+| [communism]{.headword} | ˈkɒmjʊnɪzəm | n | 共产主义 \ **socialism** [ˈsəʊʃəlɪzəm] *n.* 社会主义 |
+| [precipitate]{.headword} | prɪ'sɪpɪteɪt | vt | ①催促 = hasten ②触发 = trigger |
+| [precipitation]{.headword} | prɪ'sɪpɪ'teɪʃən | n | 降雨量；急促 |
+| [precipice]{.headword} | 'presɪpɪs | n | 悬崖 = cliff |
+| [precipitous]{.headword} | prɪ'sɪpɪtəs | adj | 陡峭的；仓促的 = steep |
+| [recapitulate]{.headword} | ˌriːkə'pɪtʃuleɪt | vt | 重复（要点），简述 = summarize |
+| [recapitulation]{.headword} | ˌriːkəpɪtʃu'leɪʃn | n | 重述要点，概括 |
+| [capsize]{.headword} | kæpˈsaɪz | v | 打翻船；使颠覆 |
+| [subvert]{.headword} | sʌbˈvɜːt | vt | 破坏，颠覆 |
+

@@ -1,0 +1,382 @@
+# Day 3 · 不容易剥皮、酸了吧唧的lemon是次品 {.unnumbered}
+
+::: {.root-banner}
+Day 3 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p34–p41
+
+<!-- p.19 -->
+
+“这不是残次品吗！”用英语来说的话就是It's a lemon!”。不理解吧？到底lemon柠檬有什么错……
+
+本章我们要学习源于植物的英语单词，同时还会学习像stream小溪，mercury水银等源于自然的词汇。了解了单词的来源，那些难记的词在不知不觉中就牢记于心了。
+
+**源于植物**
+- **lemon** 次品 ← 不容易剥皮、酸了吧唧的柠檬
+- **mushroom** 剧增、激增 ← 嗖嗖长大的蘑菇
+- **sporadic** 零星的 → **spore** 像孢子一样散落在各处
+
+**源于自然**
+- **eclipse** 像月亮挡住太阳的日食一样，被遮住光芒（荣誉） ← **eclipse** （名誉的）丧失，失去
+- **insular** 送到“岛”上 ← **insulate** 使隔离，使孤立
+- **landslide** 将地面完全覆盖的“滑坡” ← **landslide** （选举中）大胜利
+- **streamline** 漂亮的“河流的外廓线” ← **streamlined** 流线型的，效率的
+- **palate** 食物紧贴在上颚 → **palatable** 美味的、可口的
+- **mercury** 在温度影响下敏感变化的“水银” → **mercurial** 灵活的，易变的
+- **curb** 套在马身上、弯曲模样的“缰绳” → **curb** 限制，束缚
+
+<!-- p.20 -->
+
+## 1. 源于 lemon 不容易剥皮酸了吧唧的 lemon 次品
+
+<!-- 插图：柠檬 -->
+
+::: {.etymo}
+美国人经常说的 “this is a lemon.” 是指 “这是次品。” 为什么会给 lemon 扣上了 “次品” 的污名呢？这是因为与易剥皮、味道酸酸甜甜的橙子或者橘子相比，lemon 不仅皮厚，而且太酸 sour 了，不能直接吃。那些像吃橙子或橘子一样直接吃柠檬的人都会在咬了一口柠檬后马上皱起眉头。借用该比喻义，lemon 便多了层本以为是好东西，买了之后却因为有问题而不能用的 “次品” 之意。在美国，有 lemon law 伪劣商品赔偿法，它是规定了次品换货或者退货 refund 的消费者保护法。
+:::
+
+- **lemon** [ˈlemən] *n.* 1. 柠檬；2. 柠檬色
+  - lemon law 伪劣商品赔偿法
+  - turn out to be a real lemon 被判定为次品
+
+> I soon realized the product was a **lemon**.
+> 我马上意识到这个产品是个次品。
+
+> He stood there looking like a real **lemon**.
+> 他站在那里看起来像个傻瓜。
+
+## 2. 像嗖嗖长大的 mushroom 蘑菇、mushroom 猛增
+
+<!-- 插图：蘑菇 -->
+
+::: {.etymo}
+对身体好、味道也好的 mushroom 蘑菇，但这个 mushroom 用作动词便是 “猛增，激增” 的意思。这个词义源于 mushroom 的生长样子。蘑菇遍布山野，以各种颜色和模样一夜之间长出来，却又很容易消失。正因为这个原因，很早以前它就吸引了人们的眼光。因为蘑菇是一下子迅速长大，所以 mushroom 用作动词就是 “猛增，激增” 的意思。用成语 “雨后春笋” 来形容这个动词是非常贴切的。
+:::
+
+- **mushroom** [ˈmʌʃruːm] *n.* 蘑菇
+  - *adj.* 蘑菇形的，迅速生长的
+  - mushrooming global population growth 全球人口增长迅速
+
+<!-- p.21 -->
+
+> New housing developments **mushroomed** on the edge of town.
+> 在城市边缘，新的住宅社区层出不穷。
+
+> The risk from viruses certainly hasn't diminished — on the contrary, it has **mushroomed**.
+> 病毒的危险不但没有消失，反而还增加了。
+> （diminish [dɪˈmɪnɪʃ] 减少，消失）
+
+## 3. 像spore孢子一样四处散开的sporadic分散的
+
+<!-- 插图：蒲公英的种子随风飘散 -->
+
+::: {.etymo}
+大家用嘴吹过田野上开放着的蒲公英吗？起风时，蒲公英花里的种子会随风飘起，散落在各个地方。**sporadic**是**spore**孢子的形容词，有“零星发生的，分散的”意思。就像种子散落在各个角落后又长出蒲公英一样，如果各地零星的事件发生，那就用单词**sporadic**来表达！
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+还记得这首歌吗？“成为蒲公英的**spore**孢子，乘着风儿飞啊飞……”结果**spore**就成了**sporadic**（分散的）状态！
+:::
+
+- **sporadic** [spəˈrædɪk] *adj.* 偶尔发生的，零散的 =intermittent
+  - a sporadic disease 散发性疾病
+  - sporadic fighting in the city 城市里间歇性的战斗
+- **sporadically** [spəˈrædɪkəlɪ] *adv.* 偶发地
+
+> **Sporadic** gunshots continued through the night.
+> 整个夜里，零星的枪声一直未间断。
+
+> There has been **sporadic** outbreaks of the disease.
+> 疾病零星地爆发了。
+> （outbreak [ˈaʊtbreɪk] 爆发，暴动）
+
+## 4. 像月亮挡住太阳发生日食eclipse一样，遮住光芒（荣誉），eclipse日食，月食，（荣誉的）丧失
+
+<!-- 插图：日全食的天文景观照片 -->
+
+::: {.etymo}
+在各种天体现象celestial phenomenon中，**eclipse**日食引起了很多人的兴趣。日食是指当地球、月亮和太阳位于一条直线上时，在地球上看到的太阳被月亮挡住的天文现象。换句话说就是明亮的日光被月亮遮挡住的天文现象。借用日食现象，**eclipse**便产生了比喻义“（名誉）的丧失，褪色”。具体使用时，该词可指某人的声誉（太阳）reputation因为绯闻（月亮）scandal而被抹黑，于是就成了“（名誉）的丧失，丢失”的意思。**eclipse**这个词，很容易让人想到某位因绯闻而闹得沸沸扬扬的美国著名高尔夫选手。
+:::
+
+<!-- p.22 -->
+
+- **eclipse** [ɪ'klɪps] *n.* 1. 日（月）食 2.（名誉的）丧失，褪色 *vt.* 形成日（月）食，使……失色
+  - a total eclipse 日全食 / a partial eclipse 日偏食
+  - in eclipse 失去光彩，黯然失色
+
+::: {.mnemonic}
+**温馨小贴士**
+
+在各种英语考试中，多考查 eclipse 的“（荣誉的）丢失”这个词义。
+:::
+
+> His reputation is now **in eclipse**.
+> 他的光环渐渐地褪去了。
+> （reputation [ˌrepju'teɪʃn] 名声）
+
+> The economy had **eclipsed** the environment as an election issue.
+> 在选举中，经济的因素掩盖了环境的因素。
+
+## 5. 送到 insular 岛上，insulate 隔离
+
+<!-- 插图：流落荒岛的人看着烈日 -->
+
+::: {.etymo}
+insular 是名词 island 的形容词形式，意为“1. 岛的 2. 狭窄的”。而动词 insulate 隔离，绝缘 则源于 insular。由 insulate 缩略而成的单词是 isolate 隔离（孤立）！岛屿原本就是远离陆地的，所以 isolate 又从“独自坐落于”的词义中分化出了“隔离（孤立）”的意思。
+:::
+
+- **isolate** ['aɪsəleɪt] *v.* 使隔离（孤立）= insulate, seclude, segregate
+  - isolate A from B 把 A 和 B 隔离开
+  - isolate dangerous criminals from society 把危险的罪犯与社会隔离开来
+
+**Voca Map**
+- island 岛
+  ↓
+- insular 岛的，狭窄的
+  ↓
+- insulate 使隔离，使孤立
+  ↓
+- isolate 使隔离
+
+> The village was **isolated** by the floods.
+> 村庄因洪水成了孤岛。
+
+> It is impossible to **isolate** political responsibility **from** moral responsibility.
+> 将政治责任和道德责任分开是不可能的。
+
+## 6. 源于将土地完全淹没的 landslide 滑坡 的 landslide 选举的压倒性胜利
+
+<!-- 插图：山体滑坡实景照片 -->
+
+::: {.etymo}
+landslide 滑坡 是由 land 土地 + slide 滑落 所构成的合成词。山体受大雨或地震影响发生滑坡，覆盖在地面就是滑坡。但 landslide 还含有“在选举 election 中压倒性胜利”这个重要的词义。可以比喻在选举中，选民们将选票一股脑地投给某个特定候补 candidate，使其获得压倒性 overwhelmingly 的胜利。
+:::
+
+<!-- p.23 -->
+
+- **landslide** [ˈlændslaɪd] *n.* 1. 滑坡；2.（选举中）大获全胜，一面倒的胜利
+  - trigger a landslide 引发山体滑坡
+  - a landslide election victory 在选举中获得压倒性的胜利
+
+> Three houses were buried under a **landslide**.
+> 三所房子在山体滑坡中被埋了。
+
+> The female candidate won by a **landslide**.
+> 这名女候选人获得了压倒性的胜利。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请不要漏掉 win by a landslide “获得压倒性胜利” 这个表达！
+:::
+
+## 7. 像河水的轮廓线蜿蜒流长、streamlined 流线型的，效率的
+
+<!-- 插图：蜿蜒流淌的河流鸟瞰照片 -->
+
+::: {.etymo}
+河水蜿蜒流淌形成一条美丽的轮廓线，这不禁让人联想到由 stream 小溪 + lined 线条的所构成的合成词 streamlined。该词在“流线型的”词义基础上又产生了“有效的”意思。试想一下，飞机或高铁的前端是不是设计成了空气阻力最小的流线型形状？这种设计正是能够高速行驶的最有效[?]的线型构造。streamline 作为动词是“有效率地做（事情）”的意思。
+:::
+
+- **streamlined** [ˈstriːmlaɪnd] *adj.* 流线型的，有效率的 =efficient
+- **streamline** [ˈstriːmlaɪn] *v.* 使流线型，使合理化
+  - streamline the car's design 简化汽车的设计
+  - a system that streamlines the process 能够简化程序的系统
+
+> The cars all have a new **streamlined** design.
+> 这些汽车都是新的流线型的设计。
+
+> The company has made efforts to **streamline** the production process.
+> 公司努力简化生产过程。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+streamline 虽然像名词，但实际上它是含有“使有效率，使有效”之意的及物动词，这一点一定要注意！
+:::
+
+## 8. 食物紧紧贴在 palate 上颚，palatable 好吃的
+
+<!-- 插图：一个人坐在餐桌前大口吃美味食物的卡通插画 -->
+
+::: {.etymo}
+palate 是指人体器官中的“上颚”部分。源于 palate 的形容词 palatable 好吃的并不是单纯的 delicious 之意，它还暗含“正对……胃口”的意思，这样理解既简单又准确。
+:::
+
+<!-- p.24 -->
+
+- **palatable** [ˈpælətəbl] *adj.* 1. 美味的，可口的 = delicious, yummy；2. 合意的，认可的 = acceptable
+  - palatable beer 可口的啤酒
+- **unpalatable** [ʌnˈpælətəbl] *adj.* 不好吃的，不适口的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**palatable** 的同义词 **yummy** 是拟声词“吧唧吧唧”的意思，通常多用于口语，表示“吧唧吧唧吃得香”。
+:::
+
+> Many airlines are working to make their food more **palatable**.
+> 很多航班都努力把机餐食物做得更加可口。
+
+> They changed the wording of the advertisement to make it more **palatable** to women.
+> 他们更换了广告词，以便更加符合女性的口味。
+
+## 9. 像 mercury 水银一样敏感的变化、mercurial 善变的
+
+<!-- 插图：温度计的水银柱 -->
+
+::: {.etymo}
+mercury水银是一种非常特别的银白色金属，它是唯一一种在常温（一般15℃）下以液体形态存在的金属。对我们而言，经常能听到水银中毒mercury poisoning一词，而温度计thermometer用来显示温度的“水银柱”一词也能经常听到。水银对周围的热量（温度）十分敏感，能够迅速地反映出温度的的变化。正由于水银的这种特性，由其衍生出的mercurial一词是“善变的”的意思。就像水银很容易随着周边的温度变化而改变一样，在表达某人很容易随心情变化而改变想法的时候，就可以使用这个mercurial词。你的身边是不是也有这样的人呢？
+:::
+
+- **mercury** [ˈmɜːkjʊri] *n.* 1. 水银 = quicksilver；2. Mercury 水星
+- **mercurial** [mɜːˈkjʊəriəl] *adj.* 善变的 = capricious, fickle
+  - the actress's infamous mercurial nature 女星臭名昭著且善变的本性
+
+> Emily's **mercurial** temperament made her difficult to live with.
+> 艾米丽善变的性格让她难以相处。
+> （temperament [ˈtempərəmənt] 性格、气质）
+
+> **Mercury** is the planet that is nearest to the sun.
+> 水星是离太阳最近的行星。
+
+## 10. 源于拴马用的弯曲模样的 curb 缰绳，curb 缰绳、约束、控制
+
+::: {.etymo}
+curb是拴马用的“缰绳”。curb是缩略curve曲线、弯曲的发音而成的词，是“弯曲”的意思。马是动物，但被套上缰绳后，就变成了一种交通工具vehicle，也就是说，缰绳是掌控control马的工具。由此，curb表
+:::
+
+<!-- p.25 -->
+
+“1. 缰绳 2. 约束，控制”之意。
+
+关于curb还有一个表示“人行道的镶边”的意思必须记住；这个单词的意思来源于防止车在人行道sidewalk上行驶的石头，并因此延伸出“约束，管制”的意思。
+
+<!-- 插图：带有橙色路锥的马路边石/人行道镶边 -->
+
+- **curb** [kɜːb] *n.* 1. 勒马绳；2. 控制，勒住；3. 人行道的镶边
+  *v.* 控制=control, limit
+  - measures to curb the spread of the virus 采取措施以抑制病毒的传播
+  - curb on 对……起约束作用
+
+**Voca Map**
+- curve
+  - ↓
+  - curb 勒马绳、马衔索
+    （勒住勒马绳）控制、勒住→控制
+    （使道路上的车辆不跑到人行道上的）人行道镶边。
+
+> The police are trying to keep a **curb** on their activities.
+> 警察试着控制他们的活动。
+
+> Sally needs to learn to **curb** her temper.
+> 莎莉应该学学控制下自己的脾气。
+
+> Will the tax hike effectively **curb** smoking?
+> 加税能有效地抑制吸烟吗？
+
+## 单词回顾
+
+::: {.etymo}
+1. 源于不易剥皮、酸了吧唧的“柠檬”
+   → 次品 ______
+2. 像 mushroom 蘑菇一样嗖嗖长大的
+   → 激增 ______
+3. 源自于像孢子一样，到处散开
+   → 分散的 ______
+4. 像月亮挡住太阳所发生的日食现象，遮住光芒（荣誉）
+   →（名誉的）丧失 ______
+5. 送到岛上
+   → 使隔离 ______
+6. 源于将土地完全淹没的滑坡
+   → 选举中的压倒性胜利 ______
+7. 像溪流弯曲的轮廓线
+   → 流线型的，效率的 ______
+8. 食物紧紧贴在上颚
+   → 好吃的 ______
+9. 像“水银”一样敏感地变化
+   → 善变的 ______
+10. 源于拴马用的弯曲状的缰绳
+    → 约束、控制 ______
+:::
+
+答案 1. lemon 2. mushroom 3. sporadic 4. eclipse 5. insulate 6. landslide 7. streamlined 8. palatable 9. mercurial 10. curb
+
+<!-- p.26 -->
+
+## 单词检测
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. sporadic ______
+2. streamlined ______
+3. isolate ______
+4. palatable ______
+5. mercurial ______
+6. curb ______
+:::
+
+## 二、请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 花大价钱买的东西竟然是**次品** ______ 真让人生气。
+2. 市中心的娱乐场所**激增** ______。
+3. 我们应该配备**更有效的** ______ 的工作系统。
+4. 这个汤**正合** ______ 我的胃口。
+5. 我讨厌她**善变的** ______ 性格。
+6. 性丑闻使他**名誉扫地** ______。
+7. 那个年轻的候选人在选举中获得了**压倒性的胜利** ______。
+8. 不要妄想**控制** ______ 我。
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. They refused to give me a refund on the ______ .
+   A. fruit
+   B. orange
+   C. lemon
+:::
+
+2. The company has a **streamlined** process system.
+   A. effective
+   B. efficient
+   C. efficacious
+
+3. The actor is noted for his **mercurial** temperament.
+   A. capable
+   B. capricious
+   C. capacious
+
+4. My husband always puts the ______ on me.
+   A. setback
+   B. criterion
+   C. curb
+
+---
+
+## 本日词汇速查（16 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [lemon]{.headword} | ˈlemən | n | 1. 柠檬；2. 柠檬色 |
+| [mushroom]{.headword} | ˈmʌʃruːm | n | 蘑菇 |
+| [sporadic]{.headword} | spəˈrædɪk | adj | 偶尔发生的，零散的 =intermittent |
+| [eclipse]{.headword} |  |  | 像月亮挡住太阳的日食一样，被遮住光芒（荣誉） ← **eclipse** （名誉的）丧失，失去 |
+| [insular]{.headword} |  |  | 送到“岛”上 ← **insulate** 使隔离，使孤立 |
+| [landslide]{.headword} | ˈlændslaɪd | n | 1. 滑坡；2.（选举中）大获全胜，一面倒的胜利 |
+| [streamline]{.headword} | ˈstriːmlaɪn | v | 使流线型，使合理化 |
+| [palate]{.headword} |  |  | 食物紧贴在上颚 → **palatable** 美味的、可口的 |
+| [mercury]{.headword} | ˈmɜːkjʊri | n | 1. 水银 = quicksilver；2. Mercury 水星 |
+| [curb]{.headword} | kɜːb | n | 1. 勒马绳；2. 控制，勒住；3. 人行道的镶边 |
+| [sporadically]{.headword} | spəˈrædɪkəlɪ | adv | 偶发地 |
+| [isolate]{.headword} | 'aɪsəleɪt | v | 使隔离（孤立）= insulate, seclude, segregate |
+| [streamlined]{.headword} | ˈstriːmlaɪnd | adj | 流线型的，有效率的 =efficient |
+| [palatable]{.headword} | ˈpælətəbl | adj | 1. 美味的，可口的 = delicious, yummy；2. 合意的，认可的 = acceptable |
+| [unpalatable]{.headword} | ʌnˈpælətəbl | adj | 不好吃的，不适口的 |
+| [mercurial]{.headword} | mɜːˈkjʊəriəl | adj | 善变的 = capricious, fickle |
+

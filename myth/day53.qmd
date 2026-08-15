@@ -1,0 +1,392 @@
+# Day 53 · 向后绕的re- {.unnumbered}
+
+::: {.root-banner}
+Day 53 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p466–p473
+
+<!-- p.451 -->
+
+前缀re-有“向后back”和“重新again”这两层意思。实际上back本身就含有again的意思。将前进的物体转向“后”试试！那就得重新走一遍了。在口语中，I'll call you back.意为“我会再给你打电话的。”因此前缀re-除了有“向后back”的意思外，还有“重新again”的意思。在这里，我们先来看一下“back向后”的义项。
+
+<!-- 插图：汽车后退的趣味示意图 -->
+
+**Voca Map：1. re-表示back**
+
+- re-向后(back) + fus(e)倒(pour)（向后倒、向后扔）→ **refuse** 垃圾；拒绝
+- re-向后(back) + lease松的(loose)（(向后)使……放松）→ **release** 释放
+- re-反对(against) + luct挣扎(struggle) + -ant形容词后缀（为反对……而挣扎）→ **reluctant** 不情愿的，勉强的
+- re-向后(back) + sign签名（签名表示自己要转身离开）→ **resign** 辞职
+- re-向后(back) + veal面纱(veil)（把面纱掀到后面）→ **reveal** 揭露（事实、真实的面目）
+- re(ci)向后(back) + pro-向前 + -cal形容词后缀（前后发送）→ **reciprocal** 相互间的
+- re-向后(back) + frain缰绳（向后拉缰绳）→ **refrain** 阻止，节制
+- re-向后(back) + linqu离开 + -ish动词后缀（将……留在后面自己单独离开）→ **relinquish** 抛弃
+- re-向后(back) + mors咬 + -e名词后缀（时间过去很久之后，被咬了的地方还觉得痛）→ **remorse** 后悔
+- re-向后(back) + proach接近（使不能接近……）→ **reproach** 非难
+
+<!-- p.452 -->
+
+## 1. 向后 re- 倒 fuse，refuse 垃圾；拒绝
+
+<!-- 插图：倒垃圾与清理垃圾 -->
+
+::: {.etymo}
+在英语中，有很多表示“垃圾”的词汇：waste, garbage, trash, rubbish, litter都是“垃圾”的意思。单词refuse作为名词使用时也是“垃圾”的意思，该词义源于其词源义“全部用光后倒掉或者扔掉的东西”。既然我们学了这个单词，不妨直接将“垃圾桶”也一起学习了吧。在英国，“垃圾桶”叫做dustbin，而在美国叫做garbage can。
+:::
+
+其实，refuse这个词的动词义项“拒绝”相对来说更加重要。当对方向我们提出某提案proposal时，如果将提案向后扔就是表示“拒绝”的意思。
+
+- **refuse** [rɪˈfjuːz] *n.* 垃圾 = waste, garbage, trash, litter
+  *v.* 拒绝（否决）= reject, decline, turn down
+  - refuse to do sth. 拒绝做某事
+  - refuse to answer the question 拒绝回答问题
+- **refusal** [rɪˈfjuːzəl] *n.* 拒绝，否决
+
+::: {.mnemonic}
+**温馨小贴士**
+
+refuse向后扔的东西：*n.* 垃圾；*v.* 拒绝；*n.* 拒绝
+refuse的名词义“垃圾”和名词refusal的词义“拒绝”是完全不同的，这一点请大家要格外注意！
+:::
+
+> Millions of tons of urban **refuse** are burnt every year.
+> 每年有数百万吨的城市垃圾被焚烧。
+
+> I **refused** to take part in anything illegal.
+> 我拒绝参与做任何不合法的事。
+
+> The job offer seemed too good to **refuse**.
+> 这个工作机会看起来太好了，难以拒绝。
+
+## 2. 向后 re- 使……变松的 lease，release 释放；上映电影；发行、发布唱片或小说
+
+<!-- 插图：解开的手铐 -->
+
+::: {.etymo}
+单词release的词根lease是从loose松的变形而来的，release的词义直接从其词源“将系着的东西松开”演变成了“释放”的意思。“释放，使……自由”这个义项可以用于很多方面。电影的“上映”，唱片的“发行”，小说或报纸的“发行”等。虽然有很多不同的义项，但release的词源义却只有一个，即“将系着的东西松开，放它走”。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+release的词源义是“将系着的东西松开”，演变成了“释放”的意思。释放电影 → “上映” 释放唱片 → “发行” 释放书籍和报纸 → “发行” 释放感情或压力 → “（感情的）发泄”
+:::
+
+<!-- p.453 -->
+
+- **release** [rɪˈliːs] *vt.* ①释放；②上映，发行；③排出，散发
+  *n.* ①释放；②上映，发行；③（感情的）发泄
+  - a newly released movie 新上映的电影
+  - a sense of release after the exam 考试后的放松
+
+> Police arrested several suspicious men, who were later **released**.
+> 警察逮捕了几个可疑的人，他们后来又被释放了。
+> （suspicious [səˈspɪʃəs] 可疑的）
+
+> The next version of the computer game will be **released** next year.
+> 明年这个电脑游戏的下一个版本将被发行。
+
+> Sports can be a form of emotional **release**.
+> 运动是一种情感释放的形式。
+
+## 3. 因为反对re-而挣扎luct，reluctant不情愿做某事，勉强的
+
+<!-- 插图：一人向另一人借钱，另一人心里想着“真不想借给你啊！” -->
+
+::: {.etymo}
+因为讨厌而挣扎但也不得不去做的 she 事情有很多，最具代表性的是什么呢？学习吧！尤其是在上学的时候，大家一般都不喜欢学习，一心只想想着玩儿！单词 reluctant 的词义“很讨厌做某事，不情愿做某事”就源于其词源义“因反对做某事而挣扎”。一般情况下，reluctant 以“be reluctant to do sth. 讨厌做……，不情愿的”惯用形式出现，但有时也会直接修饰名词；a reluctant smile 勉强的微笑又被称作“皮笑肉不笑”。
+:::
+
+- **reluctant** [rɪˈlʌktənt] *adj.* 不情愿（做……），不乐意 = unwilling
+  - be reluctant to do sth. 讨厌做某事，不情愿做某事
+  - be reluctant to accept my offer 不愿接受我的报价
+- **reluctance** [rɪˈlʌktəns] *n.* 勉强，不情愿
+- **reluctantly** [rɪˈlʌktəntli] *adv.* 勉强地
+
+> My friend was **reluctant** to lend me money.
+> 我朋友不愿意借给我钱。
+
+> The store cut prices to attract **reluctant** shoppers.
+> 商店通过降低价格来吸引潜在的购物者。
+
+## 4. 签名sign表示向后re-转身离开的话，resign辞职
+
+<!-- 插图：一人手拿“辞职”信向后转身离开 -->
+
+::: {.etymo}
+企业的CEO业绩做得不好或者公务员 official 收受贿赂 bribe、贪污腐败 corruption 的话，就得辞职了。这时候使用的单词就是 resign，resign 中
+:::
+
+<!-- p.454 -->
+
+含有着单词sign签名。由此我们可以看出，resign的“辞职”义直接源于其词源义“签名表示自己要走”。要注意retire隐退与该词的区别，resign的名词是resignation，a letter of resignation是“辞职信”。最后还请大家记住一个熟语：resign oneself to听从，顺从，甘心于。
+
+- **resign** [rɪˈzaɪn] *v.* 辞职
+  - resign oneself to 听从于
+- **resignation** [ˌrezɪɡˈneɪʃn] *n.* 辞职，放弃
+  - a letter of resignation 辞职信
+- **resigned** [rɪˈzaɪnd] *adj.* 逆来顺受的，顺从的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词resign（辞职）的形容词resigned不是“辞职的”的意思，而是“顺从的、听从的”的意思！即，从某position辞职的话，其实就已经对所有事情都“想明白”、“想开了”。
+:::
+
+> Nixon was the first US President to **resign** before the end of his term of office.
+> 尼克松是美国第一个任期未满就辞职的总统。
+
+> She's **resigned** to spending Christmas on her own.
+> 自己过圣诞，她也认了。
+
+## 5. 将面纱veal掀到后面re-，reveal揭露，露出
+
+<!-- 插图：揭开头纱的新娘 -->
+
+::: {.etymo}
+面纱来源于外来词veil，reveal的词根veal是veil发音发生变化转化而成的，其词源义是“将面纱拿掉”，即“露出本来面目”的意思。去新车发布会你会发现，在新车亮相之前，车的上面都盖着一层veil。慢慢地将veil向后掀开，车的真实面目就露出来了，这就是reveal隐藏的义项“揭露，露出”。
+:::
+
+- **reveal** [rɪˈviːl] *vt.* 揭露，露出 =disclose, divulge, unveil
+  - reveal a secret 揭露秘密
+  - reveal the name of the officer 公开那个长官的名字
+- **revelation** [ˌrevəˈleɪʃn] *n.* 揭露，被揭露的真相
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家再看一下reveal的名词revelation的拼写形式！它是一个很容易写错的单词哦！
+:::
+
+> You're finally **revealing** your true colors.
+> 你终于露出了真实面目。
+
+> He was prosecuted for **revealing** secrets of the government.
+> 他因揭露了政府的秘密而被起诉。
+> （prosecute [ˈprɒsɪkjuːt] 起诉、告发、控告）
+
+> He resigned after **revelations** about his affair.
+> 他的风流韵事被揭露之后，他辞职了。
+
+<!-- p.455 -->
+
+## 6. 前 pro- 后 re(ci)- 收送 reciprocal 相互间的
+
+::: {.etymo}
+虽然 reciprocal 对我们来说是一个相对生疏的单词，但只要知道了它的前半部分 reci- 是“后”的意思，pro- 是“前”的意思，那 reciprocal 这个词就可以很容易记住了。一提到 reciprocal 这个词，大家自然而然就会联想到从某人那里收到某些东西，然后作为回报，将某物回赠给对方的场面。想一下“give and take 付出与回报”这种表达方式，就可以很容易理解了。“向后接受，向前赠送”就是 reciprocal 相互间的！
+:::
+
+<!-- 插图：一人推着轮子送给另一人，另一人递出兔子作为回赠 -->
+
+- **reciprocal** [rɪˈsɪprəkl] *adj.* 相互间的 =mutual
+  - a reciprocal relationship 相互关系
+  - a reciprocal visit 回访
+- **reciprocate** [rɪˈsɪprəkeɪt] *vi.* *vt.* 交换，交流 =exchange
+- **reciprocity** [ˌresɪˈprɒsəti] *n.* 相互作用
+
+> The American students come to our school, and then we make a **reciprocal** visit to theirs.
+> 美国学生来了我们学校后，我们也回访了他们的学校。
+
+> I only hope you provide me with a chance to **reciprocate** some time soon.
+> 我希望你给我一个报答你的机会。
+
+## 7. 将缰绳 frain 向后 re- 拉、refrain 拒绝、节制
+
+::: {.etymo}
+为了让奔跑的马儿速度减下来，就得向后拉缰绳 bridle。单词 refrain 中 frain 就是“缰绳”的意思。在其前加上前缀 re- 向后，词源义就变成了“向后拉缰绳”，单词义也就变成了“拒绝，节制”的意思。也就是说“将想做……的心向后拉，使其不能做”。比如，减肥的时候 When you go on a diet 忍着不吃那些想吃的东西就是 refrain。
+:::
+
+需要注意的是，refrain 作为不及物动词应以词组“refrain from+名词”的形式出现，refrain 与 abstain from 的词义是相同的。另外，refrain 作为名词时还有歌曲和诗中反复出现的“叠句，副歌”的意思，只是词源不同而已。
+
+<!-- 插图：禁烟标志 -->
+
+- **refrain** [rɪˈfreɪn] *vi.* 拒绝，节制 =abstain
+  - *n.*（诗、歌中的重复部分）叠句，副歌
+  - refrain from 克制，节制
+  - refrain from comment on the scandal 禁止评论丑闻
+
+::: {.mnemonic}
+**温馨小贴士**
+
+单词 refrain 与 abstain 都是不及物动词，它们常与介词 from 连用，在记这两个单词的时候，只要记住词组 refrain from 和 abstain from 就可以了！
+:::
+
+<!-- p.456 -->
+
+> Please **refrain from** smoking in the building.
+> 请不要在该建筑内吸烟。
+
+> The politician has **refrained from** criticizing the government in public.
+> 政客们克制着在公共场所评论政府。
+
+## 8. 留在身后 re- 自己独立离开 linqu，relinquish 抛弃/让步
+
+::: {.etymo}
+relinquish的词源义是“留在后面自己独自离开”，一般多作动词用于表示“抛弃”自己的地位和权力，或者向别人作出“让步”。此外，词根是linqu离开 (leave) 的单词还有delinquent，“疏忽职守的”意思。其词源义为“从自己的本职岗位上离开”。juvenile delinquent失足少年是使用频率较高的词组。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+含有词根linque-（离开：leave）的词汇：relinquish 将（权利和地位）留在身后独自离开 → 抛弃，让步；delinquent从自己的本职岗位上离开 → *n.* 疏忽职守的 *adj.* ① 犯罪的；② 拖欠的
+:::
+
+- **relinquish** [rɪˈlɪŋkwɪʃ] *vt.* 抛弃，让步 = renounce, surrender, give up
+  - relinquish A to B 把A交给B
+- **delinquent** [dɪˈlɪŋkwənt] *n.* 行为不良的人 = wrongdoer
+  - juvenile delinquent 少年犯
+
+> No one wants to **relinquish** power once they have it.
+> 一旦拥有了权利，没有人愿意放弃它。
+
+> The president **relinquished** control to his subordinate.
+> 总统将管理权下放给自己的手下。
+
+## 9. 经过后 re- 被咬 mors 觉得很疼，remorse 后悔，悔悟
+
+<!-- 插图：男子后悔曾经对离开的女友不够好，心想“在一起时/对你好点/的话~” -->
+
+::: {.etymo}
+“那时我为什么要那样做呢……”，“我要是对爸妈再好点儿该多好啊……”。我们总是后悔这后悔那，一直生活在对过去的后悔中。于是就出现了这么一句名言aphorism，即“活在当下！”单词remorse的词根morse是bite咬，使……疼的意思。“后悔”的本义是“后来觉得心痛”。大家一定要活在当下哦！如果不珍惜现在的话，以后肯定会remorse的哦！
+:::
+
+- **remorse** [rɪˈmɔːs] *n.* 后悔，悔悟 = regret, compunction, contrition
+  - show a sign of remorse 显示出后悔的迹象
+  - remorse for afflicting feeble friends 悔恨折磨软弱的朋友
+- **remorseful** [rɪˈmɔːsfʊl] *adj.* 悔恨的，懊悔的
+
+<!-- p.457 -->
+
+> She felt a pang of **remorse** for what she had done.
+> 她为自己所做的事感到痛心的悔恨。
+
+> Throughout the trial, he had shown no **remorse**.
+> 整个审讯，他没有显示出任何悔悟。
+
+> He was beside himself with **remorse**.
+> 他后悔得快疯了。（beside oneself 失去自制力，失常）
+
+## 10. 不能 re- 靠近，接近 proach，reproach 非难，责备；指责
+
+::: {.etymo}
+大家都知道 approach 接近这个词吧？其词根 proach 就是“接近”的意思，单词 reproach 由其词源义“使不能接近（错误的事儿）”变成了“非难，责备”的意思。比如，小时候不懂丢脸，去店铺偷东西被妈妈抓住的时候，妈妈会狠狠地训斥以后再也不能那么做了。之后，我们就再也不会做那种坏事儿了。这就是所谓的 reproach。
+:::
+
+<!-- 插图：拿着喇叭大声训斥的人 -->
+
+- **reproach** [rɪˈprəʊtʃ] *vt.* 非难，责备 = blame, scold, chide, reprove
+  *n.* 指责，责备 = rebuke, condemnation
+  - reproach A for B 责备A做了B
+  - reproach oneself for 因做了某事而自责
+  - beyond reproach 无可非议，无可厚非
+
+::: {.mnemonic}
+**温馨小贴士**
+
+approach 和 reproach 的比较
+approach 接近……，靠近；
+reproach 使……不能靠近（坏事儿）→“训斥，非难”
+:::
+
+> She **reproached** her son for his wrong behavior.
+> 她责备儿子的不良行为。
+
+> His behavior throughout this affair has been beyond **reproach**.
+> 在整个事件的处理过程中，他的行为都无可厚非。
+
+## 单词回顾
+
+::: {.etymo}
+1. 向后倒的东西
+   → 垃圾；拒绝 ______
+2. 向后使……变松的
+   → 释放；上映电影；发行，发布唱片或小说 ______
+3. 因为反对而挣扎
+   → 不情愿做某事，勉强的 ______
+4. 签名表示自己要转身离开
+   → 辞职 ______
+5. 将面纱掀到后面
+   → 揭露，露出 ______
+6. 前后收送
+   → 相互间的 ______
+7. 将缰绳向后拉
+   → 拒绝，节制 ______
+8. 留在身后，自己独自离开
+   → 抛弃，让步 ______
+9. 经过后被咬，觉得很疼
+   → 后悔，悔悟 ______
+10. 使……不能靠近
+    → 非难，责备；指责 ______
+:::
+
+> 答案 1. refuse 2. release 3. reluctant 4. resign 5. reveal 6. reciprocal 7. refrain 8. relinquish 9. remorse 10. reproach
+
+<!-- p.458 -->
+
+## 确认并攻克下列单词
+
+**一 请写出下面单词的词义。**
+
+1. reluctant ______  2. reveal ______
+3. reciprocal ______ 4. refrain ______
+5. remorse ______    6. reproach ______
+
+**二 请写出下列阴影标识部分的单词。**
+
+1. 我很难==拒绝== ______ 他的请求。
+2. 那个长官因为受绯闻的牵连，不得不==辞职== ______ 了。
+3. 他==承认==自己是有前科的人这一事实 ______。
+4. 这次合作会增进==相互间的== ______ 利益。
+5. 那个患者应该==控制== ______ 喝酒。
+6. 我不得不==放弃== ______ 了那个权利。
+7. 他==后悔== ______ 以前没能好好孝顺父母的，这让他心里特别难受。
+8. 在野党领导人==指责== ______ 了政府的政策。
+
+**三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。**
+
+1. She was ______ to reveal her secret.
+   A. released
+   B. reluctant
+   C. willing
+
+2. The psychiatrist encouraged her to ==reveal== her true feelings.
+   A. conceal
+   B. disprove
+   C. disclose
+
+3. Our foreign policy is based on ==reciprocal== benefit.
+   A. mutual
+   B. immutable
+   C. commuting
+
+4. He ______ himself for not telling her the truth.
+   A. approached
+   B. reproached
+   C. approved
+
+---
+
+## 本日词汇速查（18 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [refusal]{.headword} | rɪˈfjuːzəl | n | 拒绝，否决 |
+| [release]{.headword} | rɪˈliːs | vt | ①释放；②上映，发行；③排出，散发 |
+| [reluctance]{.headword} | rɪˈlʌktəns | n | 勉强，不情愿 |
+| [reluctantly]{.headword} | rɪˈlʌktəntli | adv | 勉强地 |
+| [resign]{.headword} | rɪˈzaɪn | v | 辞职 |
+| [resignation]{.headword} | ˌrezɪɡˈneɪʃn | n | 辞职，放弃 |
+| [resigned]{.headword} | rɪˈzaɪnd | adj | 逆来顺受的，顺从的 |
+| [reveal]{.headword} | rɪˈviːl | vt | 揭露，露出 =disclose, divulge, unveil |
+| [revelation]{.headword} | ˌrevəˈleɪʃn | n | 揭露，被揭露的真相 |
+| [reciprocal]{.headword} | rɪˈsɪprəkl | adj | 相互间的 =mutual |
+| [reciprocate]{.headword} | rɪˈsɪprəkeɪt | vi | *vt.* 交换，交流 =exchange |
+| [reciprocity]{.headword} | ˌresɪˈprɒsəti | n | 相互作用 |
+| [refrain]{.headword} | rɪˈfreɪn | vi | 拒绝，节制 =abstain |
+| [relinquish]{.headword} | rɪˈlɪŋkwɪʃ | vt | 抛弃，让步 = renounce, surrender, give up |
+| [delinquent]{.headword} | dɪˈlɪŋkwənt | n | 行为不良的人 = wrongdoer |
+| [remorse]{.headword} | rɪˈmɔːs | n | 后悔，悔悟 = regret, compunction, contrition |
+| [remorseful]{.headword} | rɪˈmɔːsfʊl | adj | 悔恨的，懊悔的 |
+| [reproach]{.headword} | rɪˈprəʊtʃ | vt | 非难，责备 = blame, scold, chide, reprove |
+

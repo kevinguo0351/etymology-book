@@ -1,0 +1,441 @@
+# Day 1 · 源于 Ceres 谷物女神的 cereal 谷物 {.unnumbered}
+
+::: {.root-banner}
+Day 1 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p18–p25
+
+<!-- p.3 -->
+
+大家知道吗，我们喜欢吃的谷粒麦片 cereal 就是源于古希腊或罗马神话的英语单词。将神话 mythology 中出现的诸神 god 与英语单词联系在一起学习，是不是很神奇？
+
+一旦知道英语单词的由来，您就大可不必为枯燥地背单词而烦恼了。通过了解这些单词的由来故事您可以轻松地记住它们。那么，源于神话故事的单词有哪些呢？让我们来穿越历史时空而旅行吧！
+
+**源于神话的单词**
+
+- ❶ **Ceres** 刻瑞斯（掌管耕种和谷物的女神）→ **cereal** 谷物；粮食
+- ❷ **Chaos** 卡俄斯（黑暗的空旷空间，混沌世界）→ **chaos** 混乱，紊乱
+- ❸ **Cronos** 克洛诺斯（能吞没世间万物的时间之神）→ **chronic** 慢性的
+- ❹ **Cupid** 丘比特（爱神）→ **cupidity** 贪欲
+- ❺ **Gigantes** 癸干忒斯（拥有巨大身躯的巨人族）→ **gigantic** 巨大的
+- ❻ **Hygeia** 海吉亚（健康女神）→ **hygienic** 卫生的，保健的
+- ❼ **Hypnos** 许普诺斯（夜幕降临后的睡神）→ **hypnotize** 使精神恍惚
+- ❽ **Zelos** 泽洛斯（掌管竞争、嫉妒的女神）→ **jealousy** 嫉妒
+- ❾ **Juventas** 尤瑞特斯（掌管永远年轻的青春女神）→ **juvenile** 年轻的
+- ❿ **Lethe** 忘河（黄泉路上要过的忘却之河）→ **lethal** 致命的
+
+<!-- p.4 -->
+
+## 1. 源于 Ceres 谷物女神的 cereal 谷物
+
+<!-- 插图：吃早餐麦片的小女孩 -->
+
+::: {.etymo}
+今天早晨仍有很多人急匆匆地出门，没能好好地吃 breakfast 早餐而只吃了 cereal 麦片吧？cereal 一词源于掌管耕种和谷物的女神，这位女神叫 Ceres。这样，源于 Ceres 的 cereal 便有了“谷物，谷物类”的意思。从现在起，每次吃 cereal 的时候都想一想 Ceres 女神吧！
+:::
+
+- **cereal** [ˈsɪəriəl] *n.* 1. 谷物；2.（可代替早餐的）谷物产品
+  - cereal crops 谷类作物
+  - a bowl of breakfast cereal 一碗谷物早餐
+
+> We produce **cereal crops** such as wheat and rice.
+> 我们种植小麦和稻谷之类的谷类作物。
+
+> The breakfast **cereal** industry is highly profitable.
+> 谷物早餐加工业是高利润的行业。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**属于 Crop（谷物）类作物的单词**
+rice 稻谷 brown rice 糙米
+barley 大麦 bean 大豆
+wheat 小麦 oats 燕麦
+pea 豌豆 buckwheat 荞麦
+sesame 芝麻
+perilla 紫苏类作物
+red-bean 红豆
+:::
+
+---
+
+## 2. 源于 Chaos 创造天地未出现前的混沌世界，chaos 混沌，混乱
+
+<!-- 插图：宇宙初开混沌漩涡 -->
+
+::: {.etymo}
+希腊神话中，chaos 表示宇宙 universe 诞生之前“什么都不存在的、黑暗的、荒芜的原始状态”。所以，chaos 就是没有任何秩序 order 的“混乱，无秩序”的意思。
+:::
+
+要注意的是 chaos 的正确发音不是“[kaʊs]”而是“[ˈkeɪɒs]”。
+
+- **chaos** [ˈkeɪɒs] *n.* 混乱，混沌 = confusion, disorder
+  - in chaos 无秩序的，一片混乱
+  - fall into economic chaos 陷入经济混乱
+- **chaotic** [keɪˈɒtɪk] *adj.* 混乱的，无秩序的
+
+> The kitchen was **in chaos** after the party.
+> 派对过后，厨房一片狼藉。
+
+> The earthquake caused total **chaos** throughout the region.
+> 地震导致整个地区完全陷入混乱。
+> （earthquake [ˈɜːθkweɪk] 地震）
+
+<!-- p.5 -->
+
+## 3. 源于 Cronos 时间之神的 chronic 慢性的，长时间的
+
+<!-- 插图：克洛诺斯在钟表里吞吃孩子的卡通插图 -->
+
+::: {.etymo}
+希腊神话中众神之王是宙斯 Zeus，宙斯的父亲正是克洛诺斯 Cronos。Cronos 作为掌管时间的神，因为害怕 fear 子女抢走自己的支配权，于是便把出生的全部孩子都吃掉了。这个由 cronos 变形而成的 cron 便表示时间的词根 chron。而由词根 chron 所生成的 chronic 由其词源义“很长时间”引申为“慢性的”意思。“慢性头痛”即 chronic headache，“慢性疲劳症候群”就是 chronic fatigue syndrome!
+:::
+
+- **chronic** [ˈkrɒnɪk] *adj.* 长期的，慢性的
+  - chronic headache 慢性头痛
+  - chronic arthritis (asthma/heart disease) 慢性关节炎（气喘／心脏病）
+  - chronic fatigue syndrome 慢性疲劳综合症
+  - chronic unemployment 长期失业
+- **chronologically** [ˌkrɒnəˈlɒdʒɪkli] *adv.* 按年代的
+- **chronicle** [ˈkrɒnɪkl] *n.* 编年史 *vt.* 把……载入编年史
+- **anachronism** [əˈnækrənɪzəm] *n.* 不合时宜的人或物
+- **synchronous** [ˈsɪŋkrənəs] *adj.* 同时的，同步的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请大家注意：Cronos 中 cron 的拼写变成了 chron！很多人因忽略这个细节而经常写错。
+:::
+
+> I have **chronic** indigestion.
+> 我患有慢性消化不良症。
+> （indigestion [ˌɪndɪˈdʒestʃən] 消化不良）
+
+> The **chronic** malingerer was finally fired.
+> 通过长期装病来逃避责任的人最终被开除了。
+> （malingerer [məˈlɪŋɡərə] 装病逃避责任的人）
+
+---
+
+## 4. 源于 Cupid 欲望之神的 cupidity 物质上的贪欲，贪心
+
+<!-- 插图：丘比特手持爱心和弓箭的插图 -->
+
+::: {.etymo}
+大家都听过 Cupid's arrow 丘比特之箭吧？丘比特随身携带着黄金利箭和铅头钝箭两支箭。如果被射到黄金箭，就会一见钟情；如果被射到铅头箭，则会讨厌对方。在罗马神话中，Cupid 是象征着爱情 love 和欲望 desire 的神，由此产生了 cupidity 贪欲这个词。此外，希腊神话中的丘比特 cupid 在罗马神话中以爱神 Eros 的身份登场（Cupid=Eros）。本来 Eros 象征着肉体上的爱 physical love，于是 erotic 便有了“与性有关的，色情的”的意思。
+:::
+
+**Voca Map**
+- Cupid 丘比特 ＝ Eros 伊洛斯
+  - ↓
+  - **cupidity** 贪心 ‖ **erotic** 色情的
+  - ↓
+  - **covet** 贪婪
+  - ↓
+  - **covetous** 贪婪的
+
+<!-- p.6 -->
+
+- **cupidity** [kjuːˈpɪdətɪ] *n.*（物质上的）贪欲，贪心
+- **covet** [ˈkʌvɪt] *vt.&vi.* 贪婪
+- **covetous** [ˈkʌvətəs] *adj.* 贪婪的
+- **erotic** [ɪˈrɒtɪk] *adj.* 色情的
+  - erogenous zone（身体的）性感带
+
+> His **cupidity** for money is beyond imagination.
+> 他对金钱的贪欲远远超出想象。
+
+> They began to cast **covetous** eyes on their neighbors' fields.
+> 他们开始觊觎邻居的土地。
+
+## 5. 源于 Gigantes 巨人族的 gigantic 巨大的
+
+<!-- 插图：巨人族怪物 -->
+
+::: {.etymo}
+希腊神话中，癸干忒斯是有着巨人身躯和蛇的下身的“巨人族”。源于gigantes巨人族的英语单词giant即为“巨人“的意思。另外，giant若写成gigantic的话，便有了“巨大的extremely big”意思。值得注意的是gigantic的发音是[dʒaɪˈɡæntɪk]，而不是[dʒaɪˈdʒæntɪk]。
+:::
+
+- **gigantic** [dʒaɪˈɡæntɪk] *adj.* 巨大的=huge, vast, enormous, immense, colossal
+  - a gigantic tree 一棵大树
+  - a gigantic statue of Buddha 一尊大佛像
+- **giant** [ˈdʒaɪənt] *n.* 巨人
+
+::: {.mnemonic}
+**温馨小贴士**
+
+giant 巨人
+gigantic 巨大的
+:::
+
+> The city has a lot of **gigantic** skyscrapers.
+> 这个城市有很多摩天大楼。
+> （skyscraper [ˈskaɪˌskreɪpə] 摩天大楼，超高层大楼）
+
+> **Gigantic** waves more than 40 feet high crashed against the boat.
+> 40多英尺高的巨浪冲毁了船只。
+
+## 6. 源于健康女神 Hygeia 的 hygiene 卫生
+
+<!-- 插图：女神拿着药罐 -->
+
+::: {.etymo}
+希腊神话中有位拥有起死回生之术medicine的神，她就是Asclepius阿斯克勒庇俄斯。医药之神Asclepius有两个儿子和五个女儿，其中两个女儿分别是能治百病的女神Panakeia帕那刻亚和健康女神Hygeia海吉亚。“万灵药”panacea和“卫生”hygiene就源于这两位女神，“hygienic”是形容词，意为“卫生的”。
+:::
+
+**Voca Map：Medicine 医术之神**
+- panakeia 治疗女神 → panacea 万灵药 ‖ cure-all
+- Hygeia 健康女神 → hygienic 卫生的 ‖ sanitary
+
+<!-- p.7 -->
+
+- **hygiene** [ˈhaɪdʒiːn] *n.* 卫生保健
+- **hygienic** [haɪˈdʒiːnɪk] *adj.* 卫生的 =sanitary
+  - check over hygienic conditions 检查卫生条件
+- **panacea** [ˌpænəˈsiːə] *n.* 万能药 =cure-all
+
+> The hospital keeps perfect **hygiene**.
+> 医院的卫生条件保持得非常好。
+
+> **Hygienic** conditions are poor at hospitals in the war zone.
+> 战区医院的卫生状况很糟糕。
+
+> The government cannot offer a **panacea** for all problems.
+> 政府不可能提供解决所有问题的万能药。
+
+## 7. 源于睡眠之神 Hypnos 许普诺斯的 hypnotize 催眠，使着迷
+
+<!-- 插图：许普诺斯在云朵上睡觉 -->
+
+::: {.etymo}
+希腊神话里Hypnos许普诺斯是睡眠之神。从醒着的进入睡眠slumber状态的角度来讲，它与催眠也有些关联。含有“催眠，使……着迷”之意的hypnotize源自于hypnos。
+:::
+
+Hypnos进入罗马神话，就变成了Somnus索姆纳斯。也就是说，Hypnos与Somnus同指睡眠之神，所以可以将somn作为“睡觉”之意的词根。晚上睡不着觉的症状叫做“失眠”，用英语表达就是insomnia。用词源将该词分解的话就是in-（not）+somn睡觉（sleep）+ia症状（symptom）→睡不着觉的症状。另外，somnolent是“困”sleepy的意思。
+
+- **hypnotize** [ˈhɪpnətaɪz] *vt.* 使催眠，使着迷 =mesmerize
+- **hypnosis** [hɪpˈnəʊsɪs] *n.* 催眠状态
+- **hypnotic** [hɪpˈnɒtɪk] *adj.* 催眠的，易被催眠的 *n.* 安眠药
+- **insomnia** [ɪnˈsɒmnɪə] *n.* 失眠症
+- **somnolent** [ˈsɒmnələnt] *adj.* 使人瞌睡的，催眠的
+
+**Voca Map**
+- Hypnos（希腊神话中的睡眠之神）= Somnus（罗马神话中的睡眠之神）
+  - Hypnos ↓
+    - hypnotize 使催眠、使着迷
+      - ↓
+    - hypnosis 催眠状态
+  - Somnus ↓
+    - somnolent 想睡的
+      - ↓
+    - insomnia 失眠症
+
+> I was completely **hypnotized** by her remarkable beauty.
+> 我被她惊人的美貌深深地迷住了。
+
+> I have suffered from **insomnia** for a long time.
+> 我已经深受失眠症困扰很长一段时间了。
+
+> Because of his **somnolent** voice, students find it difficult to concentrate in his classes.
+> 他的声音让人犯困，所以学生们觉得在他的课堂上很难集中精神。
+
+<!-- p.8 -->
+
+## 8. 源于嫉妒之神 Zelos 泽洛斯的 jealousy 嫉妒
+
+::: {.etymo}
+希腊神话中掌管竞争和嫉妒的女神是 Zelos 泽洛斯。由它同时产生了 jealousy 嫉妒和 zeal 热情这两个词。大家试想一下，如果自己喜欢的对象对别的异性献殷勤的话，你会不会心生“嫉妒”？这正因为你对那个男人有 zeal 热情，所以才会产生 jealousy 嫉妒。如果没有热情是不会产生嫉妒的。请大家记住，zeal 和 jealousy 都是源于专管竞争和嫉妒女神 Zelos 的单词！
+:::
+
+- **jealousy** [ˈdʒeləsi] *n.* 妒忌
+- **jealous** [ˈdʒeləs] *adj.* 嫉妒的
+- **zeal** [ziːl] *n.* 激情 = passion
+- **zealot** [ˈzelət] *n.* 狂热分子
+
+> Why are you so **jealous** of her success?
+> 为什么你对她的成功如此妒忌？
+
+> He began the work with **zeal**.
+> 他满怀激情地开始了工作。
+
+> The radical politician was killed by a young rightist **zealot**.
+> 那个激进的政治家被一个年轻的右翼狂热分子给杀害了。
+
+**Voca Map**
+- Zelos 嫉妒女神
+  - ↓
+    - jealousy 妒忌
+      - ↓
+      - jealous 嫉妒的
+    - zeal 激情
+      - ↓
+      - zealot 狂热分子 ‖ fanatic 狂热的
+
+---
+
+## 9. 来自于青春女神 Juventas 尤瑞特斯的 juvenile 年轻的，青少年的
+
+::: {.etymo}
+罗马神话中 Juventas 尤瑞特斯是永远年轻的青春 youth 女神。词根 juven 源于 juventas，意为“年轻 young”。于是由其派生的单词“juvenile”便有了“年轻的，青少年的”之意。而 juvenile delinquent 就是“飞行少年”，juvenile delinquency 就是“青少年犯罪”的意思。这两个词组很重要，请大家一定要记住哦！
+:::
+
+还记得意大利足球队中有个叫 Juventus 尤文图斯的著名球队吧？这个球队的名字也源自于 juven，翻译成中文就是“年轻人”的意思。
+
+- **juvenile** [ˈdʒuːvənaɪl] *adj.* 年轻的，青少年的 = adolescent
+  - juvenile books 青少读物
+  - a juvenile court 少年法庭
+- **rejuvenate** [rɪˈdʒuːvəneɪt] *v.* 使年轻，使复原 = revive
+  - plans to rejuvenate the inner city areas 振兴内陆地区的计划
+
+> **Juvenile** crime is increasing in big cities.
+> 大城市的青少年犯罪案件一直在增加。
+
+<!-- p.9 -->
+
+> He didn't want to be a **juvenile delinquent**.
+> 他并不想成为少年流氓。
+
+> Having a sauna can **rejuvenate** the skin and improve one's health.
+> 桑拿浴能够给皮肤注入活力，改善人们的健康。
+
+## 10. 源于隔开生死的忘却之河Lethe忘河，lethal致命的，致死的
+
+::: {.etymo}
+希腊神话中Lethe是分隔生与死的河。人如果死了，不可避免地inevitably都要穿过这条河。过河的时候，因为口渴而不得不喝水。但是，如果喝了Lethe的水，那么今生的记忆就会全部被抹去。因此，该河亦被称为“忘却oblivion之河”。因Lethe是抵达阴曹地府之河，所以lethal致命的，致死的这个单词就诞生了。此外，由“像死了一样的”词源义派生出来的“lethargic”一词是“昏睡的，困倦的，无生气的”意思，请大家将这个词也一起记住哦！
+:::
+
+**Voca Map**
+- Lethe 忘却的河
+  ↓
+- lethal 致命的
+  ↓
+- lethargic 昏睡的，无生气的，困倦的
+
+- **lethal** [ˈliːθl] *adj.* 致命的，危险的
+  - lethal dose 致命剂量
+  - lethal blow 致命一击
+  - lethal weapon 致命武器
+- **lethargic** [leˈθɑːdʒɪk] *adj.* 昏睡的，无生气的，困倦的
+
+> A **lethal** new influenza has appeared in Mexico.
+> 一种新型致命的流感在墨西哥出现。
+
+> He drank a **lethal dose** of poison.
+> 他喝了足以致命剂量的毒药。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 源于谷物女神 Ceres  
+   → 谷物 ______
+:::
+
+2. 源于创造天地之前混沌状态的 chaos  
+   → 混沌 ______
+
+3. 源于时间之神 Cronos  
+   → 慢性的，很长时间的 ______
+
+4. 源于欲望之神 Cupid  
+   →（物质上的）贪欲，贪心 ______
+
+5. 源于巨人族 Gigantes  
+   → 巨大的 ______
+
+6. 源于健康女神 Hygeia  
+   → 卫生 ______
+
+7. 源于睡眠之神 Hypnos  
+   → 催眠，使着迷 ______
+
+8. 源于嫉妒女神 Zelos  
+   → 嫉妒 ______
+
+9. 源于永远年轻的青春女神 Juventas  
+   → 年轻，青少年的 ______
+
+10. 源于隔开生死的忘却之江 Lethe  
+    → 致命的，致死的 ______
+
+答案 1. cereal 2. chaos 3. chronic 4. cupidity 5. gigantic 6. hygiene 7. hypnotize 8. jealousy 9. juvenile 10. lethal
+
+<!-- p.10 -->
+
+## 单词检测
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. chaos ______  2. chronic ______
+3. hygienic ______  4. zeal ______
+5. juvenile ______  6. lethal ______
+:::
+
+## 二、请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 他患了慢性______疾病。
+2. 那个城市陷入混乱______。
+3. 应该更加警惕青少年______犯罪。
+4. 应该检查卫生间的卫生______情况。
+5. 我们向巨大的______佛像行礼。
+6. 她的美貌让很多男人着迷______。
+7. 我们早餐吃麦片______。
+8. 那条蛇有致命的______剧毒。
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. Parents can be held liable for the wrong doings of their juvenile children.
+   A. adulterous    B. adulthood    C. adolescent
+:::
+
+2. Hygienic conditions are poor at this hospital.
+   A. Sanitary    B. Sanitation    C. Sanitized
+
+3. He passed away from a ______ disease.
+   A. wrong    B. chronic    C. liberal
+
+4. We were totally ______ by her wonderful performance.
+   A. hypnotism    B. hypnotizing    C. hypnotized
+
+---
+
+## 本日词汇速查（29 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [cereal]{.headword} | ˈsɪəriəl | n | 1. 谷物；2.（可代替早餐的）谷物产品 |
+| [chaos]{.headword} | ˈkeɪɒs | n | 混乱，混沌 = confusion, disorder |
+| [chaotic]{.headword} | keɪˈɒtɪk | adj | 混乱的，无秩序的 |
+| [chronic]{.headword} | ˈkrɒnɪk | adj | 长期的，慢性的 |
+| [chronologically]{.headword} | ˌkrɒnəˈlɒdʒɪkli | adv | 按年代的 |
+| [anachronism]{.headword} | əˈnækrənɪzəm | n | 不合时宜的人或物 |
+| [synchronous]{.headword} | ˈsɪŋkrənəs | adj | 同时的，同步的 |
+| [cupidity]{.headword} | kjuːˈpɪdətɪ | n | （物质上的）贪欲，贪心 |
+| [covet]{.headword} | ˈkʌvɪt | vt.&vi | 贪婪 |
+| [covetous]{.headword} | ˈkʌvətəs | adj | 贪婪的 |
+| [erotic]{.headword} | ɪˈrɒtɪk | adj | 色情的 |
+| [gigantic]{.headword} | dʒaɪˈɡæntɪk | adj | 巨大的=huge, vast, enormous, immense, colossal |
+| [giant]{.headword} | ˈdʒaɪənt | n | 巨人 |
+| [hygiene]{.headword} | ˈhaɪdʒiːn | n | 卫生保健 |
+| [hygienic]{.headword} | haɪˈdʒiːnɪk | adj | 卫生的 =sanitary |
+| [panacea]{.headword} | ˌpænəˈsiːə | n | 万能药 =cure-all |
+| [hypnotize]{.headword} | ˈhɪpnətaɪz | vt | 使催眠，使着迷 =mesmerize |
+| [hypnosis]{.headword} | hɪpˈnəʊsɪs | n | 催眠状态 |
+| [hypnotic]{.headword} | hɪpˈnɒtɪk | adj | 催眠的，易被催眠的 *n.* 安眠药 |
+| [insomnia]{.headword} | ɪnˈsɒmnɪə | n | 失眠症 |
+| [somnolent]{.headword} | ˈsɒmnələnt | adj | 使人瞌睡的，催眠的 |
+| [jealousy]{.headword} | ˈdʒeləsi | n | 妒忌 |
+| [jealous]{.headword} | ˈdʒeləs | adj | 嫉妒的 |
+| [zeal]{.headword} | ziːl | n | 激情 = passion |
+| [zealot]{.headword} | ˈzelət | n | 狂热分子 |
+| [juvenile]{.headword} | ˈdʒuːvənaɪl | adj | 年轻的，青少年的 = adolescent |
+| [rejuvenate]{.headword} | rɪˈdʒuːvəneɪt | v | 使年轻，使复原 = revive |
+| [lethal]{.headword} | ˈliːθl | adj | 致命的，危险的 |
+| [lethargic]{.headword} | leˈθɑːdʒɪk | adj | 昏睡的，无生气的，困倦的 |
+

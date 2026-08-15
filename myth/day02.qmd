@@ -1,0 +1,405 @@
+# Day 2 · 被 Luna 月亮女神所诱惑，半夜里出来乱晃，lunatic 疯了 {.unnumbered}
+
+::: {.root-banner}
+Day 2 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p26–p33
+
+<!-- p.11 -->
+
+在万物都陷入沉睡的夜晚，猛然睁开眼，起身到处乱转的人，可能正常吗？疯了吧？有趣的是，英语里表示“疯了”之意的单词是 lunatic，而 lunatic 正源于希腊罗马神话中的月亮女神 Luna。如果您知道了神的名字，不仅可以记住这个单词，还可以增加常识 common sense，没有比这更好的事了吧 It couldn't be better!
+
+<!-- 插图：月亮女神 Luna 坐在月亮上 -->
+
+**源于神话**
+
+- 1 Luna 月亮女神露娜 → **lunatic** 精神错乱的、疯狂的
+- 1 Psyche 支配灵魂、精神的女神普赛克 → **psychiatrist** 精神病医生、精神病专家
+- 1 Nyx 支配黑夜的女神尼克斯 → **nocturnal** 在夜间的、（指生物）夜间活动的
+- 1 Tantalus 受饥饿和口渴之苦的坦塔罗斯 → **tantalize** 逗弄、引诱、折磨
+- 1 Mesmer 催眠法创始人麦斯默 → **mesmerize** 施催眠术、迷惑、迷住
+- 1 Titan 巨人族泰坦 → **titanic** 十分巨大的、庞大的
+- 1 Pan 带来噩梦和恐怖的牧神潘 → **panic** 惶恐的、惊慌失措的
+- 1 Venus 爱情与美的女神维纳斯 → **venerate** 憧憬、尊敬
+- 1 Mars 战争之神马尔斯 → **martial** 军事的、战争的
+- 1 Vulcan 火与锻冶之神伏尔甘 → **volcano** 火山
+
+<!-- p.12 -->
+
+## 1. 源于 Luna 让人疯狂的月亮女神 的 lunatic 疯了
+
+<!-- 插图：月亮女神与发疯的人 -->
+
+::: {.etymo}
+古代每当黑夜降临，月亮就会升起，人们就会去睡觉。而晚上不睡觉到处晃荡的人都会被视为精神不正常的人。在罗马神话中，Luna露娜是掌管睡眠的月亮moon女神。过去西方人相信月亮能对人的精神产生直接影响influence，那些直接吸收月亮精气soul的人会疯掉。于是，单词lunatic就是“疯了”的意思。
+:::
+
+- **lunatic** [ˈluːnətɪk] *adj.* 疯的 = mad, crazy, insane, maniacal
+  *n.* 疯人，愚蠢的人
+  - lunatic asylum 精神病院 = mental hospital
+  - lunatic fringe 极端主义者
+- **lunar** [ˈluːnə] *adj.* 农历的
+  - lunar calendar 农历
+
+> I think he is a **lunatic**. 我以为他是个疯子。
+
+> That stranger is a dangerous **lunatic**! 那个陌生人是个危险的精神病人！
+
+::: {.mnemonic}
+**温馨小贴士**
+
+表“疯狂的”词语汇总&辨析
+**mad** [mæd]（口语中经常使用的）1. 疯狂的；2. 愚蠢的
+**crazy** [ˈkreɪzɪ]（与mad一样，经常用于口语）1. 疯狂的；2. 荒唐的，着迷的
+**lunatic** [ˈluːnətɪk]（用于精神异常者）疯狂的，精神错乱的
+**insane** [ɪnˈseɪn]（精神科医生所使用的专业词汇）患精神病的，精神错乱的
+**maniacal** [məˈnaɪəkəl]（像疯人一样）发狂的，癫狂的
+**demented** [dɪˈmentɪd]（因生气或担心）发狂的，疯狂的
+:::
+
+## 2. 源于黑夜女神 Nyx 尼克斯 的 nocturnal 在夜间的，夜间发生的
+
+<!-- 插图：黑夜女神 Nyx -->
+
+::: {.etymo}
+当夜幕降临，月亮升起的话，整个世界就被黑暗所覆盖。这正是因为黑夜女神Nyx尼克斯的原因。Nyx是连众神之王Zeus宙斯也不敢轻易得罪的强势女神goddess。由Nyx派生出“夜晚night”的词根noct。于是单词nocturnal夜的，夜间的也随之生成。若记住了nocturnal，那将请将它的反义词diurnal白天的也一起背下来吧！这样可以提高记忆效率哦。
+:::
+
+- **nocturnal** [nɒkˈtɜːnl] *adj.* 夜的，夜间的
+  - nocturnal animals 夜行动物
+- **diurnal** [daɪˈɜːnl] *adj.* 每日的，白天的
+  - diurnal animals such as cows 像牛一样的昼行动物
+
+> The rare disease was discovered in the **nocturnal** mammals.
+> 这种罕见的疾病是在夜间活动的哺乳动物中发现的。
+
+> Many animal species are **diurnal**, including many mammals and birds, and humans.
+> 很多动物都是日间活动的，这其中包括众多哺乳动物、鸟类以及人类。
+
+<!-- p.13 -->
+
+## 3. 源于混淆神智的医生 Mesmer 麦斯默，mesmerize 使着迷
+
+<!-- 插图：医生拿着怀表在给坐在椅子上的病人进行催眠 -->
+
+::: {.etymo}
+您被催眠 hypnotize 过吗？那种精神恍惚的 muzzy 状态……18 世纪后期，首次引入催眠术的是澳大利亚一位叫 Mesmer 麦斯默的医生。就连现在，人们都还觉得催眠是件很神奇的事，更何况当时的人们呢。让被催眠者坐在椅子上，慢慢地使其灵魂出窍，不得不说这的确是件令人震惊的事。之后，Mesmer 的“催眠事件”迅速传遍整个欧洲，最后源于“灵魂出窍”之意的“使……着迷”一词 mesmerize 便产生了。很有意思吧？
+:::
+
+- **mesmerize** [ˈmezməraɪz] *vt.* 施催眠术，迷惑 = captivate, hypnotize, enthrall
+- **mesmerizing** [ˈmezməraɪzɪŋ] *adj.* 迷惑人的
+  - the children who were mesmerized by computer games 痴迷于电脑游戏的孩子们
+
+> The sweet music left me **mesmerized**.
+> 美妙的音乐让我沉迷。
+
+> The first time I saw Jessica I was **mesmerized** by her beauty.
+> 看到杰西卡的第一眼，我就被她的美貌迷住了。
+
+## 4. 源于令人怕得发抖的牧神 Pan 潘的 panic （茫然的）恐怖
+
+<!-- 插图：半人半羊的牧神潘突然跳出来吓唬路过的旅人 -->
+
+::: {.etymo}
+牧神 Pan 潘是生活在山野上守护家畜 livestock 的神。他的上半身是人形，头上顶着山羊角，下半身长着山羊腿。牧神 Pan 是位喜欢恋爱、舞蹈和音乐并开朗的神，他很喜欢搞恶作剧 practical joke，尤其喜欢突然出现在经过田野的旅人面前，大声叫着吓唬对方。所以，对于出远门的人来说，Pan 就成了不知道什么时候会出现、令人产生莫名恐怖感的代名词。由此产生的单词便是 panic 莫名的恐惧、强烈的不安。在股票市场上也经常 frequently 使用“panic”这个外来词吧？
+:::
+
+<!-- p.14 -->
+
+- **panic** [ˈpænɪk] *n.* 恐慌，惊慌 =fear, fright
+  *v.* 感到恐慌
+  - get into a panic 紧张起来、陷入慌乱
+  - in a state of panic 恐慌的状态
+
+> She **got into a panic** when she couldn't find the tickets.
+> 她找不到票，一下子紧张起来。
+
+> All investors in the stock market are **in a state of panic**.
+> 股市里所有的投资者都陷入了极度的恐慌状态。
+
+## 5. 源于无人匹敌的战争之神 Mars 马尔斯的 martial 战争的
+
+<!-- 插图：驾驶战车的战神马尔斯 -->
+
+::: {.etymo}
+您知道吗？3月March、行进march、火星Mars，这三个词都源于“战神Mars”这个词。对古罗马人来说，March三月是战争月。冻了一冬天的冰，到了3月才融化，只有到了这个时间才可以出征打仗。出征打仗的时候，军人们的行军march在我们看来就像是被血染过的战场一样。如果将战场视为行星planet，那么这颗行星便是火星Mars。于是，由战神Mars派生出martial战争的，好战的一词。
+:::
+
+- **Mars** [mɑːz] *n.* 火星
+- **martial** [ˈmɑːʃl] *adj.* 军事的，好战的 =hostile
+  - martial art 武术，护身术（跆拳道，柔道等）
+  - martial law 戒严令
+
+**Voca Map**
+- Mars 战争之神马尔斯
+  - → Mars 火星
+  - → martial 军事的，好战的
+  - → March 三月
+
+> **Martial arts** can give you strong confidence and courage.
+> 武术可以增强人们的信心和勇气。
+
+> The government declared **martial law** in response to the violence in the region.
+> 政府颁布了戒严令以应对该区的暴乱。
+
+## 6. 源于支配灵魂、精神的女神 Psyche 普赛克的 psychiatrist 精神科医生
+
+::: {.etymo}
+还记得前面学过的Cupid丘比特吧？Psyche普赛克正是Cupid的爱人。Psyche是掌控人的精神mind的女神。由其产生的含有“精神”之意的词根psychi便诞生了。我们经常把“精神病人”称为psyco疯子，治疗疯子
+:::
+
+<!-- p.15 -->
+
+<!-- 插图：丘比特与普赛克抱在一起 -->
+
+的医生正是psychiatrist精神科医生。由这两个词的共同词源所产生的单词正是psychology心理学。请大家背单词的时候，顺便把psychic精神的、心灵的也一起记下来吧！
+
+- **psychiatrist** [saɪˈkaɪətrɪst] *n.* 精神病医生
+- **psychiatric** [ˌsaɪkɪˈætrɪk] *adj.* 精神病学的，治疗精神病的
+- **psychology** [saɪˈkɒlədʒi] *n.* 心理学
+- **psychic** [ˈsaɪkɪk] *adj.* 心灵的，灵魂的
+- **psychiatry** [saɪˈkaɪətri] *n.* 精神病学
+
+> Her **psychiatrist** told her she no longer needed to take tranquilizers.
+> 她的精神科医师告诉她不必再服用镇定剂了。
+> （tranquilizer [ˈtræŋkwəˌlaɪzə] 镇定剂）
+
+> I made an appointment to see a **psychiatrist** the following week.
+> 下周我预约了一位精神科医生。
+> （appointment [əˈpɔɪntmənt] 任命，约定）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+最近“精神变态者（psychopath）”这个词的使用频率很高。这个词意思是是指进行很多冲动的、偶然性犯罪的“反社会人格障碍者”。
+:::
+
+## 7. 源于饱受饥渴之苦的 Tantalus 坦塔罗斯，tantalize 吊胃口，逗弄
+
+::: {.etymo}
+Zeus宙斯的儿子Tantalus坦塔罗斯是个普通的人，他曾是掌管人类世界的王。有一天，Tantalus偷吃了神灵餐桌上的神酒nectar和食物ambrosia，做出了想要变成神的鲁莽的foolhardy举动。于是，愤怒的Zeus给了Tantalus一辈子都口渴thirst的惩罚。掉入河中的Tantalus的头上是一棵结满果实的树。如果坦塔罗斯想吃果实而不得不伸长脖子的话，树上的果实也会随之向上升；坦塔罗斯口渴了，想低头喝水的话，水面就会下降。这就是宙斯对他的恶毒惩罚。源自于该神话故事的单词就是tantalize吊人胃口、逗弄。
+:::
+
+<!-- 插图：Tantalus泡在水里伸手够树上的果子 -->
+
+- **tantalize** [ˈtæntəlaɪz] *v.* 逗弄，使干着急 = tease
+  - a voluptuous actress who tantalizes the male 一个性感的女演员搔首弄姿地挑逗着男人们
+- **tantalizing** [ˈtæntəlaɪzɪŋ] *adj.* 逗人的，惹人的，煽情的
+
+> The **tantalizing** smell of barbecue was in the air.
+> 空气中弥漫着诱人的烤肉味。
+
+> Don't **tantalize** me. Just come out with it.
+> 别让我着急，痛快点，快说吧。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**Come out with it to me.** 跟我说说。
+\* 这句话是口语里常用的惯用表达，一定要记住哦！
+:::
+
+<!-- p.16 -->
+
+## 8. 源于巨神族 Titan 泰坦的 titanic 巨大的
+
+<!-- 插图：希腊神话泰坦巨人 -->
+
+::: {.etymo}
+以1912年沉没于大西洋海底的客船Titanic泰坦尼克号为背景拍摄的电影，赚取了很高的人气popularity。这条客船的名字titanic巨大的就源于希腊神话的巨人族Titan泰坦。它与前面我们所学过的gigantic是同义词。
+:::
+
+- **titanic** [taɪˈtænɪk] *adj.* 巨大的 = enormous, immense, gigantic
+  - a titanic event 重大事件
+  - the titanic force 重要的力量
+
+> I could scarcely imagine such a **titanic** event.
+> 我很难想象这么重大的事情。
+
+> What is trivial to one person may raise **titanic** questions for someone else.
+> 对一些人而言可能微不足道，但对其他人而言却是很严重的问题。
+
+---
+
+## 9. 源于爱情与美丽女神 Venus 维纳斯的 venerate 尊敬
+
+<!-- 插图：贝壳上的维纳斯女神 -->
+
+::: {.etymo}
+在罗马神话的诸女神goddess中，我们最耳熟的就是Venus维纳斯！Venus是掌管爱情与美的女神。单词venerate尊敬即源于此词。其实，尊敬不就是非常喜欢对方，爱着对方吗？Venerate的尊敬程度要比respect更高些。Venus另外还有“金星”的意思。值得一提的是Venus在希腊神话里是Aphrodite阿佛洛狄忒。而源于Aphrodite（Venus）的月份即为April四月，有意思吧？
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+- solar system 太阳系
+- Mercury 水星
+- Venus 金星
+- Earth 地球
+- Mars 火星
+- Jupiter 木星
+- Saturn 土星
+- Uranus 天王星
+- Neptune 海王星
+:::
+
+- **venerate** [ˈvenəreɪt] *vt.* 尊敬，崇拜 = respect, esteem
+  - be venerated as saint 被尊为圣人
+- **veneration** [ˌvenəˈreɪʃən] *n.* 尊敬，崇拜
+- **venerable** [ˈvenərəbl] *adj.* 值得尊敬的
+
+> The sun was an object of **veneration**.
+> 太阳是我们的崇拜对象。
+
+> A white tiger is **venerated** as holy beings.
+> 白虎被尊崇为圣物。
+
+> Roman Catholics **venerate** the Virgin Mary as the mother of Christ.
+> 罗马天主教尊崇耶稣的母亲玛丽亚为圣母。
+
+<!-- p.17 -->
+
+## 10. 源于火和锻冶之神 Vulcan 伏尔甘的 volcano 火山
+
+::: {.etymo}
+罗马神话中，有几位面相狰狞、让人心生恐惧的神。这其中就有位叫做 Vulcan 伏尔甘的掌管火与锻冶的神。正如插图所示，Vulcan 在铁匠铺里打铁。除此之外，他还做生火的工作。volcano 火山一词正源于此单词。既然说到了火山，请大家将火山喷出的 lava 熔岩也一起记下来吧。
+:::
+
+<!-- 插图：火与锻冶之神 Vulcan 伏尔甘在打铁，身后有喷发的火山 -->
+
+- **volcano** [vɒlˈkeɪnəʊ] *n.* 火山
+  - a dormant volcano 休眠火山 / an active volcano 活火山
+- **volcanic** [vɒlˈkænɪk] *adj.* 火山的
+- **lava** [ˈlɑːvə] *n.* 熔岩
+
+> **volcanic ash**  
+> 火山灰
+
+> The **volcano** could erupt at any time.  
+> 那座火山随时可能爆发。  
+> （erupt [ɪˈrʌpt] 喷发）
+
+> A revived Japanese **volcano** has erupted with a big explosion.  
+> 一座复苏的日本火山喷发了，还伴随着大爆炸。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 让我疯掉的月亮女神  
+   → 疯了的 ______
+:::
+
+2. 让黑暗降临的黑夜女神  
+   → 夜里的 ______
+
+3. 迷惑神智的医生  
+   → 使着迷 ______
+
+4. 让人害怕得发抖的牧神  
+   →（莫名的）恐惧 ______
+
+5. 无人匹敌的战争之神  
+   → 战争的 ______
+
+6. 支配灵魂与精神的女神  
+   → 精神科医生 ______
+
+7. 饱受饥渴之苦的王  
+   →（吊胃口）逗弄 ______
+
+8. 巨神族泰坦  
+   → 巨大的 ______
+
+9. 爱情与美丽之女神  
+   → 尊敬 ______
+
+10. 火与锻冶之神  
+    → 火山 ______
+
+**答案** 1. lunatic 2. nocturnal 3. mesmerize 4. panic 5. martial 6. psychiatrist 7. tantalize 8. titanic 9. venerate 10. volcano
+
+<!-- p.18 -->
+
+## 单词检测
+
+## 一、请写出下列单词的词义。
+
+::: {.etymo}
+1. lunatic ______
+2. nocturnal ______
+3. mesmerize ______
+4. psychiatrist ______
+5. tantalize ______
+6. venerate ______
+:::
+
+## 二、请写出下列阴影标识部分的单词。
+
+::: {.etymo}
+1. 他**疯狂的** ______ 行为吓了人们一跳。
+2. 我们被那座城市的美丽所**迷住** ______。
+3. 我们被极度的**恐惧** ______ 所折磨。
+4. 你一定要接受**精神科医生** ______ 的咨询治疗。
+5. 不要再这样**折磨** ______ 我了！
+6. 我对那个**巨大的** ______ 雕像发出了感叹。
+7. 很多人**尊敬** ______ 那个英雄。
+8. 那座城市因**火山** ______ 爆发给毁掉了。
+:::
+
+## 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+::: {.etymo}
+1. I was totally surprised by his **lunatic** behavior.
+   A. lurid
+   B. demented
+   C. lunar
+:::
+
+2. The children fled in **panic**.
+   A. bliss
+   B. fear
+   C. excitement
+
+3. He is still widely **venerated** by the people.
+   A. esteemed
+   B. estimated
+   C. embellished
+
+4. I was ______ by the sci-fi movie.
+   A. implemented
+   B. involved
+   C. mesmerized
+
+---
+
+## 本日词汇速查（23 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [lunatic]{.headword} | ˈluːnətɪk | adj | 疯的 = mad, crazy, insane, maniacal |
+| [lunar]{.headword} | ˈluːnə | adj | 农历的 |
+| [nocturnal]{.headword} | nɒkˈtɜːnl | adj | 夜的，夜间的 |
+| [diurnal]{.headword} | daɪˈɜːnl | adj | 每日的，白天的 |
+| [mesmerize]{.headword} | ˈmezməraɪz | vt | 施催眠术，迷惑 = captivate, hypnotize, enthrall |
+| [mesmerizing]{.headword} | ˈmezməraɪzɪŋ | adj | 迷惑人的 |
+| [panic]{.headword} | ˈpænɪk | n | 恐慌，惊慌 =fear, fright |
+| [Mars]{.headword} | mɑːz | n | 火星 |
+| [martial]{.headword} | ˈmɑːʃl | adj | 军事的，好战的 =hostile |
+| [psychiatrist]{.headword} | saɪˈkaɪətrɪst | n | 精神病医生 |
+| [psychiatric]{.headword} | ˌsaɪkɪˈætrɪk | adj | 精神病学的，治疗精神病的 |
+| [psychology]{.headword} | saɪˈkɒlədʒi | n | 心理学 |
+| [psychic]{.headword} | ˈsaɪkɪk | adj | 心灵的，灵魂的 |
+| [psychiatry]{.headword} | saɪˈkaɪətri | n | 精神病学 |
+| [tantalize]{.headword} | ˈtæntəlaɪz | v | 逗弄，使干着急 = tease |
+| [tantalizing]{.headword} | ˈtæntəlaɪzɪŋ | adj | 逗人的，惹人的，煽情的 |
+| [titanic]{.headword} | taɪˈtænɪk | adj | 巨大的 = enormous, immense, gigantic |
+| [venerate]{.headword} | ˈvenəreɪt | vt | 尊敬，崇拜 = respect, esteem |
+| [veneration]{.headword} | ˌvenəˈreɪʃən | n | 尊敬，崇拜 |
+| [venerable]{.headword} | ˈvenərəbl | adj | 值得尊敬的 |
+| [volcano]{.headword} | vɒlˈkeɪnəʊ | n | 火山 |
+| [volcanic]{.headword} | vɒlˈkænɪk | adj | 火山的 |
+| [lava]{.headword} | ˈlɑːvə | n | 熔岩 |
+

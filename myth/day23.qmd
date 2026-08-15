@@ -1,0 +1,357 @@
+# Day 23 · 呼喊是claim，发表是nounce {.unnumbered}
+
+::: {.root-banner}
+Day 23 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p206–p213
+
+<!-- p.191 -->
+
+大家都知道与“呼喊”对应的英语单词是cry吧？不过，cry作词根使用时，就变成了claim。虽然英语词汇中也有claim这个词，但我们现在说的claim可是作为词根使用的，不要混淆了哦。我们需要了解的另外一个词根是意为“发表”的nounce。一说起nounce，大家是不是马上想到了announcer播音员？动词announce是“宣布，发表”的意思。如果大家早就知道announce的话，那可以很容易理解词根nounce的“发表”之义。
+
+**claim是cry**
+
+- **exclaim** 呼喊，大声说 ← **ex-**向外 + **claim**呼喊(cry)（向外呼喊）
+- **proclaim** 宣告，公布 ← **pro-**向前 + **claim**呼喊(cry)（向前呼喊）
+- **acclaim** 欢呼，喝彩 ← **ac-**向着(ad) + **claim**呼喊(cry)（朝……呼喊）
+- **disclaim** 否认 ← **dis-**否定 + **claim**呼喊(cry)（呼喊着不是）
+- **reclaim** 要求收回 ← **re-**再次 + **claim**要求(cry)（要求还回来）
+
+**nounce是declare**
+
+- **announce** 宣布 ← **an-**(ad-)把 + **nounce**发表（发表……）
+- **pronounce** 宣布，宣称 ← **pro-**向前 + **nounce**发表（向前发表）
+- **denounce** 公开指责 ← **de-**向下 + **nounce**发表（向下贬低发表）
+- **enunciate** (清晰地)发音，准确地说明 ← **e(x)-**向外 + **nunci**发表 + **ate**动词后缀（向外（明确地）发表）
+- **renounce** 抛弃，拒绝 ← **re-**向后 + **nounce**发表（发表将要退到后面）
+
+<!-- p.192 -->
+
+## 1. 向外 ex- 呼喊 claim，exclaim 呼喊
+
+::: {.etymo}
+词根 claim 呼喊在拼写上没有任何变化，所以学习起来也很简单。大家知道，呼喊就像右图图示一样，是一种向外 ex- 呼唤，所以构成了单词 exclaim。当我们处于惊吓 surprised、生气 angry 或兴奋 excited 状态时，受情感的影响，自然就会呼喊出来。
+:::
+
+请大家记单词时，将派生名词 exclamation 感叹词也一起记住吧。
+
+<!-- 插图：一个人用双手拢在嘴边向外大声呼喊 -->
+
+- **exclaim** [ɪkˈskleɪm] *v.* 呼喊，惊叫，大声说 = cry, yell, shout
+- **exclamation** [ˌekskləˈmeɪʃn] *n.* 叫喊，感叹
+  - exclamation mark (point) 感叹号
+  - an exclamation of sorrow 悲伤的叹息词
+
+> "What a beautiful house!" she **exclaimed**.
+> “多漂亮的房子！”她感叹道。
+
+> A small **exclamation** of delight escaped her.
+> 她发出充满喜悦的小感叹。
+
+## 2. 向前 pro- 呼喊 claim，proclaim 1. (正式的) 宣布，宣告 2. 表明
+
+<!-- 插图：一个人拿着扩音筒发表讲话并举着美国国旗，气泡框文字：“我宣布美国独立！” -->
+
+**exclaim** 指个人因受到惊吓或高兴而呼喊，**proclaim** 指官方的 officially “宣布，宣告”。举例来说，独立 independence 一词并不适用于个人，而多指从国家的立场宣布“从现在起，我们的国家独立了！”，这里使用的动词正是 **proclaim** 宣布，宣告。即“官方的，公开被大家所周知”的意思。请大家一定要记住该词哦。
+
+- **proclaim** [prəˈkleɪm] *vt.* 1. (正式的) 宣告，宣告，公布 = declare 2. 表明 = show clearly
+  - proclaim a state of emergency 宣布进入紧急状态
+  - proclaim the character of capitalism 表明了资本主义的特征
+- **proclamation** [ˌprɒkləˈmeɪʃn] *n.* 公告，宣告，公布
+
+> The President **proclaimed** the nation's independence.
+> 总统宣布国家独立了。
+
+> The suspect has repeatedly **proclaimed** his innocence.
+> 嫌疑犯宣称自己无罪。
+
+<!-- p.193 -->
+
+## 3. 向着 ac 呼喊 claim，acclaim 欢呼，喝彩
+
+::: {.etymo}
+假设你去参加喜欢的某位歌手的演唱会 concert，在聚光灯 spotlight 下，那位歌手徐徐出场了，你将看到观众们 audience 一起鼓着掌，冲着那个歌手尖叫的场面。这让人联想到的单词便是 acclaim 欢呼。记单词时，请大家将 acclaim 与 applaud 鼓掌欢迎一起记下来。
+:::
+
+另外需要注意的是，acclaim 既可用作名词，又可用作动词。
+
+- **acclaim** [əˈkleɪm] *n.* 热烈欢迎或赞同，赞扬；*vt.* 为……喝彩，向……欢呼 = hail
+  - win international acclaim 赢得国际赞誉
+- **acclaimed** [əˈkleɪmd] *adj.* 受到称赞的、受到欢呼的
+  - the work acclaimed as a masterpiece 这件作品被誉为杰作
+
+> The film has won great **acclaim**.
+> 这部电影赢得了极大的赞誉。
+
+> His new novel has been widely **acclaimed** by many critics.
+> 他的新小说得到很多评论家的广泛称赞。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+acclaim（欢呼）与 applaud（鼓掌欢迎）放在一起来记，会提高记忆效率。
+:::
+
+---
+
+## 4. 喊 claim 着说不是 dis-，disclaim 否认
+
+<!-- 插图：被诬陷的人指着别人喊“不是我啊”，身边有狗和围观人群 -->
+
+::: {.etymo}
+如果在没有旁人在场的情况下发生某件不太愉快的事，而自己被诬陷 false accusation 的话，那该怎么办呢？当然要 disclaim 了！disclaim 由其词源义“喊着不是（我的东西）”引申为“否认”。这与大家所熟知的 deny 否认是同义词。
+:::
+
+disclaimer 是值得我们注意的一个派生名词。虽然它以 -er 为后缀，但其词义并不是“进行否认的人”，而是“免责声明”的意思。这一点需要我们加以注意！
+
+- **disclaim** [dɪsˈkleɪm] *vt.* 否认 = deny
+  - disclaim all responsibility 否认了所有责任
+  - disclaim any knowledge of him 否认对他了解
+- **disclaimer** [dɪsˈkleɪmə] *n.* 否认声明，免责声明
+
+::: {.mnemonic}
+**温馨小贴士**
+
+disclaim 的名词 disclaimer 不是“否认的人”，而是“进行否认的话”，即“否认声明”。由于该词词义容易被混淆，所以请大家一定要记牢！
+:::
+
+<!-- p.194 -->
+
+> Matt **disclaimed** any responsibility for the accident.
+> 马特否认对该事故负有任何责任。
+
+> We must include a **disclaimer** in the document.
+> 在这份文件中，我们必须包含一份免责声明。
+
+## 5. 要求claim重新回来re-，reclaim要求归还；找回；开垦；回收利用
+
+<!-- 插图：开垦农田：“要把这不毛之地重新开垦reclaim成农田！” -->
+
+::: {.etymo}
+reclaim虽然看起来似乎很容易理解，却是个多义词。reclaim在其“要求重新回来的”词源义基础上引申为“要求归还，找回”的意思。不过，reclaim在词源义“把不能使用的田地变成有用的田地”的基础上又引申出“开垦”的意思。而如果对象不是土地而是物品的话，就是“回收利用”的意思。这里需要特别强调的是，reclaim的“开垦（田地）”之义十分重要，请大家一定要牢记于心！
+:::
+
+- **reclaim** [rɪˈkleɪm] *vt.* 要求收回，收回；开拓；开垦；回收利用
+  - baggage reclaim (claim) (机场) 行李提取处
+  - reclaim the stolen wallet 取回被盗的钱包
+- **reclamation** [ˌrekləˈmeɪʃn] *n.* 开垦，开拓，改造
+
+> You may be entitled to **reclaim** some tax.
+> 你或许有资格拿回一些税金。（be entitled to do sth. 有权……）
+
+> The organization is trying to **reclaim** desert land for farming.
+> 那个组织正努力将沙漠开垦成农田。
+
+## 6. 发表nounce了an-，announce通知，宣布
+
+<!-- 插图：播音员/主持人 -->
+
+::: {.etymo}
+能让人能轻松理解词根nounce的单词是**announce**宣布。提到单词announce，大家会同时想起单词**announcer**吧！这是因为最让年轻人钦羡的职业occupation之一就是**announcer**播音员。准确来说，**announcer**是“告知（事实）的人，宣告者”的意思。
+:::
+
+- **announce** [əˈnaʊns] *vt.* 述说，宣布，声称 =declare
+  - announce profits of about $400 million 宣称有4亿美元的利润
+  - announce the date of the election 宣布了选举的日期
+- **announcement** [əˈnaʊnsmənt] *n.* 通告，布告，宣告
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**announce** 的同义词是 **declare**，declare的词源义是“明确地表明”，还有以下词义：1. 宣布；2. 申报
+:::
+
+<!-- p.195 -->
+
+> The government has **announced** plans to create 100,000 new jobs.
+> 政府发布了新增加10万个工作职位的计划。
+
+> There was an important **announcement** about tax increases.
+> 有一份关于提高税收的重要通知。
+
+## 7. 向前 pro- 发表 nounce，pronounce 1.发音 2.表达（意见），发表
+
+::: {.etymo}
+pronounce在其词源义“向前发表”的基础上形成了“发音”及“表明（意见）”两个义项。具体来说，在“清清楚楚地发出声音”之义的基础上生成了“发音”的意思；在“明确地向前表达出想法”之义的基础上生成了“发表，表明（意见）”之义。根据动词词义不同，其名词pronouncement声明、发表与pronunciation发音的词义也各不相同。记忆时，需要加以注意。如果说“你的发音不错”，那就是You have a good pronunciation。
+:::
+
+<!-- 插图：坐在轮椅上的男子和身后的女子微笑合影 -->
+
+- **pronounce** [prəˈnaʊns] *vt.* 1. 发音 2. 表达（意见），发表
+- **pronunciation** [prəˌnʌnsiˈeɪʃn] *n.* 发音，读法
+- **pronouncement** [prəˈnaʊnsmənt] *n.* 声明，宣告，公告
+
+::: {.mnemonic}
+**温馨小贴士**
+
+pronounce的两个名词：pronunciation（发音）与pronouncement（声明，发表）的词义是不同的，请仔细理解，不要混淆！
+:::
+
+> How do you **pronounce** you name?
+> 你的姓名怎么读？
+
+> In China, you should try to **pronounce** their name correctly.
+> 在中国，你应该试着正确读出他们的名字。
+
+> His wife was **pronounced** dead at Stanford Hospital.
+> 他的妻子在斯坦福医院被宣告死亡。
+
+## 8. 向下 de- 贬低发表 nounce，denounce（公然）抨击
+
+::: {.etymo}
+看看，右图中的两个人是不是正用手相互指责对方呢？denounce的前缀de-向下（down）义对其词义影响较大。“那家伙是大坏蛋！”，像这种在别人面前所说的贬低话，正是denounce（公然）抨击。其名词denunciation谴责在拼写上发生了变化，请大家多加留意！
+:::
+
+<!-- 插图：两人互相用手愤怒指责对方，旁边有围观群众。气泡对话：“你这个坏蛋”、“你这个坏家伙” -->
+
+<!-- p.196 -->
+
+- **denounce** [dɪˈnaʊns] *vt.* 1. 公开指责 = criticize 2. 告发
+  - denounce him to the police 向警方告发他
+- **denunciation** [dɪˌnʌnsiˈeɪʃn] *n.* 谴责，弹劾，指责
+
+> He **denounced** the election as a comedy.
+> 他谴责这次选举像一出喜剧。
+
+> They **denounced** the government's policies on the issue.
+> 他们谴责政府在这个事件上的政策。
+
+## 9. 向外ex-（明确地）宣布nunci，enunciate 1.清晰地发音2.（明确地）说明
+
+::: {.etymo}
+enunciate 与前面所学的单词 pronounce 词义基本相同，但由于它是一个非常 formal 正式的，书面语的词语，所以我们较少看到它。enunciate 由其词源义“向外明确地表达（想法）”生成“1. 清晰地发音，2.（明确地）说明”两个义项。enunciate 的“明确地说明 express an idea clearly”这个词义很重要，请大家要记牢哦。
+:::
+
+- **enunciate** [ɪˈnʌnsieɪt] *vt.* 1. (清楚地) 发音 2. (明确地) 说明
+  - enunciate one's vision of the future 阐明对未来的展望
+- **enunciation** [ɪˌnʌnsiˈeɪʃn] *n.* 表明，宣言
+
+> The buyer **enunciated** her conditions for buying the house.
+> 买家清楚地说明了她买房子的条件。
+
+> Successful speakers **enunciate** their words clearly so that members of the audience can understand their speech.
+> 为了让观众能够理解自己的演讲，成功的演讲家吐字十分清晰。
+
+## 10. 发表nounce说要退到后面re-，renounce放弃，断绝想法
+
+::: {.etymo}
+如果统计单词在考试中的出现频率 frequency，那么出现频率最高的单词要数 renounce 了。renounce 由其词源义“发表说将要退到后面”引申为“放弃，断绝想法”的意思。这与我们熟悉的词组 give up 是同义词 synonym。想想看，退后也就意味着放弃。
+:::
+
+<!-- 插图：一个人拿着写有“KID”的牌子走向POLICE STATION，气泡文字：“放弃美国的公民权” -->
+
+<!-- p.197 -->
+
+- **renounce** [rɪˈnaʊns] *vt.* 放弃，断绝想法 =give up, abandon
+  - renounce one's right 放弃权利
+  - renounce all nuclear weapons 放弃所有的核武器
+- **renunciation** [rɪˌnʌnsiˈeɪʃn] *n.* 放弃，抛弃；自我克制
+
+> Bob voluntarily **renounced** his U.S. citizenship.
+> 鲍勃自愿放弃了他的美国国籍。
+
+> We must absolutely **renounce** all forms of terrorism.
+> 我们应断绝各种形式恐怖行为的想法。
+
+## 单词回顾
+
+::: {.etymo}
+1. 向外呼喊
+   → 呼喊 ______
+2. 向前呼喊
+   → ①（正式的）宣布，宣告 ______
+   ② 表明 ______
+3. 向着……呼喊
+   → 欢呼；喝彩 ______
+4. 呼喊着说不是
+   → 否认 ______
+5. 要求重新回来
+   → 要求归还；找回；开垦；回收利用 ______
+6. 发表……
+   → 通知，宣布 ______
+7. 向前发表
+   → ① 发音 ② 表达（意见），发表 ______
+8. 向下贬低发表
+   →（公然）抨击 ______
+9. 向外明确地宣布
+   → ① 清晰地发音 ②（明确地）说明 ______
+10. 发表说要退到后面
+   → 放弃，断绝想法 ______
+:::
+
+答案 1. exclaim 2. proclaim 3. acclaim 4. disclaim 5. reclaim 6. announce 7. pronounce 8. denounce 9. enunciate 10. renounce
+
+<!-- p.198 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. proclaim ______
+2. acclaim ______
+3. disclaim ______
+4. denounce ______
+5. enunciate ______
+6. renounce ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 他情不自禁的叫出“哇噻”。 ______
+2. 那个候选人获得了很多听众的欢呼。 ______
+3. 她否认自己有责任。 ______
+4. 他们开垦了荒地并将之改造成农田。 ______
+5. 他的英语发音非常优秀。 ______
+6. 很多公民都在抨击政府。 ______
+7. 请明确地表达自己的意见。 ______
+8. 他果断地放弃了自己的权利。 ______
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The new play was **acclaimed** by the critics as a masterpiece.
+   A. hailed
+   B. healed
+   C. hallowed
+
+2. The group has **disclaimed** all responsibility for the attack.
+   A. asked for
+   B. denied
+   C. acknowledged
+
+3. Residents ______ the plan because of traffic and parking problems.
+   A. announced
+   B. pronounced
+   C. denounced
+
+4. We urge them to immediately ______ terrorism.
+   A. enunciate
+   B. abolish
+   C. renounce
+
+---
+
+## 本日词汇速查（20 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [exclaim]{.headword} | ɪkˈskleɪm | v | 呼喊，惊叫，大声说 = cry, yell, shout |
+| [proclaim]{.headword} | prəˈkleɪm | vt | 1. (正式的) 宣告，宣告，公布 = declare 2. 表明 = show clearly |
+| [disclaim]{.headword} | dɪsˈkleɪm | vt | 否认 = deny |
+| [reclaim]{.headword} | rɪˈkleɪm | vt | 要求收回，收回；开拓；开垦；回收利用 |
+| [pronounce]{.headword} | prəˈnaʊns | vt | 1. 发音 2. 表达（意见），发表 |
+| [denounce]{.headword} | dɪˈnaʊns | vt | 1. 公开指责 = criticize 2. 告发 |
+| [enunciate]{.headword} | ɪˈnʌnsieɪt | vt | 1. (清楚地) 发音 2. (明确地) 说明 |
+| [renounce]{.headword} | rɪˈnaʊns | vt | 放弃，断绝想法 =give up, abandon |
+| [exclamation]{.headword} | ˌekskləˈmeɪʃn | n | 叫喊，感叹 |
+| [proclamation]{.headword} | ˌprɒkləˈmeɪʃn | n | 公告，宣告，公布 |
+| [acclaimed]{.headword} | əˈkleɪmd | adj | 受到称赞的、受到欢呼的 |
+| [disclaimer]{.headword} | dɪsˈkleɪmə | n | 否认声明，免责声明 |
+| [reclamation]{.headword} | ˌrekləˈmeɪʃn | n | 开垦，开拓，改造 |
+| [announce]{.headword} | əˈnaʊns | vt | 述说，宣布，声称 =declare |
+| [announcement]{.headword} | əˈnaʊnsmənt | n | 通告，布告，宣告 |
+| [pronunciation]{.headword} | prəˌnʌnsiˈeɪʃn | n | 发音，读法 |
+| [pronouncement]{.headword} | prəˈnaʊnsmənt | n | 声明，宣告，公告 |
+| [denunciation]{.headword} | dɪˌnʌnsiˈeɪʃn | n | 谴责，弹劾，指责 |
+| [enunciation]{.headword} | ɪˌnʌnsiˈeɪʃn | n | 表明，宣言 |
+| [renunciation]{.headword} | rɪˌnʌnsiˈeɪʃn | n | 放弃，抛弃；自我克制 |
+

@@ -1,0 +1,393 @@
+# Day 15 · 放置是pos (e) {.unnumbered}
+
+::: {.root-banner}
+Day 15 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p136–p143
+
+<!-- p.121 -->
+
+<!-- 插图：墙壁搁板上放着玩偶、盆栽、相框等物品 -->
+
+请看右图，挂在墙上的搁板shelf上面放着木偶、盆栽、相框photo frame等。这种在书桌或者搁板上“放置”东西的行为，用英语说是“put”。put作词根时就变成了pose。通常写作pos或pose，偶尔也会写作pound。由词根pos (e) 构成的单词有很多，接下来我们以拼写为主进行说明。
+
+**Voca Map：pos(e), pon, pound是put**
+
+- com- 一起 + pose 放(put)（放在一起） → compose 组成，构成
+- dis- 远远 + pose 放(put)（各自分开放） → dispose 排列，安排
+- ex- 向外 + pose 放(put)（放在外面） → expose 使暴露，使曝光
+- pos(i) 放(put) + -tive 形容词后缀（(直接) 提出意见） → positive 肯定的，积极的
+- im- 里面 + pose 放(put)（(把负担) 放在……的里面） → impose 征税
+- post- 向后 + pon(e) 放(put)（(将日子) 向后放） → postpone 使延期，延缓
+- op- 相反(ob) + pose 放(put)（提出相反的 (意见)） → oppose 反对，抗争
+- ex- 向外 + pound 放(put)（(将隐藏在里面的意思) 拿到外面） → expound 解释，详细讲解
+- pro- 向前 + pose 放(put)（(把想法) 放在前面） → propose 提议，建议
+- pond 秤重量(weigh) + -er 动词后缀（(什么重要) 测量分量） → ponder 思索，衡量
+
+<!-- p.122 -->
+
+## 1. 放在pose一起com-，compose 1. 构成，2. 编曲，写作，3.（使心情）平静
+
+**compose**是个非常重要的动词，是考试中的高频词。compose的词源义是“放在一起”。试想一下，将几种东西放在一起组成一个整体的话，那就成了“1. 构成”；如果在五线谱上写下音符或者在纸上写下文字，那就是“2. 作曲，写作”；而当心里没有杂念，心态端正的话，就是“3. （使心情）平静”！看看，知道了词源义，就可以轻松地理解compose的各个义项了。
+
+<!-- 插图：乐谱手稿 -->
+
+- **compose** [kəmˈpəʊz] *vt.* 1. 构成，2. 编曲，写作，3.（使心情）平静
+  - be composed of 由……组成 =consist of, be made up of
+  - compose oneself 定神，镇静
+- **component** [kəmˈpəʊnənt] *n.* 成分，零件
+- **composition** [kɒmpəˈzɪʃn] *n.* 作文，作曲，构成
+- **composer** [kəmˈpəʊzə(r)] *n.* 作曲家
+- **composure** [kəmˈpəʊʒə] *n.* 镇静，沉着
+
+> Water **is composed of** hydrogen and oxygen.
+> 水由氢和氧构成。
+
+> Mozart **composed** his last opera shortly before he died.
+> 莫扎特完成了他最后一部歌剧，没多久就去世了。
+
+> Lena took several deep breaths to **compose herself**.
+> 列娜深吸了几口气，镇静下来。
+
+**Voca Map：compose 1.构成，2.编曲，写作，3.（使心情）平静**
+- component 成分，零件 → composite 合成物
+- composition 作文，作曲，构成 → composer 作曲家
+- composure 镇静，沉着 → composed 镇静的，沉着的
+
+---
+
+## 2. 放在pose外面ex-，expose 暴露
+
+<!-- 插图：摄影记者们拍照采访的场景 -->
+
+**expose**是从“放在外面”的词源义中形成的“暴露”之义。从词源上分析的话，它是个非常简单的单词。大家听过“expo”这个词吧？“expo”正是expose的名词exposition博览会的缩略语abbreviation。想想看，博览会不也是把产品展示在大众面前吗？请大家将这几个相关的词语放在一起来记，这样可以提高效率哦。
+
+- **expose** [ɪkˈspəʊz] *vt.* 揭露，揭发，使暴露，使曝光 *n.* 暴露
+  - expose children to good books 让孩子们多接触好书
+  - expose a weakness 暴露缺点
+- **exposure** [ɪkˈspəʊʒə] *n.* 暴露，揭发，公开
+- **exposition** [ekspəˈzɪʃn] *n.* 博览会，展览会
+
+**Voca Map：expose 使暴露，使曝光**
+- expose 使暴露，使曝光
+  - ↓
+  - exposure 暴露，揭发
+  - ↓
+  - exposition 博览会，展览会
+
+<!-- p.123 -->
+
+> A lot of workers have already been **exposed** to the danger.
+> 很多工人都置身在危险之中。
+
+> He **exposed** himself to ridicule.
+> 他陷于可笑之地。
+> （ridicule [ˈrɪdɪkjuːl] 嘲笑，嘲弄，奚落）
+
+> He threatened them with public **exposure**.
+> 他用公众舆论来威胁他们。
+
+## 3. （把行李）放在 pose……的里面 im-，impose 征收
+
+<!-- 插图：交警给违章停放的车辆开罚单 -->
+
+::: {.etymo}
+如果在路上违章停车的话，不小心就会收到贴在车子上的罚单parking ticket。违章停车的话，当然要征处罚款fine。这种情况下让人联想到的动词正是impose。
+:::
+
+**impose**是从“（把行李）放在……里面”的词源义中产生的“征收（税金，罚金）”之义。通常，它常被写作“impose A on B”的形式。韩语中也有“附加”税金的说法吧？介词on表示的正式“接触（附加在……）”的意思。也就是说，impose A on B让人联想到把A贴在B上的场景。impose的形容词形式是imposing（大的）雄伟的，请大家不要漏掉这个词哦！
+
+- **impose** [ɪmˈpəʊz] *vt.* 征收（税金，罚金），征税 =levy, charge, fine
+  - impose a fine 征处罚金
+- **imposition** [ɪmpəˈzɪʃn] *n.* 税收，强加，过分的要求
+- **imposing** [ɪmˈpəʊzɪŋ] *adj.* 壮观的，宏伟的，印象深刻的
+  - an imposing building 一幢气势宏伟的大楼
+
+**Voca Map**
+- impose 征收(税金，罚金)，征税
+  ↓
+- imposing 壮观的，宏伟的，印象深刻的
+  ↓
+- imposition 征收，强加，过分的要求
+
+> The court decided to **impose** a fine on the politician.
+> 法庭决定对政治家征收罚金。
+
+> Parents **impose** their own moral values on their children.
+> 父母亲在孩子身上实行他们自己的道德价值。
+
+## 4. 提出 pose 反对 op-（意见），oppose 反对
+
+<!-- 插图：几个人肢体语言表现出激烈争论与反对 -->
+
+::: {.etymo}
+I oppose your idea! 我反对你的想法！在这里**oppose**是“反对”的意思。该词义沿用了“提出反对（意见）”的词源义。本来，前缀ob-是“反对的”意思，但为了发音上的方便，就变成了op-。知道了这点，在背oppose的时候就容易多了。值得注意的是，与object to, disagree with不同，oppose是及物动词，使用时可要留意哦！
+:::
+
+<!-- p.124 -->
+
+- **oppose** [ə'pəʊz] *vt.* 反对，抵制，抗争 =object to, disagree with
+- **opposition** [ɒpə'zɪʃn] *n.* 反对，敌对
+  - the opposition (party) 在野党 ↔ the ruling party 执政党
+- **opponent** [ə'pəʊnənt] *n.* 对手，敌手，反对者
+- **opposed** [ə'pəʊzd] *adj.* 相反的，敌对的
+- **opposite** ['ɒpəzɪt] *adj.* 对立的，相对的，对面的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+oppose与object的不同点：
+虽然oppose与object都是“反对”的意思，但oppose是可以直接接宾语的“及物动词”，而object是“不及物动词”，它必须与介词to结合在一起使用。
+oppose the new bill 反对新法案
+object to the terms of the contract 反对合约的条款
+:::
+
+> The **opposition** is continuing to **oppose** the new bill.
+> 在野党继续反对新法案。
+
+> We are **opposed** to the death penalty.
+> 我们反对死刑。
+> （death penalty 死刑）
+
+## 5. （把想法）放在 pose 前面 pro-，propose 建议
+
+<!-- 插图：男子跪地向女子求婚，对话气泡：“will you marry me?” -->
+
+::: {.etymo}
+我们经常能听到“我想向她求婚……”这样的话吧？男女在交往中或想与对方结婚的时候，经常使用propose这个词。不过，propose可是个特别讲究仪式formal的一个词。
+:::
+
+从词源上看，propose的词源义为“（把想法）摆在前面”。如果把脑子里的想法（通过语言）说出来的话也就是“建议”的意思了。propose多接that从句或动名词做宾语，记住这个语法要点可是大有益处的哦。
+
+- **propose** [prə'pəʊz] *vt.* 提议、建议 =offer
+  - propose a toast 举杯敬酒，提议为……干杯
+- **proposition** [prɒpə'zɪʃn] *n.* 建议，主张，提案
+- **proponent** [prə'pəʊnənt] *n.* 支持者，提倡者，拥护者
+- **proposal** [prə'pəʊzl] *n.* 提议，建议，求婚
+
+> Many citizens have **proposed** extending the expressway.
+> 很多市民提议扩建高速公路。
+
+> He **proposed** that the UN should set up an emergency center for the environment.
+> 他提议联合国应该建立一个针对环境的紧急中心。
+
+> I'd like to **propose a toast** to the bride and groom.
+> 我提议为新娘和新郎干一杯。
+> （bride and groom 新娘和新郎）
+
+<!-- p.125 -->
+
+## 6. 各自分开 dis- 放 pose，dispose 1. 排列[分配]，2. 处理
+
+**Voca Map**
+- **dispose**
+  - （及物动词）处置，安排 ↓
+    - **disposition** 处置，处理
+  - （不及物动词）dispose of 除掉，处理掉，解决 ↓
+    - **disposal** 事情的处置，清理 ↓
+      - **disposable** 一次性的，用完即可丢弃的，可任意处理的
+
+把物品排列在指定地点叫做 **dispose**。但，对 **dispose** 而言最要紧的是惯用句型 “**dispose of** 处理掉……”。这可是考试中出题频率很高的重要句型，要重点记忆哦！
+
+**dispose** 的词源义是 “各自（远远）分开放”。就像百货商店或者超市一样，把物品按照种类各自分开摆放的话，就是 “1. 排列，分配” 的意思；垃圾或旧衣服放得远远的话，就是 “2. 处理” 的意思。此外，左图中的一次性纸杯用英语表达的话，是 **disposable paper cup**，因为喝完之后就可以马上处理掉。
+
+- **dispose** [dɪ'spəʊz] *vt.* 处置，安排 =arrange
+  - dispose of 除掉，解决 =get rid of
+- **disposition** [dɪspə'zɪʃn] *n.* 性格，性情
+- **disposal** [dɪ'spəʊzl] *n.* (事情的) 处置，清理
+- **disposable** [dɪ'spəʊzəbl] *adj.* 一次性的，用后就抛弃的，可任意处理的
+  - disposable product 一次性产品
+  - disposable diaper 一次性尿布
+
+> Rare vases are **disposed** around the gallery.
+> 稀有的花瓶被放置在画廊周围。
+
+> I'm still not sure how best to **dispose of** the shares.
+> 我不太确信处理掉那些股份是否上策。
+
+## 7. （直接）表示 posi 意见，所以只能 positive 肯定的
+
+**positive** 源自于 “（直接）表示意见” 之义，即 “肯定的” 的意思。由于自己把意见表达出来了，那么对此而言也就是 “肯定的” 了。口语中，当用 “**positive**” 回答某个提问的话，那就是 “肯定” 或 “没错” 的意思。这种表达在小说 novel 或美剧中经常能遇到，所以也要牢牢记住哦！
+
+此外，请将 **positive** 的反义词 **negative** 消极的也一起背下来。要知道与反义词 antonym 一起学习可是个非常好的学习方法哦。
+
+- **positive** ['pɒzətɪv] *adj.* 1. 积极的 ↔ negative 消极的 2. 肯定的 =certain
+  - positive attitude 积极的态度
+  - take the positive approach 采取积极的措施
+  - I'm positive. (回答时) 我确信，我肯定。
+
+<!-- p.126 -->
+
+> She's got a really **positive** attitude to life.
+> 她对生活持积极的态度。
+
+> —Are you sure about that?—**Positive**.
+> ——你确信吗？——那当然（或我肯定）。
+
+## 8. 把日子向后 post 移 pone，postpone 延期，推后
+
+::: {.etymo}
+在工作的过程中，经常会出现实际进度晚于计划好 as planned 的进度，所以日常生活中我们会经常使用到 postpone 延期这个词。postpone 的词源义是“（把日子）向后放”。看看，是不是不用再做进一步说明就可以理解该词的词义了？
+:::
+
+<!-- 插图：办公室员工在忙碌工作，“周末旅行要延期到下一周了！” -->
+
+- **postpone** [pəʊstˈpəʊn] *vt.* 使延期，延缓，推后 = delay, put off
+  - postpone a decision 推迟决定
+- **postponement** [pəʊstˈpəʊnmənt] *n.* 延期，推迟
+
+> I **postponed** my homework until tomorrow.
+> 我将家庭作业推迟到明天做完。
+
+> The meeting was **postponed** until next week.
+> 会议推迟到下个星期了。
+
+> We had to **postpone** our holiday until the autumn.
+> 我们不得不把假期推迟到秋天。
+
+## 9. （把隐藏在里面的意思）放到 pound 外面 ex-，expound 说明
+
+<!-- 插图：讲课/会议讨论照片 -->
+
+::: {.etymo}
+说起“说明”一词，最先浮现在我们脑海的单词是 explain。当然，就算只知道 explain 这一个词，我们在英语对话或写作上也不会有任何的障碍。可是，如果想要英语水平高一点，expound 这个词也应该知道。expound 是由词源义“（把隐藏在里面的意思）放在外面”引申出的“（详细地）说明”之义。一般多作不及物动词，以“expound on 对……进行详细说明”的惯用句型使用。
+:::
+
+- **expound** [ɪkˈspaʊnd] *v.* 详细讲解，解释 = explain, explicate
+  - expound on 详细说明……
+  - expound on one's thought 详细说明……的想法
+
+::: {.mnemonic}
+**温馨小贴士**
+
+expound 既可以用作及物动词，也可用作不及物动词。但相比而言，由不及物动词所构成的惯用句型 [expound on + 名词] 使用频率更高。
+:::
+
+<!-- p.127 -->
+
+> We listened as she **expounded** on the government's new policies.
+> 我们仔细地听她详细地说明政府的新政策。
+
+> The speaker **expounded** his arguments with great clarity.
+> 演讲者清楚地解释了他的观点。
+
+## 10. 衡量 pond（什么比较重要），ponder 仔细考虑
+
+::: {.etymo}
+我们常说“要搞清楚事情的轻重”。这里所说的“轻重”就是“重要的与不重要的”意思。为了分清事情的轻重，需要冷静地仔细思考才行。ponder是从“衡量（什么比较重要）”的词源义中产生的单词，掂量什么重要，什么不重要也就是“仔细考虑”的意思。
+:::
+
+<!-- 插图：办公室里一个人抓耳挠腮在思考，旁边有人说“从刚才就一直是那样了” -->
+
+- **ponder** [ˈpɒndə] *v.* 仔细考虑，沉思 = consider, muse, meditate, contemplate
+  - ponder chances of success 考量成功的机会
+- **ponderous** [ˈpɒndərəs] *adj.* （主题）沉重的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请注意！ponder（仔细考虑）的形容词 ponderous 不是“仔细考虑”而是“（主题）沉重的”意思。
+:::
+
+> She continued to **ponder** the problem.
+> 她继续考虑这个问题。
+
+> The board is still **pondering over** the matter.
+> 董事会依旧在权衡这件事情。
+
+## 单词回顾
+
+1. 放在一起 → 1. 构成 2. 编曲，写作 ______
+2. 放在外面 → 暴露 ______
+3. （把行李）放在……的里面 → 附加，征收 ______
+4. 反对（意见） → 反对 ______
+5. （把想法）放在前面 → 建议 ______
+6. 各自分开放 → 1. 排列，分配 2. 处理 ______
+7. （直接）表达意见 → 肯定的 ______
+8. 把日子向后移 → 延期，推后 ______
+9. （把隐藏在里面的意思）放到外面 → 说明 ______
+10. 衡量（什么比较重要） → 仔细考虑 ______
+
+**答案** 1. compose 2. expose 3. impose 4. oppose 5. propose 6. dispose 7. positive 8. postpone 9. expound 10. ponder
+
+<!-- p.128 -->
+
+## 单词检测
+
+### 一、请写出下列单词的词义。
+
+1. impose ______  2. oppose ______
+2. dispose ______  4. postpone ______
+3. expound ______  6. ponder ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 贝多芬是伟大的**作曲家** ______。
+2. 政府对销售的所有商品都**征收** ______ 税金。
+3. 我对于堕胎表示强烈的**反对** ______。
+4. **处理** ______ 垃圾是件让人头疼的事情。
+5. 我对于他的意见是**肯定的** ______。
+6. 我们无可奈何，只能把那个计划**推迟** ______ 了。
+7. 希望你能对于那件事进行**详细的说明** ______。
+8. 不要急着做决定，再**仔细考虑** ______ 考虑那个问题吧。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The human body is ______ of billions of tiny cells.
+   A. consisted
+   B. composed
+   C. exposed
+
+2. The policeman ______ a fine on me.
+   A. disposed
+   B. opposed
+   C. imposed
+
+3. They've decided to **postpone** having a family.
+   A. put off
+   B. put out
+   C. put on
+
+4. Jason stood still for a moment, **pondering** whether to go or not.
+   A. propounding
+   B. considering
+   C. expounding
+
+---
+
+## 本日词汇速查（30 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [compose]{.headword} | kəmˈpəʊz | vt | 1. 构成，2. 编曲，写作，3.（使心情）平静 |
+| [component]{.headword} | kəmˈpəʊnənt | n | 成分，零件 |
+| [composition]{.headword} | kɒmpəˈzɪʃn | n | 作文，作曲，构成 |
+| [composer]{.headword} | kəmˈpəʊzə(r) | n | 作曲家 |
+| [composure]{.headword} | kəmˈpəʊʒə | n | 镇静，沉着 |
+| [expose]{.headword} | ɪkˈspəʊz | vt | 揭露，揭发，使暴露，使曝光 *n.* 暴露 |
+| [exposure]{.headword} | ɪkˈspəʊʒə | n | 暴露，揭发，公开 |
+| [exposition]{.headword} | ekspəˈzɪʃn | n | 博览会，展览会 |
+| [impose]{.headword} | ɪmˈpəʊz | vt | 征收（税金，罚金），征税 =levy, charge, fine |
+| [imposition]{.headword} | ɪmpəˈzɪʃn | n | 税收，强加，过分的要求 |
+| [imposing]{.headword} | ɪmˈpəʊzɪŋ | adj | 壮观的，宏伟的，印象深刻的 |
+| [oppose]{.headword} | ə'pəʊz | vt | 反对，抵制，抗争 =object to, disagree with |
+| [opposition]{.headword} | ɒpə'zɪʃn | n | 反对，敌对 |
+| [opponent]{.headword} | ə'pəʊnənt | n | 对手，敌手，反对者 |
+| [opposed]{.headword} | ə'pəʊzd | adj | 相反的，敌对的 |
+| [opposite]{.headword} | 'ɒpəzɪt | adj | 对立的，相对的，对面的 |
+| [propose]{.headword} | prə'pəʊz | vt | 提议、建议 =offer |
+| [proposition]{.headword} | prɒpə'zɪʃn | n | 建议，主张，提案 |
+| [proponent]{.headword} | prə'pəʊnənt | n | 支持者，提倡者，拥护者 |
+| [proposal]{.headword} | prə'pəʊzl | n | 提议，建议，求婚 |
+| [disposition]{.headword} | dɪspə'zɪʃn | n | 性格，性情 |
+| [disposal]{.headword} | dɪ'spəʊzl | n | (事情的) 处置，清理 |
+| [disposable]{.headword} | dɪ'spəʊzəbl | adj | 一次性的，用后就抛弃的，可任意处理的 |
+| [dispose]{.headword} | dɪ'spəʊz | vt | 处置，安排 =arrange |
+| [positive]{.headword} | 'pɒzətɪv | adj | 1. 积极的 ↔ negative 消极的 2. 肯定的 =certain |
+| [postpone]{.headword} | pəʊstˈpəʊn | vt | 使延期，延缓，推后 = delay, put off |
+| [postponement]{.headword} | pəʊstˈpəʊnmənt | n | 延期，推迟 |
+| [expound]{.headword} | ɪkˈspaʊnd | v | 详细讲解，解释 = explain, explicate |
+| [ponder]{.headword} | ˈpɒndə | v | 仔细考虑，沉思 = consider, muse, meditate, contemplate |
+| [ponderous]{.headword} | ˈpɒndərəs | adj | （主题）沉重的 |
+

@@ -1,0 +1,385 @@
+# Day 22 · 触摸是tag，感受是sent {.unnumbered}
+
+::: {.root-banner}
+Day 22 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p198–p205
+
+<!-- p.183 -->
+
+上了年纪的人，身体某些部位就常会有酸痛感。尤其是脖子、肩膀，这两个部位最容易感到劳累fatigue。大家都有这样的经历吧？脖子或肩膀痛时，只揉一揉就能感到疼痛ache了，更不用说有淤青bruise的时候了。今天我们要学习的是含有“抚摸touch”之义的词根tag以及含有“感受feel”之义的词根sent。
+
+<!-- 插图：脖子或肩膀酸痛揉捏的人 -->
+
+## 1. tag, tac是touch
+
+- **con-** 一起 + **tac(t)** 接触(touch)（一起（相互）接触）→ **contact** 接触、联系
+- **con-** 一起 + **tamin** 接触(touch)(tag) + **-ate** 动词后缀（（很多人）乱摸）→ **contaminate** 污染，弄脏
+- **con-** 一起 + **tag** 接触(touch) + **-(i)ous** 形容词后缀（相互接触转移）→ **contagious** (接触性)有传染性的
+- **in-** 否定 + **tac** 接触(touch) + **-t** 成为（无论谁的手都不触摸）→ **intact** 完整无缺的，未受损伤的
+- **tang** 接触(touch) + **-ible** 可以（可以抚摸的）→ **tangible** 可触知的，确实的
+
+## 2. sent, sens是feel
+
+- **as-(ad-)** 向 + **sent** 感受情感(feel)（心思倒向……边）→ **assent** 赞成，赞同
+- **re-** 强化 + **sent** 感受(feel)（对……感受到强烈的情感）→ **resent** 对……感到愤怒
+- **dis-** 不同 + **sent** 感受(feel)（感觉不同）→ **dissent** 意见的分歧，异义
+- **con-** 一起 + **sens** 感受(feel) + **-us** 名词后缀（成为相同的意见）→ **consensus** (意见)一致
+- **sens** 感受(feel) + **-ible** 可以……（(强化)可以感知的）→ **sensible** 明智的，可感觉到的东西
+
+<!-- p.184 -->
+
+## 1. 相互con-接触tact，contact接触；接触，联系
+
+<!-- 插图：在电脑前办公的场景 -->
+
+::: {.etymo}
+最近，很多人都在使用隐形眼镜contact lens。contact的词源可分解为“con-一起+tac（t）接触→一起（相互）接触”的意思，该词为“接触，联系”之义。
+:::
+
+contact既可用作名词，也可用作动词。相比而言，其动词用法更为重要。很多人在将“联系我”翻译成英语时，多翻译成contact with me。这其实是不正确的，因为contact是及物动词，不能与介词with连用，直接翻译成 contact me即可。又如，Contact us for more information by phone or e-mail. 如果需要更多的信息，请通过电话或者电子邮件联系我们。
+
+- **contact** [ˈkɒntækt] *n.* 接触，联系；*vt.* 使接触，与……联系
+  - come into contact with 和……建立联系，和……接触，接触到
+  - be in contact with 和……接触，有联系
+  - eye contact 目光相交，对视
+
+> There is very little **contact** between the two countries.
+> 这两个国家几乎没什么接触。
+
+> Please do not hesitate to **contact** me if you have any queries.
+> 如果有什么问题，请立即与我联系。
+> （query [ˈkwɪəri] 疑问，问题）
+
+> Is there anyway I can **contact** him? It's urgent.
+> 有什么方法可以联系到他吗？有急事找他。
+> （urgent [ˈɜːdʒənt] 紧急的，急迫的）
+
+::: {.mnemonic}
+**温馨小贴士**
+
+“联系我”用英语怎么说呢？Contact with me.（X）
+Contact me.（√）
+:::
+
+## 2. 相互con-接触tag转移，contagious（接触）传染性的
+
+<!-- 插图：戴口罩的人 -->
+
+::: {.etymo}
+很多地方曾出现了让人恐慌fear的甲型流感，该流感可怕之处就在于它是通过人来contagion传染的。contagious由其词源义“一起接触转移”引申为“传染性”的意思。
+:::
+
+俗话说，由词义看用法，“传染性”的词义决定了contagious主要用于与疾病相关的语境，而通过短语a contagious disease传染病来记忆会更为有效。
+
+<!-- p.185 -->
+
+- **contagious** [kənˈteɪdʒəs] *adj.*（接触）传染性的，传染病的，有感染力的
+  - a contagious passion 感染人的激情
+- **contagion** [kənˈteɪdʒən] *n.* 传染，接触传染
+- **contagiousness** [kənˈteɪdʒəsnɪs] *n.* 接触传染性
+- **infectious** [ɪnˈfekʃəs] *adj.* 传染的，易传染的，有传染性的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+请不要混淆contagious（传染性的）与contiguous（邻近的）！
+:::
+
+> Flu is a highly **contagious** disease.
+> 流感是一种传染性很高的疾病。
+
+> Yawns are even more **contagious** than the common cold.
+> 打哈欠比普通的感冒更容易传染。
+
+## 3. 很多人con-（乱）摸的话tamin，contaminate弄脏
+
+<!-- 插图：冒烟的工厂烟囱，旁边站着一位抓狂咳嗽的老人，旁白气泡写着“Contaminant!” -->
+
+::: {.etymo}
+工厂排放的煤烟、废水，汽车尾气，都是名副其实的污染地球的主犯main culprit。义为“污染”的英语单词有pollute和contaminate两个词。contaminate源于其词源义“很多人（乱）摸”，引申为“弄脏”的意思。
+:::
+
+像左图中这种工厂烟囱里冒出的浓烟就是contaminate污染我们的环境environment的主犯。
+
+- **contaminate** [kənˈtæmɪneɪt] *vt.* 弄脏，污染，损害 = pollute, taint
+- **contamination** [kənˌtæmɪˈneɪʃn] *n.* 污染，弄脏
+  - radioactive contamination 放射性污染
+- **contaminant** [kənˈtæmɪnənt] *n.* 污染物
+  - environmental contaminants 环境污染物
+
+> The drinking water has become **contaminated** with lead.
+> 饮用水被铅污染了。
+
+> The food was **contaminated** during the production process.
+> 食物在加工过程中被污染了。
+
+## 4. 手没in-碰到tac，intact未受损伤的，（原封不动）完整的
+
+::: {.etymo}
+intact是个稍有难度的单词。尽管如此，通过词源进行分析的话，也可以轻松理解。intact由其词源义“手不碰”引申为“未受损伤”。
+:::
+
+<!-- p.186 -->
+
+试想一下，如果一个物品10年，甚至20年都没被碰过的话，是不是不会受到外力损伤damage？这用英语来表达的话，就是“not broken, damaged, or spoiled”。
+
+<!-- 插图：未受损伤的房子 -->
+
+- **intact** [ɪnˈtækt] *adj.* 完整无缺的，未受损伤的，原封不动的 = undamaged
+  - remain intact 保持完整
+  - The package arrived intact. 包裹抵达时没有任何破损（或包装完好无损）。
+
+::: {.mnemonic}
+**温馨小贴士**
+
+后缀以-t结束的形容词中，有的是缩略过去分词-ed发音而来，所以也就变成了“成为……”的意思。
+:::
+
+> Despite the bombing, the house was still **intact**.
+> 尽管深受轰炸的洗礼，但那座房子依然完好无损。
+
+> The safe **remained intact** in the fire.
+> 保险箱在火灾中安然无恙。
+
+## 5. 可以-ible摸tang的，tangible具体的，切实的
+
+<!-- 插图：两个人看着地上的脚印，气泡文字：“我们需要实物证据tangible evidence” -->
+
+::: {.etymo}
+事实上，只要掌握好**tangible**的词源，就可以很轻松地理解其词义。**tangible**由其词源义“可以触摸”引申为“具体的，切实的”意思。想想看，可以用自己的手抚摸，用自己的眼睛看到的东西，是不是具体可感受得到的？这也正是tangible的词义。**tangible evidence**实物证据是个很有名的表达，请大家一定要记下来哦！
+:::
+
+- **tangible** [ˈtændʒɪbl] *adj.* 具体的，实际的，可触知的 = evident, obvious, manifest
+  - ↔ intangible 无形的，触不到的，无法确定的
+  - tangible evidence 实物证据
+  - tangible asset（机器、建筑等）有形资产
+  - intangible asset（顾客忠诚度等）无形资产
+- **tangibility** [ˌtændʒəˈbɪlətɪ] *n.* 确切性
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与tangible词义相同，但比起难度稍大点的还有单词palpable。palpable为“可触摸的”意思。
+:::
+
+> We need **tangible** evidence of his guilt.
+> 我们需要他犯罪的确凿证据。
+> （guilt [ɡɪlt] 内疚、负罪感）
+
+> We achieved **tangible** results from the talks with North Korea.
+> 我们在与北朝鲜的会谈中取得了具体的成果。
+
+<!-- p.187 -->
+
+## 6. 心思向sent……处as-，assent同意；同意赞成
+
+::: {.etymo}
+含有词根sent的单词非常多，其中assent和consent是使用频率较高的两个词。具体来看，assent的词源可分解为“as-向+sent感受到感情”，即“接近……的想法、感情”之义，引申为“同意”的意思。事实上，assent和consent虽是同义词，但两者在语感上还是有些微妙差别nuance：assent指“经过考虑后同意……的意见”，而consent是指“接受要求request，允许permission、同意”的意思。
+:::
+
+- **assent** [əˈsent] *n.* 同意，赞同；*vi.* 赞成，赞同 = agree to
+- **consent** [kənˈsent] *n.* 同意，赞同，准许；*vi.* 同意，赞成
+  - assent (consent) to 同意……，赞同
+
+::: {.mnemonic}
+**温馨小贴士**
+
+assent与consent都可以作为名词或动词使用。值得注意的是，这两个词用作动词时要与介词to连用！
+:::
+
+> Silence gives **consent**.
+> 沉默表示同意。
+
+> Parliament gave its **assent** to war.
+> 议会同意了发动战争。
+> （Parliament [ˈpɑːləmənt] 议会）
+
+> He took the car without the owner's **consent**.
+> 他未经过车主的同意就把车开走了。
+
+---
+
+## 7. 感觉sent不同dis-，dissent反对
+
+<!-- 插图：投票表决中一人举牌“我反对”，另一人在票箱投“同意通过新的法案！” -->
+
+::: {.etymo}
+assent与consent的反义词是dissent。dissent由其词源义“感觉不同”引申为“反对”。但，需要注意的是，dissent既可作为名词，也作动词使用。不过，由于它是不及物动词，所以要以惯用句型“dissent from和……不同”来使用。绝不可以用来“dissent with”的形式。
+:::
+
+- **dissent** [dɪˈsent] *n.* 异议，意见的分歧；*vi.* 不同意，持异议 = disagree
+  - dissent from 与……意见不同，不赞同
+- **dissension** [dɪˈsenʃn] *n.* 纠纷，不合，争吵
+
+**Voca Map**
+- assent（同意） = consent（同意）
+  - ↕
+  - dissent（不同意）
+
+> These voices of **dissent** on the new bill grew louder.
+> 对新法案持有异议的声音越来越大。
+
+> Only two ministers **dissented from** the official view.
+> 只有两个部长对官方的观点持有不同意见。
+
+<!-- p.188 -->
+
+## 8. 感受到sent强烈的re-情绪，resent对……生气，愤慨
+
+::: {.etymo}
+乍一看resent对……生气，愤慨这个词，不一定能想起它的词义来，但通过分解词源，就能很容易推测其词义了。这是因为resent一词由其词源义“对……感受到强烈的情绪”引申为“对……生气”。举个例子来具体说明一下：如果某人对你们说了侮辱性insult的言语，那么你肯定会对此产生“强烈的情绪”，即“对……生气，愤慨”。而与之对应的英语单词就是resent。另外，需要注意的是，resent的后面要接动名词-ing作宾语。这是考试频出的考点，所以请大家务必要记下来。resent doing sth. 或resent sth. 就是“对所做的事情生气”的意思。
+:::
+
+<!-- 插图：发怒的人和受惊吓的人 -->
+
+- **resent** [rɪˈzent] *vt.* 对……感到愤怒，愤恨，厌恶
+  - resent doing sth. /resent sth. 对……生气（※ 后面跟名词或动名词）
+  - resent his life 厌恶他的生活
+- **resentment** [rɪˈzentmənt] *n.* 愤恨，不满
+
+> Edward **resented** the fact that Jessica didn't trust him.
+> 爱德华对杰西卡不信任他感到很生气。
+
+> I bitterly **resent being** ignored by him.
+> 他忽略我让我感到十分生气。
+
+## 9. 形成sent相同的con-意见，consensus（意见的）一致，合意
+
+<!-- 插图：多人手叠在一起表示达成共识 -->
+
+::: {.etymo}
+从词源上来分析，consensus也是“（很多人）形成相同的意见”，即“（意见的）一致，合意”的意思。consensus主要用作组织成员间“（意见）一致，合意”之义。
+:::
+
+- **consensus** [kənˈsensəs] *n.*（意见的）一致，合意，舆论=agreement
+  - reach a consensus 达成共识
+  - a lack of consensus about the aims of the project 对项目的目标缺乏共识
+
+> Decisions in the organization can be taken only by **consensus**.
+> 只有在达成共识的情况下，组织的决定才能被采纳。
+
+> Researchers reached a **consensus** on the result of the experiment.
+> 研究人员对实验的结果达成了共识。
+
+<!-- p.189 -->
+
+## 10. 可以-ible（准确地）感知sens，sensible 1.明智的 2.可感觉的
+
+::: {.etymo}
+sensible翻译成汉语就是“有感觉，能感觉到的”意思。即它由“（准确地）感知（某事）”的词源义引申为“明智的，可感觉的”意思。虽然看起来容易，但是不易推测其词义。这样的词请大家多加注意！
+:::
+
+- **sensible** [ˈsensɪbl] *adj.* 1. 明智的 =wise, sagacious 2. 能感觉到的，意识到的，明显的 =noticeable
+  - make a sensible answer 作出合理的回答
+- **sensibility** [ˌsensɪˈbɪlɪtɪ] *n.* 敏感性，灵敏度，情感
+
+::: {.mnemonic}
+**温馨小贴士**
+
+**与sense相关的词汇汇总：**
+- **sensible** 1. 明智的 2. 能感觉到的，明显的，意识到的
+- **sentient** 能感知或感觉事物的
+- **sensuous** 感觉（上）的，感官的，（引起）美感的
+- **sensual** 感觉的，肉欲的，性感的，色情的=voluptuous
+- **sensational** 轰动的，耸人听闻的，极好的
+:::
+
+> Please give me advice on a **sensible** investment.
+> 请就合理的投资给我一些建议。
+
+> There was a **sensible** increase in temperature.
+> 温度明显升高了。
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. 相互接触的
+   → 接触；接触，联系 ______
+2. 相互接触，转移
+   →（接触性）传染 ______
+3. 很多人乱摸
+   → 弄脏，污染 ______
+4. 谁的手都没碰过
+   → 未受损伤的，（原封不动）完整的 ______
+5. 可触摸的
+   → 具体的，切实的 ______
+6. 心思向……边
+   → 同意；同意赞成 ______
+7. 感觉不同
+   → 反对 ______
+8. 对……感受到强烈的情绪
+   → 对……生气，愤慨 ______
+9. 形成相同的意见
+   →（意见的）一致，合意 ______
+10. 可以（准确地）感知
+    → ①明智的 ②可感觉的 ______
+:::
+
+答案 1. contact 2. contagious 3. contaminate 4. intact 5. tangible 6. assent 7. dissent 8. resent 9. consensus 10. sensible
+
+<!-- p.190 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下列单词的词义。
+
+1. contagious ______　　　　2. intact ______
+3. tangible ______　　　　4. assent ______
+5. resent ______　　　　6. sensible ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 如果还有想知道的，请跟我**联系** ______。
+2. 我们不应该**污染** ______ 环境。
+3. 那个教会以**完整的** ______ 状态被保存下来。
+4. 我们得出了**具体的** ______ 结果。
+5. 我**反对** ______ 你的意见。
+6. 我的意见被置之不理，这让我感到**很生气** ______。
+7. 正好我们也**达成了共识** ______。
+8. 我接受了他**明智的** ______ 忠告。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The common cold is a **contagious** disease.
+   A. contiguous　　　B. infectious　　　C. affectionate
+
+2. Emissions from factory stacks **contaminate** the air.
+   A. politicize　　　B. polish　　　C. pollute
+
+3. He bitterly ______ being treated like a child.
+   A. assents　　　B. dissents　　　C. resents
+
+4. Thank you for your ______ advice.
+   A. sensible　　　B. sensitive　　　C. sensual
+
+---
+
+## 本日词汇速查（20 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [con-]{.headword} |  |  | 一起 + **tac(t)** 接触(touch)（一起（相互）接触）→ **contact** 接触、联系 |
+| [tang]{.headword} |  |  | 接触(touch) + **-ible** 可以（可以抚摸的）→ **tangible** 可触知的，确实的 |
+| [contagious]{.headword} | kənˈteɪdʒəs | adj | （接触）传染性的，传染病的，有感染力的 |
+| [contagion]{.headword} | kənˈteɪdʒən | n | 传染，接触传染 |
+| [contagiousness]{.headword} | kənˈteɪdʒəsnɪs | n | 接触传染性 |
+| [infectious]{.headword} | ɪnˈfekʃəs | adj | 传染的，易传染的，有传染性的 |
+| [contaminate]{.headword} | kənˈtæmɪneɪt | vt | 弄脏，污染，损害 = pollute, taint |
+| [contamination]{.headword} | kənˌtæmɪˈneɪʃn | n | 污染，弄脏 |
+| [contaminant]{.headword} | kənˈtæmɪnənt | n | 污染物 |
+| [intact]{.headword} | ɪnˈtækt | adj | 完整无缺的，未受损伤的，原封不动的 = undamaged |
+| [tangible]{.headword} | ˈtændʒɪbl | adj | 具体的，实际的，可触知的 = evident, obvious, manifest |
+| [tangibility]{.headword} | ˌtændʒəˈbɪlətɪ | n | 确切性 |
+| [assent]{.headword} | əˈsent | n | 同意，赞同；*vi.* 赞成，赞同 = agree to |
+| [consent]{.headword} | kənˈsent | n | 同意，赞同，准许；*vi.* 同意，赞成 |
+| [dissent]{.headword} | dɪˈsent | n | 异议，意见的分歧；*vi.* 不同意，持异议 = disagree |
+| [dissension]{.headword} | dɪˈsenʃn | n | 纠纷，不合，争吵 |
+| [resentment]{.headword} | rɪˈzentmənt | n | 愤恨，不满 |
+| [consensus]{.headword} | kənˈsensəs | n | （意见的）一致，合意，舆论=agreement |
+| [sensible]{.headword} | ˈsensɪbl | adj | 1. 明智的 =wise, sagacious 2. 能感觉到的，意识到的，明显的 =noticeable |
+| [sensibility]{.headword} | ˌsensɪˈbɪlɪtɪ | n | 敏感性，灵敏度，情感 |
+

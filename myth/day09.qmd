@@ -1,0 +1,396 @@
+# Day 9 · 推是pel，拉是tract {.unnumbered}
+
+::: {.root-banner}
+Day 9 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p86–p93
+
+<!-- p.71 -->
+
+<!-- 插图：坐在心形上的男女 -->
+
+人们常说距离产生美，恋人之间也要保持适当的距离，过于亲密就容易会腻。英语中，与push推相对应的词根是pel。反之，表lead，draw拉、拽之义的词根是tract。这两个词根是造词能力很强的词根，所以由其所构成的重要单词也很多。接下来，我们一起来看看由这两个词根所构成的词语吧！
+
+**① pel是push**
+
+- pro-向前 + pel推（向前推出去） → propel 推进，推动
+- im-向里 + pel推（推进） → impel 推动，推进
+- com-强调 + pel推（用力推） → compel 强迫，迫使
+- ex-向外 + pel推（向外推） → expel 驱逐，赶走
+- re-向后 + pel推（向后推） → repel 击退，抵制
+
+**① tract是pull**
+
+- at-<ad向 + tract拉（向一边拽） → attract 引起（关心），吸引
+- ex-向外 + tract拉（向外拉） → extract 抽出，抽取
+- dis-别的地方 + tract拉（拉到别的方向） → distract 转移（注意、关心）到别处
+- con-一起 + tract拉（一起拉） → contract 订约，收缩
+- re-向后 + tract拉（（说过的话）向后扯） → retract 取消，撤回
+
+<!-- p.72 -->
+
+## 1. 向前 pro-推进 pel，propel 促进
+
+<!-- 插图：飞机前方的螺旋桨 -->
+
+::: {.etymo}
+大家看一下左图照片里有什么？是的，有一个螺旋桨 propeller。飞机正前方的 propeller 用力旋转带动空气产生推动力和升力，飞机才得以向前飞。记这个词的时候，我们可从 propel 这个词入手。propel 由其词源义“向前推出去”引申出“促进（事情）”之义。“促进”一词正好与汉语的“推进”相近。
+:::
+
+- **propel** [prəˈpel] *vt.* 推进，驱使
+  - propel her wheelchair 驱动她的轮椅
+  - propel the king to downfall 加快了国王的倒台
+- **propulsion** [prəˈpʌlʃn] *n.* 推进，推进力
+- **propeller** [prəˈpelə(r)] *n.* 螺旋桨，推进器
+
+> The boat is **propelled** by a small engine.
+> 这艘船是由一个小引擎驱动的。
+
+> The development of new technology will **propel** the growth of the country.
+> 新技术的发展将带动国家的发展。
+
+## 2. 用力 com-推出去 pel，compel 强迫
+
+::: {.etymo}
+我们中的一部分人小时候为什么那么讨厌学习，总想去外面玩呢？心里总美美地想着和朋友一起要去游乐场 playground，妈妈却不让出去，她一边监视 surveillance 着，一边不厌其烦地说着：“快好好学习吧！”。对 compel 的词源义是“用力推”，而该词多用作“强迫，逼迫”之意。另外，惯用句型 compel somebody to do sth 的使用频率较高，用法也很重要，请大家多加注意。除 compel 外，以 com- 为词根的派生词还有很多。其中，名词 compulsion 除了具有“强迫”之义外，还有“（强烈的）冲动 strong desire”的意思。
+:::
+
+- **compel** [kəmˈpel] *vt.* 强迫，迫使 = force
+  - compel sb. to do sth. 强迫……做……
+  - compel the child to study hard 强迫孩子努力学习
+- **compulsory** [kəmˈpʌlsəri] *adj.* 强制的
+- **compulsion** [kəmˈpʌlʃn] *n.* 强迫
+
+::: {.mnemonic}
+**温馨小贴士**
+
+compulsion 1. 用力推让别人做 → 强迫 2. 强迫自己做 → （强烈的）冲动
+:::
+
+> Attendance at the meeting is **compulsory**.
+> 参加会议是具有强制性的。
+
+> The law **compels** all drivers to take out insurance against an accident.
+> 该法规强制要求所有司机必须购买意外险。
+> （take out insurance 买保险）
+
+<!-- p.73 -->
+
+> A kleptomaniac is a person with an irresistible **compulsion** to steal.
+> 盗窃狂是指患有盗窃强迫症的人。
+> （kleptomaniac [ˌkleptəˈmeɪnɪæk] 盗窃狂，有盗窃癖的人；irresistible [ˌɪrɪˈzɪstəbl] 不可抵抗的）
+
+## 3. 使推pel进im-，impel驱使~
+
+::: {.etymo}
+本来并不是要去买衣服，但到了百货商店里一看，挂着好多漂亮的新商品。正犹豫着要不要买，购物狂附体，手提包里的信用卡也兴奋地外冒呢。大家是不是也有这样的购物经历？这正是impluse buying冲动购买。当然还信用卡债的时候总是少不了后悔regret。impel多以惯用句型“impel sb. to do sth.”的形式使用，其意为“让……做……”。于是，impel的名词impulse即“冲动”之意。
+:::
+
+<!-- 插图：提包里信用卡兴奋冒出的购物狂与模特架上的衣服 -->
+
+- **impel** [ɪmˈpel] *vt.* 推进，推动或敦促某人做某事
+- **impulse** [ˈɪmpʌls] *n.* 冲动=urge
+  - a sudden impulse to laugh 突然有想笑的冲动
+  - on impulse 一时冲动
+  - impulse buying 冲动购买
+- **instinct** [ˈɪnstɪŋkt] *n.* 本能
+
+::: {.mnemonic}
+**温馨小贴士**
+
+compulsion与impulse都具有“冲动”的意思。
+urge用作名词时也有“冲动”之意，请大家一定要记住哦！
+:::
+
+> I bought the clothes **on impulse**.
+> 我一冲动就买了这件衣服。
+
+> Hanson had a sudden **impulse** to kiss her.
+> 汉森突然有想吻她的冲动。
+
+> The military dictatorship **impelled** the oppressed to fight for freedom.
+> 军事独裁政治迫使受压迫的人们为自由而战。
+> （dictatorship [dɪkˈteɪtəʃɪp] 独裁政治，独裁政府）
+
+## 4. 向外ex推pel，expel驱逐
+
+::: {.etymo}
+dictator从词源义“命令者”引申出“独裁者”之义。如果放任dictator胡作非为，国家就会灭亡，所以应该尽快把独裁者推翻。描述该语境最恰当的动词正是expel驱逐。expel具有“向外推”的词源义，可直接背诵。expel的名词是expulsion驱逐，从字面上可以看出这个名词是对动词expel的拼写略加变化而成，大家拼写时多加注意。
+:::
+
+<!-- 插图：独裁者被一脚从地球上踢飞出去，喊着“驱逐！” -->
+
+<!-- p.74 -->
+
+- **expel** [ɪkˈspel] *v.* 驱逐，赶走 = banish, deport
+  - expel the spy from the country 将间谍从该国驱逐
+  - expel the student for cheating 该生因作弊而被开除
+- **expulsion** [ɪkˈspʌlʃn] *n.* 驱逐，开除
+
+> He was **expelled** from the team for taking drugs.
+> 他因为吸毒而被队里开除。
+> （take drugs 吸毒，嗑药）
+
+> North Korea tried to **expel** all foreign journalists.
+> 朝鲜试图驱逐所有外国记者。
+
+> A female student committed suicide after receiving a notice of **expulsion** due to poor grades.
+> 一个女学生在接到因成绩太低而被开除的通知后自杀了。
+> （commit suicide 自杀，自寻了断）
+
+## 5. 向后 re- 推 pel，repel 击退，使不愉快
+
+<!-- 插图：一人张口呼出臭气，另一人掩鼻嫌恶 -->
+
+::: {.etymo}
+臭味 stink 往往让人难以忍受。尤其是在交谈的过程中，若对方口里散发出口臭 bad breath 则真让另一方难受死了。这个场面让人不由自主地联想到单词 repel。repel 的词源义是“向后退”。如果敌人 enemy 闯进来，我们将其赶出去，那就是“击退”。而如果有人把食物的垃圾推到我们面前，我们就会说“拿一边去！”边说边将其推开，毕竟那些食物垃圾“给人强烈的不快”。怎么样，这回大家对 repel 的词义有些感觉了吧？
+:::
+
+- **repel** [rɪˈpel] *vt.* 击退，使厌恶，使不愉快 = repulse
+  - repel the rebels 击退叛军
+- **repellent** [rɪˈpelənt] *adj.* 令人厌恶的，令人排斥的 = repulsive, repugnant
+  *n.* 驱虫剂
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与词根 pel (push) 相关的词语汇总
+- propel 推进，推动 → propulsion 推进，推进力
+- compel 强迫，迫使 → compulsion 强迫，强制
+- impel 推动，推进 → impulse 冲动，冲力
+- expel 驱逐，赶走 → expulsion 驱逐，开除
+- repel 击退，使厌恶 → repulsion 厌恶，反感
+:::
+
+> His bad breath **repelled** me.
+> 他的口臭让我我很反感。
+> （bad breath 口臭）
+
+> The army was ready to **repel** the enemy's attack.
+> 军队做好了击退敌人进攻的准备。
+
+> I think rats and snakes are repulsive and disgusting.
+> 我觉得老鼠和蛇让人恶心作呕。
+> （disgusting [dɪsˈɡʌstɪŋ] 令人作呕的，令人厌恶的）
+
+## 6. 向……边 at- 拽 tract，attract 引起（关心），吸引
+
+::: {.etymo}
+“不知为什么我被那男的迷住了！”如果这样的话，说明那个男人引
+:::
+
+<!-- p.75 -->
+
+起你的关注attention了。这时所使用的动词正是attract。虽然在汉语中动词“拉”多用作“拉车”，但它也可用于表达“引起……关注”之意。英语也一样。attract的词源义为“引起（的关心）”，其词义是“引起……，吸引”的意思。其名词attraction具有“名胜”的意思。像故宫这样吸引很多游客tourist的地方就是tourist attraction旅游胜地！
+
+- **attract** [ə'trækt] *vt.* 引起（好感或兴趣），吸引
+- **attraction** [ə'trækʃn] *n.* 吸引，魅力，（吸引人的）名胜
+  - tourist attraction 旅游胜地
+  - business attraction 适于做生意的地方
+  - gravitational/magnetic attraction 重力的，地心吸力的，万有引力的
+- **attractive** [ə'træktɪv] *adj.* 有魅力的，引人注目的 = engaging, fascinating
+
+> Their marriage has **attracted** a lot of interest from people.
+> 他们的婚姻引起了人们很大的兴趣。
+
+> The government has tried to **attract** foreign capital.
+> 政府努力引进国外资本前来投资。
+
+> She is more **attractive** than pretty.
+> 她不仅漂亮，而且迷人。
+
+## 7. 引 tract 到别的地方 dis-，distract 转移（注意力，关心）到别处
+
+::: {.etymo}
+为了—扫酷暑stifling heat，你和朋友去了海水浴场，身旁会经过很多身材凹凸有致的美女。毫无疑问undoubtedly，男人会被这些美女们所吸引。所以，可以说是那些美女们把男人的注意力转移到了别的地方。描述这种情景所使用的单词正是distract。使用频率较高的“distract A from B”是“把A从B引到别处”的意思。而派生词distraught则 onboard/是指为不好的事情费神，即“（精神）散漫，不安”的意思。distraught是使用频率较高的形容词，所以大家一定要记牢哦！
+:::
+
+<!-- 插图：海滩上戴墨镜的男子 -->
+
+- **distract** [dɪ'strækt] *vt.* 使分心；使混乱
+  - distract his attention from the subject 分散他对这个主题的注意力
+- **distraction** [dɪ'strækʃn] *n.* 注意力分散；心烦意乱
+- **distraught** [dɪ'strɔːt] *adj.* 心神错乱的，忧心如焚的
+
+> Don't **distract** your father while he's driving.
+> 你父亲开车的时候，不要分散他的注意力。
+
+> I study in the library as there are too many **distractions** at home.
+> 家里有太多分散注意力的东西，所以我在图书馆学习。
+
+<!-- p.76 -->
+
+> The distraught parents frantically searched for their lost child.
+> 那对忧心如焚的父母像疯了一样到处寻找他们丢失的孩子。（frantically [ˈfræntɪkəli] 疯狂地，狂热地）
+
+## 8. 向外ex-拉tract，extract抽出，抽取
+
+::: {.etymo}
+各位读者如果有蛀牙decayed tooth的话，应该马上去找牙科医生dentist拔掉extract才可行。exact这个词中含有前缀ex-向外（out），所以比较容易记忆。其词义源于词源义“向外拉”，引申为“抽取、提取”。extract的使用频率很高，既可与具体名词结合使用，也可与抽象名词结合在一起使用。当其后接植物的名词，则表示从植物中提取油；当表示获取对方的约定、合约时，也可使用extract。另外，extract多以惯用句型“extract A from B从B抽出A”的形式使用。
+:::
+
+- **extract** [ɪkˈstrækt] *vt.* 提取，选取，获得
+  - extract a promise from him 得到了他的承诺
+  - extract a confession from the suspect 得到了来自疑犯的忏悔
+- **extraction** [ɪksˈtrækʃn] *n.* 提炼物，浓缩物
+
+> I'm having my wisdom teeth **extracted**.
+> 我想把智齿拔了。
+
+> I'm going to **extract** a mole.
+> 我想除掉这颗痣。
+> （mole [məʊl] 痣，鼹鼠）
+
+> Scientists **extract** oils from the plants.
+> 科学家们从植物中提取油料。
+
+## 9. 一起con-拉出来tract，contract订约，收缩
+
+<!-- 插图：两个人握手的黑白照片 -->
+
+::: {.etymo}
+在含有词根tract-拉（pull）的单词中，决不能漏掉的单词就是contract。contract的词源为“con-一起+tract拉”其词义引申于其词源义“一起拉出”，即“签约”和“收缩”的意思。大家想象一下我们活动身体时，是不是反复交替进行着肌肉muscle收缩和放松contract and relax的动作？也就是说拉伸肌肉和血管muscle or blood vessel的动作。需要注意的是contract用作名词时，仅为“合同、合约”的意思，contraction才是“收缩”的意思。请大家不要混淆了哦！
+:::
+
+**Voca Map**
+- contract
+  - 1. 合同 ↓
+    - contract *n.* 合同
+  - 2. 收缩 ↓
+    - contraction *n.* 收缩
+* 请注意：contract的名词形式“contract”与“contraction”是语义完全不同的两个名词。
+
+- **contract** [ˈkɒntrækt] *n.* 合同 *vi.& vt.* 订契约 *vi.* 收缩=shrink↔expand 膨胀
+  - draw up a contract 草拟合同
+  - sign a contract 签订合同
+- **contraction** [kənˈtrækʃn] *n.* 收缩，缩减
+  - muscle contraction 肌肉收缩
+  - a contraction in economic activity 经济活动萎缩
+
+::: {.mnemonic}
+**温馨小贴士**
+
+draw up a contract 草拟合同
+:::
+
+<!-- p.77 -->
+
+> You'll sign a **contract** then?
+> 那你会签订这份合同吗？
+
+> Our next job is to draw up a **contract**.
+> 我们下一步将会草拟合同。
+
+> The **contract** holds good for three years.
+> 这份合同的有效期是3年。
+
+> 'I will' is usually **contracted** to 'I'll'.
+> “I will”通常缩写为“I'll”。
+
+## 10. 向后 re- 拽 tract、retract 取消、撤回
+
+<!-- 插图：一人背着写有“合约！”的包袱逃跑，并说“很抱歉取消合约！”，另一人在后追赶 -->
+
+::: {.etymo}
+如果和你签约的一方想要取消合约，那该怎么办？当然要采取那些违反合约breach of contract的措施才行！通过词源义来分析我们要学的单词retract，可以知道它有“向后拽”的意思。把说过的话向后拉回来的话，就有“取消”的意思，定下来的合约或者主张向后拉回来的话，就成了“撤回”的意思。看看，不难吧？
+:::
+
+- **retract** [rɪˈtrækt] *v.* 1. 撤回，撤销 = withdraw 2. 取消
+  - retract one's offer (remarks) 收回自己的报价（评论）
+  - retract the claws on its front feet 收回前爪
+- **retraction** [rɪˈtrækʃn] *n.* 收回，缩回
+
+> The official **retracted** his remarks and apologized to those concerned.
+> 那位官员收回了自己的言论，并对相关人员道了歉。
+
+> The newspaper published a **retraction** of its allegations.
+> 那家报社发布声明说撤销没有根据的主张。
+> （allegation [ˌælɪˈgeɪʃn] 无根据的主张，宣称）
+
+## 单词回顾
+
+::: {.etymo}
+1. 向前推进 → 促进 ______
+2. 用力推 → 强迫 ______
+3. 使推进 → 驱使 ______
+4. 向外推 → 驱逐 ______
+5. 向后推 → 击退，使不快 ______
+6. 向……边拽 → 引起（关心），吸引 ______
+7. 引到别的地方 → 转移（注意力，关心）到别处 ______
+8. 向外拉 → 抽出，抽取 ______
+9. 一起拉出来 → 订约；收缩 ______
+10. 向后拉 → 取消，撤回 ______
+:::
+
+答案 1. propel 2. compel 3. impel 4. expel 5. repel 6. attract 7. distract 8. extract 9. contract 10. retract
+
+<!-- p.78 -->
+
+## 单词检测
+
+### 一 请写出下列单词的词义。
+
+1. compel `______`
+2. expel `______`
+3. repel `______`
+4. attract `______`
+5. distract `______`
+6. extract `______`
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. 我们应该**推进** `______` 那个计划。
+2. 不要**强迫** `______` 我这么做那么做的。
+3. 那个国家要**驱逐** `______` 外国记者。
+4. 迷你裙对男人来说是**有吸引力的** `______`。
+5. 他们为了**得到** `______` 情报而使用了严刑拷打。
+6. 广播声音**分散** `______` 了我的注意力。
+7. 我们队和那个选手**签约** `______` 了。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. No one can **compel** obedience to us.
+   A. force    B. repel    C. demand
+
+2. The leader was **expelled** from the party.
+   A. attracted    B. welcomed    C. banished
+
+3. Low rents can `______` new businesses to this area.
+   A. attract    B. contract    C. distract
+
+4. She had `______` a promise from me.
+   A. expelled    B. extracted    C. subtracted
+
+---
+
+## 本日词汇速查（25 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [propel]{.headword} | prəˈpel | vt | 推进，驱使 |
+| [propulsion]{.headword} | prəˈpʌlʃn | n | 推进，推进力 |
+| [propeller]{.headword} | prəˈpelə(r) | n | 螺旋桨，推进器 |
+| [compel]{.headword} | kəmˈpel | vt | 强迫，迫使 = force |
+| [compulsory]{.headword} | kəmˈpʌlsəri | adj | 强制的 |
+| [compulsion]{.headword} | kəmˈpʌlʃn | n | 强迫 |
+| [impel]{.headword} | ɪmˈpel | vt | 推进，推动或敦促某人做某事 |
+| [impulse]{.headword} | ˈɪmpʌls | n | 冲动=urge |
+| [instinct]{.headword} | ˈɪnstɪŋkt | n | 本能 |
+| [expel]{.headword} | ɪkˈspel | v | 驱逐，赶走 = banish, deport |
+| [expulsion]{.headword} | ɪkˈspʌlʃn | n | 驱逐，开除 |
+| [repel]{.headword} | rɪˈpel | vt | 击退，使厌恶，使不愉快 = repulse |
+| [repellent]{.headword} | rɪˈpelənt | adj | 令人厌恶的，令人排斥的 = repulsive, repugnant |
+| [attract]{.headword} | ə'trækt | vt | 引起（好感或兴趣），吸引 |
+| [attraction]{.headword} | ə'trækʃn | n | 吸引，魅力，（吸引人的）名胜 |
+| [attractive]{.headword} | ə'træktɪv | adj | 有魅力的，引人注目的 = engaging, fascinating |
+| [distract]{.headword} | dɪ'strækt | vt | 使分心；使混乱 |
+| [distraction]{.headword} | dɪ'strækʃn | n | 注意力分散；心烦意乱 |
+| [distraught]{.headword} | dɪ'strɔːt | adj | 心神错乱的，忧心如焚的 |
+| [extract]{.headword} | ɪkˈstrækt | vt | 提取，选取，获得 |
+| [extraction]{.headword} | ɪksˈtrækʃn | n | 提炼物，浓缩物 |
+| [contract]{.headword} | ˈkɒntrækt | n | 合同 *vi.& vt.* 订契约 *vi.* 收缩=shrink↔expand 膨胀 |
+| [contraction]{.headword} | kənˈtrækʃn | n | 收缩，缩减 |
+| [retract]{.headword} | rɪˈtrækt | v | 1. 撤回，撤销 = withdraw 2. 取消 |
+| [retraction]{.headword} | rɪˈtrækʃn | n | 收回，缩回 |
+

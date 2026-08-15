@@ -1,0 +1,414 @@
+# Day 43 · 表示出来的ex- {.unnumbered}
+
+::: {.root-banner}
+Day 43 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p379–p387
+
+<!-- p.364 -->
+
+右图是我们在楼层中经常可以看到的标志。它表示的是遇到紧急情况时可以出去的通道。单词exit出口是解释前缀ex-的最好例子。词缀ex-的基本意是“外边out”，有时也可表示“强调”，但大部分情况下还是表示“外边”。前缀ex-会根据后面辅音的不同而有所变化。为了发音的方便，ex-中的x有时可以省略，只用e-来表示，请大家一定要注意这一点哦！
+
+<!-- 插图：EXIT 紧急出口标志与逃生小人 -->
+
+**ex-是out**
+
+- e(x)向外(out) + merge沉下去(sink)（浮现，出来）→ **emerge** 出现
+- e(x)向外(out) + vid看(see) + -ent形容词后缀（暴露在外面的）→ **evident** 明白的
+- ex-强调 + agger累积 + -ate动词后缀（堆积起（话语的意义））→ **exaggerate** 夸张
+- e(x)向外(out) + hau画(draw) + -st动词后缀（都拉到外面来）→ **exhaust** 力竭，使枯竭
+- e(x)向外(out) + hibit抓住(hold)（放在外面）→ **exhibit** 展示
+- e(x)向外(out) + labor困难的事儿 + -ate形容词后缀（费劲完成的）→ **elaborate** 精心的
+- e(x)向外(out) + norm标准 + -ous形容词后缀（从标准中脱离出来）→ **enormous** 相当多的，巨大的
+- e(x)向外(out) + radic根(root) + -ate动词后缀（连根拔起）→ **eradicate** 根除，连根拔除
+- extinguish（熄灯）的（就像熄灯一样不能使用的）→ **extinct** 熄灯的，灭绝的
+- e(x)向外(out) + ploi(t)折(fold)（（将折起来的东西）展开）→ **exploit** ①开发 ②剥削
+
+<!-- p.365 -->
+
+## 1. 正安静地呆着merge突然出来e(x)-, emerge出现、露出
+
+<!-- 插图：带有向左箭头的 Emergency 指示牌 -->
+
+::: {.etymo}
+一提起“出现”这个词，很多人都会想起appear，但emerge这个单词也是“出现”的意思。emerge的词源义是“安静地待了一会儿突然出来”，因此该单词的词义是“（突然）出现，（藏着的样子）突然露出”。
+:::
+
+单词emerge有很多派生词，其中最重要
+的是emergency突发事件。无法预见的unexpectedly突然发生的事情或者事故accident，即“突发事件”。医院的急诊室emergency room大家都听说过吧，还有emerging market投资方新开的“新兴市场”，这在经济类的报纸中经常出现，如果认识这个单词会让人觉得你很有学识konwledgeable哦！
+
+- **emerge** [ɪ'mɜːdʒ] *vi.* 出现，（模样）露出
+- **emergency** [ɪ'mɜːdʒənsɪ] *n.* 紧急情况
+  - emergency room 急救室
+- **emergence** [ɪ'mɜːdʒəns] *n.* 出现
+- **emergent** [ɪ'mɜːdʒənt] *adj.* 出现的，紧急的，新兴的
+- **emerging** [ɪ'mɜːdʒɪŋ] *adj.* 新兴的
+  - emerging market 新兴市场
+
+> The sun **emerged** from behind the clouds.
+> 太阳从云彩后面冒出来了。
+
+> New evidence has **emerged** to contradict his earlier claims.
+> 新出现的证据与他早前声称的相矛盾。
+> （contradict [ˌkɒntrə'dɪkt] 反驳，否认……的真实性）
+
+> The first tooth usually **emerges** when an infant is about six months old.
+> 第一颗牙多在婴儿出生六个月后左右长出。
+
+## 2. 向外e(x)-露出vid被人看见的evident明白的、分明的
+
+::: {.etymo}
+很少有像evident一样，单词与词源的语义完全吻合的。在前文的树形图中我们已经分析过，该词的词义是“不藏在里面，露在外面被人看见的”，那该是有多么清楚明白啊！单词evident的名词是evidence证据，其词源义是“揭露某事的东西”的意思。关于“证据”，有一个常用词组tangible evidence确凿的证据，大家一定要记住哦！同时还请记住evident的同义词obvious，与evident一样，它是常用的词汇！
+:::
+
+<!-- p.366 -->
+
+- **evident** ['evɪdənt] *adj.* 明白的，分明的 =clear, obvious
+  - self-evident 不言而喻
+  - self-evident truths 明摆着的事实
+- **evidence** ['evɪdəns] *n.* 根据 =proof
+  - tangible evidence 确凿的证据
+
+> It became **evident** that the company was in financial difficulties.
+> 很显然这家公司陷入财政困境。
+
+> At present we have no **evidence** of life on other planets.
+> 目前，在其他的星球上还没发现有生命的迹象。
+
+## 3. 提高ex- 累积agger exaggerate 夸张，话语的意义
+
+<!-- 插图：钓鱼人在比划一条大鱼 -->
+
+::: {.etymo}
+乍一看，exaggerate这个单词好像是一个很难的动词，但事实上这是个高频基础词，exaggerate的核心是词根agger，是“累积heap up”的意思。还有一点需要注意，在这里前缀ex-是“强调”的意思。因此，exaggerate从词源“提高积累（话语的意义）”演变成了“夸张”。
+:::
+
+- **exaggerate** [ɪg'zædʒəreɪt] *vt.* 夸张 =overstate
+  - his tendency to exaggerate 他喜欢夸张
+  - I'm not exaggerating. 我没夸大事实。
+- **exaggeration** [ɪg'zædʒəreɪʃn] *n.* 夸张
+- **exaggerated** [ɪg'zædʒəreɪtɪd] *adj.* 言过其实的
+
+> It is impossible to **exaggerate** the importance of health.
+> 无论怎样强调健康的重要性都不为过。
+
+> The danger of bungee jumping had been greatly **exaggerated**.
+> 蹦极运动的危险被严重夸大了。
+
+## 4. 向外ex- 拉出来hau，exhaust ①力竭 ②使枯竭
+
+<!-- 插图：拉着行李箱在路上走的人 -->
+
+::: {.etymo}
+当感到精疲力竭时，美国人常说：I'm exhausted. 我累得一点劲儿都没了。单词exhaust的词源义是“都拉到外面来”。把力气（体力）全都释放出来的话就会“①力竭”，把资源全都拉出来的话就会“②
+:::
+
+<!-- p.367 -->
+
+使枯竭”。由exhaust派生的形容词之间的区别很重要。exhausted只是“累的，枯竭的”意思，而exhaustive则从“让某人觉得很累”变成了“彻底的，总括的，全都包括在内的”。做事情不马马虎虎，而是彻底做好的话，肯定会很累吧！
+
+- **exhaust** [ɪg'zɔːst] *vt.* ①力竭；②使枯竭 *n.* (气)排出口
+  - exhaust pipe 排气管
+- **exhaustion** [ɪg'zɔːstʃən] *n.* 疲惫，耗尽
+- **exhausted** [ɪg'zɔːstɪd] *adj.* 用完的，精疲力竭的
+- **exhausting** [ɪg'zɔːstɪŋ] *adj.* 疲倦的，筋疲力尽的
+- **exhaustive** [ɪg'zɔːstɪv] *adj.* 彻底的，详尽的 = thorough
+  - carry out an exhaustive investigation 执行一次彻底的调查
+
+**Voca Map**
+- exhaust ①力竭 ②使枯竭
+  - ↓
+  - exhausted 用完的，精疲力竭的
+  - ↓
+  - exhausting 疲倦的，筋疲力尽的
+  - ↓
+  - exhaustive 让某人觉得很累 → 彻底的，详尽的
+
+> A full day's working **exhausts** me.
+> 一整天的工作使我筋疲力尽。
+
+> We have **exhausted** all our resources.
+> 我们在耗尽我们的资源。
+
+> The doctor did **exhaustive** tests on the patient.
+> 医生给病人做了全面检查。
+
+## 5. 向外ex-放hibit，exhibit展示
+
+<!-- 插图：美术馆展厅里参观艺术作品的人们 -->
+
+::: {.etymo}
+将艺术作品或贵重的文化遗产展示给众人看的活动就是exhibition展示会。单词exhibit由词源义“拿到外面”变成了“展示”之义。有趣的是，词根hibit的意思是“抓住hold”，将第一个元音字母i变成a就变成了habit习惯。什么是习惯呢？所谓习惯就是指“拥有的东西，抓住的东西”。含有这个词根的单词还有inhabitant居住者，habitat动植物的栖息地。最后，inhibit从词源义“内心里紧紧抓住想做某事之心”变为“遏制”之义。
+:::
+
+- **exhibit** [ɪg'zɪbɪt] *vi.* 展示，陈列 = display, show
+  - exhibit contemporary sculpture 展出当代雕塑作品
+  - exhibit aggressive behavior 表现出好斗的行为
+- **exhibition** [ˌeksɪ'bɪʃn] *n.* 展览，展示
+- **habit** ['hæbɪt] *n.* 习惯
+- **inhabitant** [ɪn'hæbɪtənt] *n.* 居民
+- **habitat** ['hæbɪtæt] *n.* 栖息地
+- **inhibit** [ɪn'hɪbɪt] *vt.* 阻止
+
+::: {.mnemonic}
+**温馨小贴士**
+
+exhibit 放在外面 → “展示”
+inhibit（将想做某事的心）紧紧抓在里面 → “遏制”
+:::
+
+<!-- p.368 -->
+
+> His paintings have been **exhibited** all over the world.
+> 他的作品在世界各地展出。
+>
+> The patient is **exhibiting** typical symptoms of mental illness.
+> 这个患者表现出典型的精神病症状。
+> （symptom [ˈsɪmptəm] *n.* 症状）
+
+## 6. 费力 labor 将事情做好 ex-，elaborate ①费力的，精心的；②复杂的
+
+<!-- 插图：精美的拱顶建筑雕饰 -->
+
+::: {.etymo}
+单词 elaborate 看上去简单，但其实是一个很难的单词。首先，elaborate 中的 labor 部分是最显眼的。labor 原本是“费力的事情”之义，labor 还可以表示“生孩子的痛苦”，即“分娩，阵痛”的意思。例如，She’s in labor. 她（因为生孩子所以）正在阵痛中。
+:::
+
+单词 elaborate 从词源的“费力做事情，直到做好”之义变成了“①费力的，精心的”。一言以蔽之，当你看到某物时不由自主地会感叹：“哇！做这个肯定吃了不少苦吧！”，这就属于 elaborate 的东西，因为花费了力气又花费了心思，因此就很“②复杂”了。最后，词组“elaborate on+名词”从词源义“对于某事进行精心的谈论”变成了“详细说明”的意思。
+
+- **elaborate** [ɪˈlæbəreɪt] *adj.* ①费力的，精心的；②复杂的 = complicated, knotty
+  *vi.* 详细说明 = dilate, expand
+  - elaborate on+sth. 详尽解释或说明某事
+  - elaborate on the theory 详细解释这个原理
+
+> His **elaborate** film has enjoyed great success.
+> 他精心拍摄的电影取得了巨大的成功。
+>
+> He said he was resigning but did not **elaborate** on his reasons.
+> 他说他辞职，但并没有详细地说出原因。
+
+## 7. 从标准 norm 大小中摆脱出来 e(x)-，enormous 巨大的，相当多的
+
+<!-- 插图：摆在桌子中央的超大份食物 -->
+
+::: {.etymo}
+请看一下右图中摆在桌子中央的食物！真可谓是超出标准 norm 大小的，是 enormous 巨大的。记住 enormous 一词的核心是 norm 标准。即，enormous 从其词源义“超出标准大小”发展成了“相当多的，巨大的”之义。norm 标
+:::
+
+<!-- p.369 -->
+
+准、基准的形容词是normal普通的，正常的，normal的反义词是abnormal非正常的，这样就容易理解了吧？
+
+- **enormous** [ɪˈnɔːməs] *adj.* 相当多的，巨大的 = huge, vast, immense
+  - an enormous house 巨大的房子
+  - an enormous amount of money 巨款
+- **enormity** [ɪˈnɔːməti] *n.* 极恶，暴行
+
+> He has earned an **enormous** amount of money by his business.
+> 通过经商，他挣得巨款。
+
+> The team made an **enormous** effort to achieve the championship.
+> 这个队伍为取得冠军付出了巨大的努力。
+
+## 8. 拔出 e(x)- 根 radic、eradicate 根除
+
+<!-- 插图：警察正在拔除一棵写着“犯罪”的树根 -->
+
+::: {.etymo}
+通过词源分析来记忆eradicate这个词会很有效。单词eradicate中词根radic是“根”的意思，eradicate从词源义“把根拔出来”变为“根除”之义；eradicate原本是“拔出根”的意思，但实际使用中也多作“将疾病或犯罪完全消除、根除”之义。单词eradicate是考试高频词，它的同义词有extirpate和exterminate，大家最好将这几个单词一起记住。另外需要补充的是，exterminate是“消灭（害虫）”的意思。
+:::
+
+- **eradicate** [ɪˈrædɪkeɪt] *vt.* 拔出根，根除 = extirpate, exterminate, eliminate
+  - eradicate terrorism 消灭恐怖主义
+  - eradicate sex /age discrimination 消灭性别/年龄歧视
+- **eradication** [ɪˌrædɪˈkeɪʃn] *n.* 根除，消灭
+- **radical** [ˈrædɪkəl] *adj.* 激进的，彻底的，基本的
+
+::: {.mnemonic}
+**温馨小贴士**
+
+虽然eradicate的词源是“拔出根”的意思，但实际上它并不用做花或树的“拔出根”之义，而是用做“完全消除、根除”犯罪、腐败、贫穷等具有否定意义的抽象名词。
+:::
+
+> The President's aim is to **eradicate** poverty in the country within 10 years.
+> 该国总统的目标是在10年内完全消除国内的贫困。
+
+> We'll make an effort to **eradicate** crimes against children.
+> 我们要致力于消除儿童犯罪。
+
+<!-- p.370 -->
+
+## 9. 就像熄了灯 extinguish 一样不能活动，extinct ①熄灯的；②灭绝的
+
+<!-- 插图：恐龙 -->
+
+::: {.etymo}
+每一栋建筑里面都会配有灭火装备 fire extinguisher灭火器。
+:::
+
+单词extinguish的词源分析是：ex-强调+tingui关掉quench+-sh动词后缀→完全熄掉（灯），由此可以看出该词是一个表示“熄灭”的动词。由extinguish派生出的形容词是extinct。因此可知，extinct除了“①熄灯的，不能活动的”的意思之外，还有一层表示来源于动物不再能活动的意思，即“②灭绝的”。实际使用中，大家会经常接触到extinct作为“灭绝的”用法。而extinct animals灭绝的动物这个词组也是一个常见表达哦！
+
+- **extinct** [ɪkˈstɪŋkt] *adj.* ①熄灯的，不能活动的；②灭绝的，消灭的 = nonexistent
+  - extinct animals 灭绝的动物
+  - fossils of many extinct species 许多灭绝物种的化石
+- **extinction** [ɪkˈstɪŋkʃn] *n.* 熄灭，消灭
+
+> Dinosaurs became **extinct** 65 million years ago.
+> 恐龙在6500万年前灭绝了。
+
+> The tiger in South Korea has been **extinct** for a long time.
+> 在韩国，老虎很久以前就绝迹了。
+
+> We must protect species in danger of **extinction**.
+> 我们应该保护那些濒临灭绝的动物。
+
+---
+
+## 10. 将折起来的 ploi(t) 东西展开 ex-，exploit 1.开发，利用 2.剥削
+
+::: {.etymo}
+可以说单词exploit是一个拥有两张“面孔”的动词。为什么这么说呢？因为它既有肯定的意义，也有否定的意义。看一下exploit的词源义，“（将折起来的东西）展开”。（将资源）向好的方面展开的话就是“①开发、利用”的意思，（将别人的能力）向坏的方面展开的话就是“②剥削”的意思。
+:::
+
+单词exploit作为名词使用时，是“功，业绩”的意思，该词义源于其词源义“（将能力）展开”。
+
+<!-- 插图：开采与剥削卡通图 -->
+
+::: {.mnemonic}
+**温馨小贴士**
+
+exploit的词源义：（将折起来的东西）展开；①（将埋藏的资源）疏浚、展开→开发、开拓等；②（将别人的能力）向坏的方面展开→榨取、剥削；③将自己能力的展开→功、业绩（常用复数形式）
+:::
+
+<!-- p.371 -->
+
+- **exploit** [ˈeksplɔɪt] *vt.* ①开发利用（资源）=develop ②剥削（劳动力）
+  *n.* [复数]功，业绩=feat
+- **exploitation** [ˌeksplɔɪˈteɪʃən] *n.* 开发，开采；剥削
+
+> The company got permission to **exploit** natural gas in the country.
+> 这家公司得到了可以在这个国家开采天然气的许可。
+
+> Many employers **exploit** and underpay part-time workers.
+> 许多雇主剥削兼职打工的人，只支付很少的工资给他们。
+
+> His legendary **exploits** were later made into a movie.
+> 他传奇般的事迹后来被拍成了电影。
+> （legendary [ˈledʒəndəri] *adj.* 传说的，传奇的，著名的）
+
+## 单词回顾
+
+::: {.etymo}
+1. 正安静地呆着突然冒出来
+   → 出现，露出 ______
+:::
+
+2. 向外露出能被看见的
+   → 明白的，分明的 ______
+
+3. （话语的意义）堆高
+   → 夸张 ______
+
+4. 拖出来、揪出来
+   → ①力竭；②使枯竭 ______
+
+5. 向外放
+   → 展示 ______
+
+6. 费力将事情做好
+   → ①费力的，精心的；②复杂的 ______
+
+7. 超出标准大小的
+   → 巨大的，相当多的 ______
+
+8. 拔出根
+   → 根除 ______
+
+9. 就像熄了灯一样不能活动
+   → ①熄灯的；②灭绝 ______
+
+10. 将折起来的东西展开
+    → ①开发，利用；②剥削 ______
+
+答案 1. emerge 2. evident 3. exaggerate 4. exhaust 5. exhibit 6. elaborate 7. enormous 8. eradicate 9. extinct 10. exploit
+
+<!-- p.372 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. emerge ______
+2. exaggerate ______
+3. elaborate ______
+4. enormous ______
+5. eradicate ______
+6. extinct ______
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 随着时间的流逝，真相会被**揭露出来**______的。
+2. 他总是**夸大**______自己做的事情。
+3. 为了准备考试我学了很久，现在已经**完全没有力气**______了。
+4. 我被她**精心**______准备的礼物感动了。
+5. 那个西瓜**相当**______大。
+6. 我们应该**根除**______所有的恐怖行为。
+7. 恐龙是代表性的**灭绝**______生物。
+8. 那个公司在**剥削**______员工。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Insects **emerge** in the spring and start multiplying rapidly.
+   A. appear
+   B. appeal
+   C. vanish
+
+2. Newspapers tend to **exaggerate** their influence on people.
+   A. overhang
+   B. overstate
+   C. overlook
+
+3. Dinosaurs became ______ millions of years ago.
+   A. extinguished
+   B. extinct
+   C. emergent
+
+4. The size of the house was **enormous**.
+   A. huge
+   B. elaborate
+   C. abnormal
+
+---
+
+## 本日词汇速查（26 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [emerge]{.headword} | ɪ'mɜːdʒ | vi | 出现，（模样）露出 |
+| [emergency]{.headword} | ɪ'mɜːdʒənsɪ | n | 紧急情况 |
+| [emergence]{.headword} | ɪ'mɜːdʒəns | n | 出现 |
+| [emergent]{.headword} | ɪ'mɜːdʒənt | adj | 出现的，紧急的，新兴的 |
+| [emerging]{.headword} | ɪ'mɜːdʒɪŋ | adj | 新兴的 |
+| [exaggerate]{.headword} | ɪg'zædʒəreɪt | vt | 夸张 =overstate |
+| [exaggeration]{.headword} | ɪg'zædʒəreɪʃn | n | 夸张 |
+| [exaggerated]{.headword} | ɪg'zædʒəreɪtɪd | adj | 言过其实的 |
+| [exhaust]{.headword} | ɪg'zɔːst | vt | ①力竭；②使枯竭 *n.* (气)排出口 |
+| [exhaustion]{.headword} | ɪg'zɔːstʃən | n | 疲惫，耗尽 |
+| [exhausted]{.headword} | ɪg'zɔːstɪd | adj | 用完的，精疲力竭的 |
+| [exhausting]{.headword} | ɪg'zɔːstɪŋ | adj | 疲倦的，筋疲力尽的 |
+| [exhaustive]{.headword} | ɪg'zɔːstɪv | adj | 彻底的，详尽的 = thorough |
+| [exhibit]{.headword} | ɪg'zɪbɪt | vi | 展示，陈列 = display, show |
+| [exhibition]{.headword} | ˌeksɪ'bɪʃn | n | 展览，展示 |
+| [habit]{.headword} | 'hæbɪt | n | 习惯 |
+| [inhabitant]{.headword} | ɪn'hæbɪtənt | n | 居民 |
+| [habitat]{.headword} | 'hæbɪtæt | n | 栖息地 |
+| [elaborate]{.headword} | ɪˈlæbəreɪt | adj | ①费力的，精心的；②复杂的 = complicated, knotty |
+| [enormous]{.headword} | ɪˈnɔːməs | adj | 相当多的，巨大的 = huge, vast, immense |
+| [enormity]{.headword} | ɪˈnɔːməti | n | 极恶，暴行 |
+| [eradication]{.headword} | ɪˌrædɪˈkeɪʃn | n | 根除，消灭 |
+| [extinct]{.headword} | ɪkˈstɪŋkt | adj | ①熄灯的，不能活动的；②灭绝的，消灭的 = nonexistent |
+| [extinction]{.headword} | ɪkˈstɪŋkʃn | n | 熄灭，消灭 |
+| [exploit]{.headword} | ˈeksplɔɪt | vt | ①开发利用（资源）=develop ②剥削（劳动力） |
+| [exploitation]{.headword} | ˌeksplɔɪˈteɪʃən | n | 开发，开采；剥削 |
+

@@ -1,0 +1,352 @@
+# Day 7 · 如果壁炉里的火被熄灭 cover fire，那就是 curfew 宵禁！ {.unnumbered}
+
+::: {.root-banner}
+Day 7 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p67–p75
+
+<!-- p.52 -->
+
+人类生活的社会不断发展，自然而然形成的是习惯custom与传统tradition。这些习惯和传统也完整地融入到了词汇中。在各种不同途径生成的单词中，最有趣的部分正是这些源于习惯和传统的词汇。譬如，表示“宵禁”的curfew源于中世纪的制度。好奇源于哪些制度吧？背诵这些单词最好的方法就是边理解词源边背诵。
+
+<!-- 插图：壁炉前熄火准备睡觉的场景，对话框“现在，该睡觉了”、“Cover fire” -->
+
+**Voca Map：源于习惯传统**
+
+- ① cover fire（“熄火”后就要上床睡觉的习惯）→ **curfew** 宵禁
+- ② au- 鸟 + -spic 看见（look）+ -ious 形容词后缀（看起来在用力飞的鸟）→ **auspicious** 吉兆的
+- ③ accolade（把剑放在骑士的脖子上的仪式）→ **accolade** 荣誉，表彰
+- ④ decim 十分之— + -ate 动词后缀（引发叛乱、暴动的人中，10个有1个被砍头）→ **decimate** 大批杀害
+- ⑤ grotto 洞穴（画有可怕壁画的“洞穴”）→ **grotesque** 怪诞的，荒诞不羁的
+- ① Goldsmiths' Hall 的 mark（保证金银纯度的标记）→ **hallmark** （显著的）特征
+- ② Boycott（被英国佃户排挤的人）→ **boycott** 抵制（货物等）
+- ③ sabot（木屐）（穿着“木屐”踩庄稼的事件）→ **sabotage** 蓄意破坏
+- ④ sanc 神圣的 + -tion 名词后缀（“神圣的”便认可，“不神圣”的便制裁）→ **sanction** 认可，制裁
+- ⑤ ostracism 陶片放逐制（将名字写在陶片上的人流放的制度）→ **ostracize** 流放，放逐
+
+<!-- p.53 -->
+
+## 1. 源于熄火后让人睡觉的curfew宵禁
+
+<!-- 插图：公园宵禁告示牌 -->
+
+::: {.etymo}
+在我国内以前也实行过晚上12点以后的宵禁。在西方，中世纪时期也有过宵禁。在当时，晚上到了固定的时间，钟声一响，路上的行人都要回家；在家的人都要熄灭cover fire壁炉hearth的火去睡觉。curfew是由“cover fire”合成的法语词汇，意为“宵禁”。
+:::
+
+- **curfew** [ˈkɜːfjuː] *n.* 宵禁
+  - impose a curfew 下宵禁令
+  - lift a curfew 解除宵禁
+  - set a curfew 定宵禁时间段
+
+> My father imposed a 10 o'clock **curfew** on me.
+> 父亲禁止我晚上10点以后出门。
+
+> The government imposed a night-time **curfew** throughout the country.
+> 政府在全国实行夜间时段宵禁。
+
+> If you keep reasonable hours, there is no need to set a **curfew**.
+> 如果你能遵守时间，那就没有必要执行宵禁。
+
+## 2. 源于通过看飞起来的鸟来占卜的auspicious吉兆
+
+<!-- 插图：占卜师看着飞鸟喊“吉兆啊！” -->
+
+::: {.etymo}
+据说在古罗马为了占卜，要观察observation天上的飞鸟。通过鸟飞的方向和挥动翅膀的用力程度等来占卜吉凶。尤其在发动战争之前，更要进行多次这种占卜。通过拆分auspicious来分析词源的话，便是au-鸟+spic看+-ous形容词后缀→观察鸟。鸟用力飞向天空的话，就是“吉兆”的信号，于是便产生了单词auspicious吉兆、吉利的。
+:::
+
+- **auspicious** [ɔːˈspɪʃəs] *adj.* 吉兆的，吉利的 = favorable
+- **auspice** [ˈɔːspɪs] *n.* 帮助，支持 = help, support
+  - under the auspices of 在……的保护下，在……的赞助下
+  - the auspicious start 吉祥的开端
+
+**Voca Map**
+- auspicious 吉兆的 ↔ ominous 不吉利的
+  - ‖ propitious 吉祥的 ↔ sinister 不祥的
+
+> It's my honor to toast the bride and groom on this **auspicious** occasion.
+> 在这大喜日子，提议为新郎新娘举杯祝福是我的荣幸。（toast作动词时，意为“提议为……而干杯”。）
+
+> We have to set an **auspicious** day for our wedding.
+> 我们要为我们的婚礼选个吉日。
+
+> The organization works under the **auspices** of the government.
+> 组织的工作得到了政府的支持。
+
+<!-- p.54 -->
+
+## 3. 源于将宝剑放在骑士脖子上的仪式 accolade 荣誉，表彰
+
+<!-- 插图：女王手持宝剑为单膝跪地的骑士行册封仪式 -->
+
+::: {.etymo}
+在西方，任命骑士knight的时候，女王要将宝剑轻轻地放在骑士的颈部上轻敲两下，然后再将宝剑授予给骑士，这就是骑士授予仪式ceremony。在当时，成为女王的骑士被视为男人的最高“荣誉”。将accolade词源拆分进行分析如下：ac-ad向……边+col（l）脖子+ -ade名词后缀→把（刀）放在脖子上。col是含有“脖子neck”之意的词根。关于这点，我们可以通过collar（衣服）脖子部分，领子这个单词轻松地理解。accolade也用于对做得好的事情进行“表彰”之意。
+:::
+
+- **accolade** [ˈækəleɪd] *n.* 荣誉，表彰=prize, compliment, citation
+  - deserve the accolade 值得表彰
+  - receive the accolade from the President 得到了来自总统的嘉奖
+
+> For his outstanding achievement, he **received the accolade**.
+> 因为成就突出，他获得了嘉奖。
+
+> The singer received a Grammy Award, the highest **accolade** in the music business.
+> 这名歌手获得了格莱美奖，这是音乐界的最高荣誉奖项。
+
+> The new car deserves the **accolade**, which was obtained by its predecessors.
+> 这款新车也应获得之前老款汽车所获得的荣誉。
+> （predecessor [ˈpriːdɪsesə(r)] 前任，前身，原有事物）
+
+## 4. 引发叛乱的人中，10个人有1个被砍头，decimate 很多人被杀
+
+<!-- 插图：古罗马军队处决士兵的场景 -->
+
+::: {.etymo}
+在古罗马时代，军队里引发叛乱rebellion或者暴动riot的人会被处以可怕的刑罚punishment。这种刑罚就是通过抓阄，随机randomly从10个人中抽取1人执行死刑capital execution。decimate是由decim10分之1+ -ate动词后缀组合而生成的具有“10个人中有1人被杀”之意的单词，该词也作“（疾病，战争）夺走很多人的性命”之意使用。
+:::
+
+- **decimate** [ˈdesɪmeɪt] *vt.* 成批杀死，大量毁坏
+  - the epidemic that decimated many people 导致很多人死亡的传染病
+  - decimate thousands of trees 导致成百上千棵树的死亡
+- **decimation** [ˌdesɪˈmeɪʃn] *n.* 大批杀死
+
+<!-- p.55 -->
+
+> Many people has been **decimated** by an unknown disease.
+> 很多事都死于一种不知名的疾病。
+
+> Human desire has **decimated** the wildlife population.
+> 人类的欲望导致了大批野生动物的灭亡。
+
+## 5. 洞穴 grotto 中可怕而又奇怪的壁画，grotesque 奇怪的，古怪的
+
+<!-- 插图：洞穴壁画与探险的人们 -->
+
+::: {.etymo}
+15世纪末古罗马废墟ruins被发现的时候，在这个废墟的地下墙面上发现了离奇古怪的壁画。因为这些壁画过于怪诞奇异，所以吸引了很多人的关注attention。其实，古罗马人居住在洞穴grotto里，到了晚上，因为害怕trepidation洞穴外面传来的动物们可怕的声音，所以在洞穴的墙壁上画了比实际动物更古怪、更离奇的动物壁画。自从那些壁画被发现后，由grotto洞穴＋-sque像（图画）所构成的grotesque像洞穴（里的图画）一词便开始作为“古怪的，吓人的”之意来使用。
+:::
+
+- **grotesque** [grəʊˈtesk] *adj.* 不自然的，奇怪的，可笑的 = unnatural, ugly
+  - wear a grotesque mask 戴了一个奇特的面具
+  - a grotesque distortion of the facts 对事实的严重歪曲
+
+> The sculpture was **grotesque**.
+> 这座雕塑奇形怪状。
+
+> The movie is a thriller based on a **grotesque** serial murder case.
+> 这电影是部惊悚片，里面有一连串奇怪的谋杀案。
+
+## 6. 在 Goldsmiths' hall 上做出保证金银纯度的标记 mark，hallmark（显著的）特征
+
+<!-- 插图：工匠在金属器具上印制标记 -->
+
+::: {.etymo}
+hallmark是由hall大厅和mark标记所构成的合成词，意为“（显著的）特征”。从1700年开始，在英国的Goldsmiths' Hall开始在金银制品上标有保证guarantee纯度的标记mark，那个标记正是Hallmark。因为有了这个标记，人们相信并购买印着Hallmark的金银制品。从那时起，hallmark作为“（显著的）特征”之意使用，在韩国也有“KS mark”一词。可见，不同的语言之间也有相通之处！
+:::
+
+<!-- p.56 -->
+
+- **hallmark** [ˈhɔːlmɑːk] *n.*（显著的，典型的）特征
+  - the hallmarks of a great baseball player 一名优秀棒球运动员的特征
+  - the hallmarks of a serial killer 连环杀手的特征
+
+> Simplicity of design is a **hallmark** of our products.
+> 设计简洁是我们产品的特征。
+
+> Police said the explosion bore all the **hallmarks** of a terrorist attack.
+> 警察说这次爆炸具有恐怖袭击的所有特征。
+
+## 7. 源于英国佃户抵制的人物 Boycott，boycott 联合抵制
+
+<!-- 插图：示威标语牌，写有 ON STRIKE SUPPORT STRIKING WORKERS BOYCOTT -->
+
+::: {.etymo}
+大家都听过外来词“boycott”吧？意为“联合抵制”的 boycott 是遭到英国佃户 tenant 排挤的一个人的名字。1880 年，某贵族的土地管理者 Boycott 无情地拒绝了佃户们恳请降低税金的要求。于是愤怒的佃户们开始联合起来抵制 Boycott。邮递员拒绝为其投递信件，商家也不卖东西给 Boycott 的家人。该事件影响较大，单词 boycott 表示“对某物/某人联合抵制”应运而生。
+:::
+
+- **boycott** [ˈbɔɪkɒt] *n.*（对某特定商品）联合抵制，拒绝参加 *vt.* 联合抵制
+  - plans to boycott Japanese products 联合抵制日本产品的计划
+  - boycott companies that were polluting the environment 联合抵制那些污染环境的企业
+
+> Farmers are trying to organize a **boycott** of all imported meat.
+> 农民打算组织一次联合抵制进口肉类产品的活动。
+
+> Several countries have said they may **boycott** next year's Olympic Games.
+> 好几个国家都声称他们可能会联合抵制明年的奥运会。
+
+## 8. 源于穿着木屐 sabot 踩庄稼的事件，sabotage 故意破坏
+
+::: {.etymo}
+拖欠工资 wage 的雇主现在依然存在。在中世纪的欧洲，有很多用不当方法来对待佃户的地主，地主让人干活却不给工钱，或向佃户征收高额的税金，等等，这让贫苦的农民生活更加困难。实在忍无可忍时，农民
+:::
+
+<!-- p.57 -->
+
+人们便揭竿而起，抱着“大家同归于尽”的心态，将收获的庄稼crop铺在地上，穿着木屐在上面踩以反抗压迫。
+
+对sabotage一词进行词源拆分分析，可以清楚地看到sabot木屐+-age名词后缀是用木屐踩（庄稼）的意思。该词也用于表达对所遭受的不正当待遇感到愤怒时而去“故意破坏物品”之意。
+
+<!-- 插图：农民用木屐踩坏庄稼和拖拉机 -->
+
+- **sabotage** [ˈsæbətɑːdʒ] *n.* 故意损坏机器，捣乱，怠工
+  *vt.* 蓄意破坏，阴谋摧毁（机器、铁路、桥梁）
+  - the sabotage of the machines 故意损坏机器的行为
+  - their acts of blockade and sabotage 他们所做的封锁和破坏行为
+
+::: {.mnemonic}
+**温馨小贴士**
+
+grotesque（奇怪的），boycott（联合抵制），sabotage（故意的破坏活动）这三个词都是外来词。
+:::
+
+> The rebels were planning acts of **sabotage** to destabilize the country.
+> 这些叛徒在策划扰乱国家稳定的阴谋。
+> （destabilize [ˌdiːˈsteɪbəlaɪz] 使不稳定，使动摇）
+
+> Demonstrators have **sabotaged** the international conference.
+> 示威者成功阻止了国际会议的召开。
+
+## 9. 神圣sanc的话就认可，不神圣的话就制裁，sanction认可，制裁
+
+<!-- 插图：宗教法庭或教会审判场景 -->
+
+::: {.etymo}
+英文报纸中有个经常出现的词——sanction神圣。将之进行词源拆分分析便得到sanc神圣的（sacred）+-tion名词后缀。其实，在宗教religion作为世事判断标准的过去，通常都由教会来判定案件的正确与否。如果是神圣的东西或行为就会得到“认可approval”，如果不神圣就会加以“制裁restriction”，这便是该词的由来。
+:::
+
+sanction的单数形式是“认可”的意思，复数形式是“制裁”的意思。当其用做动词时，只有“认可”这一个意思，这点要多加注意。
+
+- **sanction** [ˈsæŋkʃn] *n.* 1. 批准=approval；2.（复数形式）制裁=restriction
+  *v.* 批准，认可=approve
+  - impose sanctions 加以制裁
+  - lift sanctions 解除制裁
+  - trade sanctions 贸易制裁
+  - economic sanctions 经济制裁
+
+**Voca Map：sanction**
+- sanction
+  - 1. 认可，批准，承认
+    - ↓
+    - 对神圣的东西或行为予以认可，承认
+    - ↓
+    - 认可，承认
+  - 2. 制裁
+    - ↓
+    - 对不神圣的东西或行为采取制裁（多用复数形式）
+
+> The U.S. imposed economic **sanctions** on North Korea.
+> 美国对北朝鲜实行了经济制裁。
+
+<!-- p.58 -->
+
+> The church refused to **sanction** the king's second marriage.
+> 教会拒绝承认国王的第二次婚姻。
+
+## 10. 源于陶片驱逐制 ostracism 的 ostracize 驱逐
+
+<!-- 插图：写着名字的陶片飞向被驱逐的人 -->
+
+::: {.etymo}
+在古雅典 Athens，公民们可以在公民大会上匿名投票，将自己认为有可能通过叛乱 rebellion 或者谋反 treason 而成为将来领导者的人名写在陶器碎片上，这便是 ostracism 陶片驱逐制。于是写在陶器碎片上的人就要从雅典被流放10年。ostracize 是 ostracism 的动词，表“放逐，排斥”的意思。
+:::
+
+- **ostracize** [ˈɒstrəsaɪz] *vt.* 放逐，排斥 = banish, expel, deport
+  - be ostracized by his neighbors 他遭到邻居们的排斥
+  - ostracize her because of the way she dressed 她因穿衣风格而被排斥
+- **ostracism** [ˈɒstrəsɪzəm] *n.* 流放，放逐，排斥
+
+> She was **ostracized** by the other students.
+> 她被其他学生排斥。
+
+> He was **ostracized** by his colleagues for refusing to support the strike.
+> 由于拒绝支持罢工，他遭到了同事的排斥。
+
+## 单词回顾
+
+::: {.etymo}
+1. 源于熄火后让人睡觉的制度 → 宵禁 `______`
+2. 从用力飞向天空的鸟所看出来的 → 吉兆 `______`
+3. 源于将宝剑放在骑士脖子上的仪式 → 荣誉，表彰 `______`
+4. 源于引发叛乱的人中，10个人有1个被砍头 → 很多人被杀 `______`
+5. 源于洞穴中即可怕又怪异的壁画 → 奇怪的，离奇的 `______`
+6. 源于在 Goldsmiths' Hall 保证金银纯度的标记 → （明显的）特征 `______`
+7. 源于被英国的佃户抵制的人物 → 联合抵制 `______`
+8. 源于穿着木屐踩庄稼的事件 → 故意破坏 `______`
+9. 源于神圣 sanct 的话就认可，不神圣的话就制裁 → 认可，制裁 `______`
+10. 源于驱逐写在陶器碎片上的人的制度 → 驱逐 `______`
+:::
+
+答案 1. curfew 2. auspicious 3. accolade 4. decimate 5. grotesque 6. hallmark 7. boycott 8. sabotage 9. sanction 10. ostracize
+
+<!-- p.59 -->
+
+## 确认并攻克下列单词
+
+### 一 请写出下列单词的词义。
+
+1. curfew `______`
+2. decimate `______`
+3. grotesque `______`
+4. hallmark `______`
+5. boycott `______`
+6. sanction `______`
+
+### 二 请写出下列阴影标识部分的单词。
+
+1. **宵禁** `______` 的时间是晚上10点。
+2. 很多人选择**吉日** `______` 结婚。
+3. 战争和疾病**夺走了** `______` 很多人的生命。
+4. 由于长时间与疾病做斗争，他的脸变成了**奇怪的** `______` 样子。
+5. 我们开展了**联合抵制** `______` 快餐食品的运动。
+6. 被拖欠工资的劳动者**故意破坏** `______` 了工厂的机器。
+7. 对那个暴力集团的行为应该加以**制裁** `______`。
+8. 从农村转学来的学生**遭到了排挤** `______`。
+
+### 三 请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. The whole town was placed under `______` between 11:00 p.m — 5:00 a.m.
+   A. boycott
+   B. sabotage
+   C. curfew
+
+2. Diligence is a `______` of Korean people.
+   A. earmark
+   B. hallmark
+   C. trademark
+
+3. She was **ostracized** by her neighbors.
+   A. banished
+   B. decimated
+   C. organized
+
+4. Gambling won't be **sanctioned** in any form.
+   A. limited
+   B. banned
+   C. approved
+
+<!-- p.? -->
+
+[?]
+
+---
+
+## 本日词汇速查（13 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [curfew]{.headword} | ˈkɜːfjuː | n | 宵禁 |
+| [auspicious]{.headword} | ɔːˈspɪʃəs | adj | 吉兆的，吉利的 = favorable |
+| [auspice]{.headword} | ˈɔːspɪs | n | 帮助，支持 = help, support |
+| [accolade]{.headword} | ˈækəleɪd | n | 荣誉，表彰=prize, compliment, citation |
+| [decimate]{.headword} | ˈdesɪmeɪt | vt | 成批杀死，大量毁坏 |
+| [decimation]{.headword} | ˌdesɪˈmeɪʃn | n | 大批杀死 |
+| [grotesque]{.headword} | grəʊˈtesk | adj | 不自然的，奇怪的，可笑的 = unnatural, ugly |
+| [hallmark]{.headword} | ˈhɔːlmɑːk | n | （显著的，典型的）特征 |
+| [boycott]{.headword} | ˈbɔɪkɒt | n | （对某特定商品）联合抵制，拒绝参加 *vt.* 联合抵制 |
+| [sabotage]{.headword} | ˈsæbətɑːdʒ | n | 故意损坏机器，捣乱，怠工 |
+| [sanction]{.headword} | ˈsæŋkʃn | n | 1. 批准=approval；2.（复数形式）制裁=restriction |
+| [ostracize]{.headword} | ˈɒstrəsaɪz | vt | 放逐，排斥 = banish, expel, deport |
+| [ostracism]{.headword} | ˈɒstrəsɪzəm | n | 流放，放逐，排斥 |
+

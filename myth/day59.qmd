@@ -1,0 +1,401 @@
+# Day 59 · 不管是造船，还是打马虎眼，凭手艺做事就是 craft {.unnumbered}
+
+::: {.root-banner}
+Day 59 · 词源故事记单词
+:::
+
+> 出自《英语单词超强记忆法》（〔韩〕金炯卓）　原书扫描页 p520–p528
+
+<!-- p.505 -->
+
+在韩国，人气最旺 popularity 的电脑游戏就是“星际争霸 StarCraft”。单词 StarCraft 中的 craft 原本是“手艺”的意思。由“手艺”又衍生出了“（专门）职业”，“（小）船、飞机、宇宙飞船”，甚至“打马虎眼”等很多种不同义项，让我们切切实实地感受到了多义词的词义变化跨度之大。接下来就让我们一起来了解一下这些拥有着丰富的让人意想不到的词义的多义词吧。
+
+**Voca Map：多义词**
+
+- **casual**
+  - 原意：（在意想不到的情况下）发生的……
+    - 事情在毫无计划的情况下发生的 → ❶ 偶然的、不经意的
+    - 虽然不在计划之中，但如果需要的话 → ❷ 不定期的，偶尔的
+    - 没好好打扮，着装舒服的 → ❸ 非正式的
+- **craft**
+  - 原意：手艺
+    - 手艺，只有自己掌握的技术 → ❶ 手艺，手工艺（品）；（专门）职业
+    - 以前手工制造的船 → ❷（小）船，飞机，宇宙飞船
+    - 打马虎眼来蒙蔽别人的眼睛 → ❸ 骗术
+- **character**
+  - 原意：雕刻的记号
+    - 某人区别于他人的特征 → ❶ 性格，特性
+    - 在电影和小说中，有着（独特）特征的人物 → ❷（出场）人物
+    - 区别于普通人的道德特征 → ❸ 人格
+- **term**
+  - 原意：结束
+    - 时间的结束 → ❶ 期限
+    - 想法的结束 → ❷ 话，语言；说话
+    - 两个人之间的协商结束（复数形式 terms） → ❸ [复数]关系，条件
+
+<!-- p.506 -->
+
+## 1. (在意想不到的情况下) 发生的 casual ①偶然的，不经意的；②不定期的，偶尔的；③随意的
+
+::: {.etymo}
+单词 **casual** 虽然主要是用于跟时尚相关的语境中，但其实它是一个有着很多不同义项的多义词。首先，**casual** 的词源分析是：**cas（u）** 降落＋**-al** 形容词后缀 →（在意想不到的情况下）降落的，发生的，即“偶然的”意思。在英语中，“偶然的”指的是一种“没有计划的 not planned”的状态。接下来我们一起来看一下 **casual** 的各个义项吧。
+:::
+
+### (1) 事情在毫无计划的情况下发生的 → 偶然的，不经意的
+
+<!-- 插图：漫画人物对话“那个真的是无心之言啊~” -->
+
+某件事情的发生，有可能是**有意的 intentional**，也有可能是在完全无计划的情况下发生的。**事故 accident** 就是最有代表性的词例 typical case。所谓事故指的是在完全意想不到的情况下“偶然发生的事情”。如果**故意 deliberately** 引起事故，那就不能称其为事故，而是**诈骗保险金 insurance fraud** 的行为了。**casual** 的第一个义项就是由发生“无计划的事情”变为“偶然的，不经意的，无意图的”。
+
+> It was just a **casual remark** — I wasn't really serious.
+> 这只是一时戏言，我不是认真的。
+
+> She seemed to have a **casual** attitude toward her children.
+> 她似乎对孩子采取放任的态度。
+
+### (2) 虽然不在计划中，但如果需要的话 → 不定期的，偶尔的
+
+有人喜欢定期购读报纸和杂志，但也有人会按照情况的需要，当有自己感兴趣的内容时才会偶尔买来看，这种人就叫做 **casual reader**。在工地里根据实际需要偶尔雇用的工人就叫做 **casual worker 散工**。像这样事前没有计划，只是按照情况的需要做的事情就是 **casual** 的事情。还是没有脱离“意想不到发生的”这个原意吧？
+
+> Owen has occasional **casual work**, but mostly he is unemployed.
+> 欧文偶尔做做临时的工作，但他通常都是失业状态。
+
+> The museum is of great interest both to experts and to **casual visitors**.
+> 这个博物馆让专家和休闲游客都很感兴趣。
+
+### (3) 没好好打扮，着装舒服的 → 非正式的，便装的
+
+<!-- 插图：人们围坐在桌前休闲交谈 -->
+
+与 **formal** 相对，“**casual**”指的是休闲的服装或者不太正式的衣服。最具典型的休闲服就是牛仔裤和运动鞋。单词 **casual** 并不只用于时尚方面。如果说气氛“**casual**”的话，是指“（不拘泥于古板的形式）很舒服”的意思。
+
+<!-- p.507 -->
+
+> I like to wear **casual clothes**.
+> 我喜欢穿休闲服装。
+
+> The atmosphere at the meeting was quite **casual**.
+> 会议的气氛相当轻松。
+
+- **casual** [ˈkæʒuəl] *adj.* ①偶然的，不经意间的；②不定期的，偶尔的；③随意的
+  - a casual reader of the newspaper 不定期购买报纸的读者
+  - a casual remark 漫不经心的话语
+  - a casual worker 临时工
+  - casual atmosphere 轻松的氛围
+- **casualty** [ˈkæʒuəlti] *n.* 意外事故，伤亡人员
+  - road casualties 因交通事故而伤亡的人员
+
+> **Voca Map**
+> - **casual**
+>   - 原意：（在意想不到的情况下）发生的
+>   - 事情在毫无计划的情况下发生的 → 偶然的
+>   - 虽然不在计划中，但如果需要的话 → 不定期的，偶尔的
+>   - 没好好打扮，穿着舒服的 → 非正式的
+
+## 2. 手艺 craft ①手艺，手工艺（品）；（专门）职业；②（小）船，飞机，宇宙飞船；③骗术
+
+::: {.etymo}
+大概很多人都知道“星际争霸StarCraft”这个游戏。“StarCraft”的意思是“宇宙战争的技术”，这个游戏的选手们的技艺craft快得真的有点儿让人瞠目结舌。
+:::
+
+接下来我们要学习的单词craft也是一个有着多个不同义项的多义词。其词源由“技术skill”慢慢变成了“手艺”，并由此出现了各种不同义项。好了，我们一起来看一下吧！
+
+(1) 手艺 → 手艺，手工艺（品）  
+只有自己掌握的技术 →（专门）职业
+
+<!-- 插图：工匠们在手工雕刻制作石雕和器物 -->
+
+单词craft的第一个义项“手艺，手工艺品”，我们可以将这个词义看作是源自于其本义的义项。用手艺做出的精致物品就是“手工艺品”。拥有这种“手艺”或制作“手工艺品”才能的人就是拥有“专门职业”的人。以前几乎所有的建筑都是通过人们手工建造的，因此“手艺”就成了自己的“专门职业”。
+
+> The store sells the local **crafts**.
+> 这家商店出售当地的手工艺品。
+
+> Young people should develop their own **crafts**.
+> 年轻人应该开发自己的技艺。
+
+<!-- p.508 -->
+
+## 2. 以前手工制造的船 →（小）船，飞机，宇宙飞船
+
+::: {.etymo}
+虽然现在所有的东西几乎都是用机器制造的，但是在以前，船之类
+的东西都是人们手工制造出来的。于是craft由“手工制作的东西”变成了
+“帆船”。由在大海中航行的“船”又变成了“飞机”、“宇宙飞船”。
+一般来讲，我们所说的craft指的是“小船”，飞机用aircraft来表示，宇宙
+飞船用spacecraft来表示。
+:::
+
+::: {.mnemonic}
+**温馨小贴士**
+
+NASA是National Aeronautics and Space Administration（美国国家航空航天局）的缩写。
+:::
+
+> The scientists of NASA manufactured a **spacecraft**.
+> 美国国家航空航天局的科学家们制造出了宇宙飞船。
+
+> Search and rescue **crafts** reached the scene of the crash this morning.
+> 搜索和营救机今天早晨到达了事故现场。
+
+## 3. 用手艺来蒙蔽别人的眼睛 → 骗术
+
+::: {.etymo}
+大家听过押宝吗？正如图片所示，押宝是
+用骗术deception来骗取对方的钱财的行为，完全
+就是欺骗fraud。玩押宝的时候，如果你仔细观
+察押宝人的动作，会觉得快得让人有点儿头晕
+脑胀。因此看的人很难分清哪儿有什么东西，
+于是只能输钱。这是说明craft的第三个义项“通过手艺骗人”，即“骗
+术”。最后，craft的形容词crafty也由“使用手艺（骗术）”发展成了
+“狡猾的”的意思，这个单词经常在考试中出现，大家一定要注意哦！
+:::
+
+> They used **craft and guile** to close the deal.
+> 他们用精明狡猾的骗术完成了这笔交易。
+
+> The businessman used a **crafty** way of avoiding paying tax.
+> 这名商人利用骗术来避税。
+
+- **craft** [krɑːft] *n.* ①手艺，手工艺（品）；（专门）职业；②（小）船，飞机，宇宙飞船；③骗术
+  - the carpenter's craft 木匠的手工艺品
+  - crafts fair 手工艺品博览会
+  - a craft to get across the river 一条过河的小船
+  - any craft in the painting 画中的某种骗术
+- **crafty** [ˈkrɑːfti] *adj.* 狡猾的 = sly, cunning
+
+**Voca Map：craft**
+- 本义：手艺
+  - 手艺 → 技术，手艺，手工艺品
+  - 只有自己掌握的技术 → （专门）职业
+  - 以前手工制造的船 → （小船），飞机，宇宙飞船
+  - 打马虎眼来蒙蔽别人的眼睛 → 骗术
+
+<!-- p.509 -->
+
+## 3. 雕刻的记号 character ①性格，特性；②（电影或小说中出场的）人物；③人格
+
+::: {.etymo}
+人们经常说“那孩子真有个性”。这里个性character指的是“……性格的所有者”。不过需要注意的是，同样表示“人、人物”的单词person与character之间有很严格的区别undeniable difference：person是“有某种特征的个人”，而character则主要指“电影或小说中出场的人物”。单词character的词源义是“雕刻的记号engreved mark，象征symbol”，由该词源义衍生出了很多不同的义项。接下来，我们就一起来看一下这些义项吧。
+:::
+
+(1) 某人区别于别人的特征→性格，特性
+
+前面我们已经学过character的原意是“雕刻的记号”。不管是在墙壁还是地面上，只要雕刻上了某种记号，就有了某些特征或者象征。同样，如果说某人有“雕刻上的记号”，指的是他拥有独特的“性格，特性”。神奇的是，character的派生词characteristic既可以用作为形容词“独特的”，又可以用作名词“特征”。
+
+> My friend's **character** is opposite to mine.
+> 我朋友和我正性格相反。
+
+> The rural town has the unique **character**.
+> 农村小镇有它的独特个性。
+
+(2) 在电影和小说中，有着（独特）特征的人物→（出场）人物
+
+前面我们已经提到过character作为“人物”这个意思讲时，与我们平时经常所说的person“（个别的）人物”不同。它指的是小说或电影中的“（出场）人物”。右图就是animation character漫画人物。比如，the main character in the novel是“小说的主人公”的意思。另外，character作为“人物”讲时，主要指的是像“怪人”或“奇人”那样的奇特人物。
+
+<!-- 插图：卡通人物米老鼠、唐老鸭及一位女士的照片 -->
+
+> In the novel, the main **character** has left his wife and children.
+> 小说的主人公抛弃了他的妻子和孩子。
+
+> The original techniques of the Disney Studio led to the development of **character** animation.
+> 迪士尼工作室的独创技术引领了人物动画的发展。
+
+(3) 区别于普通人的道德特征→人格
+
+前面我们了解了character的第一个义项是“某
+
+<!-- p.510 -->
+
+人区别于他人的特征”，character的第三个义项就是由“区别于普通人的道德特征”发展而来的“人格，品性”。这两个义项之间有一个共同点，即：不管怎么样都是“区别于他人的特征”。我想大家身边也会有那种自觉守法的好人吧！想着这个人的同时也就把character的“人格，品性”这个词义印在脑海里了。这样也就能很快地理解了。
+
+> The campaign was accused of **character assassination** because of its negative ads.
+> 这次竞选活动因其负面广告而被指控人身攻击。
+> （character assassination人身攻击）
+
+> I respect my mother because she is a woman of great **character**.
+> 我尊重我的母亲，因为她是一个伟大的女人。
+
+- **character** [ˈkærəktə] *n.* ①性格，特征；②（出场）人物；③人格，品性
+  - character assassination 人身攻击
+  - the character of the American people 美国人的特点
+  - a man of great character 拥有伟大人格的人，一个有好性格的人
+- **characterized** [ˈkærəktəraɪzd] *adj.* 有特点的
+- **characteristic** [ˌkærəktəˈrɪstɪk] *n.* 特征，特性（feature） *adj.* 典型的
+- **charaterize** [ˈkærəktəraɪz] *v.* 描绘特性，塑造人物
+
+**Voca Map**
+- character 本义：雕刻的记号
+  - 本人区别于他人的特征 → 性格，特性
+  - 在电影和小说明中有着（独特）特征的人物 → （出场）人物
+  - 区别于普通人的道德特性 → 人格
+
+::: {.mnemonic}
+**温馨小贴士**
+
+与“性格“相关的词汇整理：character（有个性的）性格，特性；
+personality（展现在别人面前的）性格，个性；
+disposition（感情的）气质、倾向、意向；
+temperament（感情上的）气质，性格；（跟disposition相同）；
+quality（拥有的）资质，能力
+:::
+
+## 4. 结束、限度term①期间，学期；②话，语言；说话；③[复数]关系，条件
+
+<!-- 插图：一辆终点站的公交车 -->
+
+::: {.etymo}
+在学习term之前，我们先一起来看一下有关term的两个有趣的例子吧。大家都知道公交车站terminal吧？当公交车到站的时候就不会再往前走了，车站就是公交车的“终点，终点站”。有一部科幻的电影叫《终结者》terminator。terminator是源于动词terminate结束，使终结的表示人的名词，即“终结者”的意思。这两个单词中所含有的term的原意是“结束end，限度limit”。多义词的核心就是它的原意，term的原意就是“结束，限度”，大家一定要牢牢记住哦！
+:::
+
+(1) 时间的结束→期间，学期
+
+世上所有的事情都是有始有终的。季节、学期、寿命也是如此……某件事情从开始直到“结束”的时间就是“期间”的意思。比如，如果教授说“这个报告要在下周五前交上来！”，报告就要在从今天到下周五的“期间”内完成。词组the term of a contract的意思是“合约期间”。
+
+<!-- p.511 -->
+
+> I made fine records this **term**.
+> 这学期我的成绩很好。
+
+> In the long **term**, alcohol causes high blood pressure.
+> 从长远来看，酒精会导致高血压。
+
+> The flagrant murderer was sentenced to the maximum **term** of imprisonment.
+> 这位罪大恶极的杀人犯被判处最长的刑期。
+
+(2) 想法的结束→话，语言；说话
+
+人脑中总会有很多想法thought。虽然我们可以用文字来表达头脑中的想法，但这些想法最终还是通过“话，语言”来表达的。
+
+单词term的“话，语言”这个义项，经常以词组medical term医学用语，technical term专门用语，economic term经济用语的形式出现。
+
+另外，term还可以用作动词，表示“说……，称……”。比如，term him a liberalist的意思是“称他为自由主义者”。（当然，term作动词时主要用作被动语态哦！）
+
+<!-- 插图：手握笔在纸上书写 -->
+
+> Many legal **terms** have more than one meaning.
+> 很多法律术语不止一个意义。
+
+> 'Multimedia' is the **term** for any technique combining sounds and images.
+> “多媒体”是一个专业术语，具体是指把声音和图像结合起来的一种技术。
+
+> His new policy is **termed** radical.
+> 他的新政策被认为是具有革命性的。
+
+(3) 两个人之间协商的结束→[复数]关系，条件
+
+<!-- 插图：人们在售房标牌前协商交谈 -->
+
+不管是两个人之间还是两个国家之间，如果两者之间协商好了，就表示形成了一定的“关系，条件”。可是为了形成“关系，条件”，最重要的就是需要“两者”的共同存在。自己一个人是谈不上什么“关系，条件”的。因此，作“关系，条件”之义讲时，term一定要用其复数形式terms。在term所有的义项中，第三个义项是最重要的，大家学习的时候一定要特别注意哦！
+
+> Under the **terms** of the contract, the debt would be repaid over 20 years.
+> 根据合约条件，债务会在20年内偿还完。
+
+> It is a mistake to think of Florida only in **terms** of its tourist attractions.
+> 如果仅将佛罗里达看作是观光胜地的话，那可就失策了。
+
+<!-- p.512 -->
+
+- **term** [tɜːm] *n.* ①期间，学期；②话，语言；③[复数]关系，条件  
+  *vt.* 说……，称……
+  - medical/legal/economic term 医学 / 法律 / 经济用语
+  - the term of a contract 合同期间
+  - prison term 刑期
+  - the end of the summer term 夏季学期末
+  - the terms of the contract 合约的条件
+  - in terms of 就……而言，从……方面来说 \*terms 是“关系”的意思
+  - be on good terms with 同某人关系好
+
+**Voca Map**
+- term（本文：结束）
+  - 时间的结束 → 期限
+  - 想法的结束 → 话、语言、说话
+  - 两个人之间的协商结束 → 关系，条件（多作复数形式terms）
+
+---
+
+## 单词回顾
+
+::: {.etymo}
+1. **casual** 的原意：（在意想不到的情况下）发生的……
+:::
+
+   - ①事情在无计划的情况下发生的 → ______
+   - ②虽然不在计划之中，但如果需要的话 → ______
+   - ③没有好好打扮，随便着装 → ______
+
+2. **craft** 的原意：手艺
+   - ①手艺 → 手艺，手工艺（品）；只有自己掌握的技术 → ______
+   - ②以前手工制作的船 → ______
+   - ③打马虎眼来蒙蔽别人的眼睛 → ______
+
+3. **character** 的原意：雕刻的记号
+   - ①某人区别于他人的特征 → ______
+   - ②在电影和小说中，有着（独特）特征的人物 → ______
+   - ③区别于普通人的道德特征 → ______
+
+4. **term** 的原意：结束
+   - ①时间的结束 → ______
+   - ②想法的结束 → ______
+   - ③两个人之间的协商结束（复数形式 terms） → ______
+
+---
+
+**答案** 1. ①偶然的、不经意的 ②不定期的、偶尔的 ③非正式的、便装的 2. ①（专门）职业 ②（小）船、飞机、宇宙飞船 ③骗术 3. ①性格，特性 ②（出场）人物 ③人格 4. ①期间，学期 ②言，语言，说话 ③关系
+
+<!-- p.513 -->
+
+## 确认并攻克下列单词
+
+### 一、请写出下面单词的词义。
+
+1. casual ① ______ ② 不定期的，偶尔的 ③ ______
+2. craft ① 手工艺（品）；（专门）职业 ② （小）船、飞机，宇宙飞船 ③ ______
+3. character ① ______ ② （电影或小说中出场的）人物 ③ ______
+4. term ① ______ ② 话，语言；说话 ③ ______ [复数]
+
+### 二、请写出下列阴影标识部分的单词。
+
+1. 他对学习和学分**漠不关心** ______。
+2. 他的**手艺** ______ 让人为之感叹。
+3. 我识破了他的**骗术** ______。
+4. 那位教授的**人格** ______ 高尚。
+5. 贷款的**偿还期限** ______ 是15年。
+6. 我们两个人的**关系** ______ 很好。
+
+### 三、请找出下列阴影部分单词的同义词，或者选择能够填入空格的单词。
+
+1. Mike has ______ work, but mostly he is unemployed.
+   A. alert
+   B. casual
+   C. constant
+
+2. The criminal received the maximum **term** of imprisonment.
+   A. penalty
+   B. punishment
+   C. period
+
+3. Their schemes to evade taxes were very **crafty**.
+   A. bright
+   B. evil
+   C. cunning
+
+4. Delivery is within the ______ of this contract.
+   A. term
+   B. terms
+   C. termination
+
+---
+
+## 本日词汇速查（8 词）
+
+| 单词 | 音标 | 词性 | 释义 |
+|---|---|---|---|
+| [casual]{.headword} | ˈkæʒuəl | adj | ①偶然的，不经意间的；②不定期的，偶尔的；③随意的 |
+| [casualty]{.headword} | ˈkæʒuəlti | n | 意外事故，伤亡人员 |
+| [craft]{.headword} | krɑːft | n | ①手艺，手工艺（品）；（专门）职业；②（小）船，飞机，宇宙飞船；③骗术 |
+| [crafty]{.headword} | ˈkrɑːfti | adj | 狡猾的 = sly, cunning |
+| [character]{.headword} | ˈkærəktə | n | ①性格，特征；②（出场）人物；③人格，品性 |
+| [characterized]{.headword} | ˈkærəktəraɪzd | adj | 有特点的 |
+| [characteristic]{.headword} | ˌkærəktəˈrɪstɪk | n | 特征，特性（feature） *adj.* 典型的 |
+| [charaterize]{.headword} | ˈkærəktəraɪz | v | 描绘特性，塑造人物 |
+
